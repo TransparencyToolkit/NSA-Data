@@ -9,7 +9,7 @@ class FeedParser
 
   # Get all items from feed
   def pullItems
-    (1..60).each do |num|              
+    (1..60).each do |num|
       feed = Nokogiri::XML(open('https://freesnowden.is/feed?paged='+num.to_s))
       feed.xpath('//item').each do |i| 
         item_parsed = parseItem(i)
@@ -37,6 +37,20 @@ class FeedParser
     return raw.text if raw
   end
 
+  # Extract list of terms from categories
+  def extractFromCategories(categories, extractlist)
+    json = JSON.parse(File.read(extractlist))
+    outarr = Array.new
+    
+    json.each do |e|
+      if categories.include?(e["Tag"]) || categories.include?(e["Tag"].downcase)
+        outarr.push(e["HR Tag"])
+      end
+    end
+
+    return outarr.uniq
+  end
+
   # Parse item attributes
   def parseItem(i)
     temphash = Hash.new
@@ -44,6 +58,8 @@ class FeedParser
     temphash[:link] = getText(i.at('link'))
     temphash[:pub_date] = getText(i.at('pubDate'))
     temphash[:categories] = handleMultiple(i.xpath('category'))
+    temphash[:document_topic] = extractFromCategories(temphash[:categories], "../extract-lists/document_topic.json")
+    temphash[:agency] = extractFromCategories(temphash[:categories], "../extract-lists/agencies.json")
     temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
     temphash[:document_date] = getText(i.at('document_date'))
     temphash[:released_date] = getText(i.at('released_date'))
