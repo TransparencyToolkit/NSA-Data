@@ -1,6 +1,7 @@
 require 'open-uri'
 require 'nokogiri'
 require 'json'
+require 'uploadconvert'
 
 class FeedParser
   def initialize
@@ -51,19 +52,53 @@ class FeedParser
     return outarr.uniq
   end
 
+  # Get PDFs
+  def downloadPDFs(pdfs)
+    patharr = Array.new
+
+    pdfs.each do |p|
+      path = p.split("/").last
+      if !File.exist?("../docs/"+path)
+        `wget --no-check-certificate -P ../docs #{p}`
+      end
+      patharr.push(path)
+    end
+
+    return patharr
+  end
+
+  # Get text from PDFs
+  def ocr(paths)
+    text = ""
+    paths.each do |p|
+      text += p+": \n" if paths.length > 1  
+      u = UploadConvert.new("../docs/"+p)
+      text += u.handleDoc # Fix this
+      text += "\n\n" if paths.length > 1
+    end
+    puts text
+
+    return text
+  end
+
   # Parse item attributes
   def parseItem(i)
     temphash = Hash.new
     temphash[:title] = getText(i.at('title'))
     temphash[:link] = getText(i.at('link'))
     temphash[:pub_date] = getText(i.at('pubDate'))
+
     temphash[:categories] = handleMultiple(i.xpath('category'))
     temphash[:document_topic] = extractFromCategories(temphash[:categories], "../extract-lists/document_topic.json")
     temphash[:agency] = extractFromCategories(temphash[:categories], "../extract-lists/agencies.json")
+
     temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
     temphash[:document_date] = getText(i.at('document_date'))
     temphash[:released_date] = getText(i.at('released_date'))
+
     temphash[:pdf] = handleMultiple(i.xpath('pdfs').xpath('pdf'))
+    temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
+    temphash[:doc_text] = ocr(temphash[:pdf_paths])
     
     return temphash
   end
