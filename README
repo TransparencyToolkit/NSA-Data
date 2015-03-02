@@ -1,1 +1,14 @@
-This is a set of data for the NSA documents API. It includes all the documents, metadata on all the documents, and all the lists of terms extracted from the documents to generate the metadata (codewords, program names, intelligence agency names, etc.)
+The published Snowden documents in machine readable form with some useful metadata.
+
+get-data: Scripts for getting and parsing the data.
+docs: All the PDFs of the NSA documents.
+extract-lists: Lists of terms extracted from text and tags.
+
+Terms Extracted from Manual Tags:
+Document topic
+Agency names
+
+Terms Extracted from Text:
+Country names
+NSA codewords
+SIGADs

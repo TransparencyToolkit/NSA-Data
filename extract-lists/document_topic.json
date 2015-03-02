@@ -1,0 +1,42 @@
+[
+  {
+    "Tag": "phone_metadata",
+    "HR Tag": "Phone Metadata",
+    "Description": "Phone metadata"
+  },
+  {
+    "Tag": "internet_metadata",
+    "HR Tag": "Internet Metadata",
+    "Description": "Internet metadata"
+  },
+  {
+    "Tag": "phone_content",
+    "HR Tag": "Phone Content",
+    "Description": "Phone content"
+  },
+  {
+    "Tag": "internet_content",
+    "HR Tag": "Internet Content",
+    "Description": "Internet content"
+  },
+  {
+    "Tag": "computer_network_operations",
+    "HR Tag": "Computer Network Operations",
+    "Description": "Hacking operations"
+  },
+  {
+    "Tag": "information_operations",
+    "HR Tag": "Information Operations",
+    "Description": "Propaganda and manipulation of information"
+  },
+  {
+    "Tag": "encryption_cryptanalysis",
+    "HR Tag": "Encryption Cryptanalysis",
+    "Description": "Documents about encryption, Tor, quantum computing, and related"
+  },
+  {
+    "Tag": "internal_procedures",
+    "HR Tag": "Internal Procedures",
+    "Description": "Organizational documents (audit, budget, legal, relations with other orgs)"
+  }
+]

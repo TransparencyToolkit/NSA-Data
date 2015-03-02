@@ -1,0 +1,47 @@
+[
+  {
+    "Tag": "NSA",
+    "HR Tag": "NSA",
+    "Description": "National Security Agency - US signals intelligence"
+  },
+  {
+    "Tag": "GCHQ",
+    "HR Tag": "GCHQ",
+    "Description": "Government Communications Headquarters - UK signals intelligence"
+  },
+  {
+    "Tag": "CSEC",
+    "HR Tag": "CSE",
+    "Description": "Communications Security Establishment Canada - Canadian signals intelligence"
+  },
+  {
+    "Tag": "GCSB",
+    "HR Tag": "GCSB",
+    "Description": "Government Communications Security Bureau - New Zealand signals intelligence"
+  },
+  {
+    "Tag": "ASD",
+    "HR Tag": "ASD",
+    "Description": "Australian Signals Directorate - Australian SIGINT"
+  },
+  {
+    "Tag": "DSD",
+    "HR Tag": "ASD",
+    "Description": "Defence Signals Directorate - Australian SIGINT (former name)"
+  },
+  {
+    "Tag": "CSE",
+    "HR Tag": "CSE",
+    "Description": "Communications Security Establishment - Canadian signals intelligence"
+  },
+  {
+    "Tag": "BND",
+    "HR Tag": "BND",
+    "Description": "Bundesnachrichtendienst - German intelligence agency"
+  },
+  {
+    "Tag": "AIVD",
+    "HR Tag": "AIVD",
+    "Description": "Algemene Inlichtingen- en Veiligheidsdienst - Dutch intelligence agency"
+  }
+]
