@@ -7,8 +7,11 @@ extract-lists: Lists of terms extracted from text and tags.
 Terms Extracted from Manual Tags:
 Document topic
 Agency names
+Country names
+Codewords
 
 Terms Extracted from Text:
-Country names
-NSA codewords
 SIGADs
+Country names
+Codewords
+
