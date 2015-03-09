@@ -1,3974 +1,4830 @@
-[
-  {
+{
+  "ACIDWASH": {
     "codeword": "ACIDWASH",
     "description": "Covert access point for a mobile phone network in Afghanistan, part of the MYSTIC program * *\n"
   },
-  {
+  "ACORN": {
     "codeword": "ACORN",
     "description": "Compartment for Top Secret COMINT information (1950-1951) *\n"
   },
-  {
+  "ACCORDIAN": {
     "codeword": "ACCORDIAN",
     "description": "Type 1 Cryptographic algorithm used in a number of crypto products\n"
   },
-  {
+  "ACRIDMINI": {
     "codeword": "ACRIDMINI",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "AETHER": {
     "codeword": "AETHER",
     "description": "ONI tool \"to correlate seemingly disparate entities and relationships, to identify networks of interest, and to detect patterns\" *\n"
   },
-  {
+  "AGILITY": {
     "codeword": "AGILITY",
     "description": "NSA internet information tool or database\n"
   },
-  {
+  "AGILEVIEW": {
     "codeword": "AGILEVIEW",
     "description": "NSA internet information tool or database\n"
   },
-  {
+  "AIRGAP": {
     "codeword": "AIRGAP",
     "description": "Database which deals with priority DoD missions\n"
   },
-  {
+  "AIRHANDLER": {
     "codeword": "AIRHANDLER",
     "description": "NSA-G operations center for producing intelligence from Afghanistan * \n"
   },
-  {
+  "AIRSTEED": {
     "codeword": "AIRSTEED",
     "description": "Cell phone tracking program of the Global Access Operations (GAO) *\n"
   },
-  {
+  "AIRWOLF": {
     "codeword": "AIRWOLF",
     "description": "?\n"
   },
-  {
+  "ALAMITO": {
     "codeword": "ALAMITO",
     "description": "The mission of Mexico at the United Nations in New York\n"
   },
-  {
+  "ALPHA": {
     "codeword": "ALPHA",
     "description": "Retired SIGINT Exchange Designator for Great Britain\n"
   },
-  {
+  "ALTEREDCARBON": {
     "codeword": "ALTEREDCARBON",
     "description": "An IRATEMONK implant for Seagate drives *\n"
   },
-  {
+  "ALTEREGO": {
     "codeword": "ALTEREGO",
     "description": "A type of Question-Focused Dataset based on E.164\n"
   },
-  {
+  "AMBERJACK": {
     "codeword": "AMBERJACK",
     "description": "SIGINT/EW collection and exploitation system\n"
   },
-  {
+  "AMBLE": {
     "codeword": "AMBLE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "AMBULANT (AMB)": {
     "codeword": "AMBULANT (AMB)",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "ANCHORY": {
     "codeword": "ANCHORY",
     "description": "NSA software system which provides web access to textual intelligence documents\n"
   },
-  {
+  "ANGRYNEIGHBOR": {
     "codeword": "ANGRYNEIGHBOR",
     "description": "Family of radar retro-reflector tools used by NSA's TAO division *\n"
   },
-  {
+  "APALATCHEE": {
     "codeword": "APALATCHEE",
     "description": "The EU mission in New York\n"
   },
-  {
+  "APERIODIC": {
     "codeword": "APERIODIC",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "APERTURESCIENCE": {
     "codeword": "APERTURESCIENCE",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "APEX": {
     "codeword": "APEX",
     "description": "See Abbreviations listing\n"
   },
-  {
+  "APPLE1": {
     "codeword": "APPLE1",
     "description": "Upstream collection site\n"
   },
-  {
+  "APRIL STRAWBERY": {
     "codeword": "APRIL STRAWBERY",
     "description": "Small-scale program that researched vulnerabilities in computer networks running critical infrastructure *\n"
   },
-  {
+  "APSTARS": {
     "codeword": "APSTARS",
     "description": "NSA tool that provides \"semantic integration of data from multiple sources in support of intelligence processing\" *\n"
   },
-  {
+  "AQUADOR": {
     "codeword": "AQUADOR",
     "description": "Merchant ship tracking tool\n"
   },
-  {
+  "ARGYLEALIEN": {
     "codeword": "ARGYLEALIEN",
     "description": "Method to cause a loss of data by exploiting zeroization of hard-drives *\n"
   },
-  {
+  "ARKSTREAM": {
     "codeword": "ARKSTREAM",
     "description": "Implant used to reflash BIOS, installed by remote access or intercepted shipping\n"
   },
-  {
-    "codeword": "ARTIFICE",
-    "description": "SSO corporate partner (foreign?) *\n"
-  },
-  {
-    "codeword": "AUTOSOURCE",
-    "description": "NSA tool or database\n"
-  },
-  {
-    "codeword": "AQUACADE",
-    "description": "A class of SIGINT spy satellites (formerly RHYOLITE)\n"
-  },
-  {
-    "codeword": "ARCA",
-    "description": "SIGINT Exchange Designator for ?\n"
-  },
-  {
-    "codeword": "ARGON",
-    "description": "Satellite mapping program\n"
-  },
-  {
+  "ARTIFICE": {
     "codeword": "ARTIFICE",
     "description": "SSO corporate partner under the STORMBREW program\n"
   },
-  {
+  "AUTOSOURCE": {
+    "codeword": "AUTOSOURCE",
+    "description": "NSA tool or database\n"
+  },
+  "AQUACADE": {
+    "codeword": "AQUACADE",
+    "description": "A class of SIGINT spy satellites (formerly RHYOLITE)\n"
+  },
+  "ARCA": {
+    "codeword": "ARCA",
+    "description": "SIGINT Exchange Designator for ?\n"
+  },
+  "ARGON": {
+    "codeword": "ARGON",
+    "description": "Satellite mapping program\n"
+  },
+  "ASPHALT": {
     "codeword": "ASPHALT",
     "description": "Project to increase the volume of satellite intercepts at the Menwith Hill Station in the UK * \n"
   },
-  {
+  "ASPHALT-PLUS": {
     "codeword": "ASPHALT-PLUS",
     "description": "See above\n"
   },
-  {
+  "ASSOCIATION": {
     "codeword": "ASSOCIATION",
     "description": "NSA analytical tool or database\n"
   },
-  {
+  "ATALANTA": {
     "codeword": "ATALANTA",
     "description": "EU anti-piracy operation\n"
   },
-  {
+  "ATLAS": {
     "codeword": "ATLAS",
     "description": "CSEC database\n"
   },
-  {
+  "AUNTIE": {
     "codeword": "AUNTIE",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "AURORAGOLD (AG)": {
     "codeword": "AURORAGOLD (AG)",
     "description": "Repository of data about international GSM/UMTS networks *\n"
   },
-  {
+  "AUTO ASSOCIATION": {
     "codeword": "AUTO ASSOCIATION",
     "description": "Second party database\n"
   },
-  {
+  "AZUREPHOENIX": {
     "codeword": "AZUREPHOENIX",
     "description": "Cable tapping facility operated in cooperation with a trusted 3rd Party agency, part of the RAMPART-A program *\n"
   },
-  {
+  "BALLOONKNOT": {
     "codeword": "BALLOONKNOT",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "BAMBOOSPRING": {
     "codeword": "BAMBOOSPRING",
     "description": "?\n"
   },
-  {
+  "BANANAGLEE": {
     "codeword": "BANANAGLEE",
     "description": "Software implant that allows remote Jetplow firmware installation\n"
   },
-  {
+  "BANISTER": {
     "codeword": "BANISTER",
     "description": "The Columbian trade bureau in New York\n"
   },
-  {
+  "BANYAN": {
     "codeword": "BANYAN",
     "description": "NSA tactical geospatial correlation database\n"
   },
-  {
+  "BARNFIRE": {
     "codeword": "BARNFIRE",
     "description": "TAO tool to erase the BIOS on a brand of servers that act as a backbone to many rival governments *\n"
   },
-  {
+  "BASECOAT": {
     "codeword": "BASECOAT",
     "description": "Program targeting the mobile phone network on the Bahamas (sigad: US-3310A) *\n"
   },
-  {
+  "BASTE": {
     "codeword": "BASTE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "BATON": {
     "codeword": "BATON",
     "description": "Type 1 Block cipher algorithm, used with many crypto products \n"
   },
-  {
+  "BEACHHEAD": {
     "codeword": "BEACHHEAD",
     "description": "Computer exploit delivered by the FERRETCANON system *\n"
   },
-  {
+  "BEAMER": {
     "codeword": "BEAMER",
     "description": "?\n"
   },
-  {
+  "BELLTOPPER": {
     "codeword": "BELLTOPPER",
     "description": "NSA database *\n"
   },
-  {
+  "BELLVIEW": {
     "codeword": "BELLVIEW",
     "description": "SIGINT reporting tool\n"
   },
-  {
+  "BERSERKR": {
     "codeword": "BERSERKR",
     "description": "Persistent backdoor that is implanted into the BIOS and runs from System Management Mode * *\n"
   },
-  {
+  "BIGOT": {
     "codeword": "BIGOT",
     "description": "List of personnel cleared for access to highly sensitive information or operations\n"
   },
-  {
+  "BINOCULAR": {
     "codeword": "BINOCULAR",
     "description": "Former NSA intelligence dissemination tool\n"
   },
-  {
+  "BIRCHWOOD": {
     "codeword": "BIRCHWOOD",
     "description": "Upstream collection site\n"
   },
-  {
+  "BLACKBOOK": {
     "codeword": "BLACKBOOK",
     "description": "ODNI tool for large-scale semantic data analysis *\n"
   },
-  {
+  "BIRDWATCHER": {
     "codeword": "BIRDWATCHER",
     "description": "Automated survey system * \n"
   },
-  {
+  "BLACKFOOT": {
     "codeword": "BLACKFOOT",
     "description": "The French mission at the United Nations in New York\n"
   },
-  {
+  "BLACKHAWK": {
     "codeword": "BLACKHAWK",
     "description": "Program for surveillance of the Turkish mission at the UN in New York\n"
   },
-  {
+  "BLACKHEART": {
     "codeword": "BLACKHEART",
     "description": "Collection through FBI implants *\n"
   },
-  {
+  "BLACKMAGIC": {
     "codeword": "BLACKMAGIC",
     "description": "NSA database or tool\n"
   },
-  {
+  "BLACKNIGHT": {
     "codeword": "BLACKNIGHT",
     "description": "Filtering or selection tool *\n"
   },
-  {
+  "BLACKPEARL": {
     "codeword": "BLACKPEARL",
     "description": "NSA database with SIGINT 5-tuple (TCP/IP), identified routers, routing protocols, and SIGINT access points, maybe also case notations * * *\n"
   },
-  {
+  "BLACKWATCH": {
     "codeword": "BLACKWATCH",
     "description": "NSA reporting tool\n"
   },
-  {
+  "BLARNEY": {
     "codeword": "BLARNEY",
     "description": "Program for intercepting phone and internet traffic at switches in the US (since 1978)*\n"
   },
-  {
+  "BLEAKINQUIRY": {
     "codeword": "BLEAKINQUIRY",
     "description": "Metadata database of potentially exploitable VPNs *\n"
   },
-  {
+  "BLINDDATE": {
     "codeword": "BLINDDATE",
     "description": "Connection for afloat computer network operations like aboard USS Annapolis *\n"
   },
-  {
+  "BLUEANCHOR": {
     "codeword": "BLUEANCHOR",
     "description": "Partner providing a network access point for the YACHTSHOP program\n"
   },
-  {
+  "BLUEFISH (BLFH)": {
     "codeword": "BLUEFISH (BLFH)",
     "description": "Compartment of the KLONDIKE control system\n"
   },
-  {
+  "BLUESASH": {
     "codeword": "BLUESASH",
     "description": "Network used by NTOC operational analysts *\n"
   },
-  {
+  "BLUEZEPHYR": {
     "codeword": "BLUEZEPHYR",
     "description": "Sub-program of OAKSTAR\n"
   },
-  {
+  "BOOTY": {
     "codeword": "BOOTY",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "BORGERKING": {
     "codeword": "BORGERKING",
     "description": "Something related to Linux exploits *\n"
   },
-  {
+  "BOTANICREALTY": {
     "codeword": "BOTANICREALTY",
     "description": "Video demodulation tool (formerly: UNCANNY) *\n"
   },
-  {
+  "BOUNDLESSINFORMANT": {
     "codeword": "BOUNDLESSINFORMANT",
     "description": "DNI and DNR metadata visualization tool\n"
   },
-  {
+  "BOURBON": {
     "codeword": "BOURBON",
     "description": "Joint NSA and GCHQ program for breaking Soviet encryption codes (1946-?)*\n"
   },
-  {
+  "BOXINGRUMBLE": {
     "codeword": "BOXINGRUMBLE",
     "description": "Network attack that was countered by QUANTUMDNS *\n"
   },
-  {
+  "BROKENRECORD": {
     "codeword": "BROKENRECORD",
     "description": "NSA tool\n"
   },
-  {
+  "BROKENTIGO": {
     "codeword": "BROKENTIGO",
     "description": "Tool for computer network operations\n"
   },
-  {
+  "BROADSIDE": {
     "codeword": "BROADSIDE",
     "description": "Covert listening post in the US embassy in Moscow\n"
   },
-  {
+  "BROOMSTICK": {
     "codeword": "BROOMSTICK",
     "description": "?\n"
   },
-  {
+  "BRUNEAU": {
     "codeword": "BRUNEAU",
     "description": "Operation against the Italian embassy in Washington DC using LIFESAVER techniques\n"
   },
-  {
+  "BRUTUS": {
     "codeword": "BRUTUS",
     "description": "Tool or program related to MARINA *\n"
   },
-  {
+  "BUFFALOGREEN": {
     "codeword": "BUFFALOGREEN",
     "description": "The name ORANGECRUSH was known to Polish partners *\n"
   },
-  {
+  "BULLDOZER": {
     "codeword": "BULLDOZER",
     "description": "PCI bus hardware implant on intercepted shipping\n"
   },
-  {
+  "BULLRUN": {
     "codeword": "BULLRUN",
     "description": "An NSA COI for decryption of network communications \n"
   },
-  {
+  "BULLSEYE": {
     "codeword": "BULLSEYE",
     "description": "NSG High-Frequency Direction-Finding (HF-DF) network (now called CROSSHAIR)\n"
   },
-  {
+  "BYEMAN (BYE)": {
     "codeword": "BYEMAN (BYE)",
     "description": "Retired SCI control system for overhead collection systems (1961-2005)\n"
   },
-  {
+  "BYZANTINE": {
     "codeword": "BYZANTINE",
     "description": "First word of nicknames for programs involving defense against Chinese cyber-warfare and US offensive cyber-warfare *\n"
   },
-  {
+  "BYZANTINE TRACE": {
     "codeword": "BYZANTINE TRACE",
     "description": "\"intrusion set\" already indentified in 2007 *\n"
   },
-  {
+  "CADENCE": {
     "codeword": "CADENCE",
     "description": "NSA database with tasking dictionaries\n"
   },
-  {
+  "CAJABLOSSOM": {
     "codeword": "CAJABLOSSOM",
     "description": "Automated system for analysing and profiling internet browsing histories\n"
   },
-  {
+  "CAKEBREAD": {
     "codeword": "CAKEBREAD",
     "description": "Codename for Osama bin Laden\n"
   },
-  {
+  "CALYPSO": {
     "codeword": "CALYPSO",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "CANDYGRAM": {
     "codeword": "CANDYGRAM",
     "description": "Laptop mimicking GSM cell tower, sends out SMS whenever registered target enters its area, for tracking and ID of targets\n"
   },
-  {
+  "CANYON": {
     "codeword": "CANYON",
     "description": "Class of COMINT spy satellites (1968-1977)\n"
   },
-  {
+  "CANOE": {
     "codeword": "CANOE",
     "description": "Compartment for Top Secret COMINT information (1952-1953) *\n"
   },
-  {
+  "CANNON LIGHT": {
     "codeword": "CANNON LIGHT",
     "description": "Counterintelligence database of the US Army\n"
   },
-  {
+  "CAPRICORN": {
     "codeword": "CAPRICORN",
     "description": "(former?) database for voice data *\n"
   },
-  {
+  "CAPTIVATEDAUDIENCE": {
     "codeword": "CAPTIVATEDAUDIENCE",
     "description": "Computer implant plug-in to take over a targeted computer’s microphone and record conversations taking place near the device\n"
   },
-  {
+  "CARBOY": {
     "codeword": "CARBOY",
-    "description": "Second Party satellite intercept station at Bude, England\n"
+    "description": "Satellite intercept station near Bude in the UK\n"
   },
-  {
+  "CARBOY II": {
     "codeword": "CARBOY II",
     "description": "Units of ECHELON which break down satellite links into telephone and telegraph channels\n"
   },
-  {
+  "CARILLON": {
     "codeword": "CARILLON",
     "description": "NSA high performance computing center, since 1976 made up of IBM 360s and later four IBM 3033s\n"
   },
-  {
+  "CARPAT": {
     "codeword": "CARPAT",
     "description": "NSA contact chaining algorithm *\n"
   },
-  {
+  "CASport": {
     "codeword": "CASport",
     "description": "NSA user authorization service\n"
   },
-  {
+  "CASTLECRASHER": {
     "codeword": "CASTLECRASHER",
     "description": "Primary technique for executing DNT payloads for Windows computers *\n"
   },
-  {
+  "CATALYST": {
     "codeword": "CATALYST",
     "description": "Computer system capable of automatically analyzing the massive quantities of data gathered across the entire intelligence community *\n"
   },
-  {
+  "CENTER ICE": {
     "codeword": "CENTER ICE",
     "description": "Data center for the exchange of intelligence regarding Afghanistan among the members of the 14-Eyes/SSEUR *\n"
   },
-  {
+  "CENTERMASS": {
     "codeword": "CENTERMASS",
     "description": "NSA tool or database\n"
   },
-  {
+  "CENTRICDUD": {
     "codeword": "CENTRICDUD",
     "description": "Tool that can read and write bytes in the CMOS of a targeted Windows computer *\n"
   },
-  {
+  "CERF CALL MOSES1": {
     "codeword": "CERF CALL MOSES1",
     "description": "Contact Event Record Format"
   },
-  {
+  "CERNET": {
     "codeword": "CERNET",
     "description": "Open Source information used for the TREASUREMAP tool *\n"
   },
-  {
+  "CHALKFUN": {
     "codeword": "CHALKFUN",
     "description": "Analytic tool, used to search the FASCIA database *\n"
   },
-  {
+  "CHAOS": {
     "codeword": "CHAOS",
     "description": "CIA domestic spying operation (1967-1973)\n"
   },
-  {
+  "CHAOSOVERLORD": {
     "codeword": "CHAOSOVERLORD",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "CHASEFALCON": {
     "codeword": "CHASEFALCON",
     "description": "Major program of the Global Access Operations (GAO) *\n"
   },
-  {
+  "CHATTERII": {
     "codeword": "CHATTERII",
     "description": "Communications tool (connecting to 3rd Party agencies?)\n"
   },
-  {
+  "CHEER": {
     "codeword": "CHEER",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "CHESS": {
     "codeword": "CHESS",
     "description": "Compartment of TALENT KEYHOLE for the U-2 spy plane\n"
   },
-  {
+  "CHEWSTICK": {
     "codeword": "CHEWSTICK",
     "description": "NSA tool or database\n"
   },
-  {
+  "CHIMNEYPOOL": {
     "codeword": "CHIMNEYPOOL",
     "description": "Framework or specification of GENIE-compliance for hardware/software implants\n"
   },
-  {
+  "CHIPPEWA": {
     "codeword": "CHIPPEWA",
     "description": "Some communications network, involving Israel *\n"
   },
-  {
+  "CHOCOLATESHIP": {
     "codeword": "CHOCOLATESHIP",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "CHUTE": {
     "codeword": "CHUTE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "CIMBRI": {
     "codeword": "CIMBRI",
     "description": "Probably a metadata database *\n"
   },
-  {
+  "CINEPLEX": {
     "codeword": "CINEPLEX",
     "description": "NSA tool or database\n"
   },
-  {
+  "CIRCUIT RAPTOR": {
     "codeword": "CIRCUIT RAPTOR",
     "description": "System for processing data from circuit switched telephone networks *\n"
   },
-  {
+  "CLARIFYMIND": {
     "codeword": "CLARIFYMIND",
     "description": "Pilot program for secure wireless communications *\n"
   },
-  {
+  "CLASSIC": {
     "codeword": "CLASSIC",
     "description": "?\n"
   },
-  {
+  "CLASSIC BULLSEYE": {
     "codeword": "CLASSIC BULLSEYE",
     "description": "Worldwide ocean SIGINT surveillance or direction finding system (1960's-?)\n"
   },
-  {
+  "CLASSIC TROLL": {
     "codeword": "CLASSIC TROLL",
     "description": "System that increases the probability of SIGINT intercept by 500%, supporting tactical and national requirements\n"
   },
-  {
+  "CLASSIC WIZARD": {
     "codeword": "CLASSIC WIZARD",
     "description": "Satellite ocean surveillance system for ELINT\n"
   },
-  {
+  "CLEVERDEVICE": {
     "codeword": "CLEVERDEVICE",
     "description": "Upstream collection site\n"
   },
-  {
-    "codeword": "CLOUD",
-    "description": "NSA database\n"
-  },
-  {
+  "CLOUD": {
     "codeword": "CLOUD",
     "description": "DSP program implementing graph algorithms in a cloud computing environment *\n"
   },
-  {
+  "CLOUDSHIELD": {
     "codeword": "CLOUDSHIELD",
     "description": "System that terminates a client-side connection to a malicious server and blocks the server's response *\n"
   },
-  {
+  "COASTLINE": {
     "codeword": "COASTLINE",
     "description": "NSA tool or database\n"
   },
-  {
+  "COBALTFALCON": {
     "codeword": "COBALTFALCON",
     "description": "Sub-program of OAKSTAR\n"
   },
-  {
+  "COBRA FOCUS": {
     "codeword": "COBRA FOCUS",
     "description": "NSA-G operations center for producing intelligence from Iraq * \n"
   },
-  {
+  "COGNOS": {
     "codeword": "COGNOS",
     "description": "NSA tool or database\n"
   },
-  {
+  "CORDOBA": {
     "codeword": "CORDOBA",
     "description": "Type 2 Cryptographic algorithm used in a number of crypto chips\n"
   },
-  {
+  "COMBAT SENT": {
     "codeword": "COMBAT SENT",
     "description": "Reconaissance operation\n"
   },
-  {
+  "COMMONDEER": {
     "codeword": "COMMONDEER",
     "description": "Computer exploit for looking whether a computer has security software\n"
   },
-  {
+  "COMMONVIEW": {
     "codeword": "COMMONVIEW",
     "description": "Internal NSA monitoring tool *\n"
   },
-  {
+  "CONFIRM": {
     "codeword": "CONFIRM",
     "description": "NSA database for personell access\n"
   },
-  {
+  "CONJECTURE": {
     "codeword": "CONJECTURE",
     "description": "Network compatible with HOWLERMONKEY \n"
   },
-  {
+  "CONTRAOCTAVE": {
     "codeword": "CONTRAOCTAVE",
     "description": "NSA telephony tasking database * Used to determine 'foreigness' *\n"
   },
-  {
+  "CONVEYANCE": {
     "codeword": "CONVEYANCE",
     "description": "Voice content ingest processor *\n"
   },
-  {
+  "COPILOT": {
     "codeword": "COPILOT",
     "description": "System that automatically scans digital data for things like language, phone and creditcard numbers and attachments *\n"
   },
-  {
+  "COPSE": {
     "codeword": "COPSE",
     "description": "Compartment for Top Secret COMINT information (1949-1950) *\n"
   },
-  {
+  "CORALINE": {
     "codeword": "CORALINE",
     "description": "NSA satellite intercept station at Sabena Seca at Puerto Rico (closed)\n"
   },
-  {
+  "CORALREEF": {
     "codeword": "CORALREEF",
     "description": "Database for VPN crypto attack data *\n"
   },
-  {
+  "CORONA": {
     "codeword": "CORONA",
     "description": "A series of photographic surveillance satellites (1959-1972)\n"
   },
-  {
+  "CO-TRAVELER": {
     "codeword": "CO-TRAVELER",
     "description": "Set of tools for finding unknown associates of intelligence targets by tracking movements based upon cell phone locations *\n"
   },
-  {
+  "COTTONMOUTH (CM)": {
     "codeword": "COTTONMOUTH (CM)",
     "description": "Computer implant devices used by NSA's TAO division\n"
   },
-  {
+  "COTTONMOUTH-I (CM-I)": {
     "codeword": "COTTONMOUTH-I (CM-I)",
     "description": "USB hardware implant providing wireless bridge into target network and loading of exploit software onto target PCs, formerly DEWSWEEPER\n"
   },
-  {
+  "COTTONMOUTH-II (CM-II)": {
     "codeword": "COTTONMOUTH-II (CM-II)",
     "description": "USB hardware host tap provides covert link over USP into target's network co-located with long haul relay; dual-stacked USB connector, consists of CM-I digital hardware plus long haul relay concealed in chassis; hub with switches is concealed in a dual stacked USB connector and hard-wired to provide intra-chassis link.\n"
   },
-  {
+  "COTTONMOUTH-III (CM-III)": {
     "codeword": "COTTONMOUTH-III (CM-III)",
     "description": "Radio Frequency link for commands to software implants and data infiltration/exfiltration, short range inter-chassis link within RJ45 Dual Stacked USB connector\n"
   },
-  {
+  "COURIERSKILL": {
     "codeword": "COURIERSKILL",
     "description": "Filtering or selection tool *\n"
   },
-  {
+  "COWBOY": {
     "codeword": "COWBOY",
     "description": "The DICTIONARY computer used at the Yakima station of ECHELON *\n"
   },
-  {
+  "CRANKSHAFT": {
     "codeword": "CRANKSHAFT",
     "description": "Codename for Osama bin Laden\n"
   },
-  {
+  "CREAM": {
     "codeword": "CREAM",
     "description": "Compartment for Top Secret COMINT information (1946-1947) *\n"
   },
-  {
+  "CREDIBLE": {
     "codeword": "CREDIBLE",
     "description": "Transport of intelligence materials to partner agencies\n"
   },
-  {
+  "CREST": {
     "codeword": "CREST",
     "description": "Database that automatically translates foreign language intercepts in English *\n"
   },
-  {
+  "CRISSCROSS": {
     "codeword": "CRISSCROSS",
     "description": "Database of telecommunications selectors, operated by the CIA and also used by DOJ, DOD and NSA\n"
   },
-  {
+  "CROSSBEAM": {
     "codeword": "CROSSBEAM",
     "description": "GSM module mating commercial Motorola cell with WagonBed controller board for collecting voice data content via GPRS (web), circuit-switched data, data over voice, and DTMF to secure facility, implanted cell tower switch\n"
   },
-  {
+  "CROSSBONES": {
     "codeword": "CROSSBONES",
     "description": "Analytic tool\n"
   },
-  {
+  "CROSSEYEDSLOTH": {
     "codeword": "CROSSEYEDSLOTH",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "CROSSHAIR": {
     "codeword": "CROSSHAIR",
     "description": "NSG High-Frequency Direction-Finding (HF-DF) network (formerly BULLSEYE)\n"
   },
-  {
+  "CRUMPET": {
     "codeword": "CRUMPET",
     "description": "Covert network with printer, server and desktop nodes\n"
   },
-  {
+  "CULTWEAVE": {
     "codeword": "CULTWEAVE",
     "description": "Smaller size SIGINT database *\n"
   },
-  {
+  "CYBERTRANS": {
     "codeword": "CYBERTRANS",
     "description": "A common interface to a number of underlying machine translation systems *\n"
   },
-  {
+  "CYCLONE Hx9": {
     "codeword": "CYCLONE Hx9",
     "description": "Base station router, network in a box using Typhon interface\n"
   },
-  {
+  "CYR": {
     "codeword": "CYR",
     "description": "Intelligence exchange agreement between DIA and the Israeli military intelligence directorate (1968) *\n"
   },
-  {
+  "DAFF": {
     "codeword": "DAFF",
     "description": "Codeword for products of satellite imagery\n"
   },
-  {
+  "DAMEON": {
     "codeword": "DAMEON",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "DANCINGOASIS (DGO)": {
     "codeword": "DANCINGOASIS (DGO)",
     "description": "SSO program collecting data from fiber optic cables between Europe and the Far East (since 2011) *\n"
   },
-  {
+  "DANDERSPRITZ": {
     "codeword": "DANDERSPRITZ",
     "description": "Software tool that spoofs IP and MAC addresses, intermediate redirector node\n"
   },
-  {
+  "DANGERMOUSE": {
     "codeword": "DANGERMOUSE",
     "description": "Tactical SIGINT collecting system for like cell phone calls\n"
   },
-  {
+  "DARDANUS": {
     "codeword": "DARDANUS",
     "description": "Remote SATCOM collection facility\n"
   },
-  {
+  "DAREDEVIL": {
     "codeword": "DAREDEVIL",
     "description": "Shooter/implant as part of the QUANTUM system * \n"
   },
-  {
+  "DARKFIRE": {
     "codeword": "DARKFIRE",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "DARKTHUNDER": {
     "codeword": "DARKTHUNDER",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "DARKQUEST": {
     "codeword": "DARKQUEST",
     "description": "Automated FORNSAT survey system * that can for example identify the presence of a VPN * \n"
   },
-  {
+  "DAUNT": {
     "codeword": "DAUNT",
     "description": "Compartment for Top Secret COMINT information (1959-1960) *\n"
   },
-  {
+  "DECKPIN": {
     "codeword": "DECKPIN",
     "description": "NSA crisis cell activated during emergencies\n"
   },
-  {
+  "DEEPDIVE": {
     "codeword": "DEEPDIVE",
     "description": "An XKEYSCORE related method *\n"
   },
-  {
+  "DEFIANTWARRIOR": {
     "codeword": "DEFIANTWARRIOR",
     "description": "Program under which a host computer that is infected with an exploitable bot can hijacked through a QUANTUMBOT attack and redirected to the NSA *\n"
   },
-  {
+  "DEITYBOUNCE": {
     "codeword": "DEITYBOUNCE",
     "description": "Provides implanted software persistence on Dell PowerEdge RAID servers via motherboard BIOS using Intel's System Management Mode for periodic execution, installed via ArkStream to reflash the BIOS\n"
   },
-  {
+  "DELTA": {
     "codeword": "DELTA",
     "description": "Former SCI control system for intercepts from Soviet military operations\n"
   },
-  {
+  "DENIM": {
     "codeword": "DENIM",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "DESERTWINTER": {
     "codeword": "DESERTWINTER",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "DESPERADO": {
     "codeword": "DESPERADO",
     "description": "NSA software tool to prepare reports\n"
   },
-  {
+  "DEWSWEEPER": {
     "codeword": "DEWSWEEPER",
     "description": "Technique to tap USB hardware hosts *\n"
   },
-  {
+  "DIKTER": {
     "codeword": "DIKTER",
     "description": "SIGINT Exchange Designator for Norway\n"
   },
-  {
+  "DINAR": {
     "codeword": "DINAR",
     "description": "Compartment for Top Secret COMINT information (1961-1965) *\n"
   },
-  {
+  "DIONYSUS": {
     "codeword": "DIONYSUS",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "DIRESCALLOP": {
     "codeword": "DIRESCALLOP",
     "description": "Method to circumvent commercial products that prevent malicious software from making changes to a computer system \n"
   },
-  {
+  "DISCOROUTE": {
     "codeword": "DISCOROUTE",
     "description": "NAC/GCHQ repository for router configuration files from CNE and passive SIGINT, like for example telnet sessions * *\n"
   },
-  {
+  "DISHFIRE": {
     "codeword": "DISHFIRE",
     "description": "NSA database for text messages (SMS)\n"
   },
-  {
+  "DISTANTFOCUS": {
     "codeword": "DISTANTFOCUS",
     "description": "A pod for tactical SIGINT and precision geolocation (since 2005) *\n"
   },
-  {
+  "DISTILLERY": {
     "codeword": "DISTILLERY",
-    "description": "Tactical collection system(?) *\n"
+    "description": "Tool for real time analysis of data streams for SQUEAKY DOLPHIN\n"
   },
-  {
-    "codeword": "DISTILLERY",
-    "description": "Stream-based platform for executing hacking identification applications *\n"
-  },
-  {
+  "DIVERSITY": {
     "codeword": "DIVERSITY",
     "description": "SIGINT Exchange Designator for ? \n"
   },
-  {
+  "DOBIE": {
     "codeword": "DOBIE",
     "description": "The South African consulate and mission at the UN in New York\n"
   },
-  {
+  "DOCKETDICTATE": {
     "codeword": "DOCKETDICTATE",
     "description": "Something related to NSA's TAO division\n"
   },
-  {
+  "DOGCOLLAR": {
     "codeword": "DOGCOLLAR",
     "description": "A type of Question-Focussed Dataset based on the Facebook display name cookie\n"
   },
-  {
+  "DOGHUT": {
     "codeword": "DOGHUT",
     "description": "Upstream collection site\n"
   },
-  {
+  "DOUBLEARROW": {
     "codeword": "DOUBLEARROW",
     "description": "One of NSA's voice processing databases? *\n"
   },
-  {
+  "DRAGGABLEKITTEN": {
     "codeword": "DRAGGABLEKITTEN",
     "description": "An XKEYSCORE Map/Reduce analytic *\n"
   },
-  {
+  "DREADNOUGHT": {
     "codeword": "DREADNOUGHT",
     "description": "NSA operation focused on Ayatollah Khamenei *\n"
   },
-  {
+  "DRINKPARSLEY": {
     "codeword": "DRINKPARSLEY",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "DROPMIRE": {
     "codeword": "DROPMIRE",
     "description": "Passive collection of emanations (e.g. from printers or faxes) by using a radio frequency antenna\n"
   },
-  {
+  "DROPOUTJEEP": {
     "codeword": "DROPOUTJEEP",
     "description": "STRAITBIZARRE-based software implant for iPhone, initially close access but later remotely\n"
   },
-  {
+  "DRTBOX": {
     "codeword": "DRTBOX",
     "description": "System for processing data from mobile communication networks \n"
   },
-  {
+  "DRUID": {
     "codeword": "DRUID",
     "description": "SIGINT Exchange Designator for third party countries\n"
   },
-  {
+  "DRYAD": {
     "codeword": "DRYAD",
     "description": "A US military numeral cipher/authentication system\n"
   },
-  {
+  "DRYTORTUGAS": {
     "codeword": "DRYTORTUGAS",
     "description": "Analytic tool\n"
   },
-  {
+  "DUSKPALLET": {
     "codeword": "DUSKPALLET",
     "description": "SSO interception program for GSM networks in Kenya (US-3270), part of the MYSTIC program *\n"
   },
-  {
+  "DYNAMO": {
     "codeword": "DYNAMO",
     "description": "SIGINT Exchange Designator for Denmark\n"
   },
-  {
+  "EAGLE": {
     "codeword": "EAGLE",
     "description": "Upstream collection site\n"
   },
-  {
+  "EASYKRAKEN": {
     "codeword": "EASYKRAKEN",
     "description": "An IRATEMONK implantation for ARM-based Samsung drives * \n"
   },
-  {
+  "ECHELON": {
     "codeword": "ECHELON",
     "description": "A SIGINT collection network run by Australia, Canada, New Zealand, the United Kingdom, and the United States\n"
   },
-  {
+  "ECHO": {
     "codeword": "ECHO",
     "description": "SIGINT Exchange Designator for Australia\n"
   },
-  {
+  "ECRU (EU)": {
     "codeword": "ECRU (EU)",
     "description": "Compartment of the ENDSEAL control system\n"
   },
-  {
+  "EDEN": {
     "codeword": "EDEN",
     "description": "Upstream collection site\n"
   },
-  {
+  "EGOTISTICALGIRAFFE (EGGI)": {
     "codeword": "EGOTISTICALGIRAFFE (EGGI)",
     "description": "NSA program for exploiting the TOR network *\n"
   },
-  {
+  "EGOTISTICALGOAT (EGGO)": {
     "codeword": "EGOTISTICALGOAT (EGGO)",
     "description": "NSA tool for exploiting the TOR network *\n"
   },
-  {
+  "EIDER": {
     "codeword": "EIDER",
     "description": "Compartment for Top Secret COMINT information (1955-1959) *\n"
   },
-  {
+  "EIKANOL (or: EIKONAL)": {
     "codeword": "EIKANOL (or: EIKONAL)",
     "description": "Joint NSA-BND operation to tap a fiber-optic cable of Deutsche Telekom in Frankfurt, part of the RAMPART-A program\n"
   },
-  {
-    "codeword": "EINSTEIN",
-    "description": "Cell phone network intercepting equipment used by SCS units\n"
-  },
-  {
+  "EINSTEIN": {
     "codeword": "EINSTEIN",
     "description": "Intrusion detection system for US government network gateways (deployed in 2004)\n"
   },
-  {
+  "EINSTEIN 2": {
     "codeword": "EINSTEIN 2",
     "description": "Second version of the EINSTEIN program for detecting malicious network activity\n"
   },
-  {
+  "EINSTEIN 3": {
     "codeword": "EINSTEIN 3",
     "description": "Third version of the EINSTEIN program that will monitor government computer traffic on private sector sites too *\n"
   },
-  {
+  "ELEGANTCHAOS": {
     "codeword": "ELEGANTCHAOS",
     "description": "Large scale FORNSAT data analysis system * \n"
   },
-  {
+  "EMBRACEFLINT": {
     "codeword": "EMBRACEFLINT",
     "description": "Tool for computer network operations\n"
   },
-  {
+  "EMERALD": {
     "codeword": "EMERALD",
     "description": "Alternate codename for operation WHARPDRIVE(?) *\n"
   },
-  {
+  "ENDSEAL (EL)": {
     "codeword": "ENDSEAL (EL)",
     "description": "SCI control system\n"
   },
-  {
+  "ENDUE": {
     "codeword": "ENDUE",
     "description": "A COI for sensitive decrypts of the BULLRUN program\n"
   },
-  {
+  "ENTOURAGE": {
     "codeword": "ENTOURAGE",
     "description": "Directional finder for line of bearing for GSM, UMTS, CDMA, FRS signals, works with NEBULA active interrogator within GALAXY program\n"
   },
-  {
+  "EPICSHELTER": {
     "codeword": "EPICSHELTER",
     "description": "Sophisticated data backup system designed by Edward Snowden *\n"
   },
-  {
+  "EQUATION (Group)": {
     "codeword": "EQUATION (Group)",
     "description": "Nickname given by Kaspersky to a highly advanced computer hacking group, suspected of being tied to NSA *\n"
   },
-  {
+  "ERRONEOUSINGENUITY (ERIN)": {
     "codeword": "ERRONEOUSINGENUITY (ERIN)",
     "description": "NSA tool for exploiting the TOR network *\n"
   },
-  {
+  "ETCHINGSPIN": {
     "codeword": "ETCHINGSPIN",
     "description": "SSO mobile telephone interception program, part of the MYSTIC program *\n"
   },
-  {
+  "EVENINGEASEL": {
     "codeword": "EVENINGEASEL",
     "description": "Program for surveillance of phone and text communications from Mexico's cell phone network (sigad: US-3411), part of the MYSTIC program *\n"
   },
-  {
+  "EVILOLIVE": {
     "codeword": "EVILOLIVE",
     "description": "Iinternet geolocation tool\n"
   },
-  {
+  "EVOLVED MUTANT BROTH": {
     "codeword": "EVOLVED MUTANT BROTH",
     "description": "Second party database\n"
   },
-  {
+  "EYESPY": {
     "codeword": "EYESPY",
     "description": "System that scans data for logos of companies, political parties and other organizations, as well for pictures with faces for facial recognition *\n"
   },
-  {
+  "FACELIFT": {
     "codeword": "FACELIFT",
     "description": "Codeword related to NSA's Special Source Operations division *\n"
   },
-  {
+  "FAIRVIEW": {
     "codeword": "FAIRVIEW",
     "description": "NSA corporate partner with access to international cables, routers, and switches (since 1985)*\n"
   },
-  {
+  "FAIRVIEWCOTS": {
     "codeword": "FAIRVIEWCOTS",
     "description": "System for processing telephony metadata collected under the FAIRVIEW program *\n"
   },
-  {
+  "FAKEDOUBT": {
     "codeword": "FAKEDOUBT",
     "description": "An IRATEMONK implantation for ARM-based Hitachi drives *\n"
   },
-  {
+  "FALLENORACLE": {
     "codeword": "FALLENORACLE",
     "description": "NSA tool or database\n"
   },
-  {
+  "FALLOUT": {
     "codeword": "FALLOUT",
     "description": "DNI metadata ingest processor/database\n"
   },
-  {
+  "FASCIA": {
     "codeword": "FASCIA",
     "description": "DNR metadata ingest processor/database *\n"
   },
-  {
+  "FASCIA II": {
     "codeword": "FASCIA II",
     "description": "Ibidem with a dedicated HCS partition *\n"
   },
-  {
+  "FASCINATOR": {
     "codeword": "FASCINATOR",
     "description": "Series of Type 1 encryption modules for Motorola digital-capable voice radios\n"
   },
-  {
+  "FASHIONCLEFT (FC)": {
     "codeword": "FASHIONCLEFT (FC)",
     "description": "Protocol for hiding packets of VPN and VoIP communications within other packets that are allowed to leave the targeted network * \n"
   },
-  {
+  "FASTBAT": {
     "codeword": "FASTBAT",
     "description": "Telephony related database?\n"
   },
-  {
+  "FASTFOLLOWER": {
     "codeword": "FASTFOLLOWER",
     "description": "Tool to identify foreign agents who might tail American case officers overseas by correlating cellphone signals\n"
   },
-  {
+  "FASTSCOPE": {
     "codeword": "FASTSCOPE",
     "description": "NSA database\n"
   },
-  {
+  "FEEDTROUGH": {
     "codeword": "FEEDTROUGH",
     "description": "Software implant for unauthorized access to Juniper firewall models N5XT, NS25, NS50, NS200, NS500, ISG1000\n"
   },
-  {
+  "FERRETCANON": {
     "codeword": "FERRETCANON",
     "description": "Subsystem of the FOXACID system *\n"
   },
-  {
+  "FIFTYEXCLAIM": {
     "codeword": "FIFTYEXCLAIM",
     "description": "Cover term representing NSA's contract with Computer Sciences Corporation (CSC) for mission support in Bad Aibling, Germany *\n"
   },
-  {
+  "FINKDIFFERENT (FIDI)": {
     "codeword": "FINKDIFFERENT (FIDI)",
     "description": "Tool used for exploiting TOR networks\n"
   },
-  {
+  "FIRE ANT": {
     "codeword": "FIRE ANT",
     "description": "Open Source visualisation tool\n"
   },
-  {
+  "FIREBIRD": {
     "codeword": "FIREBIRD",
     "description": "Cable tapping facility operated in cooperation with a trusted 3rd Party agency, part of the RAMPART-A program *\n"
   },
-  {
+  "FIREFLY": {
     "codeword": "FIREFLY",
     "description": "NSA key generation scheme, used for exchanging EKMS public keys\n"
   },
-  {
+  "FIRETRUCK": {
     "codeword": "FIRETRUCK",
     "description": "SIGINT tool or database\n"
   },
-  {
+  "FISHBOWL": {
     "codeword": "FISHBOWL",
     "description": "NSA program for securing commercial smartphones\n"
   },
-  {
+  "FLARE": {
     "codeword": "FLARE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "FLATLIQUID": {
     "codeword": "FLATLIQUID",
     "description": "TAO operation against the office of the Mexican president *\n"
   },
-  {
+  "FLEMING": {
     "codeword": "FLEMING",
     "description": "The embassy of Slovakia in Washington DC\n"
   },
-  {
+  "FLINTLOCK": {
     "codeword": "FLINTLOCK",
     "description": "The DICTIONARY computer used at the Waihopai station of ECHELON *\n"
   },
-  {
+  "FLOWBEE": {
     "codeword": "FLOWBEE",
     "description": "Project of NSA's Research Directorate for reducing the volumes of metadata collected from high-speed links (2008) *\n"
   },
-  {
+  "FLUXBABBITT": {
     "codeword": "FLUXBABBITT",
     "description": "Hardware implant for Dell PowerEdge RAID servers using Xeon processors\n"
   },
-  {
+  "FOGGYBOTTOM": {
     "codeword": "FOGGYBOTTOM",
     "description": "Computer implant plug-in that records logs of internet browsing histories and collects login details and passwords used to access websites and email accounts\n"
   },
-  {
+  "FOREMAN": {
     "codeword": "FOREMAN",
     "description": "Tactical SIGINT database? Used to determine 'foreigness' *\n"
   },
-  {
+  "FOURSCORE": {
     "codeword": "FOURSCORE",
     "description": "(former?) database for fax and internet data *\n"
   },
-  {
+  "FOXACID (FA?)": {
     "codeword": "FOXACID (FA?)",
     "description": "System of secret internet servers used to attack target computers * or TAO tool that allows to continually add functions to small malware programs even after they have been installed in target computers *\n"
   },
-  {
+  "FOXSEARCH": {
     "codeword": "FOXSEARCH",
     "description": "Tool for monitoring a QUANTUM target which involves FOXACID servers\n"
   },
-  {
+  "FOXTRAIL": {
     "codeword": "FOXTRAIL",
     "description": "NSA tool or database *\n"
   },
-  {
+  "FRIARTUCK": {
     "codeword": "FRIARTUCK",
     "description": "VPN Events tool or database (CSEC?)\n"
   },
-  {
+  "FREEFLOW-compliant": {
     "codeword": "FREEFLOW-compliant",
     "description": "Supported by TURBULENCE architecture\n"
   },
-  {
+  "FREEZEPOST": {
     "codeword": "FREEZEPOST",
     "description": "Something related to NSA's TAO division\n"
   },
-  {
+  "FRONTO": {
     "codeword": "FRONTO",
     "description": "Retired SIGINT Exchange Designator for ?\n"
   },
-  {
+  "FROSTBURG": {
     "codeword": "FROSTBURG",
     "description": "Connection Machine 5 (CM-5) supercomputer, used by NSA from 1991-1997\n"
   },
-  {
+  "FROTH": {
     "codeword": "FROTH",
     "description": "Compartment for Top Secret COMINT information (1953-1954) *\n"
   },
-  {
+  "FRUGALSHOT": {
     "codeword": "FRUGALSHOT",
     "description": "FOXACID servers for receiving callbacks from computers infected with NSA spying software \n"
   },
-  {
+  "GADGET HISS": {
     "codeword": "GADGET HISS",
     "description": "Computer network \"intrusion set\" already identified in 2007 *\n"
   },
-  {
+  "GALACTICHALO": {
     "codeword": "GALACTICHALO",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "GALAXY": {
     "codeword": "GALAXY",
     "description": "Find/fix/finish program of locating signal-emitting devices of targets\n"
   },
-  {
+  "GAMMA (G)": {
     "codeword": "GAMMA (G)",
     "description": "Compartment for highly sensitive communication intercepts\n"
   },
-  {
+  "GAMUT": {
     "codeword": "GAMUT",
     "description": "NSA collection tasking tool or database\n"
   },
-  {
+  "GARLICK": {
     "codeword": "GARLICK",
     "description": "The NSA satellite intercept station at Bad Aibling (Germany)\n"
   },
-  {
+  "GATEKEEPER": {
     "codeword": "GATEKEEPER",
     "description": "NSA user account management system\n"
   },
-  {
+  "GAVEL": {
     "codeword": "GAVEL",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "GECKO II": {
     "codeword": "GECKO II",
     "description": "System consisting of hardware implant MR RF or GSM, UNITEDRAKE software implant, IRONCHEF persistence back door\n"
   },
-  {
+  "GEMINI": {
     "codeword": "GEMINI",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
-    "codeword": "GENESIS",
-    "description": "Filtering tool for internet communications, related to XKEYSCORE\n"
-  },
-  {
+  "GENESIS": {
     "codeword": "GENESIS",
     "description": "Modified GSM handset for covert network surveys, recording of RF spectrum use, and handset geolocation based on software defined radio\n"
   },
-  {
+  "GENIE": {
     "codeword": "GENIE",
     "description": "Overall close-access program, collection by Sigads US-3136 and US-3137 * *\n"
   },
-  {
+  "GHOSTMACHINE": {
     "codeword": "GHOSTMACHINE",
     "description": "NSA's Special Source Operations cloud analytics platform\n"
   },
-  {
+  "GHOSTWolf": {
     "codeword": "GHOSTWolf",
     "description": "Something related to CT10 *\n"
   },
-  {
+  "GINSU": {
     "codeword": "GINSU",
     "description": "Provides software persistence for the CNE implant KONGUR having PCI bus hardware implant BULLDOZER on MS desktop PCs\n"
   },
-  {
+  "GILGAMESH": {
     "codeword": "GILGAMESH",
     "description": "Predator-based NSA geolocation system used by JSOC *\n"
   },
-  {
+  "GISTQEUE (GQ)": {
     "codeword": "GISTQEUE (GQ)",
     "description": "NSA software or database\n"
   },
-  {
+  "GJALLER": {
     "codeword": "GJALLER",
     "description": "NSA tool or database\n"
   },
-  {
+  "GLINT": {
     "codeword": "GLINT",
     "description": "Compartment for Top Secret COMINT information (1947-1949) *\n"
   },
-  {
+  "GLOBALBROKER": {
     "codeword": "GLOBALBROKER",
     "description": "NSA tool or database\n"
   },
-  {
+  "GLOBALREACH": {
     "codeword": "GLOBALREACH",
     "description": "Tool for federated querying metadata records shared by NSA and its Five Eyes partners *\n"
   },
-  {
+  "GLOBALTIPPER (GT)": {
     "codeword": "GLOBALTIPPER (GT)",
     "description": "System for internal requests of information *\n"
   },
-  {
+  "GLOBALWATCH": {
     "codeword": "GLOBALWATCH",
     "description": "Software suite within the Real Time Regional Gateway (RT-RG) \n"
   },
-  {
+  "GM-PLACE": {
     "codeword": "GM-PLACE",
     "description": "Database for the BOUNDLESSINFORMANT tool *\n"
   },
-  {
+  "GODLIKELESION": {
     "codeword": "GODLIKELESION",
     "description": "Modernization program for NSA's European Technical Center (ETC) in Wiesbaden in 2011 *\n"
   },
-  {
+  "GODSURGE": {
     "codeword": "GODSURGE",
     "description": "Runs on FLUXBABBITT circuit board to provide software persistence by exploiting JTAG debugging interface of server processors, requires interdiction and removal of motherboard of JTAG scan chain reconnection\n"
   },
-  {
+  "GOLD": {
     "codeword": "GOLD",
-    "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; British codename: STOPWATCH)\n"
+    "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; UK codename: STOPWATCH)\n"
   },
-  {
+  "GOLDENCARRIAGE": {
     "codeword": "GOLDENCARRIAGE",
     "description": "NSA corporate servers, used by the AURORAGOLD application *\n"
   },
-  {
+  "GOLDENRETRIEVER": {
     "codeword": "GOLDENRETRIEVER",
     "description": "Storage and/or distribution system *\n"
   },
-  {
+  "GOLLUM": {
     "codeword": "GOLLUM",
     "description": "Computer implant created by a partner agency *\n"
   },
-  {
+  "GOPHERRAGE": {
     "codeword": "GOPHERRAGE",
     "description": "Pilot project that seeks to develop a hypervisor implant to provide implant capabilites and a back door *\n"
   },
-  {
+  "GOPHERSET": {
     "codeword": "GOPHERSET",
     "description": "Software implant on GMS SIM phase 2+ Toolkit cards that exfiltrates contact list, SMS and call log from handset via SMS to user-defined phone; malware loaded using USB smartcard reader or over-the-air.\n"
   },
-  {
+  "GOSSAMER": {
     "codeword": "GOSSAMER",
     "description": "SIGINT/EW collection and exploitation system\n"
   },
-  {
+  "GOTHAM": {
     "codeword": "GOTHAM",
     "description": "Processor for external monitor recreating target monitor from red video\n"
   },
-  {
+  "GOURMETTROUGH": {
     "codeword": "GOURMETTROUGH",
     "description": "Configurable implant for Juniper NetScreen firewalls including SSG type, minimal beaconing\n"
   },
-  {
+  "GOUT": {
     "codeword": "GOUT",
     "description": "Subcompartment of GAMMA for intercepts of South Vietnamese government communications\n"
   },
-  {
+  "GOVPORT": {
     "codeword": "GOVPORT",
     "description": "US government user authentication service\n"
   },
-  {
+  "GRAB": {
     "codeword": "GRAB",
     "description": "SIGINT satellite program\n"
   },
-  {
+  "GRANDMASTER": {
     "codeword": "GRANDMASTER",
     "description": "Processing system for internet traffic, has been replaced by WEALTHYCLUSTER and TURMOIL *\n"
   },
-  {
+  "GREY FOX": {
     "codeword": "GREY FOX",
     "description": "The 2003 covername of the Mission Support Activity (MSA) of JSOC\n"
   },
-  {
+  "GREYSTONE (GST)": {
     "codeword": "GREYSTONE (GST)",
     "description": "CIA's highly secret rendition and interrogation programs *\n"
   },
-  {
+  "GROK": {
     "codeword": "GROK",
     "description": "Computer implant plug-in used to log keystrokes\n"
   },
-  {
+  "GROUPDIVE": {
     "codeword": "GROUPDIVE",
     "description": "Network used by NTOC operational analysts *\n"
   },
-  {
+  "GUARDRAIL": {
     "codeword": "GUARDRAIL",
     "description": "Small airplanes used for SIGINT collection, mainly during military operations\n"
   },
-  {
+  "GUMFISH": {
     "codeword": "GUMFISH",
     "description": "Computer implant plug-in to take over a computer’s webcam and snap photographs\n"
   },
-  {
+  "GUPY": {
     "codeword": "GUPY",
     "description": "Subcompartment of GAMMA for intercepts from Soviet leadership car phones (1960's-70's)\n"
   },
-  {
+  "HAIRBALL": {
     "codeword": "HAIRBALL",
     "description": "Project of NSA's Research Directorate (2008) *\n"
   },
-  {
+  "HALLUXWATER": {
     "codeword": "HALLUXWATER",
     "description": "Software implant as boot ROM upgrade for Huawei Eudemon firewalls, finds patch points in inbound packet processing, used in O2, Vodafone and Deutsche Telekom\n"
   },
-  {
+  "HAMMERCHANT": {
     "codeword": "HAMMERCHANT",
     "description": "Implant for network routers to intercept and perform exploitation attacks against data sent through a Virtual Private Network (VPN) and/or phone calls via Skype and other VoIP software *\n"
   },
-  {
+  "HAMMERMILL": {
     "codeword": "HAMMERMILL",
     "description": "Insertion Tool controls HEADWATER boot ROM backdoor\n"
   },
-  {
+  "HAMMERSTEIN": {
     "codeword": "HAMMERSTEIN",
     "description": "Implant for network routers to intercept and perform exploitation attacks against data sent through a Virtual Private Network (VPN) and/or phone calls via Skype and other VoIP software\n"
   },
-  {
+  "HAPPYFOOT": {
     "codeword": "HAPPYFOOT",
     "description": "Program that intercepts traffic generated by mobile apps that send a smartphone’s location to advertising networks\n"
   },
-  {
+  "HAPPYHOUR": {
     "codeword": "HAPPYHOUR",
     "description": "Connection for afloat computer network operations like aboard USS Annapolis *\n"
   },
-  {
+  "HARD ASSOCIATION": {
     "codeword": "HARD ASSOCIATION",
     "description": "Second party database\n"
   },
-  {
+  "HARVEST": {
     "codeword": "HARVEST",
     "description": "An IBM supercomputer used by NSA from 1962-1976\n"
   },
-  {
+  "HAVE BLUE": {
     "codeword": "HAVE BLUE",
     "description": "Development program of the F-117A Stealth fighter-bomber\n"
   },
-  {
+  "HAVE QUICK (HQ)": {
     "codeword": "HAVE QUICK (HQ)",
     "description": " Frequency-hopping system protecting military UHF radio traffic\n"
   },
-  {
+  "HEADMOVIES": {
     "codeword": "HEADMOVIES",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "HEADWATER": {
     "codeword": "HEADWATER",
     "description": "Permanent backdoor in boot ROM for Huawei routers stable to firmware updates, installed over internet, capture and examination of all IP packets passing through host router, controlled by Hammermill Insertion Tool\n"
   },
-  {
+  "HEMISPHERE": {
     "codeword": "HEMISPHERE",
     "description": "Program under which AT&T provides telephone records to the DEA\n"
   },
-  {
+  "HEMLOCK": {
     "codeword": "HEMLOCK",
     "description": "Operation against the Italian embassy in Washington DC using HIGHLANDS techniques\n"
   },
-  {
+  "HERCULES": {
     "codeword": "HERCULES",
     "description": "CIA terrorism database\n"
   },
-  {
+  "HERETIC": {
     "codeword": "HERETIC",
     "description": "NSA tool or database\n"
   },
-  {
+  "HERESYITCH": {
     "codeword": "HERESYITCH",
     "description": "UC collateral tool, collaborative program between NSA units T1222 and SSG *\n"
   },
-  {
+  "HERMOS": {
     "codeword": "HERMOS",
     "description": "Joint venture between the German BND and another country with access for NSA (2012)*\n"
   },
-  {
+  "HERON": {
     "codeword": "HERON",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "HIGHCASTLE": {
     "codeword": "HIGHCASTLE",
     "description": "Tactical database?\n"
   },
-  {
+  "HIGHLANDS": {
     "codeword": "HIGHLANDS",
     "description": "Technique for collection from computer implants *\n"
   },
-  {
+  "HIGH PRIDE": {
     "codeword": "HIGH PRIDE",
     "description": "? *\n"
   },
-  {
+  "HIGHTIDE": {
     "codeword": "HIGHTIDE",
     "description": "NSA tool or database\n"
   },
-  {
+  "HOBGOBLIN": {
     "codeword": "HOBGOBLIN",
     "description": "NSA tool or database\n"
   },
-  {
+  "HOLLOWPOINT": {
     "codeword": "HOLLOWPOINT",
     "description": "Software defined radio platform\n"
   },
-  {
+  "HOMEBASE": {
     "codeword": "HOMEBASE",
     "description": "Database which allows analysts to coordinate tasking with DNI mission priorities\n"
   },
-  {
+  "HOMEMAKER": {
     "codeword": "HOMEMAKER",
     "description": "Upstream collection site \n"
   },
-  {
+  "HOMINGPIGEON": {
     "codeword": "HOMINGPIGEON",
     "description": "Program to intercept communications from airplane passengers *\n"
   },
-  {
+  "HOTZONE": {
     "codeword": "HOTZONE",
     "description": "? \n"
   },
-  {
+  "HOWLERMONKEY (HM)": {
     "codeword": "HOWLERMONKEY (HM)",
     "description": "Generic radio frequency (RF) transceiver tool used for various applications *\n"
   },
-  {
+  "HUFF": {
     "codeword": "HUFF",
     "description": "System like FOXACID? *\n"
   },
-  {
+  "HYDRA": {
     "codeword": "HYDRA",
     "description": "CIA program to secretly access databases maintained by foreign countries and extract data to add to US watchlists *\n"
   },
-  {
+  "HYDROCASTLE": {
     "codeword": "HYDROCASTLE",
     "description": "Tool or database with 802.11 configuration data extracted from CNE activity in specific locations *\n"
   },
-  {
+  "HYSON": {
     "codeword": "HYSON",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "ICEBERG": {
     "codeword": "ICEBERG",
     "description": "Major NSA backbone project *\n"
   },
-  {
+  "ICE CASTLE": {
     "codeword": "ICE CASTLE",
     "description": "Intelligence exchange agreement between DIA and the Israeli military intelligence directorate (1988) *\n"
   },
-  {
+  "ICREACH": {
     "codeword": "ICREACH",
     "description": "Tool for sharing communications metadata among the US Intelligence Community (since 2007)*\n"
   },
-  {
+  "IDITAROD (IDIT)": {
     "codeword": "IDITAROD (IDIT)",
     "description": "Compartment of the KLONDIKE control system\n"
   },
-  {
+  "IGLOO WHITE": {
     "codeword": "IGLOO WHITE",
     "description": "Program for detecting movement of vehicles through unattended ground sensors, tested in Laos from 1968-1973\n"
   },
-  {
+  "INCENSER": {
     "codeword": "INCENSER",
     "description": "Joint NSA-GCHQ program for tapping an internet cable between Europe and Asia with the help of Cable & Wireless; part of the WINDSTOP program\n"
   },
-  {
+  "INDEX": {
     "codeword": "INDEX",
     "description": "Team at Menwith Hill Station (MHS) *\n"
   },
-  {
+  "INDIA": {
     "codeword": "INDIA",
     "description": "SIGINT Exchange Designator for New Zealand (retired)\n"
   },
-  {
+  "INDRA": {
     "codeword": "INDRA",
     "description": "Satellite intercept station near Khon Khaen, Thailand (1979-ca. 2000)\n"
   },
-  {
+  "INTERQUAKE (IQ)": {
     "codeword": "INTERQUAKE (IQ)",
     "description": "A terrestrial signals knowledge base and interface *\n"
   },
-  {
+  "INTOLERANT": {
     "codeword": "INTOLERANT",
     "description": "Data set stolen by hackers, discovered and exploited by CSEC and Menwith Hill Station since 2010 *\n"
   },
-  {
+  "INTREPID SPEAR": {
     "codeword": "INTREPID SPEAR",
     "description": "The 2009 covername of the Mission Support Activity (MSA) of JSOC\n"
   },
-  {
+  "INTRUDER": {
     "codeword": "INTRUDER",
     "description": "Series of ELINT and COMINT spy satellites (since 2009)\n"
   },
-  {
+  "IRATEMONK": {
     "codeword": "IRATEMONK",
     "description": "Hard drive firmware providing software persistence for desktops and laptops via Master Boot Record substitution, for Seagate Maxtor Samsung file systems FAR NRFS EXT3 UFS, payload is implant installer, shown at internet cafe *\n"
   },
-  {
+  "IRONAVENGER": {
     "codeword": "IRONAVENGER",
     "description": "NSA hacking operation against an ally and an adversary (2010) *\n"
   },
-  {
+  "IRONCHEF": {
     "codeword": "IRONCHEF",
     "description": "Provides access persistence back door exploiting BIOS and SMM to communicate with a 2-way RF hardware implant\n"
   },
-  {
+  "IRONSAND": {
     "codeword": "IRONSAND",
     "description": "Second Party satellite intercept station in New Zealand\n"
   },
-  {
+  "ISHTAR": {
     "codeword": "ISHTAR",
     "description": "SIGINT Exchange Designator for Japan (retired)\n"
   },
-  {
+  "ISLANDTRANSPORT (IT)": {
     "codeword": "ISLANDTRANSPORT (IT)",
     "description": "Internal messaging service, as part of the QUANTUM system * or data distribution system *\n"
   },
-  {
+  "IVORY": {
     "codeword": "IVORY",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "IVY BELLS": {
     "codeword": "IVY BELLS",
     "description": "NSA, CIA and Navy operation to place wire taps on Soviet underwater communication cables\n"
   },
-  {
+  "JACKKNIFE": {
     "codeword": "JACKKNIFE",
     "description": "The NSA satellite intercept station at Yakima (US)\n"
   },
-  {
+  "JACKPOT": {
     "codeword": "JACKPOT",
     "description": "Internal NSA process improvement program (early 1990s"
   },
-  {
+  "JEEPFLEA": {
     "codeword": "JEEPFLEA",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "JETPLOW": {
     "codeword": "JETPLOW",
     "description": "Persistent firmware back door for Cisco PIX and ASA firewall and routers, modifies OS at boot time\n"
   },
-  {
+  "JOLLYROGER": {
     "codeword": "JOLLYROGER",
     "description": "Tool that provides metadata that describe the networking environment of TAO-implanted Windows PCs *\n"
   },
-  {
+  "JOSEKI-1": {
     "codeword": "JOSEKI-1",
     "description": "Classified Suite A algorithm\n"
   },
-  {
+  "JOURNEYMAN": {
     "codeword": "JOURNEYMAN",
     "description": "Retrieval tool or system *\n"
   },
-  {
+  "JUBILEECORONA": {
     "codeword": "JUBILEECORONA",
     "description": "NSA unit *\n"
   },
-  {
+  "JUGGERNAUT": {
     "codeword": "JUGGERNAUT",
     "description": "Ingest system for processing data from (mobile) phone networks * *\n"
   },
-  {
+  "JUMPDOLLAR": {
     "codeword": "JUMPDOLLAR",
     "description": "Tool to support various file systems *\n"
   },
-  {
+  "JUMPSEAT": {
     "codeword": "JUMPSEAT",
     "description": "Class of SIGINT reconnaissance satellites (1971-1983)\n"
   },
-  {
+  "JUNE": {
     "codeword": "JUNE",
     "description": "FBI classification marking for information related to unwarranted electronic surveillance and surreptitious entries *\n"
   },
-  {
+  "JUNIORMINT": {
     "codeword": "JUNIORMINT",
     "description": "Implant digital core, either mini printed circuit board or ultra-mini Flip Chip Module, contains ARM9 micro-controller, FPGA Flash SDRAM and DDR2 memories\n"
   },
-  {
+  "KAMPUS": {
     "codeword": "KAMPUS",
     "description": "SIGINT Exchange Designator for ? (retired) \n"
   },
-  {
+  "KANDIK (KAND)": {
     "codeword": "KANDIK (KAND)",
     "description": "Compartment of the KLONDIKE control system\n"
   },
-  {
+  "KARMA POLICE": {
     "codeword": "KARMA POLICE",
     "description": "Second party database\n"
   },
-  {
+  "KATEEL": {
     "codeword": "KATEEL",
     "description": "The Brazilian embassy in Washington\n"
   },
-  {
+  "KEA": {
     "codeword": "KEA",
     "description": "Asymmetric-key Type 2 algorithm used in products like Fortezza, Fortezza Plus\n"
   },
-  {
+  "KEELSON": {
     "codeword": "KEELSON",
     "description": "Internet metadata processing system *\n"
   },
-  {
+  "KEYCARD": {
     "codeword": "KEYCARD",
     "description": "Database for VPN key exchange IP packet addresses * or filtering/selection tool *\n"
   },
-  {
+  "KEYRUT": {
     "codeword": "KEYRUT",
     "description": "SIGINT Exchange Designator for ? (retired)\n"
   },
-  {
+  "KILTING": {
     "codeword": "KILTING",
     "description": "ELINT database\n"
   },
-  {
+  "KIMBO": {
     "codeword": "KIMBO",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "KIRKBOMB": {
     "codeword": "KIRKBOMB",
     "description": "Windows kernel examination to detect loaded drivers and processes *\n"
   },
-  {
+  "KLIEGLIGHT (KL)": {
     "codeword": "KLIEGLIGHT (KL)",
     "description": "Tactical SIGINT reports\n"
   },
-  {
+  "KLONDIKE (KDK)": {
     "codeword": "KLONDIKE (KDK)",
     "description": "Control system for sensitive geospatial intelligence\n"
   },
-  {
+  "KLONDIKE": {
     "codeword": "KLONDIKE",
     "description": "The embassy of Greece in Washington DC\n"
   },
-  {
+  "KNIGHTHAWK": {
     "codeword": "KNIGHTHAWK",
     "description": "Probably a military SIGINT tool\n"
   },
-  {
+  "KOALAPUNCH": {
     "codeword": "KOALAPUNCH",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "KODA": {
     "codeword": "KODA",
     "description": "Method for summarizing very large textual data sets\n"
   },
-  {
+  "KONGUR": {
     "codeword": "KONGUR",
     "description": "Software implant restorable by GINSU after OS upgrade or reinstall\n"
   },
-  {
+  "KRONE": {
     "codeword": "KRONE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "LACONIC (LAC)": {
     "codeword": "LACONIC (LAC)",
     "description": "Retired NSA dissemination control marking\n"
   },
-  {
+  "LADYLOVE": {
     "codeword": "LADYLOVE",
     "description": "The NSA satellite intercept station at Misawa, Japan (since 1982)\n"
   },
-  {
+  "LANYARD": {
     "codeword": "LANYARD",
     "description": "Reconaissance satellite program \n"
   },
-  {
+  "LARUM": {
     "codeword": "LARUM",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "LAUNDROMAT": {
     "codeword": "LAUNDROMAT",
     "description": "Accesses to yet unknown sources, similar to DUSKPALLET * \n"
   },
-  {
+  "LEAKYFAUCET": {
     "codeword": "LEAKYFAUCET",
     "description": "Flow repository of 802.11 WiFi IP addresses and clients via STUN data *\n"
   },
-  {
+  "LEGION AMBER": {
     "codeword": "LEGION AMBER",
     "description": "Chinese hacking operation against a major US software company *\n"
   },
-  {
+  "LEGION JADE": {
     "codeword": "LEGION JADE",
-    "description": "A group of Chinese hackers * \n"
+    "description": "See NSA Codenames \n"
   },
-  {
+  "LEGION RUBY": {
     "codeword": "LEGION RUBY",
-    "description": "A group of Chinese hackers * \n"
+    "description": "See NSA Codenames \n"
   },
-  {
+  "LEGION YANKEE": {
     "codeword": "LEGION YANKEE",
     "description": "Chinese hacking operation against the Pentagon and defense contractors (2011)*\n"
   },
-  {
+  "LEMONWOOD": {
     "codeword": "LEMONWOOD",
     "description": "NSA satellite intercept station in Thailand\n"
   },
-  {
+  "LEXHOUND": {
     "codeword": "LEXHOUND",
     "description": "CCE Extraction Architecture * and/or Front-end tool that performs Google-like searching across repositories *\n"
   },
-  {
+  "LIBERTY": {
     "codeword": "LIBERTY",
     "description": "First word of nicknames for collection and analysis programs used by JSOC and other sensitive DOD activities *\n"
   },
-  {
+  "LIBERTY BLUE": {
     "codeword": "LIBERTY BLUE",
     "description": "Modified RC-12 Guardrail surveillance airplane used by JSOC's Mission Support Activity (MSA)\n"
   },
-  {
+  "LIFESAVER": {
     "codeword": "LIFESAVER",
     "description": "Technique which images the hard drive of computers *\n"
   },
-  {
+  "LIONSHARE": {
     "codeword": "LIONSHARE",
     "description": "Internal NSA process improvement program (2003-2008) *\n"
   },
-  {
+  "LITHIUM": {
     "codeword": "LITHIUM",
     "description": "Facility to filter and gather data at a major (foreign?) telecommunications company under the BLARNEY program *\n"
   },
-  {
+  "LOCATOR": {
     "codeword": "LOCATOR",
     "description": "Some kind of NSA database *\n"
   },
-  {
+  "LODESTONE": {
     "codeword": "LODESTONE",
     "description": "NSA's CRAY-1 supercomputer \n"
   },
-  {
+  "LOGGERHEAD": {
     "codeword": "LOGGERHEAD",
     "description": "Device to collect contents of analog cell phone calls (made by Harris Corp.) *\n"
   },
-  {
+  "LOLLYGAG": {
     "codeword": "LOLLYGAG",
     "description": "SSO mobile telephone interception program, part of the MYSTIC program *\n"
   },
-  {
+  "LOMA": {
     "codeword": "LOMA",
     "description": "SCI control system for Foreign Instrumentation and Signature Intelligence* *\n"
   },
-  {
+  "LOPERS": {
     "codeword": "LOPERS",
     "description": "System for processing data collected from Public Switched Telephone Networks * *\n"
   },
-  {
+  "LOUDAUTO": {
     "codeword": "LOUDAUTO",
     "description": "An ANGRYNEIGHBOR radar retro-reflector, microphone captures room audio by pulse position modulation of square wave\n"
   },
-  {
+  "LUTEUSICARUS": {
     "codeword": "LUTEUSICARUS",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "LUTEUSOBSTOS": {
     "codeword": "LUTEUSOBSTOS",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "MACHINESHOP": {
     "codeword": "MACHINESHOP",
     "description": "? *\n"
   },
-  {
+  "MADBISHOP": {
     "codeword": "MADBISHOP",
     "description": "Hard drive implant *\n"
   },
-  {
+  "MADCAPOCELOT": {
     "codeword": "MADCAPOCELOT",
     "description": "Sub-program of STORMBREW for collection of internet metadata about Russia\n"
   },
-  {
+  "MAESTRO-II": {
     "codeword": "MAESTRO-II",
     "description": "Mini digital core implant, standard TAO implant architecture\n"
   },
-  {
+  "MAGIC": {
     "codeword": "MAGIC",
-    "description": "Codeword for decrypted high-level diplomatic Nazi messages\n"
+    "description": "Joint US-UK cryptanalysis program during World War II\n"
   },
-  {
+  "MAGIC LANTERN": {
     "codeword": "MAGIC LANTERN",
     "description": "A keystroke logging software developed by the FBI\n"
   },
-  {
+  "MAGNES": {
     "codeword": "MAGNES",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "MAGNETIC": {
     "codeword": "MAGNETIC",
     "description": "Technique of sensor collection of magnetic emanations *\n"
   },
-  {
+  "MAGNUM": {
     "codeword": "MAGNUM",
     "description": "Series of SIGINT spy satellites (since 1985)\n"
   },
-  {
+  "MAGNUMOPUS": {
     "codeword": "MAGNUMOPUS",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "MAGOTHY": {
     "codeword": "MAGOTHY",
     "description": "The embassy of the European Union in Washington DC\n"
   },
-  {
+  "MAILORDER": {
     "codeword": "MAILORDER",
     "description": "Tool for transferring data between NSA, GCHQ, ASD and CSEC * (SFTP-based?)\n"
   },
-  {
+  "MAIN CORE": {
     "codeword": "MAIN CORE",
     "description": "Federal database of personal and financial data of suspicious US citizens\n"
   },
-  {
+  "MAINWAY (MW)": {
     "codeword": "MAINWAY (MW)",
     "description": "NSA database of bulk phone metadata\n"
   },
-  {
+  "MAKERS MARK": {
     "codeword": "MAKERS MARK",
     "description": "Computer network \"intrusion set\" already identified in 2007 *\n"
   },
-  {
+  "MANASSAS": {
     "codeword": "MANASSAS",
     "description": "Former NSA counter-encryption program, succeeded by BULLRUN\n"
   },
-  {
+  "MARINA": {
     "codeword": "MARINA",
     "description": "NSA database of bulk internet metadata\n"
   },
-  {
+  "MARKHAM": {
     "codeword": "MARKHAM",
     "description": "NSA data system?\n"
   },
-  {
+  "MARTES": {
     "codeword": "MARTES",
     "description": "NSA software tool to prepare reports\n"
   },
-  {
+  "MASTERLINK": {
     "codeword": "MASTERLINK",
     "description": "NSA tasking source\n"
   },
-  {
+  "MASTERSHAKE": {
     "codeword": "MASTERSHAKE",
     "description": "Tool or database with FORNSAT and WiFi data collection *\n"
   },
-  {
+  "MATCHCRIMP": {
     "codeword": "MATCHCRIMP",
     "description": "Network or connection at the Remote Operations Center of NSA's TAO division *\n"
   },
-  {
+  "MATRIX": {
     "codeword": "MATRIX",
     "description": "Some kind of data processing system *\n"
   },
-  {
+  "MAYTAG": {
     "codeword": "MAYTAG",
     "description": "Upstream collection site \n"
   },
-  {
+  "MEDLEY": {
     "codeword": "MEDLEY",
     "description": "Classified Suite A algorithm\n"
   },
-  {
+  "MENTOR": {
     "codeword": "MENTOR",
     "description": "Class of SIGINT spy satellites (since 1995)\n"
   },
-  {
+  "MERCED": {
     "codeword": "MERCED",
     "description": "The Bulgarian embassy in Washington DC\n"
   },
-  {
-    "codeword": "MERCURY",
-    "description": "Soviet cipher machine partially exploited by NSA in the 1960's\n"
-  },
-  {
+  "MERCURY": {
     "codeword": "MERCURY",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "MESSIAH": {
     "codeword": "MESSIAH",
     "description": "NSA automated message handling system\n"
   },
-  {
+  "METAWAVE": {
     "codeword": "METAWAVE",
     "description": "Warehouse of unselected internet metadata *\n"
   },
-  {
+  "METROTUBE": {
     "codeword": "METROTUBE",
     "description": "Analytic tool for VPN data *\n"
   },
-  {
+  "METTLESOME": {
     "codeword": "METTLESOME",
     "description": "NSA Collection mission system \n"
   },
-  {
+  "MIDAS": {
     "codeword": "MIDAS",
     "description": "Satellite program\n"
   },
-  {
+  "MIDDLEMAN": {
     "codeword": "MIDDLEMAN",
     "description": "TAO covert network\n"
   },
-  {
+  "MILKBONE": {
     "codeword": "MILKBONE",
     "description": "Question-Focused Dataset used for text message collection *\n"
   },
-  {
+  "MINARET": {
     "codeword": "MINARET",
     "description": "A sister project to Project SHAMROCK (1967-1973) \n"
   },
-  {
+  "MINERALIZE": {
     "codeword": "MINERALIZE",
     "description": "Technique for collection through LAN implants *\n"
   },
-  {
+  "MIRANDA": {
     "codeword": "MIRANDA",
     "description": "System for managing intelligence requirements of GCHQ customers *\n"
   },
-  {
+  "MIRROR": {
     "codeword": "MIRROR",
     "description": "Automated survey system that can for example identify the presence of a VPN; interface to the ROADBED system * \n"
   },
-  {
+  "MOCCASIN": {
     "codeword": "MOCCASIN",
     "description": "A hardware implant, permanently connected to a USB keyboard *\n"
   },
-  {
+  "MONKEYCALENDAR": {
     "codeword": "MONKEYCALENDAR",
     "description": "Software implant on GMS SIM cards that exfiltrates user geolocation data\n"
   },
-  {
+  "MONKEYROCKET": {
     "codeword": "MONKEYROCKET",
     "description": "Sub-program of OAKSTAR for collecting internet metadata and content through a foreign access point\n"
   },
-  {
+  "MONSTERMIND": {
     "codeword": "MONSTERMIND",
     "description": "Program that can automatically react to cyber attacks against the US\n"
   },
-  {
+  "MOONLIGHTPATH (EGL?)": {
     "codeword": "MOONLIGHTPATH (EGL?)",
     "description": "Cable tapping facility operated in cooperation with a trusted 3rd Party agency, part of the RAMPART-A program * *\n"
   },
-  {
+  "MOONPENNY": {
     "codeword": "MOONPENNY",
     "description": "The NSA satellite intercept station at Harrogate (Great Britain)\n"
   },
-  {
+  "MORAY": {
     "codeword": "MORAY",
     "description": "Compartment for the least sensitive (Category I) COMINT material, retired in 1999 *\n"
   },
-  {
+  "MORECOWBELL (MCB)": {
     "codeword": "MORECOWBELL (MCB)",
     "description": "Covert HTTP/DNS monitoring system for operations support *\n"
   },
-  {
+  "MORPHEUS": {
     "codeword": "MORPHEUS",
     "description": "Program of the Global Access Operations (GAO) *\n"
   },
-  {
+  "MOTHMONSTER": {
     "codeword": "MOTHMONSTER",
     "description": "NSA tool for exploiting the TOR network\n"
   },
-  {
+  "MOUSETRAP": {
     "codeword": "MOUSETRAP",
     "description": "Sandia implant for EFI *\n"
   },
-  {
+  "MOVEONYX": {
     "codeword": "MOVEONYX",
     "description": "Tool related to CASPORT\n"
   },
-  {
+  "MULBERRY": {
     "codeword": "MULBERRY",
     "description": "The mission of Japan at the United Nations in New York\n"
   },
-  {
+  "MURPHYSLAW": {
     "codeword": "MURPHYSLAW",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "MUSCULAR (JPM?)": {
     "codeword": "MUSCULAR (JPM?)",
     "description": "Joint NSA-GCHQ operation to tap the cables linking Google and Yahoo data clouds to the internet * Part of WINDSTOP\n"
   },
-  {
+  "MUSKET": {
     "codeword": "MUSKET",
     "description": "Retired SIGINT Exchange Designator for ? \n"
   },
-  {
+  "MUSKETEER": {
     "codeword": "MUSKETEER",
     "description": "NSA's Special Signal Collection unit (military/1990s?)\n"
   },
-  {
+  "MYSTIC": {
     "codeword": "MYSTIC",
     "description": "SSO unilateral wireless/mobile interception program (since 2009)*\n"
   },
-  {
+  "MYSTIC STAR": {
     "codeword": "MYSTIC STAR",
     "description": "Presidential Global Communications System\n"
   },
-  {
+  "NASHUA": {
     "codeword": "NASHUA",
     "description": "The mission of India at the United Nations in New York\n"
   },
-  {
+  "NAVAJO": {
     "codeword": "NAVAJO",
     "description": "The mission of Vietnam at the United Nations in New York\n"
   },
-  {
+  "NAVARRO": {
     "codeword": "NAVARRO",
     "description": "The embassy of Georgia in Washington DC\n"
   },
-  {
+  "NEBULA": {
     "codeword": "NEBULA",
     "description": "Base station router similar to CYCLONE Hx9\n"
   },
-  {
+  "NECTAR": {
     "codeword": "NECTAR",
     "description": "SIGINT Exchange Designator for ? (retired)\n"
   },
-  {
+  "NELEUS": {
     "codeword": "NELEUS",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "NEMESIS": {
     "codeword": "NEMESIS",
     "description": "SIGINT satellite\n"
   },
-  {
+  "NEPTUNE SPEAR": {
     "codeword": "NEPTUNE SPEAR",
     "description": "Operation to kill or capture Osama bin Laden (2011)\n"
   },
-  {
+  "NEPTUNETHUNDER": {
     "codeword": "NEPTUNETHUNDER",
     "description": "Connection for afloat computer network operations like aboard USS Annapolis *\n"
   },
-  {
+  "NETBOTZ": {
     "codeword": "NETBOTZ",
     "description": "Remote monitoring tool\n"
   },
-  {
+  "NETWORKPUMP": {
     "codeword": "NETWORKPUMP",
     "description": "Distribution system *\n"
   },
-  {
+  "NEWSDEALER": {
     "codeword": "NEWSDEALER",
     "description": "NSA’s internal intelligence news network \n"
   },
-  {
+  "NIAGARAFILES": {
     "codeword": "NIAGARAFILES",
     "description": "Data transfer tool * * (SFTP-based?)\n"
   },
-  {
+  "NIGHTSTAND": {
     "codeword": "NIGHTSTAND",
     "description": " 802.11 wireless packet injection tool that runs on standalone x86 laptop running Linux Fedora Core 3 and exploits windows platforms running Internet Explorer, from 8 miles away\n"
   },
-  {
+  "NIGHTWATCH": {
     "codeword": "NIGHTWATCH",
     "description": "Portable computer in shielded case for recreating target monitor from progressive-scan non-interlaced VAGRANT signals\n"
   },
-  {
+  "NINJANIC": {
     "codeword": "NINJANIC",
     "description": "Something related to TURMOIL *\n"
   },
-  {
+  "NITESTAND": {
     "codeword": "NITESTAND",
     "description": "Connection for afloat computer network operations like aboard USS Annapolis *\n"
   },
-  {
+  "NITESURF": {
     "codeword": "NITESURF",
     "description": "NSA tool or database \n"
   },
-  {
+  "NITRO": {
     "codeword": "NITRO",
     "description": "Remote SATCOM collection facility \n"
   },
-  {
+  "NOCON": {
     "codeword": "NOCON",
     "description": "NSA dissemination marking or COI\n"
   },
-  {
+  "NONBOOK (NK)": {
     "codeword": "NONBOOK (NK)",
     "description": "Compartment of the ENDSEAL control system\n"
   },
-  {
+  "NORMALRUN": {
     "codeword": "NORMALRUN",
     "description": "NSA tool or database\n"
   },
-  {
+  "NUCLEARWINTER": {
     "codeword": "NUCLEARWINTER",
     "description": "Signal Intelligence Directorate team that uses anti-tamper solutions *\n"
   },
-  {
+  "NUCLEON": {
     "codeword": "NUCLEON",
     "description": "Database for contents of phone calls\n"
   },
-  {
+  "NYMROD": {
     "codeword": "NYMROD",
     "description": "Automated name-matching and recognition system (since 2008)*\n"
   },
-  {
+  "OAKSTAR": {
     "codeword": "OAKSTAR",
     "description": "Umbrella program to filter and gather information at major telecommunications companies (since 2004)*\n"
   },
-  {
+  "OBELISK": {
     "codeword": "OBELISK",
     "description": "Codename for Al Qaeda’s network of websites and servers *\n"
   },
-  {
+  "OCEAN": {
     "codeword": "OCEAN",
     "description": "Optical collection system for raster-based computer screens *\n"
   },
-  {
+  "OCEANARIUM": {
     "codeword": "OCEANARIUM",
     "description": "Database for SIGINT from NSA and intelligence sharing partners around the world * \n"
   },
-  {
+  "OCEANFRONT": {
     "codeword": "OCEANFRONT",
     "description": "Part of the communications network for ECHELON\n"
   },
-  {
+  "OCEAN SHIELD": {
     "codeword": "OCEAN SHIELD",
     "description": "NATO anti-piracy operation\n"
   },
-  {
+  "OCEANSURF": {
     "codeword": "OCEANSURF",
     "description": "Engineering hub of the Global Access Operations (GAO) *\n"
   },
-  {
+  "OCELOT": {
     "codeword": "OCELOT",
     "description": "Actual name: MADCAPOCELOT\n"
   },
-  {
+  "OCTAVE": {
     "codeword": "OCTAVE",
     "description": "NSA tool for telephony tasking (succeeded by the UTT in 2011)\n"
   },
-  {
+  "OCTSKYWARD": {
     "codeword": "OCTSKYWARD",
     "description": "Collection of GSM data from flying aircraft\n"
   },
-  {
+  "OILSTOCK": {
     "codeword": "OILSTOCK",
     "description": "A system for analyzing air warning and surveillance data\n"
   },
-  {
+  "OILYRAG": {
     "codeword": "OILYRAG",
     "description": "SSO mobile telephone interception program, part of the MYSTIC program *\n"
   },
-  {
+  "OLYMPIA": {
     "codeword": "OLYMPIA",
     "description": "CSEC tool for discovering and identifying telephone and computer connections\n"
   },
-  {
+  "OLYMPIC": {
     "codeword": "OLYMPIC",
     "description": "First word of nicknames for programs involving defense against Chinese cyber-warfare and US offensive cyber-warfare *\n"
   },
-  {
+  "OLYMPIC GAMES": {
     "codeword": "OLYMPIC GAMES",
     "description": "Joint US and Israel operation against the Iranian nuclear program (aka Stuxnet)*\n"
   },
-  {
+  "OLYMPUS": {
     "codeword": "OLYMPUS",
     "description": "Software component of VALIDATOR/SOMBERKNAVE used to communicate via wireless LAN 802.11 hardware\n"
   },
-  {
+  "OMNIGAT": {
     "codeword": "OMNIGAT",
     "description": "Field network component\n"
   },
-  {
+  "ONEROOF": {
     "codeword": "ONEROOF",
     "description": "Main tactical SIGINT database, with raw and unfiltered intercepts; or an analytic tool *\n"
   },
-  {
+  "ONYX": {
     "codeword": "ONYX",
     "description": "Newer units of the LACROSSE reconaissance satellites\n"
   },
-  {
+  "ORANGEBLOSSOM": {
     "codeword": "ORANGEBLOSSOM",
     "description": "Sub-program of OAKSTAR for collection from an international transit switch (sigad: US-3251)*\n"
   },
-  {
+  "ORANGECRUSH": {
     "codeword": "ORANGECRUSH",
     "description": "Sub-program of OAKSTAR for collecting metadata, voice, fax, phone and internet content through a foreign access point\n"
   },
-  {
+  "ORION": {
     "codeword": "ORION",
     "description": "SIGINT satellite\n"
   },
-  {
+  "ORLANDOCARD": {
     "codeword": "ORLANDOCARD",
     "description": "NSA operation thtat attracted visits from 77,413 foreign computers and planted spyware on more than 1,000 by using a 'honeypot' computer *\n"
   },
-  {
+  "OSAGE": {
     "codeword": "OSAGE",
     "description": "The embassy of India in Washington DC\n"
   },
-  {
+  "OSCAR": {
     "codeword": "OSCAR",
     "description": "SIGINT Exchange Designator for the USA\n"
   },
-  {
+  "OSWAYO": {
     "codeword": "OSWAYO",
     "description": "The embassy annex of India in Washington DC\n"
   },
-  {
+  "OXCART": {
     "codeword": "OXCART",
     "description": "The Lockheed A-12 program (better known as SR-71)\n"
   },
-  {
+  "OZONE": {
     "codeword": "OZONE",
     "description": "Some kind of application framework *\n"
   },
-  {
+  "PACKAGEDGOODS (PG)": {
     "codeword": "PACKAGEDGOODS (PG)",
     "description": "Globally disperced and clandestine placed traceroute and DNS processors that map internet connections for the TREASUREMAP tool * *\n"
   },
-  {
+  "PACKET RAPTOR": {
     "codeword": "PACKET RAPTOR",
     "description": "System for processing internet packet data *\n"
   },
-  {
+  "PACKETSCOPE": {
     "codeword": "PACKETSCOPE",
     "description": "Internet cable tapping system\n"
   },
-  {
+  "PACKETSWING": {
     "codeword": "PACKETSWING",
     "description": "NSA tool or database\n"
   },
-  {
+  "PACKETWRENCH": {
     "codeword": "PACKETWRENCH",
     "description": "Computer exploit delivered by the FERRETCANON system *\n"
   },
-  {
+  "PADSTONE": {
     "codeword": "PADSTONE",
     "description": "Type 1 Cryptographic algorithm used in several crypto products\n"
   },
-  {
+  "PAINTBALL": {
     "codeword": "PAINTBALL",
     "description": "Analysis tool (for social network analysis?) *\n"
   },
-  {
+  "PAINTEDEAGLE": {
     "codeword": "PAINTEDEAGLE",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "PALANTERRA": {
     "codeword": "PALANTERRA",
     "description": "A family of spatially and analytically enabled Web-based interfaces used by the NGA\n"
   },
-  {
+  "PALMCARTE": {
     "codeword": "PALMCARTE",
     "description": "System that feeds FISA data to the Network Analysis Center (NAC)? *\n"
   },
-  {
+  "PANGRAM (PM)": {
     "codeword": "PANGRAM (PM)",
     "description": "Alleged SCI control system *\n"
   },
-  {
+  "PANOPLY": {
     "codeword": "PANOPLY",
     "description": "Populates INTERQUAKE with emitter information and reports *\n"
   },
-  {
+  "PANTHER": {
     "codeword": "PANTHER",
     "description": "The embassy of Vietnam in Washington DC\n"
   },
-  {
+  "PARCHDUSK (PD)": {
     "codeword": "PARCHDUSK (PD)",
     "description": "Productions Operation of NSA's TAO division *\n"
   },
-  {
+  "PARTNERMALL PROGRAM (PMP)": {
     "codeword": "PARTNERMALL PROGRAM (PMP)",
     "description": "A single collaboration environment, to be succeeded by the Global Collaboration Environment (GCE) *\n"
   },
-  {
+  "PARTSHOP": {
     "codeword": "PARTSHOP",
     "description": "?\n"
   },
-  {
+  "PASSIONATEPOLKA": {
     "codeword": "PASSIONATEPOLKA",
     "description": "TAO tool for remotely bricking network cards *\n"
   },
-  {
+  "PATHFINDER": {
     "codeword": "PATHFINDER",
     "description": "SIGINT analysis tool (developed by SAIC) *\n"
   },
-  {
+  "PATHWAY": {
     "codeword": "PATHWAY",
     "description": "NSA's former main computer communications network\n"
   },
-  {
+  "PATTERNTRACER": {
     "codeword": "PATTERNTRACER",
     "description": "Call chaining analysis tool (developed by i2)\n"
   },
-  {
+  "PAWLEYS": {
     "codeword": "PAWLEYS",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "PEARL": {
     "codeword": "PEARL",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "PEDDLECHEAP": {
     "codeword": "PEDDLECHEAP",
     "description": "Computer exploit delivered by the FERRETCANON system *\n"
   },
-  {
+  "PENDLETON": {
     "codeword": "PENDLETON",
     "description": "SI-ECI compartment related to the BULLRUN program \n"
   },
-  {
+  "PEPPERBOX": {
     "codeword": "PEPPERBOX",
     "description": "Tool or database for targeting Requests (CSEC?)\n"
   },
-  {
+  "PERDIDO": {
     "codeword": "PERDIDO",
     "description": "The mission of the European Union at the United Nations in New York\n"
   },
-  {
+  "PERFECT CITIZEN": {
     "codeword": "PERFECT CITIZEN",
     "description": "Research and engineering program to counter cyberattacks, in cooperation with Raytheon *\n"
   },
-  {
+  "PERFECTMOON": {
     "codeword": "PERFECTMOON",
     "description": "An out-sites covering system\n"
   },
-  {
+  "PERMANENTPRESS": {
     "codeword": "PERMANENTPRESS",
     "description": "SSO mobile telephone interception program, part of the MYSTIC program *\n"
   },
-  {
+  "PHANTOMNOVA": {
     "codeword": "PHANTOMNOVA",
     "description": "Program in cooperation with Turkey *\n"
   },
-  {
+  "PHOTOANGLO": {
     "codeword": "PHOTOANGLO",
     "description": "A continuous wave generator and receiver. The bugs on the other end are ANGRYNEIGHBOR class\n"
   },
-  {
+  "PIEDMONT": {
     "codeword": "PIEDMONT",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "PICARESQUE (PIQ)": {
     "codeword": "PICARESQUE (PIQ)",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "PICASSO": {
     "codeword": "PICASSO",
     "description": "Modified GSM handset that collects user data plus room audio\n"
   },
-  {
+  "PINUP": {
     "codeword": "PINUP",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "PINWALE": {
     "codeword": "PINWALE",
     "description": "Database for recorded signals intercepts/internet content\n"
   },
-  {
+  "PISCES": {
     "codeword": "PISCES",
     "description": "Joint NSA, CIA and State Department program collecting biometric data on border crossings from a wide range of countries *\n"
   },
-  {
+  "PITCHFORD": {
     "codeword": "PITCHFORD",
     "description": "SI-ECI compartment related to the BULLRUN program\n"
   },
-  {
+  "PIVOT": {
     "codeword": "PIVOT",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "PIXIE": {
     "codeword": "PIXIE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "PLATFORM": {
     "codeword": "PLATFORM",
     "description": "Computer system linking the ECHELON intercept sites *\n"
   },
-  {
+  "PLUCKHAGEN": {
     "codeword": "PLUCKHAGEN",
     "description": "An IRATEMONK implantation for ARM-based Fujitsu drives *\n"
   },
-  {
+  "PLUS": {
     "codeword": "PLUS",
     "description": "NSA SIGINT production feedback program *\n"
   },
-  {
+  "POCOMOKE": {
     "codeword": "POCOMOKE",
     "description": "The Brazilian Permanent Mission to the UN in New York\n"
   },
-  {
+  "POISON NUT": {
     "codeword": "POISON NUT",
     "description": "CES VPN attack orchestrator *\n"
   },
-  {
+  "POLARBREEZE": {
     "codeword": "POLARBREEZE",
     "description": " NSA technique to tap into nearby computers *\n"
   },
-  {
+  "POLITERAIN": {
     "codeword": "POLITERAIN",
     "description": "CNA team or operation from the ATO unit of TAO *\n"
   },
-  {
+  "POPEYESEAR": {
     "codeword": "POPEYESEAR",
     "description": "Database and with an interface (including GraphViz) used at NSA's NTOC floor *\n"
   },
-  {
+  "POPPY": {
     "codeword": "POPPY",
     "description": "SIGINT satellite program\n"
   },
-  {
+  "POPROCKS": {
     "codeword": "POPROCKS",
     "description": "Some tool, probably related to Computer Network Exploitation (CNE)\n"
   },
-  {
+  "POPTOP": {
     "codeword": "POPTOP",
     "description": "Collection system for telephony data\n"
   },
-  {
+  "POPQUIZ": {
     "codeword": "POPQUIZ",
     "description": "Project of NSA's Research Directorate to collect network metadata on high-bandwidth protocols such as HTTP, SMTP and DNS (2008) *\n"
   },
-  {
+  "POTBED": {
     "codeword": "POTBED",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "POWDER": {
     "codeword": "POWDER",
     "description": "Program for surveillance of the Turkish embassy in Washington DC\n"
   },
-  {
+  "POWELL": {
     "codeword": "POWELL",
     "description": "The Greek mission at the United Nations in New York\n"
   },
-  {
+  "PREFER": {
     "codeword": "PREFER",
     "description": "System for identifying and extracting text messages (SMS) from the DISHFIRE database *\n"
   },
-  {
+  "PRESSUREPORT": {
     "codeword": "PRESSUREPORT",
     "description": "Software interface related to PRESSUREWAVE\n"
   },
-  {
+  "PRESSUREWAVE": {
     "codeword": "PRESSUREWAVE",
     "description": "NSA cloud database for VPN and VoIP content and metadata * *\n"
   },
-  {
+  "PRIMECANE": {
     "codeword": "PRIMECANE",
     "description": "American high-tech company cooperating in providing a network access point for the ORANGECRUSH program\n"
   },
-  {
+  "PRISM": {
     "codeword": "PRISM",
     "description": "Program for collecting foreign internet data from US internet companies\n"
   },
-  {
+  "PROFORMA": {
     "codeword": "PROFORMA",
     "description": "Intelligence derived from computer-based data\n"
   },
-  {
+  "PROPHET": {
     "codeword": "PROPHET",
     "description": "Mobile tactical SIGINT collection system\n"
   },
-  {
+  "PROTEIN": {
     "codeword": "PROTEIN",
     "description": "SIGINT Exchange Designator for ? \n"
   },
-  {
+  "PROTON": {
     "codeword": "PROTON",
     "description": "Storage and analysis system for the CRISSCROSS database of (telephony?) metadata of (counterintelligence) targets; operated by CIA and used by DOJ, DOD and NSA *\n"
   },
-  {
+  "PROTOSS": {
     "codeword": "PROTOSS",
     "description": "Local computer handling radio frequency signals from implants\n"
   },
-  {
+  "PURPLE": {
     "codeword": "PURPLE",
-    "description": "Codename for a Japanese diplomatic cryptosystem during WWII\n"
+    "description": "High-level cypher machine used by Japan during World War II *\n"
   },
-  {
+  "PURPLE DRAGON": {
     "codeword": "PURPLE DRAGON",
     "description": "US military OPSEC program (since 1966)\n"
   },
-  {
+  "PUTTY": {
     "codeword": "PUTTY",
     "description": "NSA tool or database\n"
   },
-  {
+  "PUZZLECUBE": {
     "codeword": "PUZZLECUBE",
     "description": "NSA tool or database\n"
   },
-  {
+  "PYLON": {
     "codeword": "PYLON",
     "description": "SIGINT Exchange Designator for ? \n"
   },
-  {
+  "QUADRANT": {
     "codeword": "QUADRANT",
     "description": "A crypto implementation code\n"
   },
-  {
+  "QUADRESPECTRE PRIME": {
     "codeword": "QUADRESPECTRE PRIME",
     "description": "?\n"
   },
-  {
+  "QFIRE": {
     "codeword": "QFIRE",
     "description": "A consolidated QUANTUMTHEORY platform to reduce latencies by co-locating passive sensors with local decisioning and traffic injection (under development in 2011)\n"
   },
-  {
+  "QUANTUM": {
     "codeword": "QUANTUM",
     "description": "Secret servers placed by NSA at key places on the internet backbone; part of the TURMOIL program *\n"
   },
-  {
+  "QUANTUMBISCUIT": {
     "codeword": "QUANTUMBISCUIT",
     "description": "Enhancement of QUANTUMINSERT for targets which are behind large proxies *\n"
   },
-  {
+  "QUANTUMBOT": {
     "codeword": "QUANTUMBOT",
     "description": "Method for taking control of idle IRC bots and botnets) *\n"
   },
-  {
+  "QUANTUMBOT2": {
     "codeword": "QUANTUMBOT2",
     "description": "Combination of Q-BOT and Q-BISCUIT for webbased botnets *\n"
   },
-  {
+  "QUANTUMCOOKIE": {
     "codeword": "QUANTUMCOOKIE",
     "description": "Method to force cookies onto target computers\n"
   },
-  {
+  "QUANTUMCOPPER": {
     "codeword": "QUANTUMCOPPER",
     "description": "Method for corrupting file uploads and downloads *\n"
   },
-  {
+  "QUANTUMDIRK": {
     "codeword": "QUANTUMDIRK",
     "description": "Replacement for the QUANTUMINSERT hacking toolset that injects malicious content into chat services provided by websites such as Facebook and Yahoo *\n"
   },
-  {
+  "QUANTUMDNS": {
     "codeword": "QUANTUMDNS",
     "description": "DNS injection/redirection based off of A record queries *\n"
   },
-  {
+  "QUANTUMHAND": {
     "codeword": "QUANTUMHAND",
     "description": "Man-on-the-side technique using a fake Facebook server * \n"
   },
-  {
+  "QUANTUMINSERT (QI)": {
     "codeword": "QUANTUMINSERT (QI)",
     "description": "Man-on-the-side technique that redirects target internet traffic to a FOXACID server for exploitation *\n"
   },
-  {
+  "QUANTUMMUSH": {
     "codeword": "QUANTUMMUSH",
     "description": "Targeted spam exploitation method *\n"
   },
-  {
+  "QUANTUMNATION": {
     "codeword": "QUANTUMNATION",
     "description": "Umbrella for COMMONDEER and VALIDATOR computer exploits\n"
   },
-  {
+  "QUANTUMPHANTOM": {
     "codeword": "QUANTUMPHANTOM",
     "description": "Hijacks any IP address to use as covert infrastructure *\n"
   },
-  {
+  "QUANTUMSKY": {
     "codeword": "QUANTUMSKY",
     "description": "Malware used to block targets from accessing certain websites through RST packet spoofing *\n"
   },
-  {
+  "QUANTUMSMACKDOWN": {
     "codeword": "QUANTUMSMACKDOWN",
     "description": "Method for using packet injection to block attacks against DoD computers * \n"
   },
-  {
+  "QUANTUMSPIN": {
     "codeword": "QUANTUMSPIN",
     "description": "Exploitation method for instant messaging *\n"
   },
-  {
+  "QUANTUMSQUEEL": {
     "codeword": "QUANTUMSQUEEL",
     "description": "Method for injecting MySQL persistant database connections *\n"
   },
-  {
+  "QUANTUMSQUIRREL": {
     "codeword": "QUANTUMSQUIRREL",
     "description": "Using any IP address as a covert infrastructure *\n"
   },
-  {
+  "QUANTUMTHEORY (QT)": {
     "codeword": "QUANTUMTHEORY (QT)",
     "description": "Computer hacking toolbox used by NSA's TAO division, which dynamically injects packets into target's network session *\n"
   },
-  {
+  "QUANTUM LEAP": {
     "codeword": "QUANTUM LEAP",
     "description": "CIA tool to \"find non-obvious linkages, new connections, and new information\" from within a dataset *\n"
   },
-  {
+  "QUARTERPOUNDER": {
     "codeword": "QUARTERPOUNDER",
     "description": "Upstream collection site \n"
   },
-  {
+  "QUASAR": {
     "codeword": "QUASAR",
     "description": "Relay satellite for reconaissance satellites\n"
   },
-  {
+  "QUEENSLAND": {
     "codeword": "QUEENSLAND",
     "description": "Upstream collection site\n"
   },
-  {
+  "QUERTY": {
     "codeword": "QUERTY",
     "description": "TAO keylogger tool, maybe as a module of the WARRIORPRIDE program *\n"
   },
-  {
+  "QUICKPOINT": {
     "codeword": "QUICKPOINT",
     "description": "Distribution system *\n"
   },
-  {
+  "RADIOSPRING": {
     "codeword": "RADIOSPRING",
     "description": "?\n"
   },
-  {
+  "RADIUS": {
     "codeword": "RADIUS",
     "description": "Systems that logs ISP dial up customer records, which can create a \"natural link\" between DNR and DNI datasets *\n"
   },
-  {
+  "RADON": {
     "codeword": "RADON",
     "description": "Host tap that can inject Ethernet packets *\n"
   },
-  {
+  "RAGEMASTER": {
     "codeword": "RAGEMASTER",
     "description": "Part of ANGRYNEIGHBOR radar retro-reflectors, for red video graphics array cable in ferrite bead RFI chokers between video card and monitor, target for RF flooding and collection of VAGRANT video signal\n"
   },
-  {
+  "RAGTIME (RGT)": {
     "codeword": "RAGTIME (RGT)",
     "description": "ECI compartment for call and e-mail content collected under FISA authority *\n"
   },
-  {
+  "RAILHEAD": {
     "codeword": "RAILHEAD",
     "description": "NCTC database project\n"
   },
-  {
-    "codeword": "RAINFALL",
-    "description": "(NSA unit for decrypting) Russian secure, encrypted voice communications (around 1979)*\n"
-  },
-  {
+  "RAINFALL": {
     "codeword": "RAINFALL",
     "description": "Probably the joint CIA/NSA/DSD satellite ground station in Pine Gap, Australia * \n"
   },
-  {
+  "RAISIN": {
     "codeword": "RAISIN",
     "description": "NSA database or tool\n"
   },
-  {
+  "RAMPART-A (RAM-A)": {
     "codeword": "RAMPART-A (RAM-A)",
     "description": "Program for collecting information about Russia, the Middle East and North-Africa, in cooperation with at least five 3rd Party partner agencies (since 1992)*\n"
   },
-  {
+  "RAMPART-I (RAM-I)": {
     "codeword": "RAMPART-I (RAM-I)",
     "description": "Program for collecting communications from Iraq\n"
   },
-  {
+  "RAMPART-M (RAM-M)": {
     "codeword": "RAMPART-M (RAM-M)",
     "description": "Program for collecting data from undersea fiber-optic cables about terrorists, arms traders and Iraq (since 1986)*\n"
   },
-  {
+  "RAMPART-T (RAM-T)": {
     "codeword": "RAMPART-T (RAM-T)",
     "description": "Program providing access to land-based cables, in cooperation with the CIA, to collect communications from state leaders and their entourage (since 1991)*\n"
   },
-  {
+  "RAMPART-X (RAM-X)": {
     "codeword": "RAMPART-X (RAM-X)",
     "description": "Program for collecting information from Afghanistan * \n"
   },
-  {
+  "RANCIDRINSE": {
     "codeword": "RANCIDRINSE",
     "description": "SSO mobile telephone interception program, part of the MYSTIC program *\n"
   },
-  {
+  "RAVEN": {
     "codeword": "RAVEN",
     "description": "SIGINT satellite\n"
   },
-  {
+  "REACTOR": {
     "codeword": "REACTOR",
     "description": "Tool or program related to MARINA? *\n"
   },
-  {
+  "REBA": {
     "codeword": "REBA",
     "description": "Major NSA backbone project *\n"
   },
-  {
+  "RED DISK": {
     "codeword": "RED DISK",
     "description": "DIA cloud system to distribute information, images and video to soldiers and other military intelligence users.\n"
   },
-  {
+  "REDHARVEST (RDV)": {
     "codeword": "REDHARVEST (RDV)",
     "description": "ECI compartment that protects names, locations and techniques of RAMPART-A cable tapping facilities *\n"
   },
-  {
+  "REDHAWK": {
     "codeword": "REDHAWK",
     "description": "NSA tool\n"
   },
-  {
+  "REDROOF": {
     "codeword": "REDROOF",
     "description": "NSA tool\n"
   },
-  {
+  "REGIN": {
     "codeword": "REGIN",
     "description": "Highly sophisticated spyware found in computers systems worldwide, supposedly used by NSA and GCHQ (discovered in 2013, codename by Microsoft) *\n"
   },
-  {
+  "REMATION": {
     "codeword": "REMATION",
     "description": "Joint NSA-GCHQ counter-TOR workshop *\n"
   },
-  {
+  "RENOIR": {
     "codeword": "RENOIR",
     "description": "NSA telephone network visualization tool\n"
   },
-  {
+  "REQUETTE": {
     "codeword": "REQUETTE",
     "description": "A Taiwanese TECO in New York\n"
   },
-  {
+  "RESERVE (RSV)": {
     "codeword": "RESERVE (RSV)",
     "description": "Control system for the National Reconnaissance Office (NRO)\n"
   },
-  {
+  "RESERVEVISION": {
     "codeword": "RESERVEVISION",
     "description": "Remote monitoring tool\n"
   },
-  {
+  "RESOLUTETITAN": {
     "codeword": "RESOLUTETITAN",
     "description": "Internet cable access program?\n"
   },
-  {
+  "RETRO": {
     "codeword": "RETRO",
     "description": "see RETROSPECTIVE\n"
   },
-  {
+  "RETROSPECTIVE": {
     "codeword": "RETROSPECTIVE",
     "description": "30-day retrospective retrieval tool for SCALAWAG *\n"
   },
-  {
+  "RETURNSPRING": {
     "codeword": "RETURNSPRING",
     "description": "High-side server shown in UNITEDRAKE internet cafe monitoring graphic\n"
   },
-  {
+  "RHINEHEART": {
     "codeword": "RHINEHEART",
     "description": "NSA tool or database\n"
   },
-  {
+  "RHYOLITE": {
     "codeword": "RHYOLITE",
     "description": "Class of SIGINT spy satellites (in 1975 changed to AQUACADE)\n"
   },
-  {
+  "RICHTER": {
     "codeword": "RICHTER",
     "description": "SIGINT Exchange Designator for Germany \n"
   },
-  {
+  "RIPCORD": {
     "codeword": "RIPCORD",
     "description": "?\n"
   },
-  {
+  "RIVET JOINT": {
     "codeword": "RIVET JOINT",
     "description": "Reconaissance operation\n"
   },
-  {
+  "ROADBED": {
     "codeword": "ROADBED",
     "description": "Probably a military SIGINT database\n"
   },
-  {
+  "ROCKYKNOB": {
     "codeword": "ROCKYKNOB",
     "description": "Optional DSP when using Data Over Voice transmission in CROSSBEAM\n"
   },
-  {
+  "ROGUESAMURAI": {
     "codeword": "ROGUESAMURAI",
     "description": "Test framework of TAO's persistence division for testing computer exploits *\n"
   },
-  {
+  "RONIN": {
     "codeword": "RONIN",
     "description": "NSA tool for detecting TOR-node and/or mobile IP-addresses * *\n"
   },
-  {
+  "RORIPA": {
     "codeword": "RORIPA",
     "description": "SIGINT Exchange Designator for ?\n"
   },
-  {
+  "ROSTER": {
     "codeword": "ROSTER",
     "description": "Satellite ground system * \n"
   },
-  {
+  "ROUTEVIEWS": {
     "codeword": "ROUTEVIEWS",
     "description": "Open source inforamtion used for the TREASUREMAP tool *\n"
   },
-  {
+  "ROYALNET": {
     "codeword": "ROYALNET",
     "description": "Internet exploitation tool\n"
   },
-  {
+  "RUFF": {
     "codeword": "RUFF",
     "description": "Compartment of TALENT KEYHOLE for satellite imagery *\n"
   },
-  {
+  "RUMBUCKET": {
     "codeword": "RUMBUCKET",
     "description": "Analytic tool\n"
   },
-  {
+  "RUNWAY": {
     "codeword": "RUNWAY",
     "description": "Processing system at Menwith Hill *\n"
   },
-  {
+  "RUSTICBAGGAGE": {
     "codeword": "RUSTICBAGGAGE",
     "description": "Data source for the TREASUREMAP tool *\n"
   },
-  {
+  "RUTLEY": {
     "codeword": "RUTLEY",
     "description": "Network of SIGINT satellites launched in 1994 and 1995, or a processing system at Menwith Hill *\n"
   },
-  {
+  "SABRE": {
     "codeword": "SABRE",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "SADDLEBACK": {
     "codeword": "SADDLEBACK",
     "description": "Hacking tool that performs a firmware modification? *\n"
   },
-  {
+  "SALEM": {
     "codeword": "SALEM",
     "description": "?\n"
   },
-  {
+  "SALTYDOGS": {
     "codeword": "SALTYDOGS",
     "description": "Tool to find frequency and carrier rates and discover signal characteristics of satellite links *\n"
   },
-  {
+  "SALVAGERABBIT": {
     "codeword": "SALVAGERABBIT",
     "description": "Computer implant plug-in that exfiltrates data from removable flash drives that connect to an infected computer\n"
   },
-  {
+  "SAMOS": {
     "codeword": "SAMOS",
     "description": "Reconnaissance satellite program\n"
   },
-  {
+  "SANDKEY": {
     "codeword": "SANDKEY",
     "description": "Joint NSA/DEA program that intercepts and exploits unencrypted VHF voice communications of narco-traffickers at sea *\n"
   },
-  {
+  "SAPPY": {
     "codeword": "SAPPY",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "SARATOGA": {
     "codeword": "SARATOGA",
     "description": "SSO access facility (since 2011) * *\n"
   },
-  {
+  "SARDINE": {
     "codeword": "SARDINE",
     "description": "SIGINT Exchange Designator for Sweden \n"
   },
-  {
+  "SAVILLE": {
     "codeword": "SAVILLE",
     "description": "Narrow band voice encryption for radio and telephone communication\n"
   },
-  {
+  "SAVIN": {
     "codeword": "SAVIN",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "SCALAWAG": {
     "codeword": "SCALAWAG",
     "description": "Collection facility under the MYSTIC program *\n"
   },
-  {
+  "SCALLION": {
     "codeword": "SCALLION",
     "description": "Upstream collection site \n"
   },
-  {
+  "SCAPEL": {
     "codeword": "SCAPEL",
-    "description": "Second Party satellite intercept station in Nairobi, Kenia\n"
+    "description": "Former satellite intercept station near Nairobi in Kenya\n"
   },
-  {
+  "SCHOOLMONTANA": {
     "codeword": "SCHOOLMONTANA",
     "description": "Software implant for Juniper J-series routers used to direct traffic between server, desktop computers, corporate network and internet\n"
   },
-  {
+  "SCIMITAR": {
     "codeword": "SCIMITAR",
     "description": "A tool to create contact graphs? *\n"
   },
-  {
+  "SCISSORS": {
     "codeword": "SCISSORS",
     "description": "System used for separating different types of data and protocols\n"
   },
-  {
+  "SCORECARD": {
     "codeword": "SCORECARD",
     "description": "NSA tool or database\n"
   },
-  {
+  "SCORPIOFORE": {
     "codeword": "SCORPIOFORE",
     "description": "SIGINT reporting tool *\n"
   },
-  {
+  "SCREAMINGHARPY": {
     "codeword": "SCREAMINGHARPY",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "SEABOOT": {
     "codeword": "SEABOOT",
     "description": "SIGINT Exchange Designator for ?\n"
   },
-  {
+  "SEADIVER": {
     "codeword": "SEADIVER",
     "description": "Collection system for telephony data\n"
   },
-  {
+  "SEAGULLFARO": {
     "codeword": "SEAGULLFARO",
     "description": "High-side server shown in UNITEDRAKE internet cafe monitoring graphic\n"
   },
-  {
+  "SEARCHLITE": {
     "codeword": "SEARCHLITE",
     "description": "Tactical SIGINT collecting system for like cell phone calls\n"
   },
-  {
+  "SEA SENTRY": {
     "codeword": "SEA SENTRY",
     "description": "Program for collecting radar signatures from shipping traffic in the Dardanelles *\n"
   },
-  {
+  "SEA SENTRY II": {
     "codeword": "SEA SENTRY II",
     "description": "Choke point collection program in cooperation with Turkey *\n"
   },
-  {
+  "SEASIDEFERRY": {
     "codeword": "SEASIDEFERRY",
     "description": "Commercially purchased data source for the TREASUREMAP tool *\n"
   },
-  {
+  "SEASONEDMOTH (SMOTH)": {
     "codeword": "SEASONEDMOTH (SMOTH)",
     "description": "Stage0 computer implant which dies after 30 days, deployed by the QUANTUMNATION method\n"
   },
-  {
+  "SECONDDATE": {
     "codeword": "SECONDDATE",
     "description": "Method to influence real-time communications between client and server in order to redirect web-browsers to FOXACID malware servers *\n"
   },
-  {
+  "SECUREINSIGHT": {
     "codeword": "SECUREINSIGHT",
     "description": "A software framework to support high-volume analytics\n"
   },
-  {
+  "SEED SPHERE": {
     "codeword": "SEED SPHERE",
     "description": "Computer network \"intrusion set\" already identified in 2007 *\n"
   },
-  {
+  "SEMESTER": {
     "codeword": "SEMESTER",
     "description": "NSA SIGINT reporting tool\n"
   },
-  {
+  "SENIOR SCOUT": {
     "codeword": "SENIOR SCOUT",
     "description": "Transportable suite of ISR equipment (since 1991)\n"
   },
-  {
+  "SENIOR SPAN": {
     "codeword": "SENIOR SPAN",
     "description": "Radome on top of the U2 to relay SIGINT data to ground stations\n"
   },
-  {
+  "SENTINEL": {
     "codeword": "SENTINEL",
     "description": "NSA database security filter*\n"
   },
-  {
+  "SENTRY EAGLE (SEE)": {
     "codeword": "SENTRY EAGLE (SEE)",
     "description": "Overarching umbrella program for ECI compartments and SAP programs of the National Initiative to protect US cyberspace\n"
   },
-  {
+  "SENTRY HAWK": {
     "codeword": "SENTRY HAWK",
     "description": "ECI compartment of SENTRY EAGLE that protects information about Computer Network Exploitation *\n"
   },
-  {
+  "SENTRY FALCON": {
     "codeword": "SENTRY FALCON",
     "description": "ECI compartment of SENTRY EAGLE that protects information about Computer Network Defense *\n"
   },
-  {
+  "SENTRY OSPREY": {
     "codeword": "SENTRY OSPREY",
     "description": "ECI compartment of SENTRY EAGLE that protects information about HUMINT enabled SIGINT *\n"
   },
-  {
+  "SENTRY RAVEN": {
     "codeword": "SENTRY RAVEN",
     "description": "ECI compartment of SENTRY EAGLE that protects information about exploitation of encipherment *\n"
   },
-  {
+  "SENTRY CONDOR": {
     "codeword": "SENTRY CONDOR",
     "description": "ECI compartment of SENTRY EAGLE that protects information about general Computer Network Operations *\n"
   },
-  {
+  "SENTRY OWL": {
     "codeword": "SENTRY OWL",
     "description": "ECI compartment of SENTRY EAGLE that protects information about relationships with industry *\n"
   },
-  {
+  "SERENADE": {
     "codeword": "SERENADE",
     "description": "SSO corporate partner (foreign?) *\n"
   },
-  {
+  "SERUM": {
     "codeword": "SERUM",
     "description": "Bank of servers within ROC managing approvals and ticket system\n"
   },
-  {
+  "SETTEE": {
     "codeword": "SETTEE",
     "description": "SIGINT Exchange Designator for ?\n"
   },
-  {
+  "SHAMROCK": {
     "codeword": "SHAMROCK",
     "description": "Operation for intercepting telegraphic data going in or out the US (1945-1975)\n"
   },
-  {
+  "SHAREDTAFFY": {
     "codeword": "SHAREDTAFFY",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "SHAREDVISION": {
     "codeword": "SHAREDVISION",
     "description": "Mission program at Menwith Hill satellite station *\n"
   },
-  {
+  "SHARKFIN": {
     "codeword": "SHARKFIN",
     "description": "Sweeps up all-source communications intelligence at high speed and volumes *\n"
   },
-  {
+  "SHARPFOCUS (SF2)": {
     "codeword": "SHARPFOCUS (SF2)",
     "description": "Productions Operation of NSA's TAO division *\n"
   },
-  {
+  "SHARPSHADOW": {
     "codeword": "SHARPSHADOW",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "SHELLTRUMPET": {
     "codeword": "SHELLTRUMPET",
     "description": "NSA metadata processing program (since December 2007)*\n"
   },
-  {
+  "SHENANIGANS": {
     "codeword": "SHENANIGANS",
     "description": "Aircraft-based NSA geolocation system used by CIA *\n"
   },
-  {
+  "SHIFTINGSHADOW": {
     "codeword": "SHIFTINGSHADOW",
     "description": "Sub-program of OAKSTAR for collecting telephone metadata and voice content from Afghanistan through a foreign access point\n"
   },
-  {
+  "SHILLELAGH": {
     "codeword": "SHILLELAGH",
     "description": "Classified Suite A algorithm\n"
   },
-  {
+  "SHORTSHEET": {
     "codeword": "SHORTSHEET",
-    "description": "NSA tool for Computer Network Exploitation *\n"
+    "description": "Exploitation server used in QUANTUM operations *\n"
   },
-  {
+  "SHOTGIANT": {
     "codeword": "SHOTGIANT",
     "description": "NSA operation for hacking and monitoring the Huawei network (since 2009)\n"
   },
-  {
+  "SIERRAMIST": {
     "codeword": "SIERRAMIST",
     "description": "Tool to support various file systems *\n"
   },
-  {
+  "SIERRAMONTANA": {
     "codeword": "SIERRAMONTANA",
     "description": "Software implant for Juniper M-series routers used by enterprises and service providers\n"
   },
-  {
+  "SIGINT NAVIGATOR": {
     "codeword": "SIGINT NAVIGATOR",
     "description": "NSA database\n"
   },
-  {
+  "SIGSALY": {
     "codeword": "SIGSALY",
     "description": "The first secure voice system from World War II\n"
   },
-  {
+  "SILKWORTH": {
     "codeword": "SILKWORTH",
     "description": "A software program used for the ECHELON system\n"
   },
-  {
+  "SILLYBUNNY": {
     "codeword": "SILLYBUNNY",
     "description": "Some kind of webbrowser tag which can be used as selector *\n"
   },
-  {
+  "SILVER": {
     "codeword": "SILVER",
-    "description": "Soviet cipher machine partially exploited by NSA in the 1960's\n"
+    "description": "SIS operation to wiretap Soviet army landlines through a tunnel under Vienna (1949-1955)\n"
   },
-  {
+  "SILVERCOMET": {
     "codeword": "SILVERCOMET",
     "description": "SIGINT satellites? *\n"
   },
-  {
+  "SILVERZEPHYR (SZ)": {
     "codeword": "SILVERZEPHYR (SZ)",
     "description": "Sub-program of OAKSTAR for collecting phone and internet metadata and content from Latin and South America through an international transit switch\n"
   },
-  {
+  "SIRE": {
     "codeword": "SIRE",
     "description": "A software program used for the ECHELON system(?)\n"
   },
-  {
+  "SKIPJACK": {
     "codeword": "SKIPJACK",
     "description": "Type 2 Block cipher algorithms used in various crypto products\n"
   },
-  {
+  "SKOPE": {
     "codeword": "SKOPE",
     "description": "SIGINT analytical toolkit\n"
   },
-  {
+  "SKYHOOKCHOW": {
     "codeword": "SKYHOOKCHOW",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "SKYSCRAPER": {
     "codeword": "SKYSCRAPER",
     "description": "Interface to the ROADBED system\n"
   },
-  {
+  "SKYWRITER": {
     "codeword": "SKYWRITER",
     "description": "NSA tool to prepare (internet) intelligence reports\n"
   },
-  {
+  "SLICKERVICAR": {
     "codeword": "SLICKERVICAR",
     "description": "Used with UNITEDRAKE or STRAITBIZARRE to upload hard drive firmware to implant IRATEMONK\n"
   },
-  {
+  "SLINGSHOT": {
     "codeword": "SLINGSHOT",
     "description": "End Product Reports (CSEC?)\n"
   },
-  {
+  "SMOKEYSINK (SMK)": {
     "codeword": "SMOKEYSINK (SMK)",
     "description": "Cable tapping facility operated in cooperation with a 3rd Party agency, part of the RAMPART-A program (cosed in June 2011)*\n"
   },
-  {
+  "SNICK": {
     "codeword": "SNICK",
-    "description": "GCHQ satellite intercept station in Oman\n"
+    "description": "Satellite intercept station near Seeb in Oman\n"
   },
-  {
+  "SNORT": {
     "codeword": "SNORT",
     "description": "Repository of computer network attack techniques/coding\n"
   },
-  {
+  "SNOWGLOBE": {
     "codeword": "SNOWGLOBE",
     "description": "Hacking operations against the US that may have originated in France *\n"
   },
-  {
+  "SOAPOPERA": {
     "codeword": "SOAPOPERA",
     "description": "(former?) database for voice, end product and SRI information *\n"
   },
-  {
+  "SOCIALSTAMP": {
     "codeword": "SOCIALSTAMP",
     "description": "Commercially purchased data source for the TREASUREMAP tool *\n"
   },
-  {
+  "SOCIOPATH": {
     "codeword": "SOCIOPATH",
     "description": "Storage and/or distribution system *\n"
   },
-  {
+  "SODAPRESSED": {
     "codeword": "SODAPRESSED",
     "description": "Linux application presistence *\n"
   },
-  {
+  "SOMALGET": {
     "codeword": "SOMALGET",
     "description": "Umbrella program for collecting content from mobile phone networks of two entire countries, part of MYSTIC (sigad: US-3310**)\n"
   },
-  {
+  "SOMBERKNAVE": {
     "codeword": "SOMBERKNAVE",
     "description": "Windows XP wireless software implant providing covert internet connectivity, routing TCP traffic via an unused 802.11 network device allowing OLYMPUS or VALIDATOR to call home from air-gapped computer\n"
   },
-  {
+  "SORTINGHAT": {
     "codeword": "SORTINGHAT",
     "description": "?\n"
   },
-  {
+  "SORTINGLEAD": {
     "codeword": "SORTINGLEAD",
     "description": "NSA tool or database\n"
   },
-  {
+  "SOUFFLETROUGH": {
     "codeword": "SOUFFLETROUGH",
     "description": "Software implant in BIOS Juniper SSG300 and SSG500 devices, permanent backdoor, modifies ScreenOS at boot, utilizes Intel's System Management Mode\n"
   },
-  {
+  "SOUNDER": {
     "codeword": "SOUNDER",
-    "description": "Second Party satellite intercept station at Cyprus\n"
+    "description": "Satellite intercept station at Ayios Nikolaos on Cyprus\n"
   },
-  {
+  "SPARKLEPONY": {
     "codeword": "SPARKLEPONY",
     "description": "Tool or program related to MARINA *\n"
   },
-  {
+  "SPARROW II": {
     "codeword": "SPARROW II",
     "description": "Airborne wireless network detector running BLINDDATE tools via 802.11\n"
   },
-  {
+  "SPEARGUN": {
     "codeword": "SPEARGUN",
     "description": "Cable tapping program of New Zealand's GCSB (since 2012) *\n"
   },
-  {
+  "SPECTRE": {
     "codeword": "SPECTRE",
     "description": "SCI control system for intelligence on terrorist activities *\n"
   },
-  {
+  "SPECULATION": {
     "codeword": "SPECULATION",
     "description": "Protocol for over-the-air communication between COTTONMOUTH computer implant devices, compatible with HOWLERMONKEY\n"
   },
-  {
+  "SPHINX": {
     "codeword": "SPHINX",
     "description": "Counterintelligence database of the Defense Intelligence Agency\n"
   },
-  {
+  "SPINNERET (SPN)": {
     "codeword": "SPINNERET (SPN)",
     "description": "Cable tapping facility operated in cooperation with a trusted 3rd Party agency, part of the RAMPART-A program * *\n"
   },
-  {
+  "SPITEFULANGEL": {
     "codeword": "SPITEFULANGEL",
     "description": "Hacking tool or method in or for the Python programming language *\n"
   },
-  {
+  "SPLITGLASS": {
     "codeword": "SPLITGLASS",
     "description": "NSA analytical database *\n"
   },
-  {
+  "SPLUNK": {
     "codeword": "SPLUNK",
     "description": "Tool used for SIGINT Development\n"
   },
-  {
+  "SPOKE": {
     "codeword": "SPOKE",
     "description": "Compartment for less sensitive (Category II) COMINT material, retired in 1999 * but apparently still in use as unpublished SCI control system\n"
   },
-  {
+  "SPOTBEAM": {
     "codeword": "SPOTBEAM",
     "description": "?\n"
   },
-  {
+  "SPORTCOAST": {
     "codeword": "SPORTCOAST",
     "description": "Upstream collection site \n"
   },
-  {
+  "SPRIG": {
     "codeword": "SPRIG",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "SPRINGRAY": {
     "codeword": "SPRINGRAY",
     "description": "Some kind of internal notification system *\n"
   },
-  {
+  "SPYDER": {
     "codeword": "SPYDER",
     "description": "Analytic tool for selected content of text messages from the DISHFIRE database *\n"
   },
-  {
+  "STARBURST": {
     "codeword": "STARBURST",
     "description": "The initial code word for the STELLARWIND compartment\n"
   },
-  {
+  "STARFIRE": {
     "codeword": "STARFIRE",
     "description": "NSA contact chaining algorithm (developed in 1999) *\n"
   },
-  {
+  "STARLIGHT": {
     "codeword": "STARLIGHT",
     "description": "Analyst tool\n"
   },
-  {
+  "STARPROC": {
     "codeword": "STARPROC",
     "description": "User lead that can be uses as a selector *\n"
   },
-  {
+  "STARSEARCH": {
     "codeword": "STARSEARCH",
     "description": "Target Knowledge tool or database (CSEC?)\n"
   },
-  {
+  "STATEROOM": {
     "codeword": "STATEROOM",
     "description": "Covert SIGINT collection sites based in US diplomatic facilities *\n"
   },
-  {
+  "STEALTHFIGTHER": {
     "codeword": "STEALTHFIGTHER",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "STEELFLAUTA": {
     "codeword": "STEELFLAUTA",
     "description": "SSO Corporate/TAO Shaping program\n"
   },
-  {
+  "STEELKNIGHT": {
     "codeword": "STEELKNIGHT",
     "description": "(foreign?) partner providing a network access point for the SILVERZEPHYR program *\n"
   },
-  {
+  "STEELWINTER": {
     "codeword": "STEELWINTER",
     "description": "A supercomputer acquired by the Norwegian military intelligence agency *\n"
   },
-  {
+  "STELLAR": {
     "codeword": "STELLAR",
     "description": "Second Party satellite intercept station at Geraldton, Australia\n"
   },
-  {
+  "STELLARWIND (STLW)": {
     "codeword": "STELLARWIND (STLW)",
     "description": "SCI compartment for the President's Surveillance Program information \n"
   },
-  {
+  "STEPHANIE": {
     "codeword": "STEPHANIE",
     "description": "Covert listening post in the Canadian embassy in Moscow (est. 1972)\n"
   },
-  {
+  "STINGRAY": {
     "codeword": "STINGRAY",
     "description": "Device for tracking the location of cell phones (made by Harris Corp.) *\n"
   },
-  {
+  "STONEGHOST": {
     "codeword": "STONEGHOST",
     "description": "DIA network for information exchange with UK, Canada, Australia and New Zealand (TS/SCI)\n"
   },
-  {
+  "STONE RUBY": {
     "codeword": "STONE RUBY",
     "description": "Intelligence exchange agreement between DIA and the Israeli military intelligence directorate (1996) *\n"
   },
-  {
+  "STORMBREW": {
     "codeword": "STORMBREW",
     "description": "Program for collection from an international transit switches and cables (since 2001)\n"
   },
-  {
+  "STRAITACID": {
     "codeword": "STRAITACID",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "STRAI(GH)TBIZARRE (SBZ)": {
     "codeword": "STRAI(GH)TBIZARRE (SBZ)",
     "description": "TAO software implant used to communicate through covert channels * or spyware that can turn computers into disposable and non-attributable \n"
   },
-  {
+  "STRAITSHOOTER": {
     "codeword": "STRAITSHOOTER",
     "description": "Codeword found in the source code used by the Equation hacking group *\n"
   },
-  {
+  "STRATOS": {
     "codeword": "STRATOS",
     "description": "Tool or databse for GPRS Events (CSEC?)\n"
   },
-  {
+  "STRAWHAT": {
     "codeword": "STRAWHAT",
     "description": "NSA datalinks between field sites and processing centers (1969-?)*\n"
   },
-  {
+  "S-TRICKLER": {
     "codeword": "S-TRICKLER",
     "description": "Tool or database with IP address fingerprints and potential vulnarabilities from the FORNSAT collection *\n"
   },
-  {
+  "STRIKEZONE": {
     "codeword": "STRIKEZONE",
     "description": "Device running HOWLERMONKEY personality\n"
   },
-  {
+  "STRONGMITE": {
     "codeword": "STRONGMITE",
     "description": "Computer at remote operations center used for long range communications\n"
   },
-  {
+  "STRUM": {
     "codeword": "STRUM",
     "description": "(see abbreviations)\n"
   },
-  {
+  "STUCCOMONTANA": {
     "codeword": "STUCCOMONTANA",
     "description": "Software implant for Juniper T-Series routers used in large fixed-line, mobile, video, and cloud networks, otherwise just like SCHOOLMONTANA\n"
   },
-  {
+  "STUMPCURSOR": {
     "codeword": "STUMPCURSOR",
     "description": "Foreign computer accessing program of the NSA's Tailored Access Operations\n"
   },
-  {
+  "STUXNET": {
     "codeword": "STUXNET",
     "description": "A computer worm that was used to destroy Iran's nuclear centrifuges (discovered in 2010)\n"
   },
-  {
+  "STYLISHCHAMP": {
     "codeword": "STYLISHCHAMP",
     "description": "Tool that can create a HPA on a hard drive and then provide raw reads and writes to this area *\n"
   },
-  {
+  "SUBSTRATUM": {
     "codeword": "SUBSTRATUM",
     "description": "Upstream collection site\n"
   },
-  {
+  "SUEDE": {
     "codeword": "SUEDE",
     "description": "Compartment for Top Secret COMINT information (1951-1952) *\n"
   },
-  {
+  "SULPHUR": {
     "codeword": "SULPHUR",
     "description": "The mission of South Korea at the United Nations in New York\n"
   },
-  {
+  "SUNSCREEN": {
     "codeword": "SUNSCREEN",
     "description": "Tool or database\n"
   },
-  {
+  "SURFBOARD": {
     "codeword": "SURFBOARD",
     "description": "NSA tool or database\n"
   },
-  {
+  "SURLEYSPAWN": {
     "codeword": "SURLEYSPAWN",
     "description": "Data RF retro-reflector, gathers keystrokes FSK frequency shift keyed radar retro-reflector, USB or IBM keyboards\n"
   },
-  {
+  "SURPLUSHANGAR (SH)": {
     "codeword": "SURPLUSHANGAR (SH)",
     "description": "High to low diode, part of the QUANTUM system *\n"
   },
-  {
+  "SURREY": {
     "codeword": "SURREY",
     "description": "Main NSA requirements database, where tasking instructions are stored and validated, used by the FORNSAT, SSO and TAO divisions *\n"
   },
-  {
+  "SUTURESAILOR": {
     "codeword": "SUTURESAILOR",
     "description": "Printed circuit board digital core used with HOWLERMONKEY\n"
   },
-  {
+  "SWAMP": {
     "codeword": "SWAMP",
     "description": "NSA data system?\n"
   },
-  {
+  "SWAP": {
     "codeword": "SWAP",
     "description": "Implanted software persistence by exploiting motherboard BIOS and hard drive Host Protected Area for execution before OS loads, operative on windows linux, freeBSD Solaris\n"
   },
-  {
+  "SYNAPSE": {
     "codeword": "SYNAPSE",
     "description": "NSA tool for analyzing target connections *\n"
   },
-  {
+  "TACOSUAVE": {
     "codeword": "TACOSUAVE",
     "description": "?\n"
   },
-  {
+  "TALENT KEYHOLE (TK)": {
     "codeword": "TALENT KEYHOLE (TK)",
     "description": "Control system for space-based collection platforms \n"
   },
-  {
+  "TALK QUICK": {
     "codeword": "TALK QUICK",
     "description": "An interim secure voice system created to satisfy urgent requirements imposed by conditions to Southeast Asia. Function was absorbed by AUTOSEVOCOM\n"
   },
-  {
+  "TAPERLAY": {
     "codeword": "TAPERLAY",
     "description": "Covername for the Global Numbering Data Base (GNDB) containing telephony and provider information *\n"
   },
-  {
+  "TARMAC": {
     "codeword": "TARMAC",
     "description": "Program to intercept satellite communications at Menwith Hill Station *\n"
   },
-  {
+  "TAROTCARD": {
     "codeword": "TAROTCARD",
     "description": "NSA tool or database\n"
   },
-  {
+  "TAWDRYYARD": {
     "codeword": "TAWDRYYARD",
     "description": "Beacon radio frequency radar retro-reflector used to positionally locate deployed RAGEMASTER units\n"
   },
-  {
+  "TELLURIAN": {
     "codeword": "TELLURIAN",
     "description": "Internet packet processing system, maybe also used to forward data from the collection site to NSA headquarters. \n"
   },
-  {
+  "TEMPEST": {
     "codeword": "TEMPEST",
     "description": "Spying on information systems through leaking emanations, including unintentional radio or electrical signals, sounds, and vibrations\n"
   },
-  {
+  "THESPIS": {
     "codeword": "THESPIS",
     "description": "SIGINT Exchange Designator for ? \n"
   },
-  {
+  "THINTREAD": {
     "codeword": "THINTREAD",
     "description": "Prototype program for wiretapping and sophisticated analysis of the resulting data (dismissed in 2002 in favor of TRAILBLAZER)\n"
   },
-  {
+  "THUMB": {
     "codeword": "THUMB",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "THUNDERCLOUD": {
     "codeword": "THUNDERCLOUD",
     "description": "Data enrichment tool, collaborative program between NSA units T1222 and SSG *\n"
   },
-  {
+  "TIAMAT": {
     "codeword": "TIAMAT",
     "description": "Joint venture between the German BND and another country with access for NSA *\n"
   },
-  {
+  "TICKETWINDOW": {
     "codeword": "TICKETWINDOW",
     "description": "System that makes Special Source collection available to 2nd Party partners *\n"
   },
-  {
+  "TIDALSURGE": {
     "codeword": "TIDALSURGE",
     "description": "Router Configurations tool (CSEC?)\n"
   },
-  {
+  "TIDEWAY": {
     "codeword": "TIDEWAY",
     "description": "Part of the communications network for ECHELON\n"
   },
-  {
+  "TIMBERLINE": {
     "codeword": "TIMBERLINE",
     "description": "The NSA satellite intercept station at Sugar Grove (US)\n"
   },
-  {
+  "TINMAN": {
     "codeword": "TINMAN",
     "description": "Database related to air warning and surveillance\n"
   },
-  {
+  "TITAN POINTE": {
     "codeword": "TITAN POINTE",
     "description": "Upstream collection site\n"
   },
-  {
+  "TITAN RAIN": {
     "codeword": "TITAN RAIN",
     "description": "Presumably Chinese attacks on American computer systems (since 2003)  \n"
   },
-  {
+  "TITLEHOLDER": {
     "codeword": "TITLEHOLDER",
     "description": "NSA tool\n"
   },
-  {
+  "TOPAZ": {
     "codeword": "TOPAZ",
     "description": "Satellite program\n"
   },
-  {
+  "TORNSTEAK": {
     "codeword": "TORNSTEAK",
     "description": "Exploit solution for two firewall devices from a particular vendor *\n"
   },
-  {
+  "TOTECHASER": {
     "codeword": "TOTECHASER",
     "description": "Software implant in flash ROM windows CE for Thuraya 2520 satellite/GSM/web/email/MMS/GPS\n"
   },
-  {
+  "TOTEGHOSTLY": {
     "codeword": "TOTEGHOSTLY",
     "description": "Modular implant for windows mobile OS based on SB using CP framework, Freeflow-compliant so supported by TURBULENCE architecture\n"
   },
-  {
+  "TOWERPOWER": {
     "codeword": "TOWERPOWER",
     "description": "NSA tool or database\n"
   },
-  {
+  "TOXICARE": {
     "codeword": "TOXICARE",
     "description": "NSA tool\n"
   },
-  {
+  "TOYGRIPPE": {
     "codeword": "TOYGRIPPE",
     "description": "NSA repository of VPN endpoints and metadata * *\n"
   },
-  {
+  "TRACFIN": {
     "codeword": "TRACFIN",
     "description": "NSA database for financial data like credit card purchases *\n"
   },
-  {
+  "TRAFFICTHIEF": {
     "codeword": "TRAFFICTHIEF",
     "description": "Part of the TURBULENCE umbrella program\n"
   },
-  {
+  "TRAILBLAZER": {
     "codeword": "TRAILBLAZER",
     "description": "NSA Program to analyze data carried on communications networks (2002-2006, replaced by TURBULENCE)\n"
   },
-  {
+  "TRAILMAPPER": {
     "codeword": "TRAILMAPPER",
     "description": "NSA tool or database\n"
   },
-  {
+  "TRANSX": {
     "codeword": "TRANSX",
     "description": "NSA database\n"
   },
-  {
+  "TREACLEBETA": {
     "codeword": "TREACLEBETA",
     "description": "TAO hacking against the Pakistani terrorist group Lashkar-e-Taiba *\n"
   },
-  {
+  "TREASUREMAP (TM)": {
     "codeword": "TREASUREMAP (TM)",
     "description": "Mapping, exploration and analysing tool that provides a near-real time, interactive map of the global internet *\n"
   },
-  {
+  "TREASURETROVE": {
     "codeword": "TREASURETROVE",
     "description": "Analytic tool\n"
   },
-  {
+  "TRIBUTARY": {
     "codeword": "TRIBUTARY",
     "description": "NSA provided voice threat warning network\n"
   },
-  {
+  "TRIGGERFISH": {
     "codeword": "TRIGGERFISH",
     "description": "Device to collect the content of digital cell phone calls (made by Harris Corp.) *\n"
   },
-  {
+  "TRINE": {
     "codeword": "TRINE",
     "description": "Compartment for Top Secret COMINT information, predecessor of UMBRA (1965-1968) *\n"
   },
-  {
+  "TRINITY": {
     "codeword": "TRINITY",
     "description": "Implant digital core concealed in COTTONMOUTH-I, providing ARM9 microcontroller, FPGA Flash and SDRAM memories *\n"
   },
-  {
+  "TRIREME": {
     "codeword": "TRIREME",
     "description": "System for processing internet packet data *\n"
   },
-  {
+  "TRITON": {
     "codeword": "TRITON",
     "description": "Tool or database for TOR Nodes (CSEC?)\n"
   },
-  {
+  "TROPICPUMA": {
     "codeword": "TROPICPUMA",
     "description": "Fax processing capability *\n"
   },
-  {
+  "TRUMPET": {
     "codeword": "TRUMPET",
     "description": "Series of ELINT reconnaissance satellites (1994-2008)\n"
   },
-  {
+  "TUBE": {
     "codeword": "TUBE",
     "description": "Database for selected internet content? *\n"
   },
-  {
+  "TUMULT": {
     "codeword": "TUMULT",
     "description": "Part of the TURBULENCE program\n"
   },
-  {
+  "TUNDRA": {
     "codeword": "TUNDRA",
     "description": "DSP Research of new statistics for codebook analysis *\n"
   },
-  {
+  "TUNDRAFREEZE": {
     "codeword": "TUNDRAFREEZE",
     "description": "NSA's main in-house facial recognition program *\n"
   },
-  {
+  "TUNINGFORK": {
     "codeword": "TUNINGFORK",
     "description": "Sustained collection linked to SEAGULLFARO, previously NSA database or tool for protocol exploitation\n"
   },
-  {
+  "TURBINE": {
     "codeword": "TURBINE",
     "description": "Active SIGINT: centralized automated command/control system for managing a large network of active computer implants for intelligence gathering (since 2010) *\n"
   },
-  {
+  "TURBOPANDA": {
     "codeword": "TURBOPANDA",
     "description": "The Turbopanda Insertion Tool allows read/write to memory, execute an address or packet; joint NSA/CIA project on Huawei network equipment\n"
   },
-  {
+  "TURBULENCE (TU)": {
     "codeword": "TURBULENCE (TU)",
     "description": "Integrate NSA architecture with several layers and sub-programs to detect threats in cyberspace (since 2005)\n"
   },
-  {
+  "TURMOIL": {
     "codeword": "TURMOIL",
     "description": "Passive SIGINT sensors: high speed collection and processing (with selection at the packet level) of internet traffic from foreign satellite, microwave and cable links, part of the TURBULENCE program * * Maybe also for selecting common internet encryption technologies to exploit.*\n"
   },
-  {
+  "TURTLEPOWER": {
     "codeword": "TURTLEPOWER",
     "description": "NSA tool\n"
   },
-  {
+  "TUSKATTIRE": {
     "codeword": "TUSKATTIRE",
     "description": "Ingest system for cleaning and processing DNR (telephony) data\n"
   },
-  {
+  "TUTELAGE": {
     "codeword": "TUTELAGE",
     "description": "Active defense system with detection sensors that monitor network traffic at for example the NIPRNet in order to detect malicious code and network attacks, part of the TURBULENCE program *\n"
   },
-  {
+  "TWEED": {
     "codeword": "TWEED",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "TWISTEDKILT": {
     "codeword": "TWISTEDKILT",
     "description": "Writes to Host Protected area on hard drive to implant Swap and its implant installer payload, which can be used with the STYLISHCHAMP tool *\n"
   },
-  {
+  "TWISTEDPATH": {
     "codeword": "TWISTEDPATH",
     "description": "NSA tool or database\n"
   },
-  {
+  "TYPHON HX": {
     "codeword": "TYPHON HX",
     "description": "GSM base station router network in box for tactical Sigint geolocating and capturing user\n"
   },
-  {
+  "ULTRA": {
     "codeword": "ULTRA",
-    "description": "Compartment for Top Secret COMINT information, like decrypted high-level military Nazi messages (until 1946)\n"
+    "description": "Compartment for Top Secret COMINT information, like decrypted high-level military Nazi messages (until 1946) *\n"
   },
-  {
+  "UMBRA": {
     "codeword": "UMBRA",
     "description": "Compartment for the most sensitive (Category III) COMINT material (1968-1999) * but apparently still in use as unpublished SCI control system\n"
   },
-  {
+  "UNCANNY": {
     "codeword": "UNCANNY",
     "description": "Video demodulation tool (now: BOTANICREALTY) *\n"
   },
-  {
+  "UNIFORM": {
     "codeword": "UNIFORM",
     "description": "SIGINT Exchange Designator for Canada\n"
   },
-  {
+  "UNITEDRAKE": {
     "codeword": "UNITEDRAKE",
     "description": "Computer exploit delivered by the FERRETCANON system *\n"
   },
-  {
+  "UNITY": {
     "codeword": "UNITY",
     "description": "System for processing data collected from telephony networks * \n"
   },
-  {
+  "USHER": {
     "codeword": "USHER",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "VAGRANT": {
     "codeword": "VAGRANT",
     "description": "Radar retro-reflector technique on video cable to reproduce open computer screens *\n"
   },
-  {
+  "VALIANTSURF": {
     "codeword": "VALIANTSURF",
     "description": "A \"major system acquisition\" that enables more efficient Computer Network Operations (CNO) by the TAO division; it will integrate into the TURBULENCE architecture *\n"
   },
-  {
+  "VALIDATOR": {
     "codeword": "VALIDATOR",
     "description": "Computer exploit delivered by the FERRETCANON system for looking whether a computer has security software, runs as user process on target OS, modified for SCHOOLMONTANA, initiates a call home, passes to SOMBERKNAVE, downloads OLYMPUS and communicates with remote operation center *\n"
   },
-  {
+  "VENATOR": {
     "codeword": "VENATOR",
     "description": "Access to a Philippine mobile network provider, part of the MYSTIC program * \n"
   },
-  {
+  "VENONA": {
     "codeword": "VENONA",
     "description": "Joint US-UK project for decrypting intercepts of messages from the KGB (British codename: BRIDE)\n"
   },
-  {
+  "VERDANT (VER)": {
     "codeword": "VERDANT (VER)",
     "description": "Alleged SCI control system *\n"
   },
-  {
+  "VESUVIUS": {
     "codeword": "VESUVIUS",
     "description": "Prototype quantum computer, situated in NSA's Utah Data Center\n"
   },
-  {
+  "VICTORYDANCE": {
     "codeword": "VICTORYDANCE",
     "description": "Joint NSA-CIA operation to map WiFi fingerprints of nearly every major town in Yemen *\n"
   },
-  {
+  "VIEWPLATE": {
     "codeword": "VIEWPLATE",
     "description": "Processor for external monitor recreating target monitor from red video\n"
   },
-  {
+  "VINTAGE HARVEST": {
     "codeword": "VINTAGE HARVEST",
     "description": "Probably a military SIGINT tool\n"
   },
-  {
+  "VITALAIR": {
     "codeword": "VITALAIR",
     "description": "NSA tool\n"
   },
-  {
+  "VITALAIR2": {
     "codeword": "VITALAIR2",
     "description": "Tool or database for automated scanned IP addresses for TAO known vulnerabilities *\n"
   },
-  {
+  "VOICESAIL": {
     "codeword": "VOICESAIL",
     "description": "Intelligence database\n"
   },
-  {
+  "VORTEX": {
     "codeword": "VORTEX",
     "description": "Class of SIGINT spy satellites (1978-1989)\n"
   },
-  {
+  "VOXGLO": {
     "codeword": "VOXGLO",
     "description": "Multiple award contract providing cyber security and enterprise computing, software development, and systems integration support *\n"
   },
-  {
+  "VOYEUR": {
     "codeword": "VOYEUR",
     "description": "US monitoring operation in which an Iranian hacking operation against the US was detected *\n"
   },
-  {
+  "WABASH": {
     "codeword": "WABASH",
     "description": "The embassy of France in Washington DC\n"
   },
-  {
+  "WAGONBED": {
     "codeword": "WAGONBED",
     "description": "Hardware GSM controller board implant on CrossBeam or HP Proliant G5 server that communicates over I2C interface\n"
   },
-  {
+  "WAITAUTO": {
     "codeword": "WAITAUTO",
     "description": "Network or database at the Remote Operations Center of NSA's TAO division *\n"
   },
-  {
+  "WALBURN": {
     "codeword": "WALBURN",
     "description": "High-speed link encryption, used in various encryption products\n"
   },
-  {
+  "WARPDRIVE": {
     "codeword": "WARPDRIVE",
     "description": "Joint venture between the German BND and another country with access for NSA (2013)* *\n"
   },
-  {
+  "WARRIORPRIDE": {
     "codeword": "WARRIORPRIDE",
     "description": "Universal software used by all the Five Eyes partners that was for example able to break into iPhones *\n"
   },
-  {
+  "WATERWITCH": {
     "codeword": "WATERWITCH",
     "description": "Hand-held tool for geolocating targeted handsets to last mile\n"
   },
-  {
+  "WAVELEGAL": {
     "codeword": "WAVELEGAL",
     "description": "Authorization service that logs data queries\n"
   },
-  {
+  "WAXTITAN": {
     "codeword": "WAXTITAN",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "WEALTHYCLUSTER (WC)": {
     "codeword": "WEALTHYCLUSTER (WC)",
     "description": "Processing system for low data rate internet traffic, that sessionizes all the data on the link before sending it to XKEYSCORE (since 2002, will be replaced by TURMOIL) * *\n"
   },
-  {
+  "WEASEL": {
     "codeword": "WEASEL",
     "description": "Type 1 Cryptographic algorithm used in SafeXcel-3340\n"
   },
-  {
+  "WEBCANDID": {
     "codeword": "WEBCANDID",
     "description": "NSA tool or database\n"
   },
-  {
+  "WELLSPRING": {
     "codeword": "WELLSPRING",
     "description": "Tool that strips out facial images from e-mails and other communications, and displays those that might contain passport images *\n"
   },
-  {
+  "WESTPORT": {
     "codeword": "WESTPORT",
     "description": "The mission of Venezuela at the United Nations in New York\n"
   },
-  {
+  "WICKEDVICAR": {
     "codeword": "WICKEDVICAR",
     "description": "Hacking tool used to perform remote survey and installation *\n"
   },
-  {
+  "WILDCHOCOBO": {
     "codeword": "WILDCHOCOBO",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "WILDCOUGAR": {
     "codeword": "WILDCOUGAR",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "WILLOWVIXEN": {
     "codeword": "WILLOWVIXEN",
     "description": "Method to deploy malware by sending out spam emails that trick targets into clicking a malicious link *\n"
   },
-  {
+  "WISTFULTOLL": {
     "codeword": "WISTFULTOLL",
     "description": "Plug-in for UNITEDRAKE and STRAITBIZARRE used to harvest target forensics via Windows Management Instrumentation and Registry extractions, can be done through USB thumb drive\n"
   },
-  {
+  "WHIPGENIE (WPG)": {
     "codeword": "WHIPGENIE (WPG)",
     "description": "ECI compartment for details about the STELLARWIND program *\n"
   },
-  {
+  "WHITEBOX": {
     "codeword": "WHITEBOX",
     "description": "Program for intercepting the public switched telephone network? *\n"
   },
-  {
+  "WHISTLINGDUXIE": {
     "codeword": "WHISTLINGDUXIE",
     "description": "TAO computer hacking project *\n"
   },
-  {
+  "WHITELIST": {
     "codeword": "WHITELIST",
     "description": "NSA tool\n"
   },
-  {
+  "WHITETAMALE": {
     "codeword": "WHITETAMALE",
     "description": "Operation for collecting e-mails from Mexico's Public Security Secretariat *\n"
   },
-  {
+  "WHIZBANG": {
     "codeword": "WHIZBANG",
     "description": "Training program (?)*\n"
   },
-  {
-    "codeword": "WILDCHOCOBO",
-    "description": "TAO computer hacking project *\n"
-  },
-  {
+  "WINDCHASER": {
     "codeword": "WINDCHASER",
     "description": "Tool or program related to MARINA *\n"
   },
-  {
+  "WINDSORBLUE": {
     "codeword": "WINDSORBLUE",
     "description": "Supercomputer program at IBM *\n"
   },
-  {
+  "WINDSTOP": {
     "codeword": "WINDSTOP",
     "description": "Joint NSA-GCHQ unilateral high-volume cable tapping program *\n"
   },
-  {
+  "WINTERLIGHT": {
     "codeword": "WINTERLIGHT",
     "description": "A QUANTUM computer hacking program in which Sweden takes part\n"
   },
-  {
+  "WIRESHARK": {
     "codeword": "WIRESHARK",
     "description": "Database with malicious network signatures\n"
   },
-  {
+  "WITCH": {
     "codeword": "WITCH",
     "description": "Retired SIGINT product codeword\n"
   },
-  {
+  "WITCHHUNT": {
     "codeword": "WITCHHUNT",
     "description": "?\n"
   },
-  {
+  "WOLFPOINT": {
     "codeword": "WOLFPOINT",
     "description": "SSO corporate partner under the STORMBREW program *\n"
   },
-  {
+  "WORDGOPHER": {
     "codeword": "WORDGOPHER",
     "description": "Platform to enable demodulation of low-rate communication carriers \n"
   },
-  {
+  "WRANGLER": {
     "codeword": "WRANGLER",
     "description": "Database or system which focuses on Electronic Intelligence \n"
   },
-  {
+  "XCONCORD": {
     "codeword": "XCONCORD",
     "description": "Program for finding key words in foreign language documents\n"
   },
-  {
+  "XKEYSCORE (XKS)": {
     "codeword": "XKEYSCORE (XKS)",
     "description": "Computer system for indexing and searching internet communications\n"
   },
-  {
+  "YACHTSHOP": {
     "codeword": "YACHTSHOP",
     "description": "Sub-program of OAKSTAR for collecting internet metadata \n"
   },
-  {
+  "YELLOWPIN": {
     "codeword": "YELLOWPIN",
     "description": "Printed circuit board digital core used with HOWLERMONKEY\n"
   },
-  {
+  "YELLOWSTONE": {
     "codeword": "YELLOWSTONE",
     "description": "NSA analytical database *\n"
   },
-  {
+  "YUKON": {
     "codeword": "YUKON",
     "description": "The embassy of Venezuela in Washington DC\n"
   },
-  {
+  "ZAP": {
     "codeword": "ZAP",
     "description": "(former?) database for texts *\n"
   },
-  {
+  "ZARF": {
     "codeword": "ZARF",
     "description": "Compartment of TALENT KEYHOLE for ELINT satellites, retired in 1999 *\n"
   },
-  {
+  "ZESTYLEAK": {
     "codeword": "ZESTYLEAK",
     "description": "Software implant that allows remote JETPLOW firmware installation, used by NSA's CES unit\n"
+  },
+  "5-ALIVE": {
+    "codeword": "5-ALIVE",
+    "description": "Database for 5-tuple (TCP/IP) metadata *\n"
+  },
+  "ABSOLINE EPILSON": {
+    "codeword": "ABSOLINE EPILSON",
+    "description": "CNE endpoint operation *\n"
+  },
+  "ALVIS (BID 610)": {
+    "codeword": "ALVIS (BID 610)",
+    "description": "British high-level encryption machine, developed by Plessey (1960s-1980s)*\n"
+  },
+  "AMBASSADORS RECEPTION": {
+    "codeword": "AMBASSADORS RECEPTION",
+    "description": "A computer virus used by GCHQ's JTRIG unit\n"
+  },
+  "ANGRY PIRATE": {
+    "codeword": "ANGRY PIRATE",
+    "description": "is a tool that will permanently disable a target's account on their computer\n"
+  },
+  "ANTICRISIS GIRL": {
+    "codeword": "ANTICRISIS GIRL",
+    "description": "Initiative to monitor websites like Wikileaks *\n"
+  },
+  "AQUILA": {
+    "codeword": "AQUILA",
+    "description": "STARGATE CNE architecture component * \n"
+  },
+  "ARCANO": {
+    "codeword": "ARCANO",
+    "description": "Access point for a Cable & Wireless access to the Apollo South submarine internet cable *\n"
+  },
+  "AUTOASSOC": {
+    "codeword": "AUTOASSOC",
+    "description": "Query-Focused Dataset populated with iPhone metadata and identifiers *\n"
+  },
+  "BADASS": {
+    "codeword": "BADASS",
+    "description": "See Abbreviations\n"
+  },
+  "BEARDED PIGGY": {
+    "codeword": "BEARDED PIGGY",
+    "description": "Database used for discovering Virtual Private Networks (VPNs) *\n"
+  },
+  "BEGAL": {
+    "codeword": "BEGAL",
+    "description": "Something related to smartphone tracking *\n"
+  },
+  "BIG BUS": {
+    "codeword": "BIG BUS",
+    "description": "STARGATE CNE architecture component * \n"
+  },
+  "BIRD SEED": {
+    "codeword": "BIRD SEED",
+    "description": "System for capturing tweets from known malware/vulnerability researchers *\n"
+  },
+  "BIRDSTRIKE": {
+    "codeword": "BIRDSTRIKE",
+    "description": "JTRIG architecture for capturing tweets from a handful of twitter acounts of known malware/vulnerability researchers *\n"
+  },
+  "BLACKHOLE": {
+    "codeword": "BLACKHOLE",
+    "description": "Database or system for extracted social media messages from mobile phones *\n"
+  },
+  "BLUE": {
+    "codeword": "BLUE",
+    "description": "Complex cypher used by the Japanese government since 1930, broken in 1932\n"
+  },
+  "BOLSHIE POSSUM": {
+    "codeword": "BOLSHIE POSSUM",
+    "description": "Question-focussed dataset related to mobile phone exploitation *\n"
+  },
+  "BOMB BAY": {
+    "codeword": "BOMB BAY",
+    "description": "Capacity to increase website hits/rankings\n"
+  },
+  "BRENT": {
+    "codeword": "BRENT",
+    "description": "Secure telephone capable of securing calls up to the level of Top Secret\n"
+  },
+  "BRIDE": {
+    "codeword": "BRIDE",
+    "description": "Joint US-UK project for decrypting intercepts of messages from the KGB (US codename: VENONA) *\n"
+  },
+  "BROADOAK": {
+    "codeword": "BROADOAK",
+    "description": "GCHQ (telephone?) tasking database *\n"
+  },
+  "BROKER": {
+    "codeword": "BROKER",
+    "description": "Some type of target *\n"
+  },
+  "BULLROARER": {
+    "codeword": "BULLROARER",
+    "description": "Something used for fiber-optic cable \"node balancing\" *\n"
+  },
+  "BUMPERCAR": {
+    "codeword": "BUMPERCAR",
+    "description": "Operations to disrupt and deny Internet-based terror videos or other materials\n"
+  },
+  "BUMPERCAR+": {
+    "codeword": "BUMPERCAR+",
+    "description": "An automated system developed by JTRIG CITD to support JTRIG BUMPERCAR operations\n"
+  },
+  "BURLESQUE": {
+    "codeword": "BURLESQUE",
+    "description": "Capacity to send spoofed SMS messages\n"
+  },
+  "BURRITO ALPHA": {
+    "codeword": "BURRITO ALPHA",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "CADDIS": {
+    "codeword": "CADDIS",
+    "description": "MI6 (Secret Intelligence Service) desktop interface *\n"
+  },
+  "CARBON ROD": {
+    "codeword": "CARBON ROD",
+    "description": "Map viewer? *\n"
+  },
+  "CATEGORY": {
+    "codeword": "CATEGORY",
+    "description": "Submarine cable(?) to which Verizon has a \"non-cable access\" *\n"
+  },
+  "CAVIAR": {
+    "codeword": "CAVIAR",
+    "description": "Encrypted teleprinter traffic from the Soviet Union (1940s) *\n"
+  },
+  "CHEESY NAME": {
+    "codeword": "CHEESY NAME",
+    "description": "Program to single out vulnarable encryption keys *\n"
+  },
+  "CHEYENNE MOUNTAIN": {
+    "codeword": "CHEYENNE MOUNTAIN",
+    "description": "STARGATE CNE architecture component * \n"
+  },
+  "CHEYENNE MOUNTAIN2": {
+    "codeword": "CHEYENNE MOUNTAIN2",
+    "description": "STARGATE CNE architecture component * \n"
+  },
+  "CIRCUIT": {
+    "codeword": "CIRCUIT",
+    "description": "Internet interception monitoring center in Seeb, Oman, also known as Overseas Processing Centre 1 (OPC-1) *\n"
+  },
+  "CLARET ": {
+    "codeword": "CLARET ",
+    "description": "Counter-infiltration operations on Borneo, in which SIGINT played an important role (1964-'65) *\n"
+  },
+  "CLARINET": {
+    "codeword": "CLARINET",
+    "description": "Fiber-optic cable intercept facility in the south of Oman *\n"
+  },
+  "CLEAN SWEEP": {
+    "codeword": "CLEAN SWEEP",
+    "description": "Masquerade Facebook Wall Posts for individuals or entire countries\n"
+  },
+  "CLOTHO2": {
+    "codeword": "CLOTHO2",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "COBRA MIST": {
+    "codeword": "COBRA MIST",
+    "description": "Large over-the-horizon radar station at Orford Ness in Suffolk (terminated in 1973) *\n"
+  },
+  "COLERIDGE": {
+    "codeword": "COLERIDGE",
+    "description": "Soviet military machine cypher from the \"Poets\" series (1940s) *\n"
+  },
+  "CONCRETE DONKEY": {
+    "codeword": "CONCRETE DONKEY",
+    "description": "Capacity to scatter an audio message to a large number of telephones, or repeatedely bomb a target number with the same message\n"
+  },
+  "CONFLICT": {
+    "codeword": "CONFLICT",
+    "description": "Tunnel under Vienna dug by the SIS to wiretap Soviet telephone cables (1948-195?) *\n"
+  },
+  "COPPERHEAD": {
+    "codeword": "COPPERHEAD",
+    "description": "A Computer Network Exploitation (CNE) attack box used by MyNOC *\n"
+  },
+  "CORINTH": {
+    "codeword": "CORINTH",
+    "description": "Probably GCHQ's telephony tasking database *\n"
+  },
+  "CROWN PRINCE": {
+    "codeword": "CROWN PRINCE",
+    "description": "Technique for identifying Apple UDIDs in HTTP traffic * \n"
+  },
+  "DACRON": {
+    "codeword": "DACRON",
+    "description": "Cover name for Verizon Business\n"
+  },
+  "DAMAGE": {
+    "codeword": "DAMAGE",
+    "description": "Operation involving 8 reconaissance flights in the Mediterranean by Comet spy planes (1974) *\n"
+  },
+  "DAPINO GAMMA": {
+    "codeword": "DAPINO GAMMA",
+    "description": "Hacking operation in order to acquire SIM card keys from Gemalto * \n"
+  },
+  "DARE DEVIL": {
+    "codeword": "DARE DEVIL",
+    "description": "? * \n"
+  },
+  "DEAF AID": {
+    "codeword": "DEAF AID",
+    "description": "Portable short-range ELINT reception and analysis kit (developed in the 1950s) *\n"
+  },
+  "DEFIANT": {
+    "codeword": "DEFIANT",
+    "description": "Submarine SIGINT collecting mission off the Soviet coast (1955) *\n"
+  },
+  "DEPTHGAUGE": {
+    "codeword": "DEPTHGAUGE",
+    "description": "Tool for mapping links between telephone switches *\n"
+  },
+  "DONNINGTON": {
+    "codeword": "DONNINGTON",
+    "description": "Access point for the FLAG and Apollo South submarine internet cables *\n"
+  },
+  "DOLVEN": {
+    "codeword": "DOLVEN",
+    "description": "Operation involving 5 reconaissance flights along the Egyptian and Syrian coast by Comet spy planes (1974) *\n"
+  },
+  "DREAMY SMURF": {
+    "codeword": "DREAMY SMURF",
+    "description": "Method to stealthily activate a mobile phone that is turned of\n"
+  },
+  "DRUDGE": {
+    "codeword": "DRUDGE",
+    "description": "Cable & Wireless access point for a submarine internet cable (tested in 2008) *\n"
+  },
+  "DRUMKIT": {
+    "codeword": "DRUMKIT",
+    "description": "Tool for analysing telephony data on satellite links *\n"
+  },
+  "DRUMROLL": {
+    "codeword": "DRUMROLL",
+    "description": "Tool for viewing hits from analysing telephone numbers on satellite links by DRUMKIT *\n"
+  },
+  "EDGEHILL": {
+    "codeword": "EDGEHILL",
+    "description": "Program similar to NSA's BULLRUN program\n"
+  },
+  "ELAPSE": {
+    "codeword": "ELAPSE",
+    "description": "Submarine cable(?) to which Cable & Wireless has a \"non-cable access\" *\n"
+  },
+  "ENGULF": {
+    "codeword": "ENGULF",
+    "description": "Operation that conducted a succesful TEMPEST attack on the Hagelin cypher machines in the Egyptian embassy in London (1956)*\n"
+  },
+  "EREPO": {
+    "codeword": "EREPO",
+    "description": "Probably a collection site where data are processed by the Traditional version of XKeyscore * or something related to Computer Network Exploitation *\n"
+  },
+  "ERIDANUS": {
+    "codeword": "ERIDANUS",
+    "description": "STARGATE CNE architecture component * \n"
+  },
+  "FAINT": {
+    "codeword": "FAINT",
+    "description": "Cable & Wireless access point for a submarine internet cable (2008) *\n"
+  },
+  "FEDEX": {
+    "codeword": "FEDEX",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "FISH": {
+    "codeword": "FISH",
+    "description": "Messages produced by the Nazi German teleprinters *\n"
+  },
+  "FLYING PIG": {
+    "codeword": "FLYING PIG",
+    "description": "Tool for querying databases for TLS/SSL encrypted traffic\n"
+  },
+  "GATEWAY": {
+    "codeword": "GATEWAY",
+    "description": "Ability to artificially increase traffic to a website\n"
+  },
+  "GERONTIC": {
+    "codeword": "GERONTIC",
+    "description": "Cover name for Cable & Wireless, since 2012 part of Vodafone\n"
+  },
+  "GESTATOR": {
+    "codeword": "GESTATOR",
+    "description": "Amplification of a given message, normally video, on popular multimedia websites like Youtube\n"
+  },
+  "GIB(B)US": {
+    "codeword": "GIB(B)US",
+    "description": "SeaMeWe-3 or TAT-14S submarine cable to which Cable & Wireless has a \"non-cable access\" *\n"
+  },
+  "GLADDY CHI": {
+    "codeword": "GLADDY CHI",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "GLADDY IOTA": {
+    "codeword": "GLADDY IOTA",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "GLASSBACK": {
+    "codeword": "GLASSBACK",
+    "description": "Technique of getting a targets IP address by pretending to be a spammer and ringing them; target does not need to answer\n"
+  },
+  "GLOBAL SURGE": {
+    "codeword": "GLOBAL SURGE",
+    "description": "Prototype network knowledge base of the NAC unit *\n"
+  },
+  "GRASP": {
+    "codeword": "GRASP",
+    "description": "Access point for a Cable & Wireless submarine internet cable * (since 2008) *\n"
+  },
+  "GREY": {
+    "codeword": "GREY",
+    "description": "American diplomatic code (early 1940s) *\n"
+  },
+  "GUITAR": {
+    "codeword": "GUITAR",
+    "description": "Fiber-optic cable intercept station in Seeb, Oman *\n"
+  },
+  "HACIENDA": {
+    "codeword": "HACIENDA",
+    "description": "JTRIG tool that performs bulk port scans (of entire countries) * *\n"
+  },
+  "HAPPY TRIGGER": {
+    "codeword": "HAPPY TRIGGER",
+    "description": "Database for structured open source datasets for cyber defense purposes *\n"
+  },
+  "HEADRESS IOTA": {
+    "codeword": "HEADRESS IOTA",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "HEADRESS KAPPA": {
+    "codeword": "HEADRESS KAPPA",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "HEADRESS NU": {
+    "codeword": "HEADRESS NU",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "HEADRESS OMICRON": {
+    "codeword": "HEADRESS OMICRON",
+    "description": "Computer Network Exploitation (CNE) End Point project *\n"
+  },
+  "HANNIBAL": {
+    "codeword": "HANNIBAL",
+    "description": "Secure ISDN telephone capable of protecting voice and data up to the level Top Secret\n"
+  },
+  "HARD ASSOC": {
+    "codeword": "HARD ASSOC",
+    "description": "System that creates correlations for mobile phones *\n"
+  },
+  "HAVLOCK": {
+    "codeword": "HAVLOCK",
+    "description": "Real-time website cloning techniques allowing on-the-fly alterations\n"
+  },
+  "HIASCO": {
+    "codeword": "HIASCO",
+    "description": "Access point for a British Telecom submarine internet cable *\n"
+  },
+  "HIDDEN SPOTLIGHT": {
+    "codeword": "HIDDEN SPOTLIGHT",
+    "description": "Vulnarability database fed by the OVAL list *\n"
+  },
+  "HIGHLAND FLING": {
+    "codeword": "HIGHLAND FLING",
+    "description": "Operation to mine the e-mail accounts of Gemalto employees in France and Poland * \n"
+  },
+  "HIGHNOTE": {
+    "codeword": "HIGHNOTE",
+    "description": "A Computer Network Exploitation (CNE) toolsuite use by MyNOC *\n"
+  },
+  "HOPSCOTCH": {
+    "codeword": "HOPSCOTCH",
+    "description": "GHCQ hacking tool or question-focussed dataset\n"
+  },
+  "HUSH PUPPY": {
+    "codeword": "HUSH PUPPY",
+    "description": "Knowledge base for encrypted traffic\n"
+  },
+  "HUSK": {
+    "codeword": "HUSK",
+    "description": "Secure one-on-one web based dead-drop messaging platform\n"
+  },
+  "INTERACTION": {
+    "codeword": "INTERACTION",
+    "description": "Operation of the MyNOC unit for development of in-depth knowledge of mobile gateways *\n"
+  },
+  "IRASCIBLE EMITT": {
+    "codeword": "IRASCIBLE EMITT",
+    "description": "Tool or question-focussed dataset for data from mobile network operators *\n"
+  },
+  "IRASCI(A)BLE HARE": {
+    "codeword": "IRASCI(A)BLE HARE",
+    "description": "Tool or question-focussed dataset related to mobile phone exploitation * *\n"
+  },
+  "IRASCIBLE MOOSE": {
+    "codeword": "IRASCIBLE MOOSE",
+    "description": "Tool or question-focussed dataset for data from mobile network operators *\n"
+  },
+  "IRASCI(A)BLE RABBIT": {
+    "codeword": "IRASCI(A)BLE RABBIT",
+    "description": "Tool or question-focussed dataset related to mobile phone exploitation * *\n"
+  },
+  "IRIS": {
+    "codeword": "IRIS",
+    "description": "? *\n"
+  },
+  "IRONING BOARD": {
+    "codeword": "IRONING BOARD",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "ISCOT": {
+    "codeword": "ISCOT",
+    "description": "Wartime Comintern traffic in Europe *\n"
+  },
+  "JANET": {
+    "codeword": "JANET",
+    "description": "? *\n"
+  },
+  "JEDI": {
+    "codeword": "JEDI",
+    "description": "JTRIG terminal that enables access to the public internet from a secure GCHQ workstation\n"
+  },
+  "KIRKISTOWN": {
+    "codeword": "KIRKISTOWN",
+    "description": "Submarine cable(?) to which Cable & Wireless has a \"non-cable access\" *\n"
+  },
+  "KITCHEN SINK": {
+    "codeword": "KITCHEN SINK",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "KITTIWAKE": {
+    "codeword": "KITTIWAKE",
+    "description": "GCHQ/DSD listening post at Stanley Fort in Hong Kong (1977-1997)\n"
+  },
+  "KNAPWEED": {
+    "codeword": "KNAPWEED",
+    "description": "Submarine cable(?) to which Verizon has a \"non-cable access\" *\n"
+  },
+  "LATUS": {
+    "codeword": "LATUS",
+    "description": "Access point for the Cable & Wireless access to the Apollo North and another submarine internet cable *\n"
+  },
+  "LEGSPIN": {
+    "codeword": "LEGSPIN",
+    "description": "GHCQ hacking tool\n"
+  },
+  "LINNELL": {
+    "codeword": "LINNELL",
+    "description": "Submarine cable(?) to which Cable & Wireless has a \"non-cable access\" *\n"
+  },
+  "LITTLE": {
+    "codeword": "LITTLE",
+    "description": "Cover name for Level 3\n"
+  },
+  "LLANDARCYPARK": {
+    "codeword": "LLANDARCYPARK",
+    "description": "GCHQ research server\n"
+  },
+  "LONGFELLOW": {
+    "codeword": "LONGFELLOW",
+    "description": "Soviet military machine cypher from the \"Poets\" series (1940s) *\n"
+  },
+  "LORD": {
+    "codeword": "LORD",
+    "description": "Tunnel under Vienna dug by the SIS to wiretap Soviet telephone cables (1948-195?) *\n"
+  },
+  "LOVELY HORSE": {
+    "codeword": "LOVELY HORSE",
+    "description": "Database for unstructured open source datasets for cyber defense purposes (like twitter feeds from cyber security researchers) *\n"
+  },
+  "MAD": {
+    "codeword": "MAD",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "MARBLE POLLS": {
+    "codeword": "MARBLE POLLS",
+    "description": "Something related to cyber vulnarabilities *\n"
+  },
+  "MARVEL ICE": {
+    "codeword": "MARVEL ICE",
+    "description": "Component of STARGATE Computer Network Exploitation * \n"
+  },
+  "MASK": {
+    "codeword": "MASK",
+    "description": "Comintern communications (targeted since 1929)*\n"
+  },
+  "MERA PEAK": {
+    "codeword": "MERA PEAK",
+    "description": "Front-end tool that performs Google-like searching across repositories *\n"
+  },
+  "MERION ZETA": {
+    "codeword": "MERION ZETA",
+    "description": "Covername for Belgacom (and/or its GRX network)\n"
+  },
+  "MINIATURE HERO": {
+    "codeword": "MINIATURE HERO",
+    "description": "Active skype capability. Provision of real time call records (SkypeOut and SkypetoSkype) and bidirectional instant messaging. Also contact lists.\n"
+  },
+  "MONDELLO": {
+    "codeword": "MONDELLO",
+    "description": "Access point for the Solas submarine internet cable *\n"
+  },
+  "MONKEY PUZZLE (MP)": {
+    "codeword": "MONKEY PUZZLE (MP)",
+    "description": "GCHQ's unified targeting tool *\n"
+  },
+  "MOUTH": {
+    "codeword": "MOUTH",
+    "description": "Tool for collection for downloading a user's files from Archive.org\n"
+  },
+  "MUGSHOT": {
+    "codeword": "MUGSHOT",
+    "description": "\n"
+  },
+  "MULLENIZE": {
+    "codeword": "MULLENIZE",
+    "description": "GHCQ program for linking machines to IP addresses\n"
+  },
+  "MUTANT BROTH": {
+    "codeword": "MUTANT BROTH",
+    "description": "Query-Focused Dataset that stores billions of Target Detection Identifiers (DTI), gathered by QUANTUM exploitation *\n"
+  },
+  "NETPLATE": {
+    "codeword": "NETPLATE",
+    "description": "? *\n"
+  },
+  "NEWTONS CRADLE": {
+    "codeword": "NEWTONS CRADLE",
+    "description": "TOR nodes accessible by GCHQ\n"
+  },
+  "NEXUS": {
+    "codeword": "NEXUS",
+    "description": "MI5 (Security Service) desktop interface *\n"
+  },
+  "NIGELLA": {
+    "codeword": "NIGELLA",
+    "description": "Cover name for a Cable & Wireless access point to the FLAG Europe Asia (FEA) submarine cable in Cornwall *\n"
+  },
+  "NOCTURNAL SURGE": {
+    "codeword": "NOCTURNAL SURGE",
+    "description": "Database for Access Control Lists (ACLs) used for finding identifiers of system administrators *\n"
+  },
+  "NOSEY SMURF": {
+    "codeword": "NOSEY SMURF",
+    "description": "An ability to covertly and remotely turn on the microphone of a mobile phone\n"
+  },
+  "NUMDAH": {
+    "codeword": "NUMDAH",
+    "description": "Access point for a British Telecom access to the SeaMeWe-3 submarine internet cable *\n"
+  },
+  "ONIONBREATH": {
+    "codeword": "ONIONBREATH",
+    "description": "Program for detecting hidden services on the TOR network *\n"
+  },
+  "OPTIC NERVE": {
+    "codeword": "OPTIC NERVE",
+    "description": "A web interface to display Yahoo webcam images *\n"
+  },
+  "OPULENT PUP": {
+    "codeword": "OPULENT PUP",
+    "description": "Covername for an A5/3 crypto algorithm attack requirement *\n"
+  },
+  "OVERLIT": {
+    "codeword": "OVERLIT",
+    "description": "Some type of target *\n"
+  },
+  "OVERTASK": {
+    "codeword": "OVERTASK",
+    "description": "British enclave within the NATO mission network ISAF SECRET\n"
+  },
+  "PARANOID SMURF": {
+    "codeword": "PARANOID SMURF",
+    "description": "Self-hiding capabilities of mobile phone spyware\n"
+  },
+  "PAT": {
+    "codeword": "PAT",
+    "description": "Operation involving series of 12 reconaissance flights along the Baltic and the Polish coast by Comet spy planes (1974) *\n"
+  },
+  "PFENNING ALPHA": {
+    "codeword": "PFENNING ALPHA",
+    "description": "Computer Network Exploitation (CNE) End Point project for access to the FLAG fiber-optic cable *\n"
+  },
+  "PHOTON TORPEDO": {
+    "codeword": "PHOTON TORPEDO",
+    "description": "A technique to actively grab the IP address of MSN messenger user\n"
+  },
+  "PINNAGE": {
+    "codeword": "PINNAGE",
+    "description": "Cover name for Global Crossing\n"
+  },
+  "PISECGIAS": {
+    "codeword": "PISECGIAS",
+    "description": "?\n"
+  },
+  "POKERFACE": {
+    "codeword": "POKERFACE",
+    "description": "Internet data sanitisation system *\n"
+  },
+  "PORUS": {
+    "codeword": "PORUS",
+    "description": "Kernel stealth plugin for mobile phones\n"
+  },
+  "POSITIVE PONY": {
+    "codeword": "POSITIVE PONY",
+    "description": "\"IP address to company and sector mapping\" *\n"
+  },
+  "PRESCOTT": {
+    "codeword": "PRESCOTT",
+    "description": "Submarine cable(?) to which there's a \"non-cable access\" *\n"
+  },
+  "PRESTON": {
+    "codeword": "PRESTON",
+    "description": "Some kind of access point *\n"
+  },
+  "QUICK ANT": {
+    "codeword": "QUICK ANT",
+    "description": "Tool for TOR data as part of the FLYING PIG program\n"
+  },
+  "QUICKIE": {
+    "codeword": "QUICKIE",
+    "description": "Submarine sonar system (1950s) *\n"
+  },
+  "RATTAN": {
+    "codeword": "RATTAN",
+    "description": "Joint US-UK program for decrypting Soviet radio messages (1944, renamed to BOURBON)*\n"
+  },
+  "RED": {
+    "codeword": "RED",
+    "description": "Particular Enigma cypher used by Nazi Germany *\n"
+  },
+  "REFRIED CHICKEN": {
+    "codeword": "REFRIED CHICKEN",
+    "description": "? *\n"
+  },
+  "REMEDY": {
+    "codeword": "REMEDY",
+    "description": "Cover name for British Telecom\n"
+  },
+  "ROCKEX": {
+    "codeword": "ROCKEX",
+    "description": "British high-level cypher machine (1943-1973)\n"
+  },
+  "ROLLING THUNDER (RT)": {
+    "codeword": "ROLLING THUNDER (RT)",
+    "description": "DDoS attack against hactivists *\n"
+  },
+  "ROYAL CONCIERGE": {
+    "codeword": "ROYAL CONCIERGE",
+    "description": "Program for monitoring hotel reservations to track diplomats\n"
+  },
+  "ROYAL MANTLE": {
+    "codeword": "ROYAL MANTLE",
+    "description": "? * \n"
+  },
+  "RUMOUR MILL": {
+    "codeword": "RUMOUR MILL",
+    "description": "Data query tool?\n"
+  },
+  "RUSSETT": {
+    "codeword": "RUSSETT",
+    "description": "Internal GCHQ phone system? *\n"
+  },
+  "SANJAK": {
+    "codeword": "SANJAK",
+    "description": "Submarine SIGINT collecting mission in the Arctic Circle (1955) *\n"
+  },
+  "SCEPTRE": {
+    "codeword": "SCEPTRE",
+    "description": "Submarine cable(?) to which British Telecom has a \"non-cable access\" *\n"
+  },
+  "SCRAPHEAP CHALLENGE": {
+    "codeword": "SCRAPHEAP CHALLENGE",
+    "description": "Perfect spoofing of e-mails from Blackberry targets\n"
+  },
+  "SHORTFALL": {
+    "codeword": "SHORTFALL",
+    "description": "? *\n"
+  },
+  "SILVER SPECTOR": {
+    "codeword": "SILVER SPECTOR",
+    "description": "Allows batch Nmap scanning over TOR\n"
+  },
+  "SLIDE": {
+    "codeword": "SLIDE",
+    "description": "Some tool to exploit iPhones *\n"
+  },
+  "SOCIAL ANTHROPOID": {
+    "codeword": "SOCIAL ANTHROPOID",
+    "description": "Database for telephony selectors *\n"
+  },
+  "SOCIALIST": {
+    "codeword": "SOCIALIST",
+    "description": "NAC MyNOC operation to provide access to the Belgacom GRX network (2009-2011)\n"
+  },
+  "SOLARSHOCK116": {
+    "codeword": "SOLARSHOCK116",
+    "description": "End point machine in Iran, found in a TAO operation *\n"
+  },
+  "SORCERER": {
+    "codeword": "SORCERER",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "SOUTHWINDS": {
+    "codeword": "SOUTHWINDS",
+    "description": "Program related to monitoring mobile phones aboard air planes\n"
+  },
+  "SPRING BISHOP": {
+    "codeword": "SPRING BISHOP",
+    "description": "Database for URL's of a targets Facebook profile *\n"
+  },
+  "SQUEAKY DOLPHIN": {
+    "codeword": "SQUEAKY DOLPHIN",
+    "description": "Program for real-time monitoring of online activity on social media websites\n"
+  },
+  "STARGATE": {
+    "codeword": "STARGATE",
+    "description": "Computer Network Exploitation (CNE) operation *\n"
+  },
+  "STELLABLUE": {
+    "codeword": "STELLABLUE",
+    "description": "Covert cable access or cooperating telecommunications partner *\n"
+  },
+  "STOPWATCH": {
+    "codeword": "STOPWATCH",
+    "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; joint UK-US codename: GOLD)\n"
+  },
+  "STRAP": {
+    "codeword": "STRAP",
+    "description": "Compartments for sensitive intelligence information, with levels 1, 2 and 3\n"
+  },
+  "STREETCAR": {
+    "codeword": "STREETCAR",
+    "description": "Cover name for Interoute\n"
+  },
+  "STUNT WORM": {
+    "codeword": "STUNT WORM",
+    "description": "Program for exploiting the TOR network\n"
+  },
+  "STURGEON": {
+    "codeword": "STURGEON",
+    "description": "Messages produced by the T-52 Geheimschreiber cypher machine from Nazi Germany *\n"
+  },
+  "SUGAR": {
+    "codeword": "SUGAR",
+    "description": "Tunnel under Vienna dug by the SIS to wiretap Soviet telephone cables (1948-195?) *\n"
+  },
+  "SUNBLOCK": {
+    "codeword": "SUNBLOCK",
+    "description": "Ability to deny functionality to send/receive e-mail or view material online\n"
+  },
+  "SWAMP DONKEY": {
+    "codeword": "SWAMP DONKEY",
+    "description": "A tool that will silently locate all predefined types of file and encrypt them on a targets machine\n"
+  },
+  "SWORDFISH": {
+    "codeword": "SWORDFISH",
+    "description": "Decompression tool\n"
+  },
+  "TAPER": {
+    "codeword": "TAPER",
+    "description": "Soviet military cypher machines used at division level (1940s)*\n"
+  },
+  "TEMPORA": {
+    "codeword": "TEMPORA",
+    "description": "Computer system for filtering and searching billions of internet data, mainly from the Middle East, North Africa and Europe (operational since 2011). Similar to NSA's XKEYSCORE system.\n"
+  },
+  "TERMINAL SURGE": {
+    "codeword": "TERMINAL SURGE",
+    "description": "Database for Telnet sessions collected by the NAC unit *\n"
+  },
+  "TERRAIN": {
+    "codeword": "TERRAIN",
+    "description": "Processing system that sessionizes data from internet links before sending it to XKEYSCORE *\n"
+  },
+  "THICKISH ALPHA": {
+    "codeword": "THICKISH ALPHA",
+    "description": "Some CNE-related log viewer tool * \n"
+  },
+  "THIEVING MAGPIE": {
+    "codeword": "THIEVING MAGPIE",
+    "description": "Program to intercept communications from airplane passengers *\n"
+  },
+  "TIBET": {
+    "codeword": "TIBET",
+    "description": "Operation involving 7 reconaissance flights along the Baltic and the Polish coast by Comet spy planes (1974) *\n"
+  },
+  "TIDAL SURGE": {
+    "codeword": "TIDAL SURGE",
+    "description": "Some kind of database used by the NAC unit *\n"
+  },
+  "TIMPANI": {
+    "codeword": "TIMPANI",
+    "description": "Fiber-optic cable intercept facility near the Strait of Hormuz in Oman *\n"
+  },
+  "TIN REVERIE": {
+    "codeword": "TIN REVERIE",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "TINT": {
+    "codeword": "TINT",
+    "description": "Experimental research environment for an internet traffic filtering system * (or joint NSA/GCHQ project to develop the Deep Dive XKS capability)\n"
+  },
+  "TRACKER SMURF": {
+    "codeword": "TRACKER SMURF",
+    "description": "High-precision geolocation method for mobile phones\n"
+  },
+  "TRANSIENT THURIBLE": {
+    "codeword": "TRANSIENT THURIBLE",
+    "description": "An XKEYSCORE site with \"Deep Dive\" capability managed by GCHQ * Part of the WINDSTOP umbrella program * \n"
+  },
+  "TRYST": {
+    "codeword": "TRYST",
+    "description": "Covert listening post in the British embassy in Moscow *\n"
+  },
+  "TUNNY": {
+    "codeword": "TUNNY",
+    "description": "Messages from the on-line cypher machine Lorenz SZ-40 used by the High Command of Nazi Germany\n"
+  },
+  "TUXEDO": {
+    "codeword": "TUXEDO",
+    "description": "RAF's regional stockpile of nuclear weapons on Cyprus *\n"
+  },
+  "TWO FACE": {
+    "codeword": "TWO FACE",
+    "description": "Database with open source information related to cyber defense(?) *\n"
+  },
+  "UDAQ": {
+    "codeword": "UDAQ",
+    "description": "GCHQ's computer-to-computer (C2C) data repository\n"
+  },
+  "UNDERPASS": {
+    "codeword": "UNDERPASS",
+    "description": "Change outcome of online polls (previously known as NUBILO)\n"
+  },
+  "VERACIOUS": {
+    "codeword": "VERACIOUS",
+    "description": "? * \n"
+  },
+  "VISAGE": {
+    "codeword": "VISAGE",
+    "description": "Probably a submarine cable access point of Cable & Wireless (2008)*\n"
+  },
+  "VITREOUS": {
+    "codeword": "VITREOUS",
+    "description": "Cover name for Viatel\n"
+  },
+  "VORPAL SWORD": {
+    "codeword": "VORPAL SWORD",
+    "description": "Component of STARGATE CNE * \n"
+  },
+  "WARPATH": {
+    "codeword": "WARPATH",
+    "description": "Mass delivery of SMS messages to support an Information Operations campaign\n"
+  },
+  "WARPIG": {
+    "codeword": "WARPIG",
+    "description": "A botnet that can be deployed against target computers *\n"
+  },
+  "WARRIOR PRIDE": {
+    "codeword": "WARRIOR PRIDE",
+    "description": "Mobile phone spyware kits\n"
+  },
+  "WEALTH": {
+    "codeword": "WEALTH",
+    "description": "Operation against hacktivism in support to law enforcement (2011) *\n"
+  },
+  "WHIPSAW": {
+    "codeword": "WHIPSAW",
+    "description": "Redirect and exploitation server *\n"
+  },
+  "WOLFRAMITE": {
+    "codeword": "WOLFRAMITE",
+    "description": "Capability against the A5/3 GSM encryption algorithm *\n"
+  },
+  "WOODCUTTER": {
+    "codeword": "WOODCUTTER",
+    "description": "? *\n"
+  },
+  "WYLEKEY": {
+    "codeword": "WYLEKEY",
+    "description": "Operation of GCHQs MyNOC unit targeting international mobile billing clearing houses *\n"
+  },
+  "ZOOL": {
+    "codeword": "ZOOL",
+    "description": "Database with open source information related to cyber defense(?) *\n"
   }
-]
+}
