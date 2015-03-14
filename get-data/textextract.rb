@@ -1,5 +1,6 @@
 require 'json'
 require 'sigadparse'
+require 'entityextractor'
 
 class TextExtract
   def initialize(input, field)
@@ -14,13 +15,26 @@ class TextExtract
     @output = s.match
   end
 
-  # To add: 
-  #extractCodewords
-  #extractCountries
+
+  # Extract Codewords
+  def extractCodewords
+    e = EntityExtractor.new(@output, "codewords", "doc_text", "description", "categories")
+    e.extract("set", nil, nil, JSON.parse(File.read("../extract-lists/codewords.json")), ["description"], ["hashkey", "codeword"], "key", nil)
+    @output = e.genJSON
+  end
+
+  # Extract Countries
+  def extractCountries
+    f = EntityExtractor.new(@output, "countries_mentioned", "doc_text", "description", "categories")
+    f.extract("set", nil, nil, JSON.parse(File.read("../extract-lists/isocodes.json")), ["key", "two_letter_iso", "three_letter_iso"], "key", nil)
+    @output = f.genJSON
+  end
 
   # Runs all the extract methods
   def extractAll
     extractSIGADs
+    extractCodewords
+    extractCountries
     return @output
   end
 end
