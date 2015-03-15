@@ -73,15 +73,15 @@ class FeedParser
     paths.each do |p|
       text += p+": \n" if paths.length > 1  
       begin
-        if !File.exist?("text/"+p.gsub(".pdf", ".txt"))
+        if !File.exist?("public/uploads/"+p.gsub(".pdf", ".txt"))
           u = UploadConvert.new("../docs/"+p)
-          u.detectPDFType # Or maybe ocrPDF
+          text += u.detectPDFType # Or maybe ocrPDF
         end
       rescue
       end
 
-      if File.exist?("text/"+p.gsub(".pdf", ".txt"))                                                             
-        text += File.read("text/"+p.gsub(".pdf", ".txt"))
+      if File.exist?("public/uploads/"+p.gsub(".pdf", ".txt"))                                                             
+        text += File.read("public/uploads/"+p.gsub(".pdf", ".txt"))
       end
       text += "\n\n" if paths.length > 1
     end
