@@ -1,0 +1,240 @@
+SECRET
+
+Ups Data Store User Guide
+
+DDS Datastore
+
+ 
+
+DataStore Rota:
+
+ 
+
+~Data Store to be reviewed weekly at the DataStore management meeting
+
+The Tasking Process
+
+Submitting a Task
+
+1.
+2.
+
+E.
+
+The customer follows the links to the Data Store page and clicks ?Add Record?.
+The ?elds Task ?Updates? and ?Team Plan Ref should all be left
+blank. to be filled in later by Ups.
+
+3. All ?elds marked with an must be completed.
+4.
+5. The ?Task Status? should be left as ?New Task? and the ?Record Status? should
+
+The Required by Date should be changed.
+
+be left set to ?Draft?.
+CInce all necessary ?elds are completed click ?Submit?.
+
+CInce submitted the task will be dealt with as follows:
+
+Processing a Task
+
+1. The US [Data Store} Admin team is notified ofthat a Task has been
+submitted.
+
+2. The ?on duty? Admin reviews the task. assessing what category [see below} it
+falls into and passes it along to the appropriate TL (team leader}.
+
+Categories
+
+BR BULLRUN 
+
+CTSC Counter Terrorism and Serious Crime
+
+EA Electronic Attack
+
+CT |ISlobal Targets
+
+HCA Hand and SMS
+
+MENA Middle East North Africa
+
+MCIB Mobile Infrastructure
+
+PRS Password Recovery Seryice
+
+TD |L'E-eneric Target Discovery
+
+TR Tech nical esearch
+
+?y?irtual Priyate Networks
+
+SIC- |L'E-eneric or complex signature deyelopment.
+
+ 
+
+possibly to include XKS fingerprinting [and in the future?)
+
+And possibly more. including:
+
+SECRET
+
+SECRET
+
+17"? Tech Tracking and Trends Requests for
+tech tracking or trends data
+BP Requests BEARDED PICCT accounts
+
+The DS Admin notifies the TL of the task and updates it changing the FCC to
+the sid and adding a note to the ?Updates? field in the following format:
+
+?Passed to cTL?s sid:- on cddimmiyys- by Admin?s side?
+
+DS Admin then sends an email to the task originator notifying them which TL
+is handling the task.
+
+If the task is inappropriate for or is one that there will be no
+resources available for in the foreseeable future then the TL changes the Task
+Status to ?Rejected? and notifies the task originator explaining why the task has
+been rejected. The task?s Record Status is then set to ?Arcbive?.
+
+If it is an appropriate achievable task the TL takes the following steps:
+
+- Determine what priority the task should be
+
+- Decide if the timescale is achievable given the available resources and
+personnel
+
+- Decide if the necessary resources are available
+
+- If an appropriate person is available assign them
+
+Ta. If resources are not currently available but the task is one that will
+definitely complete some time in the near future when resources are available the
+
+TL
+
+should contact thetasks originator and inform them of when, realistically.
+
+resources will be available and work staited.
+
+Tb.
+
+If they still wish the task to be undertaken then a new timescale should be
+
+negotiated.
+
+Tc.
+
+left as
+
+
+
+9.
+
+
+
+The Task Status should then be set to ?Suspended? and the Record Status is
+?Draft?.
+
+These tasks will be checked as pait of the Data Store review to ensure that
+
+work starts on them as soon as resources become available.
+
+Dnce this is done the tasks Record Status is set to ?Current?, the Task Status
+is set to ?Assigned? and the update field should be filled in as follows:
+
+Work to be carried out by cassignees sid:- staiting on cddimmiyys- assigned
+by cTL?s sid:-
+
+SECRET
+
+
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+SECRET
+The TL then informs the task originator of the update.
+
+Dnce the assignee begins work the Task Status should be set to ?ln
+Progress?.
+
+The DS Admin?s review all task weekly to ensure they are being acted on and
+that all timescales and on schedule. If atimescale is deemed unrealistic then
+the TL should be informed and should negotiate a new deadline with the task
+originator.
+
+Dnce atask is completed the Task Status should be set to ?Complete? and
+the Record Status changed to ?Arcnive?.
+
+The task originator should be informed that the task is officially complete and
+where possible feed back obtain ed.
+
+Remember to keep both the ?Record Status? and ?Task Status?
+fields up to date and make sure thatthe record is in the correct category. The
+TASK status should only be used on new tasks still in DRAFT. once
+ASSIGNED the task should be moved immediately to CURRENT. once work
+is started the task status should be IN and once it
+should be moved to 
+
+Searching DataStore (Dnly applicable to those with view privileges)
+
+There are two search options atthe top of the page: Text Search and Date Search.
+
+Text Search this allows searching on a number of ?elds (listed below} both in the
+page and within the records themselves. This search type is useful for ?nding all the
+tasks owned by a speci?c individual or all the tasks of aspecific type (providing the
+category tag has been applied to the ?Task Titie?.
+
+Task Title
+
+Team Requesting
+Task Status
+
+Task PDC
+Driginator
+
+Task Classi?cation
+Points
+
+Priority
+Miranda
+
+HRA Justi?cation
+Expected Dutcome
+Business Case
+Estimated Resources
+Updates
+
+Team Plan Ref
+
+SECRET
+
+SECRET
+
+Date Search there are three sub categories ofthis search; ?No date search? [which
+searches for record with no date set in the chosen ?eld}. Search for a single date?. or
+Search over a date range?. These searches can be conducted on several ?elds;
+Required by Date?. ?Date Submitted?. ?Date last updated? and ?Date Task Completed?.
+
+This search is useful for finding all the tasks that need to be completed by a specific
+date.
+
+The search types can be used in concert e.g. tasks with SIC in the title with a
+
+reg uired by date between Dll?ElEDll and DEllDlEDll. this is achieved by running
+one search and then the other.
+
+4bf4
+
+ -- 
+
+SECRET
+

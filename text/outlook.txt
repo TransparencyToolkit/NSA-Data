@@ -1,0 +1,25 @@
+Page115
+
+Microsoft releases new service, affects FAA 702 collection
+
+ 
+
+By  NAME REDACTED  on 2012?12?26 @811
+
+ 
+
+On 31 July, Microsoft (MS) began web?based chat
+with the introduction of the new outlook.com service. This new Secure
+Socket Layer (SSL) effectively cut off collection of the new
+service for FAA 702 and likely 12333 (to some degree) for the Intelligence
+Community (IC). MS, working with the FBI, developed a surveillance
+capability to deal with the new SSL. These solutions were successfully
+tested and went live 12 Dec 2012. The SSL solution was applied to all
+current FISA and requirements no changes to UTT tasking
+procedures were required. The SSL solution does not collect server?based
+voice/video or file transfers. The MS legacy collection system will remain
+in place to collect voice/video and file transfers. As a result there will
+be some duplicate collection of text?based chat from the new and legacy
+systems which will be addressed at a later date. An increase in collection
+volume as a result of this solution has already been noted by CES.
+

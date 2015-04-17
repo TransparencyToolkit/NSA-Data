@@ -1,0 +1,654 @@
+ 
+
+ 
+
+as. Department of Justice fr??  
+r'
+
+ 
+
+ 
+
+6?  
+National Security Division 
+
+Washington, no. 20530
+November 20, 2007
+MEMORANDUM FOR THE ATTORNEY GENERAL  
+as: ..
+THROUGH: THE ACTING DEPUTY ATTORNEY GENE  5
+.7 
+FROM: Kenneth L. Wainstein 9%    333"
+Assistant Attorney General .7 
+National Security Division 57;  5 
+cc: Steven G. Bradbury  
+Principal Deputy Assistant Attorney General 
+Of?ce of Legal Counsel
+SUBJECT: Proposed Amendment to Department of Defense Procedures to Permit the
+
+National Security Agency to Conduct Analysis of Communications
+Metadata Associated with Persons in the United States 
+
+PURPOSE: To Recommend Attorney General Approval Pursuant to Executive Order
+12333 of a Proposed Amendment to Procedures Governing the National
+Security Agency?s Signals Intelligence Activities 
+
+SYNOPSIS: The Secretary of Defense seeks your approval of proposed Department of
+Defense Supplemental Procedures Governing Communications Metadata Analysis
+(?Supplemental Procedures?). The Supplemental Procedures, attached at Tab A, would clarify
+that the National Security Agency (N SA) may analyze communications metadata? associated with
+United States persons and persons believed to be in the United States These Supplemental
+
+Procedures would amend the existing procedures promulgated pursuant to Executive Order
+
+
+
+Classi?ed by:
+Reason: .
+
+Declassi?/ on: 20 November 2032
+
+ 
+
+ 
+
+
+
+l2333.' That Order requires the NSA to conduct its signals intelligence activities involving the
+collection, retention, or dissemination of information concerning United States persons in
+accordance with procedures approved by the Attorney General. Accordingly, changes to these
+procedures, such as those proposed here, also require your approval. We conclude that the
+proposed Supplemental Procedures are consistent with applicable law and we recommend that
+you approve them.2 
+
+The communications metadata that the NSA wishes to analyzewwhich relates to both
+telephone calls and electronic communicatiousemis dialing, routing, addressing, and signaling
+information that does not concern the substance, purport, or meaning of the conmrunication. The
+procedures divide communications metadata into two categories: telephony .metadata and
+electronic cormnunications metadata. Telephony metadata includes such information as the
+telephone numbers of the calling and the called party. Electronic communications metadata
+includes such information as the e?mail address and the Internet protocol (IP) address of the
+computer of the sender and the recipient. This communications metadata has been obtained by
+various methods, including pursuant to the Foreign Intelligence Surveillance Act (PISA), 50
+USC. 1801, et seq, and resides in NSA databases.3 NSA plans to analyze this data primarily
+using a technique known as ?contact chaining.? Contact chaining involves the identi?cation of
+telephone numbers, email addresses, or IP addresses that a targeted telephone number, IP
+address, or email address has contacted or attempted to contact. Through the use of computer
+algorithms, NSA creates a chain of contacts linking communicants and identifying additional
+telephone numbers, 1? addresses, and email addresses of intelligence interest. On the basis of
+prior informal advice of the Office of Intelligence Policy and Review, present practice is
+to ?stop? when a chain hits a telephone number or address believed to be used by a United States
+person. NSA believes that it is over?identifying numbers and addresses that belong to United
+States persons and that modifying its practice to chain throughall telephone numbers and
+addresses, including those reasonably believed to be used by a United States person, will yield
+valuable foreign intelligence inferrnation primarily concerning non?United States persons outside
+
+ 
+
+Procedures Governing the Activities of DOD Intelligence Components frat 
+United States Persons (DOD Reg. 1982)(approved by the Attorney General on
+Oct. 4, Procedures?) and its Classi?ed Annex. The proposed Supplemental
+Procedures would clarify Procedure 5 of the DOD Procedures and its Classi?ed Annex. (U)
+
+2 This memorandum was prepared in consultation with the Of?ce of Legal Counsel. (U) .
+3 This memorandum assumes that the initial acquisition of the information it
+wishes to analyze was lawful. (U) 
+
+
+
+
+ 
+
+
+
+the United States. It is not clear, however, whether current procedures permit chaining
+through a United States telephone number, address or e?mail address. (Sl/Sl)
+
+We conclude that the proposed communications metadata analysis, including contact
+chaining, is consistent with the Fourth Amendment; (ii) and the electronic
+surveillance provisions contained in Title 18 of the United States Code. The Supplemental
+Procedures are also consistent with the requirements of Executive Order 12333. 
+
+As you consider this proposed change, you should be aware of the following:
+
+(1) Congressional Oversight. At the request of the Secretary of Defense, NSA briefed.
+the Select Committee on Intelligence of the United States Senate and the Permanent Select
+Committee on Intelligence of the United States House of Representatives on this proposed
+change before the Secretary signed the Supplemental Procedures.
+
+(2) Oversight ?3 Activities Under the Supplemental Procedures. Because NSA
+has in its databases a large amount of communications metadata associated with persons in. the
+United States, misuse of this information could raise serious concerns. The General Counsel of
+NSA has provided a letter, attached at Tab B, describing how NSA will oversee access to and use
+of this data and committing to report annually to you on communications metadata
+program. As part of this reporting, NSA undertakes to inform the Department of ?the kinds of
+information that NSA is collecting and processing as communications metadata.? Particularly as
+technology changes, this requirement is important because the legal standards governing
+metadata are quite different from those governing the contents of a communication. We believe
+that the oversight and reporting regime that this letter describes is a reasonable one, and it
+informs our recommendation that you approve the Supplemental Procedures. (S/lSl)
+
+(3) The Central Intelligence Agency ?3 (CIA) Interest in Conducting Similar 1 
+Communications Metadara Analysis. On July 20, 2004, the General Counsel of CIA wrote to the
+General Counsel of NSA and to the Counsel for Intelligence Policy asking that CIA receive from
+NSA United States communications metadata that NSA does not currently provide to CIA. The
+letter from CM is attached at Tab C. Although the proposed Supplemental Procedures do not
+directly address the request, they do resolve a significant legal obstacle to the 
+dissemination of this metadata from NSA to CIA. 
+
+(4) Department of Defense ?s (DOD) Interest in Allowing Other DOD Entities to Have
+Access to this Data and to Conduct Similar Analysis. The General Counsel?s Of?ce has
+informed us that, in the future, other DOD entities may wish to obtain and analyze
+communications nietadata using the same rules that NSA uses to do so. The proposed
+Supplemental Procedures do not apply to these other DOD entities, but you should be aware that
+
+COM 
+
+
+
+ 
+
+
+
+such a request may be forthcoming. As part of its oversight responsibilities, the National
+Security Division will be briefed by DOD concerning what these other DOD entities are doing,
+or are seeking to do, in this area before approving any such request. 
+
+DISCUSSION: (U)
+The Fourth Amendment (U)
+The Fourth Amendment provides that:
+
+The right of the people to be secure in their persons, houses, papers, and effects,
+against unreasonable searches and seizures, shall not be violated, and no Warrants
+shall issue, but upon probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the persons or things to be
+seized.
+
+.S. Const. amend. IV. This provision protects against the unreasonable search and seizure of
+the contents of a communication in which a person has a reasonable expectation of privacy. See
+Kai?s v. 389 us. 347 0967). We conclude that a person has no such expectation, however,
+in dialing, routing, addressing, or signaling information that does not concern the substance,
+purport, or meaning of communications.4 We reach this conclusion with respect to ?metadata?
+
+ 
+
+4 As an initial matter, we note that the analysis of information legally within the
+possession of the Government is likely neither a ?search? nor a ?seizure? Within the meaning of
+the Fourth Amendment. See, cg, fobara 12. Webster, 691 F.2d 272, 277?79 (6th Cir 1982)
+(holding that the disclosure of information by an agency that lawfully possessed it to another
+agency does not implicate the Fourth Amendment); Memorandum for the Attorney General from
+Theodore B. Olson, Assistant Attorney General, Office of Legal Counsel, Re: Constitutionality of
+Certain National Security Agency Electronic Surveillance Activities Not Covered Under the
+Foreign Intelligence Surveillance Act of1978, at 59 (May 24 1984) (?Olson Memorandum?)
+(?Traditional Fourth Amendment analysis holds that once evidence is constitutionally seized, its
+dissemination or subsequent use raises no additional Fourth Amendment question?). As noted,
+we assume for the purpose of this memorandum that the NSA has lawfully acquired the
+information it wishes to analyze. Nevertheless, the Olson Memorandum went on to consider the
+limits on the subsequent use of information when assessing the constitutionality ofNSA?s
+. surveillance activities under the Fourth Amendment. See id. In an abundance of caution, then,
+we analyze the constitutional issue on the assumption that the Fourth Amendment may apply
+even though the Government has already obtained the information lawfully. 
+
+
+
+c4?
+
+ 
+
+i . 
+
+associated With both telephone calls and electronic communications.5 (Sl/Sl)
+
+The Supreme Court has held that there is no reasonable expectation of privacy in
+telephone numbers dialed because a caller must convey the numbers to the telephone company to
+complete the call. See Sizzitlt v. Maryland, 442 US. 735, 743?44 (1.979). In Smith, the Court
+concluded that the installation of a pen register was not a ?search? within the meaning of the
+Fourth Amendment, and thus that no warrant was required to collect such information. 10'. at
+745-46. This conclusion followed from the Court?s previous holding in US. v. Miller, 425 US.
+435 (1976), that an individual has no Fourth Amendment privacy interest in information released
+to a third party and later conveyed by that third party to a. governmental entity. Id. at 440.
+Accordingly, it is well settled that there is no reasonable expectation of privacy in the telephony
+metadata the NSA proposes to analyze.6 
+
+Likewise, there is no reasonable expectation of privacy in electronic communications
+metadata. For Fourth Amendment proposes, courts have considered e?mails to be analogous to
+telephone calls and to letters sent through the postal system. See US. v. Charbonneau, 979 F.
+Supp 1177, 1184 Ohio 1997); US. v. Maxwell, 45 MJ. 406,417 (C.A.A.F. 1996).
+Following the same approach as Smith, courts have consistently held that the Fourth Amendment
+is not implicated when the Government gathers information that appears on mail covers,
+including the name and address of the addressee and of the sender, the postmark, and the class of
+mail. See US. v. Charlie, 576 F.2d 165, 174 (9th Cir. 1978); US. v. DePoli, 628 F.2d 779 (2nd
+Cir. 1980); US. v. Huie, 593 F.2d 14 (5th Cir. 1979)(per curiarn). See also Vreelren v. Davis,
+718 F.2d 343, 34748 (10th Cir. 1983) (concluding that a mail cover, whichrec?ords information
+about the sender and recipient ofa letter, is ?indistinguishable in any important respect from the
+pen register at issue in Smith?)- And courts have consistently found that individuals do not have
+a reasonable expectation of privacy in information pertaining to the use of electronic media that
+
+ 
+
+5 It is important to note that this memorandum addresses only those types of metadata
+speci?cally identi?ed in the Supplemental Procedures. As described above, NSA is required to
+report regularly to the Department on new types of information that it is treating as ?metadata.?
+does so, we will evaluate whether such new information 51130 falls outside the Fourth
+Amendment. 
+
+6 Smith continues to be cited by the Supreme Court and lower courts for the proposition
+that acquisition of telephone numbers does not implicate the Fourth Amendment. See, Kylie
+v. United States, 5331.38. 27, 33 (2001); US. elecom Commission v. FCC, 227 F.3d 450, 454
+(DC. Cir. 2000). (U)
+
+
+
+
+
+ 
+
+
+
+{1065 not tilt: substantive content eta communication.7 The electronic communications
+.metadata the NSA proposes to analyzewdialing, routing, addressing or signalng information?43
+identical. in all material respects to the information deemed not to implicate the Fourth
+Amendment in these lines ofcases. 
+
+Thus, when interpreting the Fourth Amendment, the courts have drawn a consistent
+distinction between the substantive content of the communications (found to be protected in
+Katz) and the non~content information (found to be unprotected in Smith, Miller and a number of
+lower court cases). The communications metadata implicated by the proposed Supplemental
+Procedures is limited to dialing, routing, addressing, or signaling information and is de?ned
+speci?cally to exclude any information that concerns the substance, purport or meaning of the
+communication. Thus it falls clearly within the second, unprotected category of information,
+
+We conclude, therefore, that there is no reasonable expectation of privacy in this metadata and
+that the communications metadata analysis proposed by NSA does not implicate the Fourth
+Amendment. 
+
+Electronic Surveillance Provisions (U)
+To fall Within coverage of ?electronic surveillance,? an action must satisfy one of
+
+the four de?nitions of that term. None of these de?nitions cover the communications metadata
+analysis at issue here.8 (S)
+
+ 
+
+7 See Thygeson v. US. Bancorp, WL 2066746 (D. Or. 2004) (noting the distinction
+between the website addresses at issue there, in Which an employee had no reasonable
+expectation of privacy, and the contents of websites visited or emails sent). See also US. v.
+225 F.3d 656 (4th Cir. 2000) (unpublished opinion) (holding that, although in certain
+circumstances a person may have a privacy interest in ?content information"; such as the
+substance of an e-maii, there is no privacy interest in inferrnation provided to the ISP for
+purposes of establishing the account, which, according to the court, is non?centent information);
+US. v. Oizrzesorge, 60 MJ. 946 (N.M. Ct. Crim. App. 2005) (holding that there is no reasonable 
+expectation. of privacy regarding information provided to an ISP). 
+
+8 As noted above, some of the metadata the NSA would analyze has been acquired
+pursuant to FISA and thus is subject to the minimization procedures applicable to that collection.
+The standard NSA PISA minimization procedures contain no restrictions that would prohibit the
+meta/data analysis described herein. The NSA will continue to comply with these procedures,
+including with any restrictions on the dissemination of information. In addition, to the extent
+that any orders authorizing, under PISA, the collection of metadata impose minimization
+procedures that would restrict the metadata analysis in the manner proposed here by NSA, the
+NSA must continue to abide by the conditions in those orders. 
+
+
+
+.. 
+
+ 
+
+
+
+Three of the four de?nitions of electronic surveillance are satisfied only when the
+communication is acquired ?under circumstances in which. a person has a reasonable expectation
+of privacy and a warrant would be required for law enforcement purposes.? 50 U.S.C.
+1801(f)(l), (3), (4). This statutory expectationmof-privacy requirement adopts a term of art
+from Fourth Amendment case law. See, eg, Kata, 389 US. at 361 (Harlan, 1., concurring).
+?[W]here Congress borrows terms of art . . . it presumably knows and adepts . . . the meaning
+[their] use will convey to the judicial mind unless otherwise instructed.? Morissette v. United
+States, 342 US. 246, 263 (1952). The legislatiVe history con?rms the applicability of this
+presumption in this instance. it repeatedly adverts to constitutional standards when discussing
+this provision. See, tag, S. Rep. 95301, at 37, _1978 U.S.C.C.A.N. at 4006 (noting that the
+provision ?require[s] that the acquisition of information be under circumstances in which a
+person has a constitutionally protected right of privacy?); HR. Rep. No- 95?1283, at 53 (same);
+S. Rep. No. 95-604, at 35, 1978 U.S.C.C.A.N. at 3937 (same). For the reasons stated above,
+there is no reasonable expectation of privacy in the communications metadata at issue here;
+therefore, proposed activity would not come Within the de?nitions of electronic
+surveillance contained in subsections 1801(t)(1), (3) or (4). (S)
+
+The fourth de?nition of electronic surveillance involves ?the acquisition by an electronic,
+mechanical, or other surveillance device of the contents of any Wire communication . . .  50
+U.S.C. 1802(f)(2). ?Wire communication? is, in turn, de?ned as ?any conununieatiou while it
+is being carried by a wire, cable, or other like connection ?irnished or operated by any person
+engaged as a common carrier . . . Id. 1801(1). The data that the NSA wishes to analyze
+already resides in its databases. The proposed analysis thus does not involve the acquisition of a
+communication ?while it is being carried? by a connection ?imished or operated by a common,
+carrier. 
+
+Pen Register and Trap and Trace Provisions (U)
+
+The pen register and trap and trace surveillance provisions of PISA, 50 U.S.C. 1841-
+1846, and of the criminal law, 18 U.S.C. 3121?27, do not apply to the communications
+metadata analysis that NSA wishes to conduct. 
+
+First, for the purpose of these provisions, ?pen register? is de?ned as ?a device or process
+which records or decodes dialing, routing, addressing or signaling infonnation.? 18 U.S.C.
+3127(3); 50 U.S.C. 1841(2). When NSA will conduct the analysis it proposes, however, the
+dialing and other information will have been already recorded and decoded. Second, a ?trap and
+trace device? is de?ned as ?a device or process which captures the incoming electronic or other
+impulses which identify the originating number or other dialing, routing, addressing and
+signaling information.? 18 U.S.C. 3127(4); 50 U.S.C. Again, those impulses'will
+already have been captured at the point that NSA conducts chaining. Thus, 
+communications metadata analysis falls outside the coverage of these provisions. 
+
+
+
+
+
+ 
+
+ 
+
+3
+
+Title 111 (U)
+
+The federal criminal wiretap statute, Title of the Omnibus Crime Control and Safe
+Streets Act, 18 U.S.C. 2510, et seq., prohibits the unauthorized ?intercept[ion]? of any wire,
+oral or electronic communication, id. at 251 which is de?ned as the acquisition of the
+?contents? of the communication, id. at 2510(4). It also prohibits the use and disclosure of the
+?contents? of such a communication if it was unlaw?illy intercepted. See id. at 2511(1). For
+the purpose of these prohibitions, ?contents? is de?ned as ?information concerning the substance,
+purport, or meaning of that communication.? Id. 2510(8); see {?uted States v. New York
+Telephone Co, 434 US. l59 (1977) (holding that Title Ill does not cover the acquisition of
+metadata with pen registers). By its terms, the Supplemental Procedures? de?nition of the
+rnetadata to be analyzed excludes information about the substance, purport, or
+meaning of the communication. For this reason at least, the prohibitions of section 2511(1) do
+not apply to the proposed communications metadata analysis. 
+
+Executive Order 12333 and Related Procedures (U)
+
+Executive Order 12333 requires the NSA to conduct its signals intelligence activities
+involving the collection, retention, or dissemination of information concerning United States
+persons in accordance with procedures approved by the Attorney General. See id. 2.3; 2.4.9
+These meedures rnust permit the collection, retention, and dissemination of certain types of
+information including foreign intelligence information in a manner that protects constitutional
+and other legal rights and limits the use of the information to lawful government purposes. See
+id. 2.4. The Attorney General approved the current Department of Defense procedures and
+Classi?ed Annex in October 1982. (U) 
+
+I The current DOD procedures and their Classi?ed Annex may be read to restrict 
+
+ability to conduct the desired corrununications metadata analysis, at least with respect to metadata
+associated with United States persons. In particular, this analysis may fall within the procedures?
+definitions of, and thus restrictions on, the ?interception? and ?selection? of communications.
+
+ 
+
+9 In addition, section 2.5 of Executive Order 123 33 provides that the ?Attorney General
+hereby is delegated the power to the use for intelligence purposes, within the United
+States or against a United States person abroad, of any technique for which a warrant would be
+required if undertaken for law enforcement purposes.? Because individuals have no reasonable
+expectation of privacy in the types of nietadata at issue here, no warrant would be required to
+analyze this information for law enforcement purposes. In addition, the analysis of information
+legally within the possession of the government is likely neither a ?search? nor a ?seizure? within
+the meaning of the Fourth Amendment. See note 4, supra. Section. 2.5 thus does not require the
+Attorney General to approve preposed analysis otjconununications inetadata. (S)
+
+OMIN Tf/ ORC ON 0F 
+
+
+
+ 
+
+
+
+Accordingly, the Supplemental Procedures that would govern analysis of communications
+metadata expressly state that the DOD Procedures and the Classi?ed Annex do not apply to the
+analysis of conununications metadata. Speci?cally, the Supplemental Procedures would clarify
+that ?contact chaining and other metadata analysis do not qualify as the ?interception? or
+?selection? of communications, nor do they qualify as ?us[ing] a selection tenn,? including using a
+selection term ?intended to intercept a communication on the basis of . [some] aspect of the
+content of the communication.? Once approved, the Supplemental Procedures will clarify that
+the communications metadata analysis the NSA wishes to conduct is not restricted by the DOD 
+procedures and their Classi?ed Annex. 
+
+The Supplemental Procedures de?ne the terms ?communications metadata,? ?contact
+chaining,? and ?metadata analysis.? The Supplemental Procedures also state that NSA will
+conduct contact chaining and other rnetadata analysis only for valid?foreign intelligence
+purposes; disseminate the results of its analysis in accordance with current procedures governing
+dissemination of information concerning U.S. persons as set forth in Section 4.A.4 of the
+Classi?ed Annex; and investigate any apparent misuse or improper dissemination of metadata
+and report the same to the appropriate oversight organization(s). 
+
+In addition, the NSA letter accompanying the Supplemental Procedures proposes a
+regulatory and. oversight regime for the handling of communications metadata of US. persons.
+NSA states that access to cormnunications metadata will be restricted to only those personnel
+with a. need for this data in the performance of their of?cial duties. Before gaining access to
+communications metadata, NSA or other personnel working under the authority of the Director
+7 will receive mandatory training approved by the General Counsel of NSA on the proper
+use of suchdatabases and chaining tools. When logging into the electronic data system, users
+will View a banner that rewemphasizes key points regarding use of the data, chaining tools, and
+proper dissemination of results. NSA will also create an audit trail of every query made in each
+database containing U.S. cormnunications metadata, and a network of auditors will Spot?check
+activities in the database to ensure compliance with all procedures. .In addition, the NSA
+Oversight and Compliance Office will conduct periodic super audits to verify that activities
+remain properly controlled. Finally, NSA will report any misuse of the information to the 
+Inspector General and Of?ce of General Counsel for inclusion in existing or future reporting
+mechanisms related to Signals intelligence activities. 
+
+NSA also states it will report any changes to this oversight regime to the Assistant
+Attorney General for the National Security Division, and, by October 15 of each year, will submit
+a report to the Attorney General regarding the kinds of information the NSA is collecting and
+processing as communications metadata, implementation of its compliance procedures,
+and any signi?cant new legal or oversight issues that have arisen in connection with 
+activities described in this memorandum. (C)
+
+
+
+-9-
+
+ 
+
+ 
+
+ 
+
+
+
+AS drafted, the Supplemental Procedures meet the requirements of Executive Order
+12333. Together with the current approved procedures, they continue to permit the collection'of
+foreign intelligence and other inferination and, as explained above, the metadata analysis will be
+for lawful goveminent puiposes and consistent with the Constitution and other applicable law.
+
+(5)
+
+RECOMMENDATION: Based on the information provided by NSA and our analysis of,
+applicable law, we conclude that there are no constitutional or statutory restrictions on 
+proposed use of coxmnunications metadata. We therefore recommend that you approve the
+Supplemental Procedures. -
+
+
+
+"10-
+
+ 
+
+v: 5 'v 'eDepartment of Defense Supplemental Procedures Governing
+Communications Metadata Analysis
+
+Sec. 1: Purpose
+
+These procedures supplement the Procedures found in DOD Regulation
+5240. and the Classi?ed Annex thereto. These procedures govern 
+analysis of data that it has already lawfully collected and do not authorize
+collection of additional data. These procedures also clarify that, except as stated
+in section 3 below, the Procedures in DOD Regulation 5240.141 and the Classi?ed
+Annex thereto do not apply to the analysis of corrununications metadata.
+
+Sec. 2: De?nitions
+
+Corrununications metadata means the dialing, routing, addressing, or
+signaling information associated with a conununication, but does not
+include information concerning the substance, purport or meaning of the
+communication. The two principal subsets of communications metadata are
+telephony metadata and electronic communications metadata.
+
+. Telephony "metadata" includes the telephone number of the calling
+party, the telephone number of the called party, and the date, time, and
+duration of the call. It does not include the substance, purport, or
+meaning of the communication.
+
+For electronic communications, "metadata"includes the information
+appearing on the "from," and "bcc" lines of a standard
+e?mail or other electronic communication. or e?mail cominunications,
+the "from" line contains the e?tnail address of the sender, and the 
+and "bcc" lines contain the e?mail addresses of the recipients.
+"Metadata" also means 1) information about the lntemet-protocol 
+address of the computer from which an email or other electronic
+conununication was sent and, depending on the circumstances, the IP
+address of routers and servers on the internet that have handled the
+communication during transmission; (2) the exchange of an address and
+e?mail address that occurs when a user logs into a web?based email
+service; and (3) for certain logins to web-based e?mail accounts, inbox
+metadata that is transmitted to the user upon secessing the account.
+"Metadata" associated with electronic conun?unications does not include
+information from the "subject" or "re" line of an email or information
+from the body of an e?mailJain. l. *3 Exit.? it} 3. to}. Hi 35?s L?s-mic? which": 
+
+Contact chaining. Contact chaining is a process by which
+communiCations metadata is organized. "It shows, for example, the telephone
+numbers or e-mail addresses that a particular telephone number or e?mail address
+has been in contact with, or has attempted to contact. Through this process,
+computer algorithms automatically identify not only the first tier of contacts made
+by the seed telephone number or email address, but also the further contacts made
+by the ?rst tier of telephone numbers or e?mail addresses and so on.
+
+. Sec. 3: Procedures
+
+(SHSI) NSA will conduct contact chaining and other communications
+metadata analysis only for valid foreign intelligence purposes.
+
+(bl NSA will disseminate the results of its contact chaining and other
+analysis of communications metadata in accordance with cement procedures
+governing dissemination of information concerning US persons. See Section
+4A4 of the Classi?ed Annex to Procedure 5 of DOD Regulation 
+
+Any apparent misuse or improper dissemination of metadata
+shall be investigated and reported to appropriate oversight organization(s). See
+Procedme 15 of DOD Regulation 5240.141.
+
+.Sec. 4: Clari?cation
+
+(8/781) For purposes of Procedure 5 ofDoD Regulation 52401?11 and the
+Classi?ed Annex ltheteto, contact chaining and other metadata analysis do not
+qualify as the ?interception? or ?selection? of communications, nor do they qualify
+as ?us?ngj a selection term,? nicluding using a selection term ?intended to 
+intercept a communication on the basis of . . . [some] aspect of the content of the
+communication.? 
+
+ 
+
+Di: Robert (Elites Date
+Secretary of Defense
+
+  
+
+ 
+
+ 
+
+'12 x?
+5% . est?
+47' I,
+Michael B. Mukasey ?Dam
+
+Attorney General
+of the United States
+
+ 
+
+
+AGE
+Fem gamma: gamma 
+
+ 
+
+     
+
+Serial: 
+28 SW 2006
+
+Mr. Im A. Baku: 
+Cmmsel for Intel?gmm Policy
+US. Department effus?cc
+
+950 Avenue, NW. 
+Washington, 13.0. 28530
+
+Dear Jim:
+
+The National Scarcity Agency (NSA) is mating that Secretary of
+Classi?de
+Dcpaztmmi afDefense Ptocedures Under Executive Order 12333 (May 27, 1988). That
+
+38A is comm tn vigorous ma e?bctive ovarsigm afal! ofits
+activi?cs Mammp?vacym ofU.S.pasons. 
+communica?ommemdataofus. 130130135 a?ectedby this NSA wishes to
+infmm you ?fths following:
+
+1. NBA acquirw this munica?ons memdntatmdm-im authority to collect,
+process, and dim signals We: infomation under WW Order 12333.
+
+All afthe communica?ons mutadam the: NBA as:qu under this Merits: should haw
+at least cm: outside the United 8m.
+
+2. m: 0mm and Samplich Of?ce in 81mm mt?nigme
+rate cam Oversight ofNSA?s activities invalving metadata.
+
+
+gamma! duties.
+
+Dm'ved me: 1-52
+Dated: 20041123
+9mm; an: 20291123
+
+
+
+.. . m? np ?wwum'a?m
+
+ 
+
+
+
+4. Before NSA or ether personnel writing [maca- the authority ?fth: Directs: of
+
+
+Umw?lcempletemd
+
+5. Before accessing thedatguwrs will viewabm, displayednponlngin mad 
+positively acknowledged bytheuser, thatro-mnphasim thekeypuinm regarding use of
+the tools, afanyresults submitted.
+
+. 6. 
+communime metadaia, andhaa a network ofauditm-s who will be respon?'bie for
+
+pmcadimd?c?bed use. om: condugta
+posiodic Wanting tovmifythat Wild.
+
+7. NSA w?lrepm-anymiwse of?zeinfomm?anto 
+and  omemmComsdfuwmdu?onfnaxis?ng 
+
+(C) Should anyofthoec change, the
+ Gencral, National Secmity Division, US. Bcpament In
+thisemeNSAw?! 
+should take. to a??active ova-sight 9f communications madam of US. pagans.
+
+(C) 
+on theh?nds 
+ (ii) of?m slaps deacn'bad above;  any
+
+cc: General Counsel, of Dcfwe
+Camel, Game; of Binder afNa?onal Inm?igmce 
+Civil Liber?ea Protection G?cm', O?ce of Dir?cter of National Intelligence
+
+
+

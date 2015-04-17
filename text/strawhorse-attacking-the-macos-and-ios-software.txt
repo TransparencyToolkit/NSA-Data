@@ -1,0 +1,22 @@
+[edit] Strawherse: Attacking the and i?S Seftware Develepment Kit
+
+Presenter: Sandia Natienal Laberateries
+
+Ken Thempsen?s attack {described in his 1984 Turing award acceptance speech] metiyates the
+StrawMan werk: what can be dene ef bene?t te the US Intelligence Cemmunity if ene can make an
+arbitrary medi?catien te a system cempiler er Seftware Iieyelepment Kit A [whacked] SIZIK can
+preyide a subtle injectien yecter ente standalcne deyeleper netwerks, er it can medify any binary cempiled
+by that SDK. In the past; we haye watermarked binaries fer attributien, used binaries as an en?ltratien
+mechanism, and inserted Trejans inte cempiled binaries.
+
+In this talk, we discuss eur expleratiens ef the Kcede SDK. Kcede is used te cempile 
+applicaticns and kernel extensiens as we]i as applications. We describe hew we use {eur whacked]
+Xcede te de the fellewing things: ?Entice all applicaticns te create a remete backdeer en enecutien
+-Medify a dynamic dependency ef securityd te lead eur ewn library - which rewrites securityd se that ne
+prempt appears when experting a deyeleper?s priyate key -Embed the deyeleper?s priyate key in all 
+applicaticns ?Ferce a]i applicaticns te send embedded data te a listening pest ?Cenyince a]i {new}
+kernel extensiens te disable ASLR
+
+We alse describe hew we medi?ed beth the updater te insta]i an extra kernel extensien {a
+keylegger] and the Kcede installer te include eur SDK whacks.
+

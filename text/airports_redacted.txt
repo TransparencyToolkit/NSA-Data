@@ -1,0 +1,555 @@
+ 
+
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+Example IP Profile Problem
+
+Target appears on IP address, wish to understand
+network context more fully
+
+Example Quova look-up response for 
+
+Lat. 60.00 Long: -95.00 (in frozen tundra W. of Hudson Bay)
+City: unknown
+
+Country: Canada,
+Operator: Bell Canada, Sympatico
+
+Issues with IP look-up data:
+is it actually revealing, or is it opaque
+is the data even current, or is it out-of?date
+was the data ever accurate in the first place
+
+
+
+   
+
+ 
+
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objectives
+
+Develop new analytics to provide richer contextual
+data about a network address
+
+Apply analytics against Tipping Cueing objectives
+
+Build upon artefact of techniques to develop new
+needle-in-a-haystack analytic contact chaining
+across air-gaps
+
+ 
+
+TOP SECRET
+
+
+Analytic Concept Start with Travel Node
+
+ 
+
+ 
+
+ 
+
+ 
+
+Begin with single seed Wi-Fi IP address of intl. airport
+
+
+
+Assemble set of user IDs seen on network address
+over two weeks
+
+   
+
+TOP SECRET
+
+- 
+Profiling Travel Nodes Next Step
+
+ 
+
+ 
+
+ 
+
+ 
+
+Followle backward and forward in recent time
+
+Earlier clusters of: Later clusters of:
+- local hotels - other intl. airports
+- domestic airports - domestic airports
+- local transportation hubs - majorintl. hotels
+- local internet cafes - etc.
+
+-etc. 0\ 
+ON 
+
+
+\o
+
+   
+
+TOP SECRET
+
+
+IP Hopping Forward in Time
+
+Follow IDs forward in time to
+next note delta time
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Next sorted time
+
+by most popular: 
+
+Many clusters will resolve to other Airports!
+
+Can then take seeds from these airports and
+repeat to cover whole world
+
+ 
+
+Ditto for going backward in time, can uncover
+roaming Infrastructureoof host CIty: hotels,
+conference centers, WI-FI hotspots etc.
+
+
+
+ 
+
+ 
+
+TOP SECRET
+
+
+Data Reality
+
+ 
+
+ 
+
+ 
+
+ 
+
+The analytic produced excellent profiles, but was more
+complex than initial concept suggests
+
+Data had limited aperture Canadian Special Source
+major CDN ISPs team with US email majors, losing travel coverage
+
+Behaviour at airports
+little lingering on arrival; arrivals using phones, not WiFi
+still, some Wi-Fi use when waiting for connecting flight/baggage
+different terminals: domestic/international; also private lounges
+
+Very many airports and hotels served by large Boingo
+private network
+not seen in aperture; traffic seems to return via local Akamai node
+
+
+
+     
+
+TOP SECRET
+
+- -
+Tradecraft Development Data Set
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Have two weeks worth of ID-IP data from Canadian Special
+Source 
+
+Had program access to Quova dataset connecting into Atlas
+database
+
+Had seed knowledge of a single Canadian Airport WiFi IP
+address
+
+   
+
+TOP SECRET
+
+
+Hop Geo Profile From CDN Airport lntl. Terminal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Long Longitude scale is non-linear
+most far-flung sites are wireless gateways
+
+awith many other wireless gateways in set a
+
+
+Profiled/seed IP location: Square geographic location
+
+Hopped-to IP location: height numbers of unique hopped-to IPs at location
+
+Plot of where else IDs seen at seed have been seen in two weeks
+Plot shows most hopped to are nearby - confirming reported seed geo data
+
+
+
+ 
+
+ 
+
+TOP SECRET
+
+
+Effect of Invalid Geo Information
+
+ 
+
+ 
+
+ 
+
+ 
+
+Long Longitude scale is non-linear 
+a Geo Incongruence:
+
+
+displacem of seed location
+
+from distri ution center
+
+strongly su gests data error
+
+ 
+
+  
+
+ 
+
+Profiled/seed IP location: ISquare geographic location
+
+Hopped-to IP location: ririne height numbers of unique hopped-to IPs at location
+
+Effect of invalid seed geo informationbreadily apparent
+
+
+
+   
+
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hop-Out Destinations Seen
+
+Other domestic airports
+Other terminals, lounges, transport hubs
+Hotels in many cities
+
+Mobile gateways in many cities
+
+Etc.
+
+   
+
+TOP SECRET
+
+
+?Discovered? Other CDN Airport IP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Domestic terminal
+Closeness of majority of hopped-to IPs confirms geo data
+
+But, domestic airport can also look like a busy hotel 
+
+
+
+     
+
+TOP SECRET
+
+IDs Presence Profile at ?Discovered? Airport
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time/days 9
+
+Dominant pattern is each ID is seen briefly, just once as expected
+
+
+
+Each horizontal line shows presence pattern of one ID, sorted by order of appearance
+
+   
+
+TOP SECRET
+
+
+Profiles of Discovered Hotel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+39LMany IDs present over a few days .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+I 
+
+Timp/dayc 
+
+
+
+ 
+
+     
+
+TOP SECRET
+
+Profiles of Discovered Enterprise
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+.  122? . V?doTime/days 9
+
+Regular temporal presence (M-F) with local geographic span
+Contrasts well against travel/roaming nodes
+
+   
+
+
+
+TOP SECRET
+
+
+Discovered Coffee Shop, Library
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I.
+Coffee shop
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time/days 9
+Library
+- -
+.
+. 
+Time/days 9
+
+Similar patterns of mixed temporal local geographic presence
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

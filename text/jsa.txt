@@ -1,0 +1,159 @@
+TOP USA. F'v?E?f
+
+TEC Successfuiiy instaiis BOTANICREALTY at 
+
+In response to a request from 328. MSDC System Development and
+Signals Develo ment Lab personnel oollaborated with the TEC to deploy a solution to
+oolleot a# video network. When ?rst deteoted. the video was unenorypted. The
+video then eoame enorypted over a period of two months. The ourrent demodulation
+solution from the TEC is oalled BDTANICREALTY. Originally. was used
+to find oarrier aoduisitions and disoover signal oharaoteristios. This provided the
+freduenoy range. oarrier rates. and a rough time up and time down for ohannel aotivity.
+
+ 
+
+In mid?April. the TEC installed [formerly known as
+UNCANNY at in the hopes of looating. identifying. and oolleoting
+
+olear and enorypted video signals found on the
+
+The oolleotion of these si nals. in su ort of
+
+is important to the SE
+speoial projeots at the CIA. and in general produot reporting
+
+ 
+ 
+   
+  
+
+  
+ 
+  
+
+ 
+ 
+
+vanous
+
+Within minutes of the system ooming on line. 
+suooessfully oolleoted its ?rst signal matohing the parameters of the enorypted 
+video-signals. The hub oontrol ohannels are session enorypted while the
+outstations are bqu enorypted video. Sinoe proving the ability to automatioally prooess
+these signals of interest at over 1000 oolleots. totaling hundreds of hours
+of raw data. have been made and forwarded to oryptanalytio personnel in ICES for
+further investigation.
+
+Joint Activity Annuai Report for 2t'l 
+
+(SiiSliiREL) The Joint SIG-INT Aotivity experienoed notable suooesses in its
+mission during 200? for NSi??t and the |t'E-erman Federal Intelligenoe Servioe.
+or Bundesnaohriohtendienst However. oonourrent with the JSi-?t mission
+ohanges. manpower requirements were re?evaluated and reduotions to both oivilian and
+oontraotor manning levels were approved with implementation to be oarried out in FY08.
+
+(SiiSliiREL) The past year also saw an expansion of JSi-?t?s partnerships with 550.
+and ESDC. with plans to expand these further and inorease support on various
+operations in 2008. JSi-?t wi|| oontinue to build on its suooesses and improve its mission
+oontribution in oolleotion and SIG-INT development to both NSi-?t and END.
+
+TOP REL TO USA. NET 10
+
+TOP TO USA. F'v?E?f
+
+Highlights for 200?:
+
+JSA engineers developed various analysis tools and an automated seleotor
+sanitizing tool. The seleotor sanitization tool oan be used at other sites. inoluding those
+working speoial projeots.
+
+The expansion of site oapabilities through the installation and integration of
+US. and German systems signi?oantly improved oolleotion and development of high?
+priority targets. New or improved oapabilities inolude an automated survey system. ?v?oIP
+prooessing and metadata oolleotion oapabilities. a high speed ?ltering system. 
+metadata oolleotion oapabilities. and new data flows to NSA for DNI. ?v?oIP and GSM
+
+metadata.
+
+A oloser relationship between ESOC. JSA and BND resulted in new
+exploitation of targets in Algeria as well as other A?ioan targets. New TROPICPUMA
+
+fax prooessing oapabilities deployed in Deoember immediate be an to rovide unique
+and valuable intelligenoe to ESOC and BND on
+The eno used JSA - osrvl oolleotion to identify. traok. alert. and
+
+JSA oontinues to provide oritioal oolleotion of the?
+network. providing unique insights into 
+
+NSA personnel oontinued to improve skills through both olassroom
+and on?the?job training allowing BND personnel to take on greater roles in DNI
+
+prooessing and analysis.
+
+  
+
+Joint Activinr-Deveioped VoiPSum and Autoi'llorm Toois Used
+in Looai Anaiysis. Create Agency-wide interest
+
+JSA has developed and is now using two new number normalization tools
+a ?v?oIP Summarization [?v?oIF?Sum} tool and an Automated Normalization [AutoNorm]
+tool.
+
+?v'oioe?over?IP [?v?olP} traffio is prevalent at many oolleotion sites. inoluding
+JSA. Site engineers have developed a simple tool. oalled ?v'oIF?Sum. to extraot. parse.
+and organize ?v?oIP metadata for analysis by Intelligenoe Signals and
+developers. ?v?oIF?Sum provides the user with several outputs: a summary file of
+oitiesioountries on eaoh oase notation seen in its run. also viewable by web browser; a
+
+TOP REL TO USA. F'v?E?USA. F?v?E?f
+
+file containing URls (Uniform Resource Indicators} and their associated IP addresses; a
+file of normalized numbers and location information; and a file of normalization
+suggestions for non?normalized numbers. generated with help from AutoNorm.
+
+(SiiSliiREL) Generating normalization rules for can be very dif?cult
+without adequate knowledge of a region?s Country Code National Destination
+Code (NDC). Local Exchange Office Code (LEDC). and Subscriber Number JSA
+has found their in?house developed tool. AutoNorm. a great time saver for generating
+rules. AutoNorm works by matching substring combinations of the raw
+number against the Global Numbering Database ?at ?le. It provides several input
+options: generic. which tries to ?nd an exact match; prelist. which appends a given set
+of digits to domestic calls before attempting matches; and sort; which sorts its output
+into groups that share the same digits stripped or pre?pended.
+
+(SiiSliiREL) These two tools have been used by JSA to aid in generating
+reports and number normalizations and tatget research. Additionally. representatives
+from the NAC. lvlisawa. SSG. SEC. and SSD have expressed interest in receiving and
+using 'v'olF?Sum and AutoNorm.
+
+(SiiSliiREL) 'v'olF?Sum and AutoNorm are now available for download] For more
+information. including user manuals. output examples. and a downloadable tarball.
+please visit website. You may also contact the PDCs listed above.
+
+Joint Activity Begins New EMS and Cali Event Datafiollvs for
+NBA Anaiysts
+
+(SiiSliiREL) JSA initiated two new dataflows for NSA in April. These new
+dataflows are from and DNR collection platforms. The
+data is ?owing into DISHFIRE. and the corresponding call event data into FASCIA.
+A cursory look at dialing showed
+
+Poland and others. Preliminary data shows that JSA is sending over 
+events to DISHFIRE daily. So. let the hunt begin] One can isolate this new data by
+guerying in DISHFIRE on PDDG and collection box (RA. This 
+collection is being processed on multiple case notations from 
+(E9). and with forward and reverse gateways with
+{primarily}. However. we also have Tajikistan. Russia. lvlonaco. Lebanon
+and UAE gateways represented. As a reminder. JSA has been forwarding data
+from its JUGGERNAUT collection platform since 200?.
+
+ 
+
+Der Zeitgeist
+
+{Cl Joint Activity 
+
+ 
+
+TOP i i REL TO USA. 12
+

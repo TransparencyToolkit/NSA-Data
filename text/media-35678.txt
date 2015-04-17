@@ -1,0 +1,997 @@
+ TO USA, FVEY 
+
+  
+
+MISSION
+CAPABILITIES
+
+ 
+
+HIDDENSALAMANDER
+
+Alerting and Characterization of
+Botnet Activity in TURMOIL
+
+Briefers:
+
+
+
+
+1
+
+ 
+
+T0 USA, FVEY MISSION
+
+High Level Goals
+
+ 
+
+Detect (all!) botnet activity on our sensors
+
+- Alert only when activity is relevant and time-sensitive
+
+Involves entities/commanding of high interest
+Involves protected areas
+Could initiate defensive action
+
+- Generate metadata always
+Aids in attribution and retrospective analysis
+
+- Enrich metadata as much as possible
+Alleviate the need for in-depth knowledge of actors or malware
+
+ 
+
+T0 USA, FVEY
+
+Approach
+
+ 
+
+ 
+
+ 
+
+?Snort? Signatures
+
+ 
+
+ 
+
+Specialized Algorithms
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HIDDENS
+
+   
+
+Light
+
+(future)
+
+ 
+
+Post-
+Process
+
+IDecode,
+Detect
+
+ 
+
+ 
+
+ 
+
+    
+ 
+
+  
+ 
+      
+
+Process Payload gical I
+for ?targets?,
+Botle, channels,
+nicknames, add 
+
+
+Gather
+specialized
+knowledge
+
+ 
+
+ 
+
+ 
+
+   
+
+
+
+Apply
+
+MISSI 9N
+CAPABILIT1ES
+
+ 
+
+  
+
+Track C2 (IP and
+SID) over a
+period of activity,
+
+Summarize
+document bots
+
+Activity
+
+Repon
+Overall
+?Even?
+
+Track over
+Event's time
+
+Repon
+
+ 
+
+genenc
+Knowledge
+
+
+
+Apply 5-tuple
+metadata, SID,
+
+SIGAD, 
+
+Instance
+
+ 
+
+ 
+
+ 
+
+TO USA, FVEY MISSION
+
+Concept/Idea Behind It
+
+INTERN ET 
+
+
+Military
+Bot Arm I CLOUDSHIELD
+FIREWALL Network
+Bloc 
+
+ 
+
+ 
+
+I i
+server  Commands 
+Bot Army 
+
+0 Discovery
+
+ 
+
+T0 USA, FVEY MISSION
+
+What we offer today
+
+ 
+
+0 An extensible botnet processing service
+
+- Capabilities are added via configuration or specialized processors
+0 The ability to track events spanning across 5-tuples
+
+- Enables production of Event Summaries and Enrichment
+0 Geographical dispersion
+
+- SIGINT perspective, currently at SCS sites and MHS (prototype)
+TURMOIL augments Defensive Efforts two fold
+
+- Early warning Tips for defensive action (to NETEZZA, then
+TUTELAGE)
+
+- Metadata for characterization and to support attribution (to
+GMPLACE and RONIN, then CYBERCLOUD and MARINA).
+
+ 
+
+TO USA, FVEY MISSION
+CAPABILIT1 SS
+
+ 
+
+Progress over the last year
+
+0 Advancements
+- Zeus RC4 processing flow
+- Base64 decoding e.g. BEB v1.8 target IP extraction
+- Limited Metadata Enrichment
+
+Case Study to support QBOT activities
+- Deployment to F6 sites and a second system at MHS
+
+- Established ASDF to GMPLACE for GHOSTMACHINE analytics
+- Established flow to NETEZZA (TURQI) for validation
+
+- Defined Botnet Lifecycle Model for categorizing enrichment
+metadata
+
+ 
+
+T0 USA, FVEY MISSION
+
+Current Development Focus
+
+ 
+
+Attain analyst validation
+- Ingest into GM and creating Views
+- End-to-end dataflow validation
+0 Improve Metadata Enrichment capabilities
+- Define generic model to create metadata PCRE rules
+- Refine Enrichment Model for Malware
+Improvements to function as a framework/service
+- Greater focus on metadata enrichment
+
+0 Provide dynamic AEG tasking
+
+Re-factor Tasking and Tips to fit botnets
+- Update Tip format to closely align with extracted data
+0 Add specialized packet processors
+
+- Mariposa
+- Looking for opportunities
+
+ 
+
+TO USA, FVEY MISSION
+
+Future Work
+
+ 
+
+0 Initial development
+- Initiate promotion (to XKS) or collection flows
+- Re-factor SEG to make Metadata Enrichment more flexible
+
+- Redesign the Analytic to provide more valuable Summaries
+Possibly detect point of origin of Herder commanding
+
+0 Biggest Challenges
+
+- Currently have no means to track peer-to-peer botnet activity
+
+May look to current TURMOIL Fast Flux capabilities for ideas
+- bots defeat most attempts at tracking and reporting
+
+Possible candidate for TURMOIL Re-Injection flow
+
+ 
+
+TOP T0 USA, FVEY MISSION
+
+Current Implementation
+
+CAPABILIT1ES
+
+Attack Events:
+
+    
+  
+  
+  
+
+orter .
+
+
+Enriched
+
+BotDiscoveryAeg BotDiscoverySeg BotAnalyticSeg
+
+@G?mocst
+
+Mari osaAe
+Low Latency
+
+A:
+
+  
+ 
+
+E?i?g
+
+CIDR Block/SID
+
+
+Fllter
+I HIDDENSALAMANDER I Existing I External Systems
+Components Components
+FVEY)
+
+     
+ 
+
+
+
+ 
+
+TOP T0 USA, FVEY MISSION
+
+The Components
+
+ 
+
+BotDiscoveryAeg
+- Not A Snort based Application.
+- lngests translated Snort signatures and tasks the FSPF.
+- Emulates Snort behavior as closely as possible.
+
+0 
+
+- Highly specialized components aimed at detecting RC4 Zeus activity
+
+0 MariposaAeg (Currently in development)
+- Highly specialized detects and decodes a particular encoding.
+BotDiscoverySeg
+- De-dups on Tuple for Tipping and MARINA.
+- De-dups on SlD/lP/Port for BotAnalyticSeg.
+BotAnalyticSeg
+- Summarizes Event Metadata from BotDiscoverySeg.
+- Provides metadata to RONIN.
+CIDR Block/SID Filter
+- Filters Tip Events based on IP information OR SID.
+cbiot
+- Translates Tip messages to adhere to TRAFFICTHIEF schemas.
+
+ 
+
+T0 USA, FVEY MISSION
+
+Current Dataflow
+
+ 
+
+    
+    
+
+  
+
+r?z?
+
+  
+  
+
+
+
+
+Passive
+Collection
+
+ASDF
+.. ummarized
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GMPLACE 
+
+USA, FVEY
+
+MISSION
+SS
+
+ 
+
+Prototype View - POUNDSAND
+
+POUNDSAND Prototype Incubator
+
+ 
+
+  
+       
+     
+
+IZlueriea
+Welcome ElotNetFamily 5?
+
+3'31"? Fami'iBS ADDRESS counmtr FAMILY
+FBI-?mega LT Donbot
+Dunth - Donbot
+
+
+Time Frame
+?Lt new Dante
+Countn' Bate Targetg oeteiie oeteetien Address
+count-Fur omr FAMILY
+EIEIRUT 
+BEIRUT Donbot
+ABHCABAT Donbm
+BEIRUT Donbot
+59m" . EIEIRLJT Donbot
+Donbm
+BAGHDAD Donbm
+AMSTERDAM Donbm
+ABHCABAT Donbm
+
+ 
+
+ROLE
+Control Channel "t
+Control Channel
+Control Channel
+
+Control Channel 
+
+ROLE
+Elot 
+EIot
+Bet
+Bet
+Bet
+Bet
+Bet
+Bet
+Bet
+
+ 
+
+TOP TO USA, FVEY MISSION
+CAPABILIT1 SS
+
+HIDDENSALAMANDER Outputs
+
+
+
+jj_j Torn-about j_  51:: 
+
+- -. 
+
+Date SID Signature
+
+ 
+
+What else can we tell today?
+
+ 
+
+Who Target of this activity? (for certain botnets)
+ALTEJH . .
+Who has th I Bot Controller been commanding (over time)?
+Ht I POUNDSAND
+What botnet milies are active in this region? How active?
+
+ 
+
+What? 
+What Will we tell tomorrow?
+
+What ?Attack? commands are active that we could use to exploit?
+
+What type of botnet activity is seen in this region? For this bot family?
+- Increased ?Infections? in US, or, most BadBot activity is ?Reconnaisance?)
+
+What actual [server, filename, command, IP, url] did they send/grablconnect to?
+
+   
+
+ 
+
+TO USA, FVEY
+
+ 
+
+Optional Payload Details
+
+ 
+
+Stage Name
+
+Stage Instance
+
+Optional Attribute
+
+Optional Attribute
+
+ 
+
+Configuration
+
+Display/Adjust Bot Name
+
+ 
+
+RedirectTraffic
+
+ 
+
+Flush 
+
+ 
+
+Mode Change
+
+ 
+
+Connect to Server
+
+Server I 
+
+ 
+
+Unknown
+
+ 
+
+InfectionlExploit
+
+Update
+
+ServerlP
+
+Web Address
+
+ 
+
+Download
+
+ServerlP
+
+Web Address
+
+ 
+
+Recon naissance
+
+Host Resolve
+
+A Record (multiple)
+
+ 
+
+Display Network I nfomtation
+
+ 
+
+Display Systemlnformation
+
+ 
+
+NetworkScan Enable
+
+ 
+
+NetworkScan Disable
+
+ 
+
+Harvest
+
+ 
+
+Com unication
+
+Di sconnect
+
+ServerlP
+
+ 
+
+Connect
+
+ServerlP
+
+ 
+
+Logln
+
+ 
+
+Log Out
+
+ 
+
+Current Bot Status
+
+ 
+
+Remove Bot
+
+ 
+
+Terrni nate Bot
+
+ 
+
+Attack
+
+Execute File
+
+ 
+
+ 
+
+
+
+Type (Syn, Http.)
+
+Target IP
+
+ 
+
+Open File
+
+File Name
+
+ 
+
+Repeat Excecute Conmand
+
+Conmand
+
+ 
+
+ 
+
+Execute Command
+
+ 
+
+Conmand
+
+ 
+
+ 
+
+ 
+
+MISSION
+CAPABILIT1ES
+
+ 
+
+Current Model for Metadata Enrichment
+
+i?eed
+your
+in putt
+
+ 
+
+T0 USA, FVEY MISSION
+CAPABILIT1ES
+
+ 
+
+?Categorizing? Existing Signatures
+
+  
+ 
+
+0 Most popular bot signature analyst repositories:
+- BLUESMOKE: Snort Rules
+- XKEYSCORE: Fingerprints
+
+ 
+
+Requires author to add extra detail to the existing
+signature
+
+0 Requires front end tools to add extra fields to their
+GUls for analyst input
+
+- Suggested that the Lifecycle Stage Group and Stage
+Instance be required for submission for botnet signatures
+
+- Other attributes may be optional for submission
+
+ 
+
+TO USA, FVEY
+
+MISSION
+CAPABILIT1ES
+
+ 
+
+Bot Characterization Proposed Flow
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+
+
+
+ 
+
+ 
+
+ 
+
+Signatures Translated
+Taskwevdpy 
+
+ 
+
+ 
+
+will develop
+signatures and include
+required metadata for
+submission
+
+ 
+
+ 
+
+ 
+
+Metadata Produced
+and Consumed
+
+ 
+
+ 
+
+TURMOIL HS will
+generate bot protocol
+tasking and accept
+tasking from
+reposhones.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lie? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Result-
+
+Map-Reduced Job
+?esulBAMauabL
+
+Analyst Search
+
+Available
+
+ 
+
+CYBERCLOUD
+produces analytic
+results from all
+incoming data
+sources. RONIN
+provides immediate
+hardware
+characterization info.
+
+ 
+
+GoGadget
+displays analytic
+results from
+CYBERCLOUD
+and detailed
+metadata for the
+
+ 
+
+ 
+
+analyst
+
+ 
+
+ 
+
+MISSION
+SS
+
+ 
+
+0 
+
+ 
+
+17
+
+TOP TO USA, FVEY MISSION
+CAPABILIT1ES
+
+ 
+
+Example
+
+.0 Command Found:
+gmexkrg 2893BC90
+
+How alert describes it:
+lP 1.1.1.1 l2.2.2.2
+PORT 234/123
+
+SID: 12345
+SIGNATURE NAME: BEB:BlackEnergy_DDoS_X_of_Y
+TIME: 00:00:00
+0 How summary describes it today:
+IP SRC 1.1.1.1 PORT: 123 ROLE: 02]
+IP DEST a.a.a.a PORT: 23 
+b.b.b.b ..
+
+z.z.
+see/aa-
+
+SID: 12345
+
+  
+ 
+
+SIGNATURE NAME: BEB:BlackEnergy_DDoS_X_of_Y
+TIME: 00:00:00 00:00:10
+
+FAMILY: BEB
+Total Events: 51 -
+
+ 
+
+TOP TO USA, FVEY MISSION
+CAPABILIT1ES
+
+Example
+
+.0 Command Found:
+2893BC90
+
+How Summary describes it (tomorrow):
+IP SRC 1.1.1.1 PORT: 123 
+IP DEST a.a.a.a PORT: 234 
+b.b.b.b ..
+z.z.z.z 
+
+SID: 12345
+SIGNATURE NAME: BEB:BlackEnergy_DDoS_X_of_Y
+FAMILY: BEB
+TIME: 00:00:00 00:00:10
+Total Events: 51
+
+CONFIGU BOTID: XK3 2893BC390
+
+    
+  
+ 
+
+  
+
+     
+  
+
+ACK DDOS COMMA 
+
+2893
+
+ 
+
+A ACK TARGET:
+
+ 
+
+19
+
+TOP To USA, FVEY Missigm 
+CAPABILIT1ES
+
+ 
+
+Example #2
+
+ Command Found:
+
+JOIN 332 virus-squadlr #marCh2# 
+aFile.exe 1<crlf>
+
+ 
+
+How alert describes it:
+We don?t want alert! It?s insignificant for defensive activity!
+
+How
+
+Fingerprint-derived)
+
+ 
+
+TOP TO USAI 
+
+TOP TO USA, FVEY MISSION
+CAPABILIT1 SS
+
+ 
+
+Example
+
+0 Command Found:
+JOIN 332 virus-squadlr #marCh2# 
+aFile.exe 1<crlf>
+How Summary describes it (tomorrow):
+IP SRC 1.1.1.1 PORT: 123 
+IP DEST a.a.a.a PORT: 234 
+b.b.b.b ..
+z.z.z.z 
+
+SID: 
+SIGNATURE NAME: (XKS Fingerprint-derived)
+FAMILY: 
+TIME: 00:00:00 00:00:10
+Total Events: 3
+CONFIGURATION BOTID 
+CONNECT CHA
+CONNECT SER
+
+UPDATE I 
+
+  
+ 
+  
+
+21
+
+ 
+
+ 
+

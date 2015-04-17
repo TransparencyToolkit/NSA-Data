@@ -1,0 +1,167 @@
+       
+
+TO USA, AUS, CAN, GBRProject Overview: The mission of the AURORAGOLD (AG) project is to maintain
+data about international networks for the Wireless Portfolio Program Office
+(WPMO), the Target Technology Trends Center and their customers. Analysis of this
+data supports:
+
+a) An understanding of the current state,
+
+b) Trending, or time-series analysis, from the past through to the future, and
+
+c) Forecasting of the evolution of global networks.
+This analysis and developmental activity is currently focusing only on infrastructure,
+voice-data convergence, UMTS technology migration, and UMTS technology deployments.
+Coincident beneficiaries of this mission are, among others, other NSA SIGDEV elements, protocol
+exploitation elements, and Five-Eyes Partner SIGDEV organizations.
+
+Alignment: Supports and SlD?s imperative to ?Know the Future.?
+Sponsors: 
+
+Customers: Various S3 collections organizations;
+numerous IC organizations
+
+Architecture and Infrastructure: Custom-built application based on OZONE
+framework, using GOLDENCARRIAGE corporate servers for all application and data
+
+ 
+
+TO USA, AUS, CAN, GBR, NZL
+
+       
+
+TO USA, AUS, CAN, GBRCorpus:
+
+Will contain:
+
+- Unclassified: Complete replica of Informa Telecoms and Media?s World Cellular Information Service
+(WCIS) queryable database to eventually compare data against that collected from SIGINT
+
+- Classified: SIGINT-collected (International Roaming agreements) documents from around the
+world, parsed of their information, analyzed, and giving users the ability to trend this information
+over time (time-series analysis). In addition, e-mail selectors from within |R.21s and from SIGINT
+metadata captured, analyzed and managed back into the SIGINT system for enhanced collection
+
+Content:
+
+- Portion of the WCIS data available via remainder to be completed within 2-3 months
+- Currently, Phase 1 contains a small database of worldwide wireless networks being compared
+against |R.21s from SIGINT to establish our ?baseline?
+
+Capabilities:
+- Soon, complete WCIS repository to be copied to for querying by all NSA and 2P
+Partners
+- Later, agile querying through entire and WCIS databases, with capability to perform time-
+series analysis via visualization application
+
+ 
+
+TO USA, AUS, CAN, GBR, NZL
+
+TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+Aurora Windmills Internet 
+
+ 
+
+ 
+
+ 
+
+3 
+IEI- 1i-l- l'?'mrhec [mk th
+|Lnk: gamma Elli) gauge Emil. gums 11:32.3: gala-l5 gala-adv as: is?; I: mob: guru?s-om: Llama gel-s: tumbled: garment ?rl:nlr:dn: 
+FIM-MEUJ I
+
+ 
+
+I - I: - Earle - TQZIS a
+:l
+TDF TD USA, 
+
+ll I Tl'l's. may rnrm'l malaria; alfn'l red use is far nalinnal smirin pmnses. 
+I I I  USE I5 BUBIBBI TO THE NSA usage and ?10 OH 
+
+(SHRFI The miminn nftl'ie (AH) pmjed is to. maintain chta ml?! intem?inn? UNITS nelwaries far Ihe Wirejrss f?l'rgram Ullirr. (MIND), the Target Ted-mm Gents" (Tim), arltl their uismmers.
+Analysis :11" Illiti dda smpullsz
+
+a} An understanding of the current slate,
+
+b} Trending. or time series analysis, and
+
+Forecasling ofthe evolulion of global UNITS?based networks.
+
+This analysis and develnpmenta? activity wit! foals nn infrastnidlre, micedata mmergenr?, IIMTS nigratinn, and IIMTS Ierhnningy Gninrjriml hene?m?aries n?flhis mission are, among others, nther
+NSA SIGDEV elements. pmme asphilaliml Eild Five?Eyes Pallm?u SIGDEV mwlligaliuns.
+
+ 
+
+Networks 31 BUDDIES Handsets S. DEVICES NEIWDFK Features ?2011 1.13011 LICENSEE 1."..3011 Licensed Spectrum H2011
+
+TOACRE TU LISA.
+
+ 
+
+ 
+
+ 
+
+I Network Features I I License Spectrum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Handsets Devices I License
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Networks Suppliers I I Network Coverage I
+
+ 
+
+none I 91mm 
+
+StartI . him-Manson Outlook  USA, AUS, CAN, GBR, NZL
+
+  
+
+TO USA, AUS, CAN, GBRDemonstration Script
+
+- (Only capability currently available is basic querying against small portion of WCIS database)
+- Go to
+
+Click on any of the brown boxes
+
+Select your search criteria
+
+Select your query result criteria
+
+Click ?Submit?
+
+View the results
+
+TO USA, AUS, CAN, GBR, NZL
+

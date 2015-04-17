@@ -1,0 +1,29 @@
+[edit] Presentation Abstracts
+
+[edit] (U) Times
+
+Each day will run from 9am to 5pm. In order to facilitate planning. the topics presented on each day
+are highlighted below. The abstracts for each topic are on the following pages.
+
+[edit] Tuesday; 16 March
+
+[edit] TPM 1ti?ulnerabiliijes to Power Analysis and an Exposed Exploit to
+Eitlocker
+
+Presenter: 
+
+Power analysis. a side channel attack. can be used against secure devices to non?inyasiyely
+extract protected information such as implementation details or secret keys. We have
+employed a number of publically known attacks against the ELSA found in TPMs from ?ve
+different manufacturers. We will discuss the details of these attacks and provide insight into how priyate
+TPM key information can be obtained with power analysis. In addition to conventional wired power
+analysis. we will present results for extracting the key by measuring electromagnetic signals emanating
+from the TPM while it remains on the motherboard. We will also describe and present results for an
+entirely new unpublished attack against a Chinese Remainder Theorem implementation of ELSA that
+will yield private key information in a single trace.
+
+The ability to obtain a private TPM key not only provides access to data.
+but also enables us to circumvent the root?of?trust system by modifying expected digest values in sealed
+data. We will describe a case study in which modi?cations to Microsoft's Eitlocker metadata
+preyents software?level detection of changes to the BIDS.
+

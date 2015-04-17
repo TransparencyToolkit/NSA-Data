@@ -1,0 +1,91 @@
+[edit] News
+
+BREAKING NEWS {May 2012]- The second tranche of 'deep dive' processing capabilitj,r at
+RFC has gone live- In addition 2 extra lUE's are being processed at UPC- This brings the current
+'deep dive' capabilitjq.r to:
+
+- CPC with IE 1: lUg.
+I UPC with lUg
+I with 23 lUg-
+
+This gives over 300 SCI-1Q and ~25i] NBA access to huge amounts of data to support the
+target discover}r mission-
+
+The MTI programme would like to saj,r a big thanks to everyone who has made this possible
+{Which includes TEA. TEA. SSME. BEDS. GTE. ACD. OPP-LEE. IT Services. R1 at
+
+I.
+
+ 
+
+NBA. AHS and a true collaborative effort!
+TEMPDRA was delivered bv the leTI Enhanced Discoverv swimlaneApps theme led by and I:
+
+[edit] TEMPORA
+
+TEMPDRA is an Internet Buffer capabilitjq.r being delivered by MTI. IPP and GTE forjoint mission
+bene?t. It builds upon the kev success of the TINT experiment and will provide a vital unigue
+
+lof'j
+
+capability to MISDIMCE communities-
+
+I TEMFCRA is the codeword for internet buffer business capability as a whole which
+is the ability to loosely promote a We oftraffic across SSE access into a repository
+which will keep the content (and its associated metadata} for periods oftime (approximately
+3 days for content and up to 30 days for metadata} to allow retrospective analysis and
+forwarding to follow on systems-
+
+. TEMFCRA as a capability is agnostic of the technologies used to promote that traffic and to
+store that traffic and so should not be used as a codeword for the individual components (e-g
+KKS- MVR etc}-
+
+I At the moment the components include. amongst others. CCI-ICI SSE Access. FCKERFACE
+sanitisation- RES (in various con?gurations} and it will include MEIR in the very near future-
+
+I TEMFCRA also covers the management ofthe rules used to promote traffic into the internet
+buffer capability-
+
+I TEMFCRA is not processing centre speci?c- At the moment there are instances of
+TEMFCRA at all (Namely CFC. CIFC and These should be referred to. when
+required. as TEMFCRA
+
+[edit] A bit more detail
+
+TEMPDRA are large?scale. Deep Dive deployments on Special Source access 
+Deep Dive KKeyscores work by promoting loose categories oftraffic all web. email. social-
+chat. EA. from the bearers feeding the system and block all the high?volume. lov.r
+value traffic FEF downloads}. This usually equates to ~3 of the traffic on the bearer. We
+keep the full sessions for 3 working days and the metadata for 30 days for you to query. using all
+the functionality that Keyscore offers to slice and dice the data. The aim is to put the best 15% of
+our access into comprising a mix of Deep Dive Keyscores and promotion of data
+based on IF subnet or technology type from across the entire MEIR- At the moment. users are
+able to access d?xl?Cs of data via existing Internet Buffers- This is a lot of data! Not only that.
+but the long?running TINT program and our initial 3?month operational trial ofthe CFC Internet
+Buffer (the ?rst operational Internet Buffer to be deployed} showthat every area of ops can get
+real bene?t ?"om this capability. especially for target discovery and target development- Internet
+Buffers are different ?"om TINT in that the latter is purely an experimental. research environment
+whereas Internet Buffers can be used operationally for EFF. Effects. enabling etc-
+
+ 
+
+For a more detailed depiction of how TEMFCRA and TINT differs please see here-
+
+[edit] Contacts
+
+Role
+
+Name
+
+CTE EELS Senior User
+
+MTI SICINT apps theme lead
+Enhanced Discovery Froject Manager
+Enhanced Discovery EELS SME
+
+ 
+
+Eof'j
+
+SofS
+

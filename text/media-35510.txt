@@ -1,0 +1,745 @@
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TLS Trends:
+A roundtable discussion on current
+usage and future directions
+
+ 
+
+Communications Security Establishment Canada (CSEC)
+
+Safeguarding Canada?s security through information superiority dl??
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+
+ 
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This presentation is up to
+
+TOP 
+TO
+CAN, AUS, GBR, NZL, USA
+
+Safeguarding Canada ?5 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+
+TOP SECRETNSINREL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Outline
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Background
+
+- Implementation
+
+- Trend Report
+
+- Success Stories
+
+- Future Development
+Questions
+
+Safeguarding Canada?s security through information superiority dl??
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+TOP SECRETHSIHREL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Background
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objectives:
+
+Identify capabilities in existing warranted traffic
+Generate regular trend reports and analysis
+
+Identify abnormalities and technology changes
+
+Be proactive!
+
+Safeguarding Canada '3 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de l'information  a
+
+TOP SECRETHSIHREL TO CAN, AUS, GBR, NZL, USA
+
+Communications Security Centre de la s?curit?
+Establishment Canada
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+des telecommunications Canada
+
+ 
+
+  
+
+Implementation Warranted Collection
+
+ 
+
+ 
+
+sort parse traffic
+
+ 
+
+SD
+
+ 
+
+ 
+
+ 
+
+ 
+
+push traffic
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dir
+
+ 
+
+ 
+
+- Parsed 1
+- Parsed 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+
+metadata
+
+ 
+
+ 
+
+Find
+
+ 
+
+ 
+
+etezza
+
+   
+
+DFM
+
+ 
+
+ 
+
+     
+ 
+
+generate
+
+  
+
+ 
+
+ 
+
+ 
+
+DB
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Query
+
+ 
+
+ 
+
+Request
+
+
+
+ 
+
+NC
+
+ 
+
+ 
+
+AL
+
+ 
+
+SD
+
+ 
+
+Safeguarding Canada '3 security through information superiority
+Pr?server la s?curit? du Canada par la sup?riorit? de l'information
+
+tify!
+
+Analyze
+
+
+
+Canada
+
+ 
+
+TOP SECRETHSIHREL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Implementation Special Source
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OLYMPIA pushtramc DFM
+
+ 
+
+ 
+
+Identify TLS
+
+ 
+
+      
+   
+
+ 
+
+ 
+
+metadata generate
+
+etezza
+
+  
+
+ 
+
+Parse traffic and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prepare for insertion 
+f?
+
+Query Analyze
+Request SD Notify!
+Safeguarding Canada '3 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de l'information  a
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Trend Report Warranted Collection
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Inspired by GCHQ weekly TLS Trend Reports
+
+What we?re tracking:
+Amount of traffic seen
+Cipher Suite Breakdown (RSA vs EC vs DH)
+Version Breakdown
+Top Certificates seen by Common Name
+Top RSA Certificate Moduli seen
+Top DH Moduli seen
+Percentage of Resumed Session
+Session Ticket Usage, Elliptic Curve Usage
+RSA DH Modulus Size Breakdown
+New DH moduli
+Top new RSA moduli
+
+Safeguarding Canada ?3 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+RSA Key Size Trends
+(warranted only)
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70%
+60%
+
+50% 
+40% -
+30%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1024-bit
++2048?bit
+20% +4096-bit
+
+ 
+
+ 
+
+10%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+TOP SECRETNSINREL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+DH Modulus Trends
+(warranted only)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+80 
+70% 
+
+60% 
+500/0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40 +Apache - current
+30 
+wit-Apache - older
+0. a
+20 /o AVA verSIons
+1 0 0/0   
+half-LEA 
+0W0 Safeguarding Canada '3 security through information superiority 
+Pr?server la s?curit? du Canada par la sup?riorit? de i'information 
+
+ 
+
+TOP SECRETIISINREL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Public Key Exchange Methods
+(warranted only)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100%
+90%
+80% 
+70%
+60%
+50%: RSA
+40% -I-DH
+
+30% . qucc
+2005Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+
+TOP SECRETHSIHREL TO CAN, AUS, GBR, NZL, USA
+
+ 
+
+ 
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Target Specific reporting
+(warranted only)
+
+- Intended to engage in identifying traffic of
+interest
+Show the known services their target is using
+Ask them to help identify unknown services
+Identify changes in their target?s use of TLS
+
+Safeguarding Canada '3 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i'information  a
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+
+Sample Report
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trends Report for Canuckistan in the month of April
+
+Table 1. Types of TLS traffic in working hours (7am to 6pm) and out of hours
+
+WHO TOTAL
+
+Google 1479 2782 4261
+Hotmail/Live 455 934 1389
+Advertising 401 139 540
+Foreign government sites 338 97 435
+Canuckistan Social Media 59 90 149
+Facebook 38 82 120
+Apple 12 2 14
+Banking 5 4 9
+Transportation sites 3 0 3
+Microsoft 1 0 1
+$11222 95:53: $31,325.92.? Canada
+
+TOP SECRETIISINREL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+
+Sample Report (cont?d)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 2. Sites visited from the Canuckistan Social Media group
+
+WHO SITES TOTAL
+
+hockeytalk login.hockeytalk.com 3 10 13
+hockeytalk chat.hockeytalk.com 31 44 75
+hockeytalk mail.hockeytalk.com 25 36 61
+
+Comments:
+
+We have noticed a large increase in chat activity on the hockeytalk sites. This is
+likely due to the beginning of playoff season.
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+Success Stories
+
+- Easily identified current capabilities in warranted traffic
+
+Verified certificate being phased out and identified
+possible replacements
+
+Corroborated with GCHQ on discovering frequent
+Google moduli changes
+
+Currently pushing new moduli for testing against
+publicly known weaknesses (PHOENIX)
+
+- Identified use of Elliptic Curve Certificates
+
+Safeguarding Canada?s security through information superiority dl?fl
+Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
+
+TOP SECRETIISIHREL TO CAN, AUS, GBR, NZL, USA 14
+
+TOP TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Future Development
+
+ 
+
+ 
+
+ 
+
+- Trends reports on Special Source collection
+- New types of metadata added to database
+
+Collaboration with Data Mining team
+- Improve efficiency, stability of solutions
+
+Safeguarding Canada ?3 security through information superiority dl??
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+

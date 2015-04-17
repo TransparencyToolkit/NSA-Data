@@ -1,0 +1,292 @@
+ TO USA, FVEY
+
+TRANSGRESSION Charter
+
+   
+
+Original:
+Discover, understand, evaluate, and exploit foreign
+
+exploits, implants, command control
+and eXfiltration.
+
+Moving Forward:
+
+Provide exploitation support for
+Network Defense (NTOC and 4th Party
+(82, NTOC and TAO), and Cyber (TAO,
+RA TWHARF) missions.
+
+TO USA, FVEY
+
+ 
+
+l?l?l?l?I
+
+ 531177
+
+TRANSGRESS ICIN
+
+ 
+
+TO USA, FVEY
+
+ 
+
+Personnel
+
+   
+
+Branch Chief
+Team Lead/TD
+OTP CNE Co-Lead
+MAKERSMARK Lead
+BYZANTINE HADES Lead
+Lead
+Malware Lead
+Emerging Threats Lead
+MAKERSMARK, RDP Lead
+1 CADP, 2 CMP (including DSD Integree), 1 RSE, 2 NIE, 2 STDP
+
+TO USA, FVEY
+
+ 
+
+TO USA, FVEY
+
+Major Intrusion Set Efforts
+
+ 
+
+MAKERSMARK
+
+Enable 
+exploitation/improve collection
+
+CROWNROYAL, CROWNPRINCE,
+SHEPHERD, Zebedee
+
+BYZANTINE HADES
+
+NetDef RDP exploitation
+
+Trojan/beacon deobfuscation
+
+MAVERICK CHURCH PPTP, POPROCKS
+VOYEUR (GHOSTRECON
+
+Victim Exfil
+
+SSL Collection
+
+
+and processing of TAO exfil
+and passive collect
+
+SRE of malware
+SHADOWDRAGON
+
+RDP and password recovery
+
+FAA password recovery
+TO USA, FVEY
+
+ 
+
+RECORDER
+
+Processing and of passive
+collect
+
+
+Deobfuscation of passive collect
+TWEEZERS
+
+Processing and of passive
+collect
+
+SNOWGLOBE
+
+Processing and of passive
+collect
+
+
+Future processing and 
+Numerous other watchlist intrusion sets
+
+Many one off customer requests cyber
+support
+
+ 
+
+it}, -
+I 7' 
+ r? 
+I Target
+
+
+  A Critical TRA NS ES ON Tool  
+
+    
+
+Over 50 daily workflows
+SIGINT and POLARSTARKEY (NetDef)
+
+Fingerprints and Microplugins
+
+GUI Workflows and Webservice
+
+TO USA, FVEY
+
+ 
+
+ 
+
+XKS Webservice
+
+and xkproc
+
+and tfproc
+
+TO USA, FVEY
+
+ 
+
+ 
+
+Victim 
+
+LP 
+
+TAO Op 
+TUNINGFORK 
+TRANSGRESSION 
+SCISSORS 
+PINWALE and Cloud
+
+TO USA, FVEY
+
+ 
+
+Where does our data  
+come from? 
+
+   
+
+XKEYSCORE
+TUNINGFORK
+TAO Direct
+NTOC Internal
+
+NTOC External
+
+
+FBI
+Cyber Command
+
+TO USA, FVEY
+
+ 
+
+What Kinds of Data? 
+(What is the plaintext)   
+
+Command Control
+RDP, RAdmin (heavyweight)
+many home-grown (lightweight)
+File Transfer
+Actor Victim (malware)
+Victim Actor (exfil)
+
+Email
+Credentials
+
+   
+
+TO USA, FVEY
+
+ 
+
+ ?Commercial?  
+
+
+
+
+e. 
+
+PPTP
+
+
+   
+
+TO USA, FVEY
+
+ 
+
+ Other 
+Block Ciphers (DES, 3DES)
+
+Stream Ciphers (RC4)
+
+Masking
+short or long, fixed or variable
+
+Layered 
+
+   
+
+TO USA, FVEY
+
+ 
+
+Exam ples: 
+L613/ered  
+
+BYZANTINE FOOTHOLD
+SSH
+Mod DES
+WIDOWKEY
+
+Fixed Key mask
+3DES
+
+   
+
+TO USA, FVEY
+
+ 
+
+Examples: 
+Setting Key  
+
+Fixed (ADJUTANT VENTURE)
+
+   
+
+From Message Header (RAPTOR ROLEX)
+
+From Packet Headers (RAPTOR 
+
+TO USA, FVEY
+
+ 
+
+   
+
+ 
+
+Encodings
+
+   
+
+None (raw binary)
+base64
+Modified base64 (BYZANTINE RAPTOR)
+A permutation of the 64 base64 characters
+HTML Character encoding (ADJUTANT VENTURE)
+0x1278cd 
+
+TO USA, FVEY
+
+ 
+

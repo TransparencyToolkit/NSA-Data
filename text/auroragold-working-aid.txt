@@ -1,0 +1,231 @@
+ 
+
+TO FVEY
+
+   
+
+  (UPDATED 17 MAY
+
+2012)
+
+AURORAGOLD is a team of 5564 developers and wireless SMEs
+working on:
+
+Database of Mobile Network Operators (MNOs), networks, and
+PWIDs collected from roaming documents (IR.215),
+
+Target development effort against MNOs, roaming hubs, and GSM
+Association (GSMA) working groups, and
+
+(U) Fusion of open source, licensed, commercial data with SIGINT to answer
+wireless needs.
+
+Sample SIGINT (IR.21) Queries
+
+What |R.21s have we seen for networks within a country or set of
+countries?
+
+What have we seen for networks managed by a mobile
+network operator?
+
+What |R.21s have we seen for a particular network or set of
+networks?
+
+(U) Sample Open Source (Licensed Commercial Data)
+Queries
+
+What are all of the cellular network operators within a country
+currently in service?
+
+What suppliers have sold equipment to which operators within a
+country?
+
+What networks are currently in service/planned within a country
+for each operator?
+
+Which network technology equipment exists within a country for
+each operator?
+
+TO FVEY
+
+TO FVEY
+
+What is the network name for each network within a country for
+each operator?
+
+When was each network placed into service for each operator
+within a country?
+
+What cellular network technology GSM, W-CDMA, HSPA,
+etc.,) is in service for each operator in a country?
+
+Which frequency spectrum bands are being used by which
+operators in a country?
+
+What networks are currently in service/planned for each
+operator within a country?
+
+What CDMA or CDMA Wireless Local Loop networks are currently
+
+ 
+
+in service/planned for each operator within a countm?
+Derived From:
+
+What network license auctions are 1-52
+planned within a country? Dated: 20070108
+
+ 
+
+ 
+
+ 
+
+TO FVEY
+
+TO FVEY
+
+Some IR.21 Fields Useful to SIGINT
+
+ 
+
+(U) IR.21 Field
+
+Mobile Country
+Code 
+Mobile Network
+
+(U) What is it?
+
+(U) A decimal digit code which uniquely identifies a
+mobile network. The MCC which identifies the
+country is used as the first three digits of any user's
+
+(U) How is it used?
+
+(U) Provide unique identification of networks to
+identify network boundaries, interfaces, protocols,
+software, hardware, etc.
+
+ 
+
+Code (MNC) IMSI, followed by the two digit MNC which identifies
+the network within that country.
+Mobile (U) A number uniquely identifying a subscription in a (U) Allow identification of real phone number dialed
+Subscriber GSM or a UMTS mobile network (the telephone
+Integrated number to the SIM card in a mobile/cellular phone).
+
+Services Digital
+Network Number
+
+ 
+
+ 
+
+(MSISDN)
+
+TADIG codes (U) A number allocated by the GSMA for use as (U) Identify the network for billing purposes and
+primary identifiers, both within file contents and file help identify targets
+names. Also used as a more generic entity identifier
+in the mobile industry
+
+Signaling (U) A network layer protocol that provides extended (U) Provides routing information within the Public
+
+Connection
+Control Part
+(SCCP)
+
+routing, flow control, segmentation, connection-
+orientation, and error correction facilities in
+Signaling System 7 telecommunications networks
+
+Land Mobile Network and provides access to
+applications such as 800-call processing and
+calling card processing to identify targets and
+other information
+
+ 
+
+Subscriber
+Identity
+Authentication
+
+(U) This field indicates whether or not authentication
+is performed for roaming subscribers at the start of
+GSM service and the type of A5 cipher algorithm
+version in use.
+
+It would also show the emergence of
+new cipher algorithms and support target analysis,
+trending and the development of exploits.
+
+ 
+
+Mobile
+Application Part
+(MAP)
+
+(U) A SS7 protocol which provides an application
+layer for the various nodes in GSM and UMTS mobile
+core networks and GPRS core networks to
+communicate with each other in order to provide
+services to mobile phone users. The Mobile
+Application Part is the application-layer protocol
+used to access the Home Location Register, Visitor
+Location Register, Mobile Switching Center,
+Equipment Identity Register, Authentication Centre,
+Short message service center and Serving GPRS
+Support Node (SGSN).
+
+Provides a clearer understanding of
+network features when roaming agreement
+information is published. Current information about
+subscribers, mobility management and
+applications can be used for targeting and target
+development.
+
+ 
+
+ 
+
+Network
+Element
+
+(U) Specific network components, their
+manufacturer, software hardware versions, etc.
+
+This specific information is necessary
+for targeting and exploitation. Includes core and
+
+ 
+
+TO FVEY
+
+ 
+
+TO FVEY
+
+ 
+
+ 
+
+ 
+
+Information radio interface information.
+
+Packet Data (U) Packet Data Services identifies the affected GPRS This data element also provides
+
+Services networks. An Access Point Name is also included in information on the WAP gateway being access and
+
+Information this information. APNs can identify the type of multimedia messaging services gateway lP
+service provided by GPRS networks provided to addresses which is useful for target development.
+mobile users. APNs also help identify the network Insight into the GPRS Tunneling Protocol versions
+and operator's packet network involved in the IR.21 being used within the networks is provided as well.
+and could be used for targeting. GPRS, EDGE and HSPA technologies are covered.
+
+ 
+
+TO FVEY
+
+ 
+

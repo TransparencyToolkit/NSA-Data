@@ -1,0 +1,48 @@
+ 
+
+Page 132
+
+ 
+
+
+
+
+
+Comm ue?i?ea?tia re" M'?t?d?ta" Fields in"   
+ICREACH 
+
+(SHN F) NSA populates these ?elds in PROTON:
+- Called 8r calling numbersI date, time duration of call
+
+   
+
+ICREACH users will see telephony metadata* in the following ?elds:
+
+DATE 8: TIME IMEI International Mobile Equipment
+
+DURATION Length of Call Identi?er
+
+CALLED NUMBER MSISDN Mobile Subscriber Integrated
+
+CALLING NUMBER Services Digital Network
+
+CALLED FAX (CSI) Called Subscriber MDN Mobile Dialed Number
+ID CLI Call Line Identifier (Caller ID)
+
+FAX DSME Destination Short Message
+Transmitting Subscriber ID Entity
+
+IMSI International Mobile Subscriber DSME originating Short Message
+Identi?er Entity
+
+TMSI Temporary Mobile Subscriber VLR Visitor Location Register
+Iden??er
+
+
+
+ 
+
+ 
+
+ 
+

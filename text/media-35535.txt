@@ -1,0 +1,805 @@
+
+SIGDEV Conference 2012
+
+(U) Making Things Measureable:
+
+Technology Trending Challenges and
+Approaches
+
+2 1 2 Derived from  
+
+Dated Declassify On: 2037050  
+
+ 
+
+TOP 
+
+ 
+
+Overview (U)
+
+. (U) Setting the Stage
+
+Strategic Surprise, Priority Needs, Definitions
+
+. (U) Making Things Measurable
+Emerging Technology Discovery
+Technology Use Discovery
+
+. (U) Challenges
+Complexity
+Getting data is only step 1
+Visualization
+
+Building outreach and engagement
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+CT Trends Focus Questions (U)
+
+(U) Does NSA CT know what technologies,
+communications products and applications, and
+modus operandi are being used by terrorists,
+terrorist groups, or in locations of interest?
+
+ 
+
+(U) Does NSA CT know what emerging
+technologies, communications products and
+applications, and modus operandi are likely to be
+used by terrorists, terrorist groups, or in locations
+
+
+Prevent Strategic
+Surprise
+
+ 
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+CT Trends Focus Questions (U)
+
+(U) Does NSA CT know what technologies,
+communications products and applications, and
+modus operandi are being used by terrorists,
+terrorist groups, or in locations of interest?
+
+ 
+
+(U) Does NSA CT know what emerging
+technologies, communications products and
+applications, and modus operandi are likely to be
+used by terrorists, terrorist groups, or in locations
+
+My asking 
+
+ 
+
+ 
+
+Can we tell which ones are likely to become
+
+Weed?
+
+ 
+
+ 
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+Risk Management for SIGINT
+Threats (U)
+
+Threat to SIGINT Capability
+
+A behavior or technology that has the potential to have a negative
+impact on capability to provide SIGINT on a Terrorism Target
+
+(U) Use Risk
+The possibility that a particular threat will be adopted by Terrorist targets
+Indications and Warning
+
+Early warning of high impact threats to prevent surprise to key
+stakeholders and reduce risk from Terrorist adoption of technology that
+would adversely affect SIGINT production
+
+- VA 
+is directly proportional to our ability
+
+-  - f? - :3 
+I 4x 
+. DENY
+In; i
+
+
+
+ 
+
+ 
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+The data-driven approach
+(U)
+
+"Count what is countable, measure what is measurable, and make measurable that
+which cannot be measured?
+
+Galileo (1 7th century astronomer)
+
+"When you can measure what you are speaking about, and express it in numbers,
+you know something about it; but when you cannot measure it, when you cannot
+express it in numbers, your knowledge is of a meagre and unsatisfactory kind"
+
+Lord Kelvin (discovered absolute zero)
+
+cannot manage what you cannot measure?
+Bill Hewlett (co-founder of Hewlett-Packard)
+
+"Not everything that counts can be counted, and not everything that can be counted
+counts"
+
+- Albert Einstein
+
+ 
+
+TOP 
+
+TOP 
+
+ 
+
+what i_s a (CT) trend?
+(U)
+
+A trend is a measurement of occurrence
+
+Comparing the behavior of a single 
+Pattern-of-life
+Modus Operandi
+Technology Usage
+
+the behaviors seen within the target space
+Multiple targets, within and across the entire CT enterprise
+
+Over a period of time
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+Prediction and Identification of
+Priority Needs Prevents Strategic
+Surprise (U)
+
+ 
+
+Identify issues that are
+emerging into and
+rising within the target
+
+space
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP 
+
+ 
+
+Making Things Measurable
+(U)
+
+ 
+
+Emerging fe?ehrii?al foehnalagie
+ages; fhoughtteadergx .83 If) the
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+Innovation Phases (U)
+
+ 
+
+Adoonn
+
+ 
+
+Experimentation
+
+ 
+
+Interest
+
+ 
+
+TOP 
+
+TOP 
+
+Technology Adoption Factors
+
+4U)
+
+ 
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+Optics (U)
+
+Optic Emerging Technology Discovery
+
+Focused primarily on interest and experimentation phases of innovation
+Watching the Watchers
+
+Weakerindicators
+
+New technologies
+
+Optic Technology Use Discovery
+
+Focused primarily on adoption phase of innovation
+
+Owning the Known
+
+Stronger indicators
+
+New targets
+
+ 
+
+TOP 
+
+TOP 
+
+   
+
+ 
+
+Analytics and Processes (U)
+
+Producti
+_o.n 1 
+
+Technical Thought Technical Thought
+Production Element
+
+Production Element Production Element
+
+- - - Scanan Mote Ecniact
+FORTREND - Extremist FORTREND - Extremist FORTREND - Extremist
+
+Administrative Response
+
+ 
+
+   
+ 
+ 
+
+  
+  
+    
+
+ 
+
+Seized Media
+
+Seized Media
+CNE Trend Tracking
+
+CNE Trend Tracking
+
+TOP 
+
+TOP 
+
+ 
+
+Optic Emerging Technology
+Discovery (U)
+
+Emerging Technology Behavior Discovery
+
+Detection of interest, experimentation, knowledge transfer or direction using
+content, metrics approaches
+
+Currently using deskside virtual engagement to leverage TOPI analyst
+initiative to discover, prioritize, and work against "strongest" indicators
+
+Leverages inherent TOPI expertise and functions of traffic processing/translation/tasking
+etc..
+
+Embedded virtual relationships: production ?customers?
+Currently identifying, tracking ?technical? thought leaders
+Technical sub-forums, scanning notes measurements
+
+Administrative emails (No-Reply etc..)
+
+Forum links, uploaded/downloaded files
+
+Goal: Generate Prioritized Input (techs/behaviors) for Research
+
+ 
+
+TOP 
+
+TOP 
+
+ 
+
+Optic Technology Use
+Discovery (U)
+
+Technology Use and Behavior Discovery
+
+?Stratactical? data sets
+Includes target-specific data point for each item selector)
+
+Discovery of target behavior by identifying technology use patterns, trends, and/or
+anomalies in:
+
+User-agents (browsers, OS, devices)
+
+Tasking (new tasking, total tasking)
+
+Network, Protocol usage (Active User metrics)
+
+Visited URLs, web searches
+
+Process lists, pre-fetch logs, registry entries, software logs
+
+Hardware usage (smartphones, tablets, SD cards)
+
+Currently using various tools (XKEYSCORE, SEEKER, BIONICTURTLE, JEMA, JOLLYROGER,
+MARINA, TUNINGFORK, QFDs, and approaches with multiple cloud analytics in
+varying stages of development and/or planning
+
+Goal: Generate Prioritized Input (techs/behaviors) for Research
+
+15 ?if?
+
+ 
+
+TOP 
+
+ 
+
+TOP 
+
+Measurement Drives Research (U)
+
+Triage begins with target indicators of a new technology
+
+Derived from either optic: Emerging or Use Discovery
+
+Interest, Experimentation, Use, Knowledge Transfer, Metric, 
+
+Target ,2 Technology ,2 Do other targets use this technology?
+
+This is the central defining question for Trends Analysis:
+
+Do other CT targets use this technology?
+
+ 
+
+TOP 
+
+ 
+
+Weak vs. Strong Indicators: Brutal
+Tria 
+
+ 
+
+Received a Received a Received a
+
+Previous/ Low
+Installed, no
+
+Previous/ Low
+Installed, no
+
+Previous/ Low
+Installed, no
+
+it):
+ill I:
+
+ 
+
+     
+
+Lo fi|es? traffic Lo files, traffic L0 files: traf?c
+
+ 
+
+
+The Wicked Problem Aspect (U)
+
+Defining the problem is the first (wicked)
+problem
+Triage Stage 1
+Initial priority: (single) target initial understanding of technology
+
+Implications Research
+
+- What does the product/service do?
+
+Current NSA capabilities to detect, collect, exploit, analyze?
+Do any other CT targets use it?
+
+Triage Stage 2
+Updated priority: target(s) updated understanding of 
+Validated Next Steps
+
+As needed: capabilities/access development requirements
+
+Reporting: internal, CIR, e-gram; Gaps report; prioritization w/in tech category
+
+ 
+
+
+Goal: Periodic Reporting
+
+Vehicle (U)
+
+. Move beyond ad hoc task responses to routine deliverables
+
+. Overcoming volume challenge
+Huge variety of inputs, massive numbers in each
+Prioritization
+
+Visualization
+
+. Moving threats to a simple Risk Assessment model
+
+Borrows methodology from models used for executive purposes elsewhere in agency
+(FAMT, Geopolitical Technology Trends Matrix, 
+Opportunities, threats handled separately
+
+ 
+
+ 
+
+Capability Development
+ChaHenges(U)
+
+With rare exceptions,
+application-specific solutions are only
+built based on these two 
+
+. In resource-restrained environment, development of capabilities against likely-
+to-increase in priority applications is trumped by standing requirements
+driven by known priority applications
+
+. Capabilities development response to current/priority technology threats occurs
+normally w/in existing resources but response does not scale, either to the
+industry or to multiple crises
+
+ 
+
+
+Goal: Emerging Technology
+
+Snapshot(U)
+
+- (U) Executive version snapshot of top items only
+
+- Overcoming the challenges of prioritization and volume
+is still only 50% of the problem
+
+- Stated Preference:
+Breakdowns by target/target set
+Preserve opportunity vs. threat
+
+Identify HUMINT sources for collaboration
+
+ 
+
+
+Emerging Technology
+
+Snaoshot 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Target/Org Tech Quadrant
+AQSL TAILS
+courier
+GIMF TAILS
+AQ media 
+S2I42 Join.Me
+LT, S2I42 TeamViewer
+LT Laplink
+Extremist version
+of Tor
+AQ media Webmail
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Emerging Technology
+
+Snapshot (U)
+
+- Emerging Technology Snapshot
+
+1-3 page Snapshot (6 page max if previous month data
+included) to CT leadership
+
+Snapshot supporting full data to MICROEXPANSE
+
+Underlying processes in alpha stage
+
+Stopgap until maturation of multiple efforts
+
+Data Explorer, ECHOBASE
+Inclusion of in GM-Halo
+
+ 
+
+
+End Results Tactical 
+
+Strategic (U)
+. Tactical Outcomes
+Lead Generation
+
+Target Development
+Target Discovery
+
+Behavior Detection
+Access Prioritization
+
+. Strategic Outcomes
+
+Prioritization for Capabilities Development
+
+Driven by target priority: single target volume of targets
+Prioritized within tech category, target (set) category
+
+Overall CT product line prioritization
+
+ 
+
+ChaHenges(U)
+
+. Complexity
+Understand target, technology, SIGINT system
+
+. Getting data is only step 1
+
+Getting a data set is like to getting a new bearer to analyze
+
+. (U) Visualization
+
+Excel tops out at a million 
+
+. Clean data
+
+Targets vs. Selectors
+
+ 
+
+
+Overcoming Complexity (U)
+
+SIGINT s?t??lh? System
+
+Fingerspitzengefuhl
+Literally "fingertip feeling?
+
+ 
+
+Empathy, sensitivity, tact
+
+Ability of military commanders
+to react rapid/y
+
+ 
+
+CT Trends 
+SIGDEV 
+
+Partner/Enablers
+
+Must understand tech threat
+implications, provenance and
+structure of data to manipulate,
+interpret it  
+
+ 
+
+
+Getting Data is Step 1 (U)
+
+ 
+
+
+Getting Data is Step 1 (U)
+
+ 
+
+
+Getting Data is Step 1 (U)
+
+ 
+
+
+Visualization (U)
+
+Excel tops out at a million 
+
+19 branches, 30+ target sets, ~200 realms, ~800 domains, ~45000
+selectors 1 million rows/~25 weeks for summarized active user events
+from E012333 alone
+
+Spreadsheets are good, but not everyone knows how to use a
+pivot table
+
+Each dataset can easily provide 4-5 or more pivoted looks for
+each branch/target set minimum 100-150 slides
+
+ 
+
+
+Visualization (U)
+
+work at the selector level
+
+Leadership wants data presented at the target level
+
+Automated population of technology, behavior
+information in analyst workflow tools, databases
+
+Each separate visualization task takes
+manpower, time away from operational analysis
+
+ 
+
+
+Clean Data (U)
+
+Metrics will only provide a near-accurate picture: ground truth will always be the domain of
+the TOPI and based on content
+
+Some selectors (accurately) map to multiple targets, multiple teams, multiple organizations
+Some selectors simply don?t have a known target, only a target set
+
+Need to correlate across widely different datasets requires creation of normalized bridge
+datasets comparing executables to domains)
+
+are victims of years of "fill in the blank" freeform data entry; very slowly being
+addressed (~2015?)
+
+ 
+
+
+Rising Strategic Issues (U)
+
+- Webmail Services
+Atabmail, Zoho, Safe-mail, Fastmail, HMA Mail
+
+- Remote Desktop Viewers/Remote Access Tools
+
+TeamViewer, Join.me, Cybergate
+
+- Messaging Services
+WhatsApp, Nimbuzz, eBuddy
+
+ 
+
+
+What Next? (U)
+
+Continue to build, strengthen, expand:
+
+internal workflows, research and discovery capabilities
+
+collaboration with production elements
+
+Operational support via embedded at NSAW
+Tradecraft, technical support virtually with extended enterprise
+
+partnerships with FVEY SIGDEV community
+
+Establish and expand dialogue opportunities
+"Failure Sharing" tradecraft sharing and operational deconfliction
+
+Technology Trends MyNoc
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+Co
+mment
+
+
+uestion
+
+s?
+s?
+
+ 
+
+ 
+

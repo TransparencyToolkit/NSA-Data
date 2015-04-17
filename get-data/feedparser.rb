@@ -10,7 +10,7 @@ class FeedParser
 
   # Get all items from feed
   def pullItems
-    (1..60).each do |num|
+    (1..63).each do |num|
       feed = Nokogiri::XML(open('https://freesnowden.is/feed?paged='+num.to_s))
       feed.xpath('//item').each do |i| 
         item_parsed = parseItem(i)
@@ -59,32 +59,38 @@ class FeedParser
     pdfs.each do |p|
       path = p.split("/").last
       if !File.exist?("../docs/"+path)
-        `wget --no-check-certificate -P ../docs #{p}`
+        begin
+          # Handle url errors
+          if !p.include?("http")
+            p = "http://freesnowden.is"+p
+          elsif p.include?("edard") || p.include?("snowen")
+            path = p.split(".com")
+            p = "http://freesnowden.is"+path[1]
+          elsif p.include?(",com")
+            p = p.gsub(",com", ".com")
+          end
+
+          # Get document
+          `wget --no-check-certificate -P ../docs #{p.gsub("https", "http")}`
+        rescue => error
+        end
       end
       patharr.push(path)
     end
 
     return patharr
   end
-
-  # Get text from PDFs
-  def ocr(paths)
+  
+  # Get text for the document (from text folder)
+  def getDocText(paths)
     text = ""
     paths.each do |p|
-      text += p+": \n" if paths.length > 1  
+      text += p+": \n" if paths.length > 1
       begin
-        if !File.exist?("public/uploads/"+p.gsub(".pdf", ".txt"))
-          u = UploadConvert.new("../docs/"+p)
-          text += u.detectPDFType # Or maybe ocrPDF
-        end
+        text += File.read("../text/"+p.gsub(".pdf", ".txt"))
       rescue
       end
-
-      if File.exist?("public/uploads/"+p.gsub(".pdf", ".txt"))                                                             
-        text += File.read("public/uploads/"+p.gsub(".pdf", ".txt"))
-      end
-      text += "\n\n" if paths.length > 1
-    end
+    end  
 
     return text
   end
@@ -106,7 +112,7 @@ class FeedParser
 
     temphash[:pdf] = handleMultiple(i.xpath('pdfs').xpath('pdf'))
     temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
-    temphash[:doc_text] = ocr(temphash[:pdf_paths])
+    temphash[:doc_text] = getDocText(temphash[:pdf_paths])
     
     return temphash
   end

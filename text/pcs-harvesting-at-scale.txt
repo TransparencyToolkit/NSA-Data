@@ -1,0 +1,1281 @@
+TOP SECRET STRAPI
+
+Reference: 
+Date: 271? April 2010
+
+PCS Harvesting at Scale
+
+
+
+?<ovc-CAP)
+?(0Pc-Tnsm
+
+Summary
+
+This report explores the introduction of an automated approach to Ki harvesting in 
+
+TD SD with the aim of increasing the volume of keys that can be collected. Methods are also
+explored to use data from the automated system to assess the effectiveness of current
+techniques and improve knowledge of mobile network operations. Work was carried
+out between January and April 2010 in UPC-TDSD and OPE-CAP.
+
+Distribution (all softcopies, via email)
+
+UPC-TDSD 
+
+
+UPC-HQ (-
+
+OPC-CDP 
+
+UPC-MGR 
+
+ICTR 
+
+UPC-CAP 
+OPD-GTAC 
+
+NSA 
+
+TDB 
+
+OPD-SDH 
+
+TEA 
+
+lof 24
+
+
+TOP SECRET STRAPI
+
+
+
+
+
+PCS Harvesting at Scale
+
+Introducing Automation to Ki Harvesting Efforts in TDSD
+
+UPC-TDSD
+
+April 2010
+
+Contributions from and 
+
+Summary
+
+Individual Subscriber Authentication Keys, or Ki values, are required to GSM
+communications. They are stored both on the mobile user?s SIM card and at a Home Location
+Register operated by the provider. TDSD has developed a methodology for intercepting these
+keys as they are transferred between various network operators and SIM card providers. This
+
+is now a core part of business carried out by in the team. This report
+explores the introduction of an automated technique with the aim of increasing the volume of
+keys that can be harvested. Methods are also explored to use data from the automated system
+
+to assess the effectiveness of current techniques and improve knowledge of mobile
+network operations.
+
+20f24
+
+this L5 cnc::1pL front under the 1 modern oi ALL .3000 and may be subjecL to 
+infernmtion legislation. Refer Lu GCHQ o: c::1uii
+
+TOPSECRETSTRAPI
+
+
+
+Table of Contents
+1 INTRODUCTION
+
+2 APPROACH
+2.1 Automated Technique
+2.1.1 Bulk Data Retrieval
+
+2.1.2 Identifying Content
+2.1.3 Processing storing
+
+2.2 Possible improvements
+
+3 RUNNING TRIALS
+
+3.1 Activity of Networks
+
+3.2 Target Discovery
+
+3.3 Measuring Targeting Effectiveness
+3.4 Comparison with present efforts
+
+3.4.1 Manually collected Kis
+3.4.2 Overall harvesting efforts
+
+4 CONCLUSIONS
+
+4.1 Future Work
+REFERENCES
+
+APPENDIX
+
+30f this information is enen1pt from discioacre under the freedom of information ALL 2000 and may be subject to enen1ptioi1une?er other 
+
+information legislation. ttefer discioacre Lo on
+
+TOPSECRETSTRAPI
+
+linen-set] 0: Email
+
+TOPSECRETSTRAPI
+
+1 Introduction
+
+key harvesting methodology centres around collecting Ki values in transit between
+mobile network operators and SIM card personalisation centres. Provisioning information is
+often sent between these organisations by email or FTP with simple methods that
+can be broken out by OPC-CAP, or occasionally with no at alli. With targeting in
+place, a large volume of IMSI and associated Ki values can be harvested from UDAQ 
+corporate CZC data repository.
+
+With known individuals and operators targeted, items of interest can often be returned from
+bulk CZC data using a simple search for the terms ?Ki? and in close proximity. Results
+will often contain a large number of unrelated items, however an analyst with good
+knowledge of the operators involved can perform this trawl regularly and spot the transfer of
+large batches of Kis.
+
+Work has already been canted out to automate this sifting of bulk data; reference 1 describes
+techniques successfully trialled so far. This work builds upon these techniques introducing a
+system to bulk query UDAQ itself, perform the sifting operation on data to identify items of
+interest, packaging these up in a form that can usefully be interpreted by researchers in OPC-
+CAP. Summary information is also produced for the use of in TD SD.
+
+The main desired outcomes from this work are to:
+
+- Improve effectiveness at finding Kis in CZC content repositories. By
+automating the approach it should be possible to perform a more thorough search than
+TDSD has had the manpower to do at present. This is likely to bring higher volumes
+of Kis and IMSIs to light in addition to spotting interesting items that would not have
+come to the attention of previously.
+
+- Improve target knowledge. A more complete picture of data in CZC
+repositories will allow TDSD to view the effectiveness of current targeting, spot
+trends as target behaviour changes and also spot any obvious gaps in coverage for
+example providers for whom this type of harvesting is ineffective.
+
+- Develop and enhance TDSD's harvesting methodology. This methodology is based
+around knowledge of how network operators, SIM suppliers and hardware providers
+co-operate to share data. By looking at the types of organisations
+associated with traffic seen in the wild we can test assumptions about communication
+patterns we expect to take place, improving our knowledge of relationships between
+these companies.
+
+ 
+
+1 It should also be noted that TDSD have observed the use of strong products being used
+(eg. PGP products). These have become increasineg common and used as standard for large SIM
+supplierslpersonalisation centres to exchange SIM output and input data with mobile neuvork
+operators.
+
+4of 24
+
+this information is exen1pt from disciosure under the freedom of information r'tet 2000 and ntay be subject to other LK
+
+infonnation legislation. ttefer disciosure reansLs to GCHQ on? (non-see] or Email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+Additionally it is likely that similar opportunities exist to introduce this type of automation to
+other analyst tasks. This work will help develop requirements for such services and bring
+more automation opportunities to light.
+
+50f 24
+
+this information is ere:an from diseiosiare under the lireedom of information Act 2000 and may be subject to exemption under other LK
+
+infonnation legislation. tteier diseiosare requests to CCHQ on? (non-set) or Email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+2 Approach
+
+Figure 1 shows a high level overview of current manual harvesting methodology.
+
+ 
+
+Perform bulk
+Intercept queries
+
+1'
+
+Harvest results
+manually
+
+ 
+
+ 
+
+ 
+
+7
+Perform further
+data manipulation
+
+ 
+
+ 
+
+1'
+
+Forward on to
+system owners
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1 - Manual Ki
+Harvesting Process
+
+in the team regularly perform queries on targeted C2C intercept using UDAQ. A
+number of queries exist designed to return results likely to contain IMSI and Ki values.
+Queries often return results with a high noise threshold of several thousand results perhaps a
+few hundred will contain items of value. The next stage is to trawl these results for items of
+value. If a list of IMSI and Ki values is found this can be copied from the tool and sent on to
+UPC-CAP for further processing. In the best case lists of several hundred thousand Kis
+associated with IMSI values can be found. However, a large number of messages each contain
+only a few associated Ki values. The responsibility of converting lists into a storable
+form lies with TDSD can only spend limited time manipulating the
+layout of data before forwarding.
+
+?of 24
+
+this information is exempt from diseiosure under the freedom of information r'tet 2000 and may be subject to exemption under otner LK
+infonnation legislation. ttefer diseiosure requests to GCHQ on? (non-see) or email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+2.1 Automated Technique
+
+Figure 2 describes 3 stages of the automated method developed.
+
+ 
+
+Automated pulling of
+data from bulk
+repositories
+
+ 
+
+
+
+Analytics identify
+interesting content
+
+ 
+
+ 
+
+
+
+Data made available
+to other systems
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2 - Automated Ki Harvesting
+Process
+
+Details of each stage is provided below:
+
+2.1.1 Bulk Data Retrieval
+
+ICTR provide a bulk data download capability using the research server
+LLANDARCYPARK. This was used to automate the querying of C2C content in UDAQ.
+Given a standard SQL query wrapped in an XML form this will return a package containing
+all matching C2C intercept.
+
+A base query, a proximity search for the strings and was used for this experiment.
+This can be seen in Appendix 1. Date fields are marked with placeholders so these can be
+automatically filled out using regular expressions at run time.
+
+Results are returned as a compressed ?le containing a CCDF2 mesh. A routine was then
+written to unpack this mesh, allowing results to be treated from then on as a set of plain text
+files.
+
+Scripts were developed to perform all steps of the operation automatically, retrieving
+packaged data to be interpreted by the user (reference 6). This operates as follows:
+
+The script JrunRemoteQuerysh is used to launch the process. This:
+
+- Requests a date range to query
+- Rewrites the query XML file with required dates
+
+ 
+
+2 Common Data Format. Details are described in reference 4.
+
+20f 24
+
+this information is exempt from diseiosure under the freedom of information Act 2000 and may be subject to exemption under otner LK
+infonnation legislation. ttefer diseiosure requests to GCHQ on? (non-set) or email
+
+TOPSECRETSTRAPI
+
+
+
+- Transfers all required files onto the LLANDARCYPARK server, including
+pulludaq.sh
+
+pulludaqsh is then executed on LLANDARCYPARK. This:
+
+- Executes the bulk IIB query (can take 5-10 mins)
+0 Retrieves query results as compressed CCDF files
+- Unpacks the CCDF contents into a directory as plain text for processing.
+
+The next stage is to identify content of interest in the processed ?les.
+
+2.1.2 Identifying Content
+
+Once plain text is retrieved from IIB this is parsed to identify items containing IMSI and Ki
+values. A previously proven rule based approach is used to identify content of interest.
+
+The routine scrapes the plain text identifying lines containing IMSI and Ki values, which may
+appear in intercept in any conceivable format. The technique also attempts to identify header
+information describing the contents, as well as associating results with a UDAQ identifier that
+can be later researched. Further technical discussion on this technique is available in reference
+1, TDSD Technical Note 11: What Makes a Good PCS Key Harvester?.
+
+A final stage generates statistics and additional information linked to the results, developed in
+consultation with TD SD This includes:
+
+- A list of unique UDAQ item identi?ers resulting in valid Ki IMSI data. This allows
+to conduct further research into these traffic sources. These are ranked
+according to the number of sections of IMSI data seen in each UDAQ item.
+
+- A list of network and country codes identi?ed. These are derived from the first 6
+characters of an IMSI and used to provide an overview of countries and networks
+identi?ed.
+
+- A list of associated email addresses. This is generated by scraping all email addresses
+from results found to contain valid Ki data. These are then ranked by the number of
+occurrences of each address.
+
+Care should be taken when interpreting ranking positions. In the case of email addresses a
+higher score does not necessarily indicate association with more Kis, however they can
+provide an indication of how active an address is.
+
+An example set of statistics produced is shown in Appendix 2.
+
+2.1.3 Processing 1 storing
+
+Output files generated by the previous step typically take the form shown in Appendix 3 
+section markers separate the UDAQ item reference, potential header information and 
+content. This format was developed alongside It should be noted that although the
+content will contain IMSI and K1 data it could take any conceivable form it is presented as
+found in raw intercept. It is the task of OPC-CAP to interpret any additional data in any
+recognised header section, decoding as necessary. Ki values may still be at this
+stage.
+
+80f 24
+
+this information is exempt from diScioscre under the freedom of information Act 2000 and may be subject to exemption under other LK
+
+infonnation legislation. ttefer diScioscre requests to GCHQ on? (non-sec) or email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+OPC-CAP have developed and successfully trialled techniques to speed up the task of
+importing these scripts, indentifying expected column header names and mapping these to
+data fields, and even automating the final stage.
+
+Once properly interpreted these Ki values can be stored, or clear, in relevant
+databases and shared with partners as necessary.
+
+2.2 Possible improvements
+
+A number of improvements have been identified for the above technique. These are described
+below:
+
+- Improved access rights for bulk data retrieval
+Access to bulk access capability runs on research prototype hardware and is
+supported only on a best endeavours basis. Making use of a processing user to obtain
+data, the maximum classification that can be returned is TOP SECRET STRAP2 UK
+Eyes Only. This means that some data currently retrieved using the manual method,
+such as password-recovered items, is not available to the automated system. An
+improved system would allow bulk access to more intercept data.
+
+- Processing performance
+Performance of queries on LLANDARCYPARK is comparable to that of UDAQ,
+however when large numbers of items are retrieved the generation of statistics can
+take some time (sometimes hours for large sets). Some simple code optimisations
+could significantly improve this performance.
+
+- Improvements to summary information scores and ranking
+The value of using ranks to assess the usefulness of an email or UDAQ item
+identified is limited, since the score used relates to the number of sections of Ki data
+in a given file. This means where a very large number of IMSIs are identified, but
+they appear in a single block, a low score is awarded. A value relating to the number
+of IMSI items would be more useful to identify the most important results.
+
+Qof 24
+
+this information is exempt from discioscre under the freedom of information Act 2000 and may be subject to exemption under other LK
+
+infonnation legislation. ttefer discioscre requests to GCHQ on? (non-sec] or email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+3 Running Trials
+
+The automated harvesting technique was used to extract IMSI and Ki values from bulk data
+over a 3-month period. This was performed over six 2-week intervals. The resulting number
+of IMSIs, Kis and associated statistics produced are shown in Table 1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Uenr?f UDA it unique it 
+Query Start Query End addresses item?s? country paired
+
+. . . codes KI
+
+Idenn?ed
+30?Dec?09  14?Jan?10 130    10 7.802
+13?Jan? 10 28?Jan?10 4   11 8.960
+2T?Jan? 11?Feb? 10 18 12 1.809
+10?Feb?10 25?Feb?10 4 50 18 2.348
+24?Feb?10 11?Mar?10 I 6    3 84,93?
+10?Mar?10 25?Mar?10  is  473
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1 - Details of Trial Queries
+
+The technique can be seen to identify a steady stream of IMSI and Ki data over a period of
+time. UDAQ item identifiers which contain the IMSI and Ki data can additionally be provided
+to allowing sources to be further investigated.
+
+These results are further analysed in the following section:
+
+10 of 24
+
+this information is exempt from disciosure under the freedom of information Act 2000 and may be subject to exemption under otner LK
+
+information legislation. ttefer diseiosare requests to CCHQ on? (non-see) email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+3.1 Activity of Networks
+
+Unique country codes identified in each of the time periods were correlated to produce the
+chart shown in Figure 3. Only networks with significant results are shown raw data can be
+seen in Appendix 4.
+
+IMSIs Identified with Ki data for ?atwork Providers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100000 .
+10000 -
+
+
+?I?xovn_lcemno
+
+1000 XI 
+AWCOAFGHANIS AN
+- 5 
+. 
+
+- -- 
+1?00 IRNCEL IRAN
+- 
+BABLN. TAJIKSTAN
+a. 
+.
+
+10 
+
+1
+
+ 
+
+ 
+
+ 
+
+14?Jan?10 28?Jan? 10 11?Feb?10 25?Feb? 10 11?Mar?10 25?Mar? 10
+Date range
+
+Figure 3 - IMSIs identified with Ki data for Network Providers
+
+This shows the number of IMSIs found with Ki data in each period for the providers shown,
+portraying a steady rate of activity from several networks of interest. New Ki and IMSI pairs
+are regularly seen for AWCC, TDCA and MTN.
+
+A large batch of Somali Kis was recovered in mid-March using this automated process.
+Somali providers are not on list of interest, hence it is likely this item would have
+been missed by manual collection, however this was usefully shared with NSA. A number of
+other unexpected providers were brought to light including Babilon?Mobile in Tajikistan and
+Icelandic provider Nova 3C.
+
+This has demonstrated that an automated Ki recovery method can effectively identify IMSI
+and Ki pairs from bulk C2C sources for key targets, with the added benefit of identifying
+content that would not normally come to analyst attention. The chart presented provides an
+overview of networks accessible in C2C repositories.
+
+3.2 Target Discovery
+
+11 of 24
+
+this information is exempt from disciosure under the lireedoin of information Act 2000 and may be subject to exemption under other LK
+information legislation. ltefer disciosure requests to CCHQ on (non-set) email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+An experiment was canted out to make use of results from this technique for target discovery.
+
+Statistics produced alongside results include email addresses appearing in
+communications alongside this content. These email addresses are scored by the number of
+times they are seen. It was proposed that analysis of these addresses should bring to light
+common communication patterns between operators, as well as help identify actors most
+involved in the sharing of K1 data.
+
+UDAQ C2C collection is targeted; hence any traffic found will originate from an identifier in
+corporate systems. However it was surmised that additional useful contact addresses
+could be found associated with traf?c.
+
+All email addresses associated with traffic in each of the 6 periods were compiled together.
+This resulted in a list of 154 unique email addresses, each associated with a score. From this it
+was possible to identify a number of candidate targets for further research that scored highly:
+
+- target?s email handle suggests an Ericsson employee
+
+using a webmail account
+
+- -@huawei.com this was the highest scoring overall address, a previously
+unknown target on the Huawei network.
+
+- mm highest scoring webmail address, indicating lots of activity
+associated with IMSIs and Kis, was a previously unknown target.
+
+- ics.mc a number of users associated with this previously unknown domain.
+EDI research shows international gateway for South African provider MTN
+
+- an MSN address found to be associated with IMSIs and Kis
+
+This has demonstrated a number of opportunities to apply this harvesting technique to target
+discovery efforts.
+
+3.3 Measuring Targeting Effectiveness
+
+An experiment was carried out to discover the effectiveness of current targeting
+methods.
+
+Email addresses identified in the previous section were converted into a list of domains, again
+scored by the number of associations with data. The complete list can be seen in
+Appendix 5.
+
+It was then possible to group domains into 5 categories:
+
+- Hardware Companies Organisations such as Huawei, Ericsson, who manufacture
+PCS hardware.
+
+- Network Operators Operators of mobile networks such as MTN Iranceli,
+Belgacom.
+
+- SIM Suppliers SIM Suppliers or SIM Personalisation centres, for example Bluefish.
+
+- Mail Providers Users of general email providers (Cmail, Yahoo etc). These may be
+in use by employees of any of the above.
+
+12 of 24
+
+this information is exempt from discioscre under the freedom of information Act 2000 and may be subject to exemption under other 
+
+information legislation. ttefer discioscre requests to GCHQ on? linon-sec] o: email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+- Other 1' Unknown
+
+Most of targeting effort is focussed on SIM suppliers and network operators, hence it
+was expected that most associated addresses would fall into these categories.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category Associations
+Hardware Companies 743
+Mail Providers 298
+Sim Suppliers 38
+Network Operators 603
+Other 1" Unknown 3?
+
+ 
+
+ 
+
+ 
+
+Table 2 - Types of organisations associated with IMSIIKI traffic
+
+Table 2 shows how often each type of organisation was associated with Ki traffic. Contrary to
+expectation the vast majority of addresses seen belonged either to network operators or
+hardware companies.
+
+This could indicate increased use of strong products amongst SIM suppliers,
+leaving only the other groups open to this method of exploitation. TDSD may wish to ensure
+that targeting for SIM suppliers is up to date, as well as investigating the possibility of
+targeting hardware companies and network operators to improve results.
+
+3.4 Comparison with present efforts
+
+3.4.1 Manually collected Kis
+
+A manual trawl of UDAQ data was performed against AWCC for the period between 28Th
+March and 10L11 April 2010. This was compared directly against results from an automated run
+over the same period, not targeted against any particular provider.
+
+13 of 24
+
+this is exempt ifom disclosure ande: the :eedom oi' i::io:matioi'_ Act 2000 and may be saL'jec?. to exeicpticii ..i'.tier other Utx
+
+information legislation. tiei'e: disclosure recaesis to Kati-it! on? [cull-bu] 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+In the manual trawl 14 UDAQ items were identified, all containng 1 or more pair
+for AWCC. The automated run found 12 UDAQ items, 3 of which had been identified in the
+manual trawl. A summary of results is shown in Table 3:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Found in search 
+Result it Date Manual Automated Details Comments
+1 29-Mar-10 I awcc _No occurrence of 
+2 Z-Apr-lo AWCC _No occurrence be
+3 3-Apr-1o i? Huawe. HLR incons-srency. 233 I-nes
+4 E-Apr-lo i AWCC No occurrence o? malti- ice
+5 E-Apr-lo AWCC. on p-nlps-k -n'o
+s-Apr-io i- new actuation
+S-Apr-lD 
+a s-Aor-lo new actuation 
+a s-Apr-io new actuation
+to El-Apr-lD i i 
+11 T-Apr-lo i AWCC No occurrence 0' IMSI. tnulti-Iine
+12 E-Apr-lo Roshan new are vendor query
+13 E-Apr-lD i i- 
+14 . .. AWCC l?lQ PWFEIETFE 9110151. . .. .. 
+15 T-Apr-lD awcc .No occurrence of IMSI 
+lEj T-Apr-loi iNo occurrence 0' IMSI. I'nulti?Iine
+1? EI-Apr-lo i AWCC No occurrence 0' IMSI. I'nulti?Iine
+lB EI-Apr-lo i AWCC No occurrence 0' IMSI. tnulti-Iine
+19 a-Apr-lo i AWCC No occurrence 0' IMSI. FnuIti-Iine
+2o EI-Apr-lo C- AWCC sim rep acerrer'r
+21 EI-Apr-lo AWCC si-n rep aceirenr
+22 T-Apr-lD new actuation 
+23 3-Aor-1o  HLR update containing 83 items Sarre as item 3
+
+ 
+
+Table 3 - Results of Ki I IMSI trawl
+
+The manual search resulted in a total of 2? IMSI values for AWCC. The automated search
+resulted in 320 values, 26 of which were from the AWCC network. The automated methods
+also identified 10 unique IMSIs from Roshan and 83 from MTN Yemen (results 3 and 23).
+
+It can be seen that the automated search ntissed the majority of manually recovered items.
+Reasons for this are noted in the comments column: in all cases the string IMSI did not appear
+in the results file, hence these items were not returned in the initial bulk query. The majority
+of these items also had IMSI and Ki data split across multiple lines, meaning they would not
+have been identified by the detection techniques employed in this work in any case. Both
+techniques found comparable quantities of IMSIs for AWCC with the result sets being mostly
+complimentary.
+
+This has demonstrated that although the automated method is able to return a representative
+set of items from bulk data, and often-larger volumes of Kis, it tended to miss items found
+manually. More work is required both at the initial bulk query stage as well as with
+processing and detection techniques.
+
+14 of 24
+
+This information is exenzpl from disclosure under the l-reedom oi i::t'or:11ation Act 2000 and may be subject to exemption under other UK
+
+information legislation. Refer disclosure requests to GCHQ on [non-sec) or enzail 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+3.4.2 Overall harvesting efforts
+
+TD SD and UPC-CAP collect overall stats for Kis harvested from networks of interest
+(reference 5). Overall rates of Kis received over a 3-month period, January March 2010,
+were compared against those from the automated technique. Figure 4 shows this comparison
+for a range of networks.
+
+ 
+
+New Kis itilt.I ntified
+
+ 
+
+10.000.000
+1.000.000 - 
+100.000
+
+10.000 - D3 [moth total
+
+1.000 A utornated collection
+
+100 -
+10 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+Irancell. Iran 
+MTN. Yemen
+Sabafn. Yemen
+Mobtel. Serbia
+Nova. Iceland
+Ideacl. India
+Babilon. Tajikstan -:
+Teles. Somalia
+Mobilink. Pakistan 
+Telenor. Pakistan 
+
+AWCC. Afghanistan 
+Roshan. AfghaniStan 
+
+ 
+
+ 
+
+ 
+
+Figure 4 - comparing data from the trial to historical data
+{priority targets marked 
+
+The overall data set contains values gained from a range of sources including Ki generation
+techniques and information sharing with partners.
+
+It can be seen that for the first three providers; AWCC, Irancell and Roshan; the number of
+keys collected by automated harvesting is comparatively small. Many of the larger batches of
+Kis received in this period were provided by partners on request, and it is difficult to estimate
+the real time period they were collected over. Additionally, the value of a small number of Kis
+should not be underestimated as these can often be used as seeds to generate much larger
+batches.
+
+It is clear that the automated technique is able to identify Kis for a greater range of networks,
+successfully identifying a large batch of Kis for a particular Somali provider.
+
+This comparison did bring to light a number of networks where the C2C harvesting method is
+not bringing results, notably the Pakistani networks Mobilink and Telenor for whom we do
+have a store of Kis. There could be a number of explanations: it is possible that these
+
+15 of 24
+
+This information is exenzpl from disclosure under the l-reedom of i::t'or:11ation Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHU on? [non-sec) or enzail 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+networks now use more secure methods to transfer Kis, or targeting for those networks might
+be ineffective.
+
+In summary, the automated technique is unlikely to bring in very large batches of Ki data of
+the size produced with Ki generation schemes or received from partner repositories. However
+it can bring in a steady stream of data over a period of time. These smaller volumes can fill
+gaps where no other data is available, and also provide essential seed points from which Ki
+generation can be applied.
+
+16 of 24
+
+This i::t'or:11ation is exempt from disclosure under the l-reedom of i::t'or:11ation Act 2000 and may be subject to exer::plion under other UK
+information legislation. Refer disclosure requests to GCHU on? [non-sec) or email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+4 Conclusions
+
+This work has demonstrated that an automated method of Ki recovery, once in place, can
+deliver significant results with little manual effort compared to current harvesting methods. In
+addition to Ki harvesting a number of further applications have been demonstrated: the
+monitoring of mobile network activity, where views have been provided over a 3?month
+period; discovery of new target identifiers associated with detected traffic; and methods of
+measuring the effectiveness of current techniques.
+
+A picture of types of organisations associated with Ki traffic has been constructed providing a
+new view of mobile network operations to TD SD.
+
+It has also been shown that although the automated method is able to return a rcpresentative
+set of items from bulk data, it often fails to detect all items that would be found manually.
+More work is required at the initial bulk query stage and also with detection techniques to
+ensure accurate and full coverage of Ki data.
+
+Whilst problems have been identified such as limits on coverage due to access restrictions,
+this work makes a strong case that such harvesting efforts will continue to deliver results in
+TDSD and areas such as the CP SD team.
+
+It is the author?s view that increased levels of corporate support for such bulk data processing
+activities would allow TDSD, as well as many other business areas, to benefit from more
+applications of these techniques.
+
+4.1 Future Work
+
+A number of items of follow-up work have been identified:
+
+0 Improving initial query effectiveness
+It has been shown that the initial base ?proximity? query is not effective enough to
+return all results currently found using manual harvesting. Work should be carried
+out to identify more effective queries to process data on. An alternative option is to
+run the technique repeatedly against a number of result sets.
+
+I Improved detection techniques
+Detection techniques are unable to identify Ki and IMSI data where the fields of
+interest appear on separate lines [see section 3.4.2). An improved technique would
+ensure these results are also detected and included.
+
+I Improved summary information
+Summary information currently consists of a list of email addresses, UDAQ item
+identifiers and network codes associated with simple scores. would like to
+be able to find the UDAQ item associated with a particular IMSI or email address
+more easily. An improved scoring system would also help more accurately
+
+17 of 24
+
+this is exempt front disclosure tinder the reedom of information Act 2000 and may be subject to exemption ..ncic-r other LJK
+
+information legislation. Refer disclosure requests to Kati-it! on [cull-bu] Lori?ll 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+prioritise items found. Additionally, the accuracy of results could be improved by
+detecting only IMSIs with valid country and network codes.
+
+I Bulk access limitations
+The maximum classification that can be returned from LLANDARCYPARK is TOP
+SECRET STRAP2 UK Eyes Only. This limits access to some data likely to contain
+IMSI and Ki values, such as password-recovered items. An improved system would
+allow bulk access to the full range of data.
+
+I Adapting technique to be used for other key types
+This technique currently identifies only IMSI and Ki values. In time it should be
+extended to also support efforts against OTA keys, UMTS and more.
+
+I Data mining opportunities
+Opportunities exist to mine bulk data produced during this process, potentially
+detecting further items of interest and developing knowledge of targets involved.
+Proposed ideas include detecting requests for batches of data by identifying
+messages containing maximum and minimum SIM values.
+
+I Corporate support for bulk C2C processing
+Access to bulk access capability is restricted to a small number of users,
+however a number of business units have expressed an interest. This work should
+continue to be used to develop requirements for a corporate solution allowing more
+business units to benefit from these types of techniques.
+
+18 of 24
+
+this is exempt front disclosure tinder the reedom of information Act 2000 and may be subject to exemption ..ncic-r other LJK
+
+information legislation. Refer disclosure requests to Kati-it! on [cull-bu] Lori?ll 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+References
+
+1. TDSD Technical Note 11: What Makes a Good PCS Key Harvester?
+TDSD, 12?] January 2010, available on request from TDSD
+2. DRAFT METHODOLOGY for investigating SIM card supplier relationships with
+Target Mobile phone operators
+TDSD, 2010, available from -
+3. ICTR Bulk IIB Download Capability
+
+4. Common Data Model FAQ
+
+5. TDSD Non EPR Statistics
+
+6. PCS Harvesting Scripts are stored under ClearCase and can be accessed and
+run from the following location:
+
+19 of 24
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+Appendix
+
+1 Example proximity query used by LLANDARCY PARK
+
+ 
+
+<2xml 
+<cib:qnery exportQuery=?true? 
+<cib:query-text>
+SELECT Item_ID FRDM CIB.CIB WHERE
+I
+
+Date of Intercept slt;= {d sapos;_ END DATE ,sapos;} AND
+
+oate_Df_Intercept sgt;: {d sapos; sapos;} AND
+
+Content dapos;{ imsi AND Ki WITHIN 60 )Sapos;
+
+ 
+
+ 
+
+AND
+Item Type IN (sapos?Ia Interceptsapos; ,sapos;Strong Netsapos;,sapos;_ 
+<fcib:query-text>
+<cib:queryMetadata>
+<cib:property 
+<cib:property 
+<cib:property SECRET STRAPicrcib:property>
+<cib:proper ty 
+<cib:property 
+ccib:property Theme RESEARCH INTD SIM CARD SUPPLY GSH DPERATDRS AND UPI?Apcfcibzproperty>
+<fcib:queryHetadata>
+<fcibzquery>
+
+ 
+
+ 
+
+2 Example produced by script
+
+ 
+
+ 
+
+IMSI results:
+
+Emails:
+
+9 items
+?@id ea . ad it yabir la . com
+?@blnefish . com
+midea . adi tya bi rla . com
+mgrameenphone. com
+?@grameenphone. com
+?@blnefish .com
+
+0 -@blnefish . com
+
+
+
+ 
+
+20 of 24
+
+his information is exempt from disclosure under the I'reedom of Information Act 2000 and may be subject to exemption under other UK information legislation. Refer disr_|ostire requests to LIIJHQ on? (non-suc}
+
+
+
+TOPSECRETSTRAPI
+
+ 
+
+ 
+
+TOPSECRETSTRAPI
+
+|12 ?asiaefisn .com
+I18 _@grameenphone. cum
+I
+
+IUDAQ Item Identifiers used:
+|0 items
+
+ 
+
+Country Codes:
+I16 items
+
+|4 421020
+|0 340041
+|s 012000
+ls 404040
+|10 410011
+|12 220010
+|10 412012
+|1s 404120
+|20 648032
+|40 452040
+|40 510000
+|42 420010
+|se 220020
+|00 404041
+|100 220012
+lees 412200
+
+
+|4ra items
+
+ 
+
+21 of 24
+
+
+
+
+ 
+
+ 
+
+TOPSECRETSTRAPI
+
+3 Example PCS Ki output file
+
+
+
+
+
+
+?k?k?k?k?k  
+
+
+sew-sew  sew-xv;
+
+ 
+
+ 
+
+ 
+
+22 of 24
+
+
+
+
+4 IMSI results broken down by network code
+Network code Location Period 1 Period 2 Period 3 Period 4 Period 3 Period 3
+000000 _4 
+000321 INVALID 3' 3'
+012400  
+111111 INVALID 4'
+123454 INVALID        
+201002 4
+210231    
+220012 SERBIA 103'
+222013 ..21. ..ii
+220010 ITALY 12
+220020 PROMNT. MONTENEGRO 53
+224113 NOVA, ICELAND 2 32 40 .
+340041 FRENCH GUADELOUPE AND SAINT MARTIN 3
+345123 22
+345312 INVALID 3'
+332343 INVALID 31.
+352301 INVALID 113' 
+2350433  SAINT LUCIA  22:   
+404040 IDEACL. INDIA 0.
+404041 IDEACL. INDIA .00
+404120 IDEAMB. INDIA 13'
+404302 INDIA 30'.  
+410011 PAKISTAN 10
+5412012 awcc, 5334; 1334; 11403; 302235 12: 13%.
+412200 TocA. AFGHANISTAN 033 3023 323 300.
+421010 YEMEN 13:  34: 14:  
+421020 MTN. 22_ 103 542 140 4_
+432330 IRNCEL. IRAN 1133 40
+'432352 IRAN 30
+435320 2
+5433043 TAJIKSTAN 12E 52%  
+435320 INVALID.                     
+444440 INVALID 3;
+444441 123 
+432040 40.
+432010 LAOS . 12., 12
+5430022 iiNvALIo    
+420010 BANGLADESH "42
+gs10300 INDONESIA . 401
+312030 COTE 20 3
+320040 GABON 4: 
+332010 SOMALIA 04324
+332302 NLINK. SOMALIA 2 .
+340032 TELCEL, 2i 23.
+340011 MOBTEL. NAMIBIA 3
+034510 33
+002010 INVALID 2' 
+
+23 of 24
+
+TOPSECRETSTRAPI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'i'his informarion is exempt front disclosure under rhe treedoin of informarion Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHO on [non-sec) or email 
+
+TOPSECRETSTRAPI
+
+TOPSECRETSTRAPI
+
+Domains connected to IMSIIKI traffic
+
+ 
+
+ 
+
+Most lmitlul domains
+
+ 
+
+ 
+
+ 
+
+ 
+
+7'00
+000-
+0
+500?
+?or
+
+=3
+:l
+0:400?
+a:
+Hai-
+.. 300?
+
+
+200?
+
+100?
+D-
+
+E?gEggoogoogooEog?qogo-?Ioo
+
+
+
+
+rdizcn ErdEoi-?358 sigma?
+in Ell-E
+,5 ii: :i midi-d
+.DGJ
+=2 .22
+24of24
+
+'i'his informarion is exempt front disclosure under rhe treedom of informarion Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHO on [non-sec) or email 
+
+TOPSECRETSTRAPI
+
+ 
+

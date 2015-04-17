@@ -1,0 +1,334 @@
+TURMOIL GALLANTWAVE - WikiInfO
+
+The accredited 2cm?;- |e\el of [his system is: USA. FVEY 
+USA. FVEY
+
+TURMOIL GALLANTWAVE
+From WikiInfo
+
+(UHFOUO) VALIANTSURF: TURMOIL GALLANTWAVE
+
+Ha me in portlnel Ivery Pia nel'leat Andi Itectu 4am leper:
+
+(UHFOUO) The TURMOIL CIET (Common Internet Technologies) Thrust's mission is to ensure that the GALLANTWAVE team's TURMOIL-related requiremean are fulfilled. Two sub-projecLs under CIET are
+VALIANTSURF and GALLANTWAVE.
+
+(TSHSIHREL) GALLANTWAVE (CW) is a CES Mission Application hosted on TURMOIL that enables exploitation of target communications that employ Data Network Session Cipher (DNSC) technologies. The GALLANTWAVE
+mission application integrates with solutions at the front end. After interacting with TS's LONGHAUL key recovery service via ISLANDTRANSPORT, it exploits the cipher at the front end, exposing the
+plain text to follow-on selection and collection.
+
+ 
+
+lerary an: 1kg 
+
+ 
+
+(SHSIHREL) Information revealing any capability NSA has to exploit a speci?c target?s or company?s implementation of for GALLANTWAVE technologies is BULLRUN.
+
+Contents
+
+I 1 (UHFOUO) VALLANTSURF: TURMOIL GALLANTWAVE
+I 1.1 GALLANTWAVE Detailed Description
+I 1.2 Data Flow Diagrams
+I 2 (U) Open GALLANTWAVE DRs
+I 2.1 (U) Old GALLANTWAVE DRs
+I 2.2 Spin 12.2
+I 2.3 Spin 12.1
+I 3 Spin 22
+I 3.1 Stories
+I 3.2 (U) RFCs
+I 4 Spin 21
+I 4.1 Stories
+
+GALLANTWAVE Detailed Description
+
+(TSHSIHREL) GALLANTWAVE (CW) implements TML Stage 1 PPF graphs (1 per host) with dedicated instances of the TechPromote and the CW PPF graphs identify and promote DNSC packets that
+meet criteria speci?ed in a Rules.cfg file. graph subsequently sessionizes the selected traf?c, injecLs control-?ow metadata, and forwards targeted DNSC Sessi ns to a CW mission-application hosted on a
+CA Server. The GW?CAServer interacts with SCARLET FEVER (a CES LONGHAUL component) to transform those sessions for IP?addresses within a approved set of target IP?addresses. The GW?CAServer transformed sessions
+are sent to XKEYSCORE via a modified TURMOIL XKS-SESSIONS graph for session processing, strong-selection, and forwarding to follow-on processing systems and Corporate Repositories.
+
+Data Flow Diagrams
+
+TUMULT 
+Stage 0
+
+ 
+
+DHSC
+Packers If Tu ww- 
+TURMOIL Transb'mvd 
+\t snags.  GW-CAW J-  3
+I
+DNSC Kay Paco-wry 
+Mags 
+
+- transfomien? DNSC
+. in
+6? i
+XKEYSCORE
+Stage 2 BE
+
+Sim-)9 Salaam
+TUBE Sessums
+d_ 
+
+ 
+
+ 
+
+.
+GALLANTWAVE 22
+ Dace-ricer 13. 20? Up
+TOP SECRETHCOMINTHREL To USA. FVEY
+
+ 
+
+Simple| LEW Dawnuw
+
+ 
+
+. 1. Will begging
+
+. insane-m 5mm. thx'ln').
+
+tllf?D? L'mfu'm-g 
+
+?x
+
+
+
+    
+ 
+
+Tr . bf" Wild
+. ?Bis?? 1.128 a 
+smw. sumac: Shaw's 
+Stage! I  Samar I 
+0&9:va
+LONGHAUL 
+FEVER 1 muse TUBE y?namsesw?
+5099018 WAD-RFP
+Elma;
+ww-nmassvs?i?exopmp?}
+
+an,
+.?maarsi Mm,
+?x -
+seasons wu 
+qummwagl? 5mm CONVEYME
+
+nu: sum?
+
+reams. 
+
+  
+
+.. HIM,
+mii?? 1? ;mm mason  
+
+ONEROOF
+
+GALLANTWAVE Spin 22
+Eeoel'bnl '2 in
+TOP TO USA, FVEY
+
+ 
+
+Complex LEW Dawnuw
+
+(U) Open GALLANTWAVE DRs
+
+(Lil Noll-i.- This table can be dynamically-allied (1.1-ills edited,- rimsaddedl. areI saw-id to 0K5.
+
+ 
+
+Res pomible TML
+veniion
+
+Headline 3%  Burr]:th Description Version ResolutionIStatin Tes?nngeploy'ment notes
+
+ 
+
+ 
+
+ 
+
+X71-T00054264
+
+The GwModule as delivered start the
+as part of the 
+According to the TURMOIL Core team, no processes
+should be added to the as this 'strictly
+
+ 
+
+. . . 
+. . Medium . CW Fixed with the release of CW
+is part of and forbidden'. Assigned: 
+should not be Due to this configuration, we have observed a number of Stth' mad -4'0'0 3'0 4'0'0 3'1 (Ml-731109912}
+
+occurrences where the message queues for
+
+are not created, and this results in
+
+100% loss of misson for the affected Fspf.
+
+submitted By:?
+DNCA Opslickel 99431 2013-03-23 15:05:Correction to the revious
+
+For several months, transformed sessions requiring 
+
+XKS HupDemux Problem decompression and detunneling have been rendered ??lament:
+
+at DGO useless by an XE 1.5.7 deficiency use [3 dogs in [an havexm
+1.5.10 installed, and querying in
+
+XKEYS ORE as
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10f2
+
+TURMOIL GALLANTWAVE - WikiInfO
+
+shown that, for the past week,
+there have been successful
+GALLANTWAVE 
+
+that have resulted in hits on
+
+but not any results U'iat are still
+in the gzip compressed state.
+Thus, we can feel confident that
+XKS 1.5.10 also resolws dais
+issue, though it has not been
+
+deployed to any live sites as of
+yet.
+
+ 
+
+Both the TtSessionToPacketEngine and
+
+TUMMS graph showing restarts is attached.
+
+Mal? 2013 
+
+ERROR
+
+Memory allocation errors
+
+Root cause: Sthad_alloc: Calling
+
+
+ 
+
+ 
+
+ 
+
+TtPackeLInjectorEngine engines have multiple crashes and
+restarts due to memory allocation errors (see below).
+
+tdk.ad apte1:spte.SessionToPacketTran sformEn gineAdapter
+
+ 
+
+Unexpected bad_alloc exception caught: Sthad_alloc
+
+High
+Slalc: Open
+
+ 
+
+ Tt
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) Old GALLANTWAVE DRs
+
+I see Old DRs for closed, resolved, rejected etc DRs
+
+Spin 12.2
+I CW 3.1-3.1. uses UTTf'Core SSC or Static Target files to target.
+(U) GALLANTWAVE and NeLDef Brief
+
+Spin 1 2. 1
+(UHFOUO) Feathers
+
+I CW 3.1-2.0 uses KEYCARD to target and has the SLIDETACKLE capability.
+I CW 3.1-3.0 uses Core SSC and IPCollector to target and works at both and NET Def sites
+
+Spin 22
+Stories
+
+(UHFOUO) Support Deployments
+(UHFOUO) Prototype Stage 1' Reinjection 563
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) RFCs
+
+RFC Number . . Resolutionf Date
+
+(TU or TML) Dampnm Rented Status Submitted
+[2981. Instructions to change targeting file None Iweek of 6 Dec 2010
+[31.20 Instructions to change MHS Live targeting file None Iweek of 1.7]an 
+Spin 21
+Stories
+GALLANTWAVE
+
+(UHFOUO) Feather Deliveries
+
+(UHFOUO) Deployf'activate CA Servers to POLARSTARICEY
+(UHFOUO) Interagency pairing
+
+(UHFOUO) GALLANTVEAVE 3.0 Design
+
+Category: Wikic ass
+
+USA. FVEY
+
+Demo am. 5 Classnuin' Luce oz Med. Emir.
+quanta!) 15.2 DMJCOFOLCE
+
+
+20f2
+

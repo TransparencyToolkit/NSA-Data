@@ -1,0 +1,877 @@
+Secure Sockets Layer (SSL
+Transport Layer Security
+(TLS)
+
+Sec: r'lty 
+
+
+
+331213
+
+UNCLASSIFIED
+
+xa le
+
+
+
+Wants credit card number
+
+Look at lock on browser
+
+Use instead of 
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
+History
+
+
+
+A protocol designed by Netscape in late
+1994 to provide communications
+
+security over the Internet
+
+GOALS:
+message privacy
+message integrity
+mutual authentication
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
+SSL Versions
+
+
+1.0: July 1994 not released publicly
+2.0: Dec 1994
+
+3.0: Nov 1995
+
+3.1: Jan 1999: RFC 2246 (TLS 1.0)
+
+3.2: Apr 2006: RFC 4346 (TLS 1.1)
+3.3: Aug 2008: RFC 5246 (TLS 1.2)
+
+UNCLASSIFIED
+
+ 
+
+TOP TO USA, FVEY
+
+SSL Version Usage
+
+
+SSL 3.0: 49%
+SSL 3.1: (TLS 1.0) 48%
+SSL 2.0: 3%
+other: 0.0001 
+
+Even though SSL 3.2 (TLS 1.1) and SSL
+3.3 (TLS 1.2) have been out for a while,
+they are not seen!
+
+TOP TO USA, FVEY
+
+ 
+
+UNCLASSIFIED
+
+Location Ethernet Independent of packet
+boundaries
+
+Multiple SSL records
+can be sent per packet
+
+ 
+
+TCP
+SSL records can span
+SSL Header packets
+SSL data 
+HTTP
+
+UNCLASSIFIED
+
+ 
+
+TOP TO USA, FVEY
+
+ports used by SSL
+
+IAN A has over 60 ports specified for
+use!
+
+Some ports seen more than others
+
+443 ~63% of traffic
+pop3s 995 ~1 of traffic
+
+TOP TO USA, FVEY
+
+ 
+
+TOP TO USA, FVEY
+
+IANA TCP ports
+
+can use ANY port!
+tor 9001 10%
+4090 4% (mobile ip server)
+tor 11375 2%
+p2p 16613 1% (limewire)
+p2p 44348 1% (limewire)
+p2p 18% (limewire or other)
+
+Note: all statistics ignore SSL sent under protocols other
+than IP
+
+TOP TO USA, FVEY
+
+ 
+
+UNCLASSIFIED
+
+Operation
+
+Application calls SSL connect routines to
+set up channel
+
+Public Key is used during
+handshake to authenticate parties and
+exchange session key
+
+Symmetric Key (using
+session key) is used to the data
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
++Public Key Algorithms
+
+Key Exchange used to derive session keys for
+
+RSA
+Diffie-Hellman (DH EDH ADH)
+Elliptic Curve Diffie?Hellman (ECDH ECDHE)
+Pre-Shared Key (PSK)
+Secure Remote Password (SRP)
+Fortezza
+Kerberos
+
+Authentication mechanisms
+RSA
+DSA
+None (Anonymous)
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
+Symmetric Key
+. Algorithms
+
++5 Work horse of algorithms
+
+Can offer near perfect secrecy
+
+Block - data block
+- RC2 128 bit key
+- DES - 56 bit key or Triple DES
+- IDEA - 128 bit keySEED 128 bit key
+- CAMELLIA 128 or 256 bit key
+
+Stream - byte by byte
+- RC4 - 128 bit key
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
++Message Digests
+
+Hash functions
+All output is influenced by all input
+
+If an input bit is changed, every output bit has
+50% chance of changing
+
+Improbable for different inputs to have the
+same hash
+
+- bit), bit)
+
+UNCLASSIFIED
+
+ 
+
+TOP TO USA, FVEY
+
+Key Exchange Usage
+65% RSA
+20% ADH
+1% DHE RSA
+
+
+
+
+0.7% RSA Export
+
+TOP TO USA, FVEY
+
+ 
+
+UNCLASSIFIED
+
++(The SSL Handshake
+
+ Handshake determines:
+SSL version (2 or 3.x)
+
+Cipher suite
+public key scheme (Diffie?Hellman, RSA)
+symmetric key scheme (DES, RC4)
+key length
+hashing routine (SHA1, MD5)
+
+Compression Scheme
+
+  
+
+UNCLASSIFIED
+
+ 
+
+UNCLASSIFIED
+
+Client Messages Server Messages
+
+IClient Hello
+
+ 
+
+
+
+Server Hello
+Certificate 
+
+Server Key Exchange 
+Certificate Request 
+Server Hello Done
+
+ 
+
+ 
+
+ 
+
+A A A A A
+
+ 
+
+ 
+
+Certificate 
+Client Key Exchange 
+Certificate Verify 
+Change Cipher Spec 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Finished 
+4 Change Cipher Spec
+
+Application Data Application Data
+
+UNCLASSIFIED
+
+ 
+
+
+
+Client Hello
+
+SSL 2.0 handshake message <1
+
+Message length <1
+Client hello message <1
+Preferred SSL Version <2
+Cipher suite length <2
+Session ID length <2
+
+Client Hello Random length<2
+
+Cipher suites
+Session ID
+Client Hello Random
+
+- Version 2
+
+byte>
+byte>
+byte 2
+bytes>
+
+01>
+
+bytes>
+bytes>
+bytes usually 0x10>
+
+<Set of 3 byte cipher suites>
+If present, resumed session
+
+
+
+ 
+
+ 
+
+SSL handshake
+Version
+
+Message length
+Client hello message
+Length
+
+Version
+
+Client Hello Random
+
+ 
+
+length usually 0x20 or 0>
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+SSL s/rLs message
+Version
+
+Length
+
+Server hello mossag;
+Length
+
+Version
+
+Server hello random
+
+Session ID length
+8e831on ID
+
+Cipher selected
+
+Compre331on
+
+erver Hello 4 Version
+
+byte 
+bytes>
+bytes>
+Byte - 0x02>
+:Hytes>
+:Hytes>
+
+byte - usually 0x20>
+
+I byte>
+
+ 
+
+UNCLAS SIFIED
+
+SSL Certificates
+
+X509 version number
+
+ 
+
+name of entity the certificate is validating
+public key of entity
+
+issuer name, the Certificate Authority
+
+unique serial number
+
+validity period
+
+digital signature
+
+UNCLAS SIFIED
+
+ 
+
+are
+
+Sarnpl P31 rs Ll Cert]
+
+ 
+
+   
+  
+
+ 
+,iL?server?ca?city, O=server?ca?company, OU=server?ca?section,
+
+
+      
+     
+
+    
+
+
+
+I Certificate (con't)
+
+Subjlect Public Key Info:
+
+Pub 'c Key Algorithm: 
+A Public Key: (1024 bit)
+
+Modulus (1024 bit):
+
+
+
+
+b1:fe:9f:61:9b:27:15:062b7
+
+Exponent: 65537 (0x10001)
+
+Signature Algorithm: 
+
+
+
+
+
+12:bb:24:da:7d
+
+
+
+ 
+
+UNCLAS SIFIED
+
+Certificate Authority
+
+ 
+
+Someone both parties trust
+Issuer of Certificates
+Many standard ones listed in browser
+options
+VeriSign
+GTE CyberTrust Root CA
+Thawte Server
+
+UNCLAS SIFIED
+
+ 
+
+
+
+I Certificate
+I
+
+
+CA priv
+(hash)
+
+
+
+ 
+
+UNCLAS SIFIED
+
+X.509 Certificates
+
+Digital Signature
+
+I 
+Decipher with
+
+ 
+
+ 
+
+public key
+I 
+
+
+
+UNCLAS SIFIED
+
+ 
+
+UNCLAS SIFIED
+
+Key Generation
+
+Uses three random numbers to create
+session key
+
+ 
+
+Client Random
+Server Random
+Pre?Master Secret
+
+Series of hash functions and bit selections
+
+UNCLAS SIFIED
+
+ 
+
+UNCLAS SIFIED
+
+Pre-Master Secret
+
+48 random bytes
+
+Either:
+
+RSA: Sent in Client Key Exchange message
+with the public key of the server
+
+Diffie?Hellman: Parameters are sent so that
+both sides can agree on a pre?master secret
+(either in the client key exchange message or
+the client certificate)
+
+THE security behind 
+
+ 
+
+UNCLAS SIFIED
+
+ 
+
+
+
+Master Secret
+
+Master secret is same across a session/resumed session.
+
+ 
+
+Used for generating keys, MAC secrets and IVs.
+
+Formed differently for SSL and TLS, but both use a
+combination of:
+SHA1
+MD5
+Client Random
+Server Random
+Pre?Master Secret
+Fixed Constant (eg, ?client write key?)
+
+
+
+ 
+
+
+
+Key Block
+
+I
+I 
+Generated per session. Generated differently for
+I LS, but both use:
+SHA1
+MD5
+Client Random
+Server Random
+Master Secret
+
+Fixed Constant (eg, ?client write key?)
+
+The length of the key block generated depends upon the
+cipher suite used.
+
+
+
+ 
+
+J?ilehi
+
+Session Keys
+
+From the Key Block, pull out the keys as follows:
+
+Client Write MAC Secret (Hash size bytes)
+Server Write MAC Secret (Hash size bytes)
+
+Client Write Key (Key Material Length)
+Server Write Key (Key Material Length)
+Client Write IV (IV Size)
+Server Write IV (IV Size)
+
+Example: 
+
+2 24 byte keys, 2 20 byte MAC secrets,2 8 byte IVs
+104 bytes of key
+
+J?ilehi
+
+ 
+
+UNCLAS SIFIED
+
+Resumed Session
+
+ 
+
+Client Messages Server Messages
+
+Client Hello
+
+
+
+Server Hello
+
+A
+
+ 
+
+Change Cipher Spec
+Finished
+
+A
+
+A
+
+Change Cipher Spec 
+Finished 
+
+ 
+
+ 
+
+Application Data 4 Application Data
+
+ 
+
+UNCLAS SIFIED
+
+Resumed Sessions
+
+ 
+
+ 
+
+Client sends session ID
+
+If stored in server cache, may use previous session
+information (Master key). Sends the same session
+ID back to client.
+
+Client does not send a Key Exchange, Server does
+not send a certificate
+
+Both use stored Master Key and skip first part of
+key generation
+
+UNCLASSIFIED
+
+ 
+
+TOP TO USA, FVEY
+
+SSL Exploitation
+
+Not impossible!
+
+RSA key exchange ?easy? to do because
+of fixed key.
+
+EDH key exchange not exploitable by the
+?easy? way. 69
+
+ 
+
+TOP TO USA, FVEY
+
+ 
+
+UNCLAS SIFIED
+
+RSA Keys (Stating the
+Obvious)
+
+ 
+
+If the Key Exchange type is RSA:
+
+If we can get a hold of the server?s RSA
+private key, we can the Client Key
+Exchange message and read the pre?
+master secret key. No other heavy work
+need be done.
+
+Valid for life of certificate
+
+UNCLAS SIFIED
+
+ 
+
+TOP TO USA, FVEY
+
+Debain SSL
+
+Publically known weakness in the RNG
+for specific version of Debian openssl
+
+Creates finite set of RSA keys
+
+I If Debian modulus is observed, lookup the
+private key in table (2 15) 6 for each
+key size.
+
+the traffic!
+
+ 
+
+TOP TO USA, FVEY
+
+ 
+
+TOP TO USA, FVEY
+
+RSA Exploitation Steps
+
+ Is it the key exchange (sewer 119110)
+
+If so, is the modulus match a known private key? (server
+certificate)
+?r If so, is there 2?sided collect?
+
+ 
+
+>If so, do we have:
+ Client Hello
+ Server Hello
+ Client Key Exchange
+
+
+
+TOP TO USA, FVEY
+
+ 
+
+TOP TO USA, FVEY
+
+RSA Resumed Sessions
+
+ 
+
+ 
+
+Most traffic is resumed sessions
+(about 9 resumed sessions for every initial session).
+
+To a resumed session, you need:
+Master key (initial session)
+Client random (resumed session)
+Server random (resumed session)
+
+TOP TO USA, FVEY
+
+ 
+
+
+
+Problems in
+processing
+
+ 
+
+Literally millions of sessions per day
+
+Need to have good filtering and selection
+Need both sides of conversation
+
+USSID 18 issues
+
+
+
+ 
+
+TO USA, FVEY
+
+Network Traffic
+Problems
+
+ 
+
+Correctly reconstructing SSL session
+Port reuse
+Match client and server using time stamp
+
+Match resumed sessions to initial sessions,
+using SSL session id or SSL session ticket
+
+TO USA, FVEY
+
+ 
+
+TOP TO USA, FVEY
+
+State Needed to
+
+
+Cipher Suite
+
+ 
+
+Master Key
+
+Client Random
+
+Server Random
+
+Session ID Session Ticket
+Index for finished message
+Index for application data
+
+TOP TO USA, FVEY
+
+ 
+
+Contact Information
+
+ 
+
+ 
+
+ 
+
+ 
+

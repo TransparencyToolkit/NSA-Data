@@ -1,0 +1,732 @@
+TOP TO USA, AUS, CAN, GBR, NZL
+
+NATIONAL SECURITY AGENCY
+CENTRAL SECURITY SERVICE
+
+(U) CLASSIFICATION GUIDE FOR
+QUANTUM COMPUTING RESEARCH
+10-25
+
+Effective Date: 21 September 2011
+
+Revised Date(s):
+
+CLASSIFIED BY: 
+
+ 
+
+REASON FOR CLASSIFICATION: 1.4 
+DECLASSIFY ON: 25 years"
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+(U) Change Register
+
+Date Made By
+mm/dd/yy (initials)
+
+Change No. Change
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+CLASSIFICATION GUIDE (U) Quantum Computing
+Research, 10-25
+
+PUBLICATION DATE: (U) 21 September 2011
+
+OFFICE OF ORIGIN: (U) The Laboratory for Physical Sciences/R3
+
+Poe: (move) 
+ORIGINAL CLASSIFICATION AUTHORITY: (U) 
+
+Community Integration, Policy and Records
+
+This document establishes information security guidelines on NSA/CSS-Sponsored
+research in the ?eld of quantum computing (QC). The objectives de?ning the scope of this
+research activity are:
+
+l) To assess if it is to bene?t to continue research into Whether
+practical-scale QC can be developed Within a reasonable timeframe, to identify its most
+promising physical embodiment(s), and to formulate a credible scenario for its large-scale
+development;
+
+2) To gain an understanding of the computational capabilities
+of quantum computers; and
+
+3) To identify practical methods that are not susceptible to
+quantum computational attack.
+
+These guidelines do not cover the possibility of large-scale QC
+development programs at NSA, but only the research and planning preliminary to, and in
+possible support of, such programs.
+
+Much of the research in quantum computing is still very basic and is most
+effectively pursued in NSA-funded open research programs. These programs play a critical role
+as the major source of new ideas and for training future researchers in the ?eld. However, NSA
+is pursuing more than just basic, unclassi?ed research. NSA is also attempting to preserve the
+SIGINT potential of quantum computing the applications of QC) While
+Simultaneously attempting to protect the information security of both the Government and
+private sectors against hostile QC attacks the mission assurance applications
+of QC of interest to the Information Assurance community). These goals must be pursued at the
+classi?ed level.
+
+There are several fundamental reasons for classifying QC research:
+1) To protect efforts to develop QC to attack high-
+
+grade public key systems by denying adversaries information concerning
+assessment of, and/or plans for, large-scale QC development;
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+2) To enable us to track our adversaries? degree of success or failure in similar
+QC development efforts; and
+
+3) To protect our own systems against adversarial QC efforts.
+
+Based on this, the distinctions between unclassi?ed and classi?ed information
+contained in this guide attempt to differentiate between unclassi?ed basic-level, academic-scale
+research of scienti?c interest, and more comprehensive classi?ed research which might disclose
+techniques that may otherwise be possible to protect, or which might imply, or wrongly,
+serious intent on part to pursue large-scale development of quantum
+
+computers.
+
+ 
+
+Description of Information
+
+Classi?cation/
+Markings
+
+Category
+
+Declass
+
+Remarks
+
+ 
+
+A. (U) General
+
+ 
+
+A.l. (U) The fact that NSA:
+
+0 (U) Acknowledges the
+potential of Quantum
+Computing (QC) in the ?eld of
+
+
+0 (U) Tracks the development of
+QC technology.
+
+0 (U) Conducts QC research.
+
+0 (U) Funds selected QC
+research of unspeci?ed
+external entities.
+
+0 (U) Conducts and sponsors
+research in QC mathematics
+and algorithms, complexity
+theory, experimental physics,
+theoretical physics, control,
+and/ or error correction.
+
+0 (U) Discusses QC theory with
+unspeci?ed external
+researchers within and outside
+the United States.
+
+UNCLAS IFIED
+
+
+
+
+
+(U) Details may require handling
+as 
+OFFICIAL USE ONLY or may be
+classi?ed.
+
+ 
+
+A2. The fact that
+NSA conducts unspecified
+classi?ed research in QC with no
+additional details.
+
+UNCLAS FOR
+OFFICIAL USE ONLY
+
+
+
+
+
+(U) Details may require
+classi?cation and may be
+compartmented.
+
+ 
+
+(U) Cooperation With Other Organizations
+
+ 
+
+ 
+
+A3. The fact that
+NSA cooperates with other US.
+organizations (6. g. academic
+organizations, national
+laboratories, and other US.
+intelligence agencies) on basic,
+unclassi?ed QC research without
+
+ 
+
+UNCLAS IFIED
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+(U) Details, including specifying
+which US. organization, may
+require handling as
+
+OFFICIAL USE ONLY or may be
+classi?ed.
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+additional details.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A.4. The fact that Details, such as the
+NSA cooperates with the Second FOR OFFICIAL USE particulars of research jointly
+Party partners on basic, ONLY undertaken by NSA and a
+unclassi?ed QC research without speci?ed Second Party partner,
+additional details. may be classi?ed.
+A.5. The fact that (U) Details, including specifying
+NSA cooperates with other US. FOR OFFICIAL USE which US. organizations or
+organizations academic ONLY Second Party partners, may be
+organizations, national classi?ed. Coordination with the
+laboratories, and other US. See Remarks other party may be required to
+intelligence agencies) or Second arrive at a mutually-agreeable
+Party partners, on classi?ed QC classi?cation.
+research.
+(U) Research Information
+A.6. (U) Details regarding or UNCLASSIFIED (U) Information is generally
+results of NSA-conducted or UNCLASSIFIED, except for
+-spons0red unclassi?ed research. See Remarks information on breakthroughs. See
+A. 12 below.
+
+A.7. Non-technical 1.4 25 years* (U) Details may require higher
+details scheduling) regarding REL TO USA, FVEY classi?cation.
+NSA-conducted or -sp0ns0red at a minimum
+classi?ed QC research.
+A.8. Technical details TO 1.4 25 years* (U) Details 
+regarding or results USA, FVEY applications) on speci?c research
+conducted or -spons0red classi?ed at a minimum may require higher classi?cation
+QC research. and/0r compartmentation.
+A.9. (U) The existence of a 1.4 25 years* (U) Higher classi?cation and/or
+speci?c classi?ed QC research REL TO USA, FVEY compartmentation may be required
+project. at a minimum to protect speci?c projectsyears* For example, the fact
+information relating to a USA, FVEY that NSA decides to fund or not to
+determination that minimum fund a speci?c classi?ed QC
+useful to NSA. research project would be
+
+See Remarks classi?ed TO
+
+USA, FVEY or higher.
+
+A. 1. (U) The reason for a 1.4 25 years* (U) Details may require higher
+signi?cant change in size or REL TO USA, FVEY classi?cation and/0r
+direction of the NSA QC research at a minimum compartmentation.
+program.
+(U) Breakthroughs
+A. 12. The fact of or (U) Analysis by NSA of the
+speci?c details of changes in OFFICIAL USE ONLY signi?cance of a breakthrough will
+understanding of the at a minimum normally require classi?cation
+likelihood, timescale, required (generally at the TO
+resources, or method of See Remarks USA, FVEY level at a minimum)
+implementation of and/0r compartmentation.
+scale QC because of a
+breakthrough achieved through
+Open research.
+A. 13. The fact of a TO 1.4 25 years* (U) Details and signi?cance of the
+change in understanding of USA, FVEY breakthrough may require higher
+
+the likelihood, timescale, required
+resources, or method of
+implementation of 
+
+ 
+
+at a minimum
+
+See Remarks
+
+ 
+
+ 
+
+ 
+
+classi?cation and/ or additional
+compartmentation.
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+scale QC because of a
+breakthrough achieved through
+classi?ed research.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A. 14. The speci?c TOP 1.4 25 years* (U) Details and signi?cance of the
+details of a change in REL TO USA, FVEY breakthrough may require
+understanding of the likelihood, at a minimum additional compartmentation 
+timescale, required resources, or a method of implementation may
+method of implementation of See Remarks leverage additional equities
+scale QC because of protected under a compartment).
+a breakthrough achieved through
+classi?ed research.
+B. (U) Level A/Level QC Research
+B.l. (U) The fact that NSA UNCLASSIFIED (U) See the descriptions of Level
+conducts Level A and Level QC A and Level in the De?nitions
+research with no additional details. section.
+B.2. The fact that 
+Level A is unclassi?ed QC OFFICIAL USE ONLY
+research and/0r Level is
+classi?ed QC research.
+B.3. The fact that NSA TO 1.4 25 years*
+de?nes speci?c limits to USA, FVEY
+distinguish Level A QC research
+from Level QC research.
+B.4. The speci?c values TO 1.4 25 years* The values are
+distinguishing Level A QC USA, FVEY expected to change over time
+research from Level QC based on achievements in the Open
+research. community.
+C. (U) QC Algorithm Research
+C. 1. (U) The fact that NSA- UNCLASSIFIED Publically known
+conducted or -spons0red at a minimum algorithms are generally
+unclassi?ed research has achieved unclassi?ed. However, because of
+a quantum algorithm improvement See Remarks their relevance to NSA's QC effort
+of an unclassi?ed classical or capabilities,
+algorithm with polynomial run- improvements to an unclassi?ed
+time. algorithm may be protected as
+determined on a case-by-case
+basis. Contact guide POC.
+(U) General algorithm research
+falls under this category.
+C.2. (U) The fact that NSA- UNCLASSIFIED Publically known
+
+conducted or -spons0red
+unclassi?ed research has achieved
+a quantum algorithm improvement
+of an unclassi?ed classical
+algorithm yielding a polynomial
+speed-up.
+
+ 
+
+at a minimum
+
+See Remarks
+
+ 
+
+ 
+
+ 
+
+algorithms are generally
+unclassi?ed. However, because of
+their relevance to NSA's QC effort
+or capabilities,
+improvements to an unclassi?ed
+algorithm may be protected as
+determined on a case-by-case
+basis. Contact guide POC.
+
+A polynomial speed-
+up Of an unclassi?ed algorithm
+may make some intractable
+problems tractable.
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C.3. (U) The fact that NSA- UNCLASSIFIED Publically known
+
+conducted or -spons0red at a minimum algorithms are generally
+
+unclassi?ed research has achieved unclassi?ed. However, because of
+
+a quantum algorithm improvement See Remarks their relevance to NSA's QC effort
+
+of a classical algorithm yielding a or capabilities,
+
+super-polynomial speed-up. improvements to an unclassi?ed
+algorithm may be protected as
+determined on a case-by-case
+basis by the originating Agency.
+Contact guide POC.
+(U) For example, a polynomial
+time algorithm for solving Graph
+Isomorphism.
+
+C.4. The fact that UNCLASSIFIED (U) For example, it is known that
+
+NSA has determined that a QC breaks based on
+
+speci?c classical public-key RSA, Dif?e-Hellman, and elliptic
+
+design is or is not curve 
+
+secure against QC attack where
+
+the security or non-security of the (U) For assistance in
+
+algorithms is widely known and determination, contact guide POC.
+
+publicly available.
+
+C.5. The fact that USA, 1.4 25 years* (U) Speci?c designs may require
+
+NSA has determined that a FVEY higher classi?cation and/or
+
+speci?c classical public-key at a minimum compartmentation
+
+design is or is not
+
+secure against QC attack for See Remarks
+
+algorithms for which the security
+
+or non-security is not widely
+
+known and publicly available.
+
+D. (U) Programs and Plans
+
+D.l. The existence TOP 1.4 25 years* (U) Details indicating speci?c
+
+or nonexistence of any NSA plan REL TO USA, FVEY planning or program development
+
+or program to build a at a minimum may require compartmentation.
+
+scale quantum
+
+computer. See Remarks
+
+E. (U) Information Assurance
+
+E.l. (U) The fact of a vulnerability TOP SECRET 1.4 25 years* (U) Refer to the Information
+
+of a speci?c US. Government Assurance Vulnerabilities and
+
+to QC attack. See Remarks Weaknesses Classi?cation Guide.
+3-02, 8 July 2005, concerning
+foreign releasability of
+information on 
+vulnerabilities of US. systems.
+
+E.2. (U) The fact that NSA is UNCLASSIFIED (U) Details may require handling
+
+attempting to design classical as 
+
+public-key that is See Remarks OFFICIAL USE ONLY or may be
+
+secure against QC attack. classi?ed.
+
+F. (U) Materials
+
+F.l. (U) The fact of NSA UNCLASSIFIED 
+
+involvement in developing
+specialized materials for
+unclassi?ed QC that would not
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+involve developing specialized
+production facilities.
+
+ 
+
+ 
+
+ 
+
+ 
+
+F.2. The fact TO 1.4 25 years* Such development
+
+involvement in developing USA, FVEY might include, but is not limited
+
+specialized materials for classi?ed to, isotopic or impurity
+
+QC. See Remarks puri?cation, defect reduction,
+and/0r surface passivation.
+
+F.3. The fact TO 1.4 25 years* Development of such
+
+involvement in developing USA, FVEY production plants indicates a level
+
+specialized materials for classi?ed of NSA commitment to
+
+QC that would See Remarks QC development
+
+involve developing or using beyond unclassi?ed research.
+
+specialized production facilities or
+
+prototypes of such facilities.
+
+F.4. Technical details 1.4 25years* Resulting specialized
+
+regarding NSA development of
+specialized materials for
+
+QC.
+
+ 
+
+REL TO USA, FVEY
+at a minimum
+
+See Remarks
+
+ 
+
+ 
+
+ 
+
+materials will generally be
+handled as 
+
+REL TO USA, 
+exceptionally high-purity material
+or experimental results may
+require protection as TOP
+TO USA,
+FVEY.
+
+ 
+
+(U) Declassification in 25 years indicates that the information is classi?ed for 25 years from
+the date a document is created or 25 years from the date of this original classi?cation decision,
+
+whichever is later.
+
+(U) DEFINITIONS
+
+(U) - The study of breaking codes and ciphers.
+
+- (as applied to quantum computers) Large enough to perform
+computations of actual importance to NSA. A more speci?c de?nition is likely to
+be compartmented, and will change over time.
+
+(U) - The principles, means, and methods for rendering plain information
+unintelligible to the uninitiated and for restoring information to intelligible form.
+
+(U) - The art and science of making codes/ciphers and breaking them,. 
+breaks out into two disciplines: (making or using codes/ciphers) and 
+
+(breaking codes/ciphers).
+
+(U) Detailed engineering design - Speci?cations of a set of qubits and the associated
+initialization, control, and measurement hardware and software at a level of detail commensurate
+with the requirements of industrial fabrication.
+
+(U) Fidelity - Precision of qubit Operations such as initialization, logic gates, and readout.
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+(U) High-?delity N?qubit Device - An engineered processing device that integrates coupled,
+high-?delity physical qubits, qubits with ?delity of Operations near or beyond the accuracy
+threshold for efficient error correction.
+
+Level A QC - Unclassi?ed theoretical and/or experimental research in the design,
+physical implementation, and Operation of quantum computers, as established by the Laboratory
+for Physical Sciences/R3.
+
+Level QC - Classi?ed theoretical and/or experimental research in the design,
+physical implementation, and Operation of quantum computers, as established by the Laboratory
+for Physical Sciences/R3. The boundaries are based on the number and quality of qubits, realism
+and speci?city of design, control precision, and detail of analysis. While these boundaries may
+change over time, as of the publication of this guide, the values are:
+
+(1) Detailed engineering design of 51 or more physical qubits;
+
+(2) Implementation and Operation Of a high-?delity 21-Or-more physical-qubit
+device; or
+
+(3) Implementation and Operation of three (3) or more logical qubits, with
+suf?cient speed and precision to allow preservation of quantum information and logical
+gates between the qubits.
+
+(U) Logical qubits - Collections of several physical qubits con?gured in a circuit allowing
+detection and correction both of errors and of loss of quantum coherence.
+
+(U) For the purposes of this guide, the circuit configuration of a logical qubit must allow
+detection and correction of at least all errors affecting any single physical qubit. A logical
+qubit comprising physical qubits must also be a high-?delity N-qubit device.
+
+(U) Physical qubit - A physical entity capable of storing a qubit of information and being
+initialized, operated on, and measured. Examples include, but are not limited to: photons,
+electrons, atoms, atomic nuclei, and superconducting Josephson junctions.
+
+Practical-Scale - with the added requirement that a roadmap
+exists to construct the device with a cost, probability of success, and time-scale of actual
+importance to NSA. A more specific de?nition is likely to change over time.
+
+(U) Quantum coherence - The fundamental quantum-mechanical property of qubits and
+collections of qubits which may enable some computations to be performed with resources vastly
+
+smaller than would be required for classical computers.
+
+(U) Quantum Computing - Computing with quantum Operations on data stored in a collection
+of qubits.
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+(U) Quantum gates - Logic operations on one or more qubits that preserve their quantum
+coherent character.
+
+(U) Qubit - A ?quantum bit,? the fundamental unit of information in a quantum computer.
+
+TOP TO USA, AUS, CAN, GBR, NZL
+

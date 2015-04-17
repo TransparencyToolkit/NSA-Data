@@ -1,0 +1,28 @@
+[edit] Presentation Abstracts - Tuesday, 15
+March
+
+[edit] (SHNF) Differential iner Analysis an the Apple A4
+Precessnr
+
+Presenters: and (U) The Apple A4 prccesscr ccntains an
+cn-bcard, AES key called the Glcbal ID that is believed tc be shared all current
+"iEIevices". This GID key is used tc un?wrap the keys that the ?rmware ccde
+stared in system ncn-vclatile memcry. Currently, the cnly way tc examine ccde is tc gain
+executic-n thrcugh an ewlcitable security ?aw. I-Icwever, Apple is quick tc address these ?aws
+with each new release cf ?rmware and hardware.
+
+The Inte?igence Ccmmunity is highly dependent an a very sma]l number cf security ?aws,
+many cf which are public, which Apple eventually patches. The presentaticn will discuss a
+methcd tc ncninvasively extract the GID key the A4 siliccn. If successful, it wculd enable 
+and analysis cf the beat ?rmware far vulnerabilities, and develcpment cf asscciated explcits the
+entire Ari?based prcduct?line, which includes the iPhcne? A, the iPcd tcuch? and the iPath.
+
+Pcwer analysis techniques have prcven effective in extracting hardware resident 
+such as keys, secure ncninvasively thrcugh side?channel
+We have wcrked tc develcp an envircnment within the iPhcne 4 that assists in
+differential pcwer analysis attacks against the A4 prccesscr while preserving the
+?lncticnality cf the device. We have studied emissicns that during AES
+cperaticns with the intent cf extracting abcut the cn?chip AES keys. We will discuss the
+used tc acquire varicus measurements the system and the we?ve made in
+attempting tc extract the GID key the devices.
+

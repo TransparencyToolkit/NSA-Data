@@ -1,0 +1,172 @@
+XKeyscere-Tahs XKS Develepment
+
+lump l0:  
+
+ 
+
+Getting
+
+mung . . . News
+aw _si'llr g? .
+3 ?m ?g?eure ?mm Development eenieets ??mmenm erehwe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quick Links
+I Main Page
+Cuntents I: 1K5 at scale en 55E
+I Getting Streng-Selected Centth Lute 151KB
+I Getting an 151KB 
+- Using 
+I 2. Guidance un mlurupluulns I Training
+3 TWEE 0? - Development
+'3 . Centacts
+*3 _s_3.1 Sta 3 - News Archive
+0 3.3 Deep Dive In 311KB R?uirements
+I 4 Skinny KKS I: 1K5 Searches user guide
+I 1K5 Results user guide
+I 1K5 Annreval 
+I I in 1K5
+   ades I Premetlen t'ren'i 151KB
+I Autematle Premetlen t'ren'i 151KB
+XKE is upgraded on Thursday . 3K5 [int- ENE
+mornings between 0900-1100. If yen can't leg - NBA 33:5 fm- ENE
+an or use the ten] during this period, its - sass Tech Dictionaries
+because of this.
+[edit] Guidance en Useful Links
+I Mastering The Internet
+I: Transferming Analysis
+AS ycu lincw. ycu can create tc dc - 11ml
+different things: scme advanced detecticn 
+techniques tc ?nd types cf traf?c which can't be i 
+detected by cr regular expressicns alcne. 1? I I 
+Others identify and extract data ?elds in tc KKS's 
+
+metadata table-
+
+In the latter case. the extracted ccntent fragments are stcred in the metadata table 30 days.
+It will depend en the precisicn and nature cf the search criteria ycu have used as tc 
+cr wealdy selected that ccntent will be-
+
+If ycu are gcing tc use search criteria that will extract data abcut pecple and stcre that in the
+metadata table. please ccnsult DPPLEG befcre dcing sc. They will wish in understand the nature
+and sccpe cf any data being red in case it includes at least the names cf indiyid uals and the
+majcrity cf the data is net believed tc relate in prcbable intelligence targets- This wculd make
+this data particularly sensitive-
+
+ 
+
+ 
+
+In additicn. a quarterly check is new being made cn all new which add data tc the
+
+1ef4
+
+ 
+
+metadata table te ensure they meet UK legal and pelicy requirements-
+
+Please alse be aware that usually are autematically shared with atleast NSA and
+may alse get depleyed in ether 2P I-IKS- By mid-2011 a new versien ef I-IKS sheuld have been
+depleyed where individual will still be depleyed in every KKS- but they can be
+tagged net te run en certain I-IKS- The enly exceptien is where yeu depley a micreplugin enly te
+GTE's I-IKS ?eet: these will net be visible te 2P partners.
+
+[edit] Types. nf 
+
+There are currently three different types ef I-IKS:
+
+- deitiena]
+I Stage 2
+a Deep Dive
+
+They differ principally en where in the precessing chain they sit whether the data they receive
+has already been sessienised er net and whether they ingest all ef the data they receive er
+whether they apply rules te enly ingest seme data.
+
+[edit] "firaditienal
+
+1ill-rhen I-IKS was ?rst develeped it was used te receive data frem lew data rate signals being
+precessed threugh WC sessienised all the data en the link and
+presented it all te I-IKS- data was ingested inte I-IKS-
+
+GCHQ has traditienal I-IKS at many ef eur sites- including all ef eur Cemsat. Terrestrial and SMD
+sites. The ?163 is alse a traditienal KKS- theugh in that case data has been sefily selected
+at the implant and sessienisatien takes place in TEE-RAIN. rather than WC-
+
+Stage 3
+
+Fer higher data rates. a ?Stage 2" ?163 was develeped te ingest data frem TURMDIL- 
+passes 5% cf the packets te I-IKS which I-IKS then sessienises. decides which 5% cf
+packets te pass based en the fellewing criteria:
+
+streng selectien
+
+subnet premetien
+
+technelegy premetien
+
+e-mail demains
+
+persena sessien premetien [where if a streng selecter is seen- IEII minutes? er MB ef data
+is cellected}
+
+I persena sessien eellectien [where the data is cellected and ferwarded te PINWALE
+but is alse passed te the 
+
+This data is then sent in the Stage 2 I-IKS- ether data is lest-
+
+at GCHQ uses a Stage 2 XKS-
+[edit] Deep Dive
+
+Deep Dive was develeped te preve that sessienisatien at IBIS data rates was pessible. First it
+sessienises all data en a link- Then it premetes data using the GENESIS selectien language te
+identify data types where we assess there is petential intelligence value and ingests these. The
+premetien precess can make ene ef three decisiens:
+
+I Sleek data that is legally net allewed in be in the system ie traf?c
+I data that is knewn te he wanted threugh use ef premetien rules
+I And then te drep any data that deesn't meet either ef these
+
+?ne ef the experiments in TINT is seeking te identify where the best balance lies between what
+is kept and what is net. facterin deciding hew much data te keep is the scale ef sterage
+capacity that can be previded-
+
+GCHQ already eperates a number ef Deep Dive I-IKS:
+
+ 
+
+2ef4
+
+Sef-s
+

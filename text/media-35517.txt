@@ -1,0 +1,265 @@
+I:l
+
+VALIANTSURF
+
+LI.
+
+ 
+
+VALIANTSU RF
+
+ 
+
+(VS):
+
+ 
+
+Beneficiaries
+
+ 
+
+Capability Level
+
+CES 
+LONGHAUL
+
+OTP 
+SSG
+
+TOPIS
+
+Link Access
+
+CES
+
+ 
+
+Key Recovery, no on-site
+
+
+ 
+
+Key Recovery, on-site SW
+XKS
+SIGDEV
+
+ 
+
+Key Recovery, on-site SW
+XKS SIGDEV,
+offsite processing of
+full take 
+
+ 
+
+Key Recovery, on-site SW
+XKS SIGDEV,
+on-site packet and
+session selection and
+forwarding of 
+
+ 
+
+NC
+
+ 
+
+
+
+ 
+
+Key Recovery, on-site HW
+XKS SIGDEV,
+
+et?taa?tgiiaaseazg??a
+
+
+ 
+
+added(capab
+
+ 
+
+. 
+lity over pr
+
+ 
+
+
+or level
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.
+
+ll.
+
+12.
+
+13.
+
+DNC (Data Network Cipher) target development performed using metadata
+TURMOIL DNC targeting in place (via U'l'l' KEYCARD) and needed CASNs on cover
+connectivity between CES backend and CA Servers at site
+
+CA Servers at site accessible, hardened, loaded and functioning
+
+Pairing exists for the targeted DNC IP addresses
+
+LONGHAUL is able to exploit the traffic
+
+VS-compatible TURMOIL software loaded
+
+XKS retrospective available for DNC plain text target development determine selectors)
+Bandwidth available and policy approves
+
+Plain text selectors loaded in TURMOIL and XKS
+
+Needed mission applications available in TURMOIL stage 1 prime
+2 functioning
+
+CA Server with hardware acceleration in place with sufficient TU network configuration
+
+VALIANTSURF (VS): Success Criteria
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Success Criteria Required
+VS Capability
+
+Level USA, FVEY
+
+ 
+
+ 
+
+VALIANTSURF (VS): Current Capability
+Status
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VS
+Capabilit VS Dependencies 13. CA HW
+Site 2 6 8 XKS 1o 11 Stage Cavium
+Exp|0itabl 7. Retro- . Selector 1' Included
+SIGDEV Server Pairing Spective Policy 5 Apps Stage2 Server 
+MUSC yes
+XCUT Eventua
+GH 
+CE
+1206:?: yes
+2406 IBM
+(6/11) 3650 yes
+PSK
+Defensi IBM Eventua
+ve 3650 lly*
+(1/11)
+Remaini
+ng I I
+Defensi CaVium cards still to be ordered for these 5 tes 536th Ev?ciua
+(9 206 is a dev system
+S'tes) TOP REL TO
+USA, FVEY
+
+ 
+

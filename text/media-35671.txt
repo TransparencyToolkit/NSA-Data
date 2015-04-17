@@ -1,0 +1,2458 @@
+OPSECRETIEOMINTHREL CAN, NZLI120291123
+
+. I
+
+ 
+
+Active/Passive Exfiltration
+"go apex?
+
+ 
+
+STDP: 832354 T112, 
+August 2009
+
+UNCLASSIFIED
+
+ 
+
+This presentation is classified
+
+TOP TO
+USA, AUS, CAN, GBR,
+
+
+UNCLASSIFIED 2
+
+TOP SECRETNCOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 1 Motivation: CES needs VPN keys!
+NCC In ment 3 Planning
+
+ 
+
+   
+
+1. NCC CA Service Re - a - aggregate for all VPN exploitation-enabled systems).
+Q4 FY09 (Risk Re
+Q4 FY10
+Q4 FY11
+2 N00 front end systems 5 a oce e. and re-inject) at least 20% of CA service requests Reinject Rate?)
+
+system (Assumptions 
+
+  
+ 
+ 
+
+6. Aggregate VPN buffering ..
+Q4 FY09 (Risk Reduc -
+Q4 FY10
+
+nd a cssin ate 
+4 VPN Systems Concurrent VPN Flows I System 100 Aggregate VPN Data! System
+
+10 VPN Systems
+
+   
+
+100 Concurrent VPN Flows System 100 Aggregate VPN Data! System
+
+   
+ 
+
+Q4 FY11 Concurrent VPN Flows I System 500 Aggregate VPN Data! System
+
+CES recei
+(TURMOIL)
+
+TURMOIL receives VPN ESP packets and them
+using the keys recovered by CES.
+
+But there are many VPNs that can?t see.
+
+TOP SECRETNCOMINTNREL TO USA, AUS, CAN, GBR, NZLN20291123 3
+
+100 VPN Systems
+
+   
+  
+ 
+
+packets from passive collection
+nd recovers VPN keys.
+
+TOP SECRETHCOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+Motivation: Leverage TAO
+
+ 
+
+active implants have a powerful Man-in-
+the-Middle capability to access data deep within
+target networks.
+
+I They can select packets and exfiltrate them back to the
+
+Common Data Receptor (CDR) at the Remote Operations
+Center (ROC).
+
+I HAMMERSTEIN: target any 5-tuple packet
+
+SrcPort, Dsth, DstPort, Protocol}
+I IKE: VPN key exchanges
+I ESP: VPN tunnels
+
+I HAMMERCHANT: target VolP phone numbers
+0 Process signaling
+0 Forward targeted phone call RTP media sessions
+
+But CDR has limited input bandwidth.
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 4
+
+SECRETIICOMINTII20291123
+
+ 
+
+
+
+Combine Active Passive?
+
+SECRETIICOMINTN20291123 5
+
+TOP SECRETHCOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+Motivation: Why?
+TURBULENCE High Level Concept: What?
+
+Details: How?
+I FASHIONCLEFT Exfiltration Protocol
+0 Definition
+0 Processing Required
+I Turmoil Architecture
+
+I Turmoil Implementation
+0 Packet Reinjection: Stage 1 Prime
+0 Packet Processing Framework: 
+0 Packet Routing: different Transform Engines
+
+Complexity
+Challenges
+Phased Development
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 6
+
+SECRETHCOMINTII20291123
+
+(U) TURBULENCE Architecture
+
+
+
+
+.
+
+. .
+itINIEGRATICJN
+
+ 
+
+SECRETIICOMINTH20291123 7
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZLI120291123
+
+ (U) Sensors: Passive Collection
+
+ 
+
+ 
+
+Accesses  High-speed passive collection
+TURMOIL systems intercept foreign target satellite, microwave,
+
+and cable communications as they transit the globe.
+TUTELAGE
+
+Implants (TAO)
+
+i
+1% - lnl??ll? 
+
+I 
+. .
+
+Care
+:F?h?[:11NUTS: i 
+
+
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+I EL TO USA, AUS, CAN, GBR, NZU120291123
+
+TURBINE bi th
+(T em 95 
+
+automated management and control of a
+large network of active implants
+
+TURMOIL
+TUTELAGE
+
+Implants (TAO)
+
+
+[are
+
+ 
+
+ 
+
+TOP SECRETNCOMINTNREL TO USA, AUS, CAN, GBR, NZLN20291123
+
+ 
+      
+   
+   
+ 
+ 
+
+'1 1
+
+Exfil Path
+
+ 
+
+   
+  
+
+ 
+ 
+
+  
+ 
+
+Tailored Access
+Df?ee Remote
+
+ 
+
+ 
+
+     
+
+
+
+ 
+   
+      
+  
+
+
+
+
+-
+5333, server
+
+ or VPN
+
+  
+
+Tailored 
+Df?oe Remote
+
+ 
+
+ 
+
+    
+
+a PRESSUREWAME 
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+FASHIONCLEFT Exfiltration Protocol
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+TOP SECRETHCOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+FASHIONCLEFT
+
+Definition: protocol used by implants to
+exfiltrate collected network packets to the Common
+Data Receptor (CDR, aka FLAXENPRECEPT).
+
+ 
+
+ 
+
+Provides support for:
+I Metadata Authentication/Integrity AntiReplay 
+I Data 
+I Uses 1024-bit RSA, 128-bit RC6, 
+
+Based on DNT standards:
+I FOGYNULL (DNT Exfiltration Protocol)
+I FUNNELAPS (DNT Exfiltration Data Format)
+I SHELLGREY (DNT Exfiltration Metadata Format)
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+TOP SECRETHCOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+How To Exfiltrate IP Packets
+
+ 
+
+1 Select packet based on tasking.
+
+2. Make a copy of the selected packet.
+3. Modibl packet IP destination address.
+4
+
+Modin other protocol fields (IP, UDP, TCP) as needed
+to bypass firewalls and to tag packets for ID.
+
+5. Optionally Transport layer payload.
+6. Send modified Data Packet (DP) to new destination.
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+Receiver: Needs Metadata
+
+ 
+
+Metadata explains how to:
+
+ldentibl an exfil packet and the implant source.
+
+Recover original IP destination address.
+
+Recover other original protocol fields (IP, UDP, TCP).
+Contains Key to transport layer payload.
+
+
+
+Metadata sent in a Session Announcement (SA)
+0 SAs is an packet sent to a destination IP/port.
+0 Multiple copies of SA sent to mitigate dropped SA packets.
+
+Receiver is dynamically configured with:
+
+0 SA IP/ports, Infrastructure Implant Private Keys
+0 Processing Mode: Reconstruct or Reinject
+
+TOP SECRETMCOMINTMREL TO USA, AUS, CAN, GBR, NZLM20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+IP Header
+UDP Header
+
+ 
+
+ 
+
+SA Payload in UDP Transport Layer 
+I Infrastructure Header (128 bytes) 3:324
+RSA w/ Infrastructure Public Key 
+Contains Packet-Ir-Dam r1
+- {Deploymentld, Targetld, lmplantld}
+I Implant Header (128 bytes) ep?os
+0 RSA w/ ?8 Public Key im?'liil'izro?im
+
+ 
+
+ode 0x02
+
+0 Contains 
+
+I 128-bit CV, MI, and CRC-16 checksum for
+Exfil/Metadata Block
+
+
+I Exfil/Metadata Block (variable) 
+RC6 w/ CV MI
+Minimum packet length 344 bytes
+
+ 
+
+UFOGYNULLE
+
+ 
+
+
+Exfil-Id 
+Exfil-Type Packet
+Time-oI-lntercept 
+Filter-Id 0x12
+
+ML
+Bytes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I:
+
+SHELLGREY 
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+FASHIONCLEFT
+Session Announcement Processing
+
+ 
+
+Look for SA packets:
+1) at destIP/destPort; protocol=UDP,
+2) that are at least 344 bytes long, and
+3) whose first 128?bytes of Transport Payload ?look random".
+(Easy/quick initial checks)
+1. RSA INF-HDR w/ Infrastructure Private Key.
+Authenticate w/ SHA-1
+(Slow secondary check; can?t withstand much non-SA traffic on IP/port)
+1. RSA IMP-HDR w/ ?5 Private Key.
+- Authenticate w/ SHA-1
+1. RC6 Exfil/Metadata w/ CV and MI
+- Perform CRC-16 integrity check.
+. Anti-Replay Check 81 New Session/Retransmit Check
+2. Extract Metadata and create Collection Filter rule for DPs
+
+Metadata contains either 5?tuples or pattern/mask/offset that match DPs
+prEvent.cheCF.tuple (5-tuple)
+
+1.
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+FASHIONCLEFT
+Data Packet Processing
+
+ 
+
+1. Identibl an exfil packet that matches DP filter rule.
+2. Modibl to original IP destination address.
+3. Modibl to original protocol fields (IP, UDP, TCP).
+4 transport layer payload.
+Have now recovered the original captured packet.
+
+1. Associate metadata with recovered packet.
+agentCaseNotation, Turmoil link caseNotation
+
+1. Perform protocol specific processing.
+Pre-selected: forward all traffic to 
+Re-inject back into Turmoil Stage-1
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+TAO Remote Operations Center
+Common Data Receptor
+
+OPTICPINCH
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+    
+  
+
+ 
+
+lec?on
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VINYLSEAT 
+(Email)
+One-Way
+Link
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SURPASSPIN ROOTKNOT ROOTKNOT PINWALE
+
+Outer Pitcher Catcher
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OLYMPUS
+(Files)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Office of Target Pursuit
+(Forensics Lab)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITEDRAKE
+Manual
+Processing and
+TREBLECLEF FTP
+Common Data Receptor SWEEPFORWARD
+
+ 
+
+ 
+
+ 
+
+ 
+
+Streaming Packets
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+UNCLASSIFIED
+
+ 
+
+TURMOIL Architecture
+
+UNCLASSIFIED 20
+
+ 
+
+   
+
+Crucial for 880 and the
+desire of dynamic
+tasking.
+
+sequences of
+associated
+packets
+assessing the
+value of their
+associated
+sessions
+
+SECRETIICOMINTH20291123
+
+What we are currently
+focused on
+
+Examines
+sequences of
+associated
+sessions
+assessing the
+value of their
+associated
+applications
+
+TURMOIL Architecture
+
+
+
+What we promised to
+also do for 
+
+ 
+
+Examines
+sequences of
+associated
+applications
+
+assessing the
+value of their
+
+associated entities
+(targets/people).
+
+ 
+
+Examines
+sequences of
+associated
+en??es
+
+assessing the
+
+value of their
+associated
+
+social network.
+
+ 
+
+21
+
+  
+  
+
+ 
+
+Packet
+Processing
+
+Framework
+(PPF)
+
+ 
+
+ 
+
+ 
+
+SECRETHCOMINTH20291123
+
+Message Bus
+
+    
+
+  
+
+PreProc
+
+ 
+
+  
+ 
+
+vent
+ngine
+
+ 
+
+State Engine
+
+Transform
+Engine
+
+ 
+
+Delay Flow
+Control
+
+Contr
+ol
+
+       
+ 
+
+Ev -
+En
+
+  
+
+Event
+Message ngme
+Bus
+
+ 
+
+SECRETHCOMINTH20291123
+
+Pm 
+
+ 
+
+   
+   
+  
+    
+ 
+
+  
+ 
+
+Operat
+
+
+ 
+
+State Engine
+State Engine
+
+SECRETHCOMINTH20291123
+
+stress ta
+Social
+
+
+
+(A Data 
+
+   
+      
+
+       
+ 
+      
+ 
+   
+   
+    
+ 
+  
+
+essage Bus
+
+ 
+
+Delay Flow Control
+
+Engine
+
+Delays packets for 3-30
+
+sec then drops un-
+
+wanted packets and
+
+sends the rest to
+
+requested Transform
+
+engines
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Opera
+te
+
+State E_ngine
+Message ngine State Engine
+
+Bus 
+
+ 
+
+ 
+
+ 
+
+23
+
+SECRETHCOMINTN20291123
+
+Event Engines: Detect
+
+ 
+
+li rv ti 
+Stateless - does not store data or Ub Obse a 0 
+
+metadata Each engine can be specialized and
+
+(Atomic Event Generator AEG) optimized based on incoming speed
+Eva|uati0n Oftraf?c I Software and/or Hardware
+Examples:
+
+1. Detect VPN setup:
+IKE key exchange.
+
+2. Detect VPN tunnel:
+ESP packets.
+
+3. Detect signaling:
+H.323, SIP, Skype, etc.
+
+4. Detect FASHIONCLEFT
+Session Announcement.
+
+    
+
+
+Delay Flo 
+
+ 
+
+      
+
+Opera
+te
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+  
+  
+
+ 
+  
+  
+
+ 
+
+ 
+
+ 
+
+Event
+Aessage ngine
+Bus
+
+State E_ngine
+State Engine
+
+ 
+
+Data
+
+24
+
+ 
+
+TOP SECRETHCOMINTNREL TO USA, AUS, CAN, GBR, NZLN20291123
+
+State Engines: Control
+
+ 
+
+Receives published events from Event Engines and makes processing
+deCI3ions.
+
+Choreographs activity for data flows (Stateful Event Generator SEG)
+I Correlates multiple published events
+I Starts/stops transform processing engines
+I Publishes decisions about the flow
+
+Each State Engine can be specialized and optimized
+
+Examples:
+
+1. Associate VPN 
+traffic with recovered VPN
+keys.
+
+ 
+
+2. Associate signaling
+w/ phone call.
+
+3. Track FASHIONCLEFT
+new, keepalive, replay?
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State E_ngine
+
+
+
+Data
+
+TOP SECRETNCOMINTNREL TO USA, AUS, CAN, GBR, NZLN20291123 
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Transform Engines: Grooming
+
+ 
+
+Receives orders from State Engines
+
+Operation applied to a data object that does not change its level of
+abstraction.
+I Packet upPacket(s)
+I Session n}Session(s)
+Groomed data object can then be re-injected or sent forward
+
+Examples:
+
+1. 
+
+2. Reconstruct original
+packet from
+
+FASHIONCLEFT Data
+Packet. EV
+- ol
+En
+ Data 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+ 
+
+ 
+
+vem State E_ngine
+
+Message . . . - .
+Bus 
+
+ 
+
+UNCLASSIFIED
+
+ 
+
+TURMOIL Implementation
+
+UNCLASSIFIED 27
+
+  
+
+Packets
+
+Packet Processing
+Framework (PPF)
+
+Command Control
+
+
+
+Operator
+
+UNCLASSIFIED
+
+ETIps/Aiens
+
+:Selectors
+
+ 
+
+UNCLASSIFIED
+
+ Stage 1 with Stage 1?
+
+Reinjected Packets
+
+ 
+
+ 
+
+ 
+
+UNCLASSIFIED
+
+TURMOIL Stage 1? (Stage One Prime)
+
+ 
+
+Relnjecteo? Packets 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+  
+  
+ 
+
+   
+  
+    
+   
+   
+   
+   
+  
+
+ 
+
+Stage 1: Flow Control
+Packet Processor Transform Engines
+Processing (FCP) (TES)
+
+
+
+Packet Filter
+(FSPF)
+
+    
+
+Relnjecteo?
+Packets (2)
+
+ 
+
+Packet Processing
+Framework (PPF)
+
+Processor
+
+ 
+
+ 
+
+ 
+
+Sessions Bundles (No Relnjectlon ulreo?)
+
+ 
+
+ 
+
+ 
+
+ Metada
+Allocator
+
+UNCLASSIFIED
+
+ 
+
+SECRETHCOMINTH20291123
+
+ TURMOIL Stage 1 PPF Engines
+
+  
+
+     
+ 
+  
+  
+ 
+   
+   
+   
+ 
+
+Subnet
+
+?5
+3
+
+
+
+
+
+
+a
+
+Technology
+
+Pmmoted
+Hits
+
+  .-
+
+ 
+
+ 
+
+Packets Matching
+Criterion to AEGS QUANTUM AEG
+
+  
+
+ 
+
+APEX AEG APEX SEG
+
+Selected
+
+
+
+VolP SIP AEG SIP SEG -
+
+SIP Hits tb DFCE
+H323 Hiti; to DFCE
+Hits to DFCE
+H.323 SEG Hits :Ito DFCE
+
+I
+
+
+H.323 AEG
+
+Filter Criterion
+from AEGS
+
+ 
+
+VPN IKE AEG VPN IKE SEG
+
+VPN ESP AEG VPN ESP SEG
+
+?5
+3
+
+
+
+
+
+
+0
+
+Application
+Message
+I I I 
+
+ 
+
+Targeting
+Query/Response
+
+KEYCARD
+
+ 
+  
+
+ 
+
+SECRETIICOMINT1120291123
+
+   
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+TURMOIL Stage 1 Packet Router
+
+olP Packe
+
+VPN TE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Re-inject (Stage 
+
+TOP SECRETIICOMINTNREL TO USA, AUS, CAN, GBR, NZLN20291123
+
+
+
+ TURMOIL Stage 1 Sessionizing TE
+
+ 
+
+Routed 
+
+ 
+
+ 
+     
+ 
+
+ 
+
+PPF Event
+
+
+SECRETIICOMINTH20291123
+
+   
+ 
+  
+
+SECRETHCOMINTII20291123
+
+TURMOIL Stage 1 APEX Bundling TE
+
+ 
+
+All
+Packets
+
+ 
+
+??Hitsl! I
+
+i'
+
+PPF Event
+"Hits"
+
+SECRETIICOMINTH20291123
+
+
+
+TURMOIL Stage 1 APEX Re-lnjecting TE
+
+ 
+
+ 
+
+     
+
+All
+Packets
+
+ 
+     
+     
+ 
+
+
+
+I
+I
+I
+
+
+
+PPF Event
+"Hits"
+
+. ?His?
+
+
+  
+
+DFID for Sub-s tream
+
+ 
+
+SECRETIICOMINTH20291123
+
+
+
+TURMOIL Stage 1 Metadata Processor
+
+ 
+
+Stagel ASDF
+
+ASDF Metadata to Sta 92
+Reporter 9
+
+IKE
+
+Events to BME VPN Metadata
+to Stage 2
+
+ESP
+Events to BME
+
+IVE Metadata to Stage 2
+
+Atomic Event Stateful Event
+Generator Generator
+(AEG) (SEG)
+
+EF Metadata to Stage 2
+
+ 
+
+SECRETIICOMINTH20291123
+
+TOP SECRETHCOMINTNREL TO USA, AUS, CAN, GBR, 
+
+TURMOIL Stage 1 VPN TE
+
+ 
+
+  
+  
+ 
+ 
+ 
+     
+ 
+
+Selected
+
+Packets
+
+All
+Packet. 
+
+
+ 
+
+    
+     
+
+ 
+
+ 
+
+ 
+
+??Hirs 
+
+PPF Event
+"Hits"
+
+ 
+
+for Stream
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+ 
+
+
+
+
+
+TDKS Container
+
+ 
+
+
+
+SECRETHCOMINTII20291123
+
+Apeerg CF (5TUP CAID Pid_PSel MD)
+
+ 
+
+       
+   
+    
+   
+
+Pid_PSel
+Packets
+(VOIP)
+
+ 
+
+5A Keyword
+
+ApexSeg CF
+
+  
+
+ 
+
+ 
+
+ 
+
+Apeerg CF (5TUP CAID Pid_Rec MD)
+
+ 
+
+Recursive Stagel?
+
+ 
+
+ 
+
+Ike Metadata Event
+-- - 
+Ike Keywords
+
+ 
+
+ 
+
+ 
+
+SECRETIICOMINTH20291123
+
+
+(- 
+
+SRI
+
+
+ 
+
+revOOZ
+37
+
+UNCLASSIFIED
+
+ 
+
+Complexity
+
+UNCLASSIFIED 38
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+Complexity
+
+ 
+
+I APEX Sequence Diagram
+I Tasking
+I Look for: FASHIONCLEFT Session Announcements.
+I Recognize SA
+I Look for: FASHIONCLEFT Data Packets
+I Recognize DP
+I Route DP to Bundling or Packet Reinjection TE
+I Reconstruct, Attach Metadata, Output/Reinject
+
+I VPN Dataflow Sequence Diagram
+I Recognize VPN IKE Packets
+I Send IKE Metadata to CES TOYGRIPPE database
+I Send targeted IKE to CES POISON NUT for VPN key recovery.
+I Recognize VPN ESP Packets
+I Save targeted ESP in big buffer and request VPN key from CES.
+I If receive VPN key, and Reinject.
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+PEX Tasking Data Flow Sequences
+
+Active/Passive Exfiltration (APEX)
+Taskin and Data Flow Sequences
+
+FIP Metad ata Tbus TUBE Pressure CWB Analyst
+Bundler Injector IoPort Wave Ar?yic CLBE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stage 0 DFID 2 second FSPF DFCE Packet
+Allocator Delay Router
+Tumd
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+torelRetrieve Keys is Implant Contig
+Task Turbine
+Task Turmoil: Task Im :Ilant (not shown)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Deliver Tas ing to Apex AEG
+ublish Tagkinq to Apr Mission :omponent
+
+En?gure SA Filter 
+
+ 
+
+ 
+
+ 
+
+Filtered set Packets i 
+SA Packets
+AntiReplaleetransmit Check
+
+ 
+
+ 
+
+ 
+
+ 
+
+Publish session lnitiationlUpdatef'ermination PplEvent containing:
+DP collectionFiIters SA metadata extracted from SA
+unique message ID communicationsAssociationld (cald)
+routing ID specilies processing path based on Tasking 
+i Store PptEventin local cache_
+
+ 
+
+
+
+ 
+
+ 
+
+Tag eachpacket with a streamld Data Flow Identi?er DFID) based on Staget) source
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.
+
+ 
+
+I
+
+Filtered Packets: tagged with said or PpIEvent that caused collection
+
+Make routing decision: use cald to lookup PplEvent which contains route 
+i i i 
+
+i (Packets have been pre-selected by Implant)
+
+Bundle kets based on 5?tuple (or possibly cald)
+
+Use cald to query PplEvent cache and retrieve SA metadata
+
+Use Streamld(DFlD) to query DFID Allocator and retrieve Stage-0 metadatarSRl
+I I
+
+I DP Packet' Bundle tag'ged with SA and Stage-0 metadata
+
+DP Packet Bundletagged with metadata
+
+Store ex? trated DP Pressurewave Packets)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Retrieve ex?ltrated packets meta: ate and process
+
+ 
+
+ets will reinjected 
+
+ 
+
+ 
+
+ 
+
+Use cald to query PplEvent cache and retrieve SA metadata
+Is this the first packet received with this cald? (Is the channelld empty?)
+
+?33
+
+Use Streamld(DFID) to query DFID Allocator and retrieve Staget) metadatarSRl
+
+NO
+
+ 
+
+ 
+
+ 
+
+Creg new SOTF session with unique channelld, tagged with SA and Staget) metadata
+Allocate new streamld(DFID) Irom DFID Allocator for this channelld and save metadata
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dec Qeconstructed DP sent to SOTF(channeld)
+Reinject ex?ltrated DP back imlo Turmoil IKE or ESP packets)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+VPN FIOW
+
+ 
+
+   
+ 
+     
+  
+
+  
+  
+
+Selection
+Validationl
+Normalization
+
+ 
+
+  
+ 
+      
+
+1st
+Stage
+
+Packet
+Filter
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+ij PreProc 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SIGDEV
+
+<sorf> sessions
+
+Packet Data PPF Component
+Keyword Management 
+
+ppl: Messaging External Service
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+TUBE Mar-tome,
+
+WC2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+PN Sequence Diagram
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Analyst Stage 0 DFID PPF PPF KEYCARD CS DFCE FIP IDAL PIQ METT A0
+Allocator Event Filter Delay VPN Services Decomp
+Address Selector with Action TRANSFORMEPackets?2:5 PaclwiPPF Even. :_lp Look? I 30 
+I
+I Secs I?Controlf ow Message?Racketsskiers?p I I Packets IKF Session IKE . {demonIKE SeasonSession?h
+Even Look? I Secs SJRVEY I I 
+I I 
+I Controlf our Message Packets ESP Packets . ESP I I I i
+I I Session Session . Metadata I --Key Request .:34] ,4 Key Response Session 3555Packets New DFID Request RoutingCaIego'y SIGDEV I I I
+I I i New DFID Deonpted Paoke New DFID w'lh I I i I 
+I Routingtjategory t-?ilts?llI-v |?Contlolflovir Message for new Packets Fdhk?_? I 
+30 I I 
+Secs i I 
+I I I
+Packets I 
+I I
+
+Packets I
+Sessions I
+Sessions 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 
+
+UNCLASSIFIED
+
+ 
+
+Challenges
+
+UNCLASSIFIED 43
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Challenges
+
+ 
+
+SIGDEV
+I Find target networks/devices with desired traffic.
+- 
+I Exfiltration path discovery from device to Turmoil.
+0 COALSHOVEL
+
+End-to-End Metadata Processing
+I Provide CES with appropriate metadata for VPN mission.
+
+I Provide with appropriate
+metadata for analytic.
+
+I Two Case Notations:
+I Link collected by Active Implant: ?new? agentCaseNotation
+I Link collected by Passive System: ?current? caseNotation.
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Challenges
+
+ 
+
+Classification Legal Authority
+I Some TAO implants/accesses are compartmented.
+The highest priority VPNs are likely on compartmented accesses.
+I We?d like to exfil packets to high-bandwidth 880 sites
+0 Ensure compliance with FISA FAA PAA SP0018.
+
+Future Automation
+I Turbine tasks both Active Passive collectors
+I Automated Path Discovery
+I Dynamically task Active system using Passive selectors
+
+Exfil signaling to Turmoil for selection:
+I task selected calls for exfil.
+
+Exfil VPN ESP tunnel starts to Turmoil for selection:
+I task exploitable tunnels for exfil.
+
+0 Apply automated OPSEC policy to manage exfil bandwidth CPU
+utilization on implanted device.
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+UNCLASSIFIED
+
+ APEX Phased Development
+
+ 
+
+I Command Control
+VPN
+
+
+UNCLASSIFIED 46
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+APEX Command Control Phases
+
+I Phase 1: Manual Configuration (Spin 15)
+
+HAMMERMILL is configured via existing command interface.
+Simultaneously TURMOIL APEX is provided a configuration file for this HAMMERMILL mission.
+
+A human is responsible for keeping the two in sync.
+
+I Phase 2: Semi-automatic Configuration
+
+TURBINE receives mission parameters and automatically configures both the HAMMERMILL
+Implant and the TURMOIL APEX components.
+
+TURBINE-HAMMERMILL interface uses CHIMNEYPOOL RPC commands and requires
+HAMMERMILL veISIon 2.5.
+
+TURBINE-TURMOIL interface uses ISLANDTRANSPORT.
+
+I Phase 3: Dynamic Targeting
+
+TURBINE sets initial configuration as in Phase 2.
+Exfiled traffic is evaluated by TURMOIL components+KEYCARD for selection decisions.
+TURMOIL messages to TURBINE to dynamically target a particular flow through the implant.
+Example:
+
+I TURMOIL receives an IKE key exchange (and possibly a few initial packets)
+
+I TURMOIL evaluates the IP addresses to decide if the VPN being set up corresponds to a target
+
+I If so, TURMOIL message to HAMMERMILL via TURBINE to capture/exfil corresponding ESP traffic.
+
+This Bhase must be mana ed so that router exfil does not exceed the tolerable bandwidth limits set
+by 0_ SEC and operatIona concerns. TURBINE may need to Implement addItIonal workflows to
+monItor and control exfII volume.
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Tasking ICF (Implant Control File)
+
+INFRASTRUCTURE CONFIGURATION FILE
+
+ 
+
+TEST-APEX-1
+
+Wed Jan 28 14:38:59 2009
+Test ICF for Apex Development
+0X0001
+
+1
+
+0x00000002
+
+0x00000003
+
+
+10.0.0.1
+
+TESTHOST
+
+
+
+
+Tunnel-Id: 1-TCP_Redir, 2-Fashioncleft, 
+./genkey -1 128
+
+2:10.1.1.2:10002
+5366fbe1 7f7a05fd 33d66a6f 3581de48
+
+
+
+RSANAME 
+RSAINFO Wed Jan 28 14:38:59 2009, ./rsagenkey v2.0
+RSASIZE 1024
+RSAMOD 32
+0xdb532e9d, 0x930792fc, 0x4459fc40, 0x07744065,
+RSAMU 33
+RSAPRIV 32 
+RSAPUB 32 
+
+
+RSANAME 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Tasking XML (FlashHandle Mission Manager)
+
+<?xml 
+<dci>
+<header>
+<fullyQualifiedId>
+<protocol>
+
+
+</protocol>
+<targetId>2<ltargetId>
+
+
+
+</fu11yQualifiedId>
+
+
+</header>
+<commands>
+<command name="fogynullControls" 
+<parameters>
+<parameter 
+<parameter 
+<parameter 
+<parameter 
+</parameters>
+</command>
+<command name="implantLp" 
+<parameters>
+<parameter 
+<parameter 
+<parameter 
+</parameters>
+
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123 49
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+Tasking XML (Turbine a a Turmoil)
+
+<?xml 
+<task:message 
+<task:taskAdd>
+
+
+<sessionConfigTask>
+<taskSecurityMarking classification="TS" coi="c0MINT" disseminationControls="REL"
+sCIcontrols="SI" releasableTo="USA AUS CAN GBR legalAuthority="RAWSIGINT" 
+
+ 
+
+<header> </header>
+<commands>
+<fogynullControls>
+
+
+
+<antiDelay>0<lantiDelay>
+<timeWindow>1800<ltimeWindow>
+
+</fogynullControls>
+
+<apexControls>
+
+
+
+
+
+</apexControls>
+
+<implantLp>
+
+
+<port>10002<lport>
+
+</imp1antLp>
+
+
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+APEX VPN Phases
+
+ 
+
+I VPN Phase 1: IKE Metadata Only (Spin 15)
+I IKE packets are exfiled to TURMOIL APEX.
+I APEX reconstructs/reinjects IKE packets to the TURMOIL VPN components.
+
+I TURMOIL VPN extracts metadata from each key exchange and sends to the
+CES TOYGRIPPE metadata database. ThIs database I_s used by SIGDEV
+to IdentIfy potentIal targets for further expl0ItatIon.
+
+I VPN Phase 2: Targeted IKE FonNarding (Spin 15)
+I TURMOIL VPN looks up IKE packet IP addresses in KEYCARD.
+
+I If either IP address is targeted, the key exchange ackets are forwarded to
+the CES Attack Orchestrator (POISON NUT) for PN key recovery.
+
+I VPN Phase 3: Static Tasking of ESP
+I HAMMERSTEIN receives static tasking to exfil targeted ESP packets.
+I APEX reconstructs/reinjects ESP packets to the TURMOIL VPN components.
+I TURMOIL VPN requests VPN key from CES and attempts 
+
+I VPN Phase 4: Dynamic Targeting of ESP
+
+I Based on the value returned by KEYCARD, the ESP for a particular VPN may
+be targeted as well.
+
+I TURMOIL sends to HAMMERSTEIN (l\\/lia TURBINE) the parameters for
+capturIng the ESP for the targeted VP .
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+APEX VolP Phases
+
+ 
+
+I VolP Phase 1: Static Tasking of (Spin 16)
+I
+
+HAMMERCHANT monitors VolP signaling and exfiltrates only targeted VolP
+RTP seSSIons to TURMOIL.
+
+I APEX reconstructs and bundles the voice packets into a file, attaches appropriate
+metadata, and deIIvers to PRESSUREWAVE.
+
+I This triggers a modified VolP analytic to prepare the for corporate delivery.
+
+I VolP Phase 2. Call Survey
+
+I HAMMERCHANT monitors VolP signaling and exfiltrates all call signaling
+metadata to TURMOIL.
+
+I APEX inserts call signaling metadata into an ASDF record and publishes it to the
+TURMOIL Asdeeporter component for target SIGDEV.
+
+I VolP Phase 3. Dynamic Targeting of 
+I HAMMERSTEIN captures/exfils all VolP signaling
+I APEX reconstructs/reinjects the signaling to the TURMOIL VolP components.
+I TURMOIL VolP extracts call metadata and sends to checks KEYCARD for hits.
+I
+
+If _called/callinlg party is targeted for active exfil, then TURMOIL sends to HAMMERSTEIN
+TURBINI 
+
+the parameters to capture the targeted RTP session.
+I Implementation of Phase 2 and 3 will be driven by mission need.
+
+I Phase 3 levera es all TU RMQIL VolP signalin protocol processors to expand beyond
+SIP and H.323 (Beg. Skype) WIthout addItIonal evelopment on the Implan .
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLH20291123 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+Performance Status Metrics 
+
+MHanmdc-apex: Tunmoil Input [2339-33-FEB-B
+Aug packet slze Eutes E13 m1nutes old]
+Input Max Mpitsxsec [13 mi utes old]
+Input Aug MbitSKsec [5 tes old]
+633.3 - Input rir.ets3sec [13 - 1 es old] - 633.3
+533.3 533.3
+A
+433.3 433.3
+II
+333.3 - 333.3
+
+333.3 - a 333.3
+133.3 - - - - - 1333.8
+3Bf11 33f12 33313 3Bf14 33315 3Bf16 3Bf1?
+33:33 33:33 33:33 33:33 33:33 33:33 33:33
+Apex Sessions [3339-33-1? 15:33:52]
+35-3 I I I I 35-3
+
+ 
+
+I I I 
+Session Announcements 3 5min [5 minutes old] 
+Heu Session Announcements 3 5min [5 minutes old] 
+
+Replau Announceme I min [5 minL olt]
+Actiu 3 ns [13 min olt]
+ession Exfi ns [13 min r] 
+Cache Mi min [5 min 
+15.3 - - - - - 15.3
+
+133ll.ll.|I.l . - 
+
+33311 33313 38f13 33314 33K15 33316 3331?
+33:33 33:33 33:33 33:33 33:33 33:33 33:33
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+Performance Status Metrics
+
+ 
+
+Apex Sessions [3339-33-1? 15:33:52]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3535-3
+Sesston Announcements 3 5min E5 m1nutes old] 
+Heu Session Announcements 3 5min [5 minutes old] 
+Replau Announceme I min [5 minL olt]
+Actiu 3 ns [13 min olt]
+ession Exfi ns [13 min r] 
+Cache Mi min [5 min 
+15.3 - - - - - 15,ll.ll,| . . 
+33311 33313 38f13 38314 33315 38316 3831?
+33:33 33:33 33:33 33:33 33:33 33:33 33:33
+
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+(JP-SECRETIICOMINTIIREL CAN, 
+
+    
+
+QueStions?
+
+"go apex}!
+apex chat room on LINKUP
+
+ 
+
+STDP: 832354 T111, 
+

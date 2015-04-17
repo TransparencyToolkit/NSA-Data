@@ -1,0 +1,401 @@
+ What Your
+Mother Never Told
+You About SIGDEV
+
+Ana'ys's?
+Net Pursuit
+Network Analysis Center
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i Wm USA, Aus, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+What have I learned in
+
+my first two years in
+to understand the data that
+
+you are searching against
+
+Important to understand the hidden
+treasures and nuances in various SIGDEV tools
+
+Nothing is 100%: there are always
+exceptions to the tools and the rules
+
+Took a network view of VPNs
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+Makes
+
+SIGDEV Analysis Challenging?
+
+Requires knowledge 
+Access and collection
+Network protocols
+Routing
+
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+Challenges 
+
+Technical jargon and abbreviations
+IPSEC
+IKE
+MPLS
+PSK
+PPTP
+
+GRE
+Cisco commands
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+
+
+Tools
+=4 How to use them
+Knowing that they exist
+
+=4 Multiple query languages
+SQL for TOYGRIPPE
+
+Oracle Text Query in DISCOROUTE
+=4 Quantity
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+Tools
+
+DISCOROUTE
+
+BLACKPEARL
+
+TOYGRIPPE
+
+GNETWORK GNOME
+NKB RONIN
+
+XKEYSCORE
+
+TREASUREMAP
+
+RENOIR
+
+
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+
+WSWREL) Building Network
+OW I ed 9 
+
+ 
+
+
+
+XKEYSCOKEEYSCORE
+
+Maximize the 0' of the tools for
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+L)
+
+DISCOROUTE
+
+router configuration database
+
+ 
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+
+
+ DISCOROUTE
+
+(C) NAC project to acquire, parse, database
+and display configuration files from network
+devices
+
+(C) Allows to mine device configs for
+SIGDEV discovery
+
+Router confi'
+
+ 
+
+ 
+
+   
+
+a rich source
+
+ 
+
+ 
+
+network an i information
+
+ 
+
+ 
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+ 
+because they all
+
+belong to a device and they all have a purpose in
+the network
+
+Search for
+Endpoint 
+Loopback 
+Opposite end of a point-to-point connection
+found in pings and telnets
+
+Make note of the source and
+destination of the config
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+DISCOROUTE
+Cou?r?a  
+
+lP Search
+
+Text Query
+
+Manifest Tag Selection
+Keys
+TAO Pop
+Multihop
+
+VPN report
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+Wm USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+DISCOROUTE: Country
+
+Search
+
+lPGeo lookup on every IP address
+that is parsed
+
+Configs with only private will
+not show up in the results of a country search
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+a;
+
+
+DISCOROUTE: Searching for IP
+
+TextAdBd/ne sees
+
+searches through the payload
+
+If you only search using this field, then you will miss
+configs that have your of interest as the source and
+destination address
+
+configs where your IP falls within the range of the interface mask
+
+IP address field search
+
+searches through the parsed file
+
+If you only search using this field, then you will miss configs with
+your of interest in pings, telnets, arp commands
+
+ 
+
+TOP TO USA, AUS, CAN, GBR, NZL
+
+i
+
+DISCOROUTE Search 1Feb
+to 13 Apr:
+
+in the payload
+
+3 results
+
+IP Address Search: searching for the IP in the
+parsed file
+
+Exact lP search
+De-duped by most recent
+28 results (27 had as the source IP)
+Somalia Country search: 66 results
+(12 of those had a source IP of?)
+
+Difference: lP was the source IP for configs more
+times than it occurred in the payload data
+
+7
+
+Why fewer configs for
+
+in the Country
+
+search?
+
+12 as opposed to 27
+Geo location fo?
+
+was Hong Kong for a period of time
+
+Geo is assigned to router configs
+at the time of ingest and not changed if the IP
+location is corrected
+
+ 
+
+
+
+Data Found in a Text Query:
+
+<lLetwork in a Huawei Config
+
+04:19:05 2011/06/18
+Current total sessions 19
+
+udp VPN: public public?
+
+ 
+
+ 
+
+ 
+
+lnner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Press to abort
+
+Connected to_ 
+
+ 
+
+QueStion 
+
+SSG22
+Network Analysis Center
+
+ 
+

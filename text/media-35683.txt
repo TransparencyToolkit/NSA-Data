@@ -1,0 +1,814 @@
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+SNOWGLOBE:
+
+From Discovery to Attribution
+
+ 
+
+CSEC CNT Cyber CI
+SIGDEV 2011 Cyber Thread
+
+Safeguarding Canada?s security through information superiority dl?i'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OVERVIEW
+
+Safeguarding Canada ?5 security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a.
+
+Overall Classification: TOP SECRET ll COMINT REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Overview
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Discovery
+
+- Development
+
+- Victimology
+
+- Attribution
+
+- SNOWGLOBE.
+
+Questions and Comments
+
+Safeguarding Canada's security through information superiority a
+
+Pr?server la s?curit? du Canada iar la sui?riorit? de i'information
+
+ 
+
+ 
+
+I Communications Security Centre de la s?curit?
+Establishment Canada
+
+Overall Classification: TOP SECRET ll COMINT ll REL TO CAN, AUS, GBR, NZL, USA
+
+   
+
+des telecommunications Canada
+
+ 
+
+ 
+
+  
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+ 
+
+ 
+
+ 
+
+DISCOVERY
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+Discovery
+
+- Discovered in November 2009
+- Existing CNE Access
+
+- WARRIORPRIDE as a sensor
+
+REPLICANTFARM for anomaly detection
+- XML info from implant
+- Signature-based detection of anomalous activity and known techniques
+
+- Noticed: Command-line to create password protected RAR
+Always the same password
+
+- Retrieved files associated with activity
+
+Identified unknown malware through reverse engineering
+- Collecting email from specific, targeted accounts
+- ?Felt like? a Fl-collecting tool
+- Pointed to first discovered LP
+
+- Provided intial comms analysis to allow signature deployment in passive
+co?ec?on
+
+Safeguarding Canada?s security through information superiority 
+Pr?server la s?curit? du Canada ?ar Ia sup?riorit? de I ?information
+
+ana a
+TOP SEC ET COMINT REL TO CANSAUS, GBR, NZL, 
+
+ 
+
+I Communications Security Centre de la s?curit?
+Establishment Canada
+
+Overall Classification: TOP SECRET ll COMINT ll REL TO CAN, AUS, GBR, NZL, USA
+
+   
+
+des telecommunications Canada
+
+ 
+
+ 
+
+  
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+ 
+
+ 
+
+ 
+
+DEVELOPMENT
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+Implant
+
+SNOWBALLS
+Found and identified wmimgmt.exe and wmimgmt.dll (later
+called the SNOWBALL implant).
+Creates a service 9 leads wmimgmt.exe 9 injects
+
+into IE.
+Later upgraded SNOWBALL to SNOWBALL 2
+
+- Very similar beaconing.
+
+SNOWMAN
+More sophisticated implant, discovered mid-2010
+Less is known about SNOWMAN, but efforts against it
+con?nue.
+
+Safeguarding Canada?s security through information superiority 
+
+Preserveria s?curit? du Canada aria sup?riorit? dei?information  
+TOP SECRET COMINT REL TO CAN7AUS, GBR, NZL, 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+SNOWBALL Beacons
+
+Content 
+crc= a 32-byte checksum
+4293 beacon size in bytes
+flag Description field. 'v'alues can be: flag, segment, Ien
+
+ojmon9|b634oKdo?io2Fiw44
+orIHHkgoWjuoDerEmygE?F-JE 
+
+
+olcwg?iN?foEFiyuth?foEFrM| TSCsoyDiECmuTmEDTi-ia?
+imgdW?ioEFxTGEuwoP2jo
+EBT-iisoansyziKan?i?aEFD
+
+Logini-?Domain {owner}: ETSTEMHAUTDRITE NT {user}
+Computer name: Organization (country):
+{France} OS version 5.1{Service Pack 3} Default
+browser: IE version: Moaillafdl?
+
+ 
+
+b3cET|ber5DCs4aoijn (compatible; MSIE Win32} Timeout:
+So??iminjsi??lilimaxj First launch: EITHSIZIHEEIIZIEI 12:29:17?
+E4Scw4L4braE2LmM?ia2F Last launch 10:32:42 Mode: Service I
+MiAE?neSuaEENruD?i?foEv Rights: Admin I LIAC: ID: 08184
+
+
+ercjoquoTl-CQEIvaTyym 4rn91mD22j4yoleo?io2Eulh
+
+
+User-Agent: Mozilla/4.0 (compatible; MSI 6.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+
+Safeguarding Canada?s security through information superiority 
+Pr?server la s?curit? du Canada aria sup?riorit? de I ?information  a 
+TOP SECRET COMINT REL TO CANBAUS, GBR, ZL, 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+Passive Collection
+
+EONBLUE
+
+Global Access capability deployed across collection programs,
+including SPECIALSOURCE and CANDLEGLOW (FORNSAT).
+
+Provides passive cyber-threat detection.
+
+Allowed us to find additional infrastructure by using signatures
+for known SNOWGLOBE beacons
+
+Traditional
+As always, a huge asset
+With passive access, we were able to see an operator log in to
+an LP
+- Single-token authentication weak hash breakthrough.
+
+Seeing the operator log in provided enough to get into the LPs for
+ourselves.
+
+Safeguarding Canada?s security through information superiority 
+
+Pr?server la s?curit? du Canada ?ar Ia sup?riorit? de I ?information
+
+Canada 
+TOP SEC ET COMINT REL TO CANQAUS, GBR, NZL, 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+lnfrastructu re
+
+- Most infrastructure hosted in FVEY nations
+US, Canada, UK, Czech Republic, Poland, Norway
+
+- Two types of infrastructure:
+Parasitic
+
+- outbasephp or register.php LP nested in a directory under root
+domain
+
+Unsure if this infrastructure is acquired via exploitation, some sort
+of special-source access, or some combination of the two
+
+- This type seems to be found primarily, but not exclusively, on
+French-language sites
+
+Free hosting
+- outbasephp or register.php LP directly under root
+
+Safeguarding Canada?s security through information superiority 
+Pr?server la s?curit? du Canada ?ar Ia sup?riorit? de I ?information
+
+Canada 
+TOP SEC ET COMINT REL TO CANJAUS, GBR, NZL, 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+lnfrastructu re
+
+- Most infrastructure hosted in FVEY nations
+US, Canada, UK, Czech Republic, Poland, Norway
+
+- Two types of infrastructure:
+Parasitic
+
+- outbasephp or register.php LP nested in a directory under root
+domain
+
+Unsure if this infrastructure is acquired via exploitation, some sort
+of special-source access, or some combination of the two
+
+- This type seems to be found primarily, but not exclusively, on
+French-language sites
+
+Free hosting
+- outbasephp or register.php LP directly under root
+
+Safeguarding Canada?s security through information superiority 
+Pr?server la s?curit? du Canada ?ar Ia sup?riorit? de I ?information
+
+Canada 
+TOP SEC ET COMINT REL TO CANJAUS, GBR, NZL, 
+
+Overall Classification: TOP SECRET COMINT REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+lnfrastructu re: CZ
+
+Safeguarding Canada '3 security through information superiority 
+Pr?server la s?curit? du Canada Jar fa sup?riorit? de i'information
+
+ana a
+TOP SEC ET COMINT REL TO CANJAUS, GBR, NZL, 
+
+ 
+
+Overall Classification: TOP SECRET COMINT REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+lnfrastructu re: CZ
+
+Safeguarding Canada '3 security through information superiority 
+Pr?server la s?curit? du Canada Jar fa sup?riorit? de i'information
+
+ana a
+TOP SEC ET COMINT REL TO CANJAUS, GBR, NZL, 
+
+ 
+
+ 
+
+I Communications Security Centre de la s?curit?
+Establishment Canada
+
+Overall Classification: TOP SECRET ll COMINT ll REL TO CAN, AUS, GBR, NZL, USA
+
+   
+
+des telecommunications Canada
+
+ 
+
+ 
+
+  
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+ 
+
+ 
+
+ 
+
+VICTIMOLOGY
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+Overall Classification: TOP SECRET COMINT REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+Victimology: Iran
+
+Iranian MFA
+
+- Iran University of Science and Technology
+Atomic Energy Organization of Iran
+
+- Data Communications of Iran
+
+- Iranian Research Organization for Science Technology,
+Imam Hussein University
+
+Malek-E-Ashtar University
+
+Safeguarding Canada?s security through information superiority 
+Pr?server la s?curit? du Canada ?ar la sup?riorit? de i?information
+
+ana a
+TOP SEC ET COMINT REL TO CANJBUS, GBR, NZL, 
+
+Overall Classification: TOP SECRET ll COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Victimology: Global
+
+ 
+
+ 
+
+ 
+
+- Five Eyes
+
+Possible targeting of a French-language Canadian media
+organization
+
+- Europe
+Greece
+- Possibly associated with European Financial Association
+France
+Norway
+Spain
+- Africa
+Ivory Coast
+Algeria
+
+   
+
+Safeguarding Canada ?3 security through information superiority  (1wI
+
+Pr?server Iaf?curit? du Canada iar Ia sup?riorit? de I?information a a 
+
+  
+  
+
+I Communications Security Centre de la s?curit?
+Establishment Canada
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+ 
+
+ 
+
+ 
+
+ATTRIBUTION
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+
+Overall Classification: TOP SECRET II COMINT II REL T0 CAN, AUS, GBR, NZL, USA
+
+ 
+  
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+  
+Attribution: Binary Artifacts  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ntrass.exe
+
+DLL Loader uploaded to a victim as 3
+part of tasking seen in collection
+
+Internal Name: Babar
+Developer username: titi
+
+- Babar is a popular French
+children?s television show
+
+- Titi is a French diminutive for
+Thiery, or a colloquial term for a
+small person
+
+ 
+
+  
+ 
+
+Safeguarding Canada?s security through information superiority a
+
+Pr?server la s?curit? du Canada iar la sup?riorit? de i?information 
+
+ 
+
+Overall Classification: TOP SECRET II COMINT II REL T0 CAN, AUS, GBR, NZL, USA
+
+ 
+  
+
+Establishment Canada des telecommunications Canada
+
+  
+Attribution: Lang uage . 
+
+I I Communications Security Centre de la s?curit?
+
+ 
+
+ 
+
+ 
+
+ 
+
+- ko used instead of k8 a quirk of the French technical
+community
+
+- English used throughout C2 interface, BUT phrasing
+and word choice are not typical of a native English
+speaker
+An attempt at obfuscation?
+
+- Locale option of artifact within spear-phishing attack set
+to "fr_FR"
+
+  
+ 
+
+Safeguarding Canada?s security through information superiority a
+
+Pr?server la s?curit? du Canada iar la sup?riorit? de i?information 
+
+ 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+ 
+  
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+Attribution: Intelligence Priorities 
+
+ 
+
+ 
+
+- Iranian science and technology
+Notably, the Atomic Energy Organization of Iran
+Nuclear research
+
+- European supranational organizations
+European Financial Association
+
+- Former French colonies
+Algeria, Ivory Coast
+
+- French-speaking organizations/areas
+French-language media organization
+
+- Doesn?t fit cybercrime profile
+
+  
+ 
+
+Safeguarding Canada?s security through information superiority  
+
+Pr?server iaIs1?curit? du Canada iar la sup?riorit? de I?information a. 3. 
+
+ 
+
+I Communications Security Centre de la s?curit?
+Establishment Canada
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+ 
+
+ 
+
+ 
+
+SNOWGLOBE.
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+ 
+  
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+
+SNOWGLOBE. I
+
+ 
+
+ 
+
+CSEC assesses, with moderate certainty,
+SNOWGLOBE to be a state-sponsored CNO effort, put
+forth by a French intelligence agency
+
+  
+ 
+
+Safeguarding Canada?s security through information superiority  
+
+Pr?server iaIs1?curit? du Canada iar la sup?riorit? de I?information a. 3. 
+
+ 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+I I Communications Security Centre de la s?curit?
+
+ 
+  
+
+Establishment Canada des telecommunications Canada
+
+SNOWGLOBE Program 
+
+ 
+
+ 
+
+C2 nodes worldwide (including Canada, US, UK)
+Free hosting
+
+Compromised
+
+3 implants
+
+SNOWBALL 1
+
+SNOWBALL 2
+SNOWMAN
+
+Victims in Spain, Greece, Norway, France, Algeria,
+Cote d?lvoire
+
+Intense focus on Iranian science and technology organizations
+Likely French intelligence
+
+Specific agency unknown
+
+  
+ 
+
+Safeguarding Canada?s security through information superiority  
+
+Pr?server iaIs1?curit? du Canada iar la sup?riorit? de I?information a. 3. 
+
+ 
+
+Overall Classification: TOP SECRET ll COMINT REL TO CAN, AUS, GBR, NZL, USA
+
+I I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+What We Don?t Know
+
+- Any persona details
+
+- How they get their non-free LPs
+Exploitation?
+Special source?
+
+- Last hop (operator to infrastructure)
+Believed to be 
+
+- Which agency within the French intelligence community
+might be responsible
+Who?s driving the intelligence requirements
+
+- Efforts against the SNOWMAN continue
+
+  
+ 
+
+Safeguarding Canada '3 security through information superiority  
+
+Pr?server IaIs??curit? du Canada iar Ia sup?riorit? de I'information a a 
+
+Overall Classification: TOP SECRET II COMINT II REL TO CAN, AUS, GBR, NZL, USA
+
+I Communications Security Centre de la s?curit?
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUESTIONS AND COMMENTS
+
+ 
+
+Discovery
+Development
+Victimology
+Attribution
+SNOWGLOBE
+Questions
+
+Safeguarding Canada?s security through information superiority dl?l'l
+Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
+
+ 
+

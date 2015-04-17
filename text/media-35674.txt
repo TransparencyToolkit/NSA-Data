@@ -1,0 +1,2531 @@
+   
+  
+
+Moving Data Through
+
+Disconnected Networks
+
+Delay-Tolerant Networking and
+the IC 
+
+P34 
+P34
+
+June 2012
+(in/erall <3;Ia?s?slfuzatmn of this limeflmDerived From: 
+1-52
+
+Dated: 20070108
+20360901
+
+ 
+
+ 
+
+TOP SECRETIICOMINTIIREL TO USA, FVEY
+
+    
+
+CLJ 
+
+in?: '32??huhth 
+
+. (U) Delay-Tolerant Networking intro
+i. Outside world: protocols and software
+n. lC Applications of DTNs
+
+2. Summary of R4 work
+
+i. CHIMNEYPOOL integration
+n. Wireless testing
+
+3. Interesting details
+
+i. DTN Routing
+ii.  
+
+
+
+TOP SECRETIICOMINTIIREL TO USA, FVEY
+
+      
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+
+Mobile Ad-Hoc Networks (U)
+
+  
+
+A wireless network with no
+infrastructure
+
+  
+  
+
+Source
+
+Destination
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+
+Many wireless networks will not
+have end-to-end '1nectivity
+
+     
+
+ 
+
+Destination
+
+ 
+
+Source
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+      
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+
+Delay-Tolera nt Networks  
+
+  
+
+DTNs use a store-carry-forward
+approach to take ad ntage of node
+mobility 
+
+    
+
+ 
+
+Destination
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+   
+
+Beginnings of DTN (U)
+
+2000; Epidemic Routing 1990s: Interplanetary Network
+Vahdat and Becker NASA. JPL
+
+.7. 2002, 2004: ZebraNet
+Juang, Oki, Wang, Martonosi, Peh, Rubenstein
+
+2002: Mobility Increases Capacity in Ad-hoc Wireless Networks
+Grossglauser and Tse
+
+ 
+
+2003: A DTN Architecture for Challenged Internets
+Kevin Fall
+
+2003: 
+Shah, Roy, Jain, Brunette
+
+2003: Probabilistic Routing in Intermittently Connected
+Networks
+Lindgren, Doria, Schelen
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+  
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+
+. Nodes exchange "summary vectors"
+. Each node sends the data that the other node lacks
+. Summary vectors implemented as a Bloom Filter
+
+. Followed by Immunity concept: Resource and performance tradeoffs
+in delay-tolerant wireless networks, 2005; Small and Haas
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+   
+
+Beginnings of DTN: ZebraNet (U)
+
+Wildlife tracking project at Princeton
+GPS other info gathered by collars on zebras
+
+Data migrated back to base using "History-Based"
+routing -. I,
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+    
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+
+Beginnings of DTN: IPN 
+
+  
+
+Inter-Planetary Network
+
+Long distances long propagation delays
+Intermittent connections
+
+Known contact schedule Contact Graph Routing
+Worked on since the 19905 by NASA, JPL, incl Vint Cerf
+
+Mars Express
+
+ 
+
+NASA Phoenix
+
+Lander
+0
+
+
+
+[Figure taken from Vint Cerf?s 2010
+presentation: ?When Intuition Fails"]
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+
+Data MULEs: modeling a three-tier architecture for sparse
+sensor networks
+
+2003 Paper by R. C. Shah, S. Roy, S. Jain, W. Brunette
+
+Has mobile MULEs relaying data from sensors to well-
+connected Access Points
+
+Similar: A Message Ferrying Approach for Data Delivery in
+Sparse Mobile Ad Hoc Networks, 2004; Zhao Ammar,
+Zegura
+
+
+
+   
+ 
+
+6.
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+    
+
+What's a DTN For? 
+
+Wildlife tracking - VANETS, Public transit
+ZebraNet, SWIM, TurtleNet DieselNet, NICT
+- Battlefields/disaster areas
+  DARPA DTN Program
+Under water - Sensor nets
+Underground (mines) - Heterogeneous networks
+
+[Integrating Multiple and Heterogeneous
+Challenged Networks for Large-sized Data
+Transfer, 2009 Nagata et al]
+
+Communication in a Mine, 2010
+Ginzboorg, Karkkainen et al]
+
+Rural areas
+
+N4C, DakNet, KioskNet, TIER,
+Bytewalla
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+    
+
+Content dissemination
+
+[PodNet, 2006 Present; Legendre,
+Lenders, May, Karlsson]
+
+Haggle Project
+
+Social Networking
+
+Distributed Sotrage
+[TierStore, 2008: Demmer, Du,
+Brewer]
+
+[DTN-based Content Storage and
+Retrieval; Ott, Pitkanen]
+
+What's a DTN for 
+
+
+
+flickr If}:
+in: I. ff" qu-costs
+i *Tnte met. 
+
+I.
+
+   
+   
+      
+    
+   
+ 
+
+5
+
+
+   
+
+
+i 
+
+Pui?lm Ere-Iver
+[Cumrnt
+Miaminri Fndi?? Gama 
+
+Gateway 
+
+ A
+
+:1
+rays. m?gwgf 
+
+
+
+Cellular Traffic Offloading
+
+[Cellular Traffic Offloading through
+Opportunistic Communications: A Case
+Study, 2010; Han, Hiu et al]
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+ 
+
+has been part of the IRTF since (at least) 2002
+RFC 5050 defines the Bundle Protocol
+Application-layer overlay that moves "bundles" of data
+Convergence Layers move bundles over different
+
+networks
+
+ 
+
+Application  Applicmi?n i I
+
+ 
+
+i Bundle Protch 
+
+ 
+
+IUDP cum] TEP cut] Eth cm] Click ELA 
+
+
+Bundles
+
+   
+  
+
+ 
+
+ 
+
+ 
+
+Shared
+MEIILE
+
+ 
+
+ 
+
+TCP
+
+ 
+
+HQEJS an! lE?lJ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jlln?h in 
+
+ Bundlelnterl?ace?
+
+IF .. 
+Ethernet 
+
+I Physical Layer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+   
+
+    
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Protocol Highlights (U//FouoModular architecture
+
+- Convergence layers
+Routers
+
+Neighbor discovery
+Security extensions
+Persistent storage
+
+Hop-by-hop and end-to-end reliability
+possible
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+   
+  
+
+ 
+
+.
+DE
+
+
+ Bundle Protocol Architecture 
+
+Bundle Bundle Protocol Agent (BPA)
+
+UDP CL File CL AX.25
+CL
+
+Convergence
+Layer
+
+ 
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+   
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+     
+    
+ 
+
+Cisco
+Java stack
+
+.Ilmli.
+CISCO.
+
+      
+
+ 
+ 
+
+- . -
+  DTN2 Reference
+
+Real
+
+ 
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+      
+   
+ 
+
+Javastack
+.Ilmli.
+
+. CISCO.
+
+     
+ 
+ 
+
+. .   DTN2 Reference
+--    
+
+  
+
+Real
+
+ 
+
+ 
+
+Summary of Intelligence
+Community Applications
+
+
+ 
+   
+
+Covert Communications 
+
+Provide covert comms in denied areas
+where no infrastructure exists, or where using the
+infrastructure would compromise the operation.
+
+Several "brush-pass" wireless hand-offs as
+an untraceable alternative to scheduled meetings,
+dead drops.
+
+DTN provides an open-source solution
+running on commercial handheld devices 
+Unattributable.
+
+ 
+
+ 
+   
+
+Close Access 
+
+- Implant in a secure
+facility or denied area
+
+- Need to transfer data
+and commands over two or more
+hops
+
+- May rely on mobile
+nodes and unwitting data mules
+
+ 
+
+    
+
+1?19, ,e 
+
+Moving data between ground stations using CubeSats.
+Coverage every ~1.5 hours. Need DTN
+
+They use DTN2, ION, contact graph routing
+
+ 
+
+ 
+
+ 
+   
+
+Crowd Sourcing (U)
+
+- Provide data flow in and out of
+closed nations during internet shut-down
+
+- (U) Ambitious BIG idea
+
+- (U) Proposed CONOP not far from current
+work
+
+- (U) Proposed internally and externally
+
+- (U) State Dept-funded project had an article
+in NYT
+
+ 
+
+ 
+
+Tagging Tracking Locating (U)
+
+- (U) Insert GPS trackers in cars or
+electronics, but we may never see
+them again
+
+- Migrate data back to
+collection point via DTN
+
+Original CONOP for
+RAPTORGALAXY
+
+ 
+
+  
+
+CovComm
+
+Close Access
+
+NRO CubeSat
+Comms
+
+5? mmary of IC applications (U//Fouo)  
+
+Crowd-
+Sourcing
+
+.9:
+
+ 
+
+ 
+
+Tagging
+Tracking 
+Locating
+
+ 
+
+Unattributable
+
+COTS handsets
+
+Open-source
+
+ 
+
+Data exfiltration
+from isolated
+networks and
+denied areas
+
+TSV field test
+
+ 
+
+Comms between
+ground stations that
+only have occasional
+satellite coverage
+
+Use inexpensive
+CubeSat platform
+
+ 
+
+Provide data flow in
+and out of closed
+nations
+
+Ambitious BIG idea
+
+Proposed CONOP can
+be done now
+
+Proposed internally and
+externally
+
+ 
+
+Very small hardware
+
+Record locations and
+encounters
+
+Use DTN to migrate
+data back to collection
+points
+
+ 
+
+ 
+
+DTN work at R4
+
+ 
+
+   
+
+Things We Have Done (U)
+
+Porting FOS DTN software to mobile devices
+
+ 
+
+   
+
+Things We Have Done (U)
+
+Porting FOS DTN software to mobile devices
+
+Developing friendly user interface software so
+anyone can use it
+
+ 
+
+   
+
+What We Have Been Building (U)
+
+Porting open source DTN software to mobile devices
+
+Developing friendly user interface software so anyone
+can use it
+
+- Testing determining what actually works
+
+Field testing different configurations and scenarios
+Implementing security features
+
+Building new routing modules
+
+- Adding geo-tagging/tracking features
+
+Experimenting with new neighbor discovery methods
+
+ 
+
+ 
+
+FUZZYLINT and
+CHIMNEYPOOL integration
+L)
+
+ 
+ 
+
+ 
+
+(Not So) Close Access
+
+- Retrieving data from an
+implant without visiting the implant
+ourselves
+
+- Need to add DTN link
+capability to the implant
+
+- Data mule may be unaware of
+their role
+
+- prototype demoed
+at Trident Spectre
+
+ 
+   
+
+STRAITBIZZARE (U)
+
+Cross-platform implant built using 
+CHIMNEYPOOL framework
+
+- Ports for Linux, Windows, etc..
+- Endpoint-centric focused on file exfil from a PC
+- Remote Procedure Call (RPC) based
+
+FRIEZERAMP protocol provides covert
+networking
+
+- CHIMNEYPOOL comms module
+- Similar to IP, lPsec
+- Only supports static network configuration
+
+FRIEZERAMP links are adapters to
+converge FR packets onto the transport layer below
+
+- Examples udp, smtp, etc.
+
+ 
+   
+
+Put SBZ on each device  right?
+RE L)
+
+File exfil CP modules and FRIEZERAMP
+treats reliability as only an end-to-end issue
+
+- FR retransmissions are requested by the receiver
+and only the sender can retransmit
+
+- Hop-by-hop reliability is desirable
+
+Persistent storage module only waits until
+link is available then ?send and forget"
+
+All routes are static and setup a priori
+
+Operationally, SBZ on each device is
+undesirable in some CONOPs
+
+ 
+
+          
+
+a?
+1 (9
+
+
+.9:
+war: - .25;
+"be Canto
+'l 
+
+ 
+
+ 
+
+Circus
+
+ 
+
+Bunker
+
+ 
+
+ 
+
+ 
+
+ 9r Awesome
+N810
+
+ 
+
+- ?has been building
+
+an ultra-lightweight BPA that can act as a CP
+link to a DTN
+
+- Locally provides data persistence,
+discovery, routing, convergence layers
+
+- FR packets are already
+fragmented, so this BPA does not need to be as
+
+flexible as others
+
+- add covert Convergence Layer
+Adapters
+
+ 
+
+STRAITBIZARRE
+
+ 
+
+ 
+
+ 
+
+ 
+
+TAO-S peci?c DTN Stack (Ts//s mm; L) 
+
+ 
+ 
+
+I
+:9
+
+ 
+
+ 
+
+WARRIORPRIDE
+
+ 
+
+Next-Generation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stage-2 Implant
+CP DTN Link Modules Comms API
+DTN API
+
+ 
+
+ 
+
+ 
+
+Bundle Protocol Agent
+
+Discovery Agent
+(DTN IPND Protocol)
+
+ 
+
+ 
+
+Covert 
+Discovery Agent
+
+ 
+
+ 
+
+Router
+(Table Based)
+
+ 
+
+ 
+
+Storage Agent
+(File Based)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Covert CLA 
+
+
+TCP CLA
+
+ 
+
+ 
+
+ 
+
+ 
+
+Covert CLA 
+(SMTP)
+
+ 
+
+ 
+
+Covert CLA 
+(VOIP)
+
+ 
+
+ 
+
+ 
+   
+
+   
+ 
+
+Existing SW
+
+ 
+
+   
+
+In development
+
+ 
+
+     
+
+Future work
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Implanted Intermediate Intermediate SBZ LP
+Target I I Node I I Node LInk I I I I I I LInk
+. DTN2 
+. L. . FL. Open . .
+LIghtweIg I I LIghtweIg I I qource I I LIghtweIg
+I I _IniPlatforms a nd Ca pabi I ities RE L) 
+
+ 
+
+      
+      
+
+ 
+
+Windows and
+java
+
+Unux Gunm?x
+
+netbook
+
+ 
+
+ 
+
+DTN2
+
+FUZZYUNT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wireless testbeds
+
+
+Reality
+
+Application
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reality Ninja 
+
+Reality Network Emulators
+
+Application Application
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reality Ninja 
+
+Reality Network Emulators Simulation
+
+Fruit 
+Application Application Application
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reality Ninja 
+
+Reality Network Emulators Simulation
+
+Application Application Application
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Il..um..m
+film
+
+I. a.
+
+ 
+
+    
+
+Layels
+Stars
+sky
+NASA Blue Marble Image
+Blue Marble (WMS) 20m
+Hubed Landsat
+LISDA NAIF
+MS Virtual Farih Aerial
+SE35 UI ball Area 
+Pol al Boundaries
+Nod?:-
+Place Names
+World Map
+Scale. bar
+View Controls
+Compass
+
+r" OpeIISlreelMap
+
+vr-?IIWorldwind controls
+
+
+Husl.
+
+1051.
+
+Port
+
+Da|.aba5e Name
+
+
+User ID
+
+Database Password
+
+17: 06: 04 EDT 2011
+
+World
+
+Round Flat
+
+tion: Mercator 
+
+Do nio ading
+
+ 
+
+    
+ 
+   
+
+CMU Wireless Emulator 
+
+ 
+  
+  
+  
+  
+
+   
+
+CMU User ACCESS
+Emulation Emulab (fiver
+Curl trailer Internet
+- - - I  
+Jrn?f-i-FH-WContrni I I .
+
+  
+    
+   
+   
+   
+   
+
+Nelwurk
+
+ 
+
+Signal
+
+
+
+   
+
+FPGA-hased
+Signal
+Propagation
+Emulatinn
+
+ 
+
+
+when)
+4.
+
+ 
+
+ 
+
+ 
+
+roject: Rossl'vn Tutorial
+4' Antennas
+Features
+
+-.
+
+ 
+
+Images
+Graphs
+Output Filters
+Receiver sets
+Requested output
+Study areas and Output
+Area:myarea1
+
+Point to point
+
+Point to multipoint
+Complex E-Field
+Complex impulse response
+E?field magnitude
+E-field kl phase
+E?field i? magnitude
+E?field phase
+E-field magnitude
+E?field 2 phase
+E?field RMS
+E-field total magnitude
+E?field total phase
+E?field total ?i magnitude
+E-field total phase
+E?field total 2 magnitude
+E?field total 2 phase
+E-field total RMS
+Excess time of arrival
+Free-space power without anter
+Free-space power with antenna
+Path gain
+Path loss
+Propagation paths
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rooftop Single Tx Point
+Rooftop L05 Tic Point
+4- Added Single Rx Point I
+Received power
+Time of arrival
+Transmitter sets
+
+.I.
+
+ta stereos
+
+4:
+i_i
+
+
+
+Selection: Rooftop LOS Tx Point, point #1 Added Single Rx Point [Propagation paths]
+
+ 
+
+  
+
+ 
+
+A
+H: 
+Y: 515.13m
+Z: 42.00 
+
+ 
+
+ 
+
+ 
+
+\I'ieI-vs  Features Images 49 Study areas  Transmitters I ?if Receivers  Comm. systems Materials 9} Antennas Waveforms l7 Heguested output 0utput Elutput filters
+Waveforms
+
+Active I Visible I Description I Type I No. points I Spacing Antenna I Waveform I Collection I Sounding boi-r I Filename I
+
+No Yes St route 50 5.00 Vertical dipole ?000-5 Auto Auto C: ocuments and 
+
+No Yes Mooie St route 02 5.00 Veitical dipole ?000-5 Auto Auto ocuments and SettingletslIMy 
+
+No Yes Kent St route 42 5.00 Vertical dipole Auto Auto C: ocuments and SettingletslIMy 
+
+No Yes Nash St 13th St route 112 5.00 Vertical dipole a?000-5 Auto Auto ocuments and 
+
+No Yes Ft. Myer Drive route 04 5.00 Vertical dipole ?000-5 Auto Auto
+
+Yes Yes Added Single Fii-I Point points 1 NJA Vertical dipole 000-5 Auto Auto C: ocuments and Settings'tlts'sMy 
+
+Tutorial
+
+Propagation model parameters
+Study area number:
+Short description: myareai
+Propagation model: fu||3d
+Flay spacing [deg]: 0.250
+
+aximum reflections: 20
+aximum transmissions: 0
+aximum diffractions: 1
+
+Maximum reflections before first 
+aximum reflections between diff
+Maximum reflections after last diff
+Maximum transmissions before fir:
+Maximum transmissions between
+Maximum transmissions after last
+Flay tracing method: 50R
+
+Flay tracing acceleration: auto
+
+Using partitions.
+
+Available emory 1 PET. SE
+aximum emory sed I
+
+Calculation mode before checking
+Calculation Mode 
+completed reading e-field records
+
+mode after checking status of patl
+Calculation Mode 0
+
+Start combining fields and writing 
+Wiiting point-to-many output
+10 Percent Completed 0h 0m
+20 Peicent Completed 0h 0m
+
+stait inteilerence analysis
+finish inteiierence analysis
+
+Finish combining fields and wiiting
+Timing results for study area myare
+Combining Fields and Writing Dutp
+Study Area Fiun Time: 0h 0m Est
+
+Finished
+
+Warning essages
+None
+
+Stop time: 10:21:40 
+Elapsed time: 25 seconds
+
+ocuments and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sew-II
+
+Selection: Rooftop LOS Tx Point, point #1 Added Single Rx Point [Propagation paths]
+
+L34
+
+ 
+
+Calculation finished. Elapsed time: 00:;
+
+ 
+
+ 
+
+Routing and Reliability Issues
+
+
+Some Interesting Details
+
+(U)
+
+ 
+
+Routing in DTNs (U)
+
+ 
+
+   
+
+Flood Routing and Epidemic (U)
+
+- 2000: Epidemic Routing [Vahdat and
+Becker]
+
+ 
+
+   
+
+Static Routing Background (U)
+
+- Bundle Protocol Nodes are identified by Endpoint
+Identifiers (Ele) that look like:
+
+
+
+ebr://g roup5.dtn/
+
+- Convergence Layer connections to neighbors are
+called "Links"
+
+For example a TCP connection to a neighbor is a link
+
+- Each link knows the EID of the neighbor associated
+with it
+
+ 
+
+Destination
+
+
+
+
+
+ 
+
+ 
+
+Static Routing Tables (U) 
+One-hop ?Direct Delivery"
+Next hop Action
+link-0 FWD
+link-1 FWD
+link-2 FWD
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+Destination
+
+
+
+
+
+
+?mm 
+
+Static Routing Tables (U) 
+Two-hop ?Bundle Ferry"
+Next hop Action
+FWD
+FWD
+FWD
+link-0 FWD
+
+ 
+
+ 
+
+7-
+
+ 
+
+
+
+
+
+
+
+ 
+
+Static R0 ?ti ?9 Tables (U) 
+
+ 
+
+Two-hop ?Bundle Ferry" With Wildcards
+
+Destination
+
+
+
+
+
+
+Next hop
+
+
+
+link-0
+
+link-1
+
+Action
+FWD
+FWD
+FWD
+FWD
+FWD
+
+ 
+
+ 
+
+ 
+
+ 
+
+Destination
+
+
+
+
+
+
+ 
+
+Static R0 ?ti ?9 Tables (U) 
+
+Multi-hop ?Tiered routing"
+
+Next hop
+
+
+
+link-0
+
+ 
+
+Action
+FWD
+FWD
+FWD
+FWD
+
+ 
+
+ 
+
+   
+
+DTN Routing Bonanza (U) 
+
+People propose routing protocols for many
+different environments and purposes.
+
+- Sometimes With novel applications, sometimes With no
+realneed
+
+(U) Has inspired the phrase "Yet Another Routing Protocol"
+
+ 
+
+Epidemic With Immunity
+
+    
+
+   
+
+DTLS (U) 
+
+Delay-Tolerant Link State Routing
+- Assumes a mostly stable contact graph
+- Nodes all flood their recent contacts
+
+- Each node maintains an internal picture of the
+
+network, and makes routing decisions based on
+alg
+
+ 
+
+ 
+
+?Intelligent? Routing: PROPHET (U)
+
+Probabilistic routing in intermittently connected
+
+networks, 2003; A. Lindgren, A. Doria, and O. Scheln
+
+Probabilistic Routing Protocol using History of
+
+Encounters and Transitivity 
+
+ 
+
+amy 0.9
+
+
+-l  
+joe 0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5am 0'9
+
+joe 0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amy
+
+0.0
+
+ 
+
+sam
+
+0.0
+
+ 
+
+ 
+
+ 
+
+joe
+
+ 
+
+0.4
+
+ 
+
+ 
+
+ 
+
+ 
+
+'"tel igent" Routing: ET (U) 
+
+Probabilistic routing in intermittently connected
+networks, 2003; A. Lindgren, A. Doria, and O. Scheln
+
+Probabilistic Routing Protocol using History of
+Encounters and Transitivity 
+
+sam bob 0.0
+joe 0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Network-Coding in DTNs (U)
+
+Imagine trying to distribute a 100MB
+bundle in a DTN
+
+Idea:
+
+ 
+
+10MB
+
+1MB 1MB 1MB 1MB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Netwo rk-Cod i ng in DTNs (U) 
+
+Imagine trying to distribute a 100MB bundle in a DTN
+Idea: fragment into 1MB pieces
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1MB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Network-Coding in DTNs (U)
+
+Send linear combinations of fragments
+
+A receiver can collect any ten pieces and recover the
+data
+
+ 
+
+  
+  
+
+1MB 1MB 1MB 1MB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Security in DTNs (U)
+
+ 
+
+ 
+   
+
+Security 111reats (U)
+
+- Protecting against rogue bundles being
+injected into the network
+
+- Prevent an adversary from modifying
+legitimate bundles
+
+Protection against eavesdroppers
+Authenticate neighbors before establishing links
+- Low Probability of Detection Intercept
+
+ 
+
+    
+
+-ECRI Dl?gcm
+ewkbf? - ??70 Gaybi(U) Provides bundle-layer 
+authentication, and data integrity
+
+- (U) Lack of connectivity affects choice
+of algorithms and services
+
+- (U) Security polices may be directional
+
+- Managing keys and their
+accompanying policies is a challenge
+
+   
+
+Bundle Authentication (U)
+
+- (U) Hop-by-hop Authentication
+
+(U) Requires each device to generate a shared secret with
+each of its neighbors
+
+Establishing these keys is a challenge
+
+ 
+
+  
+
+ 
+
+ ?(mop DIRECT-34.
+4 av"-  
+I-u. g..-Bun entlcatlon 
+
+ 
+
+- End-to-end authentication
+RSA digital signatures
+
+- (U) Intermediate nodes can verify the
+signature
+
+- (U) Cannot assume connectivity to an
+external Certificate Authority
+
+- (U) For signatures, the certificate can
+be appended to the message
+
+  
+
+ 
+
+ ?vac? D'Rgcrob..r?raPayload data 
+with AES in Galois Counter Mode
+
+(GCM)
+- (U) Provides data integrity
+
+- (U) AES key is with the
+destination?s RSA public key
+
+   
+
+Key Management Issues (U)
+
+(U) How to distribute public keys securely
+One option: pass certificates between devices
+
+Another option: pre-placing certificates
+Memory issues
+
+(U) Revoking keys of compromised devices
+
+ 
+
+   
+
+Link-Layer Security (U)
+
+Even With BSP, CL is Wide open
+
+Develop a mechanism to authenticate
+neighbors before allowing them to connect
+
+Enables dropping unwanted bundles
+May prevent through too many connections
+
+Enable different groups of nodes to operate in
+the same area but maintain separation
+
+BPA BPA
+
+UDP CL - UDP CL
+
+ 
+
+   
+
+Link-Layer Security (U)
+
+(U) Constraints
+Lightweight
+Low setup latency
+Limited bandwidth consumption
+
+Minimal provisioning/maintenance
+Compatible with short session
+durations
+
+ 
+
+ 
+   
+
+Covert Discovery 
+
+- Have set up external
+triggers for establishing DTN links
+
+- Similar work being done
+outside to reduce power consumption
+
+- (U) Example: Bluetooth beacons
+triggering a Wifi connection
+
+- Another option: use our own
+radios for some hops
+
+ 
+
+Surveillance-oriented
+Demo (U)
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+.
+
+Parkin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data sources at ?secret? locations on campus. Queue
+up or generate data.
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mobile data generator in a car sending
+segments of audio
+
+ 
+
+ 
+
+ 
+
+    
+     
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Destination node in parking lot by the
+Comcast Center
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+ 
+     
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pedestrian relays walk around, and pick up
+data from source nodes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parking
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+A  
+Car Players are typical data 
+ferries. They relay data to the
+destination.
+
+   
+
+1. Sources
+
+3. Relays
+
+   
+
+4. Destination
+
+ 
+
+2. Relays
+
+ 
+
+ 
+
+Questions?
+
+ 
+

@@ -1,0 +1,1031 @@
+TOP USA, AUS, CAN, GBR, NZL
+
+   
+
+Intro to the VPN Exploitation
+Process
+
+OTP VPN Exploitation Team
+831176
+September 13, 2010
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Overview
+
+   
+
+I 831176 and the OTP VPN Exploitation Team
+I How can we help you?
+
+I VPN and Network Types
+
+I Birth of the VPN Adventure
+
+I Sustained Exploitation
+
+I Exploitation Successes
+
+I Conclusions
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+831176
+
+Branch Name:
+
+Custom Thread Development for
+Network 
+
+ 
+
+Team Name:
+OTP VPN Exploitation Team
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Mission Statement
+
+  
+
+ 
+
+831176 provides support services for many
+network protocols, including, but not limited to:
+SSL, PPTP, SSH and proprietary protocols. We are
+the front-door of CES for targeted vulnerability assessment
+and custom interim end-to-end exploitation flows for these
+protocols. In conjunction with various agency SIGDEV
+counterparts and target organizations, we engage in
+discovery to find TOPI targets of interest. By maintaining
+contact with field sites, TAO, and NCSC, we endeavor to
+guide and direct development and access through both
+active and passive means in order to make exploitation
+possible and enable full prosecution of the 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Purpose in a Nutshell
+
+   
+
+I Act as your one_stop shop for all VPN and
+networI explortatlon related
+Issues.
+
+IAct as a liaison for and TOPIs
+to other areas of the VPN community
+
+I Perform some SIGDEV and target
+discovery
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Where are we positioned?
+
+SID, 8
+Data Acquisition, 83
+
+Ex loitation
+
+   
+
+ 
+
+Services, 31
+
+Office of Target Pursuit,
+8311
+
+Cry tanalytic Ex loitation
+(fiscovery, ?3117
+
+Custom Thread
+Develo ment for
+Network 
+$31176
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBRCollection
+CMP Intern
+Team Lead, SSH
+
+Branch Chief
+Diversity Tour
+CADP Intern
+PPTP
+BLEAKINQUIRY, SSL
+How to Contact us (May be changing soon):
+
+go vpn-xft
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Branches within OTP
+
+   
+
+S31172 Iran, Hamas, Iraq, Saudi Arabia
+
+S31173 ?Africa, Levant, Latin America, India,
+Pakistan, Afghanistan
+
+S31174 Russia, Counter-Intel, Europe, FTM
+
+S31175 Cross-Target Support Branch
+
+S31176 Custom Thread Development
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+    
+
+ach branch has a VPN representative
+
+We inform them about attacks, they inform us about targets
+If you have a target-specific inquiry, they may be able to help
+
+831171 (Eastern and Southeast Asia)
+
+831172 (Iran, Iraq, Arabian Peninsula)
+)5
+831173 (Levant, Central Asia, Africa, Latin America)
+
+831174 (Russia, Europe, International Targets)
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBRProvide Exploitation Support
+
+Provide VPN vulnerability analysis
+
+Engage Network Security Products, TAO, ESO, etc
+Convey meaningful feedback to customer
+
+Develop sustained exploitation threads when
+possible
+
+Suggest alternative approaches if passive
+exploitation is unrealistic
+
+
+
+10
+
+TOP USA, AUS, CAN, GBRcan assist with the following:
+
+Collection problems
+
+Tasking
+
+Data flow
+
+Plaintext analysis
+
+Metadata interpretation
+
+Tip-off vulnerable VPN links
+
+VPN SIGDEV
+Target Discovery and Development
+
+    
+
+11
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+How can you help you?
+
+   
+
+Glad you asked!
+Familiarize yourself with appropriate search criteria
+
+Get a BLEAKINQUIRY account
+
+If you find VPN-related data, let us know.
+The existence of a VPN on a network of interest
+Configuration/setup information about the VPN
+
+12
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+BLEAKINQUIRY
+
+   
+
+Data Sources
+TOYGRIPPE metadata testing
+XKEYSCORE fingerprints
+Daily VPN exploitation
+
+Let US stress. . . 
+
+Want an account?
+E-mail or
+
+13
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+BLEAKINQUIRY
+
+   
+
+Elle Edi: Eiew Higtory Ecol-Twat :ools Help
+
+ 
+
+I?Vynami? Dana Hit-rhea!- unaaih1= 1:
+
+
+
+ 
+
+nvnamir Dana Hinhazr DnzzihTa FTARRiFirarinn in
+
+ 
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL 14
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Local Processing
+
+   
+
+ 
+
+attack script 1
+
+I I
+
+genericlPSec_wrapper.pl
+
+ 
+
+   
+
+
+
+
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+ 
+
+15
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Type 1: 
+
+IP Security
+
+Complete paired IKE
+Common UDP ports: 500 and 4500
+
+Pre-Shared Key (PSK)
+Router configuration (good source for PSKs)
+
+Payload (ESP orAH)
+Next Protocol 50 or 51
+
+XKEYSCORE Queries
+
+Full log DNI search
+
+AppID/Fingerprints: ?vpn/esp vpn/isakmp vpn/ikev2?,
+?vpn/Ikev2_content?
+
+   
+
+16
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Type 2: PPTP
+
+PPTP: Point-to-Point Tunneling Protocol
+
+   
+
+Paired collect
+Next Protocol 47 PPTP payload
+TCP Port 1723 PPTP tunnel set up, no payload
+
+One-sided collect, client side
+
+XKEYSCORE Queries
+Full log DNI search
+Enter your lPs/casn/etc of interest
+ApplD/Fingerprint: 
+Share your results with
+
+17
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Type 3: SSL
+
+SSL Secure Sockets Layer
+
+Renamed TLS (Transport Layer Security) but still often
+referred to as SSL
+
+Paired collect Compare and Ports
+
+   
+
+Server Certificates
+
+58? Numbers: 443, 465, 989, 990, 992, 993, and
+
+XKEYSCORE Queries
+Full log DNI search or use SSL plugin
+
+ApplD/Fingerprints: or
+?network_ 
+
+18
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Type 4: SSH
+
+SSH Secure Shell
+
+Industry-standard networking protocol for securely
+logging Into other machines vra a network.
+
+   
+
+Complete paired traffic
+Port number 22
+
+Potentially recover user names and passwords
+
+Useful to access boxes and gather
+Information
+
+XKEYSCORE Queries
+Full log DNI search
+AppID/Fingerprints: ?terminal/ssh/*?
+
+19
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Birth of the VPN Adventure 
+
+   
+
+TOPIs
+SIGDEV 
+OTP 
+Centers
+Field Sites
+
+Second Parties
+
+20
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+ 
+
+TOP WHEEL LUTJ, CA. J, 
+
+he JVIany Flavors of Reque
+
+VPN
+EXPLOITATION
+
+TEAM
+
+ 
+
+TOP WHEEL UTJJE, .13, CA1, GDP, NZL
+
+
+
+TOP USA, AUS, CAN, GBR, NZL
+
+1. Initial Steps
+
+VPN Info Found/Question Arises
+
+   
+
+Task Assigned to Team Analyst
+
+Gather Background Info About Request
+
+22
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+2. Consult Repositories
+
+BLEAKINQUIRY Metadata database of potentially exploitable VPNs
+
+    
+
+TOYGRIPPE VPN metadata repository
+
+PINWALE - Long-term repository for
+tasked SIGINT collect
+
+XKEYSCORE - Processes and databases DNI
+
+collect from various field sites
+Full-take feed (tasked and untasked)
+
+VULCANDEATHGRIP - Repository for
+tasked, full-take VPN collection
+
+FOURSCORE PPTP repository
+
+23
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+3. Scripts: Focus
+
+   
+
+Format downloaded repository files
+Create intermediate processing files
+Check for potential vulnerabilities
+Search for PSKs in CORALREEF
+Run attacks to recover PSK
+
+traffic
+
+24
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+4. Com i cate Results ?1   
+
+   
+
+Can we the VPN traffic?
+
+If the answer is ?No? then explain how to
+turn It Into a 
+
+If the answer is 
+
+25
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Happy Dance!!
+
+   
+
+ 
+
+26
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+We ave   
+
+   
+
+Notify customer of success
+
+Send through post-processing and
+deliver to TOPI
+
+Have TOPI determine the priority level of the
+resulting plain text
+
+Get IPs on sustained collect
+
+Set up and transition sustained 
+process to OTP VPN Branch Rep
+
+27
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+,6 . 1, Turn that Frown Upside Down! f'  
+  From ?No? to  
+
+   
+
+Depends on why we couldn?t it
+
+Find Pre-Shared Key
+
+Locate complete paired collect
+
+Locate both IKE and ESP traffic
+
+Have collection sites do surveys for the 
+
+Find better quality collect with rich metadata
+
+28
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+  Contact Our Friends for Help -- 
+
+   
+
+Network Security Products
+
+Develop algorithms
+Tailored Access Operations
+
+Computer Network Exploitation to create access points
+Collection Sites
+
+Perform surveys for the IPs of interest
+
+29
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+More Friends
+
+   
+
+Commercial Solutions Center
+Manage industrial relationships
+
+SIGDEV
+
+Develops tools and methods to help you find
+the traffic you desire
+
+OTP VPN Representatives
+Assist in locating traffic of interest
+
+TOPI
+Target knowledge
+
+30
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+   
+
+Sustained Exploitation
+
+Develop sustained exploitation thread
+TOPI confirms the are
+Interesting
+
+TOPI must task IP in CADENCE
+
+Task Port and IP
+UTT does not have boolean logic
+
+Categories
+6640 (protocols) and 6648 (ports)
+PPTP: 6648 (ports)
+SSL: 6647 (ports)
+
+Get the system title
+Work with the OTP VPN Regional Branch representative
+
+31
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Establish the Data Flow
+
+Establish the correct corporate data flow
+CES data flow guru
+
+Make sure the correct routing tags and categories
+are appended to the data
+
+Direct tasked traffic to correct data repository
+PINWALE
+VU LCANDEATHGRIP 
+VULCANMINDMELD SSL
+FOURSCORE - PPTP
+
+Try to avoid relying on XKS workflows due to legal and
+logIstIcal Issues
+
+XKEYSCORE SSH using XKS workflows directed to
+a ?le dIrectory
+
+   
+
+ 
+
+32
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+   
+
+Data Flow Integrity
+
+Evaluate data integrity, quality, quantity
+
+Different collectors produce different metadata
+formats
+
+Need rich metadata
+Need all the pieces (IKE and ESP for 
+
+Ensure that the data is not garbled and headers
+attached appropriately
+
+Check that the data volume is what is expected
+
+33
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Collection Sites
+
+Contact Collection Sites if there are data
+ISSUES
+
+Malformed headers
+
+Missing metadata
+
+Missing payload
+
+Garbled data
+
+Low volume
+
+Single-sided traffic
+
+     
+
+I Collection sites sometimes only collect one-
+SIde of the VPN traffIc
+
+Need to collaborate with both sites
+
+34
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Processing
+
+the VPN traffic
+Create SRI files for 
+
+Send the decry tand SRI files to
+TURTLEPOWER PPTP) 0r CAPRI OS (SSL,
+SSH) for post-processing
+
+of payload
+Decompression
+Unrar files
+
+Route to appropriate data repository according
+to the cry system We and type of (text,
+v0Ice, etc
+
+   
+
+35
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Repositories
+
+PINWALE
+Tasked PPTP, and SSL
+
+Must be placed in the correct artition according to
+claSSIfIcatIon (REL FVEY, NOFO N, FISA)
+
+   
+
+XKEYSCORE
+
+SSH - often have router configurations and user
+credentIals are eaSIer to VIew In XKS than
+PINWALE
+
+Still developing the process
+
+36
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+TOPI Evaluation
+
+Analyst locates the in PINWALE and/or
+XKEYS ORE
+
+Viewing the 
+PINWALE,
+XKEYSCORE
+AGILITY
+DNI PRESENTER
+
+     
+
+
+
+Contact TURTLEPOWER or CAPRI OS if there are
+We renderIng Issues
+
+Also try the Unidentified Protocols team in 831122 for
+help IdentIfyIng unknown protocols
+
+37
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Thread Monitoring
+
+Responsibility for monitoring these
+ex |0Itation threads are transferred to the
+VPN Regional Branch representative
+After the thread is established and stabilized
+
+Trouble shoots and collection
+Issues
+
+   
+
+Set up a cron job to run the 
+every day
+
+TOPI_con_tinue_s to identify
+and report mISSIon-crItIcal IntellIgence from
+these 
+
+38
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+ Success 1:  
+Follow-the-Money and TAO Targets
+
+(82C22 has had a_ close 
+relatIonshIp WIth A0 for quIte some tIme
+
+FTM Target 1
+
+Not susceptible to any of implants
+
+ 
+
+TAO got the configuration files which
+prowded us the PSKs to enable passwe
+eprOItatIon
+
+39
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+   
+
+Success 1: 
+
+FTM Target 2
+
+TAO got on the router through which banking
+traf?c of Interest flows
+
+an implant which allows passive
+eprOItatIon WIth Just ESP
+
+Successful exploitation for the past two
+years
+
+40
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL   
+ Success 2: PPTP 
+Airlines
+
+Iran Air, IRTAA
+
+Royal Jordanian Air, JOTAA
+Transaero Airlines, RUCAC
+Telecommunications
+
+Mir Telematiki (pending system title)
+Afghani Wimax (pending system title)
+
+Government
+Mexican Diplomatic, 
+Pakistani General Intelligence, PKRAQ
+Turkish Diplomatic, TUDAT
+Afghanistan Government, AFYAD
+
+   
+
+41
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+Success 2: PPTP
+
+Banking and Financial
+
+Zaad Financial
+
+Ewallet transactions of a principal financial node for
+SomaII terrorIst actIVIty
+
+Follow-the-Money customer
+KabulBank
+
+BNI Banking, Indonesia
+Formed and owned by the Indonesian government
+
+Banking transactions over ?Flexy,? Telkom
+IndoneSIa?s fIxed WIreless network
+
+Other
+IRGC cyber attacker
+Nigerian power company?s internal network
+
+   
+
+42
+
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP USA, AUS, CAN, GBR, NZL
+
+   
+
+Reminders
+
+If it?s not exploitable now, that doesn?t mean it
+won?t be later
+
+We collaborate and communicate with our
+frIends to produce 
+
+Traffic must be both good quality and the
+correct type
+
+43
+TOP USA, AUS, CAN, GBR, NZL
+
+ 
+

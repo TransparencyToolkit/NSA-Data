@@ -1,0 +1,600 @@
+TOP SECRET 
+Innov
+
+Experiment Profile
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Name Experiment
+Servrces Reference
+Version Date
+(NSA) NSAIS3ICES
+Experiment Owner Department GCHQIPTD
+(GCHQ)
+Experiment Start Date 0610112010 Experiment End Date Early 2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part 1 Experiment Overview
+
+ 
+
+Business Case I
+
+ 
+
+ 
+
+As part of the Joint Capability Activity (JCA) in partnership with GCHQ, experiments
+are to be conducted within the Joint Capability Experiment (JCE) to test the
+robustness, scalability and interoperability of services integrated into
+the corporate high speed DNI architectures of each agency. The 
+services experiment will explore a new hardware configuration for sensitive
+mission applications integrated into a secure processing enclave
+interfacing to the corporate high speed DNI architecture. This will also include the
+testing of hardware accelerated at the frontend. The business case for
+running this experiment is to demonstrate the following:
+
+Stress the processing capability under heavy load of ?tasked? common
+internet technologies
+Test the throughput capability of common internet 
+technologies processing including:
+- Higher bandwidth common internet technologies
+streams
+- Throughput of ISLANDTRANSPORT messaging support for CA
+Service requests to NSAW LONGHAUL key recovery service
+- The temporary storage of data while waiting for a
+response from LONGHAUL
+Test the Hardware accelerated (CAVIUM card) common internet
+technologies processing component
+Test the impact of XKEYSCORE as Stage 2 of TU RMOIL for follow on
+processing of exploited common internet technologies
+
+ 
+
+ 
+
+streams
+lnnov8 Experiment Profile Template V0.2 1 Of 8
+rs exempt from disclosure under the Freedom of Information Act 2000 and may be to under
+
+other UK legrslatrorr. Refer Llrseloerre requests to GCHQ orr
+
+TOP SECRET 
+
+ 
+
+TOP SECRET 
+
+ 
+
+Benefits
+
+ 
+
+ 
+
+ 
+
+Outcome Expected Benefit How will KPI (CSF) Reference
+benefit he Number
+measured?
+
+ 
+
+Validation of the new
+hardware chosen for
+
+processing
+
+ 
+
+Integration of hardware
+accelerated 
+
+ 
+
+Ability to cope with high
+throughput and
+bandwidth of common
+internet 
+technologies
+
+ 
+
+Ability to prioritize
+processing
+appropriately
+
+ 
+
+Ability to process
+multiple common
+internet 
+technologies
+exploitation capabilities
+concurrently
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plan
+
+ 
+
+ 
+
+The Services processing experiment will consist of several additive
+experiments. The first two will mostly consist of preparatory work. The subsequent
+experiment will explore scalability and interoperability.
+
+Note that the below list is not exhaustive; this represents the initial list of experiments
+to be conducted in JCE with respect to services. Subsequent
+experimentation upon conclusion of the below experiments will be negotiated with
+INNOV8 as appropriate.
+
+EXP. 1: Test dataflow month) This experiment will set up and configure the new
+processing hardware as well as basic dataflows into the 
+services for further experimentation. Streaming dataflows of common internet
+technologies and ISLANDTRANSPORT dataflows to LONGHAUL for
+recovery will be established. This experiment will ensure that the
+services can properly process data using existing capabilities from NSA-
+centric TURMOIL systems. Additionally, the appropriate analytics will be put in place
+and evaluated to identify viable candidate input streams (case notations) containing
+the common internet technologies of interest.
+
+EXP. 2: Stress testing month) This experiment will stress test the current suite of
+services to identify the baseline throughput and scalability parameters.
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 2 Of 8
+
+This inlorn'iation is exempt lrom disclosure under the ol lnlorn'iation Act 2000 and may be subject to exen'iption under
+
+other UK inlorn'iation legislation. Reler disclosure requests to GCHQ on?
+TOP SECRET 
+
+ 
+
+ 
+
+TOP SECRET STRAP1
+
+ 
+
+This experiment will leverage and validate candidate input streams (case notations)
+containing the common internet technologies of interest.
+
+EXP. 3: Integration of new processing functionality (4-6 months)
+This experiment will introduce new and enhanced capabilities to increase throughput,
+scalability and interoperability. This will include but not be limited to hardware
+accelerated agile management of buffered data, the
+development of an interoperable API for sharing CA services requests across
+and key recovery architectures, the ability for follow-on
+processing architectures to consume large volumes exploited common internet
+technologies of interest.
+
+ 
+
+ 
+
+PUT Involvement
+
+ 
+
+ 
+
+Team members includeT53
+GCHQ
+- 
+
+ 
+
+ 
+
+Migration Approach
+
+ 
+
+ 
+
+ 
+
+The goal is to transition new capabilities as they are tested and validated
+in the JCE environment into the JPC operational environment to provide mission
+value.
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 3 Of 8
+
+This inlormation is exempt lrom disclosure under the Freedom ol lnlormation Act 2000 and may be subject to exemption under
+other UK inlormation legislation. Reler disclosure requests to GCHQ on
+
+TOP SECRET STRAP1
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAP1
+Part 2 - Experiment Detail
+
+ 
+
+High Level Description of
+Experiment
+
+ 
+
+ 
+
+ 
+
+Same as Business case.
+
+ 
+
+ 
+
+System Network Diagrams
+
+ 
+
+ 
+
+System c? Network Diat rams
+TOP TO USA, 
+
+Exploitation of Common Internet 
+Technologies
+
+Cipher Start
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+ 
+
+ 
+
+4
+'1
+
+Validation of
+results
+
+ 
+
+CA Service Requests
+
+  
+ 
+   
+
+4? -b
+NSAICES
+Enclave
+
+boundary
+
+ 
+
+Storage
+Of 
+content
+
+Hardware
+Accelerated
+
+
+ 
+
+TOP TO USA, 
+
+ 
+
+ 
+
+Hardware Requirements
+
+ 
+
+ 
+
+The services experiment requires the inclusion of 4 IBM 3650 M3
+servers (2 servers per 106 LPT) to run the sensitive mission
+applications. The processing servers are dedicated to 
+processing and are firewalled off from the rest of the LPT system. These are an
+extension of the ES enclave and can only be administered by
+CES approved sys-admins. This will include appropriately cleared for
+monitoring and auditing purposes. The individuals will need to have a minimum of ECI
+PIQARESQU E. The results of processing will be FVEY for
+the purposes of this experiment.
+
+ 
+
+ 
+
+Software Requirements
+
+ 
+
+ 
+
+ 
+
+Owner should detail here any additional software requirements and the steps taken to procure the
+required items. Note: All software should be registered with SAM.
+
+ 
+
+Innov8 Experiment Profile Template V0.2 4 Of 8
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+TOP SECRET STRAP1
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAP1
+
+ 
+
+Connectivity (Dataflows)
+
+ 
+
+ 
+
+The success of the services experiment relies on the ability to extract
+and pass parameters associated with common internet 
+technologies to for attack and recovery. The 
+parameters are extracted in the processing servers and passed to
+via a corporate messaging system (ISLAN DTRANSPORT)
+connection. The messages are prior to leaving the processing
+servers using the secure corporate messaging software (ISLANDHIDEAWAY) for
+security and authentication.
+
+ 
+
+ 
+
+Data Requirements
+
+ 
+
+ 
+
+This experiment will leverage and validate candidate input streams (case notations)
+containing the common internet technologies of interest.
+
+ 
+
+ 
+
+Data Repositories
+
+ 
+
+ 
+
+ 
+
+ 
+
+Legalities
+
+ 
+
+ 
+
+ 
+
+ 
+
+Additional Support
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Access
+
+ 
+
+ 
+
+ 
+
+ 
+
+External Dependencies
+
+ 
+
+ 
+
+ 
+
+ 
+
+Previous I Related Work
+
+ 
+
+ 
+
+ 
+
+ 
+
+Innov8 Experiment Profile Template V0.2 5 Of 8
+
+This inlormation is exempt Irom disclosure under the ol lnlormation Act 2000 and may be subject to exemption under
+
+other UK inlormation legislation. Reler disclosure requests to GCHQ on 
+TOP SECRET STRAP1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAP1
+
+Innov8 Experiment Profile Template V0.2 5 Of 8
+
+This inlormation is exempt Irom disclosure under the Freedom ol Information Act 2000 and may be subject to exemption under
+
+other UK inlormation legislation. Reler disclosure requests to GCHQ on?
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+ 
+
+ 
+
+Access Control
+
+ 
+
+ 
+
+Serial Access Given Full Name HRA Training ECI Cleared Role PF No.
+YIN
+
+e.g. Root/User Developer 11111
+
+ 
+
+Innov8 Experiment Profile Template V0.2 7 Of 8
+
+This inlormation is exempt Irom disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK inlormation legislati
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+SEG Reviewers
+
+Post
+GCH Service Owner
+NSA Service Owner
+Innov8 Service Man er
+Innov8 En ineeri
+Innov8 Su rt Team echnical
+Innov8 Corn Iiance Man er
+Data Owner
+Selector ement Team
+ACD (Datafl ow)
+
+8808 Representative
+
+OPP-LEG
+
+IT Services
+
+IT Services Bude
+Bude SSE
+
+TFE-SSE
+
+TPS
+
+SAM Re resentative
+Secu Workin Grou
+
+ 
+
+Changes to Experiment Profile
+
+ 
+
+Version Amendment Date Changes to the Experiment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Innov8 Experiment Profile Template V0.2 8 Of 8
+
+
+TOP SECRET STRAP1
+

@@ -1,0 +1,232 @@
+SECRET COMINT
+The maximum classification allowed on GCWiki is TOP SECRET COMINT. Click to report
+inappropriate content.
+
+ 
+
+For GCWiki help contact: webteam Support page
+
+STARGATE CNE Requirements
+
+From GCWiki
+(Redirected from OPCCNE Prototyping STARGATE CNE Requirements)
+
+ 
+
+Jump to: navigation, search
+
+OPCCNE Prototyping Team (team leader?
+
+ 
+
+ 
+
+HOME . MAD . KITCHEN SINK . MARVAL ICE . IRONING BOARD . TIN REVERIE . SORCERER .
+
+ 
+
+FEDEX
+Agile . Admin . Andromeda . Data Characterisation . Desks . Discussion . Forensics . Index . Links . Notes
+
+ 
+
+. Storyboards . Team . Training . Planning . Priorities . Unification Workshop . Infrastructure .
+
+ 
+
+Development Process
+
+ 
+
+This page is for staff to add requirements
+for STARGATE. You should start by reading the
+Endpoint Initiative Requirements. Your requirement
+
+ 
+
+may have already been captured.
+
+Some headings have been added to get you 
+
+Contents
+
+1 How should the file system be rendered?
+
+2 How do you want to search the file system?
+3 How do you want to get tasked by
+customers?
+
+4 What should appear on the summary pages?
+What about summary pages for a Project or
+Implant?
+
+5 Embedded Comments
+
+6 What would CNE need from Network
+diagrams?
+
+7 What input is most important
+
+
+8 Scri ts
+
+9 Visualising non?DareDevil logs
+
+10 Add a new section here!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[in] How should the file system be
+rendered?
+
+0 I would like to be able to use STARGATE to
+
+view the files directly from the drive. GCHQ
+
+STARGATE
+
+User Guide
+
+Bugs Feedback
+
+Deployments
+CNE Requirements
+
+
+
+
+(D
+SH
+
+
+Administration
+
+User Management tool
+
+
+ 
+
+
+c:
+B.
+
+VORPAL SWORD
+
+ 
+
+User Guide
+
+Bugs Feedback
+Development
+Mr
+
+
+
+Interface from ROYAL MANTLE
+
+ 
+
+Architecture
+
+My
+ERIDANUS
+
+CHEYENNE MOUNTAIN
+CHEYENNE MOUNTAIN2
+
+ 
+
+ 
+
+has a site wide license for OutsideIn 0 Ag 
+(QuickView uses this behind the scenes). You 0 CNE on the BIG BUS
+
+ 
+
+can convert around ~350 document formats
+into HTML for viewing safely. This is not 
+meant to replace udaq but would be a convinent
+and safe halfway?house to view files quickly
+for tactical operational reasons.
+
+
+
+Iteration 7 Feedback
+Iteration 6 Feedback
+Iteration 5 Feedback
+
+ 
+
+ 
+
+ 
+
+Dev Team
+
+[in] How do you want to search the file
+system?
+
+[in] How do you want to get tasked by
+customers?
+
+[in] What should appear on the summary
+pages? What about summary pages for a
+Project or Implant?
+
+ 
+
+[in] Embedded Comments
+
+What form should they take? Do you want to be able to add attachments or hyperlinks. Do you want to be
+alerted when a comment is added to your project?
+
+[in] What would CNE need from Network diagrams?
+
+[in] What input is most important 
+[git] Scripts
+
+Incorporate scripts detailed in the TDE wiki into STARGATE, eg;
+
+0 Email project lead (or interested party) when a volume manager event occurs. User?
+
+0 Please add more ideas!
+
+[git] Visualising non-DareDevil logs
+
+0 I need to be able to view logs from unix ops 
+0 I need to be able to view logs from masquerades (directory listings from FTP servers)
+
+User?
+
+0 I need to be able to view logs from ops where i exploit on to the box and just use legspin
+
+(THICKISH ALPHA) User:?
+
+[iit] Add a new section here!
+
+Retrieved from 
+
+Categories: STARGATE CNE Prototyping Team
+
+ 
+

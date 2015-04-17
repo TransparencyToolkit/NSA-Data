@@ -1,0 +1,285 @@
+TOP SECRET STRAP1 
+The maximum classi?cation allowed on GCWiki is TOP SECRET COMINT. Click to report inappropriate content.
+ForGCWiki help contact: web|eam Supporl pa 1:
+
+ 
+
+LOVELY HORSE
+
+From GCWiki
+Jump to: navigation, search
+LOVELY HORSEJPG
+
+LOVELY HORSEZJPG
+
+LOVELY HORSE is a TCP Task Order 144 initiative as part of CD0 (formerly NDIST) and the Cyber Theme towards developing Open Source capabilim. So far, we have worked towards making structured datasets available on the high side for to use - this data is available within HAPPY TRIGGER. We are now looking
+towards making use ofmore unstructured information (blogs, forums, Twitter). LOVELY HORSE seeks to experiment with provision ofan indexed repository ofunstructured information that can be used to push content of interest to individual via a variety ofmechanisms.
+
+The initial LOVELY HORSE can be accessed from M. See below for more details.
+
+See also 7 BIRD SEED
+
+Contents
+
+0 1 Problem statement
+0 2 Initial roto
+0 2.1 Current sources
+0 3 Future development concept
+0 3.1 Team
+0 3.2 ources
+0 3.3 Processing
+I 3.3.1 Content
+I 3 3 2 Memdpm
+3.3.3 Index
+I 3.3.3.1 How to generate a pot oftags?
+4 ni 
+0 3.5 Visualisation and Access
+0 4 Your Thoughts
+
+[elm] Problem statement
+
+are potentially missing out on valuable open source information relating to cyber defence because ofan inability to easily keep up to date with specific blogs and Twitter sources. Accessing these resources involves using specific IEDI terminals, or reading up at home. We need to make this information available to on the
+high side at their normal terminals.
+
+However, there is a balance to be found - don't have the time to spend hours and hours reading through loads ofblogs. In addition, we don't want this repository to be yet another tool that have to access - this information needs to be incorporated into existing work?ows.
+
+We need to find away to index this information so that only get a relevant subset ofthis information pushed to them.
+
+[edit] Initial prototype
+We are working with TRIG to make use ofthe existing architecture for capturing tweets ?om Twitter. We are also working with CISA around techniques they are developing to capture blog content. Both of these obviously take time, and are slower burn objectives.
+
+In the meantime, we are running an initial protomje, where Twitter and (and subject to legal/security approval) blog content is manually scraped and uploaded to GCDesk. This content is accessible by way ofpersonalised RSS feeds. Individual users can choose their preferences, in terms ofwhich Twitter accounts and blogs they want to
+follow, and a personalised RSS feed is generated automatically for them to which they can subscribe.
+
+This can be used by anyone, and can be accessed from M. Your personal RSS is linked ?om the LOVELY HORSE website.
+
+As stated previously, this is a manual update at the moment, and will initially be maintained on a best endeavours basis (hopefully roughly daily). Once the architecture comes on line, this will be updated in real time.
+For any requests for new Twitter feeds you wish to be able to subscribe to, please get in touch.
+
+[in] Current sou rees
+
+Currently, we're bringing in the following list ofTwitter accounts. To request new ones, please submit your requests, with a briefjustification, via the suggestion box on LOVELY HORSE
+
+Oxcharlie
+alexsotirov
+anonops
+anonymousirc
+anonicentral
+anonioperations
+bradarkin
+
+danchodanchev
+daveaitel
+dinodaizovi
+diocyde
+
+equ?
+
+halvar?ake
+hdmoore
+hemano
+
+kevinmitnick
+lennyzeltser
+lulzsec
+
+mdowd
+
+mikko
+ms?secresponse
+operationleaks
+owasp
+
+pusscat
+Shadowserver
+snow?Ow
+taosecurity
+taviso
+
+thegrugq
+TheHackersNews
+tinman2k
+
+WTFuzz
+
+[elm] Future development concept
+
+The rest ofthis page is constituted ?om ideas that we currently have about LOVELY HORSE.
+
+[gLit] Team
+
+It will be delivered by TCP's team.
+
+[edit] Sources
+
+Initially we need to identify a series of sources. We currently have a list ofaround 60 blog and Twitter sources that have been identified by CD0 and cyber defence experts from Detica, and most of these have been approved for collection by MP-LEG.
+Information will arrive in unstructured 'information articles'. In the context ofa blog, an article would be apost; on Twitter, an article would be a tweet.
+
+Blog sources:
+
+These sources have currently been approved by MP-LEG (see spre?sheet in OVER)
+
+0 
+
+0 
+
+I 
+. .xml
+
+0 intrepidusgroup/insight/feed
+
+I 
+rdierooLorg/feed/
+
+0 
+
+I imthezuk.blogspot.com
+
+dogber1.blogspot_com/
+
+0 
+
+0 blog.mandiant.com
+
+0 
+
+0 
+0 
+
+blogs.adobe.com/psirt/feed
+
+ 
+
+These sources are currently not approved by MP-LEG
+
+0 
+
+0 
+
+0 securityvulns.com
+
+0 
+
+targetedemailattacks.tublr.com
+
+Twitter sources:
+
+The advice from MP-LEG on this issue is that "provided the accounts you are selecting for acquisition meet the criteria as agreed in the approvals spreadsheet, i.e. those of?academics specialising in the identification and investigation ofvulnerabilities and malware", there is no need to seek authorisation for each individual Twitter account."
+Our selection of Twitter sources is currently as listed above, but will undoubtedly increase over time.
+
+Further potential sources ofinterest are found at 
+
+[eLit] Processing
+
+Initially, these articles get processed into three components:
+
+[ml Content
+
+The content will be the full textual content ofthe article. This will be stored as some sort in a dambase.
+Metadata
+
+We would strip memdam from the article such as
+
+Author/Source
+Datetime of submission
+
+and used this to update a Source Directory - information about the individual sources. For example:
+Author
+I Number ofarticles in LOVELY HORSE
+Average usefulness rating - see feedback mechanism
+Tags ofsubject matter linked with this source? - see indexing
+Index
+This is the important bit. The aim is to index the unstructured information so that it can be linked back to
+
+I An analyst?s particular interest
+As enrichment to an existing investigation
+
+The proposed idea is to make use of mgging (defining 'indexing' as 'identifying keywords'). Each article would be mgged with information that had been extracted from it. These could be IP addresses, domains, or any text string from within the content ofthe article. Effectively these are the output ofentity extraction, and this list of
+tags would then be associated with that article.
+
+Similarly, lists of are associated with individual to define their specific interest set.
+[em Horn to generate a pmoimgs?
+We would need a pot of that becomes our entity set which we're extracting from new articles coming in. How to generate this pot oftags?
+Simple idea would be to regex for IP addresses and domains to start offwith.
+Could index every capimlised word in a blog title.
+Could get to provide a list of keywords they are specifically interested in.
+Could we extract keywords from existing analyst toolsets - for instance, do mg investigations within Palantir?
+should be encouraged to mg articles they read
+There is potential to link this entity extraction initiative in with corporate entity extraction tools that may provide more sophisticated matching.
+Could try and analytically identify tags. Whole articles could be tokenized and aword count generated. Ifaparticular term appeared, say, 4 or 5 times in the current week, but not last week, then maybe that's a new trend? In which case we should add this term to the pot ofmgs.
+[eLit] Feedback mechanism
+Important to allow easy ability to appraise usefulness ofinformation. should be able to like content from whichever interface they're accessing the content. Ifan analyst likes a particular article, tags from that article are automatically added to their personal mg list.
+
+Articles can have a usefulness rating assigned to them - generate some metric on the lines of (number of'likes'/number ofviews). Articles that have a usefulness rating over a specific threshold could be pushed to all An average ofthe usefulness ratings across all articles from one source can be used to appraise different sources -
+almost becomes a crude 'confidence factor' in the information - should I trust/act upon this information?
+
+edit] Visualisation and Access
+Need to be different ways access and view this content.
+Palantir - as enrichment to existing investigations. Similarly to the current enrichment helper, any articles that had which are entities within the investigation are ?agged up. The content should then be viewable in a human readable format within Palantir.
+Alerts - should be alerted when a new article is tagged with a tag from their interest set. How should this alerting happen? Email? RSS feed?
+I General search, there should be LOVELY HORSE front end that can be used for to search across the whole repository. Would want to investigate tools that can provide Google-like searching (need to investigate MERA PEAK, NSA's LEXHOUND).
+
+May need to be a timeframe element in the enrichment, content that is 2 years old may not be relevant.
+
+POC: (mail 
+[elm] Your Thoughts
+
+Ifyou've got any thoughts on this initiative, please get in touch either directly to or feel free to edit this section and add them below:
+a
+
+0
+
+Retrieved from 
+
+Views
+
+ 
+
+Additional mtistics
+Personal tools
+
+Navigation
+
+Main Page
+
+Help Pages
+
+I WikipediaMirror
+Ask out..
+Random page
+
+I Recentchanges
+
+Repb?aPrleem
+Contacts
+
+0 
+
+Search
+
+Toolbox
+
+What links here
+Related changes
+pload ?le
+SW
+Prinmble version
+
+Permanent link
+
+This page was last modified on 6 February 2012, at 09:40.
+
+This page has been accessed 538 times.
+
+All material is UK 7 Crown Coovrightl 2008 or is held under licence from third parties. This information is exempt under the Freedom oflnformation Act 2000 (FOIA) and mav be exempt under otherUK information legislation. Refer anv FOIA queries to
+GCHO on 01242 221491x30306 or a i 
+
+Privagy policy
+
+About GCWiki
+
+Disclaimers
+
+TOP SECRET STRAP1 
+The maximum classi?cation allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report inappropriate content.
+

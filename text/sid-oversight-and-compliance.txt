@@ -1,0 +1,692 @@
+TOP 
+
+UNITED STATES GOVERNMENT
+
+Memorandum
+
+DATE: 3 May 2012
+REPLY TO
+ATTN OF: SID Oversight Compliance
+SUBJECT: NSAW SID Intelligence Oversight (IO) Quarterly Report First Quarter Calendar
+
+Year 2012 (1 January 31 March 2012) EXECUTIVE SUMMARY
+TO: SIGINT Director
+
+ 
+
+I. (U) Overview
+
+The attached NSAW SID Intelligence Oversight (IO) Quarterly Report for the First Quarter
+Calendar Year 2012 (1 January 31 March 2012) identifies NSAW SID compliance with EC. 12333, 
+Regulation Policy 1?23, USSID SP0018, and all related policies and regulations.
+
+Detailed incident narratives are provided in the attached annexes. The number of incidents in
+each category and a reference to the annex related to each incident category are contained in the body of the
+report.
+
+As part of SID Oversight and Compliance?s (SV) charge to provide comprehensive trends and
+analysis information as it pertains to incidents of non?compliance, this Executive Summary provides analysis
+and evaluation of incidents reported throughout the current quarter to better address the ?whys? and ?hows?
+behind NSAW compliance posture.
+
+Section II, Metrics, has been broken down into several sub?sections: metrics and analysis of
+NSAW SID?reported incidents by authority, type, root cause, and organization. Also included is an assessment
+of how incidents were discovered methods of discovery) for SID?reported incidents (see Figure 7).
+
+Significant Incidents of Non?compliance and Report Content follow in Sections and IV,
+respectively.
+
+Overall, the number of incidents reported during 1QCY12 increased by 11% as compared to the
+number of incidents reported during 4QCY11. This included a rise in the number of EC. 12333 incidents, as
+well as for incidents across all FISA authorities. The majority of incidents in all authorities were database
+query incidents due to human error. Of note, S2 continued to be the NSAW SID organization with the largest
+number of reported incidents although S2 experienced an overall decrease in reported incidents. SV
+noted an overall improvement in timeliness regarding 1QCY12 IO Quarterly Report submissions from the SID
+elements.
+
+Page 1 of 13
+TOP 
+
+TOP 
+
+ 
+
+11. (U) Metrics
+a. NSAW SID-reported Incidents by Authority
+
+TO USA, FVEY) Figures 1a-b compares all categories of NSAW SID?reported incidents
+(collection, dissemination, unauthorized access, and retention) by Authority for 2QCY11 1QCY12. From
+4QCY11 to 1QCY12, there was an overall increase in incidents of 11%. There was also an increase of 11% for
+both E.O. 12333 and FISA incidents. The increase in incidents reported for 1QCY12 was due to an increase in
+the number of reported Global System for Mobile Communications (GSM) roamer1 incidents, which may be
+attributed to an increase in Chinese travel to visit friends and family for the Chinese Lunar New Year holiday.
+
+Figure 1a: Table of the Number of NSAW SID?reported Incidents by Authority
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+2QCY11 3QCY11 4QCY11 1QCY12
+E.O. 12333 396 390 601 670
+FISA 150 198 176 195
+TOTAL 546 588 777 865
+
+Figure 1b: Line Graph of the Number of NSAW SID?reported Incidents by Authority
+
+800
+700
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12333
+L:
+?g 300 -I-FISA
+2QCY11 3QCY11 4QCY11 1QCY12
+Quarter 
+
+FISA Incidents: As re?ected in Figures 1a-b, during 1QCY12, NSAW SID reported a total
+of 195 FISA incidents, 185 of which were associated with unintentional collection. NSAW SID also reported 6
+incidents of unintentional dissemination under FISA authority and 4 incidents of unauthorized access to Raw
+
+ 
+
+1 Roaming incidents occur when a selector associated with a valid foreign target becomes active in the US.
+Page 2 of 13
+
+TOP 
+
+TOP 
+
+SIGINT FISA data. Figure 2 illustrates the most common root causes for incidents involving FISA authorities
+as determined by SV.
+
+0 63% (123) of 1QCY12 FISA incidents can be attributed to Operator Error as the root cause, and
+involved:
+0 Resources inaccurate or insufficient research information and/or workload issues 
+0 Lack of due diligence failure to follow standard operating procedures) 
+0 Human error (21) which encompassed:
+Broad syntax no or insufficient limiters defeats parameters) 
+I Typographical error 
+Query technique understood but not applied and
+Incorrect option selected in tool and
+0 Training and guidance training issues) (3).
+
+The Resources root cause category accounted for the largest percentage of Operator Error
+incidents under FISA authorities for 1QCY12. Analysis identified that these incidents could be reduced if
+had more complete and consistent information available about selectors and/or targets at the time of
+tasking and if consistently applied rules for conducting queries.
+
+0 37% (72) of 1QCY12 FISA incidents can be attributed to System Error as the root cause, and
+involved:
+0 System limitations system lacks the capability to ?push? real?time travel data out to
+system/device unable to detect changes in user) 
+0 System engineering system/database developed without the appropriate oversight
+measures, data ?ow issues, etc.) and,
+0 System disruptions glitches, bugs, etc.) (1).
+
+The System Limitations root cause category accounted for the largest percentage of System
+Error incidents under FISA authorities for 1QCY12. The largest number of incidents in the System Limitations
+category account for roamers where there was no previous indications of the planned travel. These incidents are
+largely unpreventable. Consistent discovery through the Visitor Location Register (VLR) occurs every quarter
+and provides with timely information to place selectors into candidate status or detask. Analysis
+identified that these incidents could be reduced if removed/detasked selectors more quickly upon
+learning that the status of the selector had changed and more regularly monitored target activity. This analysis
+indicates that continued research on ways to exploit new technologies and researching the various aspects of
+personal communications systems to include GSM, are an important step for NSA to track the travel of
+valid foreign targets.
+
+Page 3 of 13
+
+TOP 
+
+TOP 
+
+Figure 2: 1QCY12 FISA Incidents Root Causes
+
+
+Operator Human Error (21)
+Operator Due Diligence (39)
+'4 Operator Resources (60)
+
+?4 Operator Training (3)
+
+System Disruptions (1)
+
+  
+
+System Engineering (4)
+
+   
+
+- a a a
+2% System Limitations (67)
+Total: 195 
+
+TO USA, FVEY) Delayed Detasking FISA Incidents: As re?ected in Figures 1a-b, during
+1QCY12, NSAW SID reported a total of 195 FISA incidents. 19 of the total FISA incidents were
+associated with detasking delays. Of the 19 delayed detasking incidents, 12 of these incidents occurred
+under NSA FISA Authority, 5 occurred under FAA 702 Authority, occurred under FAA 704
+Authority, and 1 occurred under FAA 705(b) Authority. Figure 3a illustrates the detasking delay incidents
+versus all other FISA incidents reported during 1QCY12. Figure 3b illustrates the detasking delay incidents by
+FISA Authority reported during 1QCY12.
+
+Figure 3a: 1QCY12 Detasking FISA Figure 3b: 1QCY12 FISA Incidents
+Incidents vs. All other FISA incidents by Authority Delayed Detaskings
+
+
+    
+
+NSA Establishment FISA
+
+Delayed Detasking (19) (12)
+
+ 
+
+IFAA 702(5)
+I Other Incidents (176) FAA 704 (1)
+IFAA 705(b) (1)
+Total: 195 Total: 19
+
+
+Page 4 of 13
+
+TOP 
+
+TOP 
+
+TO USA, FVEY) As depicted in Figures 3a and 3b, of the 19 delayed detasking FISA
+incidents, 15 resulted from a failure to detask all selectors, 2 resulted from analyst not detasking
+when required, 1 resulted from partner agency error, and 1 (5 resulted from all tasking not terminated
+dual route).
+
+b. NSAW SID-reported Collection Incidents by Sub-Type and Authority
+
+Figures 4a-b depicts NSAW SID?reported collection incidents by Authority (E.O. 12333 and
+all FISA Authorities), and identifies the primary sub?types for those incidents. An explanation of the more
+prominent collection incident sub?types follows the graphs.
+
+Figure 4a: NSAW SID?reported Collection Incidents Under E.O. 12333 Authority
+
+582 H4QCY11 
+
+ 
+
+ 
+
+41512130 962218 32214167 2405
+0 I I
+Roamers No Computer Database Task/Detask USP Transit Other
+Auth Network Queries Delays/Errors Program* Inadvertent
+Exploitation
+(CNE) 
+
+Figure 4a: During 1QCY12, NSAW SID reported a 39% increase of database query incidents
+under E.O. 12333 Authority. Human Error accounted for 74% of E.O.12333 database query incidents.
+
+TO USA, FVEY) International Transit Switch Collecti0n*: International Transit switches,
+FAIRVIEW STORMBREW ORANGEBLOSSOM and SILVERZEPHYR
+are Special Source Operations (SSO) programs authorized to collect cable transit traffic passing
+through U.S. gateways with both ends of the communication being foreign. When collection occurs with one or
+both communicants inside the US, this constitutes inadvertent collection. From 4QCY11 to 1QCY12, there was an
+increase of transit program incidents submitted from 7 to 27, due to the change in our methodology for reporting and
+counting of these types of incidents. (*See Annex in 1QCY12 IO Quarterly Report for additional details
+regarding these incidents.)
+
+Page 5 of 13
+
+TOP 
+
+TOP 
+
+Figure 4b: NSAW SID?reported Collection Incidents Under
+All FISA Authorities
+
+leCYn I3QCY11 H4QCY11 
+
+   
+
+ 
+
+100
+Roamers No Computer Database Queries Task/Detask USP Other Inadvertent
+Auth Network Delays/Errors
+Exploitation
+(CNE) 
+
+Figure 4b: During 1QCY12, NSAW SID reported an increase of 9% of roamer incidents under
+all FISA Authorities. There was also a 260% increase in database query FISA Authority incidents during
+1QCY12. Human Error accounted for the majority of all FISA Authorities database query incidents 
+
+Roamers: Roaming incidents occur when valid foreign target selector(s) are active in the US.
+Roamer incidents continue to constitute the largest category of collection incidents across E.O. 12333 and FAA
+authorities. Roamer incidents are largely unpreventable, even with good target awareness and traffic review,
+since target travel activities are often unannounced and not easily predicted.
+
+Other Inadvertent Collection: Other inadvertent collection incidents account for situations
+where targets were believed to be foreign but who later turn out to be US. persons and other incidents that do
+not fit into the previously identified categories.
+
+TO USA, FVEY) Database Queries: During 1QCY12, NSAW SID reported a total of 115
+database query incidents across all Authorities, representing a 53% increase from 4QCY11. E.O. 12333
+Authority database query incidents accounted for 84% (97) of the total, and all FISA Authorities database query
+incidents accounted for 16% (18).
+
+Figure 5 illustrates the most common root causes for incidents involving database queries as
+determined by SV.
+
+0 99% (114) of the 1QCY12 database query incidents are attributed to Operator Error as the root
+cause, and involved:
+0 Human error (85) which encompassed:
+I Broad syntax no or insufficient limiters defeats parameters) 
+I Typographical error 
+I Boolean operator error 
+I Query technique understood but not applied 
+I Not familiar enough with the tool used for query and
+
+Page 6 of 13
+
+TOP 
+
+TOP 
+
+I Incorrect option selected in tool (1)
+0 Lack of due diligence failure to follow standard operating procedure) (13)
+0 Training and guidance training issues) and
+0 Resources inaccurate or insufficient research information and/or workload issues) (7).
+
+The remaining 1 database query incident can be attributed to System Error as the root cause
+and occurred due to a mechanical error with the tool.
+
+Analysis identified that the number of database query incidents could be reduced if 
+more consistently applied rules/standard operating procedures (SOPs) for conducting queries.
+
+F) Auditors continue to play an important role in the discovery of database query incidents,
+identifying 70 of the 115 reported database query incidents.
+
+Figure 5: 1QCY12 Database Query Incidents Root Causes
+UHFOUO
+
+1%
+
+Operator Human Error (85)
+Operator Due Diligence (13)
+'4 Operator Resources (7)
+Operator Training (9)
+
+System Disruptions (1)
+
+ 
+
+Total: 1  [rim-[f0
+
+TO USA, FVEY) Of the 115 database query incidents reported for 1QCY12, Figure 6 identifies
+the database involved and the associated percentage of the total. Databases considered to be Source Systems of
+Record (SSR) have been labeled as such.
+
+TO USA, FVEY) Note that the total number of databases involved in the database query
+
+incidents in Figure 6 does not equal the number of database query incidents re?ected in Figure 5 or in the
+1QCY12 SID IO Quarterly Report because a database query incident may occur in more than one database.
+
+Page 7 of 13
+
+TOP 
+
+TOP 
+
+Figure 6: 1QCY11 Database Query Incidents Database(s) Involved
+
+
+ 
+
+1% I (8)
+ - I DISHFIRE (16)
+IFASTSCOPE (n
+I MARINA (SSR) (24)
+IOCTAVE (H
+(34)
+I SIGINT NAVIGATOR (1)
+I TRACFIN (2)
+Q)
+(M
+IUTT (n
+EXKEYSCORE Q4)
+Unknown (1)
+Total: 119 
+
+NSAW SID-reported Incidents Method of Discovery
+
+Figure 7 depicts the most prominent method(s) of discovery for incidents reported by NSAW
+SID elements for 1QCY12. As assessment of root causes matures, and as corrective measures are
+implemented, identification of how incidents are discovered will provide additional insight into the
+effectiveness of those methods.
+
+Figure 7: 1QCY12 Incidents How Discovered
+
+
+600 553
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+500 -
+400 -
+300 -
+200 -
+908? 30.1.5) (890 6&0 $59 be ?Rob be 4&9 4x2? Q00 006? $906? @830
+a2) egg 0?9 ?g'09.
+600
+
+Total: 865 ?6 
+Page 8 of 13
+
+TOP 
+
+TOP 
+
+For 1QCY12, of the 865 reported incidents, 553 were discovered by automated alert.
+444, of the 55 3 incidents that were discovered by automated alert occurred via the VLR and other
+analytic tools, such as SPYDER, CHALKFUN, and TransX.
+
+c. NSAW SID-reported Incidents by Organization
+
+Figure 8 illustrates the total 1QCY12 NSAW SID?reported incidents by primary SID Deputy
+Directorate (DD) level organization. S2, having the largest NSAW SID contingent of reported incidents,
+accounted for 89% of the total incidents for the quarter, a proportion consistent with the overall size of the S2
+organization. As compared to 4QCY11, S2 experienced an overall 8% reduction in incidents occurrences.
+
+Figure 8: 1QCY12 Incidents by NSAW SID Organization
+
+
+2 
+
+    
+
+:51 1
+
+772
+
+iS3 56
+
+IF74 MOC 4
+
+EISSG 14
+
+1
+
+i2nd Party /Various 17
+
+Total: 865 I DU 0
+
+Figure 9 provides a look into S2 (by Product Line) as the NSAW SID organization with the
+largest number of reported incidents. For 1QCY12, three Product Lines accounted for 72% of 82?s reported
+incidents. These Product Lines were: the and Korea Division (S2B) with 28% of the reported incidents, the
+International Security Issues Division (S2C) with 23% of the reported incidents, and the China, and the Office
+of Middle East Africa (S2E) with 21% of the incidents. As compared to 4QCY11, this resulted in an increase
+of 16% for S2B, a reduction of 35% for 82C, and an increase of 9% for S2E. The number of incidents reported
+by the remaining seven Product Lines held relatively steady from 4QCY11 to 1QCY12.
+
+Page 9 of 13
+
+TOP 
+
+TOP 
+
+Figure 9: 1QCY12 S2 Incidents by Product Line
+
+
+4%
+4%  .. ESZA is2E 159
+
+EISZF 17
+
+SZG 25
+
+29
+
+.821 60
+
+Total: 772 2
+
+
+
+Figures 10a-b illustrates the operator related (Figure 10a) and system related (Figure 10b)
+root causes associated with the 772 incidents reported by S2. 30% of the incidents were due to operator related
+errors that resulted in an incident. 70% of the incidents were due to system related issues that resulted in an
+
+incident.
+Figure 10a: 1QCY12 S2 Incidents Operator Related Root Causes
+
+
+
+iHuman Error 71
+iInformation Resources 80
+iLack of Due Diligence 68
+
+El Personnel Resources 2
+
+ 
+
+i Training&Guidance 9
+
+Total: 230
+
+
+
+30% of the S2?reported incidents during 1QCY12 are attributed to Operator Error as the root
+cause, and involved:
+
+0 Resources inaccurate or insufficient research information and/or workload issues, and
+personnel resource issues) 
+
+Page 10 of 13
+
+TOP 
+
+TOP 
+
+0 Human error selector mistypes, incorrect realm, or improper query) 
+0 Lack of due diligence failure to follow standard operating procedures) and
+0 Training and guidance training issues) (9).
+
+Analysis found that could reduce the number of incidents if there was more
+comprehensive research information available at the time of tasking as well as through better use of defeats,
+more careful review of data entry to avoid typographical errors and omissions, and by following SOPs more
+consistently.
+
+Figure 10b: 1QCY12 S2 Incidents System Related Root Causes
+
+
+
+
+I System Engineering 1
+System Limitations 541
+
+   
+
+ 
+
+Total: 542
+
+
+70% of the S2?reported incidents during 1QCY12 are attributed to system issues as the root
+cause, and involved:
+0 System limitations system lacks the capability to ?push? real?time travel data out to 
+system/device unable to detect changes in user) (541); and
+0 System engineering data tagging, configuration, design ?aws, etc.) (1).
+
+TO USA, FVEY) System Limitations, the largest percentage of System Error root cause, can
+be attributed to situations where a valid foreign target is found roaming in the United States without indication
+in raw traffic.
+
+ 
+
+111. (U) Significant Incidents of Non-compliance
+
+F) Business Record (BR) FISA. As of 16 February 2012, NSA determined that approximately
+3,032 files containing call detail records potentially collected pursuant to prior BR Orders were retained on a
+server and been collected more than five years ago in violation of the 5?year retention period established for
+BR collection. Specifically, these files were retained on a server used by technical personnel working with
+the Business Records metadata to maintain documentation of provider feed data formats and performed
+
+background analysis to document why certain contain chaining rules were created. In addition to the BR
+Page 11 of 13
+
+TOP 
+
+TOP DFORN
+
+work, this server also contains information related to the STELLARWIND program and ?les which do not
+appear to be related to either of these programs. NSA bases its determination that these files may be in
+violation of docket number BR. 1 1?191 because of the type of information contained in the ?les eall
+detail records}, tlte access to the server by technical personnel who worked with the BB. metadata, and the
+listed ?creation date? for the tiles, It is possible that these files contain STELLARWIND data, despite the
+creation date. The STELLARWIND data could have been copied to this server, and that process could have
+changed the creation date to a tinteframe that appears to indicate that they may contain BR metadata.
+Additional details regarding this incident can be found in the ?Bqu ivletadata Annes, ANNEX 
+{Item in SlD?s IQCY If) Quarterly Report.
+
+T0 USA, FVEY) Detasking Delay. Four selector-emained active after multiple
+
+indications were received that the target held a US. gre "h EDIE, a South Asia Language
+Analysis Branch (SEASI) senior linguist was preparing ivision} seiectors for DCTAVE
+mi Iration when it was discovered that the tasking record for ?howed that there were four selectors
+
+?lhat were in active status even though his tasking file indicated he held a as. green card as of?S
+October Efll I. On 09 March EfllE. the senior linguist detasked the four selectors, and on 13 March
+the SEASI senior linguist requested the SSI cuts in NUC ?tion from those four
+selectors be purged. On 13 March EDIE. a senior re eporting Branch
+
+ISEASE) researched SEASE's locally held ?le of U. erson status and learned
+that an SEASE analyst had indications in intercept on 09 September E01 ?might have a U.S.
+green card. It was also recorded in the same SEASE file that SEASE had submitted a request to the
+Department of Homeland Security the date of the SEASE request to DHS was
+not recorded) and learned from DHS on E8 September E111 I that-had obtained a US. green card as
+e-zo In. The 52ers: senior reporter then checked aneaoav and discovered that seasz had
+issued 3E reports betwee 011?} and 2111 1. Do 14 March 20] E, SEAS submitted a
+
+re nest for Retroactive Dissemination Authorit for the SE re orts which contained the name of
+
+The Customer Relationships,
+Information Sharing Services Branch (SIE) approved IE on In March Serialized
+dissemination of U.S. person information did occur. Dn 13 March EfllE, the senior linguist who
+found that these number-ad not been detasked reminded the other two members
+Governmental Unified Targeting Tool IUTT) Group for SEAS to check all SEAS databases for%
+officials who have U.S. (and Second Party person) status before submitting selectors for tasking. Additional
+details regarding this incident can be found in the Unintentional Collection tinder ED. [2333 Authority
+Annes, ?Collection as a Result of Tasking Errors or Detasking Delays?, ANNEX {Item El} and in the
+?Unintentional Dissemination of U.S. Person Information Collected Under E121. FISA, and FAA
+Authorities". Annes l'vl (Item in if} Quarterly Report.
+
+  
+  
+    
+ 
+
+    
+    
+ 
+  
+  
+
+ 
+
+ 
+
+-I.
+
+ 
+
+TD USA, FVEY) Unauthorized Access. IDII December 1, a and Exploitation
+ofTarget Pursuit Branch Chiefdiscovered that CES personnel had likely been
+inappropriately granted access to NSA Establishment FISA data. lvlultiple estemal factors contributed to this
+situation. First, in EfiflE, was changed to encompass both NSA Establishment FISA and FBI FISA,
+but due to insuf?cient notice regarding this modi?cation, ICES continued to apply the earlier rule that
+applied only to NSA Establishment FISA data. Second, CES relied on the RAGTIME label in
+for granting access to NSA Establishment FISA data but discovered that does not
+accurately re?ect NSA Establishment FISA briefing status. Third. often lists NSA-FISA in the
+
+Page IE of 
+
+TUP 
+
+TQP SEC CIFORN
+
+?Oversight? section even though this has nothing to do with a particular user?s access. CES has alerted its
+workforce to look in the CASPCIRT ?Briefing? section for the NSA Establishment FISA entry and 
+controllcd software is being updated regarding data access control. Additional details regarding this incident
+can be found in the ?Unauthorized Access to Raw Annes, ANNEX (Item PE) in Sl?ls 1QCY12 IQ
+Quarterly Report.
+
+ 
+
+Report Content
+I Upcoming Initiatives
+
+During C?r? IE. S?v" plans to develop ?score cards? to capture and illustrate an organisation?s
+reported quarterly activities. S?v? plans to use this information during scheduled feedback sessions with SID
+reporting organisations to provide a detailed view into specific areas of high interest or concern arising from
+analysing ICI Quarterly Report metrics.
+
+I NSAW SID 1QCY12 IDQ Report Challenges:
+
+S?v? noted an overall improvement in timeliness regarding 1QCY12 Quarterly Report
+submissions from the SID elements. S?v? received late submissions from Strategy Sr Govemance
+and Directorate for Data Acquisition delaying Ski?s preparation ofthe NSAW SID IO
+Quarterly Report. S?v? will continue to focus on outreach with SSG and SS in order to ensure more complete
+and timely report submissions.
+
+ 
+
+U?rel,  Uversrg?t flomplrance
+
+Page 13 of IS
+
+THE QFORH
+

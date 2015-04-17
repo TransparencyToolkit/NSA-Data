@@ -1,0 +1,390 @@
+TLS trends at GCHQ
+
+
+
+Source of data
+
+- Our TLS events come from our TLS app
+
+Runs on special source (approx. 200 106) and
+Comsat data
+
+Produces unselected events: about 10 billion Server
+Hellos per week
+
+- Records details about the handshake: lPs, Hello
+messages, Certificate, Key Exchanges
+
+- Events stored for 6 months in our clouds
+
+
+
+
+
+Trends Reports
+
+. We summarise these events to produce weekly
+trends reports, which record:
+_Types of key exchange 
+
+?Top 40" TLS services in use, highlighting new
+services and changes in existing services
+
+Details about the DH moduli)
+
+?Watchlist? to keep an on widely-used services
+(Facebook, Gmail, Hotmail, etc)
+
+
+
+
+
+Example: top 40 services
+
+#1 Top Certificates seen by Common Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+common Name Modu)us UaTid From va)id untii Issuer org Postion 8 of Tota) Past Raw count
+*.tacebook.com 13201210 11204213 DigiCert Inc 1 (1) 9.291 (10.205) 968222690 (1122419008)
+0248.e.0k0mai.net 01209211 31208212 GTE corporation 2 (2) 2.695 (2.046) 802295222 (228458290)
+12211211 13202212 VeriSign Trust Network 3 (3) 5.096 (5.443) 531368555 (601326032)
+api.twitter.com 18205210 12205212 verisign, Inc. 4 (4) 4.440 (4.839) 463021223 (534652212)
+?.notmai).com 13202211 12202213 5 (5) 2.228 (2.624) 284430903 (289942922)
+urs.microsott.com 16205211 15205212 6 (6) 2.656 (2.584) 226995432 (285510909)
+*.channe).facebook.com 23/11/10 26/11/13 Digicert Inc 2 2.242 (2.401) 233203625 (265316019)
+01208211 01208212 Akamai Techno1ogies Inc 8 (10) 2.180 (1.584) 222382435 (125019929)
+m.tacebook.com 29205211 01206213 Equifax 9 (14) 2.046 (1.520) 213402210 (162941922)
+6.daIa.I661tIai-.yan66.cc.m 24/06/10 25/00/13 Equifarn: 10 (11) 1.232 (1.523) 101112243 (123826822)
+1ogin.yanoo.com 21212210 03201213 DigiCert Inc 11 (12) 1.219 (1.409) 129230294 (155213115)
+?.iCToud.com 02206211 02208213 Entrust, Inc. 12 (9) 1.214 (1.253) 128284944 (193662902)
+W.goog)e.com 08203212 08203213 Goog3e Inc 13 (12) 1.428 (1.542) 154111639 (120445646)
+19204211 18204213 14 (15) 1.296 (1.466) 135141462 (161960265)
+s?5t0tic.ak.tacebook.com 29202211 29202212 Akamai TechnoIogies Inc 15 (18) 1.252 (1.354) 130543626 (149630545)
+api.)ogin.icq.net 30206211 16208212 VeriSign, Inc. 16 (35) 1.188 (0.428) 123931502 (52863604)
+imap.gmaii.com 18211211 18211212 GDUQTE Inc 12 (25) 1.160 (0.659) 120963041 (22889992)
+20/00/11 22/00/12 verisign, Inc. 10 (21) 1.004 (0.960) 114130550 (106102395)
+pop3.1ive.com 24203211 23203213 19 (20) 1.048 (1.024) 109361226 (113150224)
+twitter.com 02202211 22202212 Verisign, Inc. 20 (19) 0.969 (1.128) 101088158 (124642248)
+.mws.mobi)e.ii0e.com 12208210 30209214 verisign Trust Network 21 (16) 0.955 (1.450) 99584853 (160225556)
+13201212 13201213 Akamai Inc 22 (22) 0.931 (0.902) 92155933 (100210124)
+*.tacebook.com 14202211 13202212 Verisign Trust Network 23 (13) 0.843 (1.525) 82962311 (168424280)
+?.imap.mai). ahoo.com 11205211 15205213 Digicert Inc 24 (29) 0.202 (0.584) 23246541 (64522656)
+?.itunes.app e.com 23206209 22206214 VeriSign, Inc. 25 (23) 0.688 (0.239) 21281445 (81245924)
+Trustedsourceserver_IMQA01 18202210 01201238 26 (28) 0.669 (0.614) 69284882 (62852652)
+26210211 30209213 Thawte Consu1ting (Pty) Ltd. 22 (24) 0.665 (0.238) 69403948 (81563480)
+?.wnatsapp.net 31212209 31212212 GoDaddy.com, Inc. 28 (22) 0.622 (0.622) 65465951 (69350595)
+16205211 15205213 29 (26) 0.606 (0.630) 63213853 (69606626)
+?.cityvi)ie.2ynga.com 29206211 28206212 VeriSign, Inc. 30 (32) 0.583 (0.451) 60885889 (49891238)
+*.2ynga.com 01209211 30212213 DigiCert Inc 31 (33) 0.569 (0.521) 59409296 (52599432)
+?.tw?ittercom 12/02/11 12/00/13 GeoTrust, Inc. 32 (30) 0.554 (0.525) 52220165 (63623522)
+?.mai1.ru 12203212 11205214 Thawte, Inc. 33 (42) 0.530 (0.425) =2 55262251 (46962081)
+contacts.msn.com 12205211 11205213 34 (34) 0.514 (0.506) 53694286 (55968833)
+?.s3.amazonaws.com 15212210 18212213 Digicert Inc 35 (38) 0.509 (0.450) 53084116 (49220339)
+?.addons.mozi)1a.org 22212210 29212212 GeoTrust, Inc. 36 (31) 0.492 (0.550) 51395280 (60262021)
+*.5ecurestudies.com 02203212 19203213 COMODO c0 Limited 32 (82) 0.420 (0.143) 2 49056255 (15851002)
+19204211 20204213 The USERTRUST Network 38 (39) 0.444 (0.442) 46338349 (49394988)
+?.cast 0.2 nga.com 01209211 30212213 DigiCert Inc 39 (44) 0.438 (0.396) 45221029 (43261252)
+gig?166.466 e.com 04/10/10 01/10/12 Entrust, Inc. 40 (43) 0.410 (0.421) 43266504 (46590125)
+?.ca)endar.yahoo.com 13203212 20203213 DigiCert Inc 41 (63) 0.405 (0.205) 42323610 (22622002)
+
+
+
+Trends Reports: Findings
+
+. ratio roughly constant (90:5:5)
+EC almost entirely Google (plus a bit of whatsapp)
+. New certificates mostly use 2048-bit RSA keys
+. We?ve seen new services jump up the list:
+Summer 2011: Google?s switch to Elliptic Curves
+_Autumn 2011: Apple?s iCloud service
+_Spring 2012: Increase in mobile Facebook 
+
+
+
+
+
+TLS and targets
+
+- Trends reports not based on targeted data
+
+- How do we judge interest in TLS services,
+and get involved? Two ways
+we?ve tried:
+
+?Associate TLS events with targets, and inform
+the relevant (TargeTLS)
+
+Put TLS data out there for to search
+(FLYING PIG)
+
+
+
+
+
+Ta rg reports
+
+BROAD OAK: repository of target info
+
+We match TLS events against this:
+Is the server IP in BROAD 
+
+Does the certificate?s domain match a URL selector,
+or a number of email selectors?
+
+Email the relevant POC to ask if the traffic is of
+interest
+
+About 15% of the services we?ve identified in
+this way have been worth looking into further
+
+
+
+
+
+FLYING PIG
+
+- TLS knowledge base. Summarises all
+TLS events to answer multiple
+questions, 
+
+What certificates are present on a given
+
+
+Which client IPs access a given service?
+
+Which TDIs can be associated with a
+given service?
+
+
+
+
+
+Example: search by domain
+
+KNUWLEDGE EIASE 
+
+
+
+Prototype owner:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HRA Justification Query FLYING - general 88L toolkit Query QUICK - Tor events QFD
+Query FLYING PIG Server certificate fields to search within:
+1:3 2 network ,2 certificate field 3001005 90mm?? 2
+Query as: Client IP Server 10' Both Isutuect Organlgatmn name
+   
+or: Server Certificate 0. .02 eHam |e.com use 02 for wildcards
+)1 R824 modulus
+Run Query!
+ICertificate field search: %mai|.rul
+requests matching your query H)
+1?5of500 items I I I 1
+Server IP Host name First seen Last seen Count wfe Count all time
+25th Nov
+.184.105 swa.mai|.ru 2011?10?13 15:05:53.0 2011?11?25 21:11:50.0 5085553 42540230
+.184.104 swa.mai|.ru 2011?10?13 12:20:18.0 2011?11?25 21:11:55.0 5023183 35825411
+.134.201 fc.ef.d4.cf.bd.a1.top.mai|.ru 2011-10-13 21:43:10.0 2011-11-25 21:10:40.0 4040243 10350020
+.135.13 top5.mail.ru 2011?10?14 20:00:00.0 2011?11?25 21:12:05.0 3005858 14158053
+.135.12 top3.mail.ru 2011?10?14 20:00:00.0 2011?11?25 21:10:48.0 2480050 12385000
+certificates matching Iyour queryI Server IPs ?3 
+Tip 1: Right click on a row to find all server 105 that serve that certificate! Tip 1: Right click on a server IP to
+Tip 2: Click on the disk icon in the title bar to download data in (3312 format! Explore 't further!
+Tip 3: Double?click on afield to enable copy and pasteChange displayed columns ('Basic' is default; 'edvanced' adds RSA Modulus and cipher suite distribution columns): Basic columns Advanced columns itemS
+Server IP Cert Cert
+1 10 of 20 Items 10 1 count count all
+wfe time
+Full First seen Last seen Count Count all Valid from Valid to Subject common Subject Subject oro Issuer common Issuer Issuer oro Self 25th
+Certificate wfe time name country name name country name Signe Nov
+ 113-4 14 
+. . .er lF' I'uIiher!
+. . .
+308203003082I201109 22 2011 11 25 2952229 16638958 201101 31 2012 03 22 .maIl.ru ru maIl.ru thawte 55! ca us thawte, Inc. 333592 1052618
+13.12.32 10.01.50 00.00.00 23.50.50 191 213 330212 138851?
+2011?11?25 240025 1085232 2010?01?21 2011?02?20 thawte premium 20 thawte 
+14:05:50 18:58:32 00:00:00 23:59:59 server ca consulting cc '134-15 303599 2495915
+2o11-11-2s 10059 30520 2o11-o0-2s 2o13-11-23 *.money.mai|.ru ru mai|.ru thawte 55! ca us thawte, inc. -134-12 292292 2225133
+20:20:55 18:53:40 00:00:00 23:50:50 184.15 204432 2305012
+2011?11?25 025 8512 2010?01?25 2012?01?22 mai|.ru.is is mai|.ru.is us eguifax 180.150 158414 550032
+12:01:58 15:40:05 15:42:05 18:12:50 184.22 120533 550335
+308202C83082E2011-08-22 2011-00-05 0 1482 2011-03-04 2012-03-03 us us 5? 154.24 113555 515159
+08:14:21 05:15:35 05:42:12 05:42:12 I I I I13435 112534 538512
+308204383082E2011-10-12 2011-11-25 22 1235 2011-05-22 2012-02-25 thawte dv ca us thawte, Inc. 134.76 110325 690093
+14:00:52 18:50:10 00:00:00 23:50:50 135 55 3??9 6023
+2011?11?25 301 1150 2010?02?13 2012?11?08 ru shogo shogo.ru ru shogo '135'56 3:40 F358
+00:05:24 12:04:02 14:10:05 14:10:05 
+2o11-11-2s 245 693 2o11-o0-15 2o12-o0-14 limgs.mail.ru ru isp.cegedim.fr fr cegedim '134'151 3554 3493
+02:36:53 14:26:20 11:42:51 11:42:51 453-121 2532 4332
+2o11-11-21 am 306 2011?10?05 2014?10?04 moder.foto.mail.ru ru mail.ru moder.foto.mail.ru ru mail.ru 5' 435-43 2523 9225
+18:20:34 05:13:34 08:02:34 08:02:34 .134.08 2350 0155
+2011?11?25 00 250 2011?00?15 2012?00?14 auth.mail.ru isp.cegedim.fr fr cegedim .120.80 2222 2500
+14:14:12 15:45:50 11:42:51 11:42:51 '17-'995 2551 2325
+135.84 1081 8442
+
+ 
+
+
+
+
+
+Example: search by server
+
+In
+FLYING 
+
+BASE at?
+HRA Justification Query FLYING general SSL toolkit Query QUICK Tor events QFD
+Query FLYING PIG
+
+Prototype owner:
+
+Server IP-specific panels
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[0 II network lI certificate ?ele 13414 General IP info 4? SSL Server certificates seen on this IP .2
+Query as: Client Sewer Both Top 10 SSL client geos 4? SSL Pattern oflife I 4?
+Dr:  Network [Elgl le?lwgar] Top 10 SSL server ports .2 HTTP regueststo this IP .2
+or:  Server Certificate ?foekamplecom (use ?In for wildcards)] TDD 5.5L case notat'mg TDD 1'30 SSL 
+SSL Traffic stats .2
+Run Query!
+ICertificate field search: %mail.rul lServer IP: 
+General IP info for server IP 184.14
+Geolocation WHDIS info AS info '3 DNS Tor node 
+Country: RU (M) Network: - Network type: No results. Advertised by AS: 42264. Found within network: No results No matches
+City: MOSCOW (L) Company: Mai|.Ru. Domain: mail.ru. 25.0220.
+AS name: MAILRU-AS Limited liability company Mai|.Ru.
+Top 10 SSL client geos Top 10 SSL server ports Top 10 SSL case notations '3 Stats 1:
+Overall Paired (approximate) For week ending 2011-12-23:
+0 No. unique clients 104312.
+443  19'] 199 client?server IPs with traffic seen in both directions 14.7%.
+1 El 100.000
+'3
+2011-11-04 2011-11-11 2011-11-13 2011-11-25
+1 5 .Llnique clients with client-server .Unique clients with server-client Unique clients with
+traf?c traf?c bidirectional traf?c
+SSL Certificates seen on this IP 
+Tip 1: Right click on a certificate to explore it further!
+1?3of3items - I II 1
+First seen on this IP Last seen on this Count v-Iyie 25th Count all time Valid from Valid to Subject common name Issuer common name
+Nov
+2011?00?22 13:31:05 2011?11?25 10:01:42 352543 2350120 2011?01?31 00:00:00 2012?03?22 23:50:50 *.mai|.ru thawte 
+2011?08?08 12:23:45 2011?11?25 02:50:02 1441 1442304 2011?01?31 00:00:00 2012?03?22 23:50:50 ??.mail.ru thawte 55! ca
+2011-11-15 14:13:03 2011-11-15 14: 13:03 0 1 2011-08-05 18:34:10 2014-08-05 18:34:10 *.vkontakte.ru go daddy secure certification authority
+Average pattern of life for a client (seeded around SSL events to this server IP) HTTP requests to this IP (top 100) '3 
+Tip 1: Filter by min. ?26 occurrences of event: - Apply filtering Til] 1: Right Click on a Server 03 82024003 it EIS an SSL server!
+1?8of233items 1 4 . 1?10of22oitems 10| 1 ..I 0
+Correlated event Event Event Percentage Server IP Host name requested First seen Last seen Count last Count all time
+port occurrences week
+9' Went 104.14 e.mai|.ru 2011-10-14 2011-11-25 1000215 13992535
+GET request to t003-mail-ru 435-12 30 23-1 .104.14 m.mai|.ru 2011-1o-14 2011-11-25 89268 664100
+GET request to t005.mail.ru 435.13 80 15.1 104.14 I.104.14 2011-1o-14 2011-11-25 12426 108535
+GETreouest to do.cl.bf.al.tob.mail.ru 434.253 80 14.2 104.14 auth.mai|.ru 2011-1o-14 12011-11425 11200 2oo2o
+EFT 494.4? Fin 1:1? 152.114 0011-11-05: 000d. 
+
+ 
+
+
+
+ 
+
+ 
+
+Contacts
+
+- TLS trends: Operations
+BULLRUN team
+
+-_@gchq)
+??@gchq>
+
+FLYING PIG: ICTR Network
+Exploitation
+
+-?@gchq)
+

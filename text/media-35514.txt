@@ -1,0 +1,110 @@
+ 
+
+
+GALLANTWAVE volume
+
+Derived From: 1-52
+Dated: 20070108
+
+Declassify On: 20351201
+
+ 
+
+Requirements
+
+@Scale
+
+- Deploy more widely
+- Leverage peering with partner
+
+@Volume
+
+- Increased system size: 106 406 1006
+- Increased target volumes: CORNERKICK 
+
+ 
+
+
+@Scale
+
+Need
+
+Peer to forward ?missing? attack-events to to LONGHAUL, so
+LONGHAUL can use them to complete single-sided processing.
+
+LONGHAUL to reciprocate.
+Approach
+
+LONGHAUL to become aware of which ?Events? are not pairing local to agency
+and to request peer to send (copy) of such events to LONGHAUL
+
+Minimise bandwidth required to communicate requests
+Peering is a back-end (KPS LONGHAUL)
+
+Peers process independently
+
+ 
+
+ 
+
+Single-sided using peering
+
+ 
+
+
+
+   
+
+ 
+
+ 
+
+
+
+I. VR
+
+  
+
+ 
+
+
+
+Filtered pairing
+
+ 
+
+    
+
+
+
+
+event[E-> 
+
+reques
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+event[A-> 
+
+rquest[A-> 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+

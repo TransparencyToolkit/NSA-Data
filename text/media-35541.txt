@@ -1,0 +1,124 @@
+TOR deanonymisation research (MIP) - GCWiki
+
+TOP SECRET COMINT
+
+The maximum classi?cation allowed on GCWiki is TOP SECRET 
+COMINT. Click to report inappropriate content.
+
+TOR deanonymisation research
+
+(MIP)
+
+From GCWiki
+Jump to: navigation, search
+
+Mathematical Information Processing Research Task:
+TOR deanonymisation
+
+Customer: 
+Status: in (started
+December 2010)
+
+Can we denonymise In
+other words, if given some
+traf?c from a TOR exit node,
+can we ?nd the IP address of
+the user associated with that
+traf?c?
+
+[edit] Research
+
+A circuit tracing attack was
+?rst considered. However
+signatures run by
+TDSD showed that our
+coverage of TOR is too low to
+have a reasonable chance of
+doing such an attack; on
+JTRIG paths we only saw 2
+out of 8294 potential inter?
+TOR?node links.
+
+Instead we are now
+
+MCR lead: 
+Team: 
+
+E)
+
+Mathematical Information
+Processing Research
+
+0 Home
+0 Tasks:
+
+0 active
+0 a_11
+in suspended, completed
+
+Papers
+
+ 
+
+0 Staff
+0 notes:
+
+0 Current (open access}
+0 Pre?July 2011: web RSS
+
+0 Notes (pm?2010 limited access!
+
+0 Our processing user: brule
+Seminars
+
+ 
+
+Software
+
+
+ID.-
+ICD
+
+considering an entry?exit correlation attack. Data collected from
+infrastructure showed that some timing structure is
+preserved between entry and exit node.
+
+10f3
+
+TOR deanonymisation research (MIP) - GCWiki
+
+The successful outcome of this entry?exit correlation attack is documented in
+An package implementing the attack is available: 
+doc.
+
+The work was presented at SANAR1 1. The slides are here.
+
+We plan to prototype the technique in the REMATION II workshop. The
+introductory slides are here.
+
+Retrieved from 
+
+ 
+ 
+
+Categories: MIP task in MIP task 
+MIP task for Internet Anonvmitv The Onion Router
+
+20f3
+
+TOR deanonymisation research (MIP) - GCWiki
+
+ 
+
+Go Search
+
+ 
+
+TOP SECRET STRAPI COMINT
+The maximum classi?cation allowed on GCWiki is TOP SECRET 
+COMINT. Click to report inappropriate content.
+
+ 
+
+30f3
+

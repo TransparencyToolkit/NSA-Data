@@ -1,0 +1,396 @@
+ 
+
+Stinks
+
+
+CT SIGDEV
+
+ 
+
+JUN 2012
+
+ 
+
+ 
+
+82
+
+ 
+
+ 
+
+TorS?nksuu
+
+We will never be able to de-anonymize all Tor
+users all the time.
+
+With manual analysis we can de-anonymize a
+very small fraction of Tor users, however, no
+
+ 
+
+ 
+
+success de-anonymizing a user in response to a
+TOPI request/on demand.
+
+ 
+
+ 
+
+TOP REL FVEY
+
+REMATION II 
+
+Joint NSA GCHQ counter-Tor workshop
+- Week one at MHS focus on analytics
+
+- Week two at GCHQ focus on exploitation
+
+
+
+TOP REL FVEY
+
+ 
+
+TOP REL FVEY
+
+Laundry List
+
+Analytics to de-anonymize users Exploitation
+
+Circuit reconstruction (21) QUANTUM attacks (1, 20, 22)
+
+Goes inta goes outta/low latency (2) Existing options (8 11)
+
+Cookie leakage Shaping (9 16)
+
+Dumb users (EPICFAIL) Web server enabling (10)
+
+Node Lifespan (17) Nodes (14)
+
+DNS Degrade user experience (13 18)
+Technical Analysis/Research Nodes
+
+Hidden services (4, 5, 6, 7) Baseline our nodes (21)
+
+Timing pattern (3) Tor node ?ooding
+
+Torservers.net/Amazon AWS
+
+TOP REL FVEY
+
+ 
+
+TOP REL FVEY
+
+Analytics: Circuit Reconstruction 
+
+Terrorist with
+Tor client Installed
+
+G) Tor relay node
+
+. Tor entry node
+
+ 
+
+Internet site
+
+  
+  
+
+)Tor exit node 
+
+  
+ 
+
+
+
+.r?rrmr) 
+
+   
+
+ANONYMIZER CLOUD
+
+Current: access to few nodes. Success rate negligible
+because all three Tor nodes in the circuit have to be in the set
+of nodes we have access to.
+
+Dif?cult to combine meaningfully with passive SIGINT.
+
+Goal: expand number of nodes we have access to
+GCHQ runs Tor nodes under NEWTONS CRADLE (how many?)
+Other partners?
+Partial reconstruction (?rst hops or last hops)?
+
+TOP REL FVEY
+
+Analytics:
+
+Goes lnta Goes Outta/Low Latenc 
+Find possible alternative accounts for a target: ook
+
+for connections to Tor, from the target? 5
+suspected country, near time of target? 5 activity.
+- Current: GCHQ has working version (QUICKANT). has
+
+alpha tested 5 version. 5 version produced no
+obvious candidate selectors.
+
+- Goal: Figure out if QUICKANT works, compare
+
+methodologies. Gathering data for additional tests of
+5 version (consistent, random and heavy user)
+
+Analytics: Cookie Leakage
+
+Use cookies to identify Tor users when they are
+not using Tor
+- Current: preliminary analysis shows that some cookies
+
+?survive? Tor use. Depends on how target is using Tor
+(Torbutton/Tor Browser Bundle clears out cookies).
+
+- Goal: test with cookies associated with CT targets
+Idea: what if we seeded cookies to a target?
+
+ 
+
+Investigate Evercookie persistence
+
+Analytics: Cookie Leakage
+
+DoubleclickID seen on Tor and non-Tor 
+
+ 
+
+Analytics: Dumb Users (EPICFAIL) 
+
+GCHQ QFD that looks for Tor users when they
+are not using Tor.
+
+Current: GCHQ has working QFD based on
+hard selector (email, web forum, etc) but does
+not include cookies.
+
+Goal: NSA investigating own version (GREAT
+EXPECTATIONS) that would include cookies.
+
+Analytics: Node Lifespan 
+
+How do I know WHEN a particular IP was a Tor
+node as opposed to IF it was a Tor node?
+
+0 Current: detection done once an hour by NTOC.
+RONIN stores ?last seen? and nodes age off
+slowly with no accurate lifespan.
+
+Goal: Working with RONIN to add more details
+on node lifespan.
+
+ 
+
+Analytics: DNS 
+
+How does Tor handle DNS requests? Are DNS
+requests going through Tor? Does this depend
+on how the target is using Tor?
+
+Current: Still investigating.
+
+TOP REL FVEY
+
+Technical Analysis: Hidden Services
+
+
+
+What do we know about Hidden Services?
+
+- Current: No effort by NSA, some DSD and
+GCHQ Work on ONIONBREATH.
+
+Goal:
+Harvest and enumerate .onion URLs
+
+Identify similar HS based on referrer ?elds
+Distinguish HS from normal Tor clients
+
+ 
+
+Technical Analysis: Timing Pattern
+
+
+
+Send packets back to the client that are
+detectable by passive accesses to ?nd client
+for Tor users.
+
+Current: GCHQ has research paper and
+demonstrated capability in the lab.
+
+Goal: Can we expand to other owned nodes?
+
+ 
+
+Exploitation: QUANTUM 
+
+QUANTUM to degrade/deny/disrupt Tor access?
+
+QUANTUMCOOKIE forces clients to divulge
+stored cookies.
+
+
+I
+I 11?1! rlrar 
+I tnrr. m'm fer?c'le' ?awhorv70" pl?: 1/ 
+I A I
+. TOR Network Tlft?"?1c 1 lf??fn?C
+
+ 
+
+ 
+
+ 
+
+v? wane?: a '91 '9-.cen: it- .1 - 3C
+
+
+UllANllIn/l
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+I STAGE TOR Network I, 
+I
+I 
+. [unczec GU 32mLl:er I
+I can: L'ret. ?reY-CJuhe 
+L- 3 Dr. L. rehancl .
+c'b'gro I hC-u -Lr'vtj &uv" I?er? 
+
+
+
+ 
+
+Exploitation: Existing Options
+
+Test current CNE techniques (FA and SHORTSHEET)
+against Torbutton and TBB users.
+
+- Current: Torbutton and TBB prevent CNE success.
+Possible success against ?vanilla? Tor/Vidalia.
+
+Goal: modi?cations to initial CNE surveys? Ignore
+user-agents from Torbutton or Improve
+browser ?ngerprinting? Using javascript instead
+of Flash?
+
+ 
+
+Exploitation: Shaping
+
+Given CNE access to a target computer can we
+shape their traf?c to ?friendly? exit nodes?
+
+Route users to a separate ?private? Tor network?
+Stain their traf?c or user agent?
+
+Instruct target computer to use a service that
+connects outside Tor and reveal true 
+
+Current: Can stain user agent working on shaping.
+
+ 
+
+Exploitation: Web Server Enabling
+
+
+
+Given CNE access to web server modify the server
+
+to enable a ?timing/counting? attack similar to
+timing pattern idea.
+
+Current: GCHQ has a research paper and
+demonstrated the technique in the lab.
+
+ 
+
+Exploitation: Nodes
+
+Can we exploit nodes?
+Probably not. Legal and technical challenges.
+
+ 
+
+Exploitation: Degrade Tor experience
+
+
+
+Given CNE access to a web server make it
+painful for Tor users?
+
+Given CNE access to a network can we deny/
+degrade/disrupt Tor users? 
+
+ 
+
+Nodes: Baseline Our Nodes
+
+How many nodes do we have cooperative or
+direct access to? Can we deploy similar code
+to these nodes to aid with circuit
+
+reconstruction?
+Can we do packet timing attacks using nodes?
+Can we use the nodes to shape traf?c ?ow?
+
+Can we use the nodes to deny/degrade/disrupt
+comms to certain sites?
+
+ 
+
+Nodes: Tor Node Flooding
+
+Could we set up a lot of really slow Tor nodes
+(advertised as high bandwidth) to degrade the
+overall stability of the network?
+
+ 
+
+Tor But it Could be Worse
+
+
+
+Critical mass of targets use Tor. Scaring them
+away from Tor might be counterproductive.
+
+We can increase our success rate and provide
+more client for individual Tor users.
+
+Will never get 100% but we don? need to
+
+provide true IPs for every target every time
+they use Tor.
+

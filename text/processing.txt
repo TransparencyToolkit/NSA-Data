@@ -1,0 +1,57 @@
+ German, NBA Share UNI Processing Knowledge
+
+
+
+SUSLAG [Special US Liaison Activitv Gerinanv}
+Run Date: 
+
+A delegation responsible for building BND's next generation DNI
+[Digital Network Intelligence} processing architecture visited the Joint SIGINT
+Activitv in late Februarv for two days oi'discussions to learn more about
+
+lof'j
+
+NEA's DNI architecture. The JEA, an operational element of the Special UE Liaison
+Activity Germany is ajoint EIGINT development, collection, and
+exploitation site manned by German and US personnel.
+
+END discussed their processing architecture, which is largely
+based on NEA's old P25 and P26 GRANDMAETER prototypes. Their focus is
+primarily e-mail processing, speci?cally EMTP e-mail. Epam ?lters are used to
+manage large data volumes. Selected tra?ic is passed through an automated
+privacy protection system, ensuring that cannot view German-protected
+tra?ic. Dn-site END then manually assess all selected tra?ic to determine
+potential intelligence value.
+
+In conducting this evaluation, they do not prioritize the selected traf?c by
+target or keyword. Instead they focus on e-mails carrying attachments with the
+goal to scan e-mails as quickly as possible to increase their throughput. E-mails
+that are determined to be ofpotential intelligence value are then forwarded to END
+HQE for follow-on evaluation and reporting.
+
+NEA intelligence discussed NEA's EIGINT Development model,
+NEA's "Hunt versus Gather" philosophy, our multi-stage selection and ?ltering
+process, and the evolution processing systems from GRANDMAETER to
+WEALTHYELUETER and, in the future, TURMDIL. The END appeared especially
+interested in the TURMDIL approach of scanning and making judgments at the
+packet level prior to any sessionising.
+
+In summary, NBA and END use opposite selection and ?ltering
+approaches. Where NEA primarily relies on equipment for selection 
+and analyst minimisation for privacy protection, the END relies on
+to manually scan tra?ic for selection, and then equipment to ?lter data for
+privacy protection. Full use of current NEA DNI processing systems and analysis
+methodologies at JEA will be key to influencing the END to alter their strategic DNI
+processing approach.
+
+Note: END Germany's Eundesnachrichtendienst [the Federal Intelligence
+Service}
+
+ 
+
+This article is reprinted from the Foreign A?hirs Digest, April edition.
+
+Eof'j
+
+3of3
+

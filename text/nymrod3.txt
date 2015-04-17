@@ -1,0 +1,292 @@
+ {a 1; Human Language
+i   "50g? 
+Center for Content Extraction
+
+ 
+
+ 
+
+Content Extraction Analytics
+SIGDEV End-to-End Demo
+
+21 May 2009
+
+ 
+
+Duri'md Frun" 1-52
+Datud EDDTDIDE
+[Jutlassil?y [Iil'i 20330103
+
+ 
+
+:1 US. CAN. GER. 
+
+Introduction to Content Extraction
+
+ 
+
+ 
+
+I New technologies can find Essential
+Elements of Information in documents
+
+I The Center for Content Extraction provides
+?one stop shopping" for these technologies
+
+
+CAN. GER. 
+
+T?l? INTHREL L'Sr?it. A US. CAN. GER. 
+
+Extraction can bene?t SIGDEV from end to end
+
+ 
+
+ 
+
+Selection
+
+Translation Transliteration
+Analysis
+Interpretation/Enrichment
+Retrieval
+
+Storage Distribution
+
+T?l? SECRETHCUMINTHREL TD L'Sr?it. CAN. GER. 
+
+INTHREL USA. A US. CAN. CBR. 
+
+STAIRS Partners
+
+ 
+
+ 
+
+(Marina, CEA)
+(Cybertrans)
+A (SNA/Paintball, Synapse)
+I (Nymrod?hundercloud)
+(Journeyman/CPE)
+
+(GoldenRetriever, SocioPath)
+
+SECRETHCUMINTHREL TD USA. AUS. CAN. CBR. 
+
+USA. A US. CAN. GER. 
+
+Implementation: CCE Extraction Architecture (LexHound)
+
+ 
+
+ 
+
+ 
+
+Subscription Based
+Customers - extracted
+reportIl tra nscript content
+
+Marina [cornms tracking)
+SynapseIEKS [link analysis)
+Nymrod [Name NothingTask Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Web Service
+Dn
+Demand
+
+Customers
+
+A
+A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+LexHound Web Demo
+
+CANT (translation)
+
+TKB (target knowledge base)
+SNA (social network analysis)
+GIS [gee mapping)
+
+NTDC [terror cell tracking)
+Heresyitch collateral)
+GoldenRetriever (record buildingIngester In I I. I
+  I
+
+ Segmenmr I
+
+1 Itu?Ir1 ?IExtractorIsjt I
+
+n? Dispatcher  I 
+-?Ir Transformer I
+
+I
+
+.I I
+
+?Ir Renderer Sender I
+
+
+I
+
+ 
+
+ 
+
+USA. AUS. CAN.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-  
+
+GER. 
+
+TCIP INTHREL TD USA. A US. CAN. GER. 
+
+Elaboration: The Central Importance of Storage
+
+ 
+
+I:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Each of the STAIRS Steps exploits
+stored information
+
+I Selection Dictionaries (?get it")
+I Linguistic Glossaries for Translation
+Wikis etc for enrichment (?know it")
+
+Manual record?formation is slow, prone
+
+to omissions and inconsistencies
+
+Person Targets in TKB
+Growth 2OK/year
+
+Automatic extraction accelerates storage
+
+I Citation Records in Nymrod Entity DB
+Growth 
+
+TCIP TD USA. AUS. CAN. GER. 
+
+USA. A US. CAN. GER. 
+
+Machine vs. Manual Chief-of-State Citations
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(machine-extracted} Citations Last TKB
+and Manual
+Name Role Gites pdate
+Malaysian Prime 1DR 15REDD
+1 Abdullah Bad awi Minister cos 
+2 Abdullahi ?R'u suf Somali Presid ent cos a NRA
+(Man mud 'Abbas) PA
+3 Abu Mazin President cos a zoo EREDREDDEI
+4 Alan Garcia Peruvian President cos 1012' NRA
+5 Aleksandr Lu kashenko Belarusian President cos a so NRA
+a Alvaro Golom Guatemalan President cos a zoo NRA
+:r Alvaro Uritie Colombian President cos a NRA
+a Amadou Toumani Toure Malian President cos so NRA
+9 Angela Merkel German Chancellor cos saga NRA
+1g Bashar al?Asad Syrian President cos a NRA
+122 Yuliva Tvmosh enko Ukrainian Prime cos zoo NRA
+
+ 
+
+TD USA. AUS. CAN. GER. 
+
+ 
+
+Human Language
+
+Technologygg
+Iri. 
+
+ 
+

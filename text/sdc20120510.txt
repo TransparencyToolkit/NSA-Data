@@ -1,0 +1,67 @@
+TOP USA, FVEY
+
+ 
+
+ 
+
+ 
+
+Example of Current Volumes and Limits
+
+25.000.000.000 -
+
+I Total
+Meta ON 
+20,000,000,000 
+
+Records
+Deleted
+I Total Records
+Transferred
+- I to MARINA
+I Records in
+DPS FIVE
+Backlog
+10.000,000,000
+I Total DNR
+Records
+Received USA, FVEY
+
+TOP TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+Dupe Methodology
+
+Compare records Within various time Windows that share
+identical selectors and locations, speci?cally:
+
+LAC VLR DesigChannellD
+lMEl ESN MIN
+
+TMSI MDN CLI ODN
+
+MSISDN 
+RegGlD RegllD Kc
+
+MSRN Rand
+
+Sres Opcode 
+
+
+OSME DSME RTMSI PDP_Address
+
+TEID TLLI PTMSI PDDG
+
+ 
+
+ 
+
+ 
+
+28 TOP TO USA, FVEY
+

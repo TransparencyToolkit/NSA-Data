@@ -1,0 +1,549 @@
+"ll 
+
+unwriuhu utility of "securityr conferences" a [hide]
+
+211111111111 - 119:5} am
+[Is not reuse
+
+this image!
+
+ 
+
+Cayeat: it's been a ceuple years since I have attended a security
+My epiniens are net fermed frem recent ?rst-hand
+experience. but threugh preyieus stimuli te my cerebrum that have been cen?rmed by 2nd hand
+experience ever the last ceuple ef years. When I ?rst went te EilaclchatIDefcen. it was with the
+wide-eyed anticipatien ef. "I'm geing te ge listen te ell ef the tallcs that I can. seal-t up ell ef the
+infermatien pessible. and beceme a What a let-dewn ef an experience that
+was. ?i'eu ?nd the meet interesting tepics and brie?ngs. wait in lines te get a seat. and ?nd
+yeurself straining yeur ears te listen te semeene that has basically nething new te say Mest ef
+the tallcs get hyped up expenentially past any ameunt ef substance they actually preyide. mest ef
+the "interactive sessiens" end up in a "eh! wee is the state ef the security industry!" chant. and
+leave the audience ne better eff than befere.
+
+If yeu want te learn cram new things. mere eften than net. yeu wen't ?nd it at a talk: in a
+cen. Why net wall: areund NBA. ?nd peeple in ef?ces that de things yeu ?nd interesting. and tall:
+te them abeut hew they de what they defer ?nd a menter in that area]? Despite stereetypes ef
+the lcinds ef peeple that werlc here. many peeple are lucind and epen eneugh te share their
+trade-craft with ethers. We have the luxury ef werlcing in a cemmunity that has seme ef the
+brightest. smartest. and meat cutting edge peeple areund. it weuld be a shame fer peeple te
+censtantly attend cens heping te learn that "ceel new thing". when there is expenentially mere
+lcnewledge sitting areund them eyery single day at werl-c
+
+Granted. there are always a ceuple exceptienal tallcs at the cens. but. in my humble
+epinien. they den't malce up fer the eyerall lack: ef centent. Se. what geed are these cenferences?
+My persenal epinien is that their utility is mainly fer secial interactien and meeting *relatiyely*
+like-minded individuals. It's the ability te lciclc baclc fer a weelcend and geeluc-eut with ether peeple.
+Fer seme. this malces the cest ef the cen cempletely werth it. ethers may be severely
+all depends en what yeu expect te get cut ef it.
+
+Current Meed:@ekay
+
+Leave a cemment
+
+ 
+
+SI   T-I- LISA. 
+
+?twill?! (U) I hunt SIGINTs (part E: {hide}
+
+21112.12.12 - 111:111 am
+[Is not reuse
+
+this image!
+
+ 
+
+Se. SIGINT is dewn right ceel. As much as we cemplain abeut eur "Eiig Data Preblem".
+cellectienIprecessing issues. dismal infrastructurefeutdated brewsersIDS's. eur ability te pull bits
+eut ef randem places ef the Internet. bring them back te the mether?base te evaluate and build
+intelligence eff ef is just plain aweseme!
+
+IElne ef the ceelest things abeut it is hew much data we haye at eur ?ngertips. If we
+*enly* cellected the data we lcnew we we'd ?ll seme ef eur requirements. but this is
+a whele werld ef pessibilities we'd be missing! It weuld be like geing en a read-trip. but wearing a
+blindfeld the entire time. and enly remeying it when yeu're at ene ef yeur 
+yeu'll still see stuff. but yeu'll be missing eut en the entire jeurney!
+
+Se I decided te write a shert series [affectienately titled 'i hunt en things that I'm
+trying te de with data that weuldn't nermally be interesting by itself. but by thinlcing abeut it in a
+new way. makes it extremely valuable. My interests lately have been in using passiye cellect te
+identifyfenable ENE efferts. se that's predeminantly what the ?rst few tepics will be abeut.
+
+Ifthere are any tepics semeene wants te see speci?cally. let me lcnew. As well. if any ef
+the fellewing infermatien is useful. please let me lucnew and I can put mere eut. Part 2 - Hunting
+admins ceming yery seen!
+
+2 comments Leave a cemment
+
+TO USE. 
+
+unwriuhu hunt admins [part 2] a (hide:
+
+21112.12.12 - 12:d2 pm
+[In net reuse
+
+Entry tags: adrnin. cne. infrastructure. guanturn. target
+this Image!
+
+ 
+
+IIUHFDUDII This pest is meant te previde a hackgreuncl' fer *why* it's te target admins in
+ifyeu aireae'y icnew this. feel free te siep ferware' te the next sectiens.
+
+Eieing in SID. eur everall geal is te preduce intelligence te give te decisien-malcers. Hew
+we ge abeut deing that. is whenever a target uses technelegy te cemmunicate. we cellect it.
+analyse it. and write reperts en it. Seunds simple fer the fact that we have te be
+targeted in what netwerlcs we cellect. We can't cellect everything all the time. se if a target starts
+te cemmunicate en a netwerlc where we are net cellecting. there is seme manual leg-werlc that
+haste be dene te steer the SIGINT system in their directien. This is where I must intreduce my
+leyal friend. the admin.
+
+Up frent. admins generally are net my and target. My and target is the
+extremistiterrerist er gevernment ef?cial that happens te be using the netwerlnc: seme admin talces
+care ef. admins are a means te an end. Fer example. assume yeur target is using a CDMA
+device en a fereign netwerl-e there may be situatiens where we passively cellect his phene
+calliSMS cut in the wild. but it weuld be *really* nice if we had access te the lecal infrastructure
+where we ceuld meniter which tewer he's cennected te at any given peint in time. er meniter all
+phene callsidata traf?c that his phene generates. Many times. it's dif?cult te directly target
+we'll need a fair ameunt ef infermatien geing inte an eperatien. such as:
+tepelegy ef the netwerlc we are targeting
+
+if credentials fer infrastructure devices
+
+situatienal xnewledge. such as access lists set up te enly allew speci?c IF addresses te
+administer certain machines
+
+an everall lcnewledge ef hew the netwerlc is put tegether and cen?gured
+
+In erder te get that. whe better te target than the persen that already has the 'lceys te
+the kingdem'? Many times. as seen as see a target shew up en a new netwerl-c ene ef my ?rst
+geals is. "Can we get CNE access te the admins en that netwerlc. in erder te get access te the
+infrastructure that target is using?"
+
+"ir?eah. thatpretty much maites sense. but hew are yeu 'iust genna get ENE access' en an admin?"
+
+Geed guestien. thanlcs fer aslcing. Mest ef the time I'm geing te rely en QUANTUM te get
+access te their acceunt yeah. yeu ceuicl' try spam. but peepie have been getting smarter ever
+the fast net as reiiabi'e anymere}. Se. in erder te werlc eur en an
+admin. we'll need seme sert ef webmailifacebeelc selecter ferthem.
+
+"ir?eu icnew. yeu *ceuic? iust ieeit up the 'peint ef centact' in the registry infermatien asseciated
+with their spacefd'emain 
+
+'i'eah. yeu ceuld de that. Persenally. I haven't had a huge ameunt ef with it.
+because mest ef the time lend up running acress their *ef?cial* e-mail address that's hested en
+their ewn netwerlc That's generally net a recipe fer success in the DUANTUM werld. what we'd
+really lilce is a persenal webmail er facebeelc acceunt te target. There's a ceuple ways yeu ceuld
+try this: dumpster-dive fer alternate selecters in the big SIGINT trash can. er pull eut yeur wiclced
+Geegle-fu te see if they've pested en any ferums and list beth their ef?cial and nen-ef?cial e-mails
+in a signature what if there was anether way te de it?
+
+Dther fun iread:useful]| things te get eff ef a admin Efrem my peint ef view]:
+
+netwerlc maps eff ef their hard drive
+
+credentials frem text ?les IIer frem eur petate]
+
+full lists ef custemers faleng with asseciated dedicated allecatiens is a benus]
+
+it email with upstream previders detailing hew yeur netwerlc is cennected te the bigger Internets.
+Fer example. if I see they use certain ?ber cables te cennect te the werld. ge leek: in E's
+cellect fer their traf?c. If they use 'v'ShT's. ge fer their netwerlc in envirenment.
+
+pictures ef cats in funny peses with amusing captiens
+
+Eiut all ef this beils dewn te getting an admin's webmailifacebeelc acceunt in erder te
+DUANTUM it and get CNE access te their bex. Next sectien will detail targeting admins whe use
+
+
+3 cgmments Leave a cemment
+
+Gepyrigllt!
+
+   
+  
+
+ 
+
+[In net reuse
+
+Entry tags: access list. a-zlrnin. jz-assive. sigint. telnet
+this Image!
+
+If a target that I care abeut is en a netwerk that I den't have access te. in pest I
+described that I will try te get access te that netwerk by targeting the admin. In erder te
+target the admin. it's easiest if I knew what their persenal webmailifacebeek username is se
+that I can target it with The hardest part is identifying that admin's persenal acceunt
+te target in the ?rst place.
+
+New. fade eff with me inte dream-fend. Pretend that we had seme master I'ist. This master .I'ist
+centained tens ef netwerks areund the wen'd. and the persenai acceunts ef admins fer each ef
+these netwerks. And any time yeu wanted te target a new netwerk. yeu ceui'd just find the admin
+asseciated with it. queue his acceunts up fer QUANTUM. get access te his bex and preceed te 
+the netwerk. Weuidn't that be sweiif'
+
+Well. yeu can step dreaming my friends. I think it's pessible {at least kinda partially}.
+And we'll get started en this endeaver by chasing dewn admins that use telnet. By this peint. I'm
+heping yeu're saying. "Telnet? Telnet?! Ne ene sheuld still be using telnet!" That is the cerrect
+respense. hewever. telnet {as an administrative teel en the Internet} is alive and well. In fact. it's
+se alive and well. is a teel speci?cally designed te suck up and database reuter
+cen?guratien ?les seen in passively cellected telnet sessiens {fer the recerd. is
+aweseme. and yeu sheuld check it cut if yeu have at least ene ieta ef leve fer SIGINTII. Se. what
+shall we tie with all ef these cen?guratien ?les?
+
+"Dude! Map the 
+
+'i'es. that is de?nitely a useful thing te tie with all ef these reuter cen?gs. and is
+semething that will need te be dene. But understanding the tepelegy ef a netwerk isn't
+necessarily geing te get us access te that my previeus pest. I mentiened hew
+getting CNE access te an admin is usually a gelden ticket inte the netwerk. Se. this raises a
+ques?en:
+
+"Hew can we use a reuter cen?guratien ?le te ?nd the persenal webmailifacebeek
+acceunts ef a admin?"
+
+Te illustrate this peint. I randemly picked a cen?g fer a reuter in link is NF.
+se send me an e-mail if yeu'd like te leek at the cen?g in it's entirety Fer new. I'll just cepyipaste
+the relevant pertiens. This precess. as with any analysis at it's mest fundamental level. is based
+en assumptiens. Here are prebably seme safe assumptiens:
+
+If We have a reuter. and that reuter has an admin
+
+1' By the nature ef having the cen?g in the admin uses telnet te leg inte the reuter
+
+The admin prebably deesn't want te let anyene and everyene else leg inte the reuter
+
+The admin may set up an access centrel list te enly allew his IF addresses te telnet te the reuter
+
+These seem like relatively safe assumptiens te make fer the mement. New. let's see
+hew these manifest in eur example kenyan cen?g {if yeu're net familiar with reuter cen?gs. den't
+werry. this will be pretty basic}:
+
+1) First. let's leek at the vty lines en the reuter. and see if there is an access list
+asseciated with them:
+
+line vty 5 
+access-class 11 in
+
+
+
+'i'up. fer all ef the telnet lines. access list #11 is basically means. if yeu
+want te telnet te this reuter. yeu have te meet the criteria ef that access list. feh. befere ferget.
+passwerd T's are te crack. reu can geegie 'cisce passwerd cracker' and get web
+pages that aiiew yeu te cepy the passwerd hash. and it'I'i break it fer can ?gure
+eut the passwerd fer this reuter. And peinting eut fer the iui's. the enabie passwerd fer this reuter
+is passwerd bashed as weiib'
+
+en with the access list #11:
+
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+
+access-list 11 permit
+
+
+ 
+
+Dkay. this is relatively self-evident. If yeu want te telnet inte this reuter. yeu have te be
+ceming frem ene ef these IF addresses that are permitted. These whe are netwerk-savvy
+will else be quick te peint cut. that even if yeu knew the credentials fer this reuter. and knew
+which IF's are whitelisted. yeu CAN NCIT just speef the seurce IF ef packets te try te leg inte this
+yeu'd never see the respenses. Se yeu *actually* have te have access te ene ef these
+IF's te leg inte this reuter. Fair eneugh? Mmkay
+
+IITSISIHRELII I want te take a quick leek back at eur assumptiens fer a sec. We assumed that an
+admin weuld allew himself te telnet. but net ethers. Se. based en the cembinatien ef that
+assumptien with the infe frem the cen?g. we can make the fellewing assumptien:
+
+"The IP addresses in that access list prebably beleng te entities that administer that
+Kenyan netwerk."
+
+Hepefully that seunds fair eneugh. Here's the fun den't we take these IF
+addresses. and leek fer *anyene* actively legging inte their hetmailiyaheeifacebeekietc acceunts
+frem these IF addresses within the recent past? With whatever results yeu get back. yeu new
+have a prebable list ef persenal acceunts ef administraters fer that Kenyan netwerk!
+Frem here. if yeu need CNE access te that netwerk. just pull these selecters. queue them up fer
+DUANTUM. and preceed with the pwnage. 'i'ay! ithrews cenfetti in the air
+
+"Dka y. that seunds reia tiveiy reasenabie. but that's stiI'I' a pretty manuai precess. . . 
+
+'r'eah. yeu're here's where "the cleud" actually cemes te the rescue
+(yeah. I said it. crucify ef the data is dumped inte the GM Flace cleud. All
+gets dumped inte the GM Flace cleud is the metadata that gets generated fer almest
+every sessien that we cellect in eur big bad passive SIGINT system}. Se. all semeene weuld have
+te tie is write a cleud analytic that weuld tie the fellewing:
+
+parse threugh all ef the reuter cen?gs in 
+
+identify every reuter that has an access list tied te a vty {telnet} line
+
+leek threugh the access list. and pull cut all public IF addresses
+
+put these public IF addresses in a list semewhere
+
+parse threugh all the Active User events in ASDF
+
+take the list ef public IF's that are asseciated with prebable admins and use it as eur
+seed list
+
+leek fer all Active User legin activity frem these IF addresses
+
+take all acceunts that ceme back and put these inte anether list
+
+IITSISIHRELII Se. by cembining all ef that infermatien. yeu end up with a list ef public IF addresses
+that prebably beleng te admins as well as persenal acceunts that prebably beleng te these
+admins. All yeu have te tie is put all this infe in a database semewhere. and what yeu end up with
+is a list ef netwerks as well as persenal acceunts ef prebable admins fer these netwerks! Then. as
+seen as ene ef these netwerks becemes a target. all TAD haste tie is query the database. see if
+we have any admins pre-identi?ed fer that netwerk. and if we de. autematically queue up tasking
+and ge-ge-CNE!
+
+IITSISIHRELII All ef this can be dene by tweaking the data that we already have at eur
+Remember. eur "Big Data Freblem" is that we have tee much we have te
+de is ?nd ways ef taking disparate data sets that weuldn't necessarily be interesting by
+themselves. but when yeu put them tegether in the right way beceme simply aweseme!
+
+"Yeah. ekay. that's ceei and aii. but that reiies en admins being bad and using teinet. den't
+use teinet and mest peepie that i knew den't use teI'ne t. it weuI'd never be abI'e te identify us!"
+
+ISeed peint. this analytic dees rely en admins using telnet. I have an idea
+fer hew te identify persenal acceunts ef admins that use SSH as well. which I'll talk abeut in my
+next pest hunt admins that use 
+
+Current Meecl:scherning
+
+7? cemment-3. Leave a 
+
+ 
+
+copyright!
+
+  
+
+ 
+
+[Is not reuse
+
+Entry tags: ene. -:|uanturn. reuter. server. 
+this Image!
+
+ 
+  
+
+Welceme back cemrade! It's geed te see yeu again. Fer backgreund. I talked in thi
+pest abeut why! target system administraters when Iwant CNE access te a netwerk. and I talked
+in this ether pest abeut hew we can get admin's persenal selecters [fer targeting) based en
+reuter cen?gs that we passively cellect threugh telnet sessiens. This begs the ebvieus retert:
+
+ 
+
+"ir?eah. but that weuidn't werk at all against any admin that uses SSH. because we weuI'd never
+see the centent ef the cenfigi it's 
+
+IISHSIHREL) That is abselutely cerrect. hewever. Exist! I still think it's pessible te identify a
+admin's persenal acceunt lsemetimesl even if they use SSH. First eff. if yeu're at all unfamiliar
+with SSH. please feel free te check cut the reseurce gracieusly pested by ene ef my faverite
+
+high-side enline persenas._ lecated here.
+
+IISHSIHREL) Sefere we get inte the methedelegy. let's talk abeut SSH fer a minute. and seme
+assumptiens that we're geing te make (up frent caveat: I'm assuming we're leeking fer SSH en
+pert 22. I'm sure there's ways te ?nd it en hen-standard perts. but just fer the sake ef clarity. I'll
+refer te SSH sessiens as de?ned by being en pert 22). Let's assume that yeu try te use SSH te
+cennect te seme server:
+
+ 
+
+[madhatter@lecalheet ash 1.2.3.4
+
+IIUHFDUDJ Assuming 1.2.3.4 actually has SSH listening en pert 22. it'll ge threugh the 3-way TCF
+handshake. and the server will send yeu back seme packets and semething like this may pep up:
+
+Warning! This is a banner fer seme reuter ewned by seme cempany.
+if yeu're net autherised te leg in te this device. discennect immediately!
+
+
+
+Enter username:
+
+IIUHFDUDJ Here's where yeu enter yeur pretend yeu type 'admin' and press
+Enter. Then yeu get this:
+
+Enter passwerd:
+
+IIUHFDUDJ Dkay. here's where the rubber meets the read. Dne ef twe eptiens exist. Either yeu
+have the right passwerd. er yeu den't. Let's explere what weuld happen under each ef the
+circumstances. First eff. let's pretend yeu de NUT have the right passwerd. 'ibu try 'admin' fer the
+passwerd and press enter:
+
+Invalid passwerd. Enter passwerd:
+
+IIUHFDUDJ If yeu're passwerd guessing. yeu'll prebably get abeut 3 tries befere the server kills the
+cennectien. and yeu have te recennect and try again. Hewever. if yeu the have the right
+passwerd. yeu'll leg in. yeu can run yeur cemmands te de whatever yeu want te de. and the server
+will spit back the eutput fer all ef the cemmands that yeu run.
+
+I knew. that seunds uber?simple. but here's why it matters. Think abeut what all ef
+this weuld leek like if we were te ebserve this in eur passive SISINT system. We weuld prebably see
+traf?c between twe IFs. ene ef the perts weuld be en pert 22 (we'll say that's the server
+side). The traf?c geing 22 IIin the client-te-server directien) will censist ef sending a
+username. sending a passwerd. and sending cemmands [assuming the client successfully legged
+in). Fer traf?c ceming 22. depends.
+
+If the client dees net have the right credentials. we'd expect the server-te-client
+directien te censist cf:
+
+1) sending the device's banner
+
+2) sending the prempt fer a username
+
+S) sending the prempt fer a passwerd
+
+A) sending anether prempt fer a passwerd
+
+S) sending ANDTHEF. prempt fer a passwerd
+
+S) subsequently giving up. killing the cennectien. and fercing the client te restart and try again
+
+If the client does have the right credentials. we might expect the server-te-client
+directien te censist cf:
+
+1) sending the device's banner
+
+2) sending the prempt fer a username
+
+S) sending the prempt fer a passwerd
+
+A thru sending back the eutput fer whatever cemmands the client runs
+
+Se. purely based eff efthe abeve assessment. we weuld expect unsuccessful legins
+te be censistently small [as in. the number ef bytes) in the server-te-client directien. Hewever.
+successful legins will be ef variable length. but prebably censistently larger in size {in bytes)
+when cempared te unsuccessful legins. Se. ene assumptien that I am suggesting is:
+
+'feu can guesstimate whether an SSH sessien was successful er net based
+eff ef the size ef the sessien in the server-te-client directien.
+
+Se. imagine that yeu de seme analysis. and determine that bytes is reughly a
+geed number te differentiate between successfuliunsuccessful SSH legin attempts. Any server-
+te-client SSH sessien belew that size is prebably an unsuccessful attempt. and any server-
+te-client SSH sessien ever that size is prebably a successful attempt. What ceuld yeu de. armed
+with infermatien like that?
+
+1) Wu ceuld create lists ef client IF addresses that censistently are unsuccessful in SSH
+sessiens te multiple servers. Then yeu ceuld put these in a. "prebably passwerd
+guessersiprebably brute fercers" list.
+
+21'Tbu ceuld alse create lists ef IF addresses that appear te be successful in having access te
+ether IFs. yeah. here's where we can have funiI
+
+IISHSIHREL) I'm sure there are a plethera ef ether things yeu can de with that sert ef data. but I'm
+really interested in #2 at the mement. Eiased purely eff ef:
+
+1? part 22
+
+sessien size is greater than bytes
+
+then I can inferthat:
+
+Te IF admin
+Frem IF serverireuter
+The admin appears te have successful access te the server
+
+
+
+IITSHSIHREL) Frem here. all I have te de is recycle my methedelegy frem last pest! I can sceur ALL
+IDF SIGINT fer sessiens that meet the abeve criteria. harvest a list ef "admin use that as a
+seed list te ge back threugh all ASDF leeking fer any Active User legin events within a time frame
+ef the SSH sessien. and new I have persenal acceunts fer peeple that are prebably admins te the
+server IF. Se if the server IF is ever in a netwerk that I want access te. I den't have te the
+admin's SSH sessien. all I have te de is hepe he checked his facebeeldwebmail within a certain
+timeframe ef SSH'ing te the server. If he did. that selecter is new tasked fer DUANTUM. and we
+wait te get access te his bex.
+
+IISHSIHREL) Dne ef the reasens why I'd enly leek fer Active User legins within a certain timeframe ef
+an SSH sessien. is that I want te make sure te ?nd acceunts that are actually asseciated with the
+admin. and net seme ether randem persen whe happened te receive that same IF via DHCF the
+next day fer semething like that).
+
+The previeus few pests have gene inte seme fun ways that we can harvest the pewer
+ef the SISINTs te target admins ef fereign netwerks. My next pest will ge inte an uber?simple
+way that we can try te detect when peeple other than the legitimate admin have access te a
+reuter {eh yeah. find me semma that cyberi}.
+
+I'm sure there are ether fun and innevative ways te ge abeut this. feel free te share
+them if yeu think ef any Alse feel free te take any ef the abeve theughtsiideas and use them fer
+yeur ewn purpeses {like IAD maintaining a list ef IF's that we see passwerd guessing in 
+As always. if yeu have any questiens. er want mere infe. feel free te drep me an e-mail er leave a
+cemment!
+
+Current 
+
+21 cemments a cemment
+
+TDP Te use. eves
+
+?twill?! I hunt people who heeh reuters (part E: (hide)
+
+21112.12.14- 111:111} pm
+[Is not reuse
+
+Entry tags: cne. diecereute. reuter. eigdev
+this Image!
+
+ 
+
+Happy Friday my esteemed and valued Intelligence Cemmunity celleagues! There has
+been a tepic ef cenversatien that has started te rumble beneath the surface ef the Cyber?scene
+lately. it's abeut reuter hackingIIfer this pest. I'm net talking abeut yeur heme ADSL reuter. I'm
+talking abeut bigger reuters. such as Eisces?unipersiHuaweis used by ISFs fer their
+infrastructure]. Hacking reuters has been geed business fer us and eur S-eyes partners fer seme
+time new. but it is beceming mere apparent that ether natien states are hening their skills and
+jeining the scene. Eiefere I get inte it tee much. let's ge ever seme ef the things that semeene
+ceuld de if they hack a reuter:
+
+'t'eu ceuld add credentials. allewing yeurself te leg in any time yeu cheese
+
+'rbu ceuld addichange reuting rules
+
+'tbu ceuld set up a packet capture capability..imagine running Wireshark en an ISF's
+infrastructure a lecal listening pest fer any credentials being passed everthe 
+
+'tbu ceuld weaken any capabilities en the reuter. fercing it te create easily
+tunnels
+
+'t'eu ceuld install a derked versien ef the Dperating System with whatever functienality yeu want
+pre-built in
+
+There are a plethera ef things yeu ceuld de ence yeu get ENE access te a
+it te say. getting access te a reuter is very geed fer the acter. and very bad fer
+the victim. Se. we weuld ebvieusly te knew which ceuntriesiacters have access te what ether
+reuters fespeciaii'y if it's eur reuters]. Then the questien cemes dewn te:
+
+"Hew weuid yeu identify the fact that semeene has CHE access te a reuter?"
+
+There are a handful ef ways that yeu can tell if anyene has access te yeur reuter.
+Like. if yeu are free te leg inte yeur ewn reuter. yeu ceuld frequently leg in. run diagnestic
+cemmands. pull the IDS ler. mere generically. the eperating system hash that ?le. and
+cempare that te a list ef knewn-geed hashes. Eiut. hew weuld yeu ?nd eut if semeene has CNE
+access te a reuter that yeu den't ewn? Hew weuld yeu identify it if the Chinese had access te a
+reuter in Eimbabwe? If all yeu have is passive netwerk traf?c that we've cellected in SISINT. hew
+weuld yet: tie it?
+
+The rest ef this pest relates te NSA's metheds te detect when ceuntries hack reuters. We
+have redacted it te prevent helping these ceuntries impreve their ability te hack fereign
+reuters and spy en peeple undetected.
+

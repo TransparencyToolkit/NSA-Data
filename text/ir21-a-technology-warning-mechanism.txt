@@ -1,0 +1,948 @@
+ 
+
+ 
+
+1 A 
+Warning Mechanism
+
+SDCZOIO
+
+SSG4 3C Technical Director
+
+Derived From: NSAICSSM l-52
+Dated: 20070 I 08
+Declassify On: 2034| 20|
+
+   
+
+ Classification
+
+This briefing is classified:
+TOP USA, 
+
+   
+
+TOday?S 
+
+(U) Emerging Operating Model for Trends and Forecasting
+
+(U) Wireless Evolution Paths
+
+Analytic Framework
+
+Process
+TO USA, FVEY) Meet     
+
+(U) An Invitation to Join ?Your Use 
+
+Includes Home Work Assignments 
+
+ 
+
+(UHFOUO) Effective Forecasting:
+Geopolitical Regions and Targets
+
+   
+
+ 
+     
+   
+ 
+
+What geographies are of national interest to our
+customers?
+
+What organizations and individuals must we
+target to answer our customers? questions?
+
+Discovery
+also
+critical
+
+ 
+
+0 Regions How does those targets communicate?
+How should discovery inform Targets
+what targets/geographies we How is technology evolving?
+focus on next? How are technology and
+How do we discover target telecoms evolving in regions of
+adoption of a technology? interest?
+
+Tech no|ogy How do we expect targets to
+use emerging technologies?
+
+Trends What is the SIGINT threat of
+these emerging technologies?
+
+Discovery 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGINT
+PLANNING
+CYCLE
+
+ 
+
+Wh . 3 What vulnerabilities are critical to
+current success where are our
+What is workforce makeup Delivery ?5k areas)? . . . .
+ho are the distributed, How do we discover vulnerabilities?
+SIT/hat [?le do gamers la 7 How do we introduce vulnerabilities
+y' where they do not yet exist?
+Capabilities
+
+ 
+
+ 
+
+What capabilities do we need to develop to take advantage of technology
+vulnerabilities?
+
+What techniques to do we deploy to take advantage of those vulnerabilities 
+CNE, supply chain, mid-point, etc.)
+
+What role does enabling, cooperative access, HUMINT, 2nd parties, etc. play in
+building those capabilities?
+
+   
+
+(U) Two Types of Investigations
+
+(5mm Horizon Scanning
+Objective: Initial identification and assessment
+All source research
+
+Answer the question: Does this technology appear to be a large risk
+to the SIGINT system? Why or why not?
+
+USA, FVEY) Deep Dive
+Objective: Cause a funding decision(s)
+
+All source research; emphasis on geographic uptake trends;target
+uptake plans or vignettes.
+
+Answer the questionzAre SIGINT targets taking up this technology?
+How fast?
+
+Implicitly contrast the above with the cost and time needed to
+remediate any SIGINT system shortfalls.
+
+?3 (U) Trends and Forecasts: A
+Geo?temporal Tracking Problem
+
+   
+
+(U) Forecast:
+?An estimation of a Future Condition? 
+
+?To calculate or predict some future event or condition usually
+as a result of the analysis of available pertinent data? Merriam Webster
+
+(U) Trend:
+?To extend in a general direction; follow a general course?
+
+- Merriam Webster
+
+(U) By necessity, a trend-line requires measurement of
+understood variables across time.
+
+   
+
+(U) Roaming Agreements
+
+(U) Allow a mobile subscriber to use resources on a visited
+network
+
+Each carrier?s IR.2I is a technical document that:
+
+Describes the operator itself in various ways
+
+Location, business codes, etc.
+
+Describes access to the IP network of the operator
+DNS, lP addresses,ASN, etc.
+
+Describes:
+Radio Access Network: technology(ies) type(s)
+Frequency(ies)
+Telephony routing information (MSISDN ranges; 
+SCCP gateways (Point codes)
+MobileApplication Part protocol in use
+Hardware, software versions of certain network 
+
+(memo USA, va HypothesiszWe can identify and track a carrier?s
+technical evolution with IR.2I and other data.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 't
+Rev. (F DD)
+Rev. A (TDD)
+
+ 
+
+IS-855 Rev 
+IMIMOISDMA,
+DO Enhancement
+
+1x-adv 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8- 
+
+  
+
+
+OFDM
+lS-1006 
+
+P- -. 
+Tl -  .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reh?
+(Enhanced
+HSDPA)
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+802.16e
+Wave1&2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note:
+- Dates shown are standards completion dates (or expected completion dates.)
+
+0 ?Initial not as spectrally efficient as ?Optimized 
+
+- ?Mobility? indicates when each particular standard supports mobility inter-operability between the terminal and BTS.
+
+   
+
+(U) And What About 
+
+(U) IMT-adv is an ITU led effort to set requirements for next gen. mobile
+networks
+
+
+
+Just as defined 3G, IMT?adv will define 4G
+Proposed 3GPP Work Plan
+
+ 
+
+ 
+
+up? Mats 2003 in MI
+
+Approve the SID- Start the SI
+- Approve the work plan
+
+-- aligned with ITU Proposals phase
+
+ 
+
+ 
+
+200? Cl 8 2009 201 201 1
+
+LTE
+
+
+EGFFRAN hi. i. 
+:3 use #42 HEM-I H5
+
+H6 HE 
+331;? 
+
+in Idlinli 
+
+ITU -Fl WFED
+
+ 
+
+
+Circular letter
+
+
+for HIT?Advanced
+from 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(U) Framework for 
+
+(U) 3GPP: Defines technology migration paths.
+
+?Releases? Clear Technology Roadmap
+3G begins with Release 99
+Other releases(future)
+
+See:
+
+Releases cover:
+m: GSM, EDGE, HSPA, LTE, LTE-Advanced, etc.
+m: GSM Core, Enhanced Packet 
+
+Services: MS, etc.  .
+
+ 
+
+Defines carrier information exchange required
+to enable roaming
+
+Changes to IR.2I format warn of imminent technology roll-out
+
+An IR.2I is a GSMA-mandated document. IR.2I are exchanged between Wireless
+operators with roaming agreements, to the GSMA, and to certain clearing house
+operations.
+
+(U) Analytic Process
+
+   
+
+(memo Data analysis process is to match information in
+IR.2 I or elsewhere, against Releases in the Technology
+Roadmap
+
+Example: CAMEL Phase 4 (aka CAMEL4) as proxy for Release 5 deployment
+
+USA, FVEY) Analytic goals:
+Establish a date-time for a release deployment
+Track releases at the per network level
+Display status at the national, regional, hemispheric or global scale
+Measure speed of adoption at each scale
+
+Identify early and late adopter tendencies by network
+
+USA, FVEY) Deliverables:
+Adoption trends over time
+Forecasts derived from trends and framework changes
+
+Formal reporting of data and conclusions as a dataset
+
+            
+  
+
+        
+
+. r-I:   
+
+. II 
+
+/s1/ TO USA, FVEY) Data 
+and Process Overview
+
+   
+
+ 
+
+Q) AURORAGOLD Repository
+
+ 
+  
+
+    
+   
+    
+ 
+  
+
+   
+
+  
+ 
+
+     
+ 
+
+   
+
+     
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+      
+ 
+  
+
+Data Source)
+
+   
+
+
+WCIS 1
+(Unclassified ENTITY A 
+Raw Data Sets NURMALIZATION ?31 ?e
+Data Source) I Data Sets 
+Unclassified; Anai'y'SiS By UnclaSSIfied
+Exception:
+ITU Ops Some Analytic
+Bulletin Decisions
+
+(Unclassified
+
+Data Source)
+4
+-
+I i Information
+i I i 
+Other 
+I (Unclassified I SIGINT
+Production
+I I
+I I
+
+    
+     
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ Cham Appropriately
+Exception DeCI5ion Geared Users
+Information
+
+
+lR.2l gig
+. . 
+?Ig Analysis By
+ata - .
+Exception, . Analyzed
+ource) Raw Data Some Analytic Data Sets 
+I I a 0595; Dec's'ons Classified 
+. . assi ie .
+SIGINT Reporting
+Data NORMALIZATION 
+_39l1rge_)_ 
+
+Supplementary Outputs: 
+Strong Selector and Tasking Management 
+
+ 
+
+ 
+
+ 
+
+Numbers In md are for mference only 2. Some selectors back to AGR inputs for tasking
+3. Information outputs to other systems RONIN) 
+4.
+
+2I May  othermatter-m 
+
+     
+       
+
+Analysis By
+Exception;
+Some Analytic
+Decisions
+
+ 
+       
+ 
+  
+  
+
+VISUALIZATIO
+
+
+ 
+  
+  
+ 
+  
+  
+    
+
+    
+ 
+
+    
+
+Other
+(Unclassified
+Data Source)
+
+  
+
+SIGINT
+Production
+Chain
+
+ 
+  
+
+    
+  
+
+Appropriately
+Cleared Users
+
+   
+   
+  
+
+
+
+
+Exception Decision
+Information
+
+Analysis By
+Exception;
+
+ 
+   
+
+ 
+
+ 
+ 
+
+Sqmg?nalytic
+Decisions
+
+ 
+ 
+
+
+SIGINT Reporting
+
+ 
+ 
+  
+
+ENTITY
+
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+
+
+
+Supplementary Outputs: 
+Strong Selector and Tasking Management MINIMIZATION
+
+Numbers In red are for reference only 2. Some selectors back to AGR inputs for tasking
+3. Information outputs to other systems RONIN) 
+4.
+
+2I May ZOIO other.?
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TO USA, FVEY) Information
+Delivery Vehicles At NSA
+
+   
+
+ 
+
+USA, FVEY) Worldwide Wireless Market informationzT3 
+9 packaged consumption
+
+Drives its portfolio investment planning process
+Affects ~80% of the portfolio (2009), per customer.
+
+(U)Various and sundry others 
+
+  
+ 
+ 
+ 
+  
+   
+
+ 
+
+O. 
+
+
+
+
+AURORAGOLD Repository
+
+ENTITY
+
+NURMALIZATIUN
+
+ 
+
+      
+ 
+ 
+ 
+  
+  
+ 
+  
+
+WCIS
+(Unclassified
+Data Source)
+
+ 
+     
+ 
+    
+      
+ 
+ 
+   
+ 
+ 
+
+ 
+  
+
+ 
+     
+    
+ 
+ 
+ 
+  
+         
+ 
+  
+
+Analysis By  
+Exception; .r
+ITU OPS Some Analytic Authorized
+Bulletin Decisions
+(Unclassified
+
+Data Source)
+
+ 
+
+ 
+
+Exception DeCI5ion
+
+ 
+
+  
+
+  
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+      
+ 
+
+    
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.. I -
+I, [I'll Information Ava| Iable to
+
+Other 
+I I
+(Unclassified SIGINT
+. Data Source) Production 
+I  . Appropriately
+- - - - - - - - - - - Except'on De Chain Cleared Users
+Information
+
+
+lR.2l I
+. . 
+(ClaSSIfied Analysis By
+Exception: ?YZed
+Raw Data Some Analytic Dat?Sets 
+I, Clset?i: Decismns Classi?ed  
+assn ie .
+
+I ENTITY SIGINT Reporting/
+
+NORMALIZATION 
+
+. 
+
+
+Supplementary Outputs: 
+I. Strong Selector and Tasking Management MINIMIZATION
+erence on 2. Some selectors back to AGR inputs for tasking 7
+3. Information outputs to other systems RONIN) 
+2| May 20|0 4. 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+(U) Information Now What?
+
+USA, FVEY) Make the data useable
+Available in or out of the SIGINT production chain
+
+Attach flows to value-adding chains and processes
+Deliver as a data-set
+
+Recognize other data sets exist and also are part of analytic processes
+(federation anybody?)
+
+USA, FVEY) Make the data traceable
+Includes auto-sourcing of data origin
+
+Time-stamping
+
+USA, FVEY) T3C will do technology trending and 
+
+(U) Would your analytic processes benefit from this data set?
+
+ 
+
+   
+
+(U) Your Invitation to Join
+
+(U) We are few; we welcome partnership.
+Can you help?
+Do you have a better way?
+Let?s pull togetherll
+
+USA, FVEY) We are preparing to measure the breadth
+of our access to IR.2I 
+
+Goals:
+Do we cover all 3GPP networks?
+Tweak access
+Tweak selectors
+
+Indexer will provide PWID for all identified IR.2 I after dedupe.
+
+   
+
+(U) What Are Your Use Cases?
+
+USA, FVEY) This is your segment?to make the
+notetaker?s job simpler please categorize your use case;
+describe impact:
+
+A) IP Network
+B) Call Control Switched Voice
+
+C) Hardware model and software version information
+
+Group Discussion. . ..
+
+   
+
+(U) Thank you for your time and contributions
+
+ 
+

@@ -1,0 +1,140 @@
+I thi?jr?'??
+
+TOP SECRET 
+
+Tor: Overview of Existing Techniques
+(15 minutes)
+
+ICTR-NE
+
+TOP SECRET STRAP 1
+
+ 
+
+rs: .:
+
+
+I I 
+
+Previous Work/Current Techniques
+
+ICTR-related techniques
+
+. Identification of events by content
+
+. Tor node dictionary generation available from web site
+
+. HOMING TROLL Bridge discovery prototype that feeds dictionary
+
+Statistical deanonymisation research (MCR)
+
+NEWTONS CRADLE (JTRIG)
+
+TRIBAL CARNEM (with CT)
+
+EPIC FAIL (CT)
+
+. Bulk traffic logging
+
+QUICK ANT - Low latency deanonymisation. Prototype under evaluation.
+Introducing timing patterns report available
+
+Hidden service investigation report available
+
+Shaping research some initial experiments.
+
+Some extraction of hidden service domain names from passive events.
+Tor implementation analysis (contract task)
+
+Also some work (through contract) on Freenet.
+
+TOP SECRET STRAP 1
+
+THIS IE EXEMPT UNDER THE FREEDOM CH7 ACT RUDD AND BE OTHER UK. INFORMATION LEGISLATION.
+REFER ANY FEIIA QUERIES TEI SCI-IQ EIN
+CDNTAINE INTELLECTUAL EIWNED Alum-?Elli Ev 
+THE MATERIAL MnhY EE DIESEMIHATED THREILIEHEILIT THE RECIPIENT UHEANIEATIEIN, MUST BE OBTAINED FDR EILITEIDE THE EIREANIEATIDN.
+
+@339
+
+Goals for 2012/13
+
+Our plans at present are:
+
+- Tor deanonymisation collaboration with MCR and JTRIG
+- Tor shaping with JTRIG
+- Contract: next stage of Tor Implementation Analysis
+
+ICTR-CISA: record hidden service hostnames (*.onion) in NATURAL SELECTION.
+ so REMATION II fits in well.
+
+Any questions?
+
+TOP SECRET STRAP 1
+
+TIT Rw??m? THIS .5 EXEMPT UNDEFI THE FREEDOM or INFORMATION AET 2000 AND MAY BE UNDER crrHEn UK. LEGISLATION.
+'3 REFER mw FOIA QUERIES TEI EIH
+
+
+
+EIN. ELIT EDHEI hl.
+
+Reference: Ideas (201 1)
+
+- Maintain knowledge of Tor network from 
+
+- Log Tor events into HAKIM for target discovery 
+
+- Build tool to implement low latency attack? ICTR
+
+- Collecting traffic at exit nodes to feed passive SIGINT JTRIG
+
+- Testing of MCR passive deanonymisation technique. 
+
+- Active injection and detection of timing patterns (probably following test of MCR technique) 
+
+
+- Herding of targets through our exit nodes (THEMP) 
+
+- Bulk logging of hidden service onion addresses (possibly only those hosting web sites) experiment carried
+out by ICTR
+
+- Characterisation of hidden web servers by passive analysis 
+
+- Characterisation of hidden web servers by web crawling 
+
+- Identification of IP addresses hosting hidden services 
+
+- Ongoing use/maintenance of TRIBAL CARNEM CT
+
+- Find TDIs that appear on Tor and non?tor IP addresses (EPIC FAIL) CT
+- Understanding Tor circuit creation and destruction ICTR contract
+
+- Understanding future developments in Tor ICTR contract?
+
+- Spotting private Tor networks 
+
+- TorChat investigation? 
+
+THIS .5 EXEMPT UNDEFI THE FREEDOM or INFORMATION ACT 2000 AND MAY BE OTHED UK. wraith-Anon LEGISLATION. 
+
+REFER ANY FEIIA QUERIES TEI EDI-THE MATERIAL MAY BE THRCILIEHEILIT THE RECIPIENT DREANIEATIEIN. EDHD FEEMIESIEIH MUST BE OBTAINED FDR EILITEIDE THE EIREANIEATIDH.
+
+Reference: Data Sources
+
+Tor node consensus (obtained by Tor client) 
+UNCLASSIFIED
+
+Information on Tor Bridges CONFIDENTIAL
+Collection from exit nodes SECRET
+
+- Passive intercept SECRET)
+SSL events in c|oud(s)
+
+Tor packet logging (ICTR system)
+Content exiting Tor network
+
+TOP SECRET STRAP 1
+
+N.
+

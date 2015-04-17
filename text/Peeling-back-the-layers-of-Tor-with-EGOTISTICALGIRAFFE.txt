@@ -1,0 +1,278 @@
+ Peeling Back the Layers with
+
+u:
+
+wmm1? 
+nun-ammo
+
+
+ 
+
+ 
+
+ OverallClassi?cation
+
+This brie?ng is classi?ed
+TOP USA, FVEY
+
+ 
+
+(U) Overview
+
+ 
+
+- (U)WhatisTOR?
+
+- Problem
+
+I EGOTISTICALGOAT
+
+- EGOTISTICALGIRAFFE
+- (U) Future Development
+
+ 
+
+(U)What is 
+
+ 
+
+I (U) ?The Onion Router?
+
+- (U) Enables anonymous internet activity
+General privacy
+Non-attribution
+Circumvention of nation state internet policies
+
+- (U) Hundreds ofthousands of users
+Dissidents (Iran, China, etc)
+
+
+Other targets too!
+
+ 
+
+ 
+
+(U)What is 
+
+   
+
+OCONUS
+INTERNET Internet Site
+
+Client Browsing 4/
+
+The Web
+
+w/ TOR client
+Installed
+
+ 
+
+ 
+
+(U)What is 
+
+   
+
+ 
+
+ 
+
+Client   . OCONUS
+
+Browsmg -: Internet Site
+The Web 4'
+TOR client
+
+In stalled
+
+ 
+
+(U)What is 
+
+ 
+
+- Browser Bundle
+Portable Firefox 10 ESR (tbb-?refoxexe)
+Vidalia
+Polipo
+TorButton
+TOR
+?Idiot-proof?
+
+ 
+
+TOR Problem
+
+ 
+
+I Fingerprinting TOR
+I Exploiting TOR
+I Callbacks from TOR
+
+ 
+
+ 
+
+32-bitWindOWS7 32-bitWindOWS7
+Firefox/1o.o Firefox/1o.o
+
+32-bitWindows7 32-bitWindows7
+Firefox/10.o Firefox/1o.o
+
+I 32-bit Windows 7
+
+ 
+
+Fingerprinting TOR
+
+BuildlD gives a timestamp for
+when the Firefox release was built
+
+   2}
+
+tbb-?refox? BuildID:
+
+ 
+
+ 
+
+ 
+
+Fingerprinting TOR
+
+ 
+
+I TorButton cares about TOR
+users being indistinguishable from TOR users
+
+I We only care about TOR users
+versus non-TOR users
+
+I (TS/lSl/lREL)Thanks to TorButton, it? 5 easy!
+
+ 
+
+TOR Problem
+
+ 
+
+
+
+Flilgm IJI I UK
+
+I Exploiting TOR
+I Callbacks from TOR
+
+ 
+
+I tbb-?refox is barebones
+
+Flash is a no-no
+
+NoScript addon 
+not enabled by default!
+
+TOR explicitly advises against using any addons or
+extensions other than TorButton and NoScript
+
+I Need a native Firefox exploit
+
+ 
+
+I ERRONEOUSINGENUITY
+Commonly known as ERIN
+First native Firefox exploit in a long time
+Only works against 13.0-16.0.2
+
+I EGOTISTICALGOAT
+
+Commonly known as EGGO
+
+Con?gured for 
+
+the vulnerability also exists in 10.0!
+
+ 
+
+I Type confusion vulnerability in
+E4X
+
+I Enables arbitrary read/write
+
+access to the process memory
+
+I Remote code execution via the
+CTypes module
+
+ 
+
+I Can't distinguish OS until on box
+That's okay
+
+I Can't distinguish Firefox version
+
+until on box
+That's also okay
+
+I Can't distinguish 64-bit from 32-
+bit until on box
+I think you see where this is going
+
+ 
+
+
+
+Fillyu IJI I UK
+
+
+
+Explulting nun
+
+I Callbacks from TOR
+
+ 
+
+I Tests on Firefox 10 ESR worked
+I Tests on tbb-?refox did not
+
+Gained execution
+Didn't receive FINKDIFFERENT
+
+I Defeated by Pre?lter Hash!
+Requests EGGI: Hash(tor_exit_ip session_id)
+
+Requests FIDI: Hash(target_ip session_id)
+
+ 
+
+Easy ?x
+Turn off pre?lter hashing
+FUNNELOUT
+
+I OPSEC Concerns
+
+Pre-play attacks
+
+PSPs
+Adversa rial Actors
+
+Targets worth it?
+
+ 
+
+
+
+Fillyu IJI I UK
+
+
+
+Explulting nun
+
+
+
+Callbacks IUK
+
+ 
+

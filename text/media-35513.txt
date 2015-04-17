@@ -1,0 +1,564 @@
+ High Level Description Document - WikiInfo
+
+The accredited security level of this system is: TOP 
+TO USA, FVEY
+
+TOP TO USA, FVEY
+
+(U) High
+Level Description Document
+
+TOP TO USA, FVEY
+From WikiInfo
+
+
+Contents
+
+
+
+00000
+
+APEX: Active-Passive
+
+lof12
+
+High Level Description Document - WikiInfo
+
+TO USA, FVEY 
+111 1 L1u11 1 L11 1 u11..
+
+DC Radar Task 4, Modernizing and VPN
+[edit] (U) Motivation
+
+APEX describes the cross?organizational effort to achieve a
+capability for shaping of TAO active collection from HAMMERMILL routers to
+TURMOIL, a midpoint passive collector. The collection missions for this effort
+are targeted collection (HAMMERCHANT) and collection of 
+traf?c (HAMMERSTEIN). The desire to have the active?passive integration
+capability is driven by three key motivations: scaling the exploitation of
+streaming content, enhancing the likelihood of success for the VPN capability,
+and eventually creating new capabilities that can?t be achieved separately. In
+speci?c:
+
+ 
+
+Routers ex?ltrate content in real?time as a packet stream rather than as a
+?le. Current TAO backend collectors for HAMMERMILL are expected to
+be strained with a large number of streaming packet ex?l sessions. The
+current backend capacity to receive HAMMERMILL streams is expected
+to limit the number of simultaneous or VPN streams that can be
+received.
+
+0 The capability to selected streams is built into
+TURMOIL, as is the capability to route back to CES the IPSEC key
+exchanges necessary to recover selected keys. Directing IPSEC VPN
+traf?c to TURMOIL puts it where it can be most ef?ciently used.
+
+0 Integration with TURMOIL and TURBINE will enable HAMMERMILL
+missions to leverage TURMOIL selection and targeting rather than
+operating stand?alone. This would make implants lighter, and less
+complex, at the expense of possibly more ex?lled traf?c.
+
+The end?state goal of the APEX development is to
+
+Achieve the real?time ex?l of HAMMERMILL active collection and direct
+it to a TURMOIL passive collector that can recognize the traf?c, unwrap
+the packets from the TAO protocol, and restore the packets to their
+original state.
+
+0 Perform appropriate processing/forwarding of the unwrapped content to
+corporate repositories, and optionally perform further target
+identi?cation and traf?c selection in TURMOIL
+
+Engage TURBULENCE storage and analytic processes for delivery of
+content to 
+
+0 Enable TURBINE dynamic control of both HAMMERMILL and TURMOIL,
+allowing near?real?time implant tasking based on feedback from
+TURMOIL.
+
+[edit] (U) Background
+
+20f12
+
+High Level Description Document - WikiInfo
+
+[edit] (U) IPSEC Protocols
+
+describes a suite of protocols for creation of VPN tunnels
+between devices. is the protocol used to exchange 
+parameters and establish a secure tunnel. is the protocol that performs
+the packet?by?packet A wide variety of algorithms of varying
+may be used within IPSEC. CES generally requires the packets from
+both sides of an IKE exchange and knowledge of the associated pre?shared key
+(PSK) in order to have a Chance of recovering a key for the corresponding
+Cipher (ESP). A major goal of APEX is to access two sides of key exchanges for
+traf?c of interest.
+
+[edit] (U) 
+
+HAMMERMILL is the base capability for implants on a family of
+routers. Built on HAMMERMILL are a suite of mission applications for
+collection of various types of traf?c. HAMMERMILL uses FASHIONCLEFT to
+ex?l a copy of targeted data as a packet stream.
+
+HAMMERMILL 2.0 is deployed and is commanded by a custom
+command interface. Targeting information must be delivered via these
+manually initiated commands to the HAMMERMILL application.
+HAMMERMILL 2.5 is designed to accept command and control via
+CHIMNEYPOOL messages and is awaiting testing.
+
+HAMMERSTEIN is a HAMMERMILL application module that is
+tasked to collect all packets that match a 5?tuple ?lter of source and
+destination IP address, source and destination port, and protocol.
+HAMMERSTEIN can collect IKE and ESP based on a 5?tuple ?lter.
+HAMMERCHANT is an application module that identi?es 
+signaling passing through the router, extracts the user identi?ers, and collects
+the call if one of the users corresponds to an entry on its target list.
+
+[edit] (U) FASHIONCLEFT Protocol/CDR
+
+FASHIONCLEFT is the protocol used by HAMMERMILL and
+other TAO implants to deliver collected data back to the TAO Common Data
+Receptor (CDR). FASHIONCLEFT precedes an ex?l session with a strongly
+Session Announcement that describes the parameters of the ex?l
+sessmn.
+
+[edit] TURMOIL Existing Capability - VPN
+TURMOIL is a passive ?ltering and collection device targeting
+high?speed networks. Within TURMOIL are existing (passive) IPSEC
+
+processing capabilities, processing IKE and ESP packets identi?ed by the
+TURMOIL front?end ?ltering.
+
+30f12
+
+High Level Description Document - WikiInfo
+
+The passive VPN metadata generation capability receives IKE
+packets from front?end packet ?ltering and creates a metadata
+record for each key exchange seen, destined eventually for the TOYGRIPPE
+database. This process can be deployed anywhere a TURMOIL is deployed.
+
+The blade" processes targeted IKE and ESP. This capability
+cannot be deployed to all TURMOIL sites, only to those that meet CES security
+constraints.
+
+The PIQ blade performs two main tasks. It checks the IKE source
+and destination addresses against a target list stored in KEYCARD. If one of
+these is targeted, it sends the key exchange packets back in near?real?time to
+CES databases via a connection directly to the CES Attack Orchestrator (AO).
+
+The PIQ blade also receives ESP traf?c. When a new targeted
+tunnel is observed, the PIQ blade asks the AO if a key is available and buffers
+the ESP traf?c as long as it can while waiting for a key. If a key is returned,
+the ESP is and the underlying IP packets are made available for
+other application processing in TURMOIL. Because ESP packet?
+by?packet, the PIQ blade can begin of a session when a key arrives,
+even if the earliest packets have fallen out of the buffer.
+
+[edit] TURMOIL Existing Capability - 
+
+TURMOIL also contains existing capability for processing 
+traf?c, including and H.323. Capabilities for other protocols are in
+development. The passive capability relies on seeing the signaling setting up a
+call, extracting identi?ers related to the calling and called parties, looking up
+these identities for targeting information (via a KEYCARD lookup), and
+collecting targeted traf?c. TURMOIL also has the capability to generate
+metadata records for all calls, not just targeted ones, for the FASCIA database.
+
+(U) TURBINE
+
+TURBINE is focused on command and control of covert implants.
+It can execute automated work?ows and is designed to communicate with
+TURMOIL as well as other devices, enabling integration of active and passive
+information in near?real?time. TURBINE communicates with covert implants
+via CHIMNEYPOOL messages over a covert infrastructure, and with TURMOIL
+and other devices via ISLANDTRANSPORT.
+
+[edit] TOYGRIPPE and METROTUBE VPN Analytic
+
+The TURMOIL component that creates metadata records from
+all IKE key exchanges forwards ?les of these metadata records to the
+PRESSUREWAVE database. METROTUBE is a framework for hosting analytic
+processes that operate on items in PRESSUREWAVE. The VPN Analytic is a
+process that is triggered when a new ?le of VPN
+
+4of12
+
+High Level Description Document - WikiInfo
+
+metadata arrives in PRESSUREWAVE. This process extracts the ?le, converts
+the records into a format that TOYGRIPPE ingests, and forwards the result to
+TOYGRIPPE. To support APEX, all three of the components manipulating the
+metadata the TURMOIL metadata extractor, the VPN analytic and the
+TOYGRIPPE database require modi?cation to support the additional
+information about the data source that APEX provides (see Analytic
+Challenges from APEX 
+
+[edit] (U) APEX
+
+Currently HAMMERMILL ex?ls its packets by sending both the
+FASHIONCLEFT session announcement and the ex?lled packet stream to one
+of the Common Data Receptor addresses. APEX changes the operation of
+
+HAMMERMILL ex?l.
+
+[edit] HAMMERMILL ex?l operation in APEX
+
+ 
+
+The destination address for HAMMERMILL ex?l is set to direct the traf?c
+to a link that a TURMOIL can see.
+
+0 The TURMOIL APEX components are con?gured with the HAMMERMILL
+destination address and any ports needed to identify potential
+HAMMERMILL traf?c with a 5?tuple ?lter. The APEX components are also
+provided with parameters needed to the FASHIONCLEPT
+protocol and reconstruct the ex?lled packets to their original form.
+
+0 The APEX code unwraps the FASHIONCLEFT protocol, reconstructs the
+packets and directs them to an application?speci?c process (currently
+or VPN). This process is responsible for properly handling the
+application metadata delivered in the Session Announcement 
+to/from phone numbers for the ex?lled packets, and the
+con?guration information in the TURMOIL con?guration ?le to mark and
+direct datato the appropriate path for further processing.
+
+[edit] Follow-on processing paths within TURMOIL
+
+ 
+
+After APEX unwraps FASHIONCLEFT, the reconstructed packets
+can be directed to one of two follow?on processing paths within TURMOIL,
+depending on the nature of the application: recirculation or forwarding.
+
+The recirculation path presents the APEX?unwrapped packets
+and metadata to the TURMOIL ?ltering components as if they arrived on
+passive input. The recirculated packets can then engage
+passive processing and selection.
+
+The forwarding path bundles the reconstructed packets together
+with appropriate metadata and sends the bundle home through the normal
+TURMOIL forwarding path to PRESSUREWAVE, where further analytic
+processes may be run to prepare the data for corporate consumption.
+
+5of12
+
+High Level Description Document - WikiInfo
+
+[edit] APEX mission applications
+
+ 
+
+Initial APEX missions are collection via TURMOIL of
+HAMMERSTEIN ex?l of VPN traf?c, and HAMMERCHANT ex?l of targeted
+
+
+HAMMERSTEIN IPSEC ex?l is an example of traf?c for which
+there is an existing TURMOIL passive application. By recirculating the
+packets, the passive VPN applications will be engaged to perform their normal
+functions, though the packet stream will carry additional metadata related to
+the APEX processing.
+
+HAMMERCHANT ex?l is an example of traf?c that is
+pre?selected and needs no further selection processing. Furthermore, the 
+signaling is not ex?lled along with the collection; information such as calling
+party and called party are carried as metadata in the FASHIONCLEFT Session
+Announcement. Recirculation cannot engage the passive components to
+perform formatting for the backend databases because these passive
+processes rely on seeing the SIP or H.323 signaling. The APEX process will
+take the HAMMERCHANT sessions, extract needed metadata from the Session
+Announcements to attach to the session, and forward directly back to the
+PRESSUREWAVE repository for analytic processing.
+
+The initial APEX proof?of?concept missions HAMMERSTEIN for
+VPN and HAMMERCHANT will develop and demonstrate both of these paths
+
+[edit] (U) APEX Command/ Control Development
+
+To enable APEX, both TURMOIL and TURBINE must be supplied
+with con?guration information and tasking. TURMOIL must have at minimum
+an implant ID, the address that this particular implant will put in the
+destination address of all its packets (and possibly ports), a key to unwrap the
+FASHIONCLEFT protocol, a TAO case notation to assign to the ex?l, and
+appropriate TAO classi?cation markings for the ex?l. Other con?guration
+metadata for the implant (PDDG, SIGAD, zip codes, etc.) may also be required.
+
+In its end?state, command and control of both the
+HAMMERMILL implant and the TURMOIL APEX components will be
+performed through TURBINE. TURBINE will be responsible for con?guring
+the implant with an address to send its traf?c to and con?guring a receiving
+TURMOIL with the parameters it needs to identify and process that mission?s
+traf?c. TURBINE will be able to receive information from TURMOIL
+processing of ex?lled traf?c, evaluate using a work?ow, and deliver updated
+tasking to HAMMERMILL. Development to this end?state will occur in three
+phases:
+
+0 phase 1: manual con?guration: HAMMERMILL is con?gured via its
+existing command interface. Simultaneously TURMOIL APEX is provided
+a con?guration ?le for this HAMMERMILL mission. A human is
+
+60f12
+
+High Level Description Document - WikiInfo
+
+responsible for keeping the two in sync.
+
+phase 2: semi?automatic con?guration for an already established
+presence: TURBINE receives the parameters for a mission and in an
+automated fashion con?gures both the HAMMERMILL implant and the
+corresponding TURMOIL APEX components. The 
+HAMMERMILL interface will use CHIMNEYPOOL RPC commands, and
+the interface will use ISLANDTRANSPORT.
+HAMMERMILL 2.5 is the HAMMERMILL version that can receive
+CHIMNEYPOOL commands and is required for phase 2. HAMMERMILL
+2.5 will be available only for low?end MIPS platforms.
+
+0 phase 3: dynamic targeting for an already established presence:
+TURBINE sets initial con?guration parameters as in Phase 2. Ex?lled
+traf?c is evaluated by TURMOIL components for potential additional
+targeting information. TURMOIL messages to TURBINE to dynamically
+target a particular ?ow through the router. An example is receiving an
+IKE key exchange (and possibly a few initial packets), evaluating the IP
+addresses to decide if the VPN being set up corresponds to a target, and
+messaging back to HAMMERMILL to capture and ex?l the corresponding
+ESP.
+
+Phase 3 of control must be managed so that router ex?l does not
+exceed the tolerable bandwidth limits set by OPSEC and operational concerns.
+TURBINE may need to implement additional work?ows in support of Phase 3
+to monitor and control ex?l volume. These work?ows will have to be designed
+to ?t the metrics and monitoring information that HAMMERMILL and APEX
+are capable of providing.
+
+[edit] APEX Application development
+VPN phases
+
+The development of the VPN process via APEX will proceed in a
+phased fashion.
+
+0 VPN phase 1: IKE metadata only: IKE packets are ex?led to TURMOIL
+and unwrapped by APEX, recirculated and presented to the VPN
+processing components. Metadata is extracted from each key exchange
+for the CES TOYGRIPPE metadata database. This database is used by
+SIGDEV to identify potential targets for further exploitation.
+
+VPN phase 2: Targeted IKE forwarding: In addition to the metadata
+generation, the IKE addresses are looked up in KEYCARD. If either IP
+address is targeted, the key exchange packets are forwarded to the CES
+Attack Orchestrator.
+
+VPN phase 3: Static (manual) tasking of ESP: HAMMERSTEIN may be
+statically (manually) tasked to forward targeted ESP. The ex?ltrated ESP
+
+7of12
+
+High Level Description Document - WikiInfo
+
+packets are unwrapped by APEX, recirculated and presented to the VPN
+processing components for potential 
+
+VPN phase 4: ESP dynamic targeting: Based on the value returned by
+KEYCARD, the ESP for a particular VPN may be targeted as well.
+TURMOIL will send HAMMERSTEIN (via TURBINE) the parameters for
+capturing the ESP for the targeted VPN.
+
+[edit] phases
+
+HAMMERCHANT currently maintains its own list of targeted
+entities. It extracts identities from SIP or H.323 signaling, checks against
+its target list, and ex?ls only the voice content for targeted calls. This model
+could be expanded in the future using HAMMERSTEIN.
+
+0 phase 1: HAMMERCHANT Collect: HAMMERCHANT targeted 
+RTP ex?l is captured by TURMOIL. An APEX forwarding component
+bundles the voice packets into a ?le, attaches appropriate metadata, and
+delivers to PRESSUREWAVE. A variant of the passive analytic will
+be triggered to prepare the ex?l for corporate delivery.
+
+0 phase 2: HAMMERCHANT Survey: HAMMERCHANT monitors all
+SIP and H.323 signaling and ex?ltrates all call signaling metadata to
+TURMOIL. An APEX component puts the call signaling metadata into an
+ASDF record and publishes it to the TURMOIL Asdeeporter component.
+
+0 phase 3: HAMMERSTEIN: signaling is captured by
+HAMMERSTEIN using port information. The signaling is ex?led to
+TURMOIL and unwrapped. This signaling is then presented to the normal
+TURMOIL processes. The metadata process will create metadata
+records for FASCIA. The collection process will extract identi?ers from
+the signaling and check against KEYCARD to decide if the identi?ers are
+targeted. If either calling party identi?er or called party identi?er is
+targeted for active ex?l, then an extended TURMOIL component will
+extract the ports for the voice conversations and will send this
+information as a 5?tuple ?lter to HAMMERSTEIN, via TURBINE.
+
+Implementation of the Phase 2 and 3 processes will be
+driven by mission need. The Phase 3 process should be advantageous in
+allowing HAMMERMILL to potentially expand beyond SIP and H.323 
+collection without additional code development in the implant, leveraging
+passive processing code.
+
+[edit] Data?ow phases
+0 Data?ow Phase 1: Data?ow tested: Collected IKE is sent to CES
+
+database. Collected targeted data is deposited into PRESSUREWAVE and
+can query and view the data.
+
+80f12
+
+High Level Description Document - WikiInfo
+
+Data?ow Phase 2: Migrate additional HAMMERSTEIN voice ?ows to
+PRESSUREWAVE. Ex?l all signaling via port selection and let the normal
+TURMOIL selection process select it.
+
+Data?ow Phase 3: Institutionalize APEX capability and continue to
+migrate other voice ?ows to PRESSUREWAVE.
+
+[edit] Goals by Spin
+
+[edit] (U) Spin 15 goals
+
+The minimal goal for Spin 15 is to achieve VPN phase 1 IKE
+metadata extraction using phase 1 manual con?guration. The APEX
+VPN goal is complete when a CES TAO VPN analyst validates the SRI and the
+IKE metadata content in TOYGRIPPE. See TURMOIL Spin 15
+Stow/Requirements .
+
+A highly desirable goal for Spin 15 is to achieve phase 1 
+HAMMERCHANT capture with phase 1 manual con?guration. The
+APEX goal is complete when a analyst validates that RTP bundled by
+TURMOIL is correctly processed by the analytic and stored in
+CONVEYAN CE.
+
+[edit] (U) Spin 16 goals
+
+The minimal goals for Spin 16 are
+
+0 to achieve VPN phases 2 and 3 targeted IKE forwarding and static
+tasking of ESP using phase 2 semi?automatic con?guration of
+HAMMERMILL and TURMOIL APEX components.
+
+0 to achieve phase 1 HAMMERCHANT targeted RTP ex?l is
+captured by TURMOIL.
+
+to achieve Data?ow phase 1 Collected IKE is sent to CES database.
+Collected targeted data is deposited into PRESSUREWAVE and 
+can query and view the data.
+
+[edit] (U) Spin 17 goals
+
+The minimal goals for Spin 17 are
+
+0 to achieve phase 3 and VPN phase 4 ESP dynamic targeting
+using TURBINE.
+
+to achieve phase 2 HAMMERCHANT Survey.
+
+0 to achieve Data?ow Phase 2 Migrate additional HAMMERSTEIN voice
+?ows to PRESSUREWAVE.
+
+[edit] (U) Spin 18 goals
+
+90f12
+
+High Level Description Document - WikiInfo
+
+The minimal goal for Spin 18 is to achieve phase 3 
+HAMMERSTIEN ex?l'd VOIP signaling is processed by an extended TURMOIL
+VOIP component which will extract the ports for the voice conversations and
+will send this information as a 5?tuple ?lter to HAMMERSTEIN, via TURBINE.
+
+[edit] (U) Spin 19 goals
+
+The goal for Spin 19 is to institutionalize the APEX capability
+and continue to migrate other voice ?ows to PRESSUREWAVE.
+
+Retrieved from
+
+
+Categorv: APEX
+
+TOP TO USA, FVEY
+
+Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
+and 1?52, Dated: 20070108
+
+Declassify On: 20320108
+
+10 of 12
+
+High Level Description Document - WikiInfo
+
+ 
+
+ Go Search
+
+ 
+
+Navigation
+
+0 Main Pa 
+
+Communit ortal
+0 Recent changes
+
+0 Random a 
+
+Hel
+
+Toolbox
+
+What links here
+0 Related changes
+0 load ?le
+
+0 ecial a es
+
+0 Printable version
+0 Permanent link
+
+ 
+
+ 
+
+ 
+
+ 
+
+social software tools
+
+0 |ournalNSA
+Tapioca
+
+Connexions
+LINKUP
+
+ace
+
+0 Round Table
+0 WikiInfo?NF
+
+partner wikis
+
+Intelli edia
+CSEC wiki
+0 GCHQ wiki
+0 DSD wiki
+
+0 GCSB wiki
+
+11 of 12
+
+High Level Description Document - WikiInfo
+
+Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
+and 1?52, Dated: 20070108
+
+Declassify 0n: 20320108
+
+TOP TO USA, FVEY
+
+12 of 12
+

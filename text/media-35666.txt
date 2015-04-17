@@ -1,0 +1,1154 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CNE End Point Requirements
+CATEGORY REQ TYPE PRIORITY
+0 Expe rim; 0 Capability 0 Priority Requirements are divided into a number of CATEGORIES
+I I I . . . identifying the amount of INNOVATION required to satisfy the
+0 Re?ne mer pnonty spreadsheet contains the collated CNE user requrrements requirement
+0 conVergem captured by as the Endpoint initiative lead.
+0 Bug Fix 0 Query 0 Priority . . . . Requirements are labelled by TYPE - referring to the primary issue
+0 ALL To cut down the amount of Information select the associated with the re uiremem
+Taskir 0 ALL material you want to see via the Radio Buttons and then 
+0 Viewe press Go Requirements are PRIORITISED - Priority 1 being the highest
+0 ALI (essential) and Priority 3 the lowest (nice to have)
+REQUIREMENTS PLANNED DEVELOPMENT WORK
+Category Type Priority Number Description Individual Tasks - with RAG status
+Refine Capability 1 Cap.01 Request document i file properties and task on the basis of STARGATE (Manual authorisation tool)
+the same (authorietc)
+Experiment Capability 1 Cap.02 Detect internal network activity (volumes and movement of
+specific data types)
+Experiment Capability 1 Cap.03 Low latency presence data for use in tip-off collection
+Experiment Capability 1 Cap.04 Remote indexing ROCK OPERA remote indexing
+Experiment Capability 1 Cap.05 Use API type functions of operating systems like their
+indexing
+Experiment Capability 2 Cap.06 characterisation of unallocated or deleted space - potentially STARGATE (Daredevil remote forensics plugin)
+a source of intelligence on internet-facing target machines Quincey pluqin
+Experiment Capability 2 Cap.07 Destination IP address from messenger client packet capture
+Experiment Capability 2 Cap.08 PCS - capability against mobile devices Research in CNE and ICTR
+Experiment Capability 2 Cap.09 ability to list programs and applications commonly used on
+the machine (pulled from Registry and program files?) - and
+to monitor frequency of use
+Experiment Capability 2 Cap.10 Followimonitor movement of files i movement of users (key STARGATE (network summary plugin)
+Te identifying The Valuable Dene 0f 3 network) STARGATE (Endpoint data characterisation)
+Ex eriment Ca abili 2 Ca .11 Ren?fw?l?r?fal?a?bg??awester with lo ics a lied to
+9 pp
+implant on USB to auto-retrieve data).
+Refine Capability 2 Cap.12 web browsing content (html, cookies etc)
+Experiment Capability 3 Cap.13 Change the registry (eg browser stain)
+Experiment Capability 3 Cap.14 Collect the first line of the document text i the first 
+characters.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Capability Cap.15 CNA CND profiling - Be able to search on hacking STARGATE (Endpoint data characterisation)
+profileisignature so can spot attacks leaving a box. Need
+
+Experiment Capability Cap.16 Remote hashing of files
+
+Experiment Convergence Conv.01 Data must be of a format which enables it to be merged with STARGATE ROADMAP iteration 7-10 (corporate framework,
+data from other sources [tools in any future converged native viewing, CMS, convergence)
+platform. E.g. putting internet selector (T DI) related material
+into passive events systems and auto-correlating activity
+from a CNE implant to the same intercept collected in
+passive
+
+Experiment Convergence Conv.02 Metadata must be exportable to other relevant tools. STARGATE (Graphical query engine)
+
+Experiment Convergence Conv.03 Geolocation information Google earth C.O.R.E. K.I.M STARGATE ROADMAP iteration 7-10 (corporate framework,
+
+native viewing, CMS, convergence)
+
+Experiment Convergence Conv.04 Ability to compare EndPoint data with JTRIG forensic data CNE metadata into the CMS
+
+Experiment Convergence Conv.05 Develop a fingerprint concept (includes characterisation) - STARGATE (Endpoint data characterisation)
+application profiles exportable to search in XKEYSCORE STARGATE (Machine surveylsummary component)
+
+Experiment Convergence Conv.06 traCk'ng STARGATE ROADMAP iteration 7-10 (corporate framework,
+standards, shareable with other tools to enable cross native viewing, CMS, convergence)
+querying across the 5-eyes.
+
+Refine Convergence Conv.07 EndPoint data should send generate metadata for the new CNE metadata into the CMS
+Content Metadata Store (CMS) GOLDEN EYE 2
+
+Experiment Convergence Conv.08 Enrichment of EndPoint content and metadata from other STARGATE ROADMAP iteration 7-10 (corporate framework,
+toolsldatabases (BroadOak, UTT, JTRIG, Globalreach, native viewing, CMS, convergence)
+Global Surge, THUGGEE) LOOKING GLASS
+
+Experiment Convergence Conv.09 Events data containing End Point internet activity material STARGATE ROADMAP iteration 7-10 (corporate framework,
+e.g. this public IP has been seen in MARINA. native viewing, CMS, convergence)
+
+Experiment Convergence Conv.10 Flexibility to keep pace with tools developments, Eclipse platformiframework
+compatibility with others' efforts, and accessible to e.g. ICTR
+(Applied Research)
+
+Experiment Convergence Conv.11 PSC tipping to EREPO other passive collection (see STARGATE (Alerting Components)
+tasking requirement)
+
+Experiment Convergence Conv.13 Data feeds in out of Endpoint: Radio values and MAC STARGATE (Machine surveyisummary component)
+addresses i IP addresses - take data to, and lookup from STARGATE ROADMAP iteration 7-10 (corporate framework,
+Global Surge! Roadbed [Overhead wifi mapping! native viewing, 0M5, convergence)
+
+Experiment Convergence Conv.STARGATE ROADMAP iteration 7-10 (corporate framework,
+webmail cookie as an Active User entryilP Datetime in native viewing, CMS, convergence)
+HAUSTO Shareown?)IM UTANT BROTH
+or other corporate solutions
+
+Experiment Convergence Conv.17 Ability to view collected items with reports that have been STARGATE ROADMAP iteration 7-10 (corporate framework,
+written from them - MOONRAKER (assume this would be native viewing, CMS, convergence)
+done using the source record for reports)
+
+Refine Convergence Conv.19 Be able to launch queries in other SIGINT systems from STARGATE ROADMAP iteration 2
+within EndPoint e.g. Send identified selectors to events tools GLASS
+
+Experiment Convergence Conv.20 Carbon Rod - show me a man in the middle between this MUGSHOT
+
+ 
+
+ 
+
+ 
+
+End Point network and this website. (Vulnerability
+
+ 
+
+STARGATE (Machine surveyisummary component)
+
+ 
+
+assessment)
+
+ 
+
+STARGATE (Network visualisation)
+
+ 
+
+STARGATE (network summary plugin)
+HIGH NOTE (CNE TD tools)
+NAC Network Visualisation work
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Convergence Conv.21 If the network contains wireless bridges, show me pictures of STARGATE (Network visualisation)
+where that RF has been seen). Having the ability to connect NAG Network Visualisation work
+
+Experiment Convergence Conv.24 mamammeabiht Knowledge Base. Feed BROAD STARGATE ROADMAP iteration 7-10 (corporate framework,
+OAK and other summarisation tools. native viewing, CMS, convergence)
+
+STARGATE (Endpoint data characterisation)
+
+Experiment Convergence Conv.25 Link out to (mirrored) open source resources such as Web i GOLDEN EYE 2
+Wiki - look up machine i hardware info E.g. This MAC NOTE (CNE TD tccis)
+
+Experiment Convergence Conv.26 meFIHEt'iB?'End router configs, STARGATE (Task management component)
+tin relation to your network - noting any outbound traceroutes HIGH NOTE (CNE TD roots)
+that ?055 an EREPO access- STARGATE (Network visualisation)
+
+Refine Query er.01 Result summaries - users need to be able to see results and Migrate STARGATE plugins to LOOKING GLASS
+refineisummarise the dataset prior to launching further STARGATE (Graphical query engine)
+analyticsiviewing formats. Also histogram, count, filter LOOKING GLASS
+
+Refine Query er.02 awasa?aamam atisimrearaga'aasn?amang Migrate STARGATE plugins to LOOKING GLASS
+time, using Boolean expressions. CNE metadata into the CMS
+
+STARGATE (Graphical query engine)
+LOOKING GLASS
+
+Experiment Query er.03 Query using indexed values from files (indexed remotely or ROCK OPERA remote indexing
+locally) with ability to apply Boolean logic, including foreign 
+
+Refine Query er.04 the CNE datastore STARGATE (Graphical query engine)
+
+target user
+machineifolder
+time
+most recently viewed files
+Refine Query er.06 Save queries STARGATE (collaboration components)
+STARGATE (Graphical query engine)
+
+Refine Query er.07 Tag-based searching: tags are given to items that fit the STARGATE (Endpoint data characterisation)
+description e.g. "yahoo", "voip" (similar to fingerprints in X-
+
+Keyscore).
+Ability to compile 'common' tag-based searches. Essential to
+the knowledge sharing process and corresponding use at
+scale of end point.
+
+Experiment Query er.08 Show me what IP messaging clients have connected to,
+suggests new targets. Query on peer to peer connections
+
+Refine Query er.09 Ability to add notes to to STARGATE (collaboration components)
+support collaboration, notes pushed up the chain. Click on a GLASS
+
+Experiment Query er.10 Ae?lgbmi?ef?r egress ('which boxes can I get STARGATE (Shopping basket full functionality)
+
+ 
+
+ 
+
+ 
+
+ 
+
+files from?')
+
+ 
+
+ 
+
+ 
+
+EKB information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refine Query er.12 Import data from another source (eg 3rd party filelisting) - for GOLDEN EYE 2
+example a CSV file into Eclipse
+Refine Query er.13 Pull out all applications seen on a box i network STARGATE (Machine surveyisummary component)
+STARGATE (Endpoint data characterisation)
+Experiment Query er.14 pull out all selectors seen on a box! in docs STARGATE (Summarisation)
+Telephone numbers, emails, passwords etc retrieved STARGATE (Graphicai query engine)
+Refine Query er.16 STARGATE (Graphical query engine)
+meehinee i users 4' latency 341m eff STARGATE (Endpoint data characterisation)
+Experiment Query er.17Schedule queries on collected data STARGATE (Graphical query engine)
+Refine Query er.18 Share queries STARGATE (collaboration components)
+Experiment Query er.19 Ability to push data - i.e. other people found this interesting! STARGATE (collaboration components)
+'other people asked for this on this box' i 'query this to find STARGATE (Endpoint data characterisation)
+Refine Query er.21 remeVed yahoo data/ STARGATE (Graphical query engine)
+Refine Query er.22 Other users Flagged items (see knowledge sharing) and star STARGATE (collaboration components)
+rating for items
+Refine Query er.23 Query operations by machine types itopic itechnologiesi STARGATE (Endpoint data characterisation)
+common properties of operations, projects or machines STARGATE (Graphicai query enqine)
+Refine Query er.24 The ability to track the unique number assigned to a thumb
+drive by computer and then correlate and map this to when
+that same thumb drive is used in a different computer.
+Experiment Query er.25 Volumes of activity across networks STARGATE (Network visualisation)
+which boxes are used most Often STARGATE (Endpoint data characterisation)
+Whieh boxes d0 eenein Thinge? STARGATE (Graphical query engine)
+NAC Network Visualisation work
+Refine Tasking Task.01 By a specific file type STARGATE
+STARGATE (Endpoint data characterisation)
+Refine Tasking Task.02 By those most recently viewed or used STARGATE
+STARGATE (Endpoint data characterisation)
+Refine Tasking Task.03 directory listings i file listings STARGATE
+Refine Tasking Task.04 images i documents as thumbnails only STARGATE (Thumbnail viewer)
+STARGATE (Auto conversion of thumbnail files)
+STARGATE
+Experiment Tasking Task.05 Inform what is i is not possible on this box i network STARGATE (Machine surveyisummary component)
+STARGATE (network summary plugin)
+Document what plug ins are available and how they work. STARGATE (Shopping basket full functionality)
+can be directly tasked by the analyst for ROCK OPERA remote indexing
+E.g. remote indexing of a box HIGH NOTE (CNE TD toms)
+l?lnur um: i1- 
+Experiment Tasking Task.06 Tag-based tasking -rinternet activity profile usernames, STARGATE (Endpoint data characterisation)
+passwords, cookies, web browsing and 
+Experiment Tasking Task.07 Need for rules (timeivolumeifile types), conflict resolution, STARGATE (Task management component)
+permissions EKB information
+Refine Tasking Task.10 Request individual files STARGATE (Manual authorisation tool)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.STARGATE
+Refine Tasking 1 Task.11 Request network info e.g. traceroutes, ipconfig, arp - a, STARGATE (Manual authorisation tool)
+'printr netmep STARGATE (Network visualisation)
+Experiment Tasking 1 Task.13 Mission management: within the EndPoint system - on file STARGATE (Chequerboard)
+request, generate metrics I stats - TPA can use too GLASS
+Refine Tasking 2 Task.14 Access to cookie content. These are powerful sigint STARGATE
+enablers, carrying selector and geolocation information
+amongst other stuff, so rank higher than other webbrowsing
+material.
+Experiment Tasking 2 Task.15 Tasking by application e.g. "get me all Skype files" STARGATE (Endpoint data characterisation)
+Experiment Tasking 2 Task.16 Tasking by files containing a string i having particular hash STARGATE (Endpoint data characterisation)
+values i image hash values
+Refine Tasking 2 Task.17 #2Tasking by files that have changed STARGATE (Endpoint data characterisation)
+Experiment Tasking 2 Task.18 Tasking by geo value - google earth, public ip profiles, STARGATE (Endpoint data characterisation)
+machine identifiers. Evoived MUTANT BROTH
+Experiment Tasking 2 Task.19 Tasking by type media content collection - IMiemail text, STARGATE (Endpoint data characterisation)
+voice, video,  eg "get me all voice files" Automated taskinq
+Refine Tasking 2 Task.20 Tasking by user author STARGATE (Endpoint data characterisation)
+Refine Tasking 2 Task.22 keylog requests - useful for passwords and the like STARGATE (key log viewer)
+Refine Tasking 2 Task.26 request pings on IP addresses to determine equipment STARGATE (Manual authorisation tool)
+types HIGH NOTE (CNE TD tools)
+MUGSHOT
+Experiment Tasking 2 Task.28 Retrieve files based on text content- eg if the document has ROCK OPERA remote indexing
+TOP SECRET in it, collect it, don't wait to be asked STARGATE (Shopping basket full functionality)
+Experiment Tasking 2 Task.29 STARGATE (Screenshot viewer)
+STARGATE (Shopping basket full functionality)
+Refine Tasking 2 Task.30 Tasking pre-End Point (queuing up tasking before the STARGATE (Manual authorisation tool)
+endpoint is ready)
+Experiment Tasking 3 Task.33 Bulk tasking - ability to apply tasking parameters to the STARGATE (Manual authorisation tool)
+network i preleeti tElSk a Target set .TURBINE (mission applications)
+AC NO mission management
+Experiment Tasking 3 Task.34 Effects based tasking, for certain users e.g. ability to change STARGATE (Manual authorisation tool)
+registry, watermark files, or even destroy the box? New CNE Effects too|
+Experiment Tasking 3 Task.36 Task an End Point to send tipping to the EREPO system for STARGATE (Manual authorisation tool)
+collection on the active IP of the box. Put a beacon on this STARGATE (Martino Components)
+Refine Viewer 1 View.01 WHERE-configure every function of the viewer, so that STARGATE (Collaboration components)
+settings are saveable and shareable Loo GLASS
+Experiment Viewer 1 View.02 ability to view content in foreign script (in the correct order) STARGATE ROADMAP iteration 8
+UDAQ2
+Experiment Viewer 1 View.03 Across networks we need to be able to distinguish between: STARGATE (Network visualisation)
+a computer on a network seen but not implanted at all NOTE (CNE TD toois)
+eemPUTerS With ?re" Stage implants: second Stage LUNAR HORN ET (Support for implant visualisation)
+'mplaIImS NAC Network Visualisation work
+II Is?e?chonnrI as age imp an no ye surveye ICTR (3133) network mappinq
+
+ 
+
+ 
+
+ 
+
+kn nn 
+[All 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.04 Analytics to produce a summary! profile page of a machine .STARGATE (Machine surveyisummary component)
+as a starting point for the analyst, like CIA QUINCY STARGATE (Chequerboard)
+Experiment Viewer View.05 STARGATE (Network visualisation)
+recommendations (show me paths with hops) STARGATE (Network summary pluqin)
+LU NAR HORN ET (Support for implant visualisation)
+Experiment Viewer View.06 Visualise and physically! logically map target networks STARGATE (Network summary plugin)
+STARGATE (Network visualisation)
+NAC Network Visualisation work
+ICTR (313 B) network mapping
+Refine Viewer View.07 Machine properties: Domain - which domain(s) is the STARGATE (Machine surveyisummary component)
+machine in?
+Refine Viewer View.08 Metadata for each file to include file properties (author, last STARGATE (Endpoint Data Characterisation)
+modified by, dates, length, hidden, password protected, ROCK OPERA remote indexing
+Refine Viewer View.09 Idem and a STARGATE (Endpoint Data Characterisation)
+descriptor)
+Refine Viewer View.10 Machine properties: IP (publiciprivate) include relevant STARGATE (Machine surveyisummary component)
+passive access points
+Experiment Viewer View.11 Model time aspects in visualisation physicalilogical STARGATE (Endpoint Data Characterisation)
+mapping of target networks - ie as machines STARGATE (Network visuaiisation)
+Refine Viewer View.12 STARGATE (Machine surveyisummary component)
+Experiment Viewer View.14 see applications on a box. E.g. mail clients, messenger STARGATE (Machine surveyisummary component)
+clients, Autocad, Google Earth, antivirusinetwork apps
+"what apps on what box?".
+Refine Viewer View.16 Show machine properties (note not 'implant' properties). STARGATE (Machine surveyisummary component)
+Allow for the possibility of multiple implants on a single
+machine.
+Experiment Viewer View.17 Show overall Project information on Op STARGATE (Task management component)
+- who the target is, requirements, why the target is being STARGATE (Machine surveyisummary component)
+worked. Countryicontextual stuff - CP - Dr Evil - STARGATE (projectrop summary view)
+hemhma? ?0 1) FLAME CARPET 2
+- summary of progress. 59 drill down
+- summary of SIGINT parameters (casenotationsisigad) 
+- project lead and who've registered an interest BROADOAK
+LOOKING GLASS
+Experiment Viewer View.21 Need for COIs, need to see current status of users STARGATE (Authorisation components, incl user management)
+compartments. Classification of current view.
+GOLDEN EYE 2
+Refine Viewer View.22 Show results of content searches with paths for content UDAQ2
+location
+Experiment Viewer View.23 supported ability to view i run native versions of non plain STARGATE (registry viewer)
+
+ 
+
+ 
+
+ 
+
+text material (office docs, jpegs, video etc ALSO registry
+data, system files, shortcuts.)
+
+ 
+
+STARGATE ROADMAP iteration 8
+
+ 
+
+FUME CUPBOARD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.24 tasking history - an ability to see the status of all files and the STARGATE (Task management component)
+user's and others' current tasking Requested Rejected!
+Accepted! Delivered, viewable over an individual
+of
+task!status etc etc (ie by any property of the tasking
+including time)
+Experiment Viewer View.25 Visualise file structures across different machines and STARGATE ROADMAP iteration 8
+browse through them. Dinrvalks, file listings and other survey STARGATE (Graphical query engine)
+results to be included. Subtract what's the same (or what's STARGATE (Endpoint Data Characterisation)
+d'?erem) STARGATE (machine survey!summary component)
+refine Viewer View.26 ability to click on email account and look at associated web STARGATE (Endpoint Data Characterisation)
+browsing (algorithm to sessionise web sessions to email convergence
+accounts user) Analytics
+Refine Viewer View.28 Ability to see who has viewed the network project! machine LOOKING GLASS
+individual files (including self!) UDAQ2
+Refine Viewer View.29 An ability to add and amend comments to the machine and LOOKING GLASS
+to label it with values as above.
+Refine Viewer View.30 Applications installed and versions!settings STARGATE (Machine survey!summary component)
+Experiment Viewer View.31 Be able to graphically represent how a computer is STARGATE (Network visualisation)
+communicating within the network, as well as outside. STARGATE (Network summary piuqin)
+Which ports are they Iusrng? I I Converged analytics
+Are they "amen"?! mformat'qn FTP). STARGATE (Machine survey!summary component)
+Experiment Viewer View.32 STARGATE (Machine survey!summary component)
+STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.33 click on email account to see other computers this account STARGATE (Endpoint Data Characterisation)
+has been seen on in this particular network! other CNE STARGATE (Network Visualisation)
+Experiment Viewer View.34 assesses - different operations (eg NSA, STARGATE (Network visualisation)
+EREPO, RU FFLE) may have access at different points of a STARGATE (Network summary plugin)
+network STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.35 Connecting my network internal to external! CNE to Passive GLOBAL SURGE
+Refine Viewer View.36 Connection Logs to the network!internet, by type as well as STARGATE (Endpoint Data Characterisation)
+time for machine target (eg POP3 logon times, dialup
+connection times wifi ssids)
+Refine Viewer View.3'! Display address book and signature values from apps on STARGATE (E-mail visualisation)
+machine (eg outlook)
+Refine Viewer View.38 Display messaging activity from IM clients STARGATE (Endpoint Data Characterisation)
+LOOKING GLASS
+Refine Viewer View.39 Compare machines across a project!CNE - files
+sent!received
+Experiment Viewer View.40 find where the same values are present elsewhere (in STARGATE (Graphical query engine)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+metadata!content!other accesses)
+
+ 
+
+STARGATE (Endpoint Data Characterisation)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refine Viewer 2 View.42 highlight where specific application!app type files are stored STARGATE (Endpoint Data Characterisation)
+push out all Skype!Paltalk!MSN!Outlook
+files!communications files)
+Refine Viewer 2 View.43 Implant type, installed plugins, and potential plugins EKB information
+(machine level view)
+Refine Viewer 2 View.44 Latencies (traceroutes) HIGH NOTE (CNE TD tools)
+STARGATE (Network visualisation)
+NAC Network Visualisation work
+Refine Viewer 2 View.45 list files on desktop
+Refine Viewer 2 View.46 list of any identifiers found and where they were pulled from STARGATE (Machine survey!summary component)
+0? The meehine (eg- Reephene-Pbk) STARGATE (Endpoint Data Characterisation)
+Refine Viewer 2 View.47 Ilist of the Nethood Folder
+Refine Viewer 2 View.48 list profiles!accounts on box
+Refine Viewer 2 View.49 Log of implant callbacks JACKPOT
+Experiment Viewer 2 View.50 model contact data (best merged with other accesses - see STARGATE (Endpoint Data Characterisation)
+convergence) LOOKING GLASS
+Experiment Viewer 2 View.52 model internet activity - cookie exchanges and other content STARGATE (Endpoint Data Characterisation)
+as well as a metadata summary User centric view
+Activity modelling
+Experiment Viewer 2 View.53 Model indexing of collected files on!across machines Entity extraction
+Refine Viewer 2 View.54 msinfo command properties and similar. SLIPSTREAM
+Forensics Implant
+Refine Viewer 2 View.55 option to view only retrieved files and their location
+Experiment Viewer 2 View.56 play back! visualise user!machine!network activity (temporal STARGATE (Network visualisation)
+modelling) STARGATE (Machine survey!summary component)
+LOOKING GLASS
+Experiment Viewer 2 View.5'! registry viewer analysis STARGATE (registry viewer)
+STARGATE (Daredevil remote forensics plugin)
+Refine Viewer 2 View.58 See a model of where value has been gained from similar STARGATE (collaboration components)
+meehinee (Amazon Shopping mede') Trend ene'YSiS STARGATE (Endpoint Data Characterisation)
+Refine Viewer 2 View.59 See project lead and who have registered an STARGATE (Endpoint Data Characterisation)
+interest. Register an interest for self!section STARGATE (Alerting Components)
+Refine Viewer 2 View.60 show machines accessed from other machines STARGATE (machine survey!summary component)
+Refine Viewer 2 View.61 Show where files have changed since being viewed. STARGATE (Chequerboard)
+Refine Viewer 2 View.62 show where recently opened!created documents are stored STARGATE ROADMAP iteration 2
+(color coding if file has changed since last accessed) STARGATE (Graphical query engine)
+Refine Viewer 2 View.64 Machine properties: Type STARGATE (Machine survey!summary component)
+bridge!firewall!VSAT STARGATE (Network visualisation)
+medem etc) STARGATE (Endpoint Data Characterisation)
+NAC Network Visualisation work
+Refine Viewer 2 View.65 user logs (who logged on when) STARGATE (machine survey!summary component)
+
+ 
+
+ 
+
+ 
+
+ 
+
+STARGATE (Endpoint Data Characterisation)
+
+ 
+
+Activity profiling
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.6'! Visualise the status of CNE operations, based on information STARGATE (Chequerboard)
+held within the End Point System.
+Experiment Viewer View.68 ability to display 'pattern of life' based on presence data. LOOKING GLASS
+'social' networks to overlay the physical and logical network.
+Refine Viewer View.69 ability to data - ability to convert times on target
+data to Zulu!correct time if settings on target box!network are
+wrong.
+Experiment Viewer View.70 Ability to view collected items that have been reported and to LOOKING GLASS
+label items as reported.
+Refine Viewer click on email account! Instant Messaging account to see list STARGATE (E-mail visualisation)
+01? bUddieS STARGATE (Endpoint Data Characterisation)
+Refine Viewer click on email account to see list of emails received Subject STARGATE (E-mail visualisation)
+i From: STARGATE (Endpoint Data Characterisation)
+Experiment Viewer highlight files in suspicious places. eg This is supposed to be STARGATE (Machine survey!summary component)
+a Tile T5 in The wrong STARGATE (Endpoint Data Characterisation)
+Experiment Viewer highlight whether this is a valid ?system' file. Helpful in telling STARGATE (Endpoint Data Characterisation)
+analyst what is worth tasking.
+Refine Viewer View.75 How access was gained (MITM, content based -with email STARGATE (Machine survey!summary component)
+used, QUANTUM etc)
+Refine Viewer View.76 links to glossary of glossary, breakdown of D1.3 (support provision of STARGATE training)
+plugin options and definitions LOOKING GLASS
+Refine Viewer list of email accounts to passwords STARGATE (E-mail visualisation)
+STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.78 MAC!serial numbers Equipment description - e.g. what is STARGATE (Machine survey!summary component)
+"box"? provide information on capability! what are OS
+properties
+Refine Viewer View.79 Radio properties of box (eg wifi or vsat modem) STARGATE (Machine survey!summary component)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

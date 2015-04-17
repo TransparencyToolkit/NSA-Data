@@ -1,0 +1,477 @@
+       
+
+Region: Europe, Mddle East
+
+(Israel and A?ica:
+ECC
+
+The overall classification of this briefing ie:
+USA, FVEYSHEDEEH
+
+Outline
+
+- (U) Background
+
+- (U) Problem Definition Challenge
+- (U) Our AOR: Europe -Africa
+
+- (U) Examples for Europe - Africa
+
+- (U) Enrichment and Data Flow
+
+- (U) Real-time, batch, XKEYSCORE
+- (U) Conclusions
+
+33
+OFFICIAL USE ONLY
+
+   
+ 
+
+(U) Terrorists Transit via Europe
+
+:Nauanagu Klel h?osfodg?
+
+Del wage-(iv 
+
+(U) Communication  
+
+
+Bremen BERLIN
+Hannover. 
+
+V.
+
+ 
+   
+  
+   
+    
+  
+  
+   
+
+NCEUR Support
+
+     
+  
+   
+    
+
+- Transit Points 
+
+ 
+
+?Ma debur
+Dunsburg 
+:gEssen Leipzig . . 
+Usseldo 
+-Cologne Ka I Dresden? . 
+Partners  
+Wiesoaden, .Frankturt 
+CZECH
+?MannheIm REPUBLIC 
+arbrucken 
+Second Party  me 
+
+FRANCE Stuttgart MuniCh ?cm? I 
+. . AUSTRIA .
+I  I   HumRelatlonshi  
+.Cil?vm ?n was we
+ 'p'wonuu I, 
+. o-c .?av 0v
+., 3.1. .
+. . . :30. 
+. u.-0M-n'
+Hunt ..1.
+. -- mh.? - .-.. 
+. .. .
+tr.? 4-USA, FVEYS 54
+
+(U) Challenge: Integrating Tactical
+
+National Collection
+
+Collection with 
+
+
+Digital packets
+Analog comms
+
+Noise issues, lack of experience With
+these types of signals
+
+Tactical versus National
+(Strategic) Collection
+
+RTRG
+
+DISTILLERY
+
+ 
+
+37
+
+USA, FVEYS
+
+(U) Analytics for Targets in Europe
+OPSEC Savvy Targets
+
+. .most terrorists stop thru Europe? 
+(T Use advanced
+techniques
+
+Ste gano graphy
+
+- Forensics or Analytics on front end
+
+  
+
+
+- Takes time and has ?black hole? issue
+
+Reliance on
+?specia collection
+
+GCHQ and FAA
+
+Problems processing w/r to TS
+
+FVEYS
+
+ 
+
+ 
+
+(U) Analytics for Identity
+Intelligence
+
+Metadata for
+Operations geolocation;
+from Jordan to content for
+Syria in both con?rmation
+directions; Sahel
+
+Metadata for
+From Libya to geolocation;
+Sahel content for
+con?rmation
+Metadata for
+Sahel and geolocation;
+?nancing of content for
+terrorism; con?rmation
+
+Balkans into
+Europe
+
+Used Need collection
+in Africa assets
+
+ 
+
+41
+USA, FVEYS
+
+(U) Enrichment Sources
+ 
+
+ 
+ 
+
+- (U)Air Breather, HF   
+(CHFVEY) Big Pipe  
+(U) Military SIGINT Services 
+Forensics
+
+(U) Third Party Sources
+
+- Second Party
+- GCHQ is critical for mission
+
+ 
+
+
+ForenSICs
+
+ 
+
+ 
+
+A 
+USA, FVEYS Computer Forensics
+
+(U) Enrichment: SIGDEV GCHQ QFDs
+
+ 
+
+ 
+
+Account Allocations by TOPI
+
+March 2012
+
+ 
+
+ 
+
+Slide taken from ECC archives.
+
+54% of current ECC DNI
+tasking based on QFD data
+
+QFDs provide better
+access to metadata for European 
+North African targets than any other
+access at ECC due to poor passive
+collection
+
+Flexibility provided by
+the use of TDIs and the ?rst stage
+query allows for better target
+discovery and development
+
+ 
+
+ 
+
+USA, FVEYS
+
+(U) Data Flow Integration is Constant Headache
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+ 
+
+Access Exploitation
+Signal Signal Receiver/ Signal
+Acquisition (RF Conditioning: Downconverter Demodulation 
+or Optical) Ampli?cation, (RF) (RF)
+Distribution
+Transport
+82 
+
+ 
+
+Data 
+Target Development 
+
+Events
+Tr
+I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Target TaSking Transition to
+
+ 
+
+Selectors
+
+ 
+
+Translation/
+
+Trangription 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Voice/fax/data ?les
+
+IDEI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Intelligence Reporting
+
+ 
+
+  
+
+ 
+
+Whose job? S1, S3, 
+USA, FVEYS 46
+
+(U) ?Real Time? Analytics
+
+(U) Nascent Analytics with unclear de?nition of ?real
+
+time?
+
+How fast is alerting?
+DISTILLERY
+
+Pulled from GHOSTMACHINE stack
+(U) NIAGARAFILES
+
+File based
+
+Starting to gain experience
+RTRG
+
+Tools not integrated into ECC
+
+Data Sets are sparse
+
+Tactically oriented
+
+Unregulated alerts can quickly spam user
+ECC Current Effort:
+
+Focused on NTOC and Distributed Denial of
+
+Service attack alerting
+qupq niQTn PPV
+
+ 
+
+USA, FVEYS
+
+(U) Batch: MapReduce Analytics
+
+(U) Batch oriented versus streaming
+Run every 15 min to once a day or so
+Not streaming
+(U) Good Data Storage
+Good access outward to MDR-2
+Days to years of storage
+Promotion 
+(U) Complex Analytics like ?Pattern of Life?
+Reasonable amount of processing cycles at the
+front end collection system (not yet tested)
+(U) Session can be quite long and still captured (not yet
+tested)
+(U) (identifying sessions) are workable
+(U) No experience yet sharing with second and third
+party partners
+
+(U) Unknown level of entry training required
+. T?Till loge WHWRANG
+
+ 
+
+OFFICIAL USE ONLY
+
+(U) Xkeyscore Fingerprints
+
+Streaming
+Data available one hour later?
+Most do pulls up to yesterday
+(U) Good Data Storage
+RAW content: 3 days to a couple of weeks
+Metadata: 90+ days
+(U) Complex Analytics like ?Pattern of Life?
+Reasonable amount of processing cycles at the
+front end collection system
+(U) Session can be quite long and still captured
+(U) are workable
+(U) Good for sharing with second and third party
+(U) Relatively low level of entry training required
+
+ 
+
+ 
+
+USA, FVEYS
+
+(U) Key Take Aways
+
+- Discovery in Africa is based on ?we
+do not know what we do not see?
+
+Unknown Unknown from url: 
+
+
+- (U) Europe has Opsec savvy CT targets
+
+- (U) Analytics involve partners
+
+-- 3rd Party in future
+
+- (U) Limited Resources: Processing Power BW
+
+50
+OFFICIAL USE ONLY
+
+Europe Africa
+
+
+
+ 
+
+51
+OFFICIAL USE ONLY
+
