@@ -1,0 +1,1449 @@
+﻿■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+CSEC Cyber Threat Capabilities
+
+SIGINT and ITS: an end-to-end approach
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+1*1
+
+I ^ fl Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+TOP SECRET//COMINT//REL TO FVEY
+
+Cyber Security
+
+•	What do we mean by Cyber?
+
+-	Detection / Discovery and Tracking of State-Sponsored
+Hacking
+
+-	Counter-Intelligence Reporting / Mitigation Advice and Defence
+against Cyber Threats
+
+•	SIGINT Detects Cyber Activity
+
+-	Access Canadian and Allied collection to discover and track
+covert networks (counter-intelligence)
+
+•	IT Security Defends against Cyber Activity
+
+-	Sensors Government of Canada networks to identify malicious
+activity and enhance defences
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+I+I
+
+Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+■■■■■■
+
+
+
+
+
+Comprehensive Cyber Capabilities
+
+<JS#		
+		O ^
+Network Analysis		Cyber Analysis
+
+Intelligence
+
+sis
+
+v/
+
+Counter Intelligence
+
+\
+
+Threat
+
+Evaluation
+
+Knowledge Transfer
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+
+
+The Grand Challenge - Detection
+
+•	EONBLUE is the cyber threat detection sensor
+developed and deployed in SIGINT and ITS
+
+-	Cyber threat tracking (signature-based detection)
+
+-	Cyber threat discovery (anomaly-based detection)
+
+•	A 6+ year effort that incorporates the best of breed
+detection algorithms/technology in collaboration with
+our 5-eyes partners
+
+-	Based on classified knowledge
+
+-	Scales to major ISP network speeds (10G)
+
+-	Enables rapid prototyping to adapt to ever changing threats
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+The Cyber Landscape
+
+
+
+
+
+Adversaries and Targets
+
+-	Operate globally
+
+-	Varying degrees of sophistication
+
+-	Constantly changing tools and techniques
+
+• Detection / Discovery
+
+-	Tools must operate at all network speeds
+
+-	Deep Packet Inspection at scale
+
+-	Targeting tradecraft / protocols vs. individuals
+
+-	We must ‘live’ in cyber space
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de /’information
+
+Canada
+
+Tîlfl-ll Bite
+
+1^1 Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Why is Cyber Critical?
+
+Nodong Missile
+Range:1300km
+Type: Ballistic
+
+Taepodong Missile
+Range:2900km
+Type: Multistage
+Payload: Nuclear
+
+N
+
+Korea
+
+Desktop PC
+Range:
+
+Type: IBM
+Payload: DDoS
+Cost: 500$
+
+
+
+		
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Iw M Establishment Canada des télécommunications Canada
+
+Working in Cyber Space
+
+•	Tools must adapt constantly / quickly
+
+-	Signature based targeting
+
+-	Metadata analytics
+
+-	Custom tradecraft for discovery
+
+•	Would I do a better job from my PC at home?
+
+-	Enhance / Enable collaboration
+
+-	Adopt Internet technologies on our Classified networks
+
+•	SKYPE / Web 2.0 / Video Chat / Google Apps / etc
+
+-	Centralize our ‘cyber’ analytics
+
+•	CyberDMZ
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■	. Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+I ' I Establishment Canada des télécommunications Canada
+
+-------------- il i mu	.... "
+
+—iww - • -	______
+
+SEEDSPHERE - Discovery
+
+•	EONBLUE anomaly detection utilities isolate network
+anomalies
+
+-	Discover network beacons in Warranted full-take collection
+
+•	Knowledge developed is shared with CNE
+
+-	During CNE activities, implant is found to be cohabitating
+
+-	Implant is copied to CSEC HQ for reverse engineering
+
+•	IT Security detects SEEDSPHERE attacks against
+Government of Canada weekly
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ * ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Repositories - At Collection Site
+
+• Global Access is pushing tradecraft to the front-end of
+access
+
+-	50 terabytes of high speed storage
+
+-	Processing over 125GB/hour of HTTP metadata
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+tt .a Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Cyber Repositories
+
+• In 2009 an average of 112,794 IP traffic items related to cyber
+threat collected each day from Canadian and Allied sources
+
+•	Traditional SIGINT sources prove invaluable in cyber threat
+analysis
+
+-	Travel Tracking Databases used to attribute CNE activity along with
+SMS collection
+
+•	IT Security domestic sensors store 300TB of full-take
+
+-	Equivalent to ‘months’ of traffic
+
+-	Enables historical analysis and anomaly detection
+
+•	In 2009 IT Security domestic sensors enable 95 mitigation actions
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+F: Network Analysis
+
+VIQJ5-AS VICUS S.A.
+
+SEABONE-NET Telecom
+Italia Sparkle
+
+BTN-ASN - Beyond The
+Network America,
+Inc.
+
+HKIX-RS]
+Internet E>
+
+TELEX OM-AT Telekom
+Austria Autonom ousSys,
+
+[10310
+
+■1 - Yahoo!
+
+ID Internet Initiative
+Japan Inc.
+
+TiSimms. Services,
+d/b/a Verizon
+Business x
+
+TELIANET TeliaNet
+Global Network
+
+NTT-COMMUNK
+
+America, Inc.
+
+sscom
+) Ltd
+
+GLOBEINTERNET TATA
+-Com ms.
+
+5AWIS - Sawis
+
+LEVEL3 Level 3 Com ms
+
+MZIMA - Mzima Networks
+Inc. \
+
+V
+
+ALLST-15290 - Allstream
+Corp. Ccrp. Aflstream
+
+NROJET-AS -National-.
+
+NAP-THREE - RA-NAP
+
+CDAGOV^-- Government
+Telcos, and Infotmatics
+Services
+
+[«CFNeÎ
+
+T2 - Department
+f National Defence/DISEM
+
+■ j, ■ Communications Security Centre de ia sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Cyber Analysis
+
+Safeguarding Canada s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+1^1 Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+I" | Establishment Canada des télécommunications Canada
+
+Mitigation
+
+• Direct protection of GC systems and information
+
+-	Prevention and response activity
+
+-	Leverage SIGINT and 5 Eyes intelligence,
+complemented by our own GC domestic
+sensor capabilities
+
+-	Report:
+
+•	Actionable technical mitigation reports provided to client’s I PC
+
+•	Cyber threat situational awareness reports provided to
+departments
+
+-	CSEC review of incidents against systems of importance
+
+-	CSEC analysts deployed to capture technical evidence to
+develop/support mitigation activity
+
+-	CSEC information is merged with all-source cyber threat activities to
+create complete picture of cyber threats
+
+Government of Canada
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+Advice and Guidance
+
+■ * ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+	
+		■■■HHHL.	
+
+Positioning for the future
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+||	C°mmunications Sëeiinty Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Synchronized SIGINT / ITS Mission Space
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+j | Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+					
+					
+
+Situational Awareness
+
+•	SAis:
+
+-	The perception of environmental elements within a
+volume of space and time
+
+•	The comprehension of their meaning
+
+•	Projection of their status in the near future
+
+•	Insight - the capacity to understand hidden truths
+
+•	In the Cyber Context:
+
+-	Gathering and enabling access to cyber information
+
+•	Event Metadata / Event Content / Near Real-Time Exchange
+
+-	Data mining of cyber information to create understanding in
+broader context
+
+-	Predict our adversaries actions based on this knowledge
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■	■ Communications Security Centre de la sécurité TOP SECRET//COIVHNT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Cyber Session Collection
+
+Canada
+
+
+
+TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+1*1 Communications Security Centre de la sécurité
+
+Enabled by Sydney Resolution
+
+SIGINT Analyst
+
+SIGINT Event Store
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Tipping and Cueing (Why)
+
+•	SIGINT - data volumes/network speeds impose severe temporal
+restrictions on collection (use it or lose it)
+
+-	ability to extend cyber target tracking across all 5-Eyes accesses
+and/or analytic event stores instead of just domestic - global aperture
+
+-	ability to uncover covert overlay networks
+
+-	cyber session collection? Uncover tradecraft/binaries/exploit vectors...
+
+•	CND - network edge vs. network core (microscope vs. telescope)
+
+-	enable mitigation of cyber exploitation and/or attack (dynamic
+defence)
+
+-	facilitate indications and warning - can SIGINT provide me with the
+true threat picture in NRT? Could we detect “test firing” of new
+tools/techniques?
+
+-	collaborative defence - can my partners see malicious activity in
+SIGINT against networks I need to protect? Can they tell me in NRT?
+
+Canada
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+SIGINT -> ITS Tipping
+
+Sample of CNO tips provided to ITS from SIGINT SSO on May 05, 2010.
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+DS800
+
+SEEDSPHERE-I
+SEEDSPHERE-
+SEEDSPHERE- *
+-SEEDSPHERE -
+SEEDSPHERE-J
+SEEDSPHERE- ;
+
+I
+
+SEEDSPHERE-I
+
+-1
+
+SEEDSPHERE-1
+
+The Network Name is:
+The Network Name is:
+The Network Name is:
+The Network Name is:
+The Network Name is:
+
+Canadian house of commons
+environment Canada
+
+federal office of regional development (quebec)
+forestry Canada
+
+public works and government services Canada
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Dynamic Defense
+
+•	All elements acting as one
+
+•	Defence at:
+
+-	Network Edge (ITS)
+
+•	Localized/tailored mitigation (e.g. blocking, binary neutering,
+redirection)
+
+•	Focused response to ongoing and potential threats
+
+-	Network Core (SIGINT)
+
+•	Global mitigation possible (e.g. redirection, null routing, filtering)
+
+•	Large scale (but still focused!) response to ongoing and potential
+threats
+
+-	Adversary Space (CNE)
+
+•	Reconnaissance - probe/explore/learn adversarial network space
+
+•	Co-habitate covert network infrastructure for info gathering, tool
+extraction, etc
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ * ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Cyber Activity Spectrum
+
+SECRET//COMINT
+
+CNE/CNA
+
+CNE Imptant
+
+OPSEC
+
+Monitoring
+
+CNE Pursuit
+- Recover
+Binaries / etc -
+
+CNE Pursuit
+- Implant
+Adversary
+
+Infrastructure -
+
+CNE Insertion
+
+CNE Disruption
+
+- Control
+Adversary
+Infrastructure -
+
+CNE Disruption
+
+- Disable
+
+Adversary
+Infrastructure -
+
+CNA
+
+- Destroy
+Adversary
+infrastructure -
+
+Deception Techniques
+
+DARKSPACE	Honey Token	Honeypot	Honeynet	False Flag	Effects
+- Leverage SSO	- Deploy in GoC /	- Deploy in GoC /	- Deploy in GoC /	Operations	- Alter adversary
+for I&W -	Track In SIGINT -	Track In SIGINT -	Track in SIGINT -	- create unrest -	perception -
+
+Passive SIGINT Techniques
+
+	Network		
+2-End	Monitoring	Monitoring	
+	(Tracking Known)	(Discovery)	
+	- International -	- international -	
+
+No
+
+2-End
+
+CDN
+
+Filter
+
+Network
+Monitoring
+(Tracking Known)
+- domestic -
+
+Network
+Monitoring
+(Discovery)
+- domestic -
+
+Dynamic Defence Technologies
+
+In-line IP
+Blacklisting
+
+Domain Name
+System Control
+(redirection /
+disruption / etc)
+
+Traffic Alteration
+(Inbound i.e.
+Neuter malware)
+
+Traffic Redirection
+(Inbound i.e.
+quarantine
+traffic)
+
+Traffic Alteration
+(outbound i.e.
+insert malware)
+
+Host Based Defence
+
+		Defensive
+Red Teaming	HBMIDS	Implant (OPSEC Monitoring)
+
+Network Monitoring Techniques
+
+Network	Network
+Monitoring	Monitoring
+(Tracking Known)	(Discovery)
+
+QRC (Lightweight
+Network Sensor)
+
+Commercial / Industry / Relationships
+
+	Commercial		Influence		
+Dept  Resp	Defence (Anti-Virus /		Technology  (provide	Supply Chain	Political  Demarche
+	Firewall / ETC)		Signature to AV)		
+
+Defensive
+
+Operation
+
+Passive
+
+Operation
+
+Cross Domain Solution - Tipping and Cueing
+
+■ * ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+						
+■■■■						
+
+Dynamic Defense Scenarios
+
+Network A
+
+Inline Defensive
+Device
+
+Network B
+
+INTERNET
+
+ICNE Action
+
+Network C
+
+Rules Engine
+
+Honeynet
+
+Canada
+
+<j -s| Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+Next Steps
+
+•	Synchronize SIGINT and ITS Mission
+
+•	Alignment with Cyber Strategy
+
+•	Funding
+
+•	Joint Approach for Domestic Partners
+
+•	Recruitment and Staffing for Growth
+
+•	Joint Capabilities Development (Sensors and Analytics)
+
+Legislative
+
+Amendments
+
+Develop Career
+Framework
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+■ ^ ■	Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+—i	■
+
+If you build it... they will come
+
+---«p f* i ~ — —
+
+m
+
+Rather
+
+Than
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+1^1 Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ t ■ Establishment Canada des télécommunications Canada
+
+CSEC Cyber Threat Capabilities
+
+SIGINT and ITS: an end-to-end approach
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+
+
+Canada
+
+I
+
+■	^ ■ Communications Security
+
+■	T ■ Establishment Canada
+
+Centre tie le starts TOP SECRET//COMINT//REL TO FVEY
+
+des télécommunications Canada
+
+mm
+
+r*~:—
+
+Cyber Security
+
+•	What do we mean by Cyber?
+
+-	Detection / Discovery and Tracking of State-Sponsored
+Hacking
+
+-	Counter-Intelligence Reporting / Mitigation Advice and Defence
+against Cyber Threats
+
+•	SIGINT Detects Cyber Activity
+
+-	Access Canadian and Allied collection to discover and track
+covert networks (counter-intelligence)
+
+•	IT Security Defends against Cyber Activity
+
+-	Sensors Government of Canada networks to identify malicious
+activity and enhance defences
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+■ T ■ Establishment Canada des télécommunications Canada
+
+WÊÊÊÊËmammmmâSâtÊllÊ!BÊ!!B!f&ËmÊIÊimmmMÊÊÊÊÊÊÊÊÊÊÊÊmÊ^mÊÊiÊÊaÈÊiiiïÆ:aai
+
+Comprehensive Cyber Capabilities
+
+Speak:
+
+(GA4)
+
+-	Added output to the 5-Eyes which is labelled as Knowledge Transfer
+(mention the sharing of tradecraft / techniques / tools / etc)
+
+-	Mention how analytic work load is split among parnters
+
+I+I
+
+Communications Security Centre de la sécurité	SECRET//COMINT//REL TO FVEY
+
+Establishment Canada des télécommunications Canada
+
+wÉiBSBÎÈÊÊÊÊÊÊÊÊÊÎ/Ê£WtmmmÊ^mMi^^^mi^^^tiÊÆÊÊËÈÈIÈÊtM
+
+The Grand Challenge - Detection
+
+• EONBLUE is the cyber threat detection sensor
+developed and deployed in SIGINT and ITS
+
+-	Cyber threat tracking (signature-based detection)
+
+-	Cyber threat discovery (anomaly-based detection)
+
+• A 6+ year effort that incorporates the best of breed
+detection algorithms/technology in collaboration with
+our 5-eyes partners
+
+-	Based on classified knowledge
+
+-	Scales to major ISP network speeds (10G)
+
+-	Enables rapid prototyping to adapt to ever changing threats
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+Speaker:
+
+(ITS)
+
+- Message is commercial is not enough
+
+4
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+The Cyber Landscape
+
+•	Adversaries and Targets
+
+-	Operate globally
+
+-	Varying degrees of sophistication
+
+-	Constantly changing tools and techniques
+
+•	Detection / Discovery
+
+-	Tools must operate at all network speeds
+
+-	Deep Packet Inspection at scale
+
+-	Targeting tradecraft / protocols vs. individuals
+
+-	We must ‘live’ in cyber space
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+■	^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■	t I Establishment Canada des télécommunications Canada
+
+Why is Cyber Critical?
+
+Nodong Missile
+Range: 1300km
+Type: Ballistic
+
+Taepodong Missile
+Range: 2900km
+Type: Multistage
+Payload: Nuclear
+
+Korea
+
+Desktop PC
+Range:
+
+Type: IBM
+Payload: DDoS
+Cost: 500$
+
+■	^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■	t H Establishment Canada des télécommunications Canada
+
+—mammimmm
+
+Working in Cyber Space
+
+•	Tools must adapt constantly / quickly
+
+-	Signature based targeting
+
+-	Metadata analytics
+
+-	Custom tradecraft for discovery
+
+•	Would I do a better job from my PC at home?
+
+-	Enhance / Enable collaboration
+
+-	Adopt Internet technologies on our Classified networks
+
+•	SKYPE / Web 2.0 / Video Chat / Google Apps / etc
+
+-	Centralize our ‘cyber’ analytics
+
+•	CyberDMZ
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+■	^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■	t ■ Establishment Canada des télécommunications Canada
+
+......... 3a*»"
+
+SEEDSPHERE - Discovery
+
+•	EONBLUE anomaly detection utilities isolate network
+anomalies
+
+-	Discover network beacons in Warranted full-take collection
+
+•	Knowledge developed is shared with CNE
+
+-	During CNE activities, implant is found to be cohabitating
+
+-	Implant is copied to CSEC HQ for reverse engineering
+
+•	IT Security detects SEEDSPHERE attacks against
+Government of Canada weekly
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada pai la supériorité de l'information
+
+Canada
+
+8
+
+Speaker:
+
+-Major point: How it is an all-source collection effort to get the data
+-Explain the value of COVENANT to seed new discovery
+-How CNE is now seeding new discovery
+-How ITS detects attacks into GC
+
+8
+
+■	^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■	t ■ Establishment Canada des télécommunications Canada
+
+Repositories - At Collection Site
+
+• Global Access is pushing tradecraft to the front-end of
+access
+
+-	50 terabytes of high speed storage
+
+-	Processing over 125GB/hour of HTTP metadata
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de /’information
+
+Canada
+
+Speaker:
+
+We are talking about the massive volumes (Reference to earlier SSO brief ng).
+There is so much traff c we keep it at the front-end and do advanced
+datamining / new tradecraft development
+
+50TB = Library of Congress 3 times over
+
+125GB of data = 14 Hours of High Def nition Video
+
+SIGINT 2010 - Keep stuff online
+
+I ^ I Communications Security
+fl T fl Establishment Canada
+
+Centre de la sécurité '	^
+
+des télécommunications Canada
+
+TOP SECRET//COMINT//REL TO FVEY
+
+Cyber Repositories
+
+•	In 2009 an average of 112,794 IP traffic items related to cyber
+threat collected each day from Canadian and Allied sources
+
+•	Traditional SIGINT sources prove invaluable in cyber threat
+analysis
+
+-	Travel Tracking Databases used to attribute CNE activity along with
+SMS collection
+
+•	IT Security domestic sensors store 300TB of full-take
+
+-	Equivalent to ‘months’ of traffic
+
+-	Enables historical analysis and anomaly detection
+
+•	In 2009 IT Security domestic sensors enable 95 mitigation actions
+
+Major Point (Traff c breakdown is 70/30 for SIGINT)
+
+Canadian Collect is almost all actionable
+
+Canadian Collect is more precise because of EONBLUE
+
+IT Security generates Mass quantity of valuable information on attacks (Linked
+to their fulltake capability)
+
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada pat la supériorité de l'infoi/nation
+
+Canada
+
+Speaker:
+
+10
+
+■	^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■	t ■ Establishment Canada des télécommunications Canada
+
+F: Network Analysis
+
+Speaker:
+
+- Expand on how ANT provides best point of access (TBD)
+
+11
+
+Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ T m Establishment Canada des télécommunications Canada
+
+Cyber Analysis
+
+mu
+
+Safeguarding Canada's security through information superiority
+Préserver ta sécurité du Canada par la supériorité de l'information
+
+Canada
+
+Speaker:
+
+Major Points - A lot goes into a Cyber Threat Report We must stay on top of
+Tasking, Traff c Analysis / Reverse Engineering, Network Analysis all feed
+into a Cyber Report. We do this quickly because of tradecraft
+
+12
+
+Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+m t ■ Establishment Canada des télécommunications Canada
+
+Mitigation
+
+• Direct protection of GC systems and information
+
+-	Prevention and response activity
+
+-	Leverage SIGINT and 5 Eyes intelligence,
+complemented by our own GC domestic
+sensor capabilities
+
+-	Report:
+
+•	Actionable technical mitigation reports provided to client’s IPC
+
+•	Cyber threat situational awareness reports provided to
+departments
+
+- CSEC review of incidents against systems of importance
+
+- CSEC analysts deployed to capture technical evidence to
+develop/support mitigation activity
+
+- CSEC information is merged with all-source cyber threat activities to
+create complete picture of cyber threats
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+13
+
+Speaker:
+
+13
+
+■	■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ t ■ Establishment Canada	des télécommunications Canada
+
+Positioning for the future
+
+Today	Tommorrow
+
+from RESPONSE to ACTION
+
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+14
+
+Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+B t ■ Establishment Canada des télécommunications Canada
+
+Synchronized SIGINT / ITS Mission Space
+
+Safeguarding Canada's security through Information superiority
+
+Préserver la sécurité du Canada par la supériorité de l'Information
+
+Canada
+
+■	■ ComiTuinicallons Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ t ■ Establishment Canada	des télécommunications Canada
+
+Situational Awareness
+
+•	SA is:
+
+-	The perception of environmental elements within a
+volume of space and time
+
+•	The comprehension of their meaning
+
+•	Projection of their status in the near future
+
+•	Insight - the capacity to understand hidden truths
+
+•	In the Cyber Context:
+
+-	Gathering and enabling access to cyber information
+
+•	Event Metadata / Event Content / Near Real-Time Exchange
+
+-	Data mining of cyber information to create understanding in
+broader context
+
+-	Predict our adversaries actions based on this knowledge
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada pat la supériorité de l'information
+
+Canada
+
+1^1 Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ t ■ Establishment Canada des télécommunications Canada
+
+Cyber Session Collection
+
+Canada
+
+M	Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+It I Establishment Canada	des télécommunications Canada
+
+Enabled by Sydney Resolution
+
+Government Of Canada
+
+ITS Event Store
+
+ITS Analyst
+
+Photonic Prism
+
+Partner Messaging
+
+NRT Alerting Engine
+
+Decision Logic
+
+SPECIAL SOURCE
+
+SIGINT Analyst
+
+SIGINT Event Store
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de /’information
+
+Canada
+
+■ ^ ■ Communications Security Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+1*1 Establishment Canada des télécommunications Canada
+
+Tipping and Cueing (Why)
+
+¿Ü&X.MHTfilli
+
+•	SIGINT - data volumes/network speeds impose severe temporal
+restrictions on collection (use it or lose it)
+
+-	ability to extend cyber target tracking across all 5-Eyes accesses
+and/or analytic event stores instead of just domestic - global aperture
+
+-	ability to uncover covert overlay networks
+
+-	cyber session collection? Uncover tradecraft/binaries/exploit vectors... •
+
+•	CND - network edge vs. network core (microscope vs. telescope)
+
+-	enable mitigation of cyber exploitation and/or attack (dynamic
+defence)
+
+-	facilitate indications and warning - can SIGINT provide me with the
+true threat picture in NRT? Could we detect “test firing” of new
+tools/techniques?
+
+-	collaborative defence - can my partners see malicious activity in
+SIGINT against networks I need to protect? Can they tell me in NRT?
+
+Canada
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l'information
+
+■ ^ ■ Communications Securily Centre de la sécurité TOP SECRET//COMINT//REL TO FVEY
+
+■ t ■ Establishment Canada	des télécommunications Canada
+
+SIGINT -> ITS Tipping
+
+
+
+Sample of CNO tips provided to ITS from SIGINT SSO on May 05, 2010.
+
+DS800| SEEDSPHERE - H
+DS800I SEEDSPHERE -
+DS800| SEEDSPHERE H
+l)S800| SEEDSPHERE ||
+
+DS800| SEEDSPHERE B
+l)S800| SEEDSPHERE B
+IJS800|
+
+IJSSOOj SEEDSPHERE	■
+
+l)S800|	a
+
+DS800| SEEDSPHERE J|
+
+The Network Name is:	Canadian house	of commons
+
+The Network Name is:	environment Canada
+
+The Network Name is:	federal office of regional development (quebec)
+
+The Network Name is:	forestry Canada
+
+The Network Name is:	public works and government services Canada
+
+Safeguarding Canada's secmity through information superiority
+
+Préserver la sécurité du Canada par la supériorité de /'information
+
+Canada
+
+I ^ fl Communications Security
+It| Establishment Canada
+
+Centre de la sécurité I OP St
+
+des télécommunications Canada
+
+TOP SECRET//COMINT//REL TO FVEY
+
+Dynamic Defense
+
+•	All elements acting as one
+
+•	Defence at:
+
+-	Network Edge (ITS)
+
+•	Localized/tailored mitigation (e.g. blocking, binary neutering,
+redirection)
+
+•	Focused response to ongoing and potential threats
+
+-	Network Core (SIGINT)
+
+•	Global mitigation possible (e.g. redirection, null routing, filtering)
+
+•	Large scale (but still focused!) response to ongoing and potential
+
+- Adversary Space (CNE)
+
+•	Reconnaissance - probe/explore/learn adversarial network space
+
+•	Co-habitate covert network infrastructure for info gathering, tool
+extraction, etc
+
+threats
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada

@@ -1,0 +1,286 @@
+﻿(U) Converged Analysis of
+
+Smartphone Devices
+
+Identification/Processing/Tasking -
+
+All in a day’s work
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+si
+
+Converged mobile devices
+offering advanced capabilities,
+often with PC-like
+functionality. No set industry
+standard definition.
+
+Boasts powerful processors,
+memory, larger screens and
+open operating systems.
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Smartphone
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Economics of Transportation
+
+The gradual “blurring” of
+telecommunications, computers, and the
+Internet
+
+Multifaceted layering technologies
+Examples of convergence in SIGINT:
+
+" Blackberry, iPhone data, Smartphones
+"VOIP
+
+" Wireless Local Loop
+
+" GPRS - General Packet Radio Service
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+SmartPhone Applications
+
+■ Visual Communicator - Free application that
+W	combines Instant Messaging, Photo-Messaging
+
+I	and Push2Talk capabilities on a mobile
+
+f	platform. VC used on GPRS or 3G networks;
+
+■ Symbian Operating System supporting
+
+encryption programs.
+
+■ WinZip, compression and encryption program.
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+4
+
+StCU*Aft
+
+
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Usage/Features
+
+■	Social Networking via Flixster
+
+Social Networking site allowing users to share
+movie ratings, discover new movies and meet
+others with similar movie taste.
+
+■	Google Maps features
+
+■	Photo capture and editing capabilities
+
+■	Phone settings
+
+■	Mobile Facebook Apps (iPhone/Android)
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+6
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Location Based Services
+
+Where is the target?
+
+■	GPRS Dataset - breaking down barriers
+
+■	Providers catering to users based on location
+
+■	Android Phones pass GPS data in the clear
+
+■	No longer DNI/DNR
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+7
+
+stçug/7:
+
+
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Taking a Closer Look
+
+Photo Capture Software -
+
+■	iPhone Geotags for Photos
+
+Raw tags coming through from a variety of
+devices
+
+■	Flixster App uses GPRS
+
+■	Flickr/Photobucket
+
+■	Mobile Facebook Apps Uploads
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+8
+
+
+
+■¿fonso*
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Processing
+
+All in the Metadata, not the pretty pictures
+
+■	Unique applications require unique analysis
+
+■	GPS Indicators (sent to the server and towers
+for both phone and application)
+
+■	VoIP Indicators (multiple services)
+
+■	Type of Phone and Apps
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+9
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Identification via Xkeyscore
+
+Make use of fingerprints in Xkeyscore via the
+EXIF metadata plugin
+
+Fingerprints for images (jpeg, tiff, gifs etc.)
+
+Examine the raw XME
+
+Provides device and time/location for the image
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+10
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+stcug/7:
+
+
+
+Golden Nugget!
+
+Perfect Scenario - Target uploading
+photo to a social media site taken
+with a mobile device.
+
+What can we get?
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+11
+
+
+
+
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+User Activity Leads
+
+Examine settings of phone as well as service
+providers for geo-location; specific to a certain
+region
+
+Networks connected
+Websites visited
+Buddy Lists
+
+Documents Downloaded
+Encryption used and supported
+User Agents
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+12
+
+
+
+
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Targeting
+
+Targeting both Telephony and DNI systems
+
+■	Call Logs
+
+■	SMS
+
+■	SIM Card Leads
+
+■	Email address
+
+■	IMEI/IMSI
+
+■	Unique Identifiers
+
+■	Blackberry PINS
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+13
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+stcug/7:
+
+1*4 ns c*
+
+Why do we care?
+
+•Additional exploitation
+•Target Knowledge/Leads
+•Location
+
+•Target Technology
+•Denote Media used
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+14
+
+
+
+
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+Conclusion
+
+■	Challenge is how to tag data for analysts
+
+■	We can geo phones from virtually anywhere
+
+■	Buried GeoStamp from Phone or Apps
+
+■	Xkeyscore/Marina
+
+■	Tasking systems
+
+TOP SECRET//COMINT/REL TO USA, FVEY
+
+15

@@ -1,82 +1,95 @@
-DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
-TOP SECRET SI TK REL TO USA AUS CAN GBR NZL
+﻿DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET a/ SI / TK // REL TO USA AUS CAN GBR NZL
 
-SID Today archives feedback
+SID Today				archi“s	reedback
+	iBi		■	■	■
+Welcome! Saturday, 10 Nov 2012		1 1			
 
-Welcome! Saturday, 10 Nov 2012
+B
 
+a
 
-I SIDtoday Article
-0 Let?r the Editor
-Social Media Page
-Who Else Is Targeting Your Target? Collecting Data Stolen by Hackers
-FROM: Menwith Hill Station (F77)
+•	SIDtoday Article
 
-Run Date: 05/06/2010
+•	Letter lo the Editor
 
-Hackers are stealing the emails of some of our by collecting the hackers? "take," we 1) get access to the emails themselves and 2) get insights into who's being hacked.
+•	SIGINT-y Social Media Page
 
-People who open attachments from unknown senders (gasp) or respond to "Nigerian" money laundering emails aren't the only individuals on the intemet being hacked. Some ofour targets are also being targeted by outside forces, both by state-sponsored and freelance hackers. Could your targets communications be the
-target ofother countries or groups?
+(TS//SI//REL) Who Else Is Targeting Your Target? Collecting Data Stolen by Hackers
 
-Recently, Communications Security Establishment Canada (CSEC) and Menwith Hill Station discovered and began exploiting a target-rich data set being stolen by hackers. The hackers' sophisticated email-stealing intrusion set is known as INTOLERANT. Ofthe traffic observed, nearly half contains category hits
-because the attackers are targeting email accounts of interest to the Intelligence Community. Although a relatively new data source, TOPIs have already written multiple reports based on INTOLERANT collect.
-(U) Technique
+FROM: (U//FOUO) Menwilh Hill Station (F77)
 
-To the analyst using SIGINT databases, collected INTOLERANT data looks like Simple Mail Transfer Protocol (SMTP) mail. In this case, though, the traf?c fairy has been hard at To hide the traffic, the hackers' programs split a victim's email into pieces. Each piece is then obfuscated, given a different, spoofed,
-source IP address and sent to a different destination IP address. Having different destination IP addresses serves to route the pieces across separate channelsl ofa satellite signal. The channels being used carry large amounts oftraf?c, allowing INTOLERANT data to hide as background noise. Much collaboration between CSE, MHS,
-GCHQ and NSAW has brought about the transformation data we collect into "readable" SMTP mail.
+Run Dale: 05/06/201 0
 
-Victim Set
+(TS//SI//REL) Hackers are stealing the emails of some of our targets... by collecting the hackers' "lake," we 1) gel access lo the emails themselves and 2) gel insights into who's being hacked.
 
-INTOLERANT traffic is very organized. Each event is labeled to identify and categorize victims. Cyber attacks commonly apply descriptors to each victim - it helps herd victims and track which attacks succeed and which fail. Victim categories make INTOLERANT interesting:
-A Indian Diplomatic Indian Navy
+(TS//SI//REL) People who open attachments from unknown senders (gasp) or respond lo "Nigerian" money laundering emails aren't the only individuals on the intern el being hacked. Some of our targets are also being targeted by outside forces, both by slale-sponsored and freelance hackers. Could your target's communications be the
+target of other countries or groups?
 
-Central Asian diplomatic
+(TS//SI//REL) Recently, Communications Security Establishment Canada (CSEC) and Menwilh Hill Station (MHS) discovered and began exploiting a largel-rich data sel being stolen by hackers. The hackers' sophisticated email-stealing intrusion sel is known as INTOLERANT. Of the traffic observed, nearly half contains category hits
+because lhe allackers are targeting email accounts of interest lo lhe Intelligence Community. Although a relatively new data source, TOPIs have already written multiple reports based on INTOLERANT collect.
 
-Chinese Human Rights Defenders
+(U) T echnique
 
-Tibetan Pro-Democracy Personalities
+(TS//SI//REL) To lhe analyst using SIGINT databases, collected INTOLERANT data looks like Simple Mail Transfer Protocol (SMTP) mail. In this case, though, lhe traffic fairy has been hard al work... To hide lhe traffic, lhe hackers' programs split a victim's email into pieces. Each piece is then obfuscated, given a different, spoofed,
+source IP address and sent lo a different destination IP address. Having different destination IP addresses serves lo route lhe pieces across separate channels* 1 of a satellite signal. The channels being used carry large amounts of traffic, allowing INTOLERANT data lo hide as background noise. Much collaboration between CSE, MHS,
+GCHQ and NSAW has brought about lhe transformation of INTOLERANT data we collect into "readable" SMTP mail.
 
-Uighur Activists
+(U/FOUO) Victim Set
 
-European Special Rep to Afghanistan and Indian photo-joumalism
+(TS//SI//REL) INTOLERANT traffic is very organized. Each event is labeled lo identify and categorize victims. Cyber attacks commonly apply descriptors lo each victim - il helps herd victims and track which attacks succeed and which fail. Victim categories make INTOLERANT interesting:
 
-Tibetan Government in Exile
+A = Indian Diplomatic & Indian Navy
+B = Central Asian diplomatic
+C = Chinese Human Rights Defenders
+D = Tibetan Pro-Democracy Personalities
+E = Uighur Activists
 
-New victims appear to ?ood out their entire inbox, going back months or, even, years. Then only new mail is transmitted. Hundreds ofemails are seen on an average day.
+F = European Special Rep lo Afghanistan and Indian photo-journalism
+G = Tibetan Government in Exile
+
+(TS//SI//REL) New victims appear lo Hood out lheir entire inbox, going back months or, even, years. Then only new mail is transmitted. Hundreds of emails are seen on an average day.
+
 (U) Attribution
 
-Within the world ofcyber exploitation, attribution is always difficult and INTOLERANT is no exception. Initial analysis points toward a likely state sponsor based on the level ofsophistication and the victim set. Determining which state is sponsoring the activity has yet to be done. Since the traffic is traveling over satellite,
-the culprit must be within the satellite beam's footprint to receive the stolen emails. There was hope the footprint would point to which state was responsible, but that hope was not realized as shown in the image.
+(TS//SI//REL) Within lhe world of cyber exploitation, attribution is always difficult and INTOLERANT is no exception. Initial analysis points toward a likely stale sponsor based on lhe level of sophistication and lhe victim sel. Determining which stale is sponsoring lhe activity has yel lo be done. Since lhe traffic is traveling over satellite,
+lhe culprit must be within lhe satellite beam's footprint lo receive lhe stolen emails. There was hope lhe footprint would point lo which stale was responsible, but lhal hope was not realized as shown in lhe image.
 
- 
+H
 
-
-
- 
-
-Attribution data is di?icult, since the satellite beam footprint is so large. Eventually, the virtual team working this e?ort would like to know who is hacking whom.
 (U) Way Forward
 
-Analysis continues with the goal ofleaming more about the attacks as well as improving attribution. Efforts are also being made to inform relevant parties, including NTOC, due to the obvious operations security (OPSEC) concerns where US and UK authorities have contact with Indian diplomats or the European Special
+(TS//SI//REL) Analysis continues with lhe goal of learning more about lhe attacks as well as improving attribution. Efforts are also being made lo inform relevant parties, including NTOC, due lo lhe obvious operations security (OPSEC) concerns where US and UK authorities have contact with Indian diplomats or lhe European Special
 Representative, for instance.
 
-So the next time you scan your target?s email, [my special attention to the case notation. Ifit contains 4PXFIL2 (E9BDJ4PXFILtargetNumber in the case then the email is likely available because somebody else has hacked your target. For additional details, send an email to mhsindex@nsa.ic.gov.
-
-POCs: INDEX team 
+(TS//SI//REL) So the next time you scan your target's email, pay special attention to the case notation. If il contains 4PXFIL2 (E9BDJ4PXFILlargelNumber in lhe case of INTO LERANT), then lhe email is likely available because somebody else has hacked your target. For additional details, send an email lo mhsindex@nsa.ic.gov.
+(U/FOUO) POCs: |REDACTED|; INDEX team (MHS)
 
 (U) Notes:
-1. Packet Identifiers, PIDs are used in satellite hub signals to designate sub-channels.
-2. 4PXFIL stands for "fourth party exfil" or "out-sourcing These terms are used within the SIGINT community to refer to the practice of collecting data as it transits the Internet going from the victim's computer to the attacker's.
-SIDtoday editor's note: This article is reprinted from Horizon newsletter, March edition.
-Comments/ estions a out this article?
-E1 SIDtoday articles may not be republished or reposted outside without the consent of 
 
-Information Owner: Page Publisher: 
-Last Modified: 11/10/2012 Last Reviewed: 11/10/2012
+1.	(U/FOUO) Packet Identifiers, PIDs are used in satellite hub signals lo designate sub-channels.
+
+2.	(TS//SI//REL) 4PXFIL stands for "fourth party exfil" or "oul-sourcing SIGINT." These terms are used within lhe SIGINT
+
+lU/'/FOUO) SIDuolay edilo.
+
+a hI
+
+
+
+■eprinled from MHS's Hor.
+s about this article?
+
+
+
+unity lo refer lo lhe practice of collecting data as il transits lhe Internet going from lhe victim's computer lo lhe allacker's.
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet without the consent of |REDACTED| (|REDACTED|)."
+
+Information Owner: |REDACTED | Page Publisher: |REDACTED |
+
+Last Modified: 11/10/2012 / Last Reviewed: 11/10/2012
 
 DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
-TOP SECRET SI TK REL TO USA AUS CAN GBR NZL
-DERIVED FROM: 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
-
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

@@ -1,915 +1,813 @@
-TOP SECRET II COMINT
+﻿TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ Communications Security
 
- 
+Establishment Canada
 
- 
+Centre de la sécurité
 
- 
-
- 
-
- 
+des télécommunications Canada
 
 CSEC SIGINT Cyber Discovery:
 Summary of the current effort
-
- 
 
 Communications Security Establishment Canada
 Covert Network Threats
 Cyber-Counterintelligence
 
 Discovery Conference
-GCHQ November 2010
+GCHQ - November 2010
 
-Safeguarding Canada?s security through information superiority dl'"
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+i
 
 TOP SECRET II COMINT
 
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
+
 Outline
 
-I I Communications Security Centre de la s?curit?
+•	CSEC SIGINT Cyber
 
- 
+-	KOG (CCNE)
 
- 
+-	G A4 (GND)
 
- 
+-	CNT1 (CCI)
 
- 
+•	CSEC SIGINT Cyber - Operational Discovery
 
- 
+-	Network Based Anomaly Detection
 
-- CSEC SIGINT Cyber
-KOG (CCNE)
+-	Host Based Anomaly Detection
 
+•	Contacts
 
-- CSEC SIGINT Cyber Operational Discovery
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Network Based Anomaly Detection
-Host Based Anomaly Detection
+2
 
-- C0 ntacts
-Safeguarding Canada '3 security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de i'information  a
+Canada
 
-TOP SECRET ll COMINT
+TOP SECRET II COMINT
 
- 
-  
+l+l
 
-I I COmmunications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
 
 CSEC Cyber Counterintelligence
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
-. ttribute
-
- 
-
-917501161
-
-- haracterize
-
-Safeguarding Canada?s security through information superiority dI?
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+4u ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 Counter CNE (KOG)
 
- 
+•	Part of CSEC CNE operations (KO)
 
- 
+•	Recently formed matrix team
 
- 
-
-- Part of CSEC CNE operations (K0)
-- Recently formed matrix team
-
-- and operators from CNE Operations, Cyber-
+•	Analysts and operators from CNE Operations, Cyber-
 Counterintelligence and Global Network Detection
 
-- Mandate:
-Provide situational awareness to CNE operators
-Discover unknown actors on existing CNE targets
-Detect known actors on covert infrastructure
-Pursue known actors through CNE
-Review OPSEC of CNE operations
+•	Mandate:
 
-Safeguarding Canada ?3 security through information superiority dl?t'l
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
+-	Provide situational awareness to CNE operators
+
+-	Discover unknown actors on existing CNE targets
+
+-	Detect known actors on covert infrastructure
+
+-	Pursue known actors through CNE
+
+-	Review OPSEC of CNE operations
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+4
+
+Canada
 
 TOP SECRET II COMINT
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 Global Network Detection (GND)
 
- 
-
-- Develop capabilities to improve the
+• Develop capabilities to improve the
 ability of the SIGINT collection system
 to detect Computer Network Exploitation
 and Computer Network Attack
 
- 
-
-- Help enable CNE program through timely identification of
+• Help enable CSEC’s CNE program through timely identification of
 vulnerable computer systems and foreign CNE
 methodologies/activities
 
-- Act as technical liaison between IT Security and SIGINT for CNO
+• Act as technical liaison between IT Security and SIGINT for CNO
 issues
 
-Safeguarding Canada ?3 security through information superiority  
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information
+5
 
-TOP SECRET COMINT
+Canada
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+TOP SECRET II COMINT
 
- 7
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
 Cyber Counterintelligence (CNT1)
 
- 
+•	Covert Network Threats (New Directorate within CSEC)
 
- 
+-	CNTl (Cyber Counterintelligence)
 
-- Covert Network Threats (New Directorate within CSEC)
+-	CNT2 (Traditional Counterintelligence)
 
-(Cyber Counterintelligence)
-CNT2 (Traditional Counterintelligence)
+•	CNTl Mission
 
-- Mission
-
-To produce intelligence on the capabilities, intentions and
+-	To produce intelligence on the capabilities, intentions and
 activities of Hostile Intelligence Services to support
 Counterintelligence activities at home and abroad.
 
-- Fusion of Cyber Analytic Skills with Traditional
-
+•	Fusion of Cyber Analytic Skills with Traditional
 Counterintelligence Analytic Skills
 
-All Cyber-Counterintelligence Investigations should lead to Traditional
+-	All Cyber-Counterintelligence Investigations should lead to Traditional
 Counterintelligence investigations.
 
-Safeguarding Canada ?3 security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-I I Communications Security Centre de la s?curit?
+Canada
+
+6
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security
 Establishment Canada
 
-I dest?l?communications Canada 7 I   :3
+Centre de la sécurité
+
+des télécommunications Canada
+
 CSEC SIGINT CCI Discovery
 
 Attribute
 
- 
-
- 
-
- 
-  
-
-  
-  
-  
-
-Characteri 
-
-Active Pursuit
-
-Disco
-
-Slip Stream
-
-   
-
- 
-
-Safeguarding Canada ?5 security through information superiority
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information
-
-Canad'?i
-
-
-TOP SECRET II COMINT
-
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-1?11__ 
-CSEC CNE (K) - WARRIORPRIDE
-
- 
-
- 
-
- 
-
- 
-
- 
-
-- WARRIORPRIDE 0NP):
-Scalable, Flexible, Portable CNE platform
-Unified framework within CSEC and across the 5 eyes
-:2 
-command output to operators
-- Several plugins used for machine recon OPSEC assessment
-Several WP plugins are useful for CCNE:
-Slipstream machine reconnaissance
-ImplantDetector implant detection
-RootkitDetector rootkit detection
-Chordflier/U_ftp file identification retrieval
-NameDropper: DNS
-WormWood network sniffing and characterization
-
-Safeguarding Canada ?3 security through information superiority dl?rl
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
-
-TOP SECRET II COMINT
-
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-1_
-
-KOG ReplicantFarm
-
- 
-
- 
-
- 
-
-- Created to leverage the WP XML output in a
-meaningful way
-
-- Module based parser/alert system running on real-time
-CNE operational data
-
-- Custom/module based analysis:
-Actors
-Implant technology
-Host based signatures
-Network based signatures
-
- 
-
-Safeguarding Canada ?3 security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
-
-TOP SECRET COMINT
-
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-REPLICANTFARM generic modules
-
- 
-
- 
-
- 
-
- 
-
-- Cloaked - Kernel cloaking
-
-- Recycler - Schedule at
-
-- Rar password - Ntuninstall execution
-- executable - hidden
-
-- Packed
-
-- Peb modification
-
-- Privileges
-
-- MS pretender
-
-- System32 ?variables? Other 
-- Strange DLL
-
-exte 
-Safeguarding Canada ?3 security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information  a
-
-TOP SECRET COMINT
-
-Establishment Canada des telecommunications Canada
-
-5
-Generic modules example
-
-my @runningProcs xml_isProcessRunning( $xml, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I Communications Security Centre de la s?curit?
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-foreach my $runningProc (@runningProcs)
-
-
-
-$a|ertText .2 "Suspicious process detected, legitimate exe named appended with string: .
-$runn|ngProc . 
-
-Saf?guarding Canada '3 security through information superiority d?l
-Pr?server la s?curit? du Canada par la sup?riorit? de i 'information  a
-
-TOP SECRET COMINT
-
-?7 
-
-Eile Edit Eiew History ?ookmarks Iools ?elp
-
-9 we rat_?  
-Most Visited Getting Started Latest Headlines .1 HT -: Operations '5 Opser - - Trac A Systems 
-WPID Alerts r: Exploits :r CCNEfOpser WPID Alerts a: WPID Alerts 
-
-CCNEiOpsec WPID Alerts REPLICANTFARM
-
-No is that titre search is done with rite ?eld?s arpari regular expresst'o 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Examples:
-
-i Dela are
-single-
-duaracter
-?i Curr Modul -
-
-Dol?lar mad $330 I pl mn-tl_15_pretFarenla_pl me
-meantany mad-1m Em pl mar mui_15_recyderexec.pl mod mm_as_pavueges_pt mul_3ns_umr_1asexpt mu
-number of pl- mud_17_tmpexee.pl mu
-character! mad?102 P1 mod_12_231ten132w.p1 me
-
-. Sing-2WD: ?d?103?mi?m??om?l mad_13 rarpaaewordpl me-d_22. ?hmj?arallateepl mud mod mo
-1' rum-1L1 _paeketl.pl mod_23_hi.tlden.pl me
-
-- 'p
-1WPIEI:
-
-
-
-
-Type: 
-?Tm Regen}: Module?ggerp: MM Historic: 9-
-Live 
-I SubmitOuery I
-ALERTS
-Module: Date: Tag: File name: Ii] 5
-2010-01-21T15236239963 m272435_1 ELYIU 
-Details:
-
-Poss?ole DUGHUUSE driver ?le: 
-
-Possible 3m DDGHUUSE driver ?le: 
-Possible mt DDGHUUSE driver ?le: 
-Possible mt driver ?le: 
-Possible mi driver ?le: 
-
-
-
- 
-
- 
-
-I I 00mmunications Security Centre de la s?curit?
-Establishment Canada
-
-TOP SECRET II COMINT
-
-des telecommunications Canada
-
- 
-
- 
-
- 
-
- 
-
- 
-
-- CSEC cyber threat detection platform
-
-Over 8 years of development effort
-
-Scales to backbone internet speeds
-
-- Over 200 sensors deployed across the globe
-
- 
-
-EONBLUE
-
-Track
-
-Known
-Threats
-
-Discover
-Unknown
-
-Threats
-
-Defence at
-
-the core of
-the Internet
-
- 
-
- 
-
-Safeguarding Canada ?5 security through information superiority 
-
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
 Canada
 
+TOP SECRET II COMINT
+
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+CSEC CNE (K) - WARRIORPRIDE
+
+•	WARRIORPRIDE (WP):
+
+-	Scalable, Flexible, Portable CNE platform
+
+-	Unified framework within CSEC and across the 5 eyes
+
+-	WARRIORPRIDE@CSE/etc. == DAREDEVIL@GCHQ
+
+-	xml command output to operators
+
+•	Several plugins used for machine recon / OPSEC assessment
+Several WP plugins are useful for CCNE:
+
+-	Slipstream : machine reconnaissance
+
+-	ImplantDetector: implant detection
+
+-	RootkitDetector: rootkit detection
+
+-	Chordflier/U ftp : file identification / retrieval
+
+-	NameDropper: DNS
+
+-	WormWood : network sniffing and characterization
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+KOG - ReplicantFarm
 
- 
+•	Created to leverage the WP XML output in a
+meaningful way
 
- 
+•	Module based parser/alert system running on real-time
+CNE operational data
 
- 
+•	Custom/module based analysis:
 
- 
+-	Actors
+
+-	Implant technology
+
+-	Host based signatures
+
+-	Network based signatures
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+9
+
+TOP SECRET II COMINT
+
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+REPLICANTFARM generic modules
+
+Cloaked
+Recycler
+Rar password
+Tmp executable
+Packed
+
+Peb modification
+
+Privileges
+
+MS pretender
+
+System32 “variables”
+
+Strange DLL
+extensions
+
+•	Kernel cloaking
+
+•	Schedule at
+
+•	Ntuninstall execution
+
+•	hidden
+
+Other ideas....
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+io
+
+TOP SECRET II COMINT
+
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+Generic modules : example
+
+my @runningProcs = xml_isProcessRunning( $xml, 'svchost.{l,3}\\.exe',
+
+'winlogon.{l,3}\\.exe\
+
+'services.{l,3}\\.exe',
+
+'Isass.ll.SjW.exe',
+
+'spoolsv.il.SjW.exe',
+
+'autochk.il.SJW.exe',
+
+'logon.-fl^Wscr',
+
+,rundll32.{l,3}\\.exe',
+
+'chkdsk.fl.SjW.exe',
+
+'chkntfs.{l,3}\\.exe',
+
+'logonui.ll.SIW.exe',
+
+'ntoskrnl.il.SJW.exe',
+
+'ntvdm.{l,3}\\.exe',
+
+'rdpcIip.ll.SJW.exe',
+
+'taskmgr.{l,3}\\.exe',
+
+'userinit.ll.SIW.exe',
+
+'wscntfy.{l,3JW.exe',
+
+'tcpmon.{l,3}\\.dir );
+
+foreach my SrunningProc (@runningProcs)
+
+{
+
+SalertText .= "Suspicious process detected, legitimate exe named appended with string: ".
+SrunningProc . "An";
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+il
+
+TOP SECRET II COMINT
+
+CCNE/Opsec WPID Alerts - Mozilla Firefox
+
+File Edit View History Bookmarks Tools Help
+
+- c cm
+
+ù ■ 1
+
+Most Visited Q Getting Started Latest Headlines jl LTT < Operations < TW.., - Opsec - klsvn - Tran Q CCNE/Opsec Systems
+
+_j CCNE/Opsec WPJD Alerts - [j Exploits
+
+http://obeiix/
+
+CCNE/Opsec WPID Alerts x Q CCNE/Opsec WPID Alerts x
+
+CCNE/Opsec WPID Alerts
+
+REPLICANTFARM
+
+Note that the search is done with the fields as perl regular expressions ..
+
+Examples:							
+•	Dota ( ) ar= îinïls- ■zharactsr -roikleafds  •	I>a-t-Star (,*} means any number of characters  •	Singla WPID: 31LSUL13  •	daw C WID:  •	In fr is truc ture: A5W.	Current Modules;  ttxoi£_ 3 000_WH_ImpLn t. pi modj ÜOM& l_SHEPHERD.pl mod_ 3 01 _b-IM_CARBON.pl mod_102_MBiLEEGBACEpP.pl tuo¿_3 03_MM_DOGHOUSE.pl moo_304_MM_W.yLKER.pl	mo¿_ 1100_VO_ImpI inr pi  TTtotl_l l_cloak:aô.pl  mod_1200_AF_ALOOFNESS.pl moê_ 12_sys tem3 2 tit. pi inod_ 13_r arpas sword, pi mod_l 4_strangedllex t ensums.pl	tnod_l 5_proeParait3.pl mo ¿_16_recyiclereat0c.pl  mod_l 7_tmpes.ea.pl modi S_pa53wordrilters.pl mohc_19_kerfl.eleloakina .pi mo ¿_l_p20kea.pl	mod_300_SD_m20.pl mod_201_SD_MI25FTP.pl mod_2 C_psbmodiiio21 ion.pl mod_21 _ rcheduleat. p l mo i_22_ntuoms taflffls.ac.pl mod_23 _hiàâen. pi	mcd_24_ expec t edArgitm «irs.pl mod_2 5 _j*nYifeges .pi  mod_30C_UNK_T CPSRV 3 2 ,pl £nod_301_UKK_ELAZINGANGEL .pi hl p á_3ü 2_TTNYWEB .pi mod_303_UNK_CYDLL.pl	mod_504_UNK_\\TNPAC.Ppl mod_305_nN"K_lASEX F1 raod_305_UNK_WTNUFDATE.pl mod_307 UNKQU37.ERINC&QUAE ,pl mod_308_UNTC._WTNDO.pl m od!_3 09~UNK~D1E£ELRATTLE. pi	mod J10_UlSIKJWIDOTiVKEY.pl mod J1 l_UNK_OVETCAT.pl mod_3 jmsprat ender. pi moa_400_SS_WINEEE.pl moâ_40 l_SS_SSLINST.pl mod_402_SS_Sh2rpR. pi
+
+		Type:
+WPID Regexp:	Module Regexp: MM	Histone; ^
+		Live:
+
+I SubmitQuery j
+
+ALERTS
+
+|\1TID:	Module:	Date:	Tas:	Tile name: .. ■'cklastoi& archived 010/01/21 /IS
+	modi 03_MM_DOGHOUSE.pt	2010-01-2 IT 15:36:39.968	MM	■'TXID0000272485_18_Y2010M01D21_H15M2ES59_MS642MU500NSQ_SX[D050_000_0
+
+Details:
+
+Possible MM DOGHOUSE driver file: &\WINNTlNtUninslaBQ2++59Bl.
+
+Possible MM DOGHOUSE driver file: C:A\TNNT.SNtUmistallQi:4459SS'afd.sys.
+Possible MM DOGHOUSE driver file: C:AmTsT'SNtUninstallQ244598S'netbt.sys.
+Possible MM DOGHOUSE driver file C:\WINim$NtUninstaIlQ24+598i\tcpq> sys
+Possible MM DOGHOUSE driver file: C:'ftrtNW'SNtUninsta]lQ244598Siiiotfix_inF_
+
+--=PULLEDPORK:=—
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
 
 EONBLUE
 
- 
+CSEC cyber threat detection platform
+Over 8 years of development effort
+Scales to backbone internet speeds
+Over 200 sensors deployed across the globe
 
- 
+Defence at
+the core of
+the Internet
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Myricon?1\ Target Tracking (SNIFFLE)
-(??imsy Metadata Production (DNS HTTP)
+/O	11+1
 
- 
+Canada
 
- 
-
- 
-
- 
-
- 
-
-(arget Discovery (SLIPSTREAM) 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Safeguarding Canada?s security through information superiority dl'l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+13
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+TOP SECRET II COMINT
 
- 
+l+l
+
+Communications Security
+Establishment Canada
+
+Centre de la sécurité
+
+des télécommunications Canada
 
 Anomaly Detection Tools
 
-- There are currently over 50 modules in Slipstream
-RFC Validation
-Heuristic Checks
-Periodicity
-Simple 
-Streaming Attack Detection
-Analyst Utilities
+• There are currently over 50 modules in Slipstream
 
-- Not all of these tools are some will require some
+-	RFC Validation
 
-Safeguarding Canada?s security through information superiority dl'l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+-	Heuristic Checks
+
+-	Periodicity
+
+-	Simple Encryption
+
+-	Streaming Attack Detection
+
+-	Analyst Utilities
+
+• Not all of these tools are ‘YES/NO’, some will require some
+work.
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
+Communications Security
+Establishment Canada
 
- 
+Centre de la sécurité
 
- 
+des télécommunications Canada
 
 Heuristic Example
 
-- QUANTUM
+• QUANTUM
 
-It?s no lie, quantum is cool.
-- But its easy to find
+-	It’s no lie, quantum is cool.
 
-Analyze first content carrying packet
-- Check for sequence number duplication, but different data size
-- If content differs within the first 10% of the payload, alert.
+•	But its easy to find
 
-Safeguarding Canada?s security through information superiority dl'l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+-	Analyze first content carrying packet
 
-TOP SECRET II COMINT
+•	Check for sequence number duplication, but different data size
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+•	If content differs within the first 10% of the pkt payload, alert.
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
-What?s Next?
-
- 
-
-- Anomaly Discovery at scale
-Multi-lOG anomaly detection
-
-- Cross Agency communication of anomalies
-Sometimes signatures aren?t enough
-0 
-Everyone likes them:
-- 
-5-eyes accessible DONUTS
-
-- Discovery of New Unidentified Threats
-- right now
-
-Safeguarding Canada's security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de l'information  a
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
 
+Establishment Canada des télécommunications Canada
 
+What’s Next?
 
- 
+•	Anomaly Discovery at scale
 
- 
+-	Multi-IOG anomaly detection
 
- 
+•	Cross Agency communication of anomalies
 
- 
+-	Sometimes signatures aren’t enough
 
-CLASSIFICATION: TOP SECRET COMINT REL TO FVEY
-Global Access Roadmaa supporting SRSG and WISDEN Scenarios
+•	DONUTS!
 
- 
-   
+-	Everyone likes them:
 
-Calendar Year: 2010  Calendar Year 2011
+-	5-eyes accessible DONUTS
 
-   
-   
+•	Discovery of New Unidentified Threats
 
- 
-       
+•	CSEC / GCHQ right now
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+Canada
 
-Topic Desired Outcomes Activity My . 9GP (Q3) 0?1" Dacia?) h" (Q1) M- (Q2) my (Q3) Get" them?
-Shared Situadonal M- Elulk dafly sharing of Cyber Event Netadata with 5?
-AWBFERESS M.2 Receive Metadata From partner agencies
-ASSESS value memdata M.3 Report on value of metadata sharing
-Sharing M.4 Instrument NRT s'iari'ng of CSEC Cyber Event Metadata 
+17
 
- 
+TOP SECRET II COMINT
 
-Metacata Develop Use Cases for
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+CLASSIFICATION: TOP SECRET // COMINT // REL TO FVEY
+
+Globa! Access Roadman supporting SRSG and WISDEN Scenarios
+
+				Calendar Year: 2010 |		1 Calendar Year 2011 |	
+Topic	Desired Outcomes	#	Activity	July - Sep (Q3)	Oct - Dec (Q4)	Jen	- Msr (Ql) Apr - Jun £Q2) July - Sep (Q3) Oct - Dec (Q4)
+
+-	Shared Situational
+Awareness
+
+-	Assess vaiue of metadata
+sharing
+
+Metadata Develop Use Coses for
 Sharing Sharing
-Develop Requirments for
 
-M.5 Report on NRT sharing (value ,1 lessons learned I reqt's]
-M.5 Enrich NRT feed with Geolocation ASH
+-	Develop Requirments for
+NRT Lipping
 
- 
+m. Bulk dally sharing of Cyber Event Metadata with 5-
+m.2 Receive Metadata from partner agencies
 
- 
+m.	3 Report on value of metadata sharing
 
- 
+n.	4 Instrument NRT snaring of CSEC Cyber Event Metadata
 
- 
+M.5 Report on NRT sharing (value / lessons learned / reqt's)	
+m.s Enrich NRT feed with Geo location / ASM	
+m 7 Add Tmnact ¡nrormation -o event metadata	
+M.s Extend Deadsea Live feed from CSEC to GCHQ  m.9 Receive FastFlux metadata (tip) b/w GHCQ/CSEC (see	T.6/T.7)
 
- 
+-	Replace current Signature
+Management system
 
- 
+-	Impacts to support Action-
+Slenatures on / Cueing and enhance
 
- 
+and Metadata feed
+Target - Provide context to metadata
+Knowledge - Experiment with TKB to
+gather requirments
 
- 
+-	Create baseline of Cyber
 
- 
+____________knowledge___________________
 
- 
+1 Replace existing signature management with HaiterHitch |___
 
- 
+■2 Implement Impacts with DGI for Signatures [re-enter in HH)
 
- 
+■3 Decommission currenL largelling process and replace with HH
+-4 Report on HH (value / lessosn learned / requirments / etc)
 
- 
+5 Open SIGINT HH repository to ITS for Signature Sharing
+■6 Open SIGINT HH repository to 5-eyes to retrieve signatures
+■t Trial nSpaces with CTEC f TAC / NAC / DGI
 
- 
+8	Report on vaiue of nSpaces to support Target Knowledge ___
 
- 
+9	Set-up Collaborative Web Environment____________________|
 
- 
+Shar'ng
 
- 
+Cyber
 
- 
+Content
 
- 
+-	Create a shared	1
 
- 
+environment to experiment	<
 
-UL)me Add Tm'iacl' inzormation To event metadata
-M.s Extend Deadsea L've feed from CSEC to GCHQ I
-no Receive FastFlux metadata (tip) (see 
-I
-Replace current Signature 51 Replace existing signature management with Ha terf?iitch I
-Management S?i?Stem 5-2 Implement Impacts with DGI for Sig natures [re?enter l'l HH)
-Impacts to support ACtion' 5-3 Decornr'iissiun currenL LargeLLing process and replace wiLh HH I
-Slgnazures on 1" cueing and enhance 5'4 Report on HH [value lessosn learned requirments etc) 
-Tgpget P433331: :Eigext to metadata 5-5 Open SIGINT HH repository to ITS for Sig "nature Sharing 
-Knowledge Experiment with TKB to 5-5 Open SIGINT HH repository to 5?eyes to retrieve signatures
-gather requirments b-r Trial nSpaoes with CTEC TAC DGI
-Create baseihe of Cyber 5-3 Report on value of nSpaces :0 support Target Knowledge 
-knowiedqe 5-9 Set?up Collaborative Web Environment I?l
-Create a shared C-l Establish Cyber Play?Jen 
-to experiment 3-2 Upgrade EON BLUE for use in Cyber Play?Pen IGTExcno
-With content shari?g 03 Assist in porting EONBLUE capability to PPF 
-Shar ng Develop reqUirmentS  C4 Promote EONBLUE PPF conten: to sharec XKS GTE r' GNDI
-Cyber lessons leamEd (m Sharing ?15 Evaluate retrieving GHCQ content based on events from XKS 
-Content folri?lzes?ate ?table 06 Trial feeding FONRI ii.= events at to a local NAC
-procesging inqvaer capability Evaluate opening CSEC Cyber?XKS to GCHQ El?
-Trial XKS for content sharing (3-8 Expose CSEC Cyber?XKS interface :0 5?eyes
+with content sharing	<
 
-built on existing metadata 9-9 Report on content sharing experiments
+-	Develop requirments /	<
 
- 
+lessons learned on sharing	,
 
- 
+content	(
 
- 
+-	Illustrate equitable
+processing in Cyber capability
 
-Leverage EONBLUE's native T.1 Send EONBLUE cue's across Canad-?an 850 Sites
-?165509an to eXtend national L2 Send EONBLUE cue's beLween Canadian Pass've Programs
-(Within T.3 Instrument Cyber Session Collection Domestically
-With ITS) T.4 Send tips on activity to IT Security -
-Based of} em.th bllateral T.5 Send EON BLUE cue's from Canadian 550 to ITS Sensors
-mm ?mung; T.5 Introduce and develop Cyber Session Collection Experiment
-I I cueing to enhance content 
-Tipping and Sharrng metadata Sharing T.7 Tip FASTFLUX events from CSEC to GCHQ
-Cue international EONBLUE To Extend EON BLUE FastFlux cue's to GCHQ :astFlux Software
-and Simiiar components with T.9 Receive cue's from GCHQ's FastFiux Software at EONBLUE
-FASTFLUX as trial T.1: Make FASTELUX tips availab to other 5?eyes agencies
-- Tip in NRT SIGINT everiLs i.1:Tip in NRT EONBLUE messages Lu 5-eyes based on 
-related to partner countries T.1: Send EON BLUE cue's from CSEC EON BLUE to 050 EON BLUE
-T.1: Based on equitable processing (CS) send cue's tp GCHQ
-T.1: Prepare report on Tipping I Cueing (requirmentsi value ,1 etc)
+-	Trial XKS for content sharing
 
- 
+built on existing metadata	1
 
- 
+■l Establish Cyber Play-Pen
+2 Upgrade EONBLUE for use in Cyber Play-Pen
+■3 Assist in porting EONBLUE capability to PPF
+■4 Promote EONBLUE / PPF conten: to shared XKS
+■E Evaluate retrieving GHCQ content based on events from XKS
+6 Trial feeding FONBi 1JF evenfs af CSFC to a local XKS
+•7 Evaluate opening CSEC Cyber-XKS to GCHQ
+■8 Expose CSEC Cyber-XKS interface :o 5-eyes
+■9 Report on content sharing experiments
 
- 
+CTE/CND
 
- 
+Igte/gnd
 
- 
+Tipping and
+Cueing
 
- 
+-	Leverage EONBLUE's native
+messaging to extend national
+capability (within SIGINT /
+with ITS)
 
- 
+-	Based on existing bilateral
+partnerships trial tipping /
+cueing to enhance content
+sharing / metadata sharing
 
-Safeguarding Canada's security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de l'information  a
+-	Cue international EONBLUE
+and similar components with
+FASTFLUX as trial
+
+-	Tip in NRT SIGINT events
+related fo partner countries
+
+
+
+t.i Send EONBLUE cue's across Canadian SSO Sites
+r.2 Send EONBLUE cue's between Canadian Passive Pruyiams
+t.3 Instrument Cyber Session Collection Domestically
+t.4 Send tips on GoC activity to IT Security
+t.5 Send EONBLUE cue's from Canadian SSO to ITS Sensors
+t.6 Introduce and develop Cyber Session Collection Experiment
+t.7 Tip FASTFLUX events from CSEC to GCHQ
+t,8 Extend EONBLUE FastFlux cue's to GCHQ FastFlux Software
+t.9 Receive cue's from GCHQ's FastFlux Software at EONBLUE
+T.icMake FASTFLUX tips avaiiab e to other 5-eyes agencies
+i.i:Tip in NRT EONBLUE messages Lo 5-eyes based on IR-Geu
+t.i:Send EONBLUE cue's from CSEC EONBLUE to DSD EONBLUE
+t.i: Based on equitable processing (C.3) send cue's tp GCHQ
+T.i' Prepare report on Tipping / Cueing (requirments / value / etc)
+
+□
+
+I GTE / GND
+
+I GTE / GND
+
+				
+		GTE/GND		
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 CNT1 - Analysis
 
- 
+•	Triage leads from KOG and GA4
 
- 
+-	Links to existing intrusion sets?
 
- 
+•	Pursue interesting leads
 
-Triage leads from KOG and GA4
-Links to existing intrusion sets?
+-	Passive SIGINT collection
 
-Pursue interesting leads
-Passive SIGINT collection
-Technical analysis
+-	Technical analysis
 
-Produce reporting
-Attribute
+•	Produce reporting
 
-Safeguarding Canada?s security through information superiority dl'l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+•	Attribute
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+19
 
 TOP SECRET II COMINT
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+. v ■ Communications Security Centre de la sécurité
 
- 
-
- 
-
- 
-
- 
+Establishment Canada des télécommunications Canada
 
 Analytic Approach
 
-Begin with lead
-Apply to SIGINT
-Apply to CCNE
+1.	Begin with lead
 
-Track, research and
+2.	Apply to SIGINT
+
+3.	Apply to CCNE
+
+4.	Track, research and
 report
 
-Generate persona lead
+5.	Generate persona lead
 
-6. Coordinate with
+6.	Coordinate with
 traditional Cl
 
+infrastructure
 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-9"
+Canada
 
- 
-
-Victim
-
-Safeguarding Canada?s security through information superiority dl'l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+20
 
 TOP SECRET II COMINT
 
- 
-  
+. v ■ Communications Security Centre de la sécurité
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Establishment Canada des télécommunications Canada
 
-CYber-Specifics of the Analytic Approach   
-
- 
-
- 
-
- 
+Cyber-Specifics of the Analytic Approach
 
 Network Traffic Analysis
 
-We have access to Special Source, Warranted and 2nd Party
+-	We have access to Special Source, Warranted and 2nd Party
 collection in raw, unprocessed form
 
-Work very closely with protocol and 
+-	Work very closely with protocol and crypt analysts
 
 Malware Analysis and Reverse Engineering
 
-Samples are received through passive collection and human
+-	Samples are received through passive collection and human
 sources
 
 Forensic Analysis
-Assist traditional Cl investigations and others
 
-Safeguarding Canada's security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de l'information  a
+- Assist traditional Cl investigations and others
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+21
+
+Canada
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Estabtishment Canada des telecommunications Canada
+■ Communications Security
+
+Establishment Canada
+
+Centre de la sécurité
+
+des télécommunications Canada
 
 CSEC Contacts
 
- 
+CCI (CNTl)
 
- 
+^^^^(â)çse
 
- 
+CCNE (KOG)
 
-CCI (CNT1) CCNE (KOG) GND (GA4Safeguarding Canada ?3 security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
 
+
+GND (GA4)
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/n	11*1
+
+Canada
+
+22

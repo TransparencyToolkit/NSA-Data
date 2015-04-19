@@ -1,670 +1,451 @@
-TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, 
-
- 
-
-This Briefing is Classified TOP SECRETIICOMINTIIREL USA, FVEY
-
- 
+﻿This Briefing is Classified TOP SECRET//COMINT//REL USA, FVEY
 
 Analytic Challenges from
 Active-Passive Integration
 
 S324
 
- 
+This Briefing is Classified TOP SECRET//COMINT//REL USA,FVEY
 
-This Briefing is Classified TOP SECRETIICOMINTIIREL 
-DERIVED FROM: Manual 1-52, Dated: 20070108, Declassify On: 20320108
+DERIVED FROM: NSA/CSS Manual 1-52, Dated: 20070108, Declassify On: 20320108
 
- 
-
-Derived From: 1-52
-Dated: 20070108
-Declassify 0n: 20320108
-
-TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, 
-
- 
-
- 
-
- 
-
-  
- 
-  
-
-  
-     
-
-a ation Technology 
-. Direc orate ITD)  
-
-  
-
-a 
- 
-
- 
-    
-
-   
- 
-
-- Working definition: Active implant copies traffic and
+•	Working definition: Active implant copies traffic and
 directs a copy past a passive collector
 
-Issues arise when collector is also processing passive traffic
+-	Issues arise when collector is also processing passive traffic
 simultaneously
 
-Current: Implants on network infrastructure devices,
+•	Current: Implants on network infrastructure devices,
 not user endpoints
 
-- Two types:
-Physical/link layer:
+•	Two types:
 
-an implant copies and shapes an entire link (E1, without
+-	Physical/link layer:
+
+•	an implant copies and shapes an entire link (El, STM1) without
 selection; passive midpoint does selection
 
-Network layer:
+-	Network layer:
 
-an implant performs targeted copying based on IP or
+•	an implant performs targeted copying based on IP or
 application parameters and exfils only the targeted traffic;
 passive collector may or may not do further selection.
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
-  
-  
+•	Link layer: BRAVENICKEL project (optical Muxes)
 
-  
-    
-
-a ation Technologi
-Dir orate I 
-
-a: 
-
-. we} viva-I
-
-
-
-
-
-
-    
-
-  
-
- 
-
-- Link layer: BRAVENICKEL project (optical Muxes)
-
-Copied link is not disguised, just routed on an unused layer
+-	Copied link is not disguised, just routed on an unused layer
 2 path that a passive collector can monitor
 
-Selection happens in the passive collector
+-	Selection happens in the passive collector
 
-- Network layer: APEX for HAMMERMILL (routers)
+•	Network layer: APEX for HAMMERMILL (routers)
 
-Router is tasked to select and exfil targeted traffic (perhaps
+-	Router is tasked to select and exfil targeted traffic (perhaps
 all of a particular protocol)
 
-Exfil is disguised (?munged?, to avoid detection
+-	Exfil is disguised (“munged”, encrypted) to avoid detection
 
-Passive collector looks for IP source/destination address in
+-	Passive collector looks for IP source/destination address in
 order to detect the traffic
 
-If further selection/processing is to be done in collector, the
-exfil must be ?unwrapped? (unmunged, 
+-	If further selection/processing is to be done in collector, the
+exfil must be “unwrapped” (unmunged, decrypted)
 
-Exfil can be directed to passive or to TAO by changing the
+-	Exfil can be directed to passive or to TAO by changing the
 destination address
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
-  
-   
 
-.  INT EL 5%ation Technology
-Dire orate 
 
-  
-
-4:555 
-3'91; 
-.5 ?1
-
- 
- 
-
- 
-
-TAO implants have collection parameters that are put
+•	TAO implants have collection parameters that are put
 on exfil received thru TAO backend
-case notation, SIGAD, PDDG, classification/legal authority
 
-The passive collector has another set of these:
+-	case notation, SIGAD, PDDG, classification/legal authority
 
-Site has a SIGAD, collector has a PDDG, the link it sees the
+•	The passive collector has another set of these:
+
+-	Site has a SIGAD, collector has a PDDG, the link it sees the
 traffic on has a case notation, and the access has a
 classification floor/legal authority
 
-Current backend repositories and presenters weren?t
-designed to expect TWO of 
+•	Current backend repositories and presenters weren’t
+designed to expect TWO of these!!!
 
-Which gets put on the And where?
+•	Which gets put on the data??? And where?
 
-And (drum roll)  how do we solve this problem
+•	And (drum roll) ... how do we solve this problem
 CONSISTENTLY across the enterprise?
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
- 
- 
+TOP S
 
-a ation Technologi
-- . - - I
+MINT//REL ^Mffiation Technology
 
-1 I -
+Example:
 
-  
+AMffluiihi r*e/hTAWfy
 
-  
- 
- 
+•	IPSECVPN:
 
- 
- 
+-	First packets between the devices establish the parameters
+and encryption keys (IKE)
 
- 
-
-IPSEC VPN:
-
-First packets between the devices establish the parameters
-and keys (IKE)
-
-Following this setup, ?content? packets are and
+-	Following this setup, “content” packets are encrypted and
 transmitted packet by packet (ESP)
 
-CES wants the IKE exchange and maybe the ESP (content)
+-	CES wants the IKE exchange and maybe the ESP (content)
 
-- TURMOIL passive capability:
+•	TURMOIL passive capability:
 
-Passive capability to detect IKE and ESP
-Metadata record produced for every IKE exchange
-IKE for targeted VPN forwarded directly to CES database
+-	Passive capability to detect IKE and ESP
 
-For targeted VPN, real-time is performed IF CES
+-	Metadata record produced for every IKE exchange
+
+-	IKE for targeted VPN forwarded directly to CES database
+
+-	For targeted VPN, real-time decryption is performed IF CES
 can provide a key in time
 
-IP traffic is processed by TURMOIL apps for
-normal selection webmail, etc, etc)
+-	Decrypted IP traffic is processed by TURMOIL apps for
+normal selection (VoIP, webmail, etc, etc)
 
-TOP SECRETIICOMINTIIREL USA, FVEY
-
-II ation Technology
-
-av"
-
-l?
-
-
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
 
 
-  
-   
-   
-   
- 
+MfVJlIliMf F#£LAfl0J0£>
+
+)mint//rel ^hfi'Tftation Technology
+TUBBULESüÊtf>re^P
 
 TURMOIL intercepts link
 
- 
-
 Key exchange
+Encrypted Data
 
- 
-
- 
-
- 
-
- 
-
-IKE Full take Turmo?
-
-Metadata 
-
-TURMOIL 
-
-App metad ata
-
- 
-
-Send IKE Ask
-for Keys
+IKE Full take
+Metadata
 
 App metadata
-content to
+& content to
 other
 
-reposhones
+repositories
 
+App metad it a
 
+Selected
 
- 
+Turmoil
 
-   
- 
+TURMOIL apps
 
- 
+Decrypted
 
- 
+Cchtent
 
-Selected 
-thtent
+IMI
 
- 
+/rnr/K
 
- 
+NSA Neu
 
- 
+oj*y
 
- 
+1.1 I 1 I
 
-I
+E
+
+WAVE
+
 Full take IKE
+
 metadata to TOYGRIPPE
 
-i?i
+Send IKE - Ask
+for Keys
 
- 
+TOYGRIPPE
 
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+MfVJlIliMf F#£LAfl0J0£>
 
-at
-
-II ation Technology
-
-av"
-
-l?
-
-
- 
-
-
-
-  
-   
-   
-   
- 
+)mint//rel ^hfi'Tftation Technology
+TUBBULESüÊtf>re^P
 
 TURMOIL intercepts link
 
- 
-
 Key exchange
+Encrypted Data
 
- 
-
- 
-
- 
-
- 
-
-IKE Full take Turmo?
-
-Metadata 
-
-TURMOIL 
-
-App metad ata
-
- 
-
-Send IKE Ask
-for Keys
+IKE Full take
+Metadata
 
 App metadata
-content to
+& content to
 other
 
-reposhones
+repositories
 
+App metad it a
 
+Selected
 
- 
+Turmoil
 
-   
- 
+TURMOIL apps
 
- 
+Decrypted
 
- 
+Cchtent
 
-Selected 
-thtent
+IMI
 
- 
+/rnr/K
 
- 
+NSA Neu
 
- 
+oj*y
 
- 
+1.1 I 1 I
 
-I
+E
+
+WAVE
+
 Full take IKE
+
 metadata to TOYGRIPPE
 
-i?i
+Send IKE - Ask
+for Keys
 
- 
+TOYGRIPPE
 
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+MfVJlIliMf F#£LAfl0J0£>
 
-at
+)mint//rel Lg4fg)^ation Technology
+TURBUl£M|iK9ÉPfflMe^ ’
 
-.-, 
-
-
- . I
-
-- 
-
- 
-
- 
-
-   
-  
-       
+HAMMERSTEIN
 
 Key exchange
 
- 
+Encrypted Data
 
- 
+IKE Full take
+Metadata
 
- 
+Unwrapper
 
-IKE Full take TAO
-Metadata Wrapped Exfil
+Metadata
+
+To other
+repositories
+
+:xtrantnr
+
+Decrypt
+
+:
+
+TURMOIL apps
+
+I'll
+
+Selectee Decrypted
+
+Cchtent
+
+NSA Neu
+
+oj*y
+
+1.1 I 1 I
+
+E
+
+WAVE
+
+Full take IKE
+
+metadata to TOYGRIPPE
+
+METROTUBE
+
+Analytic
+
+TAO
+
+Wrapped Exfil
 with TAO
-To other metadata
-reposhones
+metadata
 
-A TURMOIL VI: Ask for Keys 3
-I 
+Ask for Keys
 
-    
+D
 
- 
+TOYGRIPPE
 
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
- 
+,REL Lfrif61®iation Technology
+_ Directorate
 
- 
+Sounds g
 
- 
-
-I
-I'nup
-Selecte mm
-tent NSAWNIFIP ..,
-(Ill I
-Full take IKE
-
- 
-
- 
-
-metadata to TOYGRIPPE
-
-
-
- 
-
-TOP SECRETIICOMINTIIREL USA, VEY
-
-  
-  
-
-  
- 
-  
-
-ation Technologr 
-
-Dire orate IT   
-
-
-    
-
-   
-
-   
-
-Now app streams webmail, etc) extracted from
+•	Now app streams (VoIP, webmail, etc) extracted from
 the tunnel carry two case notations
 
-Which gets put into metadata records?
+•	Which gets put into metadata records?
 
-Both can be carried to PWV but what happens after
+•	Both can be carried to PWV - but what happens after
 that?
 
-Not to 
-Metadata records about VPN being stored in TOYGRIPPE
+•	Not to mention...
 
-CES database storing IKE exchange
+-	Metadata records about VPN being stored in TOYGRIPPE
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+-	CES database storing IKE exchange
 
-   
- 
-  
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
-ation Technology
-i - I I
+TOPS
 
-      
- 
- 
- 
- 
+'Mint/irelAffiliation Technc
 
-     
-  
+Exampler
 
-    
+firF&rrrtjltirft TtvfmoMgy
 
- 
+•	Current fields:
 
-Current fields:
+-	caseNotation - searchable field
 
-caseNotation searchable field
+-	sourcelD - “The SIGAD of the site that provided the data”
 
-sourceID ?The SIGAD of the site that provided the data?
-- APEX proposed extension: add
+•	APEX proposed extension: add
 
-Agent CaseNotation
+-	Agent CaseNotation
 
-Agent ID (UUID)
+-	Agent ID (UUID)
 
-Passive CaseNotation
-- Which caseNotation goes into searchable field?
+-	Passive CaseNotation
 
-Passive records won?t have the APEX block
+•	Which caseNotation goes into searchable field?
 
-TAO-collected records (returned via TAO, not passive) won?t
+-	Passive records won’t have the APEX block
+
+-	TAO-collected records (returned viaTAO, not passive) won’t
 have the APEX block
 
-TOP SECRETIICOMINTIIREL USA, FVEY
-
-. 1'on Tee noogy
-
-a II -
-r?cli? AdmStrong select VolP Signaling
+TOP SECRET//COMINT//REL USA, FVEY
 
 
-    
- 
-   
-  
 
-  
+MINT//REL 45ifól®íatÍon Technology
+ÄtenZötF E^iÖitatipn
 
-Targeted VolP Content
+HAMMERCHANT
 
- 
+Targeted VoIP Content
+
+Exfilled content
+w. TAO metadata
+And TURMOIL
+metadata
+
+APEX Packet
+
+Bundler
+
+4 Mil
+
+/-Tfr/'V
+
+NSA Net
+
+VoIP Signaling
+VoIP Content
 
 TAO Wrapped
 Exfil of
+^ targeted VoIP
 
-Exfilled content targetEd VolP
+FASCIA
 
-w. TAO metadata
-And TURMOIL FASCIA
+record
 
-?lm
-metadata record
+E
 
- 
+WAVE
 
-  
+METROTUBE
+APEX VoIP
+Analytic
 
-4. I
+Voice Processing
 
--
+Voice Repository
 
- 
+NUCLEON
 
- 
-
-Voice Processing Voice Repository
-
-TOP SECRETIICOMINTIIREL USA, VEY
-
-  
-      
-
-  
- 
-    
-
-ation Technologi *7
-. Direetorte ITD
-
-  
-
-?3 
-
-. f-J ??31
+TOP SECRET//COMINT//REL USA, FVEY
 
 
 
-v-J?f, 
+fREL Affiliation Technology
+_,	- Directorate (ITD)
 
+Shaping is hapi
 
+•	Operational (or coming soon) shaping:
 
- 
+-	HAMMERSTONE - TCP traffic to FORNSAT, soon SSO
 
-Operational (or coming soon) shaping:
-HAMMERSTONE - TCP traffic to FORNSAT, soon SSO
-- No TURMOIL involvement
-BRAVENICKEL one operational flow past 880 site
-APEX VPN metadata by end of June
+• No TURMOIL involvement
 
-- Independent decisions being made about how to stuff
+-	BRAVENICKEL - one operational flow - past SSO site
+
+-	APEX - VPN metadata by end of June
+
+•	Independent decisions being made about how to stuff
 the double metadata into legacy databases
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
-   
+fREL 45^5)®iatjon Technology
+_ .Directorate [ITD
 
-  
-   
+So what is voui
 
-I ation Technology  
-Dir - ctorate ITD  .. 
+•	How do you want to identify the source of your data?
 
-. ?5 
+-	Does CaseNotation still make sense in this new world?
 
-  
-
-
-
- 
- 
-
-   
-
- 
-
- 
-
-- How do you want to identify the source of your data?
-Does CaseNotation still make sense in this new world?
-
-- You need to drive processes, systems, databases
+•	You need to drive processes, systems, & databases
 toward a CONSISTENT answer
 
-- Transformed systems and tools (METAWAVE,
+•	Transformed systems and tools (METAWAVE,
 Marina, etc.) need to be designed to do more than
 accommodate
 
-do ?the right thing? (whatever you the think that is)
-Let me guess you want everything, don?t you?
+-	do “the right thing” (whatever you the analysts think that is)
 
-TOP SECRETIICOMINTIIREL USA, FVEY
+-	Let me guess - you want everything, don’t you?
 
-   
+TOP SECRET//COMINT//REL USA, FVEY
 
-    
- 
+Information Technology
+Directorate (ITD)
 
- 
+Questions?
 
-   
-
-rma 'on Tec no ogy   
-Directorate ITD 
-
-CueSIons.
-
-. . Isaac};
-
- 
-
-   
-
- 
-
-
--I-I
-
- 
- 
-
-o'rrna 'on Tec noogy
-Directorate ITD
-
- 
-
-.- 
-I I.  
-
- 
-
+16

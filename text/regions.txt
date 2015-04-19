@@ -1,252 +1,74 @@
-Regions
-Region
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-South West
-North West
-North West
-North West
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
-South East
+﻿Regions			
+Region	Cable	Location	V1
+South West	AC-1	Whitesands Bay	84.0
+South West	Yellow / AC-2	Bude	196.0
+South West	TGN Atlantic N	Highbridge	124.0
+South West	TGN Atlantic S	Pottington	124.0
+South West	Apollo North	Bude	118.0
+South West	TAT-14	Bude	128.0
+South West	SMW-3	Goonhilly	14.0
+South West	Flag EA	Porthcurno	14.0
+South West	Solas	Oxwich Bay	40.0
+South West	Sirius		0.0
+South West	EIG		0.0
+South West	GLO-1		0.0
+South West	Flag Atlantic 1	Skewjack	128.0
+South West	TGN Western Europe Highbridge		24.0
+South West	TGN Western Europe Pottington		24.0
+South West	ESAT1	Sennan Cove	1.0
+North West	Hibernia	Southport	169.0
+North West	ESAT2	Southport	1.0
+North West	BT-TE1	Holyhead	0.2
+South East	Ulysses-2	Lowestoft	64.0
+South East	Concerto 1 North	Thorpeness	0.0
+South East	Concerto 1 South	Thorpeness	0.0
+South East	Rembrandt-1	Lowestoft	0.0
+South East	FARLAND1	Aldeburgh	2.0
+South East	Rembrandt-2	Broadstairs	0.0
+South East	Ulysses-1	St Margarets Bay 8.0	
+South East	UK-France 5	Cheriton	2.0
+South East	UK-France 3	Brighton	0.2
+South East	Farice	Dunnet Bay,	20.0
+South East	Channel Tunnel		0.0
+South East	Hermes??		6.0
+South East	Pangea South	Lowestoft	0.0
+South East	Circe North	Lowestoft	10.0
 
-Cable
+10G Equiv
 
-AC-1
-
-Yellow AC-2
-TGN Atlantic 
-TGN Atlantic 
-Apollo North
-TAT-14
-
-W-3
-
-Flag EA
-
-Solas
-
-Sirius
-
-EIG
-
-GLO-1
-
-Flag Atlantic 1
-
-TGN Western Europe
-TGN Western Europe
-
-ESAT1
-
-Hibernia
-
-ESAT2
-
-BT-TE1
-Ulysses-2
-Concerto1 North
-Concerto 1 South
-Rembrandt-1
-FAR LAND1
-Rembrandt-2
-Ulysses-1
-UK-France 5
-UK-France 3
-Farice
-
-Channel Tunnel
-Hermes??
-Pangea South
-Circe North
-
-Location
-
-Whitesands Bay
-Bude
-Highbridge
-Pottington
-
-Bude
-
-Bude
-
-Goonhilly
-Porthcurno
-
-Oxwich Bay
-
-Skewjack
-Highbridge
-Pottington
-Sennan Cove
-Southport
-Southport
-Holyhead
-Lowestoft
-Thorpeness
-Thorpeness
-Lowestoft
-Aldeburgh
-
-Broadstairs
-
-V1 V2 106 Equiv 
-84.0 1019.0 10190
-
-196.0
-124.0
-124.0
-118.0
-128.0
-14.0
-14.0
-40.0
-0.0
-0.0
-0.0
-128.0
-24.0
-24.0
-1.0
-169.0
-1.0
-0.2
-64.0 112.2
-0.0
-
-0.0
-
-0.0
-
-2.0
-
-0.0
+1019.0
 
 170.2
 
-St Margarets Bay 8.0
+112.2
 
-Cheriton
-Brighton
-Dunnet Bay,
+Gbps
 
-Lowestoft
+10190
 
-Lowestoft
+1
 
-2.0
-0.2
-20.0
-0.0
-6.0
-0.0
-10.0
+Regions				
+Region	Cable	Location	CM  >  >	10G Equiv Gbps
+South East	Circe South	Pervensey Bay	0.0	
+South East	Tangerine	Broadstairs	0.0	
+South East	PEC	Broadstairs	0.0	
+North East	TGN Northern Europe Hunmanby		32.0	59.5
+North East	UK-Germany 6	Scarborough	8.0	
+North East	UK-Netherlands 14	Winterton-on-sea	2.0	
+North East	Pangea North	Redcar	16.0	
+North East	CANTAT-3	Redcar	1.5	
+Non-UK	SMW-4		48.0	396.0
+Non-UK	Apollo South (not UK)	*	220.0	
+Non-UK	Flag Atlantic 1 South	Not UK	128.0	
+Non-Cable	SCEPTRE			
+Non-Cable	PRESCOTT			
+Non-Cable	KIRKISTOWN			
+Non-Cable	LINNELL			
+Non-Cable	CATEGORY			
+Non-Cable	KNAPWEED			
+Non-Cable	ELAPSE			
+-	Hermes??		30.0	
+-	UK-N Ireland LANIS		3.0	
 
-Regions
-Region
-South East
-South East
-South East
-North East
-North East
-North East
-North East
-North East
-
-
-
-Non-Cable
-Non-Cable
-Non-Cable
-Non-Cable
-Non-Cable
-Non-Cable
-Non-Cable
-
-Cable Location
-
-Circe South Pervensey Bay
-Tangerine Broadstairs
-
-Broadstairs
-TGN Northern Europe Hunmanby
-UK-Germany 6 Scarborough
-UK-Netherlands 14 Winterton-on-sea
-Pangea North Redcar
-CANTAT-3 Redcar
-SMW-4
-
-Apollo South (not UK) 
-
-Flag Atlantic1 South Not UK
-SCEPTRE
-
-PRESCOTT
-
-KIRKISTOWN
-
-
-
-CATEGORY
-
-KNAPWEED
-
-ELAPSE
-
-Hermes??
-
-UK-N Ireland 
-
-v1 v2
-0.0
-
-0.0
-
-0.0
-
-32.0 59.5
-8.0
-
-2.0
-
-16.0
-
-1.5
-
-48.0 396.0
-220.0
-
-128.0
-
-106 Equiv 
-
-30.0
-3.0
-
-
-
+2

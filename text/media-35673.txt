@@ -1,537 +1,569 @@
+﻿The
 
+Fashioncleft
 
- 
+.. Protocol
+
+Hi STDP, S32354
+
+“go Itiny-url?q=p5atn”
 
 October 16, 2008
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+1
+
+| TOP SECRET//COMINT//RELTO USA,FVEY
 
 Definition: FASHIONCLEFT
 
-protocol used by implants to exfiltrate collected
+•	TAO/DNTprotocol used by implants to exfiltrate collected
 network packets to the Common Data Receptor (CDR).
 
-Provides support for:
-Metadata Authentication/Integrity AntiReplay 
+•	Provides support for: 'm
 
-Data 
-Uses 1024-bit RSA, 128-bit RC6
+-	Metadata Authentication/Integrity + AntiReplay + Encryption
 
-Based on DNT standards:
-FOGYNULL (EXfil Protocol)
+-	Data Encryption
 
-FUNNELAPS (EXfil Data Format)
-SHELLGREY (Exfil Metadata Format)
+11 j - Uses 1024-bit RSA, 128-bit RC6	11
 
-October 16, 2008 TOP 
+•	Based on DNT standards:
 
- 
+-	FOGYNULL (Exfil Protocol)
 
-TOP 
+-	FUNNELAPS (Exfil Data Format)	1 |,
 
-How To EXfiltrate 1P Packets
+-	SHELLGREY (Exfil Metadata Format)	1
 
-1. Make a copy of the captured packet.
-2. Modify packet IP destination address.
+October 16,2008	TOP SECRET//COMINT//RELTO USA.FVEY	2
 
-3. Modify other protocol fields (1P, UDP, TCP) as
+| TOP SECRET//COMINT//RELTO USA,FVEY
+
+How To Exfiltrate IP Packets
+
+1.	Make a copy of the captured packet.
+
+2.	Modify packet IP destination address.
+
+3.	i Modify other protocol fields (IP, UDP, TCP) as
+
 needed to bypass firewalls and tag packets for ID.
 
-4. Optionally Transport layer payload.
-5. Send modified Data Packet (DP) to new destination.
+4.	Optionally encrvpt/munge Transport layer payload.
 
-October 16, 2008 TOP 3
+5.	Send modified Data Packet (DP) to new destination.
 
- 
+October 16,2008	TOP SECRET//COMINT//RELTO USA.FVEY	3
 
-TOP 
+| TOP SECRET//COMINT//RELTO USA,FVEY
 
 Receiver: Needs Metadata
 
-- Metadata explains how to:
+•	Metadata explains how to:
 
-Identify an eXfil packet and the implant source.
+1.	Identify an exfil packet and the implant source.
 
-Recover original IP destination address.
+2.	Recover original IP destination address.
 
-Recover other original protocol fields (IP, UDP, TCP).
-Contains Key to transport layer payload.
+3.	Recover other original protocol fields (IP, UDP, TCP), i | |
 
-- Metadata sent in a Session Announcement (SA)
+4.	Contains Key to decrvpt/unmunge transport layer payload.
 
-- SAs use or sent to an IP/port.
-- Multiple copies of SA sent to mitigate dropped SA packets.
+•	Metadata sent in a Session Announcement (SA)
 
-- Receiver is dynamically configured with:
-- SA IP/ports, Infrastructure 8: Implant Private Keys
+•	SAs use IP/UDP or IP/TCP sent to an IP/port.
 
+•	Multiple copies of SA sent to mitigate dropped SA packets.
 
+•	Receiver is dynamically configured with:
 
-October 16, 2008 TOP 4
+•	SA IP/ports, Infrastructure & Implant Private Keys
 
- 
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	4
 
-TOP 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
 Session Announcement Format
 
-- IP Header
-- TCP or UDP Header
+IP Header
 
-- SA Payload
+TCP or UDP Header
 
-Infrastructure Header (128 bytes)
-- RSA w/ Infrastructure Public Key
-- Contains ID
-ID Deployment?Id Target?Id Implant?Id
-Implant Header (128 bytes)
-- RSA w/ Public Key
-- Contains 
+SA Payload	1 I I
 
-- 128?bit CV, MI, and checksum for
+-	Infrastructure Header (128 bytes)
+
+•	RSA Encrypted w/ Infrastructure Public Key
+
+•	Contains SHA-l(INF-HDR), ID I
+
+- ID = Deployment-Id + Target-Id + Implant-Id
+
+-	Implant Header (128 bytes)
+
+•	RSA Encrypted w/ ID’s Public Key
+
+•	Contains SHA-l(IMP-HDR)
+
+•	128-bit CV, MI, and CRC-16 checksum for
 Exfil/Metadata Block
 
-EXfil/Metadata Block (variableMinimum packet length 344 bytes
+-	Exfil/Metadata Block (variable)
+
+•	RC6 Encrypted w/ CV & MI
+
+Minimum packet length = 344 bytes
+
+INF-HDR
+
+Deployment-Id = 0x00
+Target-Id = Qxa1a2a3a4
+m plant-id = 0xb1 b2
+Packet-IF-Selector = 0x01
+Packet-IF-Data = [’]
+
+IMP-HDR
+
+Opcode = 0x09
+lnst-ld = 0x00
+Implant-Ver = 0xd1
+Encrypt-Mode = 0x02
+
+exfil-blk
+
+MetaData-Len = M L
+Data-Len = 0
+
+Exfil-ld = Gx0C0000e2
+Exfil-Type = Packet
+Time-of-lntercept = OxffCO
+Filter-Id = 0x12
 
 October 16, 2008
 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-4
-:3
-
-
-C53
-C3
-
-
-FUN 
-
- 
-
-
-
-TOP 
-
-
-Deployment-Id 0x00
-Target-Id Ur;a1a2a3a4
-Implant-Id Oxb1b2
-Packet-lF-Selector 0x01
-Packet-lF-Daia 
-
-
-Opcode 0x09
-Inst-Id 0x00
-Implant-Ir'er dei
-OXOE
-
-we
-ML
-Data-Len 
-
-
-Exfil-ld 0x00000092
-Exfil-Type Packet
-Time-of?lntercept 
-Filter-Id 0x12
-
- 
-
-TOP 
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
 Session Announcement Processing
 
 1. Look for SAs at IP/port that are at least 344 bytes long.
-IP.dstPort)
 
-(Easy/quick initial check)
-1. RSA w/ Infrastructure Private Key.
+•	ppf::api::KeywordCriterion(IP.dstAddr, IP.dstPort)
 
-Authenticate w/ 
+•	(Easy/quick initial check)
 
-(Slow secondary check; can?t withstand much non?SA traffic on IP/port)
-1. RSA w/ Private Key.
+1. RSA Decrypt INF-HDR w/ Infrastructure Private Key.
 
-Authenticate w/ 
+•	Authenticate w/ SHA-1
 
-1. RC6 EXfil/Metadata w/ CV and MI
-Perform integrity check.
+•	(Slow secondary check; can’t withstand much non-SA traffic on IP/port)
+
+1. RSA Decrypt IMP-HDR w/ ID’s Private Key. 11
+
+•	Authenticate w/ SHA-1 11	11
+
+1. RC6 Decrypt Exfil/Metadata w/ CV and MI	11,
+
+•	Perform CRC-16 integrity check.
 
 1. Extract Metadata and create Data Packet (DP) filter rule.
 
-Metadata contains either 5?tuples or pattern/mask/offset that match DPS
-or pattern/mask/offset)
+•	Metadata contains either 5-tuples or pattern/mask/offset that match DPs
 
-October 16, 2008 TOP 6
+•	ppf::api::KeywordCriterion(5-tuple or pattern/mask/offset)
 
- 
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	6
 
-TOP 
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
 Data Packet Processing
 
-Identify an exfil packet that matches DP filter rule.
-Modify to original IP destination address.
-Modify to original protocol fields (IP, UDP, TCP).
+1.	Identify an exfil packet that matches DP filter rule.
 
-transport layer payload.
-Have now recovered the original captured packet.
+2.	Modify to original IP destination address.
 
+3.	Modify to original protocol fields (IP, UDP,'TCP).
 
+4.	Decrvpt/unmunge transport layer payload.
 
-1. Associate metadata with recovered packet.
-Implant CASN, Turmoil link CASN
+-	Have now recovered the original captured packet.
+
+iM 1. Associate metadata with recovered packet.
+
+-	Implant CASN, Turmoil link CASN
 
 1. Perform protocol specific processing.
-Reinject? Bundle?
-Need option to force packets to be ?strongly selected?.
 
-October 16, 2008 TOP 7
+-	Reinject? Bundle?
 
- 
+-	Need option to force packets to be “strongly selected”.
+
+October 16,2008	TOP SECRET//COMINT//RELTO USA.FVEY	7
 
 Questions?
 
-October 16, 2008 TOP 8
+October 16, 2008
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
+
+8
 
 Supplemental Material
 
-October 16, 2008 TOP 9
+October 16, 2008
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+9
 
-FASHIONCLEFT Turmoil
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
-Adding FASHIONCLEFT capability to Turmoil
+FASHIONCLEFT & Turmoil
+
+• Adding FASHIONCLEFT capability to Turmoil
 supports these missions:
 
-VPN
+-	VPN	' '' '' ...........
 
-Provide key exchanges obtained from unique TAO
+•	Provide IKE/ISAKMP key exchanges obtained from unique TAO
 accesses to the VPN Attack Orchestrator.
 
+-	VoIP ...... ...........................
 
+•	Create new high bandwidth exfiltration path to Turmoil for
+streaming VoIP to overcome limited CDR bandwidth.
 
-Create new high bandwidth exfiltration path to Turmoil for
-streaming to overcome limited CDR bandwidth.
+-	Others	i |	111 11
 
-Others
+•	Automatic exfil path discovery?
 
-Automatic eXfil path discovery?
+•	Etc...
 
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	10
 
-October 16, 2008 TOP 10
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
- 
+Library Reuse: CDR □ PPF
 
-TOP 
+•	TAO Common Data Receptor
 
-Library Reuse: CDR PPF
+-	Access Control Point (ACP, C) u
 
-TAO Common Data Receptor
-Access Control Point (ACP, C)
-SURPASSPIN Inner/Outer (SP-in, SP-out, Java)
-(FOGYNULL Technique Software Kit, C)
+-	SURPASSPIN Inner/Outer (SP-in, SP-out, Java) 11
 
-Turmoil Packet Processing Framework 
-Atomic Event Generator (AEG)
-Stateful Event Generator (SEG)
-Event Filter (EF)
-Packet-to-Packet Transform Engine (TE)
+-	libftsk (FOGYNULL Technique Software Kit, C)
 
-October 16, 2008 TOP 11
+•	Turmoil Packet Processing Framework (C++)
 
- 
+-	Atomic Event Generator (AEG)
 
-Cache:
-Cache:
-Cache:
-Cache:
-Cache:
-Cache:
-Cache:
+-	Stateful Event Generator (SEG) 11
 
-SaFilter:
-SaFilter:
-SaFilter:
-SaFilter:
+-	Event Filter (EF)	11 !
 
+-	Packet-to-Packet Transform Engine (TE)
 
+October 16,2008	TOP SECRET//COMINT//RELTO USA.FVEY	11
 
-ACP ?Equivalent 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-:setTimeWindow 
-:setSize
+ACP “Equivalent API”
 
-:getInfo
+Cache::setTimeWindow
 
-:clear
+Cache::setSize
 
-:enableArchiving
-:disableArchiving
-:getArchivingStatus 
+Cache : :getlnfo
 
-:set
-:delete
-:getList
-:clearList
+Cache : : clear
 
-DpFilter::set
-- Create DpFilter check cache for match
-DpFilter::de1ete
-DpFilter::getList
+Cache::enableArchiving
+
+Cache::disableArchiving
+
+Cache::getArchivingStatus	1+
+
+SaFilter:: set
+SaFilter:¡delete
+SaFilter:¡getList
+SaFilter::clearList
+
+DpFilter: : set
+
+Create DpFilter & check cache for match
+DpFilter:¡delete
+DpFilter:¡getList
 DpFilter::clearList
 
-ijober16,2008
+Acp::getStatus
 
-Acp:
+Cache:¡getArchivingStatus
+SaFilter:¡getList
+DpFilter:¡getList
+Cache::getlnfo
 
-:getStatus
-
-Cache::getArchivingStatus
-SaFilter::getList
-DpFilter::getList
-Cache::getInfo
-
-::checkRawPacket
+Acp::checkRawPacket
 
 (packet processing callback)
 cache the packet
-if cacheFull
-- archiveIfEnabled
-- warnIfInCacheTimeWindow
+• if cacheFull
+
+-	archivelfEnabled
+
+-	warnlfInCacheTimeWindow
 find/process all matching DpFilters
-find/process unique matching SaFilter
-
-12
-
- 
-
-TOP 
-
-To be Determined
-
-- Tasking 8: Monitoring of Turmoil
-Add/Delete/Query tasking (JMS 
-Add/Delete/Query other processing/config options (MBean?)
-Tasking/configuration persistence
-Processing metrics logging
-Should tasking use CDR .icf files? (Implant Config Files)
-Should Turmoil interface w/ (TAO tasking database)
-
-- Protocol Processing
-Metadata: Implant CASN Turmoil link CASN
-
-Reinject? Packet Bundling?
-VPN, etc.
-
-Force Strong Selection Option: On/Off
-Turmoil 30?sec DFCE vs. CDR 15?minute packet cache
+find/prbcess unique matching SaFilter
 
 October 16, 2008
 
-TOP 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-13
+12
 
- 
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+To be Determined
+
+•	Tasking & Monitoring of Turmoil
+
+-	Add/Delete/Query tasking (JMS ITx?)
+
+-	Add/Delete/Query other processing/config options (MBean?)
+
+-	Tasking/configuration persistence
+
+-	Processing metrics 8t logging
+
+-	Should tasking use CDR .icf files? (Implant Config Files) I I | |
+
+-	Should Turmoil interface w/ PUZZLECUBE? (TAO tasking database)
+
+•	Protocol Processing
+
+-	Metadata: Implant CASN + Turmoil link CASN	I I
+
+-	Reinject? Packet Bundling?
+
+• VoIP, VPN, etc.	I 1 |
+
+-	Force Strong Selection Option: On/Off
+
+-	Turmoil 30-sec DFCE vs. CDR 15-minute packet cache
+
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	13
+
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
 Current CDR Tasking
 
-FLASHHANDLE Mission Manager 
-Provides tasking to 
+•	FLASHHANDLE Mission Manager (FMM)
 
-FMM Server
-Reads configuration information from the PUZZLECUBE database
-Allows the operator to add/change tasking
-(including generating implant keys)
-Tasking changes are:
-Sent back to PUZZLECUBE via JDBC messages
+-	Provides tasking to CDR/SURPASSPIN
 
-Published via JMS messages to SURPASSPIN
-SURPASSPIN stores the tasking in a persistent POJO cache.
+•	i FMM Server	1 11 11 11 i 11 ! j
 
-October 16, 2008 TOP 14
+-	Reads configuration information from the PUZZLECUBE database
 
- 
+-	Allows the operator to add/change tasking
 
+*	(including generating implant encryption keys)
 
+•	Tasking changes are:	i
+
+-	Sent back to PUZZLECUBE via JDBC messages
+
+-	Published via JMS messages to SURPASSPIN
+
+*	SURPASSPIN stores the tasking in a persistent POJO cache.
+
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	14
+
+TOP SECRET//COMINT//RELTO USA,FVEY
 
 Implant Configuration File (.icf)
 
-(4343) HAMMERCHANT
+#	(4843) HAMMERCHANT
 
+ICF NAME	4843.alb20000.00000113.21Mar2007
 
+ICF_DTG	Wed Mar ¡21 18:12:33	2007
 
+ICF_INFO	(4843) HAMMERCHANT	FOR	TARGET ID
 
+0xalb20000
 
+IMPLANT ID	0X4843
 
+IMPLANT_VER	1
 
+TARGET_ID	0xalb20000
 
+DEPLOYMENT_ID	0X00000113
 
+TARGET_CN	HAMMERCHANT_BatonRouge
 
+TARGET IP	172.32.6.113
 
+TARGET_HOST	BatonRouge
 
+#
 
+#	IMPLANT LP[l-9] [Tunnel-Id :]ip-address[:port(s)]
 
+#	Tunnel-Id:	2-Fashioncleft
 
+IMPLANT_LP1	2:68.1.1.178:12000
 
+IMPLANT_LP2	2:68.1.1.178:12001
 
-Tunnel-Id:
+IMPLANT_RC6_CV1 e3d3ae0a b341adel 4dce30e0 77861acc
 
+#
 
+IMPLANT_RSA_INF
 
+RSANAME Infrastructure Key E.rsa
 
-Wed Mar 21 18:12:33 2007
+RSAINFO Wed Aug 25 10:17:29 2004, rsagenkey v2.0
 
-(4843) HAMMERCHANT FOR TARGET ID
-0xa1b20000
-
-0x4843
-
-1
-
-0xa1b20000
-
-0x00000113
-
-172.32.6.113
-BatonRouge
-
-
-2-Fashioncleft
-2:68.1.1.178:12000
-2:68.1.1.178:12001
-
-e3d3ae0a b341ade1 4dce30e0 77861acc
-
-ijober16,2008
-
-
-
-RSANAME Infrastructure_Key_E.rsa
-RSAINFO Wed Aug 25 10:17:29 2004,
 RSASIZE 1024
+
 RSAMOD 32
-0xe420b8d5, 0x47673b7a, 0xaf4c39a1, 0xc704d5ba,
-[m7 lines deleted 
+
+0xe420b8d5, 0x47673b7a, 0xaf4c39al, 0xc704d5ba,
+
+[...7 lines deleted...]
+
 RSAMU 33
-0xed5692b1, 0x449323bb, 0xed7653e5, 0xcd9feb5e,
-[m7 lines deleted 
-0x00000002
+
+0xed5692bl, 0x449323bb, 0xed7653e5, 0xcd9feb5e,
+
+[...7 lines deleted...]
+
+0X00000002
 RSAPRIV 32
-0x6305f12b, 0xd1b85426, 0x4f5a6810, 0x68be4748,
-[m7 lines deleted 
+
+0x63c5f12b, 0xdlb85426, 0x4f5a681c, 0x68be4748,
+
+[...7 lines deleted...]
+
 RSAPUB 32
-0x00000003, 0x00000000, 0x00000000, 0x00000000,
-[m7 lines deleted 
 
-rsagenkey v2.0
+0X00000003, 0X00000000, 0X00000000, 0X00000000,
 
+[...7 lines deleted...]
 
+#
 
-
-
+IMP LANT_RSA_IMP
 RSANAME
 
+(4843)_HAMMERCHANT_at_HAMMERCHANT_(alb20000/00000113)
+[[..same format as IMPLANT_RSA_INF...]
 
-same format as 
+October 16, 2008
+
+TOP SECRET//COMINT//RELTO USA,FVEY
 
 15
 
- 
+| | TOP ISECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+...... Packet Cache Options
 
-Packet Cache Options
+•	CDR uses a 15 minute packet cache.
 
-- CDR uses a 15 minute packet cache.
-
-SAs are sent multiple times per session and the cache is searched for matching
+-	SAs are sent multiple times per session and the cache is searched for matching
 DPs to mitigate dropped SAs.
 
-- Simple Cache:
+•	Simple Cache:	1 1111 U 11	|,
 
-Use existing Turmoil cache (Delay Flow Control Engine).
+-	Use existing Turmoil cache (Delay Flow Control Engine).
 
-- Large Cache:
+•	Large Cache:	11 h 11
 
-Create a large cache that allows a 15 minute delay.
+-	Create a large cache that allows a 15 minute delay.
 
-Options:
-Start with Simple cache and see if we miss too many DPs. If problems then
+•i Options:
+
+-	Start with Simple cache and see if we miss too many DPs. If problems then
 implement Large cache.
 
-Start with a Large cache and see if we can keep up with data rate 8: memory
+-	Start with a Large cache and see if we can keep up with data rate & memory
 requirements. If problems then scale back to Simple cache.
 
-October 16, 2008 TOP 16
+October 16,2008	TOP SECRET//COMINT//RELTO USA,FVEY	16
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+Simple Packet Cache
 
-The hardware LightDelay provides a 30 second cache. 
-The software provides a 2 second cache.
-Pros:
+•	The hardware LightDelay provides a 30 second cache.
 
-Illu
+•	The software XFSPF provides a 2 second cache.
 
-1. 0 problems with buffering data since Turmoil does it automatically.
-2. 0 work required to implement cache.
+•	1 Pros: 1111 ■ 11 11 , M	11 1 11 1111
 
-Cons:
+1.	No problems with buffering data since Turmoil does it automatically.
 
-1. Cache is much smaller than 15 minute (900 seconds 30X 30) CDR
+2.	No work required to implement cache.
+
+•	Cons:	'' 1111 11 11	11 111
+
+1.	Cache is much smaller than 15 minute (900 seconds = 30x 30) CDR
 requirement.
 
-
-2. Cache delay is further reduced by unspecified latency to register new DP 
+2.	Cache delay is further reduced by unspecified latency to register new DP
 filters after receipt of SA.
 
-3. Many DPs would be ignored if SA is missed/delayed.
+3.	Many DPs would be ignored if SA is missed/delayed.
 
-Possibly "mitigated" by sending multiple SA copies in first 30 (or 2) seconds
-of eXfil.
+- Possibly "mitigated" by sending multiple SA copies in first 30 (or 2) seconds
+of exfil.
 
-October 16, 2008 TOP 17
+October 16, 2008
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-TOP 
+17
 
-llIll
-Implement large 15?minute packet cache within AEG.
-Pros:
-1. Meets CDR cache requirement. "In
+TOP SECRET//COMINT//RELTO USA,FVEY
 
-2. Most/all DPs should be processed even if initial SA is missed/delayed.
+Large Packet Cache
 
-Cons:
+•	Implement large 15-minute packet cache within AEG.
 
-1. Violates normal Turmoil architecture. May not be possible/feasible to 
-implement a large cache at typical Turmoil rates. 
+*	111 Pros:	11 11 ii i n
 
-2. Requires caching all IP packets sent to IP address", then manually
+1.	Meets CDR cache requirement.
+
+2.	Most/all DPs should be processed even if initial SA is missed/delayed.
+
+•i i Cons:	11 11 ,,	11111,
+
+1.
+
+2.
+
+3.
+
+Violates normal Turmoil architecture. May not be possible/feasible to
+implement a large cache at typical Turmoil rates.
+
+Requires caching all IP packets sent to "CDR IP address", then manually
 searching for DP hits instead of letting the PPF search packets.
 
-3. Time/effort required to implement.
+Time/effort required to implement.
 
-October 16, 2008 TOP 18
+October 16, 2008
 
- 
+TOP SECRET//COMINT//RELTO USA,FVEY
 
- 
+18
 
-October 16, 2008 TOP tr
+TOP SECRET//COMINT//RELTO USA,FVEY
 
- 
-
+SA/DP ID & Processing

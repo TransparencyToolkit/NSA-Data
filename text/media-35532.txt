@@ -1,205 +1,216 @@
-TOP SECRET STRAP1
+﻿TOP SECRET STRAP1
 
-BU LLRUN
+BULLRUN
 
 PTD Lead for Special Operations and Policy
 
-PTD "We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
-
- 
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
 
 BULLRUN
 
-Covers the ability to defeat used in
+•	Covers the ability to defeat encryption used in
 specific network communications
 
-- Includes multiple, extremely sensitive, sources
+•	Includes multiple, extremely sensitive, sources
 and methods
 
-PTD "We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Informatior^c^OO^o^Tia^^ubiecU^xemotiorM^Tder
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
-QCHQ 
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
+
 Network Security Technologies
 
-Secure Sockets Layer/Transport Layer Security
-(webmail)
+•	Secure Sockets Layer/Transport Layer Security
+(SSL/TLS) (webmail)
 
-Secure Shell (SSH)
+•	Secure Shell (SSH)
 
-- chat
+•	Encrypted chat
 
-- Virtual Private Networks (VPNs)
-- 
+•	Virtual Private Networks (VPNs)
 
-PTD "We penetrate targets? defences.?
+•	Encrypted VoIP
 
- 
+PTD "We penetrate targets' defences."
 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ or
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
 
 Response to improving security
 
-For the past decade, NSA has lead an
+•	For the past decade, NSA has lead an
 aggressive, multi-pronged effort to break widely
-used Internet technologies
+used Internet encryption technologies
 
-capabilities are now coming on line
+•	Cryptanalytic capabilities are now coming on line
 
-- Vast amounts of Internet data which
+•	Vast amounts of encrypted Internet data which
 have up till now been discarded are now
 exploitable
 
-- Major new processing systems, SIGDEV efforts
+•	Major new processing systems, SIGDEV efforts
 and tasking must be put in place to capitalize on
 this opportunity
 
-PTD ?We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
+
 Sensitivities
-capabilities
 
-Are extremely difficult and costly to acquire
-Require a long lead time
+•	Cryptanalytic capabilities
 
-Depend on sensitive sources
+-	Are extremely difficult and costly to acquire
 
-Are very fragile
+-	Require a long lead time
 
-If lost, may never be regained
+-	Depend on sensitive sources
 
-The mere ?fact of? a capability is very sensitive:
+-	Are very fragile
 
-An adversary who knows what we can/cannot break is
+-	If lost, may never be regained
+
+•	The mere “fact of” a capability is very sensitive:
+
+-	An adversary who knows we can/cannot break is
 able to elude our capabilities even without knowing the
 technical details of how the capabilities work
 
-PTD ?We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
 
 Protecting BULLRUN Capabilities
 
-- Technical and operational details
+•	Technical and operational details
 
-Need to be known only by and those who
-enable 
+-	Need to be known only by cryptanalysts and those who
+enable cryptanalysis
 
-Protected by established 
-- PICARESQUE PAWLEYS, AMBULANT, 
+-	Protected by established ECl’s
 
-?Fact of? information
+• PICARESQUE , PAWLEYS, AMBULANT, ...
 
-Needs to be known very widely within the SIGINT
+•	“Fact of” information
+
+-	Needs to be known very widely within the SIGINT
 production chain
 
-Protect with new secure community of interest (COI)
+-	Protect with new secure community of interest (COI)
 
-PTD ?We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ onl
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
-Protecting the Info Secure COI
 
-Secure Community of Interest (COI) protects
-?fact of? as well as volume and scope of the
+Protecting the Info - Secure COI
+
+•	Secure Community of Interest (COI) - protects
+“fact of” as well as volume and scope of the
 capability
 
-- BULLRUN indoctrination required for access to
-
+•	BULLRUN indoctrination required for access to
 COI
-- BULLRUN-related material, data 
-content and details must
 
+•	BULLRUN-related material, data - decrypted
+content and decrypted metadata, and details must
 be protected within the COI
 
-PTD ?We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
+
 Protecting the information
 
-- BULLRUN is for internal (Sigint) use only
+•	BULLRUN is for internal (Sigint) use only
 
-- Implemented at NSA DSD GCSB to
+•	Implemented at NSA &CSEC; DSD & GCSB to
 follow
 
-- Not to be shared with UK Partners customers
+•	Not to be shared with UK Partners / customers
 
-- EP not to reveal sources methods; further
+•	EP not to reveal sources & methods; further
 guidance to be developed
 
-- BULLRUN brief on Gcwiki for reference
+•	BULLRUN brief on Gcwiki for reference
 
-PTD ?We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ onl
 
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
 
 Examples
 
-(S 81) Unspecified capabilities against IPSEC,
-SSH, PPTP, eChat, 
+•	(S SI) Unspecified capabilities against [VPNs, IPSEC,
+TLS/SSL, HTTPS, SSH, PPTP, eChat, eVolP]
 
-- (TS Sl COMINT) Capabilities against the used in
-IPSEC, SSH, PPTP, eChat, 
+•	(TS SI COMINT) Capabilities against the encryption used in
+[VPNs, IPSEC, TLS/SSL, HTTPS, SSH, PPTP, eChat, eVolP]
 
-- (TS 82 BULLRUN) Capability against specific applications
+•	(TS S2 BULLRUN) Capability against specific applications
 
-PTD "We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
-
+© Crown Copyright. All rights reserved.
 
 TOP SECRET STRAP1
 
 BULLRUN Bottom Line
 
-Groundbreaking capabilities
+•	Groundbreaking capabilities
 
-- Extremely fragile
+•	Extremely fragile
 
-- Do not ask about or speculate on sources or methods
+•	Do not ask about or speculate on sources or methods
 underpinning BULLRUN successes
 
-- Indoctrination required for access to secure COI
+•	Indoctrination required for access to secure COI
 
-PTD "We penetrate targets? defences.?
+PTD "We penetrate targets' defences."
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
 
-
-
-
+© Crown Copyright. All rights reserved.

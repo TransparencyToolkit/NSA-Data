@@ -1,112 +1,30 @@
-I:l
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
 
-VALIANTSURF
+VALIANTSURF (VS):
 
-LI.
+VALIANTSURF Capability Level		Beneficiaries				
+		CES & LONGHAUL	OTP &  SSG	TOPIs	Link Access	CES
+A	Key Recovery, no on-site decryption	X				
+B	Key Recovery, on-site SW Decryption , XKS SIGDEV	X	X			
+C	Key Recovery, on-site SW Decryption, XKS SIGDEV , offsite processing of full take decrypt	X	X	X		
+D	Key Recovery, on-site SW Decryption, XKS SIGDEV , on-site packet and session selection and forwarding of decrypt	X	X	X	X	
+E  )TE:	Key Recovery, on-site HW Decryption, XKS SIGDEV , .on-site packet and session ^  decrypt	addec^ capab	... x  lity over pr	or levéf	X	X
 
- 
+1
 
-VALIANTSU RF
+TOP SECRET//COMIIMT//REL TO
 
- 
+USA, FVEY
 
-(VS):
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
-
-Beneficiaries
-
- 
-
-Capability Level
-
-CES 
-LONGHAUL
-
-OTP 
-SSG
-
-TOPIS
-
-Link Access
-
-CES
-
- 
-
-Key Recovery, no on-site
-
-
- 
-
-Key Recovery, on-site SW
-XKS
-SIGDEV
-
- 
-
-Key Recovery, on-site SW
-XKS SIGDEV,
-offsite processing of
-full take 
-
- 
-
-Key Recovery, on-site SW
-XKS SIGDEV,
-on-site packet and
-session selection and
-forwarding of 
-
- 
-
-NC
-
- 
-
-
-
- 
-
-Key Recovery, on-site HW
-XKS SIGDEV,
-
-et?taa?tgiiaaseazg??a
-
-
- 
-
-added(capab
-
- 
-
-. 
-lity over pr
-
- 
-
-
-or level
-
- 
-
- 
-
- 
-
- 
-
-10.
-
-ll.
-
-12.
-
-13.
+VALIANTSURF (VS): Success Criteria
 
 DNC (Data Network Cipher) target development performed using metadata
-TURMOIL DNC targeting in place (via U'l'l' KEYCARD) and needed CASNs on cover
-connectivity between CES backend and CA Servers at site
+
+TURMOIL DNC targeting in place (via UTT & KEYCARD) and needed CASNs on cover
+
+ITx connectivity between CES backend and CA Servers at site
 
 CA Servers at site accessible, hardened, loaded and functioning
 
@@ -116,150 +34,45 @@ LONGHAUL is able to exploit the traffic
 
 VS-compatible TURMOIL software loaded
 
-XKS retrospective available for DNC plain text target development determine selectors)
+XKS retrospective available for DNC plain text target development (i.e. determine selectors)
+
 Bandwidth available and policy approves
-
 Plain text selectors loaded in TURMOIL and XKS
-
 Needed mission applications available in TURMOIL stage 1 prime
-2 functioning
+XKEYSCORE-Stage 2 functioning
 
 CA Server with hardware acceleration in place with sufficient TU network configuration
 
-VALIANTSURF (VS): Success Criteria
+VS Capability Level	Success Criteria Required												
+	i	2	3	4	5	6	7	8	9	10	1  1	1  2	1  3
+A	X	X	X	X	X	X							
+B	X	X	X	X	X	X	X	X					
+C	X	X	X	X	X	X	X	X	X				
+D	X	X	X	X	X	X	X	X	X	X	X	X	
+E	\£  TC>P S 		CI*E1	'<	\/  IN*//f	x	X  		X	X	X	X	X	X	X
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Success Criteria Required
-VS Capability
-
-Level USA, FVEY
-
- 
-
- 
-
-VALIANTSURF (VS): Current Capability
-Status
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-VS
-Capabilit VS Dependencies 13. CA HW
-Site 2 6 8 XKS 1o 11 Stage Cavium
-Exp|0itabl 7. Retro- . Selector 1' Included
-SIGDEV Server Pairing Spective Policy 5 Apps Stage2 Server 
-MUSC yes
-XCUT Eventua
-GH 
-CE
-1206:?: yes
-2406 IBM
-(6/11) 3650 yes
-PSK
-Defensi IBM Eventua
-ve 3650 lly*
-(1/11)
-Remaini
-ng I I
-Defensi CaVium cards still to be ordered for these 5 tes 536th Ev?ciua
-(9 206 is a dev system
-S'tes) TOP REL TO
 USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
+VALIANTSURF (VS): Current Capability
+
+Status
+
+Site	VS  Capabilit  y					VS Dependencies												13. CA HW	
+	A	B	C	D	E	1. IP SIGDEV	2.  TARGETTIN  G	3. ITx	4. CA Server	5.  Pairing	6.  Exploita bl e	7. TML/VS	8. XKS Retro- spective	9. BW & Policy	10. P ÍT Selector s	11. Stage 1'  Apps	11. XKS Stage2	CA  Server	Cavium  Included  ?
+MUSC												18.1.7					1.5.5-  146	IBM  3650	yes
+XCUT												15.6.1					n/a	HP  DL180	no
+TEC												15.6.1					n/a	Dell  2950	no
+MHS												13.1.6					1.5.5.23  4	Dell  2950	no
+G1												3.1.6					1.5.5- 14 x	Dell  2950	no
+G3												3.1.6					1.5.5- 14 x	Dell  2950	no
+S 5G												17.1					n/a	Dell  2950	no
+S BCH					1												1.5.5- 14 x	Dell  2950	no
+GH												18.1.6					1.5.5-  145	IBM  3650	Eventua  lly*
+JCE  20G**																		IBM  3650	yes
+240G  (6/11)																		IBM  3650	yes
+PSK  Defensi  ve  (1/11)																		IBM  3650	Eventua  lly*
+Remaini  ng  Defensi ve (9 sites)									—TOP	SECFU	* Cavil  ** JCE  ET//COM	jm card: 20G is a  NT//REL	; still to dev sys  'to		be ordi tem	sred fo	r these si	tes	IBM  3650	Eventua  lly*
+
+USA, FVEY

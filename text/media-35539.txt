@@ -1,822 +1,638 @@
- 
+﻿Tor Hidden Services
 
-Tor Hidden Services
-How Hidden is ?Hidden??
+How Hidden is ‘Hidden’?
 
- 
+- ICTR Network Exploitation
 
- 
+© This information is exempt under the Freedom of Information Act 2000 (FOIA) and may be exempt under other UK
+information legislation. Refer any FOIA queries to GCFIQ on
 
- 
+Slide 1
 
- 
-
-ICTR Network
-
- 
-
- 
-
- 
-
- 
-
-This information is exempt under the Freedom of Information Act 2000 (FOIA) and may be exempt under other UK
-Slide 1 information legislation. Refer any FOIA queries to GCHQ on
-
- 
-
- 
-
-UK TOP SECRET COMINT
+UK TOP SECRET STRAP1 COMINT
 
 What is Tor?
 
- 
+•	Tor is an implementation of 2ntl generation onion routing
 
- 
+•	Originally sponsored by the US Naval Research Laboratory
 
- 
+•	Later became an Electronic Frontier Foundation project
 
- 
+•	Helps to prevent network traffic analysis & surveillance
 
-- Tor is an implementation of 2nd generation onion routing
+•	Open network with over 2000 nodes
 
-Originally sponsored by the US Naval Research Laboratory
+•	Anonymity tool
 
-    
- 
+•	Uses multiple layers of encryption
 
-Later became an Electronic Frontier Foundation pro'
-- Helps to prevent network traffic analysis surveillance
-Open network with over 2000 nodes
-- Anonymity tool
+• Multi-hop proxy
 
-Uses multiple layers of 
-
-- Multi-hop proxy
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 2 throughout the recipient organisation, dissemination outside the
+. 2 throughout the recipient organisation, bi^£CljfQ|pa§rjei5jvon must	dissemination outside the
 
- 
+__________________________________________________nmamcatinn____________________________________________________
 
- 
-
-UK TOP SECRET COMINT
-
- 
+UK TOP SECRET STRAP1 COMINT
 
 What I have done on Tor
 
- 
+• General Tor research
 
- 
+• HOMING TROLL
 
- 
+- Bridge discovery capability
 
-General Tor research
+•	Hidden Services
 
-HOMING TROLL
-Bridge discovery capability
+•	Helped with a few deanonymisation techniques
 
-Hidden Services
-- Helped with a few deanonymisation techniques
+•	Worked with JTRIG & MCR (Maths & Crypt research)
 
-- Worked with JTRIG MCR (Maths resear
+•	Provided support to OP SUPERIORITY
 
- 
-
-- Provided support to OP SUPERIORITY
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerrmtion under other UK information leaislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 3 throughout the recipient organisation, dissemination outside the
+. , throughout the recipient organisation, bi^^CyQpagrjeisjvori must	dissemination outside the
 
- 
+______________________________________________________nmamcatinn________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
- 
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemDtion under other UK information leaislation. Refer disclosure requests to GCHQ on
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
 
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
+.	. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
- 
+______________________________________________________nmamcatinn________________________________________________________
 
-Slide 4
+UK TOP SECRET STRAP1 COMINT
 
- 
+Alice
+
+U
+
+Ka(Kb( (c( m
+
+sg/^T^ Entry (Guard
+
+)
+
+
 
 Middle
-Node
+B/Node
 
- 
+Af
+P<$) ^
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+Bob
+
+) Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+Slide 5
 
-Slide 5 throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
+throughout the recipient organisation, bi^£0|tQ|pajjijn::::von must	dissemination outside the
 
- 
+n rn -cs m i c ca f i n
 
-UK TOP SECRET COMINT
+UK TOP SECRET STRAP1 COMINT
 
 What is it used for?
 
- 
+• The Good
 
- 
+-	People living in oppressive countries (circumvent firewalls)
 
- 
+-	Access to free media instead of state propaganda
 
- 
+-	People can say what they want without it being linked to their public profile
 
-The Good
-People living in oppressive countries (circumvent firewalls)
-Access to free media instead of state propaganda
-People can say what they want without it being linked t2-
+• The Bad
 
-  
-     
+-	Bot herders use Tor to give instructions to their bots
 
-The
-Bot herders use Tor to give instructions to their bots
-Allows paedophiles access content without linking themse]
-State actors can launch attacks without being attributable
-?Anonymous? LU 
+-	Allows paedophiles access content without linking themselves to it
 
+-	State actors can launch attacks without being attributable
 
+-	“Anonymous” & LULZSec
 
-
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 6 throughout the recipient organisation, dissemination outside the
+. , throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
- 
+______________________________________________________nmanicahnn________________________________________________________
 
- 
-
-UK TOP SECRET COMINT
-
- 
+UK TOP SECRET STRAP1 COMINT
 
 What do we see?
 
- 
+•	Any traffic between the client & tor is heavily encrypted.
 
- 
+•	We can only really see traffic from an exit node to a website
 
- 
+-	But we don’t know where this traffic originated from
 
-Any traffic between the client tor is heavily 
+•	Still could link up aliases though
 
-We can only really see traffic from an exit node to a webs'
-But we don?t know where this traffic originated from
-
- 
-  
-   
-
-Still could link up aliases though
-
-?Somebody? could still visit a dodgy forum and log in with
-send an email using a known target email address (Ass
+-	‘Somebody’ could still visit a dodgy forum and log in with an alias, or even
+send an email using a known target email address (Assuming they don't
 use SSL).
 
-at least there is some intelligence RightZE?z?
+•	Phew... at least there is some intelligence gain.... Right?
 
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
 
-Slide 7 throughout the recipient organisation, dissemination outside the
+. 7 throughout the recipient organisation, bi^^CÿQipaçrjeisjvori must	dissemination outside the
 
- 
+_______________________________________________________nmamcatinn__________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
-UK TOP SECRET COMINT
-
- 
-
-Hidden Services
-
- 
-
- 
-
- 
-
-. Hides the IP address of a web service
 . Protects content providers by anonymously hosting content
-Publication of undesirable content
+. Publication of undesirable content
 
 . Both client and server are anonymous to an observer and to each other
 
-ii
+Normal Tor
 
-  
+User	Website
 
- 
+Clear text
 
-Normal Tor Hidden 
-User Website User
-- 
-Clear text 
+Hidden Services
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+User	Website
+
+Encrypted
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 8 throughout the recipient organisation, dissemination outside the
+throughout the recipient organisation, bi^£CI|fQ|paj-ijn:ssion must	dissemination outside the
 
- 
+____________________________________________________nrnanicatinn_____________________________________________________________
 
- 
+Slide 8
 
-UK TOP SECRET COMINT
+UK TOP SECRET STRAP1 COMINT
 
- 
+• Not much...
 
-So what do we see now?
+• All Hidden Service traffic is heavily encrypted.
 
- 
+• Most we can gather is that one Tor node talks to another (IP level)
 
- 
+• Hiding in the crowd at its best!
 
- 
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerrmtion under other UK information leaislation. Refer disclosure requests to GCHQ on
 
-   
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Not 
+fe 9 throughout the recipient organisation, bi^£Cf|fQ|paçrjeisjvori must	dissemination outside the
 
-- All Hidden Service traffic is heavily 
+	
 
-Most we can gather is that one Tor node talks to an i 
- 
+The dot com onion BOOM
 
-Hiding in the crowd at its best! 
+•	What’s this .onion business?
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+-	TLD Tor uses to initiate a connection to a hidden service
+
+•	Example onion domain
+
+-	16 characters in base32 (few characters are actually missing)
+
+-	oqznfi3tdo6nwg3f.onion
+
+•	DNS?
+
+-	Tor uses something similar to DNS to resolve an onion domain
+
+-	Onion domains ‘resolve’ to 3+ IP addresses called Introduction Points (IPT)
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
+
+. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
+
+________________________________________________________nrnanicafinn_________________________________________________________
+
+UK TOP SECRET STRAP1 COMINT
+
+• The actual Hidden Service (HS)
+
+- Where the service actually originates from
+
+•	User
+
+-	The user who wishes to access the Hidden Service
+
+•	Hidden Service Directory (HSDir)
+
+-	A directory server that hold information on a Hidden Service
+
+•	Introduction Point (IPT)
+
+-	Hidden Service’s ‘front door’ / relay
+
+•	Rendezvous Point (RP)
+
+-	Client’s ‘front door’ / relay
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
+
+je throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
+
+UK TOP SECRET STRAP1 COMINT
+
+2.	HS uploads descriptor to HSDir
+
+3.	Client finds out about HS
+
+4.	Client requests descriptor from HSDir
+
+5.	Client selects a random RP
+
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 9 throughout the recipient organisation, dissemination outside the
+je Y2 throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
- 
+UK TOP SECRET STRAP1 COMINT
 
- 
+Fitting it together
 
- 
+1.	HS selects random IPTs
 
-0 What?s this .onion business?
-TLD Tor uses to initiate a connection to a hidden service
+2.	HS uploads descriptor to HSDir
 
- 
- 
-  
+3.	Client finds out about HS
 
-- Example onion domain
-16 characters in b85632 (few characters are actually missing) it
-oqznfi3td06nwg3f.onion
+4.	Client requests descriptor from HSDir
 
-- 
-Tor uses something similar to DNS to resolve an onion
-Onion domains ?resolve? to 3+ IP addresses called Inttod IPT)
+5.	Client selects a random RP
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 10 throughout the recipient organisation, dissemination outside the
+. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
- 
+______________________________________________________nmamcatinn________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
-UK TOP SECRET COMINT
+Fitting it together
 
- 
+1.	HS selects random IPTs
 
-Pieces of the Jig-Saw
+2.	HS uploads descriptor to HSDir
 
- 
+3.	Client finds out about HS
 
- 
+4.	Client requests descriptor from HSDir
 
- 
+5.	Client selects a random RP
 
-- The actual Hidden Service (HS)
-Where the service actually originates from
+6.	Client contacts one IPT
 
-User
-The user who wishes to access the Hidden Service
+7.	HS replies to RP
 
-  
- 
+8.	RP relays between client and HS
 
-- Hidden Service Directory 
-A directory server that hold information on a Hidden Servi
-
-Introduction Point (IPT)
-Hidden Service?s ?front door? relay
-
-Rendezvous Point (RP)
-Client?s ?front door? relay
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
 
-Slide 11 throughout the recipient organisation, dissemination outside the
+. . . throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
- 
+______________________________________________________nmamcatinn________________________________________________________
 
- 
-
-UK TOP SECRET COMINT
-
- 
+UK TOP SECRET STRAP1 COMINT
 
 Fitting it together
 
- 
+1.	HS selects random IPTs
 
- 
+2.	HS uploads descriptor to HSDir
 
- 
+3.	Client finds out about HS
 
-1. HS selects random IPTs
+4.	Client requests descriptor from HSDir
 
-2. HS uploads descriptor to 
+5.	Client selects a random RP
 
-3. Client finds out about HS
+6.	Client contacts one IPT
 
-4. Client requests descriptor from 
-5. Client selects a random RP
+7.	HS replies to RP
 
-6. Client contacts one IPT
+8.	RP relays between client and HS
 
-7. HS replies to RP
-
-8. RP relays between client and HS -7
-
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may disseminated
-
-Slide 12 throughout the recipient organisation, dissemination outside the
-
-UK TOP SECRET COMINT
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-1. HS selects random IPTs
-2. HS uploads descriptor to 
-3. Client finds out about HS
-
-4. Client requests descriptor from 
-
- 
-
-5. Client selects a random RP
-6. Client contacts one IPT
-7. HS replies to RP
-
-8. RP relays between client and HS
-
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may Edisseminated
-
-Slide 13 throughout the recipient organisation, dissemination outside the
-
-UK TOP SECRET COMINT
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-1. HS selects random IPTs
-2. HS uploads descriptor to 
-3. Client finds out about HS
-
-4. Client requests descriptor from 
-
- 
-
-5. Client selects a random RP
-6. Client contacts one IPT
-7. HS replies to RP
-
-8. RP relays between client and HS
-
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may Edisseminated
-
-Slide 14 throughout the recipient organisation, dissemination outside the
-
-UK TOP SECRET COMINT
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-1. HS selects random IPTs
-2. HS uploads descriptor to 
-3. Client finds out about HS
-
-4. Client requests descriptor from 
-
- 
-
-5. Client selects a random RP
-6. Client contacts one IPT
-7. HS replies to RP
-
-8. RP relays between client and HS
-
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may Edisseminated
-
-Slide 15 throughout the recipient organisation, dissemination outside the
-
-UK TOP SECRET COMINT
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-1. HS selects random IPTs
-2. HS uploads descriptor to 
-3. Client finds out about HS
-
-4. Client requests descriptor from 
-
- 
-
-5. Client selects a random RP
-6. Client contacts one IPT
-7. HS replies to RP
-
-8. RP relays between client and HS
-
- 
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may disseminated
-
-Slide 16 throughout the recipient organisation, dissemination outside the
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-   
-
- 
-
-6. Client contacts one IPT
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other IIK information leoislation Refer disclosure requests to GCHQ on
-
-Contains Intellectual Property owned and/or managed by uwnersnip ULHU. Ine material may be disseminated
-throughout the recipient organisation, but GCHQ permissi .n must be obtained for dissemination outside the
-
- 
-
-Slide 17
-
- 
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-   
-
- 
-
-7. HS replies to RP
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
-
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permissi .n must be obtained for dissemination outside the
-
- 
-
-Slide 18
-
- 
-
- 
-
-Fitting it together
-
- 
-
- 
-
- 
-
-   
-
- 
-
-8. RP relays between client and HS
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permissi .n must be obtained for dissemination outside the
 
- 
+. _5 throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
-Slide 19
+______________________________________________________nmamcatinn________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
- 
+1.	HS selects random IPTs
+
+2.	HS uploads descriptor to HSDir
+
+3.	Client finds out about HS
+
+4.	Client requests descriptor from HSDir
+
+5.	Client selects a random RP
+
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerriDtion under other UK information leaislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ- The material may be disseminated
+Sl'd 16 throughout the recipient organisation, bL^^OjIgipermissmn must	dissemination outside the
+
+bliae	r, ic- if irt rl
+
+UK TOP SECRET STRAP1 COMINT
+
+Fitting it together
+
+1.	HS selects random IPTs
+
+2.	HS uploads descriptor to HSDir
+
+3.	Client finds out about HS
+
+4.	Client requests descriptor from HSDir
+
+5.	Client selects a random RP
+
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to ex^rnntion Iinripr nthpr I IK information Ipnklation Rpfpr Hkrlosure requests to GCHQ on
+
+I
+
+Contains Intellectual Property owned ana/or managed oy uwnersmp ULiig. i ne material may be disseminated
+
+. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
+
+______________________________________________________nmanicatinn________________________________________________________
+
+UK TOP SECRET STRAP1 COMINT
+
+Fitting it together
+
+1.	HS selects random IPTs
+
+2.	HS uploads descriptor to HSDir
+
+3.	Client finds out about HS
+
+4.	Client requests descriptor from HSDir
+
+5.	Client selects a random RP
+
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerrmtion under other UK information leaislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+
+. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
+
+_____________________________________________________nmamcahnn________________________________________________________
+
+UK TOP SECRET STRAP1 COMINT
+
+Fitting it together
+
+1.	HS selects random IPTs
+
+2.	HS uploads descriptor to HSDir
+
+3.	Client finds out about HS
+
+4.	Client requests descriptor from HSDir
+
+5.	Client selects a random RP
+
+6.	Client contacts one IPT
+
+7.	HS replies to RP
+
+8.	RP relays between client and HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+
+. throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
+
+______________________________________________________nmanicahnn________________________________________________________
+
+UK TOP SECRET STRAP1 COMINT
 
 Possible Exploits?
 
- 
+•	Rendezvous Point (RP)
 
- 
+-	What if we owned the RP?
 
- 
+-	Traffic still encrypted, although only a single layer of encryption
 
-- Rendezvous Point (RP)
-What if we owned the 
-Traffic still although only a single layer of 
-Still only content, don't know who the user is or where the HS is located
-Clients randomly select their RP so unlikely to be picked anyway
+-	Still only content, don’t know who the user is or where the HS is located
 
-   
+-	Clients randomly select their RP so unlikely to be picked anyway
 
-- Hidden Service Directory 
-If we take a down, there are still many left
-Could potentially collect onion domains if we acted as a 
+•	Hidden Service Directory (HSDir)
 
-Client
-No real way to distinguish between a Tor user accessing the web or a HS
+-	If we take a HSDir down, there are still many left
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+-	Could potentially collect onion domains if we acted as a HSDir
+
+•	Client
+
+-	No real way to distinguish between a Tor user accessing the web or a HS
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
-Contains Intellectual Property owned and/or managed by uwnersnip Ine material may be disseminated
-throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
+Contains Intellectual Property owned ana/or managed oy uwnersmp ULiiy. i ne material may be disseminated
 
- 
+. 20 throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
-Slide 20
+______________________________________________________nmamcatinn________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
-- Introduction Points (IPT)
+• Introduction Points (IPT)
 
-All Hidden Service IPTs are listed on its descriptor (the thing that?s stored
-on a 
+-	All Hidden Service IPTs are listed on its descriptor (the thing that’s stored
+on a HSDir)
 
-Potential for an attack on IPTs to stop them accepting connections for the
+-	Potential for an attack on IPTs to stop them accepting connections for the
 HS
 
-This could be done using a ?Coil Attack?
+-	This could be done using a ‘Coil Attack’
 
-  
+- HS can encrypt their IPTs in their descriptor (but not many do)
 
-Doesn?t stop a HS selecting another set of IPTs
-HS can their IPTs in their descriptor (but not many do)
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerrmtion under other UK information leaislation. Refer disclosure requests to GCHQ on
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
+Contains Intellectual Property owned and/or managed by Ownership GCFIQ. The material may be disseminated
 
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-Slide 21 throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
+. y! throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
-  
+________________________________________________________nrnanicafrmn_________________________________________________________
 
-- Hidden Service (HS)
-What about exploiting the HS directly?
+UK TOP SECRET STRAP1 COMINT
 
-Potential to identify the IP addresses hidden services
-- But cant really say which one
+• Hidden Service (HS)
 
-Identified a beaconing pattern from HS
-Dependant on collection posture
+- What about exploiting the HS directly?
 
-Great for PRESTON
+- Potential to identify the IP addresses hidden services
 
- 
+• But cant really say which one
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+-	Identified a beaconing pattern from HS
+
+-	Dependant on collection posture
+
+-	Great for PRESTON
+
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
 
- 
+. 22 throughout the recipient organisation, bi^£Cyg|paçrjeisjvon must	dissemination outside the
 
-Slide 22
+______________________________________________________nmamcatinn________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
- 
+> Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to ex^rnntion Iinrlpr nthpr I IK information Ipnklation Rotor disclosure requests to GCHQ on
 
-Idle Client Beacons
+Contains Intellectual Property owned and/or managed by Ownership GCHQ- The material may be disseminated
 
- 
+Slide 23 throughout the recipient organisation, bi^£CI|t§|pafirjB{s^on must	dissemination outside the
 
- 
+nrna n i c i n
 
- 
+UK TOP SECRET STRAP1 COMINT
 
-400m Eiijiijlrn 
-
- 
-
- Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemnfion under other UK information leoislafion Refer disclosure requests to GCHQ on
-
- 
-
-Contains Intellectual Property owned and/0r managed by Ownership GCHQ. The material may be disseminated
-
-Slide 23 throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
-
- 
-
- 
-
-Idle HS Beacons
-
- 
-
- 
-
- 
-
-ilii ill  illili-r?fi.  itm'll Ii'ina'li I   . ii . ii illili-ri'i'i i .
-
-200m 400m EDUITI EUUITI 12UDITI
-
-. id
-
- 
-
- Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+> Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
- 
+Contains Intellectual Property owned and/or managed by Ownership GCHQ- The material may be disseminated
 
-Contains Intellectual Property owned and/0r managed by Ownership GCHQ. The material may be disseminated
+Slide 24 throughout the recipient organisation, bi^£CI|t§|pafirjB{s^on must	dissemination outside the
 
-Slide 24 throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
+nrna n i c i n
 
- 
-
- 
+UK TOP SECRET STRAP1 COMINT
 
 Summary
 
- 
+•	Tor helps people become anonymous
 
- 
+•	Very naughty people use Tor
 
- 
+•	Hidden Services hide the fact web content even exits!
 
-- Tor helps people become anonymous
+•	Near impossible to figure out who is talking to who
 
-- Very naughty people use Tor
+•	Its complicated
 
-- Hidden Services hide the fact web content even exits!
-- Near impossible to figure out who is talking to who
+•	Some areas for further research
 
-Its complicated
+•	Until then... Doesn't stop us from using them
 
- 
-
-Some areas for further research
-
-Until Doesn?t stop us from using them
-
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
 
 Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permission must be obtained for dissemination outside the
 
- 
+. 25 throughout the recipient organisation, bi^£CljfQ|paçrjeisjvori must	dissemination outside the
 
-Slide 25
+_________________________________________________________nmamcatinn____________________________________________________________
 
- 
+UK TOP SECRET STRAP1 COMINT
 
 Questions?
 
-  
+© Crown Copyright. All rights reserved. This Information Is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exerriDtion under other UK information leaislation. Refer disclosure requests to GCHQ on
 
-Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
-2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
+Contains Intellectual Property owned and/or managed by Ownership GCHQ- The material may be disseminated
 
-Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
-throughout the recipient organisation, but GCHQ permiss? must be obtained for dissemination outside the
-
- 
-
-Slide 26
-
- 
-
+Sl'd 26 throughout the recipient organisation, bL^^OjIgipermissmn must	dissemination outside the

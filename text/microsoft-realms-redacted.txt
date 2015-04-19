@@ -1,44 +1,35 @@
-  
-  
- 
- 
+﻿From:	(TDB - Residential Contractor)
 
-From: (TDB - Residential Contractor)
-Sent: 24 Novem er 2009 13:57
+Sent: 24November2O09 13:57
 
-(OPASSOS - Residential Integree);? (TDB -
+To^^^^H^B(OPASSOS - Residential Integree);
 
 (OPAACD - Employee)
-(OPAACD - Employee);? (TSE -
+
+Cc:^H^^^^^^^^^^OPAaCD - Employee);
+Employee)
 
 Subject: RE: (U) MUSCULAR and realms
 Classification: SECRET
-I can answer this.
+I can answer this
 
- 
+(TDB
 
- 
+(TSE -
 
- MP does not reject selectors based on their realm is wrong here). MP will
-accept any targeting into its pool as long as it passes po icy and legality checks, aka
-front door rules. These do not test the selector value or its realm. However, MP (V6) will
+... MP does not reject selectors based on their realm	is wrong here). MP will
+
+accept any targeting into its pool as long as it passes the policy and legality checks, aka
+front door rules. These do not test the selector value or its realm. However, MP (v6) will
 not deploy any targeting for realms other than emailAddr, google, msnpassport and
 yahoo. So for the unsupported realms, UTT should still be getting an Added or Updated
 targeting action response from MP (implying the targeting is in the pool), but an empty
-targeting summary since it did not go 
+targeting summary since it did not go anywhere....
 
-NSA could send us whateyer realms they like right now, but the targeting just won't go
+NSA could send us whatever realms they like right now, but the targeting just won't go
 anywhere unless it's of one of the above 4 realms. I hope they don't as we've not sized
+our database to cater for all it...
 
-our database to cater for all 
+Hope this all makes sense...
 
-Hope this all makes 
-
- 
-
-  
-
-MONKEY PUZZLE Dev Team
-
- 
-
+NKEY PUZZLE Dev Team

@@ -1,2107 +1,1786 @@
- SigDev
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL)VPN SigDev
 Basics
 
-831244 - OTTERCREEK
+S31244 - OTTERCREEK
 
- 
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+______Declassify On: 20341101
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TOP TO USA, FVEY
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-UNCLASSIFIED 
+UNCLASSIFIED
 
- 
+(U) What is a VPN?
 
- 
-
-(U) What is a 
-
-- (U) A Virtual Private Network or VPN is a
-computer network that uses to
+•	(U) A Virtual Private Network or VPN is a
+computer network that uses encryption to
 securely connect remote users/networks over
 an otherwise insecure network, usually the
 public internet.
 
-- (U) Common Types:
-PPTP, lPSec, SSL
-- (U) Public Key 
+•	(U) Common Types:
 
-a Diffie-Hellman, RSA
+° PPTP, IPSec, SSL
 
- 
+•	(U) Public Key Encryption
+° Diffie-Hellman, RSA
 
-UNCLASSIFIED 
+UNCLASSIFIED
 
- 
-
- 
+UNCLASSIFIED
 
 (U) PPTP
 
-(U) Microsoft Point?to?Point Tunneling
+•	(U) Microsoft Point-to-Point Tunneling
 Protocol
 
-- (U) Control Channel
-a TCP port 1723
+•	(U) Control Channel
+° TCP port 1723
 
-- (U) Data Channel
-Protocol 47
+•	(U) Data Channel
 
-(U) RFC 2637, RFC 3078
+° GRE-Next Protocol 47
+
+•	(U) RFC 2637, RFC 3078
 
 UNCLASSIFIED
 
-UNCLASSIFIED 
+UNCLASSIFIED
 
- 
+(U)IPSec
 
- 
+•	(U) Authentication
 
+° Pre-shared key (PSK) or Public key certificates
 
-
-- (U) Authentication
-a Pre-Shared key (PSK) or Public key certificates
-
-- (U) packets are used for key exchange
+•	(U) ISAKMP/IKE packets are used for key exchange
 and to establish the secure connection
 
-a UDP port 500, 4500; TCP port 500
+° UDP port 500, 4500; TCP port 500
 
-- (U) ESP packets contain the data
-a IP Next Protocol 50; UDP port 500
-- (U) RFC2402, RFC2406, RFC2409, RFC4306, RFC2408
+•	(U) ESP packets contain the encrypted data
+° IP Next Protocol 50; UDP port 500
+
+•	(U) RFC2402, RFC2406, RFC2409, RFC4306, RFC2408
 
 UNCLASSIFIED
 
-UNCLASSIFIED 
+UNCLASSIFIED
 
- 
+(U) IPSec in a nutshell
 
- 
+UNCLASSIFIED
 
-(U) lPSec in a nutshell
+UNCLASSIFIED
 
- 
+(U) SSL/TLS
 
- 
+•	(U) Secure Sockets Layer/Transport Layer
+Security
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-UNCLASSIFIED 
-
-   
-
-UNCLASSIFIED 
-
- 
-
- 
-
-(U) 
-
-- (U) Secure Sockets Layer/Transport Layer
-Secur?y
-
-- (U) e-commerce tons of
+•	(U) WARNING! e-commerce = tons of
 uninteresting SSL traffic
 
-- (U) Common ports: TCP ports 443, 995
-- (U) RFC2246, RFC4346, RFC5246
+•	(U) Common ports: TCP ports 443, 995
 
-
+•	(U) RFC2246, RFC4346, RFC5246
 
 UNCLASSIFIED
 
-UNCLASSIFIED 
+UNCLASSIFIED
 
 (U) SSL in a nutshell
 
- 
-
- 
-
-
+Certificate
 
 Subject
 Validity
+Public Key
 
+Issuer
 
-
- 
+Etc...
 
 CL
 
- 
+Eh
 
- 
+T
 
- 
+(U) SSL Exchange
 
-Issuer
--
+1	Client connects to server
 
- 
+2	Server sends cert to client
 
- 
+3	Client validates cert
 
- 
+4	Key exchange
 
- 
+s Pass encrypted material
 
- 
+l	I	ll —f
 
- 
+UNCLASSIFIED
 
- 
+(TS//SI/REL) Who works VPNs?
 
- 
+(TS//SI//REL) VPN Workin
 
-El?lT
+o vpn)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-i 5. Pass material 
-
- 
-
-ILJ) Exchange
-
-1. Client connects to server
-2. Server sends cert to client
-3. Client validates cert
-
-4. Key exchange
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Who works 
-
-VPN Workini Groui vpn)
-
-a 52, 556, CES (OTTERCREEK, NSP, 531322, S3117,
+S2, SSG, CES (OTTERCREEK, NSP, S31322, S3117,
 S3112), TAO, etc.
 
-Alias=?
-(Board alias=?)
+(ts//si//rel) Alias:
 
-Meets every other Thursday at 1300
+(Board alias:
 
-TOP T0 USA, AUS, CAN, GBR, NZL 
+)
 
+(ts//si//rel) Meets every other Thursday at 1300
 
-Who works 
+(TS//SI/REL) Who works VPNs?
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-etermIne Intel and Report
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(TS//SI//REL) So you think your
+target is using a VPN...
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(TS//SI//REL) SigDev Tools
 
--82 (if tasking needed)
-- S3112
+(ts//rel) VPN Specific
 
-- TAO
-
-- OTTERCREEK
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
- 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
-So you think your
-target is using a 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-   
-
-TOP TO USA, AUS, CAN, GBR, NZL 
-
-SigDev Tools
-
- 
-
- 
-
- 
-
- 
-
-VPN Specific AISO useful
-
-- BEEAKINQUIRAF - MARINA
-
-. msconom 
-
-TOYGRIPPE - PINWALE
-- RENOIR
-- TREASUREMAP
-- TUNINGFORK
-- XKEYSCORE
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
+• BLEAKINQUIRY
+DISCOROUTE
 TOYGRIPPE
 
-Database of VPN metadata
-lPSec, PPTP, ViPNet
+(ts//rel) Also useful
 
-TOP TO USA, AUS, CAN, GBR, NZL
+•	MARINA
 
- 
+•	MASTERSHAKE
 
-?le Edit view History Bookmarks IOUIS ?ela USA, AUS, CAN, GBR, NZL
+•	NKB
 
-Standard F?fh'l - Mozilla FIFEFOK
+•	PIN WALE
+
+•	RENOIR
+
+•	TREASUREMAP
+
+•	TUNINGFORK
+XKEYSCORE
+
+TOP SEC
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) TOYGRIPPE
+
+• (TS//SI//REL) Database of VPN metadata
+° IPSec, PPTP, ViPNet
+
+TOP SECRET//COMINT//REL TO USA, AUS,
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Standard Form - Mozilla Firefox
+
+Rie Edi: View History Bookmarks Tools Heb
+
+öl
+
+XKEYSCDRE jTOrGRIPPE NKB: Home ^NKB Disco Route Roadoed.netMvPage g|Gold=oint
 
 
 
- 
-   
+XK Results
 
-  
-  
+♦Logoff
 
- 
+Query
 
- 
+♦standard
 
-@?oreRlPPE ?NKBDisco Route @eolo3oint
+♦FreeForm
 
- 
-
- 
-
-XK Resuts
-QLogo?
-
-.Standard
-OFreeFom'l
 Results
-OAllHelets
-.View
-OExcel
-0m
+
+♦AIIResults
+
+♦view
+
+♦Excel
+
+♦Text
+
 Delimited
+
 Preferences
-.General
+
+♦General
 
 Help
-9m:
-. 0 meat Us
 
-Done
+♦fao
 
-It Standard 
+♦contact Us
 
- 
+J0
 
- 
+Standard Forrr
 
-lDate Range(Required):
+□
 
- 
+Execute Clear Al
 
- 
+)ate Range(Required):
 
- 
+STAHf: 14 |f 11 I ? |/[ 2011 ;|
 
- 
+Second level
+rd.
 
- 
+|j Ja :_j 2011 T I - 100 t\:
 
+^ F ou
 
+Data Fields:
 
- 
+level
 
+=ield Information:
 
+** Uss checkooxes to exclude the Indicated value. *
+Sites	|~	^ 11
 
-?1
+□ Selected Sites f~t][ Remove |
+Sources	I ACTIVE_SURVEY
 
- 
+I LllsjNotaloV- V C
 
+□	Selected Sources [ t\\ Remove I
 
+□	Case Notation
 
+□	Vendor Name
 
+□	Source CIDR ____________________
 
- 
+□	Destination CIDR
 
+□	Source Company
+D Dest, Company
 
+□	Source Country
 
- 
+□	Dest. Country
 
- 
+□	Source Domain
 
-DSecondlevel
+Site
 
- 
+’N Type
 
-a ardlevel
-smatll. 00 :71. .
-
-lDisplay Fields:
-
- 
-
- 
-
- 
-
- 
-
- reaming!
-
- 
-
- 
-
-
--
-
- 
-
-|Dara Fields:
-
- 
-
-Slles
-Selected Sites
-Sources
-Selected Sources
-El Case Notation
-El Vendor Name
-Source CIDR
-Destination CIDR
-Source Company
-Best. Company
-Source Country
-Best. Country
-Source Domain
-El Dest. Domain
-
-El Info Name
-
-U53 CHECKJOXBS I0 EXCILIEIB the indicated value. 
-
-Query data fields based o1 constraintsJPN Type
 Geo Source Country
-
-Source |3 Address
-
-I
-- .
-A
-
-Destinator IPAddress
-Geo Destination 
+Source I3Address
+Destinât or IP Address
+Geo Destination Country
 IPSEC Authentication Name
 
-I 
+□	Dest, Domain
 
- 
+□	Info Name	i)
 
- 
+Query data fields based oi AND ± | constraints.
 
- 
+Save Standard Query:		
+Queiy Name :		
+Description :		
+I Store I		
 
- 
-
- 
-
- 
-
-=ie|d|nlormalior1
-
- 
-
-Timestan?p: The tin'estamp of
+* Timestarrp: The tiiTestamp of
 the traffic as provided by the
-source. (dtTin?e, tin'estamp)
+source, (dtTiire, tiirestamp)
 
- 
+5ort ] [ Up I [ Down [
 
- 
-
- 
-
- 
-
- 
-
-
-
-
- 
-
- 
-
- 
-
-Save as default Clear Reset to Default
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-I IIP Addresses(Ranges and Wildcards Accepted]:
-
- 
-
- 
-
- 
-
- 
-
- 
+|IP Addresses(Ranges and Wildcards Accepted):
 
 Source IP Addresses
 
-:1
+Source IP Ports
 
- 
+Clear Addresses File. ..
 
- 
+Destinât on IP Addiesses
 
- 
+Destinât on IP Ports
 
- 
+Clear j| Addresses File
 
- 
+CoisTain resUtsto source AND î destination P Address matches.
 
- 
+Execute 11 ClearAI |
 
-Save Standard Query:
+3
 
-Destinaton IP Addresses
+(ts/zreuTYG Tips:
 
- 
-
- 
-
-Quer Name: 
-
-I Source IP PortsC]
-
- 
-
- 
-
-Descriptim 
-
-Clear Addresses 
-
- 
-
-Destinaton IP PortsC]
-Clear Addresses 
-
-Cmst'ain to Emma destination Address matdtes.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Store
-
- 
-
- 
-
- 
-
- 
-
-Tim?s:
-
-9 Populate ?Display
+0 Populate "Display
 Fields"
 
-9 For both directions
-between 2 lps, use
+0 For both directions
+between 2 Ips, use
 AND
 
-9 For either direction
+0 For either direction
 connecting to a
-single lP, put IP in
+single IP, put IP in
 both "Source" and
 "Destination" boxes,
 and use OR
 
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Eile Edit yiew History Bookmarks IOOIS
-
-4:
-
-{a XKEYSCORE
-
-31 Results
-
-Done
-
-to
-
-?op
-
-    
- 
-
-I NI 0 Query Results
-
-USA
-
-TO USA
-
-TO USA,
-TO USA.
-TO USA,
-TO USA:
-TO USA,
-TO USA,
-TO USA.
-TO USA,
-TO USA:
-TO USA,
-TO USAUSA,
-TO USA.
-TO USA,
-TO USA,
-TO USA,
-TO USA,
-TO USA.
-TO USA,
-
-TO USA:
-
-TO USA,
-TO USAUSA
-
-.Fvcv
-.FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-.FVEY
-
-,FyEv
-
-.FyEv
-.FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-FVEY
-.FVEY
-
-,Fvcv
-.FVEY
-.Fvcv
-.FVEY
-
-FVEY
-
-2011-04-02 63:23:33.0
-2011-04-02 69:13:14.0
-2011-04-02 10' .100
-2011-04-02 11:31:53.0
-2011-04-03 12:22:03.0
-2011-04-03 61:03:00.0
-2011-04-03 61:54:35.0
-2011-04-03 63:24:56.0
-2011-04-03 64:53:03.0
-2011-04-01 11:3'i':430
-2011-04-01 
-2011-04-01 12:51:03.0
-2011-04-01 60:03:15.0
-
-2011-04-03 65:41:2'i'0
-2011-04-03 66:25:53.0
-2011-04-03 6?:56030
-2011-04-03 63:42:05.0
-2011-04-03 69:32:55.0
-2011-04-03 10:16:16.0
-2011-04-03 10:59:33.0
-2011-04-03 11:50:23.0
-2011-04-03 12:34:43.0
-2011-04-03 12:34:45.0
-2011-04-03 12:34:44.0
-2011-04-03 61:23:51.0
-2011-04-03 13:23:50.0
-2011-04-03 13:23:51.0
-2011-04-02 66:52:02.0
-2011-04-02 
-2011-04-02 66:16:31.0
-2011-04-02 
-2011-04-02 65:34:51.0
-2011-04-02 60:13:42.0
-2011-04-02 60:01:51.0
-2011-04-02 60:13:41.0
-
-2011-04-02 60:16:51.0
-
-WNKB Disco Route ZlRoaddednetMyPage
-
-KLDA300001M1100
-
-KLDA300001M1100
-
-KLDA300001M11
-KLDAB00001M11
-KLDA300001M1100
-
-KLDA300001M1100
-
-
-
-KLDA300001M1100
-KLDA300001M1100
-KLDA300001M1100
-KLDA300001M1100
-KLDAB00001M1100
-KLDA300001M1100
-KLDAB00001M1100
-
-
-
-
-
-KLDA300001M1100
-KLDAB00001M1100
-
-
-
-KLDA300001M1100
-KLDA300001M1100
-KLDAB00001M1100
-KLDA300001M1100
-KLDA300001M1100
-KLDA300001M1100
-KLDA300001M1100
-
-
-
-
-GoldPoint
-
- 
-
-UKJ-260D
-
-UKJ-260D
-
-UKJ-260D
-US-966E
-UKJ-260D
-DS-300
-DS-300
-UKJ-260D
-UKJ-260D
-UKJ-26DD
-UKJ-260D
-UKJ-260D
-UKJ-260D
-UKJ-260D
-
-DS-2003
-
-UKJ-260D
-UKJ-260D
-
-
-UKJ-260D
-UKJ-260D
-UKJ-260D
-UKJ-260D
-UKJ-260D
-UKJ-26DD
-UKJ-260D
-DS-300
-
-DS-300
-
-id
-
-
-1
-
-ESP
-IKEVJ.
-ESP
-
-Query Results - Mozilla Ftrefox
-I
-
-oI
-
- 
-
- 
-
-pie-Shared key
-pie-shared key
-pie-shared key
-pie-shared key
-pie-shared key
-pie-Shared key
-pie-shared key
-pie-Shared key
-
-pie-shared key
-
-pie-shared key
-pie-Shared key
-pie-shared key
-pie-Shared key
-pie-shared key
-pie-Shared key
-pie-shared key
-pie-Shared key
-
-pie-Shared key
-
-pl'e-shal'ed key
-pie-shared key
-
-pie-shared key
-
-
-
- 
-
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Query Results - Mozilla Firefox
+
+History Bookmarks Iools Help
+
+a
+
+<,*$ TG YG RIPPE	NKB: Home ¿^NKB Disco Route Roadbed.net MyPage @GoldPoint
+
+L^L^^clit Mas
+
+Q 11®] Query Results Q		QornnH			|P\/<
+TS//SI//REL TO USA, FVEY	2011-04-02 C8:28:38.0	j£\ plRlqQp.1	^J/-2|0D|		1C V1
+TS//SI//REL TO USA, FVEY	2011-04-02 C9:13:14.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 10:48:10 0  n	KpÄfia^oi^i^e£i	_(| l-?r,0 l	Su	rJ
+TS//SI//REL TO USA, FVEY	2011-04-02 11:31:53.0	KiDArfcocU^iiloo"			c 1
+TS//SI//REL TO USA, FVEY	2011-04-03 12:22:03.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 Cl:08:00.0	KK)AB0[pIf|!1|0|	U|Jfro[r	hi	P\/P
+TS//SI//REL TO USA, FVEY	2011-04-03 Cl:54:35.0	KLDABOtfcoif^^o'	■flfj-l6oPr	IKEvl *	
+TS//SI//REL TO USA, FVEY	2011-04-03 03:24:56 0	KLDABOOOOlMliyüJ gK^Otj		IKEvl,	IR , 1
+TS//SI//REL TO USA, FVEY	2011-04-03 04 58:08 0	KLDAB00001M1i|T		Hfc	*V0l
+TS//SI//REL TO USA, FVEY	2011-04-01 11:37:49 0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-01 17:37:33.0	KLV125899750000	US-966E	ESP	DE
+TS//SI//REL TO USA, FVEY	2011-04-01 12.51 08.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-01 00:08 15.0	IRS1037	DS-300	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-01 C0:23:25.0	IRS1037	DS-300	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 05:41:27 0	KLDAB0000LM1100	UKJ-260D	IKEvl	IR
+TSWSI//REL TO USA, FVEY	2011-04-03 06:25:53.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 07:5609.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 08:42:05.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 C9:32:55.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 10:1616.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TSWSI//REL TO USA, FVEY	2011-04-03 10:59:38.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 11:50:29.0	IR1S035	DS-200B	IKEvl	DE
+TS//SI//REL TO USA, FVEY	2011-04-03 12:34:43.0	IR1S035	DS-200B	IKEvl	DE
+TS//SI//REL TO USA, FVEY	2011-04-03 12:34:45.0	IR1S035	DS-200B	IKEvl	DE
+TS//SI//REL TO USA, FVEY	2011-04-03 12:34:44.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TSWSI//REL TO USA, FVEY	2011-04-03 Cl:23:51.0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-03 13:23:50.0	IR1S035	DS-200B	IKEvl	DE
+TS//SI//REL TO USA, FVEY	2011-04-03 13:23:51.0	IR1S035	DS-200B	IKEvl	DE
+TS//SI//REL TO USA, FVEY	2011-04-02 06:5202.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 05:07:51.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 C6:16:31.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 07:48:23.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 05:34:51.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 00:18:42 0	KLDAB00001M1100	UKJ-260D	IKEvl	IR
+TSWSI//REL TO USA, FVEY	2011-04-02 00:01:51.0	KLDAB00001M1100	UKJ-260D	ESP	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 00:18:41,0	IRS1037	DS-300	IKEvl	IR
+TS//SI//REL TO USA, FVEY	2011-04-02 00:16:51.0	IRS1037	DS-300	ESP	IR
+
+TOP SECRET//COMINT//REL TO U
+
+ter text
+
+
+
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	
+IR	
+DE	
+DE	
+DE	
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+DE	pre-shared key
+IR	pre-shared key
+IR	pre-shared key
+IR	
+DE	pre-shared key
+DE	pre-shared key
+IR	pre-shared key
+IR	
+DE	
+DE	
+DE	
+DE	
+DE	
+DE	
+DE	
+DE	
+DE	
 
 0 (U) Export
 results to
-excelor
+excel or
 text doc for
 easier
 sorting.
 
- 
+a
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(TS//SI//REL) XKEYSCORE
 
-l1|
+(ts//rel) Fingerprints
 
-TOP TO USA, AUS, CAN, GBR, NZL I
+•	IPSec
 
+° vpn/esp
+° vpn/isakmp
 
- 
+•	PPTP
 
-XKEYSCORE
+° vpn/pptp*
 
- 
+•	SSL
 
- 
+° network_encyption/ssl
 
- 
+(ts//rel) Search Forms
 
- 
+•	Start with FULL DNI
 
- 
+° vpn/*
 
- 
+° networkencrytion/*
 
- 
+•	IPSec
 
- 
+° IKE Parser
 
-(TS/IREL)FingerprintS (TS/lam Search Forms
-- lPSec - Start with FULL DNI
-a vpn/esp a vpn/*
-a vpn/isakmp a 
-- PPTP -lPSec
-a vpn/pptp* a IKE Parser
-- SSL - SSL
-a a SSL Parser
+•	SSL
 
-TOP TO USA, AUS, CAN, GBR, NZL
+° SSL Parser
 
-Sears?: Lug - Firefm: 
-Eile Ecit ?ew History ?ookmarks Iools ?elp
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-<2  e_ vii} ti
+XK Search: Full Log - Mozilla Firefox
 
-'I?NKB:l?ome ?ukaoiscoacute ZlRoadoednetMyPage @GoldPoint
+Rle Eclt View History Bookmarks Tools Help
 
- 
-
- 
-
- 
-
- 
-
- 
-
-I Search: Ful Log 1 IEI Standard Form 1 
-
-XKEYSCORE Welcome sm'iIsE! I I 
-Home Sea'ch #Vl'orkflo-rCentra Results Fingerprints S:atistics ~?Map atdy Account  XK Forum -lelp'
-ShowiHioe Fields' Advaroej Shot-il?idoen Search Fields Clea'Searzh'JalLles Reloat Last Search Values 
+« ^ Q o 6 §g
 
 
 
-?Searcl? Wzard Search: Full Log
-CNE
-j? Classic
-3 
-j?ClassicA?M
+m
 
+»tfXKEYSCORE ^TOYGRIPFE }> NKB: l-one jj^HKB Disco Reute // Roadbed.net MyPaçe gGoldPoint
+
+XK Search: Ful Log
+
+* (#| Standard Form
+
+XKEY5CQRE Welcome srwils2! Warning: your password has expired! Log Out
+
+■ir^Home 0^ Seaxh	V/orkf lew Centra [f]^ Results p] Fingerprints ^Statistics |§Map My Account XK Ftirum
+
+, Showd-lide Fields* Advarcej Feaiures* Shew l-idden Search Fields Clea- Search Values Reloac Last Search Values
+
+| Navigation Filter x|lkl Eg 1-------------------------
+
+! 2 Searct Wzaid
+aDcME
+3 Qj Classic
+; 0 Q MultlSeareh
+; gQ| Classic AM
+hi] Alert
+
+! S&lackEeriy
+
+2 Call Logs
+^ Category UN
+i-0 Cellular CNI
+21 Cisco Passwords
+| EClarent
+j~H DNS
+
+21 Documem Metadata
+: 21 DocumerU Tagg ng
+2 Email Addresses
+I Extracted Files
+21 Full Log CNI
+2 Geo In'o
+[^1 HTTP Activity
+I 2|KEPa'5er
+hE Keylogger
+: 2 Log ns and Fassword
+21 Machine Info
+2 Microplug n Metadata
+21 ObfuscatlonfMunged'
+□ Q| Classic N-Z
+
+2 Network Information
+
+2 Network Logs
+2 pilbeam
+
+: 2PPFVolPMetacata
+2 Passports from Image:
+
+1 2 Phene Number Extiac
+2 RBGAN
+0 RTF
+
+2 Racius Legs
+i 121 Registiy
+
+Esip
+
+: 2^5F Parser
+; 2SSLF,Erser
+1 EShellcode
+
+IE™
+
+; 2TIPGFF Collection
+; E T°Pic f Tech Strings
+1 2 User Aotivity
+2 User Activity (New/Exf -
+
+Search: Full Log 6
 
 Query Name:
 
-Lackirg ft)? 
-Justi?cation: tratfic to perfarn
-immeew vutr'erabitity assessment.
-?CaHchs
+Justification:
 
- 
+Additional justification:
+Miianda Number:
 
-a Category DN
+Client IP (X-Fowardec-For):
 
-3 Cellular DNI
+WLAN Chanrel:
+Y/LAN SSID:
+WLAN BSSID:
+WLAN DMAC:
+WLAN SMAC:
 
-a Cisto Passwords
+(-S//SI//REL) Lookirg fo-
+tralfic to perfirr
+vnlrerability assessment,________
 
-?gment MirandaNun?lber: I
+Recen: JLStilications
 
-a DNS
+C
 
-a Document Metadata SU'rent Time: 201 14:04:04 GMT
+u'rentTIme: 2011-04-04 14:04:04 GMT
 
-Datetlme: Start: 2011-34-03 00:00 2 Stop: 2011-04-05 00:00 3
+|lDay |t| Start: [ï0:iO4-03 I"5	00:00 Slop: 12011-04-05 Q| 00:00 \^\	0
 
-a Extracted Files
+I	^ [P Address Field Builder!
 
-a Full Lo; DNI
+c
 
-a Geo In?o
+ThB.awip- L audited br USSID18 and Human Fights Art wnpliai»
 
-a Activity
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-3 IE Pa'eer DVBS MAC: I I
+TOP SERET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-a I?leylogger
+XK Search: Full Log - Mozilla Firefox
 
-3 Log ns and Fassword DVBS I I
+Rie Edit View History ¿ookmarks Tools Help
 
-a Machine Info
+ffid XKEYSCORE ¡^TOYGRIPPE !>■ NKB: Home ^NKB Disco Route J/ Roadbed.net MyPage (f) GoldPoint
 
-3 t-licroplug t-letsdata
+XK Search Full Leg
 
-a ObftiscationfMunged 
-6 Classic N-z I
+I [oj Standard Form
 
-Additional ..us:ific:ttion: 
+XKEYSCORE Welcome srwils2! Warning: your nassword has expired! Log Out
 
- 
+<r£Home ^Search if Workflcw Central [“^Results ^ Finge'prints [Ü Statistics @Map ^ My Account îjtXK Forum
 
- 
+|1EK
 
-   
 
-Fi? Hui
 
- 
+II Navigaton Filter
 
- 
+* ö si
 
- 
+[£] Search Wizard
+a □ CNE
+30 Classic
+, B Pi Multi Search
+aQCIasslcA-M
+£] Alert
+£| BlacfcBerry
+£| Call Logs
+3 Category DNI
+2 Cellular DNI
+£1 Cisco Passwords
+ICiaren,
 
- 
+2 DNS
 
-WLAN Chanrel: I I
+£1 Document Metadata
+£| Document Tagging
+P| Emai Addresses
+£] Extracted Files
+£| Full Log DNI
+£| Geo Info
+£| HTTP Activity
+£| IKE Parser
+£]Keylcgger
+£| Logirs and Password
+£| Machine Info
+£] Micrcplugin Metadata
+£1 Obfuseation(Munged
+3 Classics
 
- 
+£| Network Information
+£] Netwark Logs
+£] PILBEAM
+£| PPF VoIP Meiadata
+£| Passports from Image
+£| Phone Number Extrac
+£] RBGAN
+£|rtp
 
- 
+£] Radius Logs
+£| Registry
+£|SIP
 
- 
+£| SSN Parser
+£| SSL Parser
+£]ShellGode
 
- 
+£]tdi
 
- 
+£|TIPOFF Collection
+£|Topic/Tech String:
 
- 
+£| User Activity
+£| User Activity (New/Exp —
 
- 
+c
 
- 
+X
 
- 
+X
 
- 
+Country:
+Country:
+City (IP):
+City (IP):
+Latitude (IP):
+Latitude (IP):
+Longitude (IP):
+Longitude (IP):
 
- 
+Map Field Builder «glons (IP):
 
- 
+Oute'Tunnel IP Address:
+Qute'Tunnel IP Address:
+Outer Tunnel Port:
+Outer Tunnel Pori:
 
-   
-  
+ApsID (+Firgerprints)' ffulltextl:
 
-a Network Information WLAN 
+I From T
 
-a Network Logs
+[ils AND !GB AND ICAAND INZAND !AU v | From t\ © □ One side is not 5-eyes
 
-WLAN BSSID: I I
-a PPF Metacata
+[iLS AND IGB AND ICAAND INZ AND !AU w ¡To t\ & ® Both sides are not E-eyes
 
-a l'nage WLAN DMAC: I I
-a Phone Number Extrac
+c
 
-a REGAN WLAN SMAC: I I
-3 RTF
+I From T
 
-a Racius 
+ED
 
-SGAD: 
+I From t
 
-a SIP
+Ï
 
-355?" Parser 
+I From i
 
-a SSL Parser
+' [Map Field Buildeil
 
-a Shellcode
+I From t] A |IP Address Fiele Builderl
 
-3 TDI Ac?ive 
+[ TO t\ * IIP Address Fiele Builderl
 
-Collection
-3 Topic l' Tech Strings
-a User Aztivity
+I From t ]
 
-a User Activity 
+iT° PI
 
-   
- 
-  
+[Populate wilh Field Builderl
+A [Populate with Tree Field Builderl
 
- 
-  
-
- 
-
-I [Either II
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Done 5
-
- 
-
-0 AK. Full - .Jlulillu  
-
- 
-
- 
-
-Eile Edit git-2W History gookmarks IOOIS jelp
-
-<2 a is its \x
-
-Disco Route 7fRoadbednetMyPage ColdPoint
-
- 
-
- 
-
- 
-
-If; XK Search Full ch I Standard Form 1 I 
-
-XKEYSCORE Welcome srwilsQ!
-
- 
-
- 
-
- 
-
- 
-
- Home Search Results Finge'prints Statistics 3Map EM): Account XK Forum Helpv
-Port: I I IFrom 
-a Search Wizard 
-HECNE Port: I I ITO vI
-SS Classic
-EIMLlItiSearch - 
-AND From One side Is mt 5-6 -s
-jBClassicA-M m? - I:
-?Alert
-a Blackgerw Couttry: ILSAND IGB AND ICAAND INZAND TO 3 El Both sides are not E-eyes
-
- 
-
- 
-
-For initial
-?Clarent
-I
-LatitudethJ: I I 
+0 (ts//rel) For initial
+searches, you may
+want to leave this
 blank to see all of
-3:22:21??  the different kinds
-3 Logirs and Password
-aCellularDNl
-aCisco Passwords a  a
+the different kinds
+of traffic are found
+on the IP pair.
 
-. I I I 
-?DocumentMetadata Latituuetlmi I IFrom I
- W8 0 ea ve IS
-ngitudetlpy I I IFrom 5
-aGeolnfo
-akeylogger
-  at 1 of traffic are found
-a tr'etadata
-awemjrk L095 Oute?TunnellP Addess: I I IT0 I I
-EPILBEAM
 
- 
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+XK Metaviewer:
 
- 
+- Mozilla Firefox
 
- 
+File Edit View History Bookmarks Tools Help
 
- 
+^ ^ - êÿ
 
- 
+ï(£XKEYSCQRE 0TOYGRIPPE ^ NKB Home ^"JKB Disco Route "ft Roadbed.net MyPage gGoldPoint
 
- 
+I® Standard Form	x| @ NKB Disco Route	x [ |5| https://ncmd... 248823681254 x
 
- 
+*] IH
 
- 
+%
 
- 
+XK Metaviewer: 84.11.25.13...
 
- 
+XKEYSCORE Welcome srwils2! Warning: your password has expired!
 
-a PPF 'tl?olP Metaclata A
-OuterTunl'lelPort: I I [From 
-a Phone Number Extract
+"r)r Nome Searcn
+|| Navigation Filter
+1^1 Search Wizard
+aC]CNE
+□ 0 Classic
+S □ MultiSearch
+; aQ ClassicArM
+: o]Alert
+l^l BlackBe'ry
+I ^ Call Logs
+j^l Category DNI
+!m Cellular 3MI
+i -3 Cisco Passwords
+ÆI Clarent
+g] DNS
 
-OuterTunnelPort: I I ITO 
+1^1 Document Metadata
+1^1 Document Tagging
+i 3 Email Addresses
+¿1 Extracted Files
+2 Full Log DNI
+j^l Geo Into
+1 HTTP Aciivity
+¡ HI IKE Parser
+ÆI Keylogger
+¡5 Logins and Passwords
+[^| Machine Info
+1 5 Microplugin Metadata
+LS OWuscation(Munged 1
+a Q Classic N-Z
 
+2 Network nformation
+1^1 Network .ogs
 
-RadiusLo 
+! Upilbeaw
+i BPPFVoIP Metadata
+ÆI Passports from Image;
+lil Phone Number Extrac
+! j^RBGAN
 
-jRegisw ApplicationType?:
+S URTP
 
-HSIP
+Radius Logs
 
-a 55H parse, Application Ilito?: i
+iSI Registry
+; II SIP
+=1 SSH Parser
+1 j=| SSL Parser
+¡^| Shellcode
+j-HTDI
 
- 
+0TIPOFF Collection
+^Topic/Tech String:
 
- 
-   
- 
+1 [^| User Activity
 
-Parser
-gShellcode
+User Activity (New/Exp —
 
+f Workflow Central ~ f Results Fingerprints EtI Statistics £¿¡1 Map My Account ?<£ XK Forum
 
+* fi Si
 
-Collection
-:_ITopicl?Tech Strings ApalD [+Fingerprii1tsJ?I I:
-a LiserActivity
-a UserActivity [Net-ltEitp:
+W Help ActionsT ReportsT View1
+: Sigad
+UKJ-260D
 
-anaemia-inn-
+UKJ-260D
 
-Application:
+UKJ-2G0D
 
-i
+UKJ-260D
 
- 
+UKJ-260D
 
- 
+UKJ-Z60D
 
- 
+UKJ-260D
 
- 
+UKJ-260D
 
+UKJ-260D
 
+UKJ-260D
 
-Done 5
+UKT260D
 
- 
+UKJ-260D
 
- 
+UKJ-Z60D
 
- 
+UKJ-260D
 
-0
+UKJ-260D
 
- 
+UK3-260D
 
- 
+UKJ-260D
 
-Eile Edit View History ?ookmarks Iools
+UKT2G0D
 
-HEIP
+UKJ-260D
 
-'rNKe Home "-1ka3 Disco Route 7fRoadbednetMyPage
+UKJ-Z60D
 
- 
+UKJ-260D
 
-a a 
+UKJ-260D
 
-rt GoldPoint
+UKJ-260D
 
- 
+UKJ-260D
 
- 
+UKT2G0D
 
- 
+UKJ-260D
 
-XK Metayiewer: I Standard Form
+UKJ-Z60D
 
-NKB Disco Route
+UKJ-260D
 
-I i-
+UKJ-260D
+
+UK3-260D
+
+UKJ-26QD
+
+UKJ-260D
+
+UKJ-260D
+
+UKJ-260D
+
+UKJ-260D
+
+» Case notation
+
+KL D A B00001M1100
+
+KL DA BÖÖÖ01M1100
+KL D A B00001M1100
+KLDAB00001M1100
+KLDAB00001M1100
+KL DAB00001M 1100
+
+KL D A B00001M1100
+KL DAB00001M1100
+KL D A B00001M1100
+KLDABOÛ001M1100
+KL DAB00001M1100
+KLDAB00001M1100
+KL DABflOOOlM 1100
+KLDAEOQOOIMIIOO
+KL DAB00001M1100
+KLDAB00001M1100
+KLDAB00001M1100
+KL DAB00001M1100
+KLDAB00001M1100
+KL DABflOOOlM 1100
+KLDABOOOOIMIIDO
+
+KL D A BQ0Q01M1100
+KLDABOOOOIMIIDO
+KLDABOOOOIMIIDO
+KL □ A B00001M1100
+KLDAB00001M1100
+KL DAB00001M1100
+KLDABOOOOIMIIDO
+KL D A BQ0Q01M1100
+KLDABOOOOIMIIDO
+KLDAB00001M1100
+KL □ A B00001M1100
+KLDAB00001M1100
+KL DAB00001M1100
+KLDABOOOOIMIIDO
+
+□atetime »
+2011-04-03 00:00:52
+2011-044)3 00:03:52
+20114)403 00:06:52
+20114)44)3 00:09:52
+20114)403 00:12:52
+20114)403 00:15:52
+20114)403 00:18:52
+20114)403 00:21:52
+20114)403 00:22:01
+20114)403 00:24:52
+20110403 00:27:52
+20114)4031)0:30:52
+20114)403 00:33:52
+2011-0403 00:30:52
+20114)403 00:39:52
+20114)403 00:42:52
+2011-0403 00:45:52
+20114)403 00:51:52
+20114)4031)0:54:52
+20114)403 00:57:52
+20114)403 01:00:52
+20114)403 01:06:31
+20114)403 01:07:58
+20114)403 01:09:53
+20114)403 01:12:53
+20114)403 01:15:53
+20114)403 01:18:53
+20110403 01:21:53
+20114)403 01:24:53
+20114)403 01:30:53
+2011-0403 01:33:53
+20110403 01:36:53
+20110403 01:39:53
+20114)403 01:42:53
+20110403 01:45:53
+
+Datetime E Fm Port
+20110403 0 0
+25114)4-03 0 0
+2011-0403 0 0
+20114)44)3 0 0
+20114)44)31] 0
+2011-0403 0 0
+20110403 0 0
+20114)44)3 0 0
+20110403 0 500
+2011-044)3 0 0
+20114)403 0 0
+2011-044)3 0 0
+2011-044)3 0 0
+20110403 0 0
+2011-044)3 0 0
+20110403 0 0
+2011-044)3 0 0
+20110403 0 0
+2011-044)31] 0
+2011-0403 0 0
+20110403 0 0
+2011-044)3 0 0
+20110403 0 500
+2011-044)3 0 0
+20110403 0 0
+2011-044)3 0 0
+2011-04-03 0 0
+20110403 0 0
+2011-044)3 0 0
+20110403 0 0
+2011-044)3 0 0
+20110403 0 0
+2011-044)31] 0
+2011-04-03 0 0
+20110403 0 0
+
+ToCou To City [IP) To Port Application
+vpnJesp
+ypn/esp
+vpp/esp
+vpnJesp
+ypn/esp
+vprVesp
+vpnJesp
+ypn/esp
+vpp/isakmp
+vpnJesp
+vpafesp
+vpnJesp
+vpnJesp
+vpnJesp
 
- 
+vpnJesp
+vpnJesp
+vpnJesp
+vpp/esp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJisakmp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
+vpnJesp
 
-.
-1 I Home Searct \Norkflo?w Central
+ApgID (+Fingerprints)
+vpnJesp nacJvpnJnrotocollesD
+vpnJesp nacJvpnJorotQcolfesp
+vpnJesp nacJvpnJprotocoUesp
+vpnJesp nacJvpnJgrotocQlJesD
+vpnJesp nacJvpnJarotQCQUesD
+vpnJesp nacJvpnlarotocollesp
+vpnJesp nacJvpnJprotocoUesp
+vpnJesp nac/vpnJarotocotJesp
 
-3 Search Wizard
-11 a one
-3 6 Classic
+vpnJisakmp vpnfipsec/isakmpJmain triode/kev exchange message vpniire 4 vpnJisakmp content
 
-dB Classic 
+vpnJesp nacJvpnJprotocoUesp
 
-aAlert
+vpnJesp nacJvpnlarotocollesp
 
-:_IBlackBe'ry
+vpnJesp nac/vpnJgrotocoUesD
 
-3Ca|| Logs
-?Category DNI
+vpnJesp nacJvpnlarotocollesp
 
+vpnfesp nac/ypn/grotocQl/esc
 
-a Cisco Passwords
-:_IClarent
+vpnJesp nacJvpn/nrotocolJesp
 
-HDNS
+vpnJesp nacJvpnJprotocoUesp
 
-a Document Metaclata
-aDocLImentTagging
+vpnJesp nac/ypnlprotocoUesp
 
-:_IEs(tracted Files
-aFLlii Log DNI
-?Geolnfo
+vpnJesp nacJvpnlprotocoUesp
 
-Ac1ivity
+vpnJesp nacJvpnJarotQCQUesD
 
-HIKE Parser
-aKeylogger
+vpnJesp nacJvpnlarotocollesp
 
-a Logins atcl Password
-?ittachinelnfo
+ypn/esp nacJvpnJarpiQCQl/esc
 
-a Microplugin Metaciata
-?olescationIMunged?l
+vpnJesp nacJvpn/grotocolJesp
 
-:lB Classic N-Z
+vpnJisakmp vpnfipsec/isakmpJmain mode/kev exchange message vpnlire 4 vpnJisakmp content
 
-a Network nformation
-a Network _ogs
+vpnJesp nacJvpnJprotocoUesp
 
-a 
+vpnJesp nacJvpnJprotocoUesp
 
-a PPF Metaclata
-a Passports from Images
-3 Phone Number Extrac
-a RBGAN
+vpnJesp nac/vonJorotocoUesD
 
-a RTP
+vpnJesp nacJvpnlarotocollesp
 
-a Radius Logs
+vpnfesp nac/ypn/arotocQl/esc
 
-a Registry
+vpnJesp nacJvpn/prptQcolJesp
 
-a SIP
+vpnJesp nacJvpnJprotocoUesp
 
-SSH Parser
+vpnJesp nac/ypnlprotocoUesp
 
-a SSL Parser
+vpnJesp nacJvpnlprotocoUesp
 
-a Shellcode
+vpnJesp nac/vpnJgrotocQUesp
 
-3 TDI
+vpnJesp nacJvpnlarotocollesp
 
-Collection
-:_ITopic l?Tech Strings
-a User Activity
+< -				
+Page	1 of 24 il H ^ Page Size: 50 (Max 100 rows per page)			Displaying 1 - 50 of 1171
 
-3 User Activity INewIExp
+c
 
- 
 
- 
 
-I??i
+jb_5Bf22_00976 567001301926190_1
 
-Done
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-Results
+TOP SERET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-0
+XK Metaviewer: CREAKSTILE HW PK - Mozilla Firefox
 
-XKEYSCORE
+Hie Edit View History Bookmarks Tools Help
 
-Fingerprints a Statistics attlap Account XK Forum
+^ .
+
+© & m
+
+'’[Google
+
+XKEYSCORE i^TOYGRIPPE ^ NKB: Home "^NKB Discc Route ^ Roadbed.net MyPage [éjGoldPbint
+
+XK Results
+
+XK Metaviewer: CREAKSTIL... x |$] Query Results
+
+XKEYSCORE Welcome srwils2! Warning; your password has expired! Log Out
+
+^|Home Search ©" Workflow Central [T]yResuts ^Fingerprints H Statistics ©Map ^ My Account ij£XKFor
+
+I Navigation Filter | * 11!=, Ijjjjl
+
+Histogram Grid *
 
- 
+^ Sea-ch Wizard
+SOCNE
+3 0 Classic
 
- 
+a ^ MultiSearch
+a Q Classic AM
+El Alert
+U]BlaGkBerry
+|U Call Logs
+El Category DNI
+El Cellular DNI
+H Cisco Passwords
+E| Clarent
+El DNS
 
-   
+E] Document Metadata
+El DocumentTagging
+El Email Addresses
+¡^] Extracted Files
+U Full Log DNI
+El Geo Info
+El HTTP Activity
+g| IKE Parser
+HT Keylogger
+0 Logins and Passwotdr
+E] Machine Info
+E| Microplugin Metadata
+El Qbfuscatlon(Munged'
+¿0 Classic N-Z
 
- 
+El Network Information
+¡¿| Network Logs
+51PILBEAM
+5| PPF VoIP Metadata
+5] Passports from Image;
+El Phone Number Extrac
+EJRBGAN
+ElRTP
 
-Helpv
+El Radius Logs
+El Registry
 
- 
+a sip
 
- 
+51SSH Parser
+51 SSL Parser
+5] Shellcode
 
+Htdi
 
+ElTIPOFF Collection
+E|Topic/Tech Strings
+H User Activity
+S User Activity [New/Exi
 
- 
+Clear Selection Export
 
+Displaying l-4cf4
 
+CREAKSTILE_HW_PK
 
- 
+ti Help		Actons’’	Reports"	View’ ©MapView FILTERS: ffl’				
+	□	State ID		Classification	Si gad	Case notation	□atetime a	Fm
+1	id	0	226	TOP SECRET//COMINT//REL TO USA, AUS, CAN,<	UKG-302A	PKCSE018AOOOHDO	2011-04-01 00:41:04	500
+2	E		263	TOP SECRETffOOMINTffRELTO USA, AUS, CAN,!	UKG-30ZA	PKCSE018A0Ü0HDO	2011-04-0100:41:04	500
+3	B	M	264	TOP SECRETÍJCOMINTfJREL TO USA, AUS, CAN,r	UKG-302A	PKCSE013AOOOHDO	2011-04-0100:41:04	500
+4	E		294	TOP SECRETffOOMINTffRELTO USA, AUS, CAN.I	UKG30ZA	PKCSEOIBAOOOHDO	2011-04-0100:41:04	500
+5	B	0	261	TOP SECRETÍJCOM INTfJRE L TO USA, AUS, CAN,r	UKC-302A	PKCSE018A000HD0	2011-04-0100:46:33	500
+6	E		262	TOP SECRETIJCOM INTff RE L TO USA, AUS, CAN.I	UKC302A	PKCSE018A0O0HDO	20114)4-0100:46:33	500
+7	B	0	256	TOP SECRETÍJCOM INTff RE L TO USA, AUS, CAN.r	UKC-302A	PKCSE018AOOOHDO	2011-044)100:49:00	500
+8	E		260	TOP SECRETIJCOM INTff RE L TO USA, AUS, CAN.I	UKC302A	PKCSEOIBAOOOHDO	20114)44)100:49:00	500
+9	□	0	265	TOP SECRETÍJCOM INTff RE L TO USA, AUS, CAN.r	UKC302A	PKCSE018AOOOHDO	2011-044)101:45:31	500
+10	E		266	TOP SECRETIJCOM INTff RE L TO USA, AUS, CAN.I	UKC302A	PKCSE018A0O0HDO	20114)44)101:45:31	500
+11	B	0	267	TOP SECRET/JCOMINT/JRELTO USA, AUS, CAN.r	UKC302A	PKCSE019AOOOHDO	2011-044)102:42:40	500
+12	O	0	268	TOP SECRET/JCOMINT/JREL TO USA, AUS, CAN.r	UKC3Ö2A	PKCSEÖ18AÖÜÖHD0	20114)44)102:42:40	500
+13	□	0	162	TOP SECRET/fCOMINT/fRELTO USA, AUS, CAN.r	UKC3Ö2A	PKCSE087AÖÖÖHDO	2011-044)103:27:0©	500
+14	□	0	237	TOP SECRET/fCOMINT/fREL TO USA, AUS. CAN.I	UKC302A	PKCSE087A00ÜHDO	20114)44)103:27:09	500
+15	E	0	271	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN.r	UKC302A	PKCSED87AOOOHDO	2011-04-0103:27:10	500
+16	0	0	272	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN,I	UKC302A	PKCSE087A00OHDO	20114)44)103:27:10	500
+17	E	0	163	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN,t	UKC302A	PKCSEOIBAOOOHDO	2011-04-0103:34:12	500
+16	0	0	236	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN,'	UKC-3Q2A	PKCSEOIBAOOOHDO	20114)44)103:34:12	500
+19	E	0	1	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN,'	UKC-302A	PKCSE087A0Q0HDQ	2011-04-0103:58:52	500
+20	0	0	2	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN,r	UKG302A	PKC5E087AOOOHDO	20114)40103:58:52	500
+21	E	0	10	TOP SECRETfJCOMINTf/RELTO USA, AUS, CAN.I	UKC-302A	PKCSE018AOOOHDO	20114)40107:15:29	500
+22	B	0	247	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN.r	UKC-302A	PKC5E018AOOOHDO	2011-040107:15:29	500
+23	E	0	175	TOP SECRETIJCOMINTIJRELTO USA, AUS, CAN.I	UKC302A	PKCSEOIBAOOOHDO	20114)40108:24:36	500
+24	B	0	230	TOP SECRET/fCOMINT/fREL TO USA, AUS, CAN.r	UKC-302A	PKCSE018AOOOHDO	2011-044)106:24:36	500
+25	E	0	3	TOP SECRETfJCOMINTf/REL TO USA, AUS, CAN.I	UKC302A	PKCSEOIBAOOOHDO	20114)40108:24:38	500
 
-Help Actions Reports Vie'w 3 Map View
-Sigacl Casenotation Datetime Datetime Fm Port Fm City To Port Application
-11m 2011-04-03 ?1:?1:52 2011-04-03 0 0 0
-KLDABMIMM 1100 2011-04-03 ?1:03:52 2011-04030 0 0
-2011-04-03 ?1:?i:52 2011-04-03 0 0 0
-2011-0403 ?1:09:52 2011-04-03 0 0 0
-KLDABMIJIM 11?1 2011-04-03 ?1:12:52 2011-04-03 0 0 0
-UKJ-2600 2011-04-03 ?1:15:52 2011-04-03 0 0 0
-11m 2011-04-03 ?1:18:52 2011-04-03 0 0 0
-11m 2011-04413 ?1:21:52 2011-04-03 0 0 0
-11m 2011-04-03 ?1:22:01 2011-04-03 0 so] so]
-2011-04-03 ?1:24:52 2011-04-03 0 0 0
-2011-0403 ?1:22:52 2011-04-03 0 0 0
-2011-04-03 ?1:30:52 2011-04-03 0 0 0
-Uta-2600 2011-04-03 ?1:33:52 2011-04-03 0 0 0
-1100 2011-04-03 ?1:36:52 201104-030 0 0
-11m 2011-04-03 ?1:39:52 2011-04-03 0 0 0
-11m 2011-04413 ?1:42:52 2011-04-03 0 0 0
-2011-04-03 ?1:45:52 2011-04-03 0 0 0
-2011-04-03 ?1:51:52 2011-04-03 0 0 0
-KLDABMIJIM 11?1 2011-04-03 ?1:54:52 2011-04-03 0 0 0
-UKJ-2600 2011-04-03 ?15:52 2011-04-03 0 0 0
-1100 2011-04-03 01:?1:52 201104-030 0 0
-11m 2011-04413 01:?331 2011-04-03 0 0 0
-11m 2011-04-03 01:07:58 2011-04-03 0 so] so]
-2011-04-03 01:09:53 2011-04-03 0 0 0
-2011-04-03 01:12:53 2011-04-03 0 0 0
-2011-04-03 01:15:53 2011-04-03 0 0 0
-Uta-2600 2011-04-03 01:13:53 2011-04-03 0 0 0
-1100 2011-04-03 01:21:53 201104-030 0 0
-11m 2011-04-03 01:24:53 2011-04-03 0 0 0
-11m 2011-04413 01:30:53 2011-04-03 0 0 0
-2011-04-03 01:33:53 2011-04-03 0 0 0
-2011-04-03 01:36:53 2011-04-03 0 0 0
-KLDABMIJIM 11?1 2011-04-03 01:39:53 2011-04-03 0 0 0
-2011-04-03 01:42:53 2011-04-03 0 0 0
-1100 2011-04-03 01:45:53 201104-030 0 0
-[ti 
-Page 1 0124 Page Size: 50 (Maxim rows perpage) Displaying 
+Fm Port Fm City [IP) Fm Co Fi
 
+To Port Applicaton
+500	vpnfisakmp
 
+500	vpnfiaakmp
 
- 
+500	vpnJisafniD
 
+500	vpnfisakmp
 
+500	vpnfisakmp
 
- 
+500	vpnJisakmp
 
- 
+500	vpnJisakmp
 
-51113}ij - 11111111]: Firzi?uz i:ii:i_i
+500	vpnfisakmp
 
- 
+500	vpnJisakmp
 
-Eile Edit View History Bookmarks Tools Help
+AppID C+Fingerprints)
 
-<2 we vii} 
+vpn'isakmp vonJisaknip content VDtVisakmp ph
 
-Home PINKS Discc Route ZtRoadoednetMyPage GoldPoint
+vpn'isakmp vpnfisakmp phase 1 policv
+vpni'isakmp vpnJisakmp chasel policy
+vpn'isakmp vpnfisakmp content vpnlisakmp ph
 
- 
+vpn'isakmp vcnJisakmc content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vpnJisakmp content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vcnJisakmc content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vpnftlevicefipsec vpnJisakmp phase
 
- 
+vpn'isakmp vpnftleviceJipsec vpnJisakmp phase
 
- 
+vpn'isakmp vpnJisakmp content vpnJrsaknip ph
 
-  
+vpn'isakmp vpnfisakmp content vpnJisakmp ph
 
-. XK Results at It; xx Metaviewer: I Query Results I 4- 
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vcnJisakmc content
+vpn'isakmp vpnfisakmp content
+vpn'isakmp vcnJisakmc content
+vpn'isakmp vpnfisakmp content
 
- 
+vDn/isakrriD	von'isakniD vpnJisakmp content
+vpnJisakmp	VDn'isakmD VDnfisakmD content
+vpnfisakmp	VDn'isakniDVDnfisakniD content
+vpnJisakmp	VDn'isakmD VDnfisakmD content
 
-XKEYSCORE Welcome srwilsQ!
+Page 1 of 6 ► H $ Page Size: ~ 5C | (Max: 100 rows per cage)
 
-Home Search ?'t'v'orkilowCentral Resuts Fingerprints  Statistics 3Map My Account  Helpv
+Displaying 1-50 of 298
+jb_S8f22JB966248001301946356_1
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(TS//SI//REL) PINWALE
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-aseathwizard Page 1 otl Clear Selection Export Displaying 1-4cl4
-jgz?sic Filter Fm IP (33:00
-11 a MLIltiSearch 
-is Classic 
-3 Alert
-a BlackBerry
-3 Call Logs
-a Category DNI
-3 Cellular DNI
-a Cisco Passwords
-a Clarent 
-a DNS Help Act ons Reports View 3 Map View are": 
-a Document ttletaclata State ID Classification Sigad Casenotation Datetime Fm Port Fm City City To Port Applioat on (+Fingerprints)
-3 Document Tagging 1 I TOP SEORETIIOOMINTIIREL TO USA, AUS, CANJ 201104-01 ?1:41:04 5?1 5?1 
-a Ema? Addresses 2 I TOP SECRETIIOOMINTIIREL TO USA, AUS, 20110401 0]:41:04 5?1 5?1
-it E?Ilmed ?'55 3 I TOP SECRETIICOMINTIIREL TO USA, AUS, UKC-302A 201104-01 0]:41:04 5?1 5?1
-3 4 I TOP SECRETIICOMINTIIREL TO USA, AUS, UKC-302A 201104-01 ?1:41:04 5?1 till
-a HWP Activity 5 I TOP SECRETIICOMINTIIREL TO USA, AUS, CARL: 20110401 ?1:40:33 5?1 5?1
-IKE parse, I TOP SECRETIICOMINTIIREL TO USA, AUS, 20110401 ?1:46:33 5?1 5?1
-a Keylogger I TOP SECRETIICOMINTIIREL TO USA, AUS, 20110401 ?1:49:?1 5?1 5?1
-a Looms and Password 8 I TOP SECRETIICOMINTIIREL TO USA, AUS, 201104-01 ?1:49:?1 5?1 5?1
-?17? 9 I TOP SECRETIICOMINTIIAEL TO USA, AUS, 201104-01 01:45:31 50] 50]
-3 I?Iicmpl??m metadata I TOP SEOAETIIOOMINTIIAEL TO USA, AUS, 201104-01 01:45:31 5?1 
-?otatuscatlontldunged'l imn (default)
-a Classic N1 11 I TOP SECRETIIOOMINTIIREL TO USA, AUS, 201104-01 02:42:40 5?1
-a Nework Information 12 I TOP TO USA, AUS, 20110401 02:42:40 5?1 
-a Network Logs 13 I TOP SECRETIIOOMINTIIAEL TO USA, AUS, Ukcao2A 20110401 03:21:09 5?1 5?1 
-a PILBEAM 14 I TOP SECRETIIOOMINTIIREL TO USA, AUS, CAer UKC-302A 201104-01 03:21:09 
-3 PPF VDIP ?Imam 15 I TOP SECRETIIOOMINTIIREL TO USA, AUS, 201104-01 03:21:10 
-3 Passports from Image: 15 I TOP TO USA, AUS, cAN,i UKC-302A 201104-01 03:27:10 51]] 51]]
-a Phone Number Extrac
-a REGAN 17 I TOP TO USA, AUS, cAN,i 201104-01 03:3432 500 500
-3 mp 15 I TOP SECRETIIOOMINTIIREL TO USA, AUS, 201104-01 03:34:12 5?1 5?1
-a Radius Logs 1g I TOP SECRETIIOOMINTIIREL TO USA. AUS, CANJ 201104-01 03:53:52 5?1 5?1
-a Registry 20 I TOP SEORETIIOOMINTIIREL TO USA, AUS, UK0302A 201104-01 0:353:TOP SECRETIICOMINTIIREL TO USA, AUS, CARL: UKC-302A 201104-01 01:15:29 5?1 5?1
-3  5:55: 22 I TOP SECRETIICOMINTIIREL TO USA, AUS, UKC-302A 201104-01 01:15:29 5?1 til]
-3 Shencode 23 I TOP SECRETIICOMINTIIREL TO USA, AUS, CARL: 20110401 03:24:30 5?1 5?1
-TDI 24 I TOP SECRETIICOMINTIIREL TO USA, AUS, 20110401 0o:24::]e 5?1 til]
-3 TIPOFF Collection 25 I TOP SECRETIICOMINTIIREL TO USA, AUS, 20110401 03:24:38 5?1 5?1 
-aTopicl?Tech Strings I I I 
-a User Activity
-Usemmiviw [New?p Page 1 or 6 Page Size: 50 (Max:100 rows per Jage) Displaying 00:11 .. e: -.- n. -. 110.. 1:11 H. . .- a
-
-  
-
- 
-
-PINWALE
-
-Both VPN traffic and Admins
+• (Ts//si/REL) Both VPN traffic and Sys Admins
 passing information about VPN setup
 
-IP addresses and port numbers (ex.
-AP 00500) Zone C2C
+•	(ts//si/rel) IP addresses and port numbers (ex.
 
-Display Protocol SRC 
-Protocol DEST Port', ?Next Protocol Name'
+AP 00500)	***Document Zon = C2C
 
- 
+•	(ts//si/rel) Display 'DZ Protocol SRC Port'/DZ
+Protocol DEST Port', 'Next Protocol Name'
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(TS//SI//REL) DISCOROUTE
 
-DISCOROUTE
+• (ts//si/rel) Router configuration data
+° From passive and active collection
+° Key terms to search for within configs:
 
-Router configuration data
-a From passive and active collection
+° 'crypto map', 'isakmp', 'ipsec', 'pre-shared-key'
 
-a Key terms to search for within configs:
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-a map?, ?isakmp?, ?ipsec?, ?pre-shared-key?
+TOP SERET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+NKB Disco Route - Mozilla Firefox
 
- 
+Rie Edit View History Bookmarks Tools Help
 
- 
+^ O â
 
-0
+Ùw\ ||G|y oog'e
 
-Elle Edit yiew History Bookmarks IOOIS Help
+?j¿XKEY5CORE ^TOYC-RIPPE NKB: Home NKB Discc Route Roadbed.net MyPage |©|GoldPolnt
 
-<2 
+XK Results
 
- 
+* ® Query Results
 
-If; XK Results Query Results
+K NKB Disco Route
 
-     
+K £r TREASUREMAP - TOOLS
 
-    
+"I ■»
 
-Combined Query
-
-mil 
-
- 
-
-Submit CSV
-
-
-en 3' Tel ms
+jT_
 
 
 
+conbined Query Network Mgmt Query (Coming Soon) He|P
 
+		DiscoRoute Combined Query	
+			
+Submit CSV	Tips; If TAO has a Point-of-pres	slice, you will see li man test tag in results.	Query History:
+1				-
 
+- Collapse Results by hostname/slgad
 
+General Query Tern
 
+Text Query ®
+Date
 
+IP Address *
 
+Start Date:	\	□
+End Date:	>1	□
 
-Se ectAll ClearAll SelectAll
+O DOI O Load Date © Entire Database
 
-I?A?Ianife
+0 Cisco 0 Huawei 0 Inf ¡net
+0 Juniper 0 Mikrotik 0 Tenorswitch
 
+(1.2 3.4 or 1.2 3.4/[CIDR] OT 1.2.3.4 • 3.4.5.E)
 
+IP Range Search	Exact IP Search
+0 Interfaces - Subnet	0 IP Header FRQM/TO
+0 Static Route IP	□ Interfaces - Exact
+0 Access Lists	0 Anywhere else in the XML
+0 Routing Protocol IP	
 
+Limit Search to CIDR Ranges Smaller Than (or equal m v
 
+I Select All I | Cl
 
+Any checked Items can be found (OR condition) In config
 
-ii
-Clear All
+Hostname:
 
+SIGAD:
 
- 
+Case:
 
-HNKB Disco Route
+Countiy »
+TAO Project Name ®.
+. AS Number
 
-'3 DiscoRoute
+Manifest (Cisco Only) '
 
-rwru . 
+□ Seen in Config □ Derived * IOS
 
-ClearAll
+□	A - EQUANT	□	1 - Show Interfaces	□	P - Voip
+□	B-BGP	□	K - Crypto Keys	□	R - 5howRun
+□	D - Show CDP	□	M - Multihop	□	T - Tacacs
+□	G - GPRS	□	N - Tgt Net Service	□	V - Show Version
+□	H - TAO Pop	□	0 -OSPF		
 
+Snmp Community:
 
+IOS Image Name:
+
+Device Type: Q
+
+All checked items must be found (AND condition) in contig
+
+OP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+-________________________ ______________________________________________________________________—--------------------------------------------------------------------------------------------------------------------------rBm
+
+Fjle Edit View History Bookmarks Tools Help
+
+*"| ||C|-*- ¡Google	'%|
+
+ÎK'XKEYSCORE ®TOYGRIPPE ^NKBHome ^ NKB Disco Route J{Roadbed.netMyPage gGoldPoint
+
+1 *H XK Results	* [ ® Standard Form	K ^ NKB DISCO Route	K |[5|http5://ncmd ..255963345553 * @ http5://n:md...255303960492 * |	^ https ://ncmd...299304204961 * *		-
+			Dynamic Page -- Highest Possible Classification is			
+JÄ	'inwvotft Rtwswl^la^ k«m	0 DiscoRoute	TOP S ËCRIT//COM INT//ORCO N/NO FORN//20320108		(Version 2.14)	NKB HOMe|
+
+combined Query	Network Mgmt Query (Coming Soon) Help F“dback
+
+Detailed Combined Command Results
+
+_S£
+
+□	Hostname	Model	DOI ▼	Vendor	Sigad Case Manifesto^		IOS Image IS
+IU	GW SMS		2UU912-29	nuawei	usu-iojut MnuAU		
+□	GW_SMS		2 009-12-15	huawei	USD-1031TE MNDAO		
+h|	GW SMS		200942-15T	huawei	USD-1 Q31TE MNDAQ		
+□			2009-11-131	tlsco	USD-1Q31TE MNDAQ		
+a	A6-VPN		2009-10-22'	huawei	USF-790 5CDVBQQQ0001MWC	R	
+□  □	A6-VPN		2009-10-22"	huawei	USF-790 5CDVB0000001MWC	R	
+	AS-VPN		2009-10-131	huawei	USF-790 5CDVB0000001MWC	R	
+□			2009-10-021	huawei	USD-10D1TE MNDAQ		
+□			2009-09-101	huawei	USD-10J1TE MNDAQ		
+□			2009-09-101	huawei	USD-10D1TE MNDAQ		
+□			200906-151	huawei	USF-790 5CDVB0000001MWC		
+
+SPort DPort
+
+UUU23 124ÜÜ
+00023 1332 0
+00023 1332 0
+00023 13429
+00023 01327
+00023 01327
+00023 01059
+23	13332
+
+23	15973
+
+23	13841
+
+23	1031
+
+<1 ~ 1'						
+M Page	1 of 1	►I 1 ©	Save as CSV Save F i 1 e s to Dl sk	Compare Results Summary * Mailorder Out Map in Renoir MapMul	pie Confias ir Reno	Find Related Results 1-33 c
+PayHad XML	1 Summary	Map 1	Query Parameters |	| Open n New V/indow		0
+
+password cipher IS,[51EA,'%B,A0C3YB91!
+service-type telnet terminal
+level 3., .1,. L
+
+ike proposal 10
+encryption-algorithm 3des-cbc
+dh group2I.,U,
+
+ipserpnfBi«H!f!jpBsal_ph2
+
+esp authentication-algorithm shal
+
+NAC
+
+Powered b/the SIGDEV Lat
+Version Number: 214 New!
+
+Last Modified Date: VIarch 14. 2011
+Last Reviewed DattiMarchl4. 2011
+Content Steward	%0-j -L
+
+Page . ¡she	oil: so.-. 1 ■■■-■•
+
+FI			5 1
+* Find: 1	1 Previa.	js ^ Next iÿHig	all □ Match case
 
 a
 
-OTOYGRIPPE 'rNKB;Home HNKB Disco Route ZIRoadbednetMyPage @Goidpoint
-
-
-
-?ifi? 915:9 Hausa ?119.11": 
-
-
-
- 
-
-av] [Ev
-
-  
-
-TREASUREMAP - TOOLS
-
-LJ
-
-J24 (f
-
-DUDE
-
-ClearPanel
-
-(Version 2.1.4) I
-
-all
-
- 
- 
-
-     
-
- 
-
- 
-
- 
-
-
-
-DONE
-
- 
-
- 
-
- 
-
-H.111 Die?.51; Iiuuszi - Flrzu?uz 
-
-Elle Edit giew History Eookmarks Iools ?elp
-
-<2 we 3 vii} 
-
-HNKB Disco Route 7fRoadbednetMyPage @GoldPoint
-
- 
-
- 
-
- 
-
- 
-
-XK Results [El Standard Form ENKB Disco Route I 1' 
-
-DisooRoute (Version 2.141 
-
- 
-
- 
-
- 
-
- 
-
-Duilld Combined Command Results [3
-
-Hostnan'ie Model DOI Vendor Sigad Case Man?est? IOSln'iage Source IP SCountr) SCin Session Qualit SPort DPort 
-nuawei MNLJAQ 4462 lo 12488
-2009-12-15' hLiawei MNDAQ 25956 20 00023 13320
-200912-15 hLiawei MNDAQ 25956 20 00023 1&20
-200911-131 cisco MNDAQ 96 9 00023 13429
-200910-22' hLiawei 5CDV30000001MWC 23965 51 00023 0132?
-PJENPN 200910-22' hLiawei 5CDV30000001MWC 3894 55 00023 0132?
-PJENPN 200910-131 hLiawei 5CDV30000001MWC 8809 4? 00023 01089
-200910-021 hLiawei MNDAQ 5?299 1 23 1E2
-200909101 hLiawei U5D1031TE MNDAQ 4210 1 23 15923
-200909-101 hLiawei MNDAQ 4905 1 23 13841
-2009-05151 hLiawei USP-290 503V80000001MWC 3140? 54 23 1031
-
-I
-
-Page 1 of 1 Save as Save Filesto Disk Compare Results Summary Mailorder Out Map in Renoir Find Related Resulis 1 -3t
-
-I Open New Window
-password cipher JS, 
-service-type telnet te'minal
-level 
-
-
-
-ike proposal 10
-3des-cbt
-dh group2I. .U..
-
-
-
-  
-      
- 
- 
-
-peer peer_hq
-exchange-mode aggressive
-pre-shared-key Key4Cuba-A6
-id-?lype name
-remote-address 
-nat traversal
-
-peer multi-subnet.I. .U..
-
-     
-     
-        
-
-ipset .. . . sal_ph2
-esp authentication-algorithm shal
-
- 
-
- 
-
-
-
-Powered I31 SISDEV Lab
-Version Number: 2 14 
-NAG Last Mcd?ied Dame: \I'larch 14. 2011
-Last Reviewed Date: March 14 2011
-Carmen Ballard: SSG21. 969-3341
-Page Publisher: SSG21 969-0342
-
-It Find: I Match case
-
-Done 5
-
- 
-
- 
-
- 
-
- 
-
- 
-
-0 this 915:9 nous: menus Fire?y; 
-?le Edit giew History Bookmarks Idols ?elp
-
-<2 vet evil} i
-
-QTOYGRIPPE HNKE Dis:o Route MyPage 
-
- 
-
- 
-
-l3; XK Results Standard 30m NKB Disco Rcute 
-
-DiscoRoute (Version 2.1.4) 
-
- 
-
- 
-
- 
-
-llwr- I'll "will 
-1
-
-summit 5" Th 5 is lhe new mhsierwr. Update my bockmarls to bring you here.
-
-
-.i'f?leim: 
-UNAMI 4
-A-ltlieto;
-9
-
-
-El .
-
-
-
-SelemAl ClearAll SelectAll ClearAll
-Manife i Inl i
-
-Q. 
-
-
-
-
-ClearAll
-l:
-ClearPanel
-
- 
-
- 
-
-It]
-
 Done
 
- 
+TOP SERET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-1"]sz Die?.51; Runs: illuzillel Firzu?uz 
+NKB Disco Route - Mozilla Firefox
 
-Elle Edit View History Bookmarks Idols Help
+RIe Edit View History Bookmarks Tools Help
 
-<2 we 
+S* - 0» e ñ
 
-HNKB Disco Route 
+Ú H lEI’*’ [ boogie
 
- 
 
- 
 
- 
+XKEYSCORE i^TDYGRIPPE NKB: Home ^NKE Disco Route /¡ Roadbed.net MyPage gGodPoint
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+File Edit View History Bookmarks Tools Help
 
- 
+4»
 
- 
+jlGl^ I Google
 
- 
+!<£XKEYSCORE ^TOYGRIPPE p NKB: Home NKB Disco Route Roadbed.net MyPage |©|GoldPoint
 
-Results [El Standard NKB Disco Route 
+([Ü https://ncmd...248823681254 * | *
 
- 
-  
+I í*¿ XK Results
 
-03 DiscoRoute (Version 2.14) I
 
-r1
-LJ
 
-Detailed Cambin nrnmand Ruulis
+. Standard Form
 
- 
-   
-   
-     
- 
+combined Query Network Mgmt Query (Coming Soon)
 
-Hostname DOI Vendor Sigad Case Manifes?t? IOSln'iageA Source IP SCountr) SCin Session Qualitj SPort DPort 
+1 NKB Disco Route
 
-2009?05091' UK0125W PR
+* DiscoRoufe
 
-200910-151 UK0125W (3238200001ch 02600-advst RESERVED 134422 ?5 00023 0319
+Help
 
-RESERVED 109460 ?8 23 614?0
+Detailed Combined,
 
- 
+Dynamic Page - - Highest Possible Classification is
 
-c2 600
+TOP SECRET//COMINT//QRCON/NOFORN//2032Q10S
 
- 
+(Version 2.14)
 
- 
+Command Results
 
- 
+	hostname Moo^^^	DOI	Vendor	Sigad	Case	Manifest			IOS Image N
+m	VPNOl-UNAMI-E	\ 2009-06-09T	cisco	UKC-12SW	G 2 B 7 0Q0001MWC		K	pr	
+	GILAT-HRT5826 c2600^^	r 2009-1CH57	cisco	UKC-125W	G 2 B8200001MWC	D	K	RT	c2600-advs(
+		2009-10317	cisco	UKC-12SW	G 2 B8200001MWC	D	K	a	c2500-advs(
+e	kuw-hub	2009-10-157	cisco	UKC-12SW	G2B6900001 MWC	D	K	a	
+□	kuw-hub	2009-10-157	cisco	UKC-125W	G2BG900001 MWC	D	K	a	
+E	kuw-hub	2009-10-157	cisco	UKC-125W	G2B79Q0001MWC	□	K	a	
+O	VPN02-UNAMI-K	2009-09-107	cisco	UKC-12SW	G 2 B8200001MWC		K	PR	c2800nm-ad
+E	r-unami-kuw-isp	2009-01-161	cisco	UKC-12SW	G2B6900001 MWC	D	K	R	
+D	ISP02-UNAMI-AI	2009-07-03T	cisco	US-967J	1AH116337454200	B	K	OPR	
+D	bdr01-un ami-kir	2009-06-077	cisco	UKC-12SW	G2B70Q0001MWC		K	PR	
+|EL	bdrOl-unami-mc c2800nm	2010-08-22'	cisco	UKC-12SW	G 2 B 67000001MWC		K	PR	c2800nm-ad
 
- 
+S Country SCily
 
- 
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+RESERVED
+DUBAI
+DUBAI
+RESERVED
 
- 
+109460
 
- 
+134422
 
- 
+38202
 
- 
+32B79
 
- 
+32879
 
- 
+30000
 
- 
+58980
 
- 
+26342
 
- 
+29872
 
-20091031T UK012 5W G2B8200001MWC c2600?advst RESERVED 38202 ?5 00023 02012
-kLiv -hLib 200910-151 UK012 5W G2B690 0001 MWC RESERVED 32 8?9 ?4 00023 50554-
-kLIw-hLib 200910-151 Cisco UK0125W (3236900001ch RESERVED 328?9 ?4 00023 50554
-kLn'r-hLIlJ 200910-151 UKC-125W RESERVED 30000 ?4 00023 50554-
-200909-10'l UK012 5W G2B8200001MWC c2800nn1-ad RESERVED 58980 ?3 23 3408
-r-Linami-k Liw?isp 200901-16T UK012 5W G2B690 0001 MWC RESERVED 26342 ?1 23 59226
-DUBAI 298?2 ?1 23 2??14
-bdrOl?Linami-kir UK012 5W PR DUBAI 2392? 69 23 642?8
-bdrOl?Linami-mc c2800nn'i 2010-0522' Cisco UK012 5W PR c2800nn1-ad RESERVED 40264 68 00023 44033
-I I
-Page 1 of 2 Save as CSV Save Filesto Disk Compare Results Summary Mailorder Out Map in Renoir Find Related Results 1 - 200 
+23927
 
-Open in New Wind ow
+40264
 
- 
+23
 
- 
+00023
 
- 
+00023
 
- 
+00023
 
-30000000000000: 30000000000000: '7
-1c 30? 
+00023
 
+00023
 
-4: no:
+23
 
-Authorized Personnel Only 
+DPort E
 
-If you do not have explicit authorization issued by Nl-lU to access 3"
+61470
 
-this 
+0Q319
 
-device, leave now! 
+02012
 
-4: no:
+50554
 
-1? System: 
+50554
 
-IP Add: 
+50554
 
-4: no:
+3408
 
-DESCRIPTION THIS ROUTER IS THEVOICE GATEWAY INTENDED FOR USE WITH THE 
+59226
 
-FEATURES 7
+27714
 
-Powered by [It SBDEV Lab
-Version Number: 2.14 
-Last Milka Date: March 14. 2011
-Last Reviewed Date: March 14 2011
-Content Stem
-Page Publishe r:
+64278
 
- 
+44033
 
- 
+Page 1 of 2 ^ M $ Save as CSV Save Files to Disk Compare	Results Sum maiy T Mailorder Out Map in Renoir
 
-Done 5
+Payload XML || Summary || Map || Query Parameters |	| Open in New Window j
 
- 
+Find Related Results 1 - 200 c
 
- 
 
- 
 
-Ev 0.32m
+Authorized Personnel Only
 
+If you do not have explicit authorization issued by IINAMI NHU to access
+this H
 
+device, leave now!	*
 
+■y.-'J t4ln:	T-î" _m/;	^^	' •K‘\	' V*j
 
-:mhme meOE
+IF' — ■:! rl :	‘	J
 
+* DESCRIPTION ; THIS ROUTER IS THEVQKE GATEWAY INTENDED FOR USE WITH THE
 
+g{ *
 
-A 
+Powered bvthe SIGDEV Lab
+Version Number: 2.14 NEW!
 
-WTWPEZEE
+Last Motfilietl Date: March 14. 2011
+Last Reviewed Date: March 14. 2011
 
- 
+Dynamic Page -- Highest Possible Classification is
+TOP SECRET//COMINT ORCOU NOFORM / ,'2 0 3 20 10 8
 
-Basic VPN rules of
-(?Mir you have an IP ma) If you don?t 
+[*]	ÍT
+Done	a
 
- 
+TOP SECRET//COMINT//REL TO USA,
 
- 
+AUS, CAI
 
- 
+GBR, NZL
 
- 
+TOP SECRET//REL TO USA, j
 
- 
+(U) Others
 
- 
+•	(TS//REL) NKB
 
- 
+•	(TS//REL) TUNINGFORK
 
-Check TOYGRIPPE and XKS Look in DISCOROUTE
+•	(TS//REL) TREASUREMAP
 
-I- Look for paired traffic Query Admins in
+•	(TS//REL) RENOIR
 
-For lPSec, check admin PINWALE and MARINA
+•	(TS//REL) MA5TER5HAKE
 
+•	(TS//REL) ROADBED
+
+•	(TS//REL) BLEAKINQUIRY
+
+«VUS, CAN, GBR, NZL
+
+MIS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) Basic VPN rules of
+
+(TS//REL)
+
+If you have an IP address...
+
+Check TOYGRIPPE and XKS
+
+thÿipb el) If you don't...
+
+Look in DISCOROUTE
+
+° Look for paired traffic
+
+• For IPSec, check sys admin
 chatter for PSK
+(DISCOROUTE; PINWALE;
+MARINA)
 
-Che'Ck your targets TAO
+Query Sys Admins in
+PINWALE and MARINA
 
-MARINA) proiects
+Check your targets TAO
+projects
 
-Share your data with
+•	Share your data with
+OTTERCREEK for vulnerability
+assessment (XKEYSCORE or
+DROPBOX)
 
-OTTERCREEK for vulnerability EITHER WAY,
+•	Submittasking
 
-assessment (XKEYSCORE or JOIN THE
+EITHER WAY,
+
+JOIN THE
 
 VPN WORKING GROUP
-
-Submit tasking FOR ALL OF YOUR
+FOR ALL OF YOUR
 VPN SIGDEV NEEDS
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+-
 
- 
+(U//FOUO) Useful Links
 
- 
+■	(ts//si//rel) VPN Working Group (go vpn)
 
- 
+■	(ts//si//rel) OTTERCREEK (go VPN XFT)
 
-Useful Links
+□ VPNXFT DROPBOX
 
-VPN Working Group (go vpn)?
-OTTERCREEK (Clio VPN XFT)
+UNCLASSIFIED
 
-DROPBOX
-
-Network Securiti Products (i0 NSP)
-
- 
+il
 
 (U) Questions?
 
 OTTERCREEK
 
- 
-
+UNCLASSIFIED

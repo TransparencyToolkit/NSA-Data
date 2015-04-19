@@ -1,137 +1,84 @@
-Page 145
+﻿Page 145
 
 10 Sep 2010
 
 CLOSE ACCESS SIGADS
 
- 
-
 CLOSE ACCESS SIGADS
-All Close Access domestic collection uses the SIGAD with a unique
+
+All Close Access domestic collection uses the US-3136 SIGAD with a unique
 two-letter suffix for each target location and mission. Close Access overseas
 GENIE collection has been assigned the US-3137 SIGAD with a two-letter suf-
-
 fix.
 
-(Note: Targets marked with an have either been dropped or are slated to be dropped
-in the near future. Please check with TAOIRTDIROS (961-15785) regarding authorities
-
+[Note: Targets marked with an * have either been dropped or are slated to be dropped
+in the near future. Please check with TAO/RTD/ROS (961-1578s) regarding authorities
 status.)
 
-SIGAD 
+SIGAD US-3136
 
- 
-
- 
-
-SUFFIX TARGETICOUNTRY LOCATION COVERTERM MISSION
-
-BE Brazil/Emb Wash,DC KATEEL LIFESAVER
-SI BrazillEmb Wash,DC KATEEL HIGHLANDS
-VQ Brazil/UN New York POCOMOKE HIGHLANDS
-HN Brazil/UN New York POCOMOKE VAGRANT
-LJ Brazil/UN New York POCOMOKE LIFESAVER
-YL Bulgaria/Emb Wash, DC MERCED HIGHLANDS
-QX Colombia/Trade Bureau New York BANISTER LIFESAVER
-DJ EUIUN New York PERDIDO HIGHLANDS
-SS EUIUN New York PERDIDO LIFESAVER
-KD Wash, DC MAGOTHY HIGHLANDS
-IO Wash, DC MAGOTHY 
-XJ EUfEmb Wash,DC MAGOTHY DROPMIRE
-OF France/UN New York BLACKPOOT HIGHLANDS
-VC France/UN New York BLACKPOOT VAGRANT
-UC FrancelEmb Wash. DC WABASH HIGHLANDS
-L0 FrancelEmb Wash, DC WABASH PBX
-
-NK GeorgialEmb Wash, DC NAVARRO HIGHLANDS
-BY GeorgiaIEmb Wash, DC NAVARRO VAGRANT
-RX GreeceIUN New York POWELL HIGHLANDS
-HB Greece/UN New York POWELL LIFESAVER
-CD GreecelEmb Wash, DC KLONDIKE HIGHLANDS
-PJ Greece/Emb Wash,DC KLONDIKE LIFESAVER
-
- 
-
- 
+SUFFIX		TARGET/COUNTRY	LOCATION	COVERTERM	MISSION
+BE		Brazil/Emb	Wash, DC	KATE EL	LIFESAVER
+SI		Brazil/Emb	Wash, DC	KATEEL	HIGHLANDS
+VQ		Brazil/UN	New York	POCOMOKE	HIGHLANDS
+HN		Brazil/UN	New York	POCOMOKE	VAGRANT
+u		Brazil/UN	New York	POCOMOKE	LIFESAVER
+YL	*	Bulgaria/Emb	Wash, DC	MERCED	HIGHLANDS
+QX	*	Colombia/Trade Bureau	New York	BANISTER	LIFESAVER
+DJ		EU/UN	New York	PERDIDO	HIGHLANDS
+ss		EU/UN	New York	PERDIDO	LIFESAVER
+KD		EU/Emb	Wash, DC	MAGOTHY	HIGHLANDS
+IO		EU/Emb	Wash, DC	MAGOTHY	MINERALIZ
+XJ		EU/Emb	Wash, DC	MAGOTHY	DROPMIRE
+OF		France/UN	New York	BLACKFOOT	HIGHLANDS
+VC		France/UN	New York	BLACKFOOT	VAGRANT
+uc		France/Emb	Wash, DC	WABASH	HIGHLANDS
+LO		France/Emb	Wash, DC	WABASH	PBX
+NK	*	Georgia/Emb	Wash, DC	NAVARRO	HIGHLANDS
+BY	*	Georgia/Emb	Wash, DC	NAVARRO	VAGRANT
+RX		Greece/UN	New York	POWELL	HIGHLANDS
+HB		Greece/UN	New York	POWELL	LIFESAVER
+CD		Greece/Emb	Wash, DC	KLONDIKE	HIGHLANDS
+pj		Greece/Emb	Wash, DC	KLONDIKE	LIFESAVER
 
 Page 146
 
-IN GreecelEmb Wash, DC KLONDIKE
-IndiaIUN New York NASHUA
-QL IndialUN New York NASHUA
-ON India/UN New York NASHUA
-IS India/UN New York NASHUA
-OX India/Emb Wash,DC OSAGE
-
-CQ IndialEmb Wash, DC OSAGE
-
-TQ India/Emb Wash, DC OSAGE
-
-CU India/EmbAnx Wash, DC OSWAYO
-DS IndialEmbAnx Wash. DC OSWAYO
-SU Italy/Emb Wash, DC BRUNEAU
-MV ItalylEmb Wash, DC HEMLOCK
-IP Japan/UN New York MULBERRY
-HF Japan/UN New York MULBERRY
-BT JapanlUN New York MULBERRY
-RU Japan/UN New York MULBERRY
-LM MexicofUN New York ALAMITO
-UX SlovakiafEmb Wash, DC FLEMING
-SA SIovakia/Emb Wash, DC FLEMING
-XR South Africa! UN Consulate New York DOBIE
-
-RJ South Africa/ UN 84 Consulate New York DOBIE
-
-YR South KoreaI'UN New York SULPHUR
-TZ Taiwan/TECO New York 
-VN VenezuelafEmb Wash, DC YUKON
-UR Venezuela/UN New York WESTPORT
-NO Vietnam/UN New York NAVAJO
-0U Vietnam/UN New York NAVAJO
-GV Vietnam/Emb Wash, DC PANTHER
+JN	Greece/Emb	Wash, DC	KLONDIKE	PBX
+MO*	India/UN	New York	NASHUA	HIGHLANDS
+QL *	India/UN	New York	NASHUA	MAGNETIC
+ON *	India/UN	New York	NASHUA	VAGRANT
+IS *	India/UN	New York	NASHUA	LIFESAVER
+OX *	India/Emb	Wash, DC	OSAGE	LIFE5AVER
+CQ *	India/Emb	Wash, DC	OSAGE	HIGHLANDS
+TQ *	India/Emb	Wash, DC	OSAGE	VAGRANT
+CU *	India/EmbAnx	Wash, DC	OSWAYO	VAGRANT
+DS *	India/EmbAnx	Wash, DC	OSWAYO	HIGHLANDS
+SU *	Italy/Emb	Wash, DC	BRUNEAU	LIFESAVER
+MV*	Itafy/Emb	Wash, DC	HEMLOCK	HIGHLANDS
+IP *	Japan/UN	New York	MULBERRY	MINERALIZ
+HF *	Japan/UN	New York	MULBERRY	HIGHLANDS
+BT *	Japan/U N	New York	MULBERRY	MAGNETIC
+RU *	Japan/UN	New York	MULBERRY	VAGRANT
+LM *	Mexico/UN	New York	ALAMITO	LIFESAVER
+UX *	Slovakia/Emb	Wash, DC	FLEMING	HIGHLANDS
+SA *	Slovakia/Emb	Wash, DC	FLEMING	VAGRANT
+XR *	South Africa/ UN & Consulate	New York	DOBIE	HIGHLANDS
+RJ *	South Africa/ UN & Consulate	New York	DOBIE	VAGRANT
+YR *	South Korea/UN	New York	SULPHUR	VAGRANT
+TZ *	Taiwan/TECO	New York	REQUETTE	VAGRANT
+VN *	Venezuela/Emb	Wash, DC	YUKON	LIFESAVER
+UR *	Venezuela/UN	New York	WESTPORT	LIFESAVER
+NO *	Vletnam/UN	New York	NAVAJO	HIGHLANDS
+OU *	Vietnam/UN	New York	NAVAJO	VAGRANT
+GV *	Vietnam/Emb	Wash, DC	PANTHER	HIGHLANDS
 
 SIGAD US-3137
 
 GENERAL TERM DESCRIPTIONS
 
 HIGHLANDS: Collection from Implants
-
 VAGRANT: Collection of Computer Screens
-
 MAGNETIC: Sensor Collection of Magnetic Emanations
-
 MINERALIZE: Collection from LAN Implant
 
 OCEAN: Optical Collection System for Raster-Based Computer Screens
-
-PBX
-HIGHLANDS
-MAGNETIC
-VAGRANT
-LIFESAVER
-LIFESAVER
-HIGHLANDS
-VAGRANT
-VAGRANT
-HIGHLANDS
-LIFESAVER
-HIGHLANDS
-
-HIGHLANDS
-MAGNETIC
-VAGRANT
-LIFESAVER
-HIGHLANDS
-VAGRANT
-HIGHLANDS
-VAGRANT
-VAGRANT
-VAGRANT
-LIFESAVER
-LIFESAVER
-HIGHLANDS
-VAGRANT
-HIGHLANDS
-
- 
-

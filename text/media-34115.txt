@@ -1,28 +1,28 @@
-SIGAD LISTING
+﻿SIG AD LISTING
 
 Sites
+
 are arranged alphabetically. The open and close dates may not be totally accurate. A missing
-?Opened? date indicates that the opening date is unknown. A missing ?Closed? date indicates
+“Opened” date indicates that the opening date is unknown. A missing “Closed” date indicates
 that the site is either still open, or that the date for closing is unknown.
 
 LEGEND:
 
-PARTY
-2-SECOND PARTY
-3-TI-IIRD PARTY
-4-SPECIAL SOURCE
+1-	FIRST PARTY
+
+2-	SECOND PARTY
+
+3-	THIRD PARTY
+
+4-	SPECIAL SOURCE
 
 ABBREVIATIONS OTHER THAN SIGADS AND STATES:
 
 AB-AIR BASE
-
 AF-AIR FORCE
-
 AFB-AIR FORCE BASE
-
 AS-AIR STATION
-
-ATL-ATLANT IC
+ATL-ATLANTIC
 
 CSG-CURRENT SUPPORT GROUP
 DSE-DIRECT SUPPORT GROUP
@@ -30,998 +30,304 @@ DSU-DIRECT SUPPORT UNIT
 FLT-FLEET
 
 MED-MEDITERRANEAN
-
 NAS-NAVAL AIR STATION
-OPS-OPERATION 
-
+OPS-OPE RATIONS
 PAC-PACIFIC
 
-SCTY S-SECURIT SQUADRON
-
-SQUADRON MOBILE
-WING
+SCTYS-SECURITY SQUADRON
+SCTYS (M)-SECURITY SQUADRON MOBILE
+SCTYW-SECURITY WING
 SPA-SPECIAL PROCESSING ACTIVITY
 
-SIGAD
-US-987L1
-US-987L1 
-US-987L1 
-US-987L1 
-US-987L2
-US-987L2H
-US-987L2H
-US-987L2H
-US-987L2H
-US-987L2H
-US-987L3
-US-987L3M
-US-987L3M
-US-987L3M
-US-987L4
-US-987L4L
-US-987L4L
-US-987L4L
-US-987L4L
-US-987L4L
-US-987L5
-USA-514
-UKC-309
-USM-43K1
-USM-626
-USM-626A
-USM-626B
-USM-62SC
+SIGAD LOCATION	SHORT_TITLE	ASSIGNED_TO	Legend	PDDG BeginY	EndY
+US-987L1			3	V5	
+US-987L1P			3	RM	
+US-987L1 P			3	TJ	
+US-987L1 P			3	Dl	
+US-987L2			3	UV	
+US-987L2H			3	WF	
+US-987L2H			3	XN	
+US-987L2H			3	ZE	
+US-987L2H			3	XB	
+US-987L2H			3	QG	
+US-987L3			3	VH	
+US-987L3M			3	RN	
+US-987L3M			3	TL	
+US-987L3M			3	OT	
+US-987L4			3	17	
+US-987L4L			3	WG	
+US-987L4L			3	XO	
+US-987L4L			3	ZC	
+US-987L4L			3	QK	
+US-987L4L			3	RT	
+US-987L5			3	U4	
+USA-514				1957	1958
+UKC-309	Exchange				
+USM-43K1 Altefeld				1956	1957
+USM-626 Ansbach			1	DH	
+USM-626A Ansbach			1	HW	
+USM-626B Ansbach			1	CT	
+USM-626C Ansbach			1	DV	
 
-LOCATION
+1
 
-Altefeld
+SIGAD	LOCATION	SHORT_TITLE	ASSIGNED_TO	Legend	PDDG	BeginY	EndY
+USD-1005A	Augsburg	CGG A F313	CGGA F313	1		1975	
+USA-53	Augsburg			1	SW	1976	1991
+USD-1023	Augsburg	NCEUR AUG		1		1975	
+USM-44	Augsburg			1	AR	1972	1993
+USM-44	Augsburg		SPICEBUSH	1	JJ	1972	1993
+USM-616	Augsburg		DSU	1	CG		
+USM-628	Augsburg		DSU	1	ED	1975	1976
+USM-628A	Augsburg		DSE	1	GE		
+USM-644	Augsburg			1	BY	1975	1976
+USM-662	Augsburg		DSU	1	CO	1970	1976
+USM-662A	Augsburg			1	NN		
+USM-662B	Augsburg			1	QL		
+USN-22	Augsburg			1	JH	1973	1994
+USA-67	Augsburg					1976	1991
+USM-600	Augsburg					1968	1968
+USM-601	Augsburg					1968	1968
+USM-602	Augsburg					1957	1968
+USM-609	Augsburg		502			1970	1976
+USF-778	Bad Aibling		F81	1	TT	1967	
+USM-44F	Bad Aibling			1	GT		
+USM-85	Bad Aibling					1956	1963
+USM-87	Bad Aibling					1956	1972
+USM-89	Bad Aibling		18th USASA			1956	1972
+USD-1079	Bad Aibling	SUSLAG	SUSLAG				
+USM-605	Bad Aidbling					1957	1957
+USM-43K1	Bahrdorf					1957	1957
+USM-620K	Bahrdorf					1965	
+USM-602K	Bahrdorf					1957	1957
 
-Ansbach
-Ansbach
-Ansbach
-Ansbach
+2
 
-
-
-Exchange
-
-
-
-Legend
+SIGAD	LOCATION	SHORT_TITLE ASSIGNED_TO	Legend	PDDG	BeginY	EndY
+USM-42	Bamberg				1956	1957
+USM-42K	Bamberg				1954	1966
+USM-45	Baumholder				1952	1960
+USM-82	Baumholder	507th USASA			1964	1967
+USD-1024	Berlin	NCEUR BERLIN NSA Rep	1		1975	
+USM-5	Berlin		1	FP	1975	1992
+USM-620	Berlin	54th USASA			1951	1974
+USA-70K	Berlin Tempelhof	6912 SCTYS	1	PR		1967
+USM-620Y	Berlin Tempelhof				1957	1959
+USM-620Y	Berlin Tempelhof	78th USASA			1965	
+USA-70	Berlin Tempelhof	6912 Scty Sq,			1954	1967
+UKA-277	Berlin Teufelsberg		2	4P		1992
+USA-70K	Berlin Teufelsberg	6912			1970	1976
+USM-620K	Berlin Teufelsberg				1957	1974
+USM-620	Berlin Teufelsberg	3rd Pit, 78th			1965	1992
+USM-620K	Berlin Teufelsberg	3rd Plt, 78th			1965	1992
+UKM-251	Birgelen		2	0P		
+USA-765A	Boerfink	CSG USAFE	1	NX		
+USA-53	Bremerhaven	41 RSM			1951	1968
+USA-53	Bremerhaven	Det 1, 6950			1960	1966
+USN-40	Bremerhaven				1954	1970
+USM-42K1	Coburg				1956	1956
+USM-42K1	Coburg	Det K1, 318th			1965	
+USA-33	Darmstadt	2 RSM			1949	1960
+USA-67	Darmstadt	6910 Scty			1962	1972
+USA-556	Darmstadt	6911 Scty Sq			1966	1970
+US-987L2	Diepholz		3	HF		
+USA-52	Dromersheim				1954	1957
 
 3
 
+SIGAD	LOCATION	SHORT_TITLE
+USM-44N	Eckstein	
+USA-53	Eckstein	
+USA-756	Frankfurt	
+USF-798	Frankfurt	
+USM-616	Frankfurt	
+USM-648	Frankfurt	
+USM-661	Frankfurt	
+USM-701	Frankfurt	
+USD-1021	Frankfurt a.M.	NCEUR FKFT
+X21	Frankfurt a.M.	
+Z03	Frankfurt a.M.	
+USM-648	Frankfurt-Hoechst	
+USM-648A	Frankfurt-Hoechst	
+USM-648B	Frankfurt-Hoechst	
+USM-648C	Frankfurt-Hoechst	
+USA-67	Freudenburg (?)	
+USM-43L	Gartow	
+UKA-277F	Gatow	
+USA-43L	Gatow	
+UKM-251M	GERMANY	
+USM-31	Giessen	
+USJ-753	Griessheim	ECC (ESOC)
+USM-44	Griessheim	ECC (ESOC)
+USM-6	Gross Gerau	
+UKM-251 H	Gross Guborn	
+USM-44L	Gross Gusborn	
+USM-670	Gruenstadt	
+USM-10	Gruenwalde Forest	
+
+ASSIGNED_TO	Legend	PDDG	BeginY EndY
+			1970 1975
+6913			1975 1975
+			1957 1957
+			1967 1970
+302			1975 1976
+856			1975 1976
+Carryback /			1966 1970
+ASAE HQ			1957 1968
+NSA Rep	1		1975
+USASA			1966
+European			1966
+DSU	1	BJ	
+DSE	1	CV	
+DSE	1	PE	
+DSE	1	PM	
+Det. 2, 6910			1966
+Det L, 17th			1966 1970
+	2	6M	
+Det. L, 17th			1966 1970
+	2	OE	
+
+1951 1954
 
-
-PDDG BeginY EndY
-1957 1958
-
-1956 1957
-DH
-HW
-CT
-DV
-
-SIGAD
-
-LOCATION
-
-USD-1005A Augsburg
-
-USA-53
-USD-1023
-USM-44
-USM-44
-USM-616
-USM-628
-USM-628A
-USM-644
-USM-662
-USM-662A
-USM-662B
-USN-22
-USA-67
-USM-6OO
-USM-601
-USM-602
-USM-609
-USP-778
-USM-44F
-USM-85
-USM-87
-USM-89
-USD-1079
-USM-605
-USM-43K1
-USM-62OK
-USM-602K
-
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Augsburg
-Bad Aibling
-Bad Aibling
-Bad Aibling
-Bad Aibling
-Bad Aibling
-Bad Aibling
-
-Bad Aidbling
-
-Bahrdorf
-Bahrdorf
-Bahrdorf
-
-
-
-CGG A F313
-
-NCEUR AUG
-
-SUSLAG
-
-
-
-CGGA F313
-
-SPICEBUSH
-DSU
-DSU
-DSE
-
-DSU
-
-502
-F81
-
-18th USASA
-US LAG
-
-Legend
-1
-1
-1
-
-PDDG
-
-BeginY
-
-1975
-1976
-1975
-1972
-1972
-
-1975
-
-1975
-1970
-
-1973
-1976
-1968
-1968
-1957
-1970
-1967
-
-1956
-1956
-1956
-
-1957
-1957
-1965
-1957
-
-EndY
-
-1991
-
-1993
-1993
-
-1976
-
-1976
-1976
-
-1994
-1991
-1968
-1968
-1968
-1976
-
-1963
-1972
-1972
-
-1957
-1957
-
-1957
-
-SIGAD
-USM-42
-USM-42K
-USM-45
-USM-82
-USD-1024
-USM-5
-USM-620
-USA-70K
-USM-620Y
-USM-620Y
-USA-70
-UKA-277
-USA-70K
-USM-620K
-USM-620
-USM-620K
-UKM-251
-USA-765A
-USA-53
-USA-53
-USN-40
-USM-42K1
-USM-42K1
-USA-33
-USA-67
-USA-556
-US-987L2
-USA-52
-
-LOCATION
-
-Barn berg
-
-Barn berg
-Baumholder
-Baumholder
-
-Berlin
-
-Berlin
-
-Berlin
-
-Berlin Tempelhof
-Berlin Tempelhof
-Berlin Tempelhof
-Berlin Tempelhof
-Berlin Teufelsberg
-Berlin Teufelsberg
-Berlin Teufelsberg
-Berlin Teufelsberg
-Berlin Teufelsberg
-Birgelen
-
-Boerfink
-Bremerhaven
-Bremerhaven
-Bremerhaven
-Coburg
-
-Coburg
-Darmstadt
-Darmstadt
-Darmstadt
-Diepholz
-
-Dromersheim
-
-
-
-NCEUR BERLIN
-
-
-
-507th USASA
-
-NSA Rep
-
-54th USASA
-6912 
-
-78th USASA
-6912 Scty Sq,
-
-6912
-
-3rd Plt, 78th
-3rd Plt, 78th
-
-CSG USAFE
-41 RSM
-Det 1, 6950
-
-Det K1, 318th
-2 RSM
-
-6910 Scty
-6911 Scty Sq
-
-Legend PDDG
-
-BeginY
-1956
-1954
-1952
-1964
-1975
-1975
-1951
-
-1957
-1965
-1954
-
-1970
-1957
-1965
-1965
-
-1951
-1960
-1954
-1956
-1965
-1949
-1962
-1966
-
-1954
-
-EndY
-1957
-1966
-1960
-1967
-
-1992
-1974
-1967
-1959
-
-1967
-1992
-1976
-1974
-1992
-1992
-
-1968
-1966
-1970
-1956
-
-1960
-
-1972
-
-1970
-
-1957
-
-SHEAD
-USM-44N
-USA-53
-USA-756
-USP-798
-USM-616
-USM-648
-USM-661
-USM-701
-USD-1021
-X21
-
-Z03
-USM-648
-USM-648A
-USM-648B
-USM-648C
-USA-67
-USM-43L
-UKA-277F
-USA-43L
-UKM-251M
-USM-31
-USJ-753
-USM-44
-USM-6
-UKM-251H
-USM-44L
-USM-670
-USM-10
-
-LOCATION 
-Eckstein
-
-Eckstein
-
-Frankfurt
-
-Frankfurt
-
-Frankfurt
-
-Frankfurt
-
-Frankfurt
-
-Frankfurt
-
-Frankfurt a.M. NCEUR FKFT
-Frankfurt a.M.
-Frankfurt a.M.
-Frankfurt-Hoechst
-Frankfurt-Hoechst
-Frankfurt-Hoechst
-Frankfurt-Hoechst
-Freudenburg 
-Gartow
-
-Gatow
-
-Gatow
-
-A 
-Giessen
-Griessheim ECC (ESOC)
-Griessheim ECC (ESOC)
-Gross Gerau
-
-Gross Guborn
-
-Gross Gusborn
-
-Gruenstadt
-
-Gruenwalde Forest
-
-Legend PDDG
-6913
-302
-856
-Carryback/
-ASAE HQ
-NSA Rep 1
-USASA
-European
-DSU Det. 2, 6910
-Det L, 17th
-2 6M
-Det. L, 17th
-2 OE
 Dagger
+
 Dagger
-2 VM
-1 GU
 
-BeginY
-1970
-1975
-1957
-1967
-1975
-1975
-1966
-1957
-1975
-1966
-1966
-
-1966
-1966
-
-1966
-
-1951
-
-1945
-
-1970
-1970
-1956
-
-EndY
-1975
-1975
-1957
-1970
-1976
-1976
-1970
-1968
-
-1970
-
-1970
-
-1954
-
-1946
-
-1973
-1970
-1959
-
-SIGAD LOCATION Legend PDDG BeginY EndY
-
-USM-620L Gruenwalde Forest Det 1, 1st Plt, 1957 1970
-USA-556 Hahn Air Base DSE 1 RP
-
-USA-556A Hahn Air Base DSE 1 M5
-
-USA-556B Hahn Air Base DSE 1 NV
-
-USA-556C Hahn Air Base DSE 1 GK
-
-USA-556D Hahn Air Base DSE 1 FH
-
-USA-556E Hahn Air Base DSE 1 EG
-
-USM-556 Hanhn AB 6911 1974 1976
-USM-705 Heidelberg CSG, 1 DW 1970 1976
-X13 Heidelberg 102nd 1966
-USM-82 Heilbronn 1956 1969
-USM-32 Herzo Base 1951 1954
-USM-42L Herzo Base 1957 1957
-USM-88 Herzo Base 8606 1954 1956
-USM-31 Herzo Base, 1949 1950
-USM-42 Herzogenaurach 16th USAS 1957 1972
-USM-600 Herzogenaurach 182nd USAS 1966 1967
-USM-601 Herzogenaurach 183th USASA 1966 1968
-USM-6 Herzogenaurach 1947 1960
-USM-618 Herzogenaurach 318th USASA 1966 1968
-UKM-253 Hildesheim 2 7S
-
-USA-73 Hof 6915 Scty Gp, 1955 1971
-USM-42K2 Hof 1956 1956
-USM-43M Hohen Meissner Co C, 319th 1965 1992
-USM-44M Hohen Meissner Co C, 319th 1965 1992
-USM-42K Hoherbergen Det. K, 16th 1966 1968
-USM-44 Hoherbogen 1 AQ
-
-USM-645 Idar Oberstein DSU 1 CE 1975 1976
-
-SIGAD
-USM-645A
-USM-645B
-USM-645C
-UKM-251Y
-USA-71
-USM-647
-USM-647A
-USM-647B
-USM-647C
-USM-647
-USA-74
-USA-74
-UKM-253A
-USM-652
-USM-615
-USM-601
-USM-43L1
-USM-88K
-USM-602L
-USM-42L1
-USM-88J
-USM-42L1
-USM-88J
-USA-70
-USM-62OS
-USM-43M
-USM-44M
-USD-1005
-
-LOCATION 
-Idar Oberstein
-Idar Oberstein
-Idar Oberstein
-Jever
-
-Kassel
-Kitzingen
-Kitzingen
-Kitzingen
-Kitzingen
-Kitzingen
-Landsberg
-Landshut
-Langleben
-Lenggnes
-Ludwigsburg
-Luebeck
-Luebeck
-Luebeck
-Luebeck
-Mahring
-Mahring
-Mahring
-Mahring
-Marienfelde
-Marienfelde
-Mt. Meissner
-Mt. Meissner
-
-Munich
-
-Legend PDDG
-502nd
-DSU 307 1 DJ
-CO B, 319th
-
-Det L1 318th
-
-Det L1 318th
-
-6912 1 PP
-
-Det M, 17th
-
-CGG 1 TS
-
-BeginY
-
-1954
-1945
-1945
-1945
-1945
-1975
-1955
-1956
-
-1966
-1975
-1956
-1956
-1956
-1957
-1957
-1956
-1965
-1965
-1967
-1970
-1966
-1970
-
-EndY
-
-1957
-2007
-2007
-2007
-2007
-1976
-1956
-1964
-
-1968
-1976
-1957
-1957
-1965
-1957
-1957
-1956
-
-1991
-1970
-1970
-1975
-
-SIGAD
-USD-1005
-USM-606
-USA-67
-USM-85J
-USM-87J
-USM-43H
-USA-765
-
-LOCATION
-Munich
-Munich
-Munich
-Nottau
-Nottau
-Radenbeck
-
-Ramstein
-
-USAFSSEU Ramstein
-
-USJ-792
-USA-556
-USA-512
-USD-1031
-USM-43
-USM-43K
-USM-43M
-USM-43L
-USM-88
-USM-602
-USM-619
-USM-620
-USM-620
-USM-32
-USM-8
-USM-44A
-USM-42J
-USM-42L2
-USM-42J
-USM-604
-
-Ramstein
-
-Rhein Main AFB
-Rhein-Main AFB
-
-Rheindahlen
-Rothwesten
-Rothwesten
-Rothwesten
-Rothwesten
-Rothwesten
-Rothwesten
-Rothwesten
-Rudow
-Rudow
-Scheyem
-Scheyem
-Schleswig
-Schneeberg
-Schneeberg
-Schneeberg
-
-Seckenheim
-
-
-
-
-
-CGG F31
-DSU
-Det. 3, 6910
-
-CSG, USAFE
-
-6916 Scty Sq,
-
-GCUG
-
-17th USASA
-
-184th USASA
-319 USASA
-
-St Plt, 78th
-1st 78th
-
-Det J, 16th,
-
-Det J1, 318th
-
-Legend
-
-1
-
-1
-
-PDDG
-
-MJ
-
-PU
-
-BP
-
-BeginY
-
-1975
-
-1966
-1956
-1956
-1967
-1973
-
-1967
-1973
-1958
-
-1954
-1956
-1957
-1956
-1957
-1966
-1966
-1965
-1965
-1954
-1951
-
-1966
-1957
-1965
-1957
-
-EndY
-
-1956
-1957
-1970
-
-1968
-1973
-1973
-
-1972
-1957
-1957
-1957
-1966
-1967
-1968
-1991
-1992
-1957
-1957
-
-1968
-1957
-
-1957
-
-SIGAD
-USA-514
-USA-67
-USD-1020F
-USD-1020
-USF-789
-USD-1020
-USN-17
-
-US-987L2
-USM-88X
-USA-72
-USM-621
-USM-621 
-USM-621
-USM-621 
-UKA-289
-UKM-253B
-US-987L
-USA-765
-USM-43K
-USM-44K
-USM-662D
-USA-70L
-USM-662D
-USM-44
-03-751
-USA-52L
-USA-751
-
-LOCATION 
-Sembach
-
-Sembach
-
-Stuttgart Vaihingen 
-Stuttgart Vaihingen
-
-Stuttgart Vaihingen
-
-Stuttgart Vaihingen NSA Rep. Europe NSA Rep.
-
-TOdendOn
-TOdendOn
-Vehrse
-Waldsassen
-Wasserkuppe
-Wasserkuppe
-Wasserkuppe
-Wasserkuppe
-Wasserkuppe
-Wesendorf
-Wesendorf
-West Germany
-Wiesbaden
-WObeck
-WObeck
-WObeck
-WObeck
-VVubeck
-Wurm berg
-Zweibrucken
-Zweibrucken
-
-Zweibrucken
-
-Legend PDDG
-1 TR
-
-NCEUR F2 1
-
-F202 Det. K, 17th
-
-323
-
-3912
-1 cs
-1 CO
-
-3901 see,
-
-3901 see,
-
-BeginY
-1957
-1954
-1975
-
-1975
-1966
-1957
-
-1956
-1956
-1957
-1959
-1957
-1959
-
-1970
-1966
-1970
-1976
-1970
-
-1956
-1954
-1956
-
-EndY
-1959
-1962
-
-1975
-1975
-
-1956
-1957
-1957
-1960
-1957
-1960
-
-1970
-1970
-1975
-1976
-1976
-
-1968
-1959
-1968
-
+1945 1946
+
+2	VM
+
+1970 1973
+1	GU	1970 1970
+
+1956 1959
+
+4
+
+SIGAD	LOCATION SHORT_TITLE	ASSIGNED_TO	Legend	PDDG	BeginY	EndY
+USM-620L	Gruenwalde Forest	Det 1, Ist Plt,			1957	1970
+USA-556	Hahn Air Base	DSE	1	RP		
+USA-556A	Hahn Air Base	DSE	1	M5		
+USA-556B	Hahn Air Base	DSE	1	NV		
+USA-556C	Hahn Air Base	DSE	1	GK		
+USA-556D	Hahn Air Base	DSE	1	FH		
+USA-556E	Hahn Air Base	DSE	1	EG		
+USM-556	Hanhn AB	6911			1974	1976
+USM-705	Heidelberg	CSG,	1	DW	1970	1976
+X13	Heidelberg	102nd			1966	
+USM-82	Heilbronn				1956	1969
+USM-32	Herzo Base				1951	1954
+USM-42L	Herzo Base				1957	1957
+USM-88	Herzo Base	8606			1954	1956
+USM-31	Herzo Base,				1949	1950
+USM-42	Herzogenaurach	16th USAS Fld			1957	1972
+USM-600	Herzogenaurach	182nd USAS			1966	1967
+USM-601	Herzogenaurach	183th USASA			1966	1968
+USM-6	Herzogenaurach				1947	1960
+USM-618	Herzogenaurach	318th USASA			1966	1968
+UKM-253	Hildesheim		2	7S		
+USA-73	Hof	6915 Scty Gp,			1955	1971
+USM-42K2	Hof				1956	1956
+USM-43M	Hohen Meissner	Co C, 319th			1965	1992
+USM-44M	Hohen Meissner	Co C, 319th			1965	1992
+USM-42K	Hoherbergen	Det. K, 16th			1966	1968
+USM-44	Hoherbogen		1	AQ		
+USM-645	Idar Oberstein	DSU	1	CE	1975	1976
+
+5
+
+SIGAD	LOCATION	SHORT_TITLE	ASSIGNED_TO	Legend	PDDG	BeginY	EndY
+USM-645A	Idar Oberstein			1	BR		
+USM-645B	Idar Oberstein		DSE	1	FT		
+USM-645C	Idar Oberstein		DSE	1	IF		
+UKM-251Y	Jever			2	0T		
+USA-71	Kassel					1954	1957
+USM-647	Kitzingen		DSU	1	CM	1945	2007
+USM-647A	Kitzingen		DSE	1	MN	1945	2007
+USM-647B	Kitzingen		DSE	1	PJ	1945	2007
+USM-647C	Kitzingen		DSE	1	PD	1945	2007
+USM-647	Kitzingen		851			1975	1976
+USA-74	Landsberg					1955	1956
+USA-74	Landshut					1956	1964
+UKM-253A	Langleben			2	1P		
+USM-652	Lenggries		502nd			1966	1968
+USM-615	Ludwigsburg		DSU 307	1	DJ	1975	1976
+USM-601	Luebeck					1956	1957
+USM-43L1	Luebeck					1956	1957
+USM-88K	Luebeck		Co B, 319th			1956	1965
+USM-602L	Luebeck					1957	1957
+USM-42L1	Mahring					1957	1957
+USM-88J	Mahring					1956	1956
+USM-42L1	Mahring		Det L1, 318th			1965	
+USM-88J	Mahring		Det L1, 318th			1965	
+USA-70	Marienfelde		6912 SCTYS	1	PP	1967	1991
+USM-620S	Marienfelde					1970	1970
+USM-43M	Mt. Meissner		Det M, 17th			1966	1970
+USM-44M	Mt. Meissner					1970	1975
+USD-1005	Munich		CGG	1	TS		
+
+6
+
+SIGAD	LOCATION SHORT_TITLE	ASSIGNED_TO	Legend PDDG	BeginY	EndY
+USD-1005	Munich	CGG F31	1	1975	
+USM-606	Munich	DSU	1 MJ		
+USA-67	Munich	Det. 3, 6910		1966	
+USM-85J	Nottau			1956	1956
+USM-87J	Nottau			1956	1957
+USM-43H	Radenbeck			1967	1970
+USA-765	Ramstein	CSG, USAFE	1 PU	1973	
+USAFSSEU Ramstein			1		
+USJ-792	Ramstein			1967	1968
+USA-556	Rhein Main AFB			1973	1973
+USA-512	Rhein-Main AFB	6916 Scty Sq,		1958	1973
+USD-1031	Rheindahlen	GCUG	2		
+USM-43	Rothwesten	17th USASA		1954	1972
+USM-43K	Rothwesten			1956	1957
+USM-43M	Rothwesten			1957	1957
+USM-43L	Rothwesten			1956	1957
+USM-88	Rothwesten			1957	1966
+USM-602	Rothwesten	184th USASA		1966	1967
+USM-619	Rothwesten	319 USASA		1966	1968
+USM-620	Rudow	St Plt, 78th		1965	1991
+USM-620	Rudow	1 st Plt, 78th		1965	1992
+USM-32	Scheyern			1954	1957
+USM-8	Scheyern			1951	1957
+USM-44A	Schleswig		1 BP		
+USM-42J	Schneeberg	Det J, 16th,		1966	1968
+USM-42L2	Schneeberg			1957	1957
+USM-42J	Schneeberg	Det J1,318th		1965	
+USM-604	Seckenheim			1957	1957
+
+7
+
+SIGAD	LOCATION SHORT_TITLE	ASSIGNED_TO	Legend	PDDG	BeginY	EndY
+USA-514	Sembach				1957	1959
+USA-67	Sembach				1954	1962
+USD-1020F	Stuttgart Vaihingen NCEUR		1	TR	1975	
+USD-1020	Stuttgart Vaihingen	NCEUR F2	1			
+USF-789	Stuttgart Vaihingen	F202	1	7V		
+USD-1020	Stuttgart Vaihingen NSA Rep. Europe	NSA Rep.			1975	
+USN-17	Todendorf				1966	1975
+USN-40J	Todendorf				1957	1975
+US-987L2	Vehrse		3	HK		
+USM-88X	Waldsassen				1956	1956
+USA-72	Wasserkuppe				1956	1957
+USM-621	Wasserkuppe				1957	1957
+USM-621Y	Wasserkuppe				1959	1960
+USM-621	Wasserkuppe				1957	1957
+USM-621 Y	Wasserkuppe				1959	1960
+UKA-289	Wesendorf		2	41		
+UKM-253B	Wesendorf		2	1R		
+US-987L	West Germany		3	3P		
+USA-765	Wiesbaden				1970	1970
+USM-43K	Wobeck	Det. K, 17th			1966	1970
+USM-44K	Wobeck				1970	1975
+USM-662D	Wobeck	326			1976	1976
+USA-70L	Wobeck	6912			1970	1976
+USM-662D	Wubeck		1	CS		
+USM-44	Wurmberg		1	CQ		
+US-751	Zweibrucken	6901 SCG,			1956	1968
+USA-52L	Zweibrucken				1954	1959
+USA-751	Zweibrucken	6901 SCG,			1956	1968
+
+8

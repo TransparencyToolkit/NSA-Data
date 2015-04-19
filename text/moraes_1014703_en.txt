@@ -1,0 +1,2783 @@
+﻿EUROPEAN PARLIAMENT
+
+2009 - 2014
+
+Committee on Civil Liberties, Justice and Home Affairs
+
+8.1.2014
+
+2013/2188(INI)
+
+DRAFT REPORT
+
+on the US NSA surveillance programme, surveillance bodies in various
+Member States and their impact on EU citizens’ fundamental rights and on
+transatlantic cooperation in Justice and Home Affairs
+
+(2013/2188(INI))
+
+Committee on Civil Liberties, Justice and Home Affairs
+
+Rapporteur: Claude Moraes
+
+PR\1014703EN.doc
+
+PE526.085v02-00
+
+EN
+
+United in diversity
+
+EN
+
+PR INI
+
+CONTENTS
+
+Page
+
+MOTION FOR A EUROPEAN PARLIAMENT RESOLUTION...............3
+
+EXPLANATORY STATEMENT....................................35
+
+ANNEX I: LIST OF WORKING DOCUMENTS.......................42
+
+ANNEX II: LIST OF HEARINGS AND EXPERTS...................43
+
+ANNEX III: LIST OF EXPERTS WHO DECLINED PARTICIPATING IN THE LIBE
+INQUIRY PUBLIC HEARINGS..................................51
+
+PE526.085v02-00	2/52	PR\1014703EN.doc
+
+EN
+
+MOTION FOR A EUROPEAN PARLIAMENT RESOLUTION
+
+on the US NSA surveillance programme, surveillance bodies in various Member States and
+
+their impact on EU citizens’ fundamental rights and on transatlantic cooperation in Justice and
+
+Home Affairs
+
+(2013/2188(INI))
+
+The European Parliament,
+
+-	having regard to the Treaty on European Union (TEU), in particular Articles 2, 3, 4, 5,
+6, 7, 10, 11 and 21 thereof,
+
+-	having regard to the Treaty on the Functioning of the European Union (TFEU), in
+particular Articles 15, 16 and 218 and Title V thereof,
+
+-	having regard to Protocol 36 on transitional provisions and Article 10 thereof and to
+Declaration 50 concerning this protocol,
+
+-	having regard to the Charter on Fundamental Rights of the European Union, in
+particular Articles 1, 3, 6, 7, 8, 10, 11, 20, 21, 42, 47, 48 and 52 thereof,
+
+-	having regard to the European Convention on Human Rights, notably its Articles 6, 8,
+9, 10 and 13, and the protocols thereto,
+
+-	having regard to the Universal Declaration of Human Rights, notably its Articles 7, 8,
+10,11,12 and 141,
+
+-	having regard to the International Covenant on Civil and Political Rights, notably its
+Articles 14, 17, 18 and 19,
+
+-	having regard to the Council of Europe Convention on Data Protection (ETS No 108)
+and its Additional Protocol of 8 November 2001 to the Convention for the Protection
+of Individuals with regard to Automatic Processing of Personal Data regarding
+supervisory authorities and transborder data flows (ETS No 181),
+
+-	having regard to the Council of Europe Convention on Cybercrime (ETS No 185),
+
+-	having regard to the Report of the UN Special Rapporteur on the promotion and
+protection of human rights and fundamental freedoms while countering terrorism,
+submitted on 17 May 20102,
+
+-	having regard to the Report of the UN Special Rapporteur on the promotion and
+protection of the right to freedom of opinion and expression, submitted on 17 April
+20133,
+
+-	having regard to the Guidelines on human rights and the fight against terrorism
+
+1	http://www.un.org/en/documents/udhr/
+
+2	http://daccess-dds-nv.un.org/doc/UNDOC/GEN/G10/134/10/PDF/G1013410.pdf7QpenElement
+
+3	http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40 EN.pdf
+
+PR\1014703EN.doc	3/52	PE526.085v02-00
+
+EN
+
+adopted by the Committee of Ministers of the Council of Europe on 11 July 2002,
+
+having regard to the Declaration of Brussels of 1 October 2010, adopted at the 6th
+Conference of the Parliamentary Committees for the Oversight of Intelligence and
+Security Services of the European Union Member States,
+
+having regard to Council of Europe Parliamentary Assembly Resolution No 1954
+(2013) on national security and access to information,
+
+having regard to the report on the democratic oversight of the security services
+adopted by the Venice Commission on 11 June 20071, and expecting with great
+interest the update thereof, due in spring 2014,
+
+having regard to the testimonies of the representatives of the oversight committees on
+intelligence of Belgium, the Netherlands, Denmark and Norway,
+
+having regard to the cases lodged before the French2, Polish and British3 courts, as
+well as before the European Court of Human Rights4, in relation to systems of mass
+surveillance,
+
+having regard to the Convention established by the Council in accordance with Article
+34 of the Treaty on European Union on Mutual Assistance in Criminal Matters
+between the Member States of the European Union, and in particular to Title III
+thereof5,
+
+having regard to Commission Decision 520/2000 of 26 July 2000 on the adequacy of
+the protection provided by the Safe Harbour privacy principles and the related
+frequently asked questions (FAQs) issued by the US Department of Commerce,
+
+having regard to the Commission assessment reports on the implementation of the
+Safe Harbour privacy principles of 13 February 2002 (SEC(2002)196) and of
+20 October 2004 (SEC(2004)1323),
+
+having regard to the Commission Communication of 27 November 2013
+(COM(2013)847) on the functioning of the Safe Harbour from the perspective of EU
+citizens and companies established in the EU and the Commission Communication of
+27 November 2013 on rebuilding trust in EU-US data flows (COM(2013)846),
+
+having regard to the European Parliament resolution of 5 July 2000 on the Draft
+Commission Decision on the adequacy of the protection provided by the Safe Harbour
+privacy principles and related frequently asked questions issued by the US Department
+of Commerce, which took the view that the adequacy of the system could not be
+
+1	http://www.venice.coe.int/webforms/documents/CDL-AD(2007)016.aspx
+
+2	La Fédération Internationale des Ligues des Droits de l’Homme and La Ligue française pour la défense des
+droits de l’Homme et du Citoyen against X; Tribunal de Grande Instance of Paris.
+
+3	Cases by Privacy International and Liberty in the Investigatory Powers Tribunal.
+
+4	Joint Application Under Article 34 of Big Brother Watch, Open Rights Group, English Pen Dr Constanze Kurz
+(Applicants) - v - United Kingdom (Respondent).
+
+5	OJ C 197, 12.7.2000, p. 1.
+
+PE526.085v02-00	4/52	PR\1014703EN.doc
+
+EN
+
+confirmed1, and to the Opinions of the Article 29 Working Party, more particularly
+Opinion 4/2000 of 16 May 20002,
+
+having regard to the agreements between the United States of America and the
+European Union on the use and transfer of passenger name records (PNR agreement)
+of 2004, 20073 and 20124,
+
+having regard to the Joint Review of the implementation of the Agreement between
+the EU and the USA on the processing and transfer of passenger name records to the
+US Department of Homeland Security5, accompanying the report from the
+Commission to the European Parliament and to the Council on the joint review
+(COM(2013)844),
+
+having regard to the opinion of Advocate-General Cruz Villalon concluding that
+Directive 2006/24/EC on the retention of data generated or processed in connection
+with the provision of publicly available electronic communications services or of
+public communications networks is as a whole incompatible with Article 52(1) of the
+Charter of Fundamental Rights of the European Union and that Article 6 thereof is
+incompatible with Articles 7 and 52(1) of the Charter6,
+
+having regard to Council Decision 2010/412/EU of 13 July 2010 on the conclusion of
+the Agreement between the European Union and the United States of America on the
+processing and transfer of Financial Messaging Data from the European Union to the
+United States for the purposes of the Terrorist Finance Tracking Program (TFTP)7 and
+the accompanying declarations by the Commission and the Council,
+
+having regard to the Agreement on mutual legal assistance between the European
+Union and the United States of America8,
+
+having regard to the ongoing negotiations on an EU-US framework agreement on the
+protection of personal data when transferred and processed for the purpose of
+preventing, investigating, detecting or prosecuting criminal offences, including
+terrorism, in the framework of police and judicial cooperation in criminal matters (the
+‘Umbrella agreement’),
+
+having regard to Council Regulation (EC) No 2271/96 of 22 November 1996
+protecting against the effects of the extra-territorial application of legislation adopted
+by a third country, and actions based thereon or resulting therefrom9,
+
+having regard to the statement by the President of the Federative Republic of Brazil at
+
+1	OJ C 121, 24.4.2001, p. 152.
+
+2	http://ec.europa.eu/iustice/policies/privacv/docs/wpdocs/2000/wp32en.pdf
+
+3	OJ L 204, 4.8.2007, p. 18.
+
+4	OJ L 215, 11.8.2012, p. 5.
+
+5	SEC(2013)630, 27.11.2013.
+
+6	Opinion of Advocate General Cruz Villalon, 12 December 2013, Case C-293/12.
+
+7	OJ L 195, 27.7.2010, p. 3.
+
+8	OJ L 181, 19.7.2003, p. 34
+
+9	OJ L 309, 29.11.1996, p.1.
+
+PR\1014703EN.doc	5/52	PE526.085v02-00
+
+EN
+
+the opening of the 68th session of the UN General Assembly on 24 September 2013
+and to the work carried out by the Parliamentary Committee of Inquiry on Espionage
+established by the Federal Senate of Brazil,
+
+having regard to the US PATRIOT Act signed by President George W. Bush on
+26 October 2001,
+
+having regard to the Foreign Intelligence Surveillance Act (FISA) of 1978 and the
+FISA Amendments Act of 2008,
+
+having regard to Executive Order No 12333, issued by the US President in 1981 and
+amended in 2008,
+
+having regard to legislative proposals currently under examination in the US Congress,
+in particular the draft US Freedom Act,
+
+having regard to the reviews conducted by the Privacy and Civil Liberties Oversight
+Board, the US National Security Council and the President’s Review Group on
+Intelligence and Communications Technology, particularly the report by the latter of
+12 December 2013 entitled ‘Liberty and Security in a Changing World’,
+
+having regard to the ruling of the United States District Court for the District of
+Columbia, Klayman et al. v Obama et al., Civil Action No 13-0851 of 16 December
+2013,
+
+having regard to the report on the findings by the EU Co-Chairs of the ad hoc EU-US
+Working Group on data protection of 27 November 20131,
+
+having regard to its resolutions of 5 September 2001 and 7 November 2002 on the
+existence of a global system for the interception of private and commercial
+communications (ECHELON interception system),
+
+having regard to its resolution of 21 May 2013 on the EU Charter: standard settings
+for media freedom across the EU2,
+
+having regard to its resolution of 4 July 2013 on the US National Security Agency
+surveillance programme, surveillance bodies in various Member States and their
+impact on EU citizens, whereby it instructed its Committee on Civil Liberties, Justice
+and Home Affairs to conduct an in-depth inquiry into the matter3,
+
+having regard to its resolution of 23 October 2013 on organised crime, corruption and
+money laundering: recommendations on action and initiatives to be taken4,
+
+having regard to its resolution of 23 October 2013 on the suspension of the TFTP
+
+1	Council document 16987/13.
+
+2	Texts adopted, P7_TA(2013)0203.
+
+3	Texts adopted, P7_TA-(2013)0322.
+
+4	Texts adopted, P7_TA(2013)0444.
+
+PE526.085v02-00	6/52	PR\1014703EN.doc
+
+EN
+
+agreement as a result of US National Security Agency surveillance1,
+
+-	having regard to its resolution of 10 December 2013 on unleashing the potential of
+cloud computing2,
+
+-	having regard to the interinstitutional agreement between the European Parliament and
+the Council concerning the forwarding to and handling by the European Parliament of
+classified information held by the Council on matters other than those in the area of
+the common foreign and security policy3,
+
+-	having regard to Annex VIII of its Rules of Procedure,
+
+-	having regard to Rule 48 of its Rules of Procedure,
+
+-	having regard to the report of the Committee on Civil Liberties, Justice and Home
+Affairs (A70000/2013),
+
+The impact of mass surveillance
+
+A.	whereas the ties between Europe and the United States of America are based on the
+spirit and principles of democracy, liberty, justice and solidarity;
+
+B.	whereas mutual trust and understanding are key factors in the transatlantic dialogue;
+
+C.	whereas in September 2001 the world entered a new phase which resulted in the fight
+against terrorism being listed among the top priorities of most governments; whereas
+the revelations based on leaked documents from Edward Snowden, former NSA
+contractor, put democratically elected leaders under an obligation to address the
+challenges of the increasing capabilities of intelligence agencies in surveillance
+activities and their implications for the rule of law in a democratic society;
+
+D.	whereas the revelations since June 2013 have caused numerous concerns within the
+EU as to:
+
+•	the extent of the surveillance systems revealed both in the US and in EU
+Member States;
+
+•	the high risk of violation of EU legal standards, fundamental rights and data
+protection standards;
+
+•	the degree of trust between EU and US transatlantic partners;
+
+•	the degree of cooperation and involvement of certain EU Member States with
+US surveillance programmes or equivalent programmes at national level as
+unveiled by the media;
+
+•	the degree of control and effective oversight by the US political authorities and
+certain EU Member States over their intelligence communities;
+
+1	Texts adopted, P7_TA(2013)0449.
+
+2	Texts adopted, P7_TA(2013)0535.
+
+3	OJ C 353 E, 3.12.2013, p.156-167.
+
+PR\1014703EN.doc	7/52	PE526.085v02-00
+
+EN
+
+•	the possibility of these mass surveillance operations being used for reasons
+other than national security and the strict fight against terrorism, for example
+economic and industrial espionage or profiling on political grounds;
+
+•	the respective roles and degree of involvement of intelligence agencies and
+private IT and telecom companies;
+
+•	the increasingly blurred boundaries between law enforcement and intelligence
+activities, leading to every citizen being treated as a suspect;
+
+•	the threats to privacy in a digital era;
+
+E.	whereas the unprecedented magnitude of the espionage revealed requires full
+investigation by the US authorities, the European Institutions and Members States’
+governments and national parliaments;
+
+F.	whereas the US authorities have denied some of the information revealed but not
+contested the vast majority of it; whereas the public debate has developed on a large
+scale in the US and in a limited number of EU Member States; whereas EU
+governments too often remain silent and fail to launch adequate investigations;
+
+G.	whereas it is the duty of the European Institutions to ensure that EU law is fully
+implemented for the benefit of European citizens and that the legal force of EU
+Treaties is not undermined by a dismissive acceptance of extraterritorial effects of
+third countries’ standards or actions;
+
+Developments in the US on reform of intelligence
+
+H.	whereas the District Court for the District of Columbia, in its Decision of 16
+December 2013, has ruled that the bulk collection of metadata by the NSA is in breach
+of the Fourth Amendment to the US Constitution1;
+
+I.	whereas a Decision of the District Court for the Eastern District of Michigan has ruled
+that the Fourth Amendment requires reasonableness in all searches, prior warrants for
+any reasonable search, warrants based upon prior-existing probable cause, as well as
+particularity as to persons, place and things and the interposition of a neutral
+magistrate between Executive branch enforcement officers and citizens2;
+
+J.	whereas in its report of 12 December 2013, the President’s Review Group on
+Intelligence and Communication Technology proposes 45 recommendations to the
+President of the US; whereas the recommendations stress the need simultaneously to
+protect national security and personal privacy and civil liberties; whereas in this regard
+it invites the US Government to end bulk collection of phone records of US persons
+under Section 215 of the Patriot Act as soon as practicable, to undertake a thorough
+review of the NSA and the US intelligence legal framework in order to ensure respect
+for the right to privacy, to end efforts to subvert or make vulnerable commercial
+software (backdoors and malware), to increase the use of encryption, particularly in 1 2
+
+1	Klayman et al. v Obama et al., Civil Action No 13-0851, 16 December 2013.
+
+2	ACLU v. NSA No 06-CV-10204, 17 August 2006.
+
+PE526.085v02-00	8/52	PR\1014703EN.doc
+
+EN
+
+the case of data in transit, and not to undermine efforts to create encryption standards,
+to create a Public Interest Advocate to represent privacy and civil liberties before the
+Foreign Intelligence Surveillance Court, to confer on the Privacy and Civil Liberties
+Oversight Board the power to oversee Intelligence Community activities for foreign
+intelligence purposes, and not only for counterterrorism purposes, and to receive
+whistleblowers’ complaints, to use Mutual Legal Assistance Treaties to obtain
+electronic communications, and not to use surveillance to steal industry or trade
+secrets;
+
+K.	whereas in respect of intelligence activities about non-US persons under Section 702
+of FISA, the Recommendations to the President of the USA recognise the fundamental
+issue of respect for privacy and human dignity enshrined in Article 12 of the Universal
+Declaration of Human Rights and Article 17 of the International Covenant on Civil
+and Political Rights; whereas they do not recommend granting non-US persons the
+same rights and protections as US persons;
+
+Legal framework
+
+Fundamental rights
+
+L.	whereas the report on the findings by the EU Co-Chairs of the ad hoc EU-US Working
+Group on data protection provides for an overview of the legal situation in the US but
+has not helped sufficiently with establishing the facts about US surveillance
+programmes; whereas no information has been made available about the so-called
+‘second track’ Working Group, under which Member States discuss bilaterally with
+the US authorities matters related to national security;
+
+M.	whereas fundamental rights, notably freedom of expression, of the press, of thought,
+of conscience, of religion and of association, private life, data protection, as well as
+the right to an effective remedy, the presumption of innocence and the right to a fair
+trial and non-discrimination, as enshrined in the Charter on Fundamental Rights of the
+European Union and in the European Convention on Human Rights, are cornerstones
+of democracy;
+
+Union competences in the field of security
+
+N.	whereas according to Article 67(3) TFEU the EU ‘shall endeavour to ensure a high
+level of security’; whereas the provisions of the Treaty (in particular Article 4(2) TEU,
+Article 72 TFEU and Article 73 TFEU) imply that the EU disposes of certain
+competences on matters relating to the collective security of the Union; whereas the
+EU has exercised competence in matters of internal security by deciding on a number
+of legislative instruments and concluding international agreements (PNR, TFTP)
+aimed at fighting serious crime and terrorism and by setting up an internal security
+strategy and agencies working in this field;
+
+O.	whereas the concepts of ‘national security’, ‘internal security’, ‘internal security of the
+EU’ and ‘international security’ overlap; whereas the Vienna Convention on the Law
+of Treaties, the principle of sincere cooperation among EU Member States and the
+human rights law principle of interpreting any exemptions narrowly point towards a
+
+PR\1014703EN.doc	9/52	PE526.085v02-00
+
+EN
+
+restrictive interpretation of the notion of ‘national security’ and require that Member
+States refrain from encroaching upon EU competences;
+
+P.	whereas, under the ECHR, Member States’ agencies and even private parties acting in
+the field of national security also have to respect the rights enshrined therein, be they
+of their own citizens or of citizens of other States; whereas this also goes for
+cooperation with other States’ authorities in the field of national security;
+
+Extra-territoriality
+
+Q.	whereas the extra-territorial application by a third country of its laws, regulations and
+other legislative or executive instruments in situations falling under the jurisdiction of
+the EU or its Member States may impact on the established legal order and the rule of
+law, or even violate international or EU law, including the rights of natural and legal
+persons, taking into account the extent and the declared or actual aim of such an
+application; whereas, in these exceptional circumstances, it is necessary to take action
+at the EU level to ensure that the rule of law, and the rights of natural and legal
+persons are respected within the EU, in particular by removing, neutralising, blocking
+or otherwise countering the effects of the foreign legislation concerned;
+
+International transfers of data
+
+R.	whereas the transfer of personal data by EU institutions, bodies, offices or agencies or
+by the Member States to the US for law enforcement purposes in the absence of
+adequate safeguards and protections for the respect of fundamental rights of EU
+citizens, in particular the rights to privacy and the protection of personal data, would
+make that EU institution, body, office or agency or that Member State liable, under
+Article 340 TFEU or the established case law of the CJEU1, for breach of EU law -
+which includes any violation of the fundamental rights enshrined in the EU Charter;
+
+Transfers to the US based on the US Safe Harbour
+
+S.	whereas the US data protection legal framework does not ensure an adequate level of
+protection for EU citizens;
+
+T.	whereas, in order to enable EU data controllers to transfer personal data to an entity in
+the US, the Commission, in its Decision 520/2000, has declared the adequacy of the
+protection provided by the Safe Harbour privacy principles and the related FAQs
+issued by the US Department of Commerce for personal data transferred from the
+Union to organisations established in the United States that have joined the Safe
+Harbour;
+
+U.	whereas in its resolution of 5 July 2000 the European Parliament expressed doubts and
+concerns as to the adequacy of the Safe Harbour and called on the Commission to
+review the decision in good time in the light of experience and of any legislative
+developments;
+
+1 See notably Joined Cases C-6/90 and C-9/90, Francovich and others v. Italy, judgment of 28 May 1991.
+PE526.085v02-00	10/52	PR\1014703EN.doc
+
+EN
+
+V.	whereas Commission Decision 520/2000 stipulates that the competent authorities in
+Member States may exercise their existing powers to suspend data flows to an
+organisation that has self-certified its adherence to the Safe Harbour principles, in
+order to protect individuals with regard to the processing of their personal data in
+cases where there is a substantial likelihood that the Safe Harbour principles are being
+violated or that the continuing transfer would create an imminent risk of grave harm to
+data subjects;
+
+W.	whereas Commission Decision 520/2000 also states that when evidence has been
+provided that anybody responsible for ensuring compliance with the principles is not
+effectively fulfilling their role, the Commission must inform the US Department of
+Commerce and, if necessary, present measures with a view to reversing or suspending
+the said Decision or limiting its scope;
+
+X.	whereas in its first two reports on the implementation of the Safe Harbour, of 2002
+and 2004, the Commission identified several deficiencies as regards the proper
+implementation of the Safe Harbour and made several recommendations to the US
+authorities with a view to rectifying them;
+
+Y.	whereas in its third implementation report, of 27 November 2013, nine years after the
+second report and without any of the deficiencies recognised in that report having been
+rectified, the Commission identified further wide-ranging weaknesses and
+shortcomings in the Safe Harbour and concluded that the current implementation
+could not be maintained; whereas the Commission has stressed that wide-ranging
+access by US intelligence agencies to data transferred to the US by
+Safe-Harbour-certified entities raises additional serious questions as to the continuity
+of protection of the data of EU data subjects; whereas the Commission addressed 13
+recommendations to the US authorities and undertook to identify by summer 2014,
+together with the US authorities, remedies to be implemented as soon as possible,
+forming the basis for a full review of the functioning of the Safe Harbour principles;
+
+Z.	whereas on 28-31 October 2013 the delegation of the European Parliament’s
+Committee on Civil Liberties, Justice and Home Affairs (LIBE Committee) to
+Washington D.C. met with the US Department of Commerce and the US Federal
+Trade Commission; whereas the Department of Commerce acknowledged the
+existence of organisations having self-certified adherence to Safe Harbour Principles
+but clearly showing a ‘not-current status’, meaning that the company does not fulfil
+Safe Harbour requirements although continuing to receive personal data from the EU;
+whereas the Federal Trade Commission admitted that the Safe Harbour should be
+reviewed in order to improve it, particularly with regard to complaints and alternative
+dispute resolution systems;
+
+AA.	whereas Safe Harbour Principles may be limited ‘to the extent necessary to meet
+national security, public interest, or law enforcement requirements’; whereas, as an
+exception to a fundamental right, such an exception must always be interpreted
+restrictively and be limited to what is necessary and proportionate in a democratic
+society, and the law must clearly establish the conditions and safeguards to make this
+limitation legitimate; whereas such an exception should not be used in a way that
+
+PR\1014703EN.doc
+
+11/52
+
+PE526.085v02-00
+
+EN
+
+undermines the protection afforded by EU data protection law and the Safe Harbour
+principles;
+
+AB.	whereas large-scale access by US intelligence agencies has seriously eroded
+transatlantic trust and negatively impacted on the trust for US organisations acting in
+the EU; whereas this is further exacerbated by the lack of judicial and administrative
+redress for EU citizens under US law, particularly in cases of surveillance activities
+for intelligence purposes;
+
+Transfers to third countries with the adequacy decision
+
+AC.	whereas according to the information revealed and to the findings of the inquiry
+conducted by the LIBE Committee, the national security agencies of New Zealand and
+Canada have been involved on a large scale in mass surveillance of electronic
+communications and have actively cooperated with the US under the so called ‘Five
+eyes’ programme, and may have exchanged with each other personal data of EU
+citizens transferred from the EU;
+
+AD.	whereas Commission Decisions 2013/651 and 2/2002 of 20 December 20012 have
+declared the adequate level of protection ensured by the New Zealand and the
+Canadian Personal Information Protection and Electronic Documents Act; whereas the
+aforementioned revelations also seriously affect trust in the legal systems of these
+countries as regards the continuity of protection afforded to EU citizens; whereas the
+Commission has not examined this aspect;
+
+Transfers based on contractual clauses and other instruments
+
+AE.	whereas Directive 95/46/EC provides that international transfers to a third country
+may also take place by means of specific instruments whereby the controller adduces
+adequate safeguards with respect to the protection of the privacy and fundamental
+rights and freedoms of individuals and as regards the exercise of the corresponding
+rights;
+
+AF.	whereas such safeguards may in particular result from appropriate contractual clauses;
+
+AG.	whereas Directive 95/46/EC empowers the Commission to decide that specific
+standard contractual clauses offer sufficient safeguards required by the Directive and
+whereas on this basis the Commission has adopted three models of standard
+contractual clauses for transfers to controllers and processors (and sub-processors) in
+third countries;
+
+AH.	whereas the Commission Decisions establishing the standard contractual clauses
+stipulate that the competent authorities in Member States may exercise their existing
+powers to suspend data flows when it is established that the law to which the data
+importer or a sub-processor is subject imposes upon them requirements to derogate
+from the applicable data protection law which go beyond the restrictions necessary in
+
+1	OJ L 28, 30.1.2013, p. 12.
+
+2	OJ L 2, 4.1.2002, p. 13.
+
+PE526.085v02-00	12/52	PR\1014703EN.doc
+
+EN
+
+a democratic society as provided for in Article 13 of Directive 95/46/EC, where those
+requirements are likely to have a substantial adverse effect on the guarantees provided
+by the applicable data protection law and the standard contractual clauses, or where
+there is a substantial likelihood that the standard contractual clauses in the annex are
+not being or will not be complied with and the continuing transfer would create an
+imminent risk of grave harm to the data subjects;
+
+AI.	whereas national data protection authorities have developed binding corporate rules
+(BCRs) in order to facilitate international transfers within a multinational corporation
+with adequate safeguards with respect to the protection of the privacy and fundamental
+rights and freedoms of individuals and as regards the exercise of the corresponding
+rights; whereas before being used, BCRs need to be authorised by the Member States’
+competent authorities after the latter have assessed compliance with Union data
+protection law;
+
+Transfers based on TFTP and PNR agreements
+
+AJ.	whereas in its resolution of 23 October 2013 the European Parliament expressed
+serious concerns about the revelations concerning the NSA’s activities as regards
+direct access to financial payments messages and related data, which would constitute
+a clear breach of the Agreement, in particular Article 1 thereof;
+
+AK.	whereas the European Parliament asked the Commission to suspend the Agreement
+and requested that all relevant information and documents be made available
+immediately for Parliament’s deliberations;
+
+AL.	whereas following the allegations published by the media, the Commission decided to
+open consultations with the US pursuant to Article 19 of the TFTP Agreement;
+whereas on 27 November 2013 Commissioner Malmstrom informed the LIBE
+Committee that, after meeting US authorities and in view of the replies given by the
+US authorities in their letters and during their meetings, the Commission had decided
+not to pursue the consultations on the grounds that there were no elements showing
+that the US Government has acted in a manner contrary to the provisions of the
+Agreement, and that the US has provided written assurance that no direct data
+collection has taken place contrary to the provisions of the TFTP agreement;
+
+AM.	whereas during the LIBE delegation to Washington of 28-31 October 2013 the
+delegation met with the US Department of the Treasury; whereas the US Treasury
+stated that since the entry into force of the TFTP Agreement it had not had access to
+data from SWIFT in the EU except within the framework of the TFTP; whereas the
+US Treasury refused to comment on whether SWIFT data would have been accessed
+outside TFTP by any other US government body or department or whether the US
+administration was aware of NSA mass surveillance activities; whereas on
+
+18 December 2013 Mr Glenn Greenwald stated before the LIBE Committee inquiry
+that the NSA and GCHQ had targeted SWIFT networks;
+
+AN.	whereas the Belgian and Dutch Data Protection authorities decided on 13 November
+2013 to conduct a joint investigation into the security of SWIFT’s payment networks
+in order to ascertain whether third parties could gain unauthorised or unlawful access
+
+PR\1014703EN.doc	13/52	PE526.085v02-00
+
+EN
+
+to European citizens’ bank data1;
+
+AO.	whereas according to the Joint Review of the EU-US PNR agreement, the United
+States Department of Homeland Security (DHS) made 23 disclosures of PNR data to
+the NSA on a case-by-case basis in support of counterterrorism cases, in a manner
+consistent with the specific terms of the Agreement;
+
+AP.	whereas the Joint Review fails to mention the fact that in the case of processing of
+personal data for intelligence purposes, under US law, non-US citizens do not enjoy
+any judicial or administrative avenue to protect their rights, and constitutional
+protections are only granted to US persons; whereas this lack of judicial or
+administrative rights nullifies the protections for EU citizens laid down in the existing
+PNR agreement;
+
+Transfers based on the EU-US Mutual Legal Assistance Agreement in criminal matters
+
+AQ.	whereas the EU-US Agreement on mutual legal assistance in criminal matters of
+6 June 20032 entered into force on 1 February 2010 and is intended to facilitate
+cooperation between the EU and US to combat crime in a more effective way, having
+due regard for the rights of individuals and the rule of law;
+
+Framework agreement on data protection in the field of police and judicial cooperation
+
+(‘umbrella agreement ’)
+
+AR.	whereas the purpose of this general agreement is to establish the legal framework for
+all transfers of personal data between the EU and US for the sole purposes of
+preventing, investigating, detecting or prosecuting criminal offences, including
+terrorism, in the framework of police and judicial cooperation in criminal matters;
+whereas negotiations were authorised by the Council on 2 December 2010;
+
+AS.	whereas this agreement should provide for clear and precise legally binding
+data-processing principles and should in particular recognise EU citizens’ right to
+access, rectification and erasure of their personal data in the US, as well as the right to
+an efficient administrative and judicial redress mechanism for EU citizens and
+independent oversight of the data-processing activities;
+
+AT.	whereas in its Communication of 27 November 2013 the Commission indicated that
+the ‘umbrella agreement’ should result in a high level of protection for citizens on both
+sides of the Atlantic and should strengthen the trust of Europeans in EU-US data
+exchanges, providing a basis on which to develop EU-US security cooperation and
+partnership further;
+
+AU.	whereas negotiations on the agreement have not progressed because of the US
+Government’s persistent position of refusing recognition of effective rights of
+administrative and judicial redress to EU citizens and because of the intention of
+providing broad derogations to the data protection principles contained in the
+
+1	http://www.privacycommission.be/fr/news/les-instances-europ%C3%A9ennes-charg%C3%A9es-de-
+
+contr%C3%B4ler-le-respect-de-la-vie-priv%C3%A9e-examinent-la
+
+2	OJ L 181, 19.7.2003, p. 25
+
+PE526.085v02-00	14/52	PR\1014703EN.doc
+
+EN
+
+agreement, such as purpose limitation, data retention or onward transfers either
+domestically or abroad;
+
+Data Protection Reform
+
+AV.	whereas the EU data protection legal framework is currently being reviewed in order
+to establish a comprehensive, consistent, modern and robust system for all data-
+processing activities in the Union; whereas in January 2012 the Commission presented
+a package of legislative proposals: a General Data Protection Regulation1, which will
+replace Directive 95/46/EC and establish a uniform law throughout the EU, and a
+Directive2 which will lay down a harmonised framework for all data processing
+activities by law enforcement authorities for law enforcement purposes and will
+reduce the current divergences among national laws;
+
+AW.	whereas on 21 October 2013 the LIBE Committee adopted its legislative reports on
+the two proposals and a decision on the opening of negotiations with the Council with
+a view to having the legal instruments adopted during this legislative term;
+
+AX.	whereas, although the European Council of 24/25 October 2013 called for the timely
+adoption of a strong EU General Data Protection framework in order to foster the trust
+of citizens and businesses in the digital economy, the Council has been unable to
+arrive at a general approach on the General Data Protection Regulation and the
+Directive3;
+
+IT security and cloud computing
+
+AY.	whereas the resolution of 10 December4 emphasises the economic potential of ‘cloud
+computing’ business for growth and employment;
+
+AZ.	whereas the level of data protection in a cloud computing environment must not be
+inferior to that required in any other data-processing context; whereas Union data
+protection law, since it is technologically neutral, already applies fully to cloud
+computing services operating in the EU;
+
+BA. whereas mass surveillance activities give intelligence agencies access to personal data
+stored by EU individuals under cloud services agreements with major US cloud
+providers; whereas the US intelligence authorities have accessed personal data stored
+in servers located on EU soil by tapping into the internal networks of Yahoo and
+Google5; whereas such activities constitute a violation of international obligations;
+whereas it is not excluded that information stored in cloud services by Member States’
+public authorities or undertakings and institutions has also been accessed by
+intelligence authorities;
+
+Democratic oversight of intelligence services
+
+1	COM(2012) 11, 25.1.2012.
+
+2	COM(2012) 10, 25.1.2012.
+
+3	http://www.consilium.europa.eu/uedocs/cms data/docs/pressdata/en/ec/139197.pdf
+
+4	AT-0353/2013 PE506.114V2.00.
+
+5	The Washington Post , 31 October 2013.
+
+PR\1014703EN.doc	15/52	PE526.085v02-00
+
+EN
+
+BB.	whereas intelligence services perform an important function in protecting democratic
+society against internal and external threats; whereas they are given special powers
+and capabilities to this end; whereas these powers are to be used within the rule of law,
+as otherwise they risk losing legitimacy and eroding the democratic nature of society;
+
+BC.	whereas the high level of secrecy that is intrinsic to the intelligence services in order to
+avoid endangering ongoing operations, revealing modi operandi or putting at risk the
+lives of agents impedes full transparency, public scrutiny and normal democratic or
+judicial examination;
+
+BD.	whereas technological developments have led to increased international intelligence
+cooperation, also involving the exchange of personal data, and often blurring the line
+between intelligence and law enforcement activities;
+
+BE.	whereas most of existing national oversight mechanisms and bodies were set up or
+revamped in the 1990s and have not necessarily been adapted to the rapid
+technological developments over the last decade;
+
+BF.	whereas democratic oversight of intelligence activities is still conducted at national
+level, despite the increase in exchange of information between EU Member States and
+between Member States and third countries; whereas there is an increasing gap
+between the level of international cooperation on the one hand and oversight capacities
+limited to the national level on the other, which results in insufficient and ineffective
+democratic scrutiny;
+
+Main findings
+
+1.	Considers that recent revelations in the press by whistleblowers and journalists,
+together with the expert evidence given during this inquiry, have resulted in
+compelling evidence of the existence of far-reaching, complex and highly
+technologically advanced systems designed by US and some Member States’
+intelligence services to collect, store and analyse communication and location data and
+metadata of all citizens around the world on an unprecedented scale and in an
+indiscriminate and non-suspicion-based manner;
+
+2.	Points specifically to US NSA intelligence programmes allowing for the mass
+surveillance of EU citizens through direct access to the central servers of leading US
+internet companies (PRISM programme), the analysis of content and metadata
+(Xkeyscore programme), the circumvention of online encryption (BULLRUN), access
+to computer and telephone networks and access to location data, as well as to systems
+of the UK intelligence agency GCHQ such as its upstream surveillance activity
+(Tempora programme) and decryption programme (Edgehill); believes that the
+existence of programmes of a similar nature, even if on a more limited scale, is likely
+in other EU countries such as France (DGSE), Germany (BND) and Sweden (FRA); 3
+
+3.	Notes the allegations of ‘hacking’ or tapping into the Belgacom systems by the UK
+intelligence agency GCHQ; reiterates the indication by Belgacom that it could not
+confirm that EU institutions were targeted or affected, and that the malware used was
+extremely complex and required the use of extensive financial and staffing resources
+
+PE526.085v02-00	16/52	PR\1014703EN.doc
+
+EN
+
+for its development and use that would not be available to private entities or hackers;
+
+4.	States that trust has been profoundly shaken: trust between the two transatlantic
+partners, trust among EU Member States, trust between citizens and their
+governments, trust in the respect of the rule of law, and trust in the security of IT
+services; believes that in order to rebuild trust in all these dimensions a comprehensive
+plan is urgently needed;
+
+5.	Notes that several governments claim that these mass surveillance programmes are
+necessary to combat terrorism; wholeheartedly supports the fight against terrorism, but
+strongly believes that it can never in itself be a justification for untargeted, secret and
+sometimes even illegal mass surveillance programmes; expresses concerns, therefore,
+regarding the legality, necessity and proportionality of these programmes;
+
+6.	Considers it very doubtful that data collection of such magnitude is only guided by the
+fight against terrorism, as it involves the collection of all possible data of all citizens;
+points therefore to the possible existence of other power motives such as political and
+economic espionage;
+
+7.	Questions the compatibility of some Member States’ massive economic espionage
+activities with the EU internal market and competition law as enshrined in Title I and
+Title VII of the Treaty on the Functioning of the European Union; reaffirms the
+principle of sincere cooperation as enshrined in Article 4 paragraph 3 of the Treaty on
+European Union and the principle that the Member States shall ‘refrain from any
+measures which could jeopardise the attainment of the Union’s objectives’;
+
+8.	Notes that international treaties and EU and US legislation, as well as national
+oversight mechanisms, have failed to provide for the necessary checks and balances
+and for democratic accountability;
+
+9.	Condemns in the strongest possible terms the vast, systemic, blanket collection of the
+personal data of innocent people, often comprising intimate personal information;
+emphasises that the systems of mass, indiscriminate surveillance by intelligence
+services constitute a serious interference with the fundamental rights of citizens;
+stresses that privacy is not a luxury right, but that it is the foundation stone of a free
+and democratic society; points out, furthermore, that mass surveillance has potentially
+severe effects on the freedom of the press, thought and speech, as well as a significant
+potential for abuse of the information gathered against political adversaries;
+emphasises that these mass surveillance activities appear also to entail illegal actions
+by intelligence services and raise questions regarding the extra-territoriality of national
+laws;
+
+10.	Sees the surveillance programmes as yet another step towards the establishment of a
+fully fledged preventive state, changing the established paradigm of criminal law in
+democratic societies, promoting instead a mix of law enforcement and intelligence
+activities with blurred legal safeguards, often not in line with democratic checks and
+balances and fundamental rights, especially the presumption of innocence; recalls in
+
+PR\1014703EN.doc
+
+17/52
+
+PE526.085v02-00
+
+EN
+
+that regard the decision of the German Federal Constitutional Court1 on the prohibition
+of the use of preventive dragnets (‘präventive Rasterfahndung’) unless there is proof
+of a concrete danger to other high-ranking legally protected rights, whereby a general
+threat situation or international tensions do not suffice to justify such measures;
+
+11.	Is adamant that secret laws, treaties and courts violate the rule of law; points out that
+any judgment of a court or tribunal and any decision of an administrative authority of
+a non-EU state authorising, directly or indirectly, surveillance activities such as those
+examined by this inquiry may not be automatically recognised or enforced, but must
+be submitted individually to the appropriate national procedures on mutual recognition
+and legal assistance, including rules imposed by bilateral agreements;
+
+12.	Points out that the abovementioned concerns are exacerbated by rapid technological
+and societal developments; considers that, since internet and mobile devices are
+everywhere in modern daily life (‘ubiquitous computing’) and the business model of
+most internet companies is based on the processing of personal data of all kinds that
+puts at risk the integrity of the person, the scale of this problem is unprecedented;
+
+13.	Regards it as a clear finding, as emphasised by the technology experts who testified
+before the inquiry, that at the current stage of technological development there is no
+guarantee, either for EU public institutions or for citizens, that their IT security or
+privacy can be protected from intrusion by well-equipped third countries or EU
+intelligence agencies (‘no 100% IT security’); notes that this alarming situation can
+only be remedied if Europeans are willing to dedicate sufficient resources, both human
+and financial, to preserving Europe’s independence and self-reliance;
+
+14.	Strongly rejects the notion that these issues are purely a matter of national security and
+therefore the sole competence of Member States; recalls a recent ruling of the Court of
+Justice according to which ‘although it is for Member States to take the appropriate
+measures to ensure their internal and external security, the mere fact that a decision
+concerns State security cannot result in European Union law being inapplicable’2;
+recalls further that the protection of the privacy of all EU citizens is at stake, as are the
+security and reliability of all EU communication networks; believes therefore that
+discussion and action at EU level is not only legitimate, but also a matter of EU
+autonomy and sovereignty;
+
+15.	Commends the current discussions, inquiries and reviews concerning the subject of
+this inquiry in several parts of the world; points to the Global Government
+Surveillance Reform signed up to by the world’s leading technology companies,
+which calls for sweeping changes to national surveillance laws, including an
+international ban on bulk collection of data to help preserve the public’s trust in the
+internet; notes with great interest the recommendations published recently by the US
+President’s Review Group on Intelligence and Communications Technologies;
+strongly urges governments to take these calls and recommendations fully into account
+and to overhaul their national frameworks for the intelligence services in order to
+implement appropriate safeguards and oversight;
+
+1	No 1 BvR 518/02 of 4 April 2006.
+
+2	No 1 BvR 518/02 of 4 April 2006.
+
+PE526.085v02-00	18/52	PR\1014703EN.doc
+
+EN
+
+16.	Commends the institutions and experts who have contributed to this inquiry; deplores
+the fact that several Member States’ authorities have declined to cooperate with the
+inquiry the European Parliament has been conducting on behalf of citizens; welcomes
+the openness of several Members of Congress and of national parliaments;
+
+17.	Is aware that in such a limited timeframe it has been possible to conduct only a
+preliminary investigation of all the issues at stake since July 2013; recognises both the
+scale of the revelations involved and their ongoing nature; adopts, therefore, a
+forward-planning approach consisting in a set of specific proposals and a mechanism
+for follow-up action in the next parliamentary term, ensuring the findings remain high
+on the EU political agenda;
+
+18.	Intends to request strong political undertakings from the European Commission to be
+designated after the May 2014 elections to implement the proposals and
+recommendations of this Inquiry; expects adequate commitment from the candidates
+in the upcoming parliamentary hearings for the new Commissioners;
+
+Recommendations
+
+19.	Calls on the US authorities and the EU Member States to prohibit blanket mass
+surveillance activities and bulk processing of personal data;
+
+20.	Calls on certain EU Member States, including the UK, Germany, France, Sweden and
+the Netherlands, to revise where necessary their national legislation and practices
+governing the activities of intelligence services so as to ensure that they are in line
+with the standards of the European Convention on Human Rights and comply with
+their fundamental rights obligations as regards data protection, privacy and
+presumption of innocence; in particular, given the extensive media reports referring to
+mass surveillance in the UK, would emphasise that the current legal framework which
+is made up of a ‘complex interaction’ between three separate pieces of legislation -
+the Human Rights Act 1998, the Intelligence Services Act 1994 and the Regulation of
+Investigatory Powers Act 2000 - should be revised;
+
+21.	Calls on the Member States to refrain from accepting data from third states which
+have been collected unlawfully and from allowing surveillance activities on their
+territory by third states’ governments or agencies which are unlawful under national
+law or do not meet the legal safeguards enshrined in international or EU instruments,
+including the protection of Human Rights under the TEU, the ECHR and the EU
+Charter of Fundamental Rights;
+
+22.	Calls on the Member States immediately to fulfil their positive obligation under the
+European Convention on Human Rights to protect their citizens from surveillance
+contrary to its requirements, including when the aim thereof is to safeguard national
+security, undertaken by third states and to ensure that the rule of law is not weakened
+as a result of extraterritorial application of a third country’s law;
+
+23.	Invites the Secretary-General of the Council of Europe to launch the Article 52
+procedure according to which ‘on receipt of a request from the Secretary General of
+the Council of Europe any High Contracting Party shall furnish an explanation of the
+
+PR\1014703EN.doc	19/52	PE526.085v02-00
+
+EN
+
+manner in which its internal law ensures the effective implementation of any of the
+provisions of the Convention’;
+
+24.	Calls on Member States to take appropriate action immediately, including court action,
+against the breach of their sovereignty, and thereby the violation of general public
+international law, perpetrated through the mass surveillance programmes; calls further
+on EU Member States to make use of all available international measures to defend
+EU citizens’ fundamental rights, notably by triggering the inter-state complaint
+procedure under Article 41 of the International Covenant on Civil and Political Rights
+(ICCPR);
+
+25.	Calls on the US to revise its legislation without delay in order to bring it into line with
+international law, to recognise the privacy and other rights of EU citizens, to provide
+for judicial redress for EU citizens and to sign the Additional Protocol allowing for
+complaints by individuals under the ICCPR;
+
+26.	Strongly opposes any conclusion of an additional protocol or guidance to the Council
+of Europe Cybercrime Convention (Budapest Convention) on transborder access to
+stored computer data which could provide for a legitimisation of intelligence services’
+access to data stored in another jurisdiction without its authorisation and without the
+use of existing mutual legal assistance instruments, since this could result in unfettered
+remote access by law enforcement authorities to servers and computers located in
+other jurisdictions and would be in conflict with Council of Europe Convention 108;
+
+27.	Calls on the Commission to carry out, before July 2014, an assessment of the
+applicability of Regulation EC No 2271/96 to cases of conflict of laws for transfers of
+personal data;
+
+International transfers of data
+
+US data protection legal framework and US Safe Harbour
+
+28.	Notes that the companies identified by media revelations as being involved in the
+large-scale mass surveillance of EU data subjects by US NSA are companies that have
+self-certified their adherence to the Safe Harbour, and that the Safe Harbour is the
+legal instrument used for the transfer of EU personal data to the US (Google,
+Microsoft, Yahoo!, Facebook, Apple, LinkedIn); expresses its concerns on the fact
+that these organisations admitted that they do not encrypt information and
+communications flowing between their data centres, thereby enabling intelligence
+services to intercept information1;
+
+29.	Considers that large-scale access by US intelligence agencies to EU personal data
+processed by Safe Harbour does not per se meet the criteria for derogation under
+‘national security’;
+
+30.	Takes the view that, as under the current circumstances the Safe Harbour principles do
+not provide adequate protection for EU citizens, these transfers should be carried out
+
+1 The Washington Post, 31 October 2013.
+
+PE526.085v02-00	20/52	PR\1014703EN.doc
+
+EN
+
+under other instruments, such as contractual clauses or BCRs setting out specific
+safeguards and protections;
+
+31.	Calls on the Commission to present measures providing for the immediate suspension
+of Commission Decision 520/2000, which declared the adequacy of the Safe Harbour
+privacy principles, and of the related FAQs issued by the US Department of
+Commerce;
+
+32.	Calls on Member States’ competent authorities, namely the data protection authorities,
+to make use of their existing powers and immediately suspend data flows to any
+organisation that has self-certified its adherence to the US Safe Harbour Principles and
+to require that such data flows are only carried out under other instruments, provided
+they contain the necessary safeguards and protections with respect to the protection of
+the privacy and fundamental rights and freedoms of individuals;
+
+33.	Calls on the Commission to present by June 2014 a comprehensive assessment of the
+US privacy framework covering commercial, law enforcement and intelligence
+activities in response to the fact that the EU and the US legal systems for protecting
+personal data are drifting apart;
+
+Transfers to other third countries with adequacy decision
+
+34.	Recalls that Directive 95/46/EC stipulates that transfers of personal data to a third
+country may take place only if, without prejudice to compliance with the national
+provisions adopted pursuant to the other provisions of the Directive, the third country
+in question ensures an adequate level of protection, the purpose of this provision being
+to ensure the continuity of the protection afforded by EU data protection law where
+personal data are transferred outside the EU;
+
+35.	Recalls that Directive 95/46/EC provides that the adequacy of the level of protection
+afforded by a third country is to be assessed in the light of all the circumstances
+surrounding a data transfer operation or set of data transfer operations; likewise recalls
+that the said Directive also equips the Commission with implementing powers to
+declare that a third country ensures an adequate level of protection in the light of the
+criteria laid down by Directive 95/46/EC; whereas Directive 95/46/EC also empowers
+the Commission to declare that a third country does not ensure an adequate level of
+protection;
+
+36.	Recalls that in the latter case Member States must take the measures necessary to
+prevent any transfer of data of the same type to the third country in question, and that
+the Commission should enter into negotiations with a view to remedying the situation;
+
+37.	Calls on the Commission and the Member States to assess without delay whether the
+adequate level of protection of the New Zealand and of the Canadian Personal
+Information Protection and Electronic Documents Act, as declared by Commission
+Decisions 2013/651 and 2/2002 of 20 December 2001, have been affected by the
+involvement of their national intelligence agencies in the mass surveillance of EU 1
+
+1	OJ L 28, 30.1.2013, p. 12.
+
+PR\1014703EN.doc	21/52
+
+PE526.085v02-00
+
+EN
+
+citizens and, if necessary, to take appropriate measures to suspend or revers the
+adequacy decisions; expects the Commission to report to the European Parliament on
+its findings on the abovementioned countries by December 2014 at the latest;
+
+Transfers based on contractual clauses and other instruments
+
+38.	Recalls that national data protection authorities have indicated that neither standard
+contractual clauses nor BCRs were written with situations of access to personal data
+for mass surveillance purposes in mind, and that such access would not be in line with
+the derogation clauses of the contractual clauses or BCRs which refer to exceptional
+derogations for a legitimate interest in a democratic society and where necessary and
+proportionate;
+
+39.	Calls on the Member States to prohibit or suspend data flows to third countries based
+on the standard contractual clauses, contractual clauses or BCRs authorised by the
+national competent authorities where it is established that the law to which the data
+importer is subject imposes upon him requirements which go beyond the restrictions
+necessary in a democratic society and which are likely to have a substantial adverse
+effect on the guarantees provided by the applicable data protection law and the
+standard contractual clauses, or because continuing transfer would create an imminent
+risk of grave harm to the data subjects;
+
+40.	Calls on the Article 29 Working Party to issue guidelines and recommendations on the
+safeguards and protections that contractual instruments for international transfers of
+EU personal data should contain in order to ensure the protection of the privacy,
+fundamental rights and freedoms of individuals, taking particular account of the
+third-country laws on intelligence and national security and the involvement of the
+companies receiving the data in a third country in mass surveillance activities by a
+third country’s intelligence agencies;
+
+41.	Calls on the Commission to examine the standard contractual clauses it has established
+in order to assess whether they provide the necessary protection as regards access to
+personal data transferred under the clauses for intelligence purposes and, if
+appropriate, to review them;
+
+Transfers based on the Mutual Legal Assistance Agreement
+
+42.	Calls on the Commission to conduct before the end 2014 an in-depth assessment of the
+existing Mutual Legal Assistance Agreement, pursuant to its Article 17, in order to
+verify its practical implementation and, in particular, whether the US has made
+effective use of it for obtaining information or evidence in the EU and whether the
+Agreement has been circumvented to acquire the information directly in the EU, and
+to assess the impact on the fundamental rights of individuals; such an assessment
+should not only refer to US official statements as a sufficient basis for the analysis but
+be based on specific EU evaluations; this in-depth review should also address the
+consequences of the application of the Union’s constitutional architecture to this
+instrument in order to bring it into line with Union law, taking account in particular of
+Protocol 36 and Article 10 thereof and Declaration 50 concerning this protocol;
+
+PE526.085v02-00
+
+22/52
+
+PR\1014703EN.doc
+
+EN
+
+EU mutual assistance in criminal matters
+
+43.	Asks the Council and the Commission to inform Parliament about the actual use by
+Member States of the Convention on Mutual Assistance in Criminal Matters between
+the Member States, in particular Title III on interception of telecommunications; calls
+on the Commission to put forward a proposal, in accordance with Declaration 50,
+concerning Protocol 36, as requested, before the end of 2014 in order to adapt it to the
+Lisbon Treaty framework;
+
+Transfers based on the TFTP and PNR agreements
+
+44.	Takes the view that the information provided by the European Commission and the
+US Treasury does not clarify whether US intelligence agencies have access to SWIFT
+financial messages in the EU by intercepting SWIFT networks or banks’ operating
+systems or communication networks, alone or in cooperation with EU national
+intelligence agencies and without having recourse to existing bilateral channels for
+mutual legal assistance and judicial cooperation;
+
+45.	Reiterates its resolution of 23 October 2013 and asks the Commission for the
+suspension of the TFTP Agreement;
+
+46.	Calls on the European Commission to react to concerns that three of the major
+computerised reservation systems used by airlines worldwide are based in the US and
+that PNR data are saved in cloud systems operating on US soil under US law, which
+lacks data protection adequacy;
+
+Framework agreement on data protection in the field of police and judicial cooperation
+
+(‘Umbrella agreement ’)
+
+47.	Considers that a satisfactory solution under the ‘Umbrella agreement’ is a
+pre-condition for the full restoration of trust between the transatlantic partners;
+
+48.	Asks for an immediate resumption of the negotiations with the US on the ‘Umbrella
+Agreement’, which should provide for clear rights for EU citizens and effective and
+enforceable administrative and judicial remedies in the US without any discrimination;
+
+49.	Asks the Commission and the Council not to initiate any new sectorial agreements or
+arrangements for the transfer of personal data for law enforcement purposes as long as
+the ‘Umbrella Agreement’ has not entered into force;
+
+50.	Urges the Commission to report in detail on the various points of the negotiating
+mandate and the latest state of play by April 2014;
+
+Data protection reform
+
+51.	Calls on the Council Presidency and the majority of Member States who support a
+high level of data protection to show a sense of leadership and responsibility and
+accelerate their work on the whole Data Protection Package to allow for adoption in
+2014, so that EU citizens will be able to enjoy better protection in the very near future;
+
+PR\1014703EN.doc
+
+23/52
+
+PE526.085v02-00
+
+EN
+
+52.	Stresses that both the Data Protection Regulation and the Data Protection Directive are
+necessary to protect the fundamental rights of individuals and therefore must be
+treated as a package to be adopted simultaneously, in order to ensure that all data-
+processing activities in the EU provide a high level of protection in all circumstances;
+
+Cloud computing
+
+53.	Notes that trust in US cloud computing and cloud providers has been negatively
+affected by the abovementioned practices; emphasises, therefore, the development of
+European clouds as an essential element for growth and employment and trust in cloud
+computing services and providers and for ensuring a high level of personal data
+protection;
+
+54.	Reiterates its serious concerns about the compulsory direct disclosure of EU personal
+data and information processed under cloud agreements to third-country authorities by
+cloud providers subject to third-country laws or using storage servers located in third
+countries, and about direct remote access to personal data and information processed
+by third-country law enforcement authorities and intelligence services;
+
+55.	Regrets the fact that such access is usually attained by means of direct enforcement by
+third-country authorities of their own legal rules, without recourse to international
+instruments established for legal cooperation such as mutual legal assistance (MLA)
+agreements or other forms of judicial cooperation;
+
+56.	Calls on the Commission and the Member States to speed up the work of establishing
+a European Cloud Partnership;
+
+57.	Recalls that all companies providing services in the EU must, without exception,
+comply with EU law and are liable for any breaches;
+
+Transatlantic Trade and Investment Partnership Agreement (TTIP)
+
+58.	Recognises that the EU and the US are pursuing negotiations for a Transatlantic Trade
+and Investment Partnership, which is of major strategic importance for creating further
+economic growth and for the ability of both the EU and the US to set future global
+regulatory standards;
+
+59.	Strongly emphasises, given the importance of the digital economy in the relationship
+and in the cause of rebuilding EU-US trust, that the European Parliament will only
+consent to the final TTIP agreement provided the agreement fully respects
+fundamental rights recognised by the EU Charter, and that the protection of the
+privacy of individuals in relation to the processing and dissemination of personal data
+must continue to be governed by Article XIV of the GATS;
+
+Democratic oversight of intelligence services
+
+60.	Stresses that, despite the fact that oversight of intelligence services’ activities should
+be based on both democratic legitimacy (strong legal framework, ex ante authorisation
+and ex post verification) and an adequate technical capability and expertise, the
+
+PE526.085v02-00
+
+24/52
+
+PR\1014703EN.doc
+
+EN
+
+majority of current EU and US oversight bodies dramatically lack both, in particular
+the technical capabilities;
+
+61.	Invites, as it has done in the case of Echelon, all national parliaments which have not
+yet done so to install meaningful oversight of intelligence activities by
+parliamentarians or expert bodies with legal powers to investigate; calls on national
+parliaments to ensure that such oversight committees/bodies have sufficient resources,
+technical expertise and legal means to be able to effectively control intelligence
+services;
+
+62.	Calls for the setting up of a high-level group to strengthen cooperation in the field of
+intelligence at EU level, combined with a proper oversight mechanism ensuring both
+democratic legitimacy and adequate technical capacity; stresses that the high-level
+group should cooperate closely with national parliaments in order to propose further
+steps to be taken for increased oversight collaboration in the EU;
+
+63.	Calls on this high-level group to define minimum European standards or guidelines on
+the (ex ante and ex post) oversight of intelligence services on the basis of existing best
+practices and recommendations by international bodies (UN, Council of Europe);
+
+64.	Calls on the high-level group to set strict limits on the duration of any surveillance
+ordered unless its continuation is duly justified by the authorising/oversight authority;
+
+65.	Calls on the high-level group to develop criteria on enhanced transparency, built on
+the general principle of access to information and the so-called ‘Tshwane Principles’1;
+
+66.	Intends to organise a conference with national oversight bodies, whether parliamentary
+or independent, by the end of 2014;
+
+67.	Calls on the Member States to draw on best practices so as to improve access by their
+oversight bodies to information on intelligence activities (including classified
+information and information from other services) and establish the power to conduct
+on-site visits, a robust set of powers of interrogation, adequate resources and technical
+expertise, strict independence vis-à-vis their respective governments, and a reporting
+obligation to their respective parliaments;
+
+68.	Calls on the Member States to develop cooperation among oversight bodies, in
+particular within the European Network of National Intelligence Reviewers (ENNIR);
+
+69.	Urges the Commission to present, by September 2014, a proposal for a legal basis for
+the activities of the EU Intelligence Analysis Centre (IntCen), as well as a proper
+oversight mechanism adapted to its activities, including regular reporting to the
+European Parliament;
+
+70.	Calls on the Commission to present, by September 2014, a proposal for an EU security
+clearance procedure for all EU office holders, as the current system, which relies on
+the security clearance undertaken by the Member State of citizenship, provides for
+
+1 The Global Principles on National Security and the Right to Information, June 2013.
+
+PR\1014703EN.doc	25/52	PE526.085v02-00
+
+EN
+
+different requirements and lengths of procedures within national systems, thus leading
+to differing treatment of Members of Parliament and their staff depending on their
+nationality;
+
+71.	Recalls the provisions of the interinstitutional agreement between the European
+Parliament and the Council concerning the forwarding to and handling by the
+European Parliament of classified information held by the Council on matters other
+than those in the area of the common foreign and security policy that should be used to
+improve oversight at EU level;
+
+EU agencies
+
+72.	Calls on the Europol Joint Supervisory Body, together with national data protection
+authorities, to conduct a joint inspection before the end of 2014 in order to ascertain
+whether information and personal data shared with Europol has been lawfully acquired
+by national authorities, particularly if the information or data was initially acquired by
+intelligence services in the EU or a third country, and whether appropriate measures
+are in place to prevent the use and further dissemination of such information or data;
+
+73.	Calls on Europol to ask the competent authorities of the Member States, in line with
+its competences, to initiate investigations with regard to possible cybercrimes and
+cyber attacks committed by governments or private actors in the course of the
+activities under scrutiny;
+
+Freedom of expression
+
+74.	Expresses deep concern about the developing threats to the freedom of the press and
+the chilling effect on journalists of intimidation by state authorities, in particular as
+regards the protection of confidentiality of journalistic sources; reiterates the calls
+expressed in its resolution of 21 May 2013 on ‘the EU Charter: standard settings for
+media freedom across the EU’;
+
+75.	Considers that the detention of Mr Miranda and the seizure of the material in his
+possession under Schedule 7 of the Terrorism Act 2000 (and also the request to The
+Guardian to destroy or hand over the material) constitutes an interference with the
+right of freedom of expression as recognised by Article 10 of the ECHR and Article 11
+of the EU Charter;
+
+76.	Calls on the Commission to put forward a proposal for a comprehensive framework
+for the protection of whistleblowers in the EU, with particular attention to the
+specificities of whistleblowing in the field of intelligence, for which provisions
+relating to whistleblowing in the financial field may prove insufficient, and including
+strong guarantees of immunity;
+
+EU IT security
+
+77.	Points out that recent incidents clearly demonstrate the acute vulnerability of the EU,
+and in particular the EU institutions, national governments and parliaments, major
+European companies, European IT infrastructures and networks, to sophisticated
+
+PE526.085v02-00
+
+26/52
+
+PR\1014703EN.doc
+
+EN
+
+attacks using complex software; notes that these attacks require such financial and
+human resources that they are likely to originate from state entities acting on behalf of
+foreign governments or even from certain EU national governments that support them;
+in this context, regards the case of the hacking or tapping of the telecommunications
+company Belgacom as a worrying example of an attack against the EU’s IT capacity;
+
+78.	Takes the view that the mass surveillance revelations that have initiated this crisis can
+be used as an opportunity for Europe to take the initiative and build up an autonomous
+IT key-resource capability for the mid term; calls on the Commission and the Member
+States to use public procurement as leverage to support such resource capability in the
+EU by making EU security and privacy standards a key requirement in the public
+procurement of IT goods and services;
+
+79.	Is highly concerned by indications that foreign intelligence services sought to lower IT
+security standards and to install backdoors in a broad range of IT systems;
+
+80.	Calls on all the Members States, the Commission, the Council and the European
+Council to address the EU’s dangerous lack of autonomy in terms of IT tools,
+companies and providers (hardware, software, services and network), and encryption
+and cryptographic capabilities;
+
+81.	Calls on the Commission, standardisation bodies and ENISA to develop, by
+September 2014, minimum security and privacy standards and guidelines for IT
+systems, networks and services, including cloud computing services, in order to better
+protect EU citizens’ personal data; believes that such standards should be set in an
+open and democratic process, not driven by a single country, entity or multinational
+company; takes the view that, while legitimate law enforcement and intelligence
+concerns need to be taken into account in order to support the fight against terrorism,
+they should not lead to a general undermining of the dependability of all IT systems;
+
+82.	Points out that both telecom companies and the EU and national telecom regulators
+have clearly neglected the IT security of their users and clients; calls on the
+Commission to make full use of its existing powers under the ePrivacy and
+Telecommunication Framework Directive to strengthen the protection of
+confidentiality of communication by adopting measures to ensure that terminal
+equipment is compatible with the right of users to control and protect their personal
+data, and to ensure a high level of security of telecommunication networks and
+services, including by way of requiring state-of-the-art encryption of communications;
+
+83.	Supports the EU cyber strategy but considers that it does not cover all possible threats
+and should be extended to cover malicious state behaviours;
+
+84.	Calls on the Commission, by January 2015 at the latest, to present an Action Plan to
+develop more EU independence in the IT sector, including a more coherent approach
+to boosting European IT technological capabilities (including IT systems, equipment,
+services, cloud computing, encryption and anonymisation) and to the protection of
+critical IT infrastructure (including in terms of ownership and vulnerability);
+
+85.	Calls on the Commission, in the framework of the next Work Programme of the
+
+PR\1014703EN.doc	27/52	PE526.085v02-00
+
+EN
+
+Horizon 2020 Programme, to assess whether more resources should be directed
+towards boosting European research, development, innovation and training in the field
+of IT technologies, in particular privacy-enhancing technologies and infrastructures,
+cryptology, secure computing, open-source security solutions and the Information
+Society;
+
+86.	Asks the Commission to map out current responsibilities and to review, by June 2014
+at the latest, the need for a broader mandate, better coordination and/or additional
+resources and technical capabilities for Europol’s CyberCrime Centre, ENISA,
+CERT-EU and the EDPS in order to enable them to be more effective in investigating
+major IT breaches in the EU and in performing (or assisting Member States and EU
+bodies to perform) on-site technical investigations regarding major IT breaches;
+
+87.	Deems it necessary for the EU to be supported by an EU IT Academy that brings
+together the best European experts in all related fields, tasked with providing all
+relevant EU Institutions and bodies with scientific advice on IT technologies,
+including security-related strategies; as a first step asks the Commission to set up an
+independent scientific expert panel;
+
+88.	Calls on the European Parliament’s Secretariat to carry out, by September 2014 at the
+latest, a thorough review and assessment of the European Parliament’s IT security
+dependability focused on: budgetary means, staff resources, technical capabilities,
+internal organisation and all relevant elements, in order to achieve a high level of
+security for the EP’s IT systems; believes that such an assessment should at the least
+provide information analysis and recommendations on:
+
+•	the need for regular, rigorous, independent security audits and penetration tests,
+with the selection of outside security experts ensuring transparency and
+guarantees of their credentials vis-à-vis third countries or any types of vested
+interest;
+
+•	the inclusion in tender procedures for new IT systems of specific IT
+security/privacy requirements, including the possibility of a requirement for
+Open Source Software as a condition of purchase;
+
+•	the list of US companies under contract with the European Parliament in the IT
+and telecom fields, taking into account revelations about NSA contracts with a
+company such as RSA, whose products the European Parliament is using to
+supposedly protect remote access to their data by its Members and staff;
+
+•	the reliability and resilience of third-party commercial software used by the EU
+institutions in their IT systems with regard to penetrations and intrusions by EU
+or third-country law enforcement and intelligence authorities;
+
+•	the use of more open-source systems and fewer off-the-shelf commercial
+systems;
+
+•	the impact of the increased use of mobile tools (smartphones, tablets, whether
+professional or personal) and its effects on the IT security of the system;
+
+PE526.085v02-00	28/52	PR\1014703EN.doc
+
+EN
+
+•	the security of the communications between different workplaces of the
+European Parliament and of the IT systems used at the European Parliament;
+
+•	the use and location of servers and IT centres for the EP’s IT systems and the
+implications for the security and integrity of the systems;
+
+•	the implementation in reality of the existing rules on security breaches and
+prompt notification of the competent authorities by the providers of publicly
+available telecommunication networks;
+
+•	the use of cloud storage by the EP, including what kind of data is stored on the
+cloud, how the content and access to it is protected and where the cloud is
+located, clarifying the applicable data protection legal regime;
+
+•	a plan allowing for the use of more cryptographic technologies, in particular
+end-to-end authenticated encryption for all IT and communications services
+such as cloud computing, email, instant messaging and telephony;
+
+•	the use of electronic signature in email;
+
+•	an analysis of the benefits of using the GNU Privacy Guard as a default
+encryption standard for emails which would at the same time allow for the use
+of digital signatures;
+
+•	the possibility of setting up a secure Instant Messaging service within the
+European Parliament allowing secure communication, with the server only
+seeing encrypted content;
+
+89.	Calls on all the EU Institutions and agencies to perform a similar exercise, by
+December 2014 at the latest, in particular the European Council, the Council, the
+External Action Service (including EU delegations), the Commission, the Court of
+Justice and the European Central Bank; invites the Member States to conduct similar
+assessments;
+
+90.	Stresses that as far as the external action of the EU is concerned, assessments of
+related budgetary needs should be carried out and first measures taken without delay
+in the case of the European External Action Service (EEAS) and that appropriate
+funds need to be allocated in the 2015 Draft Budget;
+
+91.	Takes the view that the large-scale IT systems used in the area of freedom, security
+and justice, such as the Schengen Information System II, the Visa Information System,
+Eurodac and possible future systems, should be developed and operated in such a way
+as to ensure that data is not compromised as a result of US requests under the Patriot
+Act; asks eu-LISA to report back to Parliament on the reliability of the systems in
+place by the end of 2014;
+
+92.	Calls on the Commission and the EEAS to take action at the international level, with
+the UN in particular, and in cooperation with interested partners (such as Brazil), and
+to implement an EU strategy for democratic governance of the internet in order to
+
+PR\1014703EN.doc	29/52	PE526.085v02-00
+
+EN
+
+prevent undue influence over ICANN’s and IANA’s activities by any individual
+entity, company or country by ensuring appropriate representation of all interested
+parties in these bodies;
+
+93.	Calls for the overall architecture of the internet in terms of data flows and storage to
+be reconsidered, striving for more data minimisation and transparency and less
+centralised mass storage of raw data, as well as avoiding unnecessary routing of traffic
+through the territory of countries that do not meet basic standards on fundamental
+rights, data protection and privacy;
+
+94.	Calls on the Member States, in cooperation with ENISA, Europol’s CyberCrime
+Centre, CERTs and national data protection authorities and cybercrime units, to start
+an education and awareness-raising campaign in order to enable citizens to make a
+more informed choice regarding what personal data to put on line and how better to
+protect them, including through ‘digital hygiene’, encryption and safe cloud
+computing, making full use of the public interest information platform provided for in
+the Universal Service Directive;
+
+95.	Calls on the Commission, by September 2014, to evaluate the possibilities of
+encouraging software and hardware manufacturers to introduce more security and
+privacy through default features in their products, including the possibility of
+introducing legal liability on the part of manufacturers for unpatched known
+vulnerabilities or the installation of secret backdoors, and disincentives for the undue
+and disproportionate collection of mass personal data, and if appropriate to come
+forward with legislative proposals;
+
+Rebuilding trust
+
+96.	Believes that the inquiry has shown the need for the US to restore trust with its
+partners, as US intelligence agencies’ activities are primarily at stake;
+
+97.	Points out that the crisis of confidence generated extends to:
+
+-	the spirit of cooperation within the EU, as some national intelligence activities
+may jeopardise the attainment of the Union’s objectives;
+
+-	citizens, who realise that not only third countries or multinational companies,
+but also their own government, may be spying on them;
+
+-	respect for the rule of law and the credibility of democratic safeguards in a
+digital society;
+
+Between the EU and the US
+
+98.	Recalls the important historical and strategic partnership between the EU Member
+States and the US, based on a common belief in democracy, the rule of law and
+fundamental rights;
+
+99.	Believes that the mass surveillance of citizens and the spying on political leaders by
+
+PE526.085v02-00	30/52	PR\1014703EN.doc
+
+EN
+
+the US have caused serious damage to relations between the EU and the US and
+negatively impacted on trust in US organisations acting in the EU; this is further
+exacerbated by the lack of judicial and administrative remedies for redress under US
+law for EU citizens, particularly in cases of surveillance activities for intelligence
+purposes;
+
+100.	Recognises, in light of the global challenges facing the EU and the US, that the
+transatlantic partnership needs to be further strengthened, and that it is vital that
+transatlantic cooperation in counter-terrorism continues; insists, however, that clear
+measures need to be taken by the US to re-establish trust and re-emphasise the shared
+basic values underlying the partnership;
+
+101.	Is ready actively to engage in a dialogue with US counterparts so that, in the ongoing
+American public and congressional debate on reforming surveillance and reviewing
+intelligence oversight, the privacy rights of EU citizens are addressed, equal
+information rights and privacy protection in US courts guaranteed and the current
+discrimination not perpetuated;
+
+102.	Insists that necessary reforms be undertaken and effective guarantees given to
+Europeans to ensure that the use of surveillance and data processing for foreign
+intelligence purposes is limited by clearly specified conditions and related to
+reasonable suspicion or probable cause of terrorist or criminal activity; stresses that
+this purpose must be subject to transparent judicial oversight;
+
+103.	Considers that clear political signals are needed from our American partners to
+demonstrate that the US distinguishes between allies and adversaries;
+
+104.	Urges the EU Commission and the US Administration to address, in the context of the
+ongoing negotiations on an EU-US umbrella agreement on data transfer for law
+enforcement purposes, the information and judicial redress rights of EU citizens, and
+to conclude these negotiations, in line with the commitment made at the EU-US
+Justice and Home Affairs Ministerial Meeting of 18 November 2013, before summer
+2014;
+
+105.	Encourages the US to accede to the Council of Europe’s Convention for the Protection
+of Individuals with regard to Automatic Processing of Personal Data (Convention
+108), as it acceded to the 2001 Convention on Cybercrime, thus strengthening the
+shared legal basis among the transatlantic allies;
+
+106.	Calls on the EU institutions to explore the possibilities for establishing with the US a
+code of conduct which would guarantee that no US espionage is pursued against EU
+institutions and facilities;
+
+Within the European Union
+
+107.	Also believes that that the involvement and activities of EU Members States has led to
+a loss of trust; is of the opinion that only full clarity as to purposes and means of
+surveillance, public debate and, ultimately, revision of legislation, including a
+strengthening of the system of judicial and parliamentary oversight, will be able to
+
+PR\1014703EN.doc	31/52	PE526.085v02-00
+
+EN
+
+re-establish the trust lost;
+
+108.	Is aware that some EU Member States are pursuing bilateral communication with the
+US authorities on spying allegations, and that some of them have concluded (United
+Kingdom) or envisage concluding (Germany, France) so-called ‘anti-spying’
+arrangements; underlines that these Member States need to observe fully the interests
+of the EU as a whole;
+
+109.	Considers that such arrangements should not breach European Treaties, especially the
+principle of sincere cooperation (under Article 4 paragraph 3 TEU), or undermine EU
+policies in general and, more specifically, the internal market, fair competition and
+economic, industrial and social development; reserves its right to activate Treaty
+procedures in the event of such arrangements being proved to contradict the Union’s
+cohesion or the fundamental principles on which it is based;
+
+Internationally
+
+110.	Calls on the Commission to present, in January 2015 at the latest, an EU strategy for
+democratic governance of the internet;
+
+111.	Calls on the Member States to follow the call of the 35th International Conference of
+Data Protection and Privacy Commissioners ‘to advocate the adoption of an additional
+protocol to Article17 of the International Covenant on Civil and Political Rights
+(ICCPR), which should be based on the standards that have been developed and
+endorsed by the International Conference and the provisions in General Comment No
+16 to the Covenant in order to create globally applicable standards for data protection
+and the protection of privacy in accordance with the rule of law’; asks the High
+Representative/Vice-President of the Commission and the External Action Service to
+take a proactive stance;
+
+112.	Calls on the Member States to develop a coherent and strong strategy within the
+United Nations, supporting in particular the resolution on ‘The right to privacy in the
+digital age’ initiated by Brazil and Germany, as adopted by the third UN General
+Assembly Committee (Human Rights Committee) on 27 November 2013;
+
+Priority Plan: A European Digital Habeas Corpus
+
+113.	Decides to submit to EU citizens, Institutions and Member States the abovementioned
+recommendations as a Priority Plan for the next legislature;
+
+114.	Decides to launch A European Digital Habeas Corpus for protecting privacy based on
+the following 7 actions with a European Parliament watchdog:
+
+Action 1: Adopt the Data Protection Package in 2014;
+
+Action 2: Conclude the EU-US Umbrella Agreement ensuring proper redress
+mechanisms for EU citizens in the event of data transfers from the EU to the US for
+law-enforcement purposes;
+
+PE526.085v02-00
+
+32/52
+
+PR\1014703EN.doc
+
+EN
+
+Action 3: Suspend Safe Harbour until a full review has been conducted and current
+loopholes are remedied, making sure that transfers of personal data for commercial
+purposes from the Union to the US can only take place in compliance with highest
+EU standards;
+
+Action 4: Suspend the TFTP agreement until (i) the Umbrella Agreement
+negotiations have been concluded; (ii) a thorough investigation has been concluded
+on the basis of an EU analysis, and all concerns raised by Parliament in its
+resolution of 23 October have been properly addressed;
+
+Action 5: Protect the rule of law and the fundamental rights of EU citizens, with a
+particular focus on threats to the freedom of the press and professional
+confidentiality (including lawyer-client relations) as well as enhanced protection for
+whistleblowers;
+
+Action 6: Develop a European strategy for IT independence (at national and EU
+level);
+
+Action 7: Develop the EU as a reference player for a democratic and neutral
+governance of the internet;
+
+115.	Calls on the EU Institutions and the Member States to support and promote the
+European Digital Habeas Corpus; undertakes to act as the EU citizens’ rights
+watchdog, with the following timetable to monitor implementation:
+
+•	April-July 2014: a monitoring group based on the LIBE inquiry team
+responsible for monitoring any new revelations in the media concerning the
+inquiry’s mandate and scrutinising the implementation of this resolution;
+
+•	July 2014 onwards: a standing oversight mechanism for data transfers and
+judicial remedies within the competent committee;
+
+•	Spring 2014: a formal call on the European Council to include the European
+Digital Habeas Corpus in the guidelines to be adopted under Article 68 TFEU;
+
+•	Autumn 2014: a commitment that the European Digital Habeas Corpus and
+related recommendations will serve as key criteria for the approval of the next
+Commission;
+
+•	2014-2015: a Trust/Data/Citizens’ Rights group to be convened on a regular
+basis between the European Parliament and the US Congress, as well as with
+other committed third-country parliaments, including Brazil;
+
+•	2014-2015: a conference with the intelligence oversight bodies of European
+national parliaments;
+
+•	2015: a conference bringing together high-level European experts in the
+various fields conducive to IT security (including mathematics, cryptography
+and privacy-enhancing technologies) to help foster an EU IT strategy for the
+
+PR\1014703EN.doc	33/52	PE526.085v02-00
+
+EN
+
+next legislature;
+
+116.	Instructs its President to forward this resolution to the European Council, the Council,
+the Commission, the parliaments and governments of the Member States, national data
+protection authorities, the EDPS, eu-LISA, ENISA, the Fundamental Rights Agency,
+the Article 29 Working Party, the Council of Europe, the Congress of the United
+States of America, the US Administration, the President, the Government and the
+Parliament of the Federative Republic of Brazil, and the United Nations
+Secretary-General.
+
+PE526.085v02-00
+
+34/52
+
+PR\1014703EN.doc
+
+EN
+
+EXPLANATORY STATEMENT
+
+‘The office of the sovereign, be it a monarch or an assembly, consisteth in the end,
+
+for which he was trusted with the sovereign power,
+namely the procuration of the safety ofpeople ’
+Hobbes, Leviathan (chapter XXX)
+
+‘We cannot commend our society to others by departing
+from the fundamental standards which
+make it worthy of commendation ’
+Lord Bingham of Cornhill,
+Former Lord Chief Justice of England and Wales
+
+Methodology
+
+From July 2013, the LIBE Committee of Inquiry was responsible for the extremely
+challenging task of fulfilling the mandate1 of the Plenary on the investigation into the
+electronic mass surveillance of EU citizens in a very short timeframe, less than 6 months.
+
+During that period it held over 15 hearings covering each of the specific cluster issues
+prescribed in the 4 July resolution, drawing on the submissions of both EU and US experts
+representing a wide range of knowledge and backgrounds: EU institutions, national
+parliaments, US congress, academics, journalists, civil society, security and technology
+specialists and private business. In addition, a delegation of the LIBE Committee visited
+Washington on 28-30 0ctober 2013 to meet with representatives of both the executive and the
+legislative branch (academics, lawyers, security experts, business representatives)2. A
+delegation of the Committee on Foreign Affairs (AFET) was also in town at the same time. A
+few meetings were held together.
+
+A series of working documents3 have been co-authored by the rapporteur, the shadow-
+rapporteurs4 from the various political groups and 3 Members from the AFET Committee5
+enabling a presentation of the main findings of the Inquiry. The rapporteur would like to
+thank all shadow rapporteurs and AFET Members for their close cooperation and high-level
+commitment throughout this demanding process.
+
+Scale of the problem
+
+An increasing focus on security combined with developments in technology has enabled
+States to know more about citizens than ever before. By being able to collect data
+
+1
+
+1	http://www.europarl.europa.eu/meetdocs/2009 2014/documents/ta/04/07/2013%20-%200322/p7 ta-
+prov(2013)0322 en.pdf
+
+2	See Washington delegation report.
+
+3	See Annex I.
+
+4	List of shadow rapporteurs: Axel Voss (EPP), Sophia in’t Veld (ALDE), Jan Philipp Albrecht
+(GREENS/ALE), Timothy Kirkhope (EFD), Cornelia Ernst (GUE).
+
+5	List of AFET Members: José Ignacio Salafranca Sanchez-Neyra (EPP), Ana Gomes (S&D), Annemie Neyts-
+Uyttebroeck (ALDE).
+
+PR\1014703EN.doc	35/52	PE526.085v02-00
+
+EN
+
+regarding the content of communications, as well as metadata, and by following citizens’
+electronic activities, in particular their use of smartphones and tablet computers, intelligence
+services are de facto able to know almost everything about a person. This has contributed to
+a fundamental shift in the work and practices of intelligence agencies, away from the
+traditional concept of targeted surveillance as a necessary and proportional counter-
+terrorism measure, towards systems of mass surveillance.
+
+This process of increasing mass surveillance has not been subject to any prior public
+debate or democratic decision-making. Discussion is needed on the purpose and scale of
+surveillance and its place in a democratic society. Is the situation created by Edward
+Snowden’s revelations an indication of a general societal turn towards the acceptance of
+the death of privacy in return for security? Do we face a breach of privacy and intimacy so
+great that it is possible not only for criminals but for IT companies and intelligence agencies
+to know every detail of the life of a citizen? Is it a fact to be accepted without further
+discussion? Or is the responsibility of the legislator to adapt the policy and legal tools at hand
+to limit the risks and prevent further damages in case less democratic forces would come to
+power?
+
+Reactions to mass surveillance and a public debate
+
+The debate on mass surveillance does not take place in an even manner inside the EU. In fact
+in many Member States there is hardly any public debate and media attention varies. Germany
+seems to be the country where reactions to the revelations have been strongest and public
+discussions as to their consequences have been widespread. In the United Kingdom and
+France, in spite of investigations by The Guardian and Le Monde, reactions seem more
+limited, a fact that has been linked to the alleged involvement of their national intelligence
+services in activities with the NSA. The LIBE Committee Inquiry has been in a position to
+hear valuable contributions from the parliamentary oversight bodies of Belgian, the
+Netherlands, Denmark and even Norway; however the British and French Parliament have
+declined participation. These differences show again the uneven degree of checks and
+balances within the EU on these issues and that more cooperation is needed between
+parliamentary bodies in charge of oversight.
+
+Following the disclosures of Edward Snowden in the mass media, public debate has been
+based on two main types of reactions. On the one hand, there are those who deny the
+legitimacy of the information published on the grounds that most of the media reports are
+based on misinterpretation; in addition many argue, while not having refuted the disclosures,
+the validity of the disclosures made due to allegations of security risks they cause for national
+security and the fight against terrorism.
+
+On the other hand, there are those who consider the information provided requires an
+informed, public debate because of the magnitude of the problems it raises to issues key to a
+democracy including: the rule of law, fundamental rights, citizens’ privacy, public
+accountability of law-enforcement and intelligence services, etc. This is certainly the case for
+the journalists and editors of the world’s biggest press outlets who are privy to the disclosures
+including The Guardian, Le Monde, Der Spiegel, The Washington Post and Glenn
+Greenwald.
+
+The two types of reactions outlined above are based on a set of reasons which, if followed,
+PE526.085v02-00	36/52	PR\1014703EN.doc
+
+EN
+
+may lead to quite opposed decisions as to how the EU should or should not react.
+5 reasons not to act
+
+-	The ‘Intelligence/national security argument ’: no EU competence
+
+Edward Snowden’s revelations relate to US and some Member States’ intelligence
+activities, but national security is a national competence, the EU has no competence in
+such matters (except on EU internal security) and therefore no action is possible at EU
+level.
+
+-	The ‘Terrorism argument ’: danger of the whistleblower
+
+Any follow up to these revelations, or their mere consideration, further weakens the
+security of the US as well as the EU as it does not condemn the publication of documents
+the content of which even if redacted as involved media players explain may give valuable
+information to terrorist groups.
+
+-	The ‘Treason argument: no legitimacy for the whistleblower
+
+As mainly put forward by some in the US and in the United Kingdom, any debate
+launched or action envisaged further to E. Snowden’s revelations is intrinsically biased
+and irrelevant as they would be based on an initial act of treason.
+
+-	The ‘realism argument ’: general strategic interests
+
+Even if some mistakes and illegal activities were to be confirmed, they should be balanced
+against the need to maintain the special relationship between the US and Europe to
+preserve shared economic, business and foreign policy interests.
+
+-	The ‘Good government argument’: trust your government
+
+US and EU Governments are democratically elected. In the field of security, and even
+when intelligence activities are conducted in order to fight against terrorism, they comply
+with democratic standards as a matter of principle. This ‘presumption of good and lawful
+governance’ rests not only on the goodwill of the holders of the executive powers in these
+states but also on the checks and balances mechanism enshrined in their constitutional
+systems.
+
+As one can see reasons not to act are numerous and powerful. This may explain why most EU
+governments, after some initial strong reactions, have preferred not to act. The main action by
+the Council of Ministers has been to set up a ‘transatlantic group of experts on data
+protection’ which has met 3 times and put forward a final report. A second group is supposed
+to have met on intelligence related issues between US authorities and Member States’ ones
+but no information is available. The European Council has addressed the surveillance problem
+in a mere statement of Heads of state or government1, Up until now only a few national
+
+1 European Council Conclusions of 24-25 October 2013, in particular: ‘The Heads of State or Government took
+note of the intention of France and Germany to seek bilateral talks with the USA with the aim of finding before
+
+PR\1014703EN.doc	37/52	PE526.085v02-00
+
+EN
+
+parliaments have launched inquiries.
+5 reasons to act
+
+-	The ‘mass surveillance argument ’: in which society do we want to live?
+
+Since the very first disclosure in June 2013, consistent references have been made to
+George’s Orwell novel ‘1984’. Since 9/11 attacks, a focus on security and a shift towards
+targeted and specific surveillance has seriously damaged and undermined the concept of
+privacy. The history of both Europe and the US shows us the dangers of mass surveillance
+and the graduation towards societies without privacy.
+
+-	The ‘fundamental rights argument ’:
+
+Mass and indiscriminate surveillance threaten citizens ’ fundamental rights including right
+to privacy, data protection, freedom of press, fair trial which are all enshrined in the EU
+Treaties, the Charter of fundamental rights and the ECHR. These rights cannot be
+circumvented nor be negotiated against any benefit expected in exchange unless duly
+provided for in legal instruments and in full compliance with the treaties.
+
+-	The ‘EU internal security argument ’:
+
+National competence on intelligence and national security matters does not exclude a
+parallel EU competence. The EU has exercised the competences conferred upon it by the
+EU Treaties in matters of internal security by deciding on a number of legislative
+instruments and international agreements aimed at fighting serious crime and terrorism, on
+setting-up an internal security strategy and agencies working in this field. In addition,
+other services have been developed reflecting the need for increased cooperation at EU
+level on intelligence-related matters: INTCEN (placed within EEAS) and the Anti-
+terrorism Coordinator (placed within the Council general secretariat), neither of them with
+a legal basis.
+
+-	The ‘deficient oversight argument ’
+
+While intelligence services perform an indispensable function in protecting against
+internal and external threats, they have to operate within the rule of law and to do so must
+be subject to a stringent and thorough oversight mechanism. The democratic oversight of
+intelligence activities is conducted at national level but due to the international nature of
+security threats there is now a huge exchange of information between Member States and
+with third countries like the US; improvements in oversight mechanisms are needed both at
+national and at EU level if traditional oversight mechanisms are not to become ineffective
+and outdated.
+
+-	The ‘chilling effect on media ’ and the protection of whistleblowers
+
+The disclosures of Edward Snowden and the subsequent media reports have highlighted the
+
+the end of the year an understanding on mutual relations in that field. They noted that other EU countries are
+welcome to join this initiative. They also pointed to the existing Working Group between the EU and the USA
+on the related issue of data protection and called for rapid and constructive progress in that respect’.
+
+PE526.085v02-00	38/52	PR\1014703EN.doc
+
+EN
+
+pivotal role of the media in a democracy to ensure accountability of Governments. When
+supervisory mechanisms fail to prevent or rectify mass surveillance, the role of media and
+whistleblowers in unveiling eventual illegalities or misuses of power is extremely important.
+Reactions from the US and UK authorities to the media have shown the vulnerability of both
+the press and whistleblowers and the urgent need to do more to protect them.
+
+The European Union is called on to choose between a ‘business as usual’ policy (sufficient
+reasons not to act, wait and see) and a ‘reality check’ policy (surveillance is not new, but there
+is enough evidence of an unprecedented magnitude of the scope and capacities of intelligence
+agencies requiring the EU to act).
+
+Habeas Corpus in a Surveillance Society
+
+In 1679 the British parliament adopted the Habeas Corpus Act as a major step forward in
+securing the right to a judge in times of rival jurisdictions and conflicts of laws. Nowadays
+our democracies ensure proper rights for a convicted or detainee who is in person physically
+subject to a criminal proceeding or deferred to a court. But his or her data, as posted,
+processed, stored and tracked on digital networks form a ‘body of personal data’, a kind of
+digital body specific to every individual and enabling to reveal much of his or her identity,
+habits and preferences of all types.
+
+Habeas Corpus is recognised as a fundamental legal instrument to safeguarding individual
+freedom against arbitrary state action. What is needed today is an extension of Habeas Corpus
+to the digital era. Right to privacy, respect of the integrity and the dignity of the individual are
+at stake. Mass collections of data with no respect for EU data protection rules and specific
+violations of the proportionality principle in the data management run counter to the
+constitutional traditions of the Member States and the fundaments of the European
+constitutional order.
+
+The main novelty today is these risks do not only originate in criminal activities (against
+which the EU legislator has adopted a series of instruments) or from possible cyber-attacks
+from governments of countries with a lower democratic record. There is a realisation that such
+risks may also come from law-enforcement and intelligence services of democratic countries
+putting EU citizens or companies under conflicts of laws resulting in a lesser legal certainty,
+with possible violations of rights without proper redress mechanisms.
+
+Governance of networks is needed to ensure the safety of personal data. Before modern states
+developed, no safety on roads or city streets could be guaranteed and physical integrity was at
+risk. Nowadays, despite dominating everyday life, information highways are not secure.
+Integrity of digital data must be secured, against criminals of course but also against possible
+abuse of power by state authorities or contractors and private companies under secret judicial
+warrants.
+
+LIBE Committee Inquiry Recommendations
+
+Many of the problems raised today are extremely similar to those revealed by the European
+Parliament Inquiry on the Echelon programme in 2001. The impossibility for the previous
+legislature to follow up on the findings and recommendations of the Echelon Inquiry should
+serve as a key lesson to this Inquiry. It is for this reason that this Resolution, recognising both
+
+PR\1014703EN.doc	39/52	PE526.085v02-00
+
+EN
+
+the magnitude of the revelations involved and their ongoing nature, is forward planning and
+ensures that there are specific proposals on the table for follow up action in the next
+Parliamentary mandate ensuring the findings remain high on the EU political agenda.
+
+Based on this assessment, the rapporteur would like to submit to the vote of the Parliament the
+following measures:
+
+A European Digital Habeas corpus for protecting privacy based on 7 actions:
+
+Action 1: Adopt the Data Protection Package in 2014;
+
+Action 2: Conclude the EU-US Umbrella agreement ensuring proper redress
+mechanisms for EU citizens in case of data transfers from the EU to the US for law-
+enforcement purposes;
+
+Action 3: Suspend Safe Harbour until a full review is conducted and current
+loopholes are remedied making sure that transfers of personal data for commercial
+purposes from the Union to the US can only take place in compliance with EU
+highest standards;
+
+Action 4: Suspend the TFTP agreement until i) the Umbrella agreement
+negotiations have been concluded; ii) a thorough investigation has been concluded
+based on EU analysis and all concerns raised by the Parliament in its resolution of
+23 October have been properly addressed;
+
+Action 5: Protect the rule of law and the fundamental rights of EU citizens, with a
+particular focus on threats to the freedom of the press and professional
+confidentiality (including lawyer-client relations) as well as enhanced protection for
+whistleblowers;
+
+Action 6: Develop a European strategy for IT independence (at national and EU
+level);
+
+Action 7: Develop the EU as a reference player for a democratic and neutral
+governance of Internet;
+
+After the conclusion of the Inquiry the European Parliament should continue acting as EU
+citizens’ rights watchdog with the following timetable to monitor implementations:
+
+•	April-July 2014: a monitoring group based on the LIBE Inquiry team
+responsible for monitoring any new revelations in the media concerning the
+Inquiries mandate and scrutinising the implementation of this resolution;
+
+•	July 2014 onwards: a standing oversight mechanism for data transfers and
+judicial remedies within the competent committee;
+
+• Spring 2014: a formal call on the European Council to include the European
+Digital Habeas Corpus in the guidelines to be adopted under Article 68 TFEU;
+
+PE526.085v02-00
+
+40/52
+
+PR\1014703EN.doc
+
+EN
+
+•	Autumn 2014: a commitment that the European Digital Habeas Corpus and
+related recommendations will serve as key criteria for the approval of the next
+Commission;
+
+•	2014-2015: a Trust/Data/Citizens’ rights group to be convened on a regular
+basis between the European Parliament and the US Congress as well as with
+other committed third-country parliaments including Brazil;
+
+•	2014-2015: a conference with European intelligence oversight bodies of
+European national parliaments;
+
+•	2015: a conference gathering high-level European experts in the various fields
+conducive to IT security (including mathematics, cryptography, privacy
+enhancing technologies, ...) to help foster an EU IT strategy for the next
+legislature;
+
+PR\1014703EN.doc
+
+41/52
+
+PE526.085v02-00
+
+EN
+
+ANNEX I: LIST OF WORKING DOCUMENTS
+
+LIBE Committee Inquiry
+
+Rapporteur & Shadows as co-authors	Issues	EP resolution of 4 July2013 (see paragraphs 15-16)
+Mr Moraes (S&D)	US and EU Member Surveillance programmes and their impact on EU citizens fundamental rights	16 (a) (b) (c) (d)
+Mr Voss (EPP)	US surveillance activities with respect to EU data and its possible legal implications on transatlantic agreements and cooperation	16 (a) (b) (c)
+Mrs. In’t Veld (ALDE)  & Mrs. Ernst (GUE)	Democratic oversight of Member State intelligence services and of EU intelligence bodies.	15, 16 (a) (c) (e)
+Mr Albrecht  (GREENS/EF  A)	The relation between the surveillance practices in the EU and the US and the EU data protection provisions	16 (c) (e) (f)
+Mr Kirkhope (ECR)	Scope of International, European and national security in the EU perspective	16 (a)(b)
+AFET 3 Members	Foreign Policy Aspects of the Inquiry on Electronic Mass Surveillance of EU Citizens	16 (a) (b) (f)
+
+PE526.085v02-00
+
+42/52
+
+PR\1014703EN.doc
+
+EN
+
+ANNEX II: LIST OF HEARINGS AND EXPERTS
+
+LIBE COMMITTEE INQUIRY
+ON US NSA SURVEILLANCE PROGRAMME,
+SURVEILLANCE BODIES IN VARIOUS MEMBER STATES
+AND THEIR IMPACT ON EU CITIZENS’ FUNDAMENTAL RIGHTS AND ON
+TRANSATLANTIC COOPERATION IN JUSTICE AND HOME AFFAIRS
+
+Following the European Parliament resolution of 4th July 2013 (para. 16), the LIBE
+Committee has held a series of hearings to gather information relating the different aspects at
+stake, assess the impact of the surveillance activities covered, notably on fundamental rights
+and data protection rules, explore redress mechanisms and put forward recommendations to
+protect EU citizens’ rights, as well as to strengthen IT security of EU Institutions.
+
+Date	Subject	Experts
+5th September 2013 15.00 - 18.30 (BXL)	-	Exchange of views with the journalists unveiling the case and having made public the facts  -	Follow-up of the Temporary Committee on the ECHELON Interception System	•	Jacques FOLLOROU, Le Monde  •	Jacob APPELBAUM, investigative journalist, software developer and computer security researcher with the Tor Project  •	Alan RUSBRIDGER, Editor- in-Chief of Guardian News and Media (via videoconference)  •	Carlos COELHO (MEP), former Chair of the Temporary Committee on the ECHELON Interception System  •	Gerhard SCHMID (former MEP and Rapporteur of the ECHELON report 2001)  •	Duncan CAMPBELL, investigative journalist and author of the STOA report ‘Interception Capabilities 2000’
+12th September 2013  10.00 - 12.00 (STR)	- Feedback of the meeting of the EU-US Transatlantic group of experts on data protection of 19/20 September 2013 - working method	• Darius ZILYS, Council Presidency, Director International Law Department, Lithuanian Ministry of Justice
+
+PR\1014703EN.doc
+
+43/52
+
+PE526.085v02-00
+
+EN
+
+and cooperation with the LIBE
+Committee Inquiry (In camera)
+
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+•	Paul NEMITZ, Director DG
+JUST, European Commission
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+•	Reinhard PRIEBE, Director DG
+HOME, European Commission
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+- Exchange of views with Article
+29 Data Protection Working Party
+
+24th September
+2013 9.00 -
+11.30 and
+15.00 - 18h30
+(BXL)
+
+- Allegations of NSA tapping into
+the SWIFT data used in the TFTP
+programme
+
+
+
+
+
+With AFET
+
+
+
+Jacob KOHNSTAMM,
+
+Chairman_____________
+
+Cecilia MALMSTROM,
+Member of the European
+Commission
+
+Rob WAINWRIGHT, Director
+of Europol
+
+Blanche PETRE, General
+Counsel of SWIFT
+
+- Feedback of the meeting of the
+EU-US Transatlantic group of
+experts on data protection of 19/20
+September 2013
+
+- Exchange of views with US Civil
+Society (part I)
+
+•	Darius ZILYS, Council
+Presidency, Director
+International Law Department,
+Lithuanian Ministry of Justice
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+•	Paul NEMITZ, Director DG
+JUST, European Commission
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+•	Reinhard PRIEBE, Director DG
+HOME, European Commission
+(co-chair of the EU-US ad hoc
+working group on data
+protection)
+
+•	Jens-Henrik JEPPESEN,
+Director, European Affairs,
+Center for Democracy &
+Technology (CDT)
+
+•	Greg NOJEIM, Senior Counsel
+and Director of Project on
+
+PE526.085v02-00
+
+44/52
+
+PR\1014703EN.doc
+
+EN
+
+- Effectiveness of surveillance in
+fighting crime and terrorism in
+Europe
+
+
+
+- Presentation of the study on the
+US surveillance programmes and
+their impact on EU citizens’
+
+privacy
+
+30th
+
+September
+
+- Exchange of views with US Civil
+Society (Part II)
+
+
+
+2013 15.00 -
+18.30 (Bxl)
+With AFET
+
+Freedom, Security &
+Technology, Center for
+Democracy & Technology
+(CDT) (via videoconference)
+
+Dr Reinhard KREISSL,
+Coordinator, Increasing
+Resilience in Surveillance
+Societies (IRISS) (via
+videoconference)
+
+Caspar BOWDEN, Independent
+researcher, ex-Chief Privacy
+Adviser of Microsoft, author of
+the Policy Department note
+commissioned by the LIBE
+Committee on the US
+surveillance programmes and
+their impact on EU citizens’
+
+privacy_______________________
+
+Marc ROTENBERG, Electronic
+Privacy Information Centre
+(EPIC)
+
+Catherine CRUMP, American
+Civil Liberties Union (ACLU)
+
+- Whistleblowers’ activities in the
+field of surveillance and their legal
+protection
+
+Statements by whistleblowers:
+
+•	Thomas DRAKE, ex-NSA
+Senior Executive
+
+•	J. Kirk WIEBE, ex-NSA Senior
+analyst
+
+•	Annie MACHON, ex-MI5
+Intelligence officer
+
+Statements by NGOs on legal
+protection of whistleblowers:
+
+•	Jesselyn RADACK, lawyer and
+representative of 6
+whistleblowers, Government
+Accountability Project
+
+•	John DEVITT, Transparency
+International Ireland
+
+3rd October
+2013
+
+16.00 to 18.30
+(BXL)
+
+- Allegations of ‘hacking’ / tapping
+into the Belgacom systems
+by intelligence services (UK
+GCHQ)
+
+
+
+
+
+Mr Geert STANDAERT, Vice
+President Service Delivery
+Engine, BELGACOM S.A.
+
+Mr Dirk LYBAERT, Secretary
+General, BELGACOM S.A.
+
+PR\1014703EN.doc
+
+45/52
+
+PE526.085v02-00
+
+EN
+
+
+
+7th October
+2013 19.00 -
+21.30 (STR)
+
+- Impact of us surveillance
+programmes on the us safe harbour
+
+
+
+
+
+
+
+Mr Frank ROBBEN,
+Commission de la Protection de
+la Vie Privée Belgique, co-
+rapporteur 'dossier Belgacom’
+Dr. Imke SOMMER, Die
+Landesbeauftragte für
+Datenschutz und
+Informationsfreiheit der Freien
+Hansestadt Bremen
+(GERMANY)
+
+Christopher CONNOLLY -
+Galexia
+
+Peter HUSTINX, European Data
+Protection Supervisor (EDPS)
+
+
+
+14th October
+2013 15.00 -
+18.30 (BXL)
+
+-	impact of us surveillance
+
+programmes on other instruments
+for international transfers
+(contractual clauses, binding
+corporate rules)___________________
+
+-	Electronic Mass Surveillance of
+EU Citizens and International,
+
+
+
+Ms. Isabelle FALQUE-
+PIERROTIN, President of CNIL
+(FRANCE)
+
+Martin SCHEININ, Former UN
+Special Rapporteur on the
+promotion and protection of
+human rights while countering
+terrorism, Professor European
+University Institute and leader of
+the FP7 project ‘SURVEILLE’
+
+Council of Europe and
+
+• Judge Bostjan ZUPANCIC,
+Judge at the ECHR (via
+videoconference)
+
+EU Law
+
+• Douwe KORFF, Professor of
+Law, London Metropolitan
+University
+
+- Court cases on Surveillance
+Programmes
+
+
+
+7th
+
+November
+
+- The role of EU IntCen in EU
+
+
+
+Dominique GUIBERT, Vice-
+Président of the 'Ligue des
+Droits de l’Homme’ (LDH)
+
+Nick PICKLES, Director of Big
+Brother Watch
+Constanze KURZ, Computer
+Scientist, Project Leader at
+Forschungszentrum für Kultur
+
+und Informatik________________
+
+Mr Ilkka SALMI, Director of EU
+
+PE526.085v02-00
+
+46/52
+
+PR\1014703EN.doc
+
+EN
+
+2013
+
+9.00 - 11.30
+and 15.00 -
+18h30 (BXL)
+
+Intelligence activity (in Camera)
+
+- National programmes for mass
+surveillance of personal data in EU
+Member States and their
+compatibility with EU law
+
+Intelligence Analysis Centre
+(IntCen)
+
+•	Dr. Sergio CARRERA, Senior
+Research Fellow and Head of the
+JHA Section, Centre for
+European Policy Studies (CEPS),
+Brussels
+
+•	Dr. Francesco RAGAZZI,
+Assistant Professor in
+International Relations, Leiden
+University
+
+- The role of Parliamentary
+oversight of intelligence services at
+national level in an era of mass
+surveillance (Part I)
+
+(Venice Commission)
+
+(UK)
+
+•	Mr Iain CAMERON, Member of
+the European Commission for
+Democracy through Law -
+‘Venice Commission’
+
+•	Mr Ian LEIGH, Professor of
+Law, Durham University
+
+•	Mr David BICKFORD, Former
+Legal Director of the Security
+and intelligence agencies MI5
+and MI6
+
+•	Mr Gus HOSEIN, Executive
+Director, Privacy International
+
+- EU-US transatlantic experts group
+
+
+
+
+
+11th November
+2013
+
+15h-18.30
+
+(BXL)
+
+- US surveillance programmes and
+their impact on EU citizens’
+privacy (statement by Mr Jim
+SENSENBRENNER, Member of
+the US Congress)
+
+
+
+Mr Paul NEMITZ, Director -
+Fundamental Rights and
+Citizenship, DG JUST, European
+Commission
+
+Mr Reinhard PRIEBE, Director -
+Crisis Management and Internal
+Security, DG Home, European
+
+Commission____________________
+
+Mr Jim SENSENBRENNER, US
+House of Representatives,
+(Member of the Committee on
+the Judiciary and Chairman of
+the Subcommittee on Crime,
+Terrorism, Homeland Security,
+and Investigations)
+
+- The role of Parliamentary
+oversight of intelligence services at
+national level in an era of mass
+surveillance (NL,SW))(Part II)
+
+•	Mr Peter ERIKSSON, Chair of
+the Committee on the
+Constitution, Swedish
+Parliament (Riksdag)
+
+•	Mr A.H. VAN DELDEN, Chair
+
+PR\1014703EN.doc
+
+47/52
+
+PE526.085v02-00
+
+EN
+
+	- US NSA programmes for electronic mass surveillance and the role of IT Companies (Microsoft, Google, Facebook)	of the Dutch independent Review Committee on the Intelligence and Security Services (CTIVD  •	Ms Dorothee BELZ, Vice- President, Legal and Corporate Affairs Microsoft EMEA (Europe, Middle East and Africa)  •	Mr Nicklas LUNDBLAD, Director, Public Policy and Government Relations, Google  •	Mr Richard ALLAN, Director EMEA Public Policy, Facebook
+14th November 2013 15.00 - 18.30 (BXL) With AFET	-	IT Security of EU institutions (Part I) (EP, COM (CERT-EU), (eu-LISA)  -	The role of Parliamentary oversight of intelligence services at national level in an era of mass surveillance (Part III)(BE, DA)	•	Mr Giancarlo VILELLA, Director General, DG ITEC, European Parliament  •	Mr Ronald PRINS, Director and co-founder of Fox-IT  •	Mr Freddy DEZEURE, head of task force CERT-EU, DG DIGIT, European Commission  •	Mr Luca ZAMPAGLIONE, Security Officer, eu-LISA  •	Mr Armand DE DECKER, Vice- Chair of the Belgian Senate, Member of the Monitoring Committee of the Intelligence Services Oversight Committee  •	Mr Guy RAPAILLE, Chair of the Intelligence Services Oversight Committee (Comité R)  •	Mr Karsten LAURITZEN, Member of the Legal Affairs Committee, Spokesperson for Legal Affairs - Danish Folketing
+18th November 2013 19.00 - 21.30 (STR)	- Court cases and other complaints on national surveillance programs (Part II) (Polish NGO)	• Dr Adam BODNAR, Vice- President of the Board, Helsinki Foundation for Human Rights (Poland)
+2nd December 2013 15.00 - 18.30 (BXL)	- The role of Parliamentary oversight of intelligence services at national level in an era of mass	• Mr Michael TETZSCHNER, member of The Standing Committee on Scrutiny and
+
+PE526.085v02-00
+
+48/52
+
+PR\1014703EN.doc
+
+EN
+
+	surveillance (Part IV) (Norway)	Constitutional Affairs, Norway (Stortinget)
+5th December	- IT Security of EU institutions	• Mr Olivier BURGERSDIJK,
+2013, 15.00- 18.30 (BXL)	(Part II)	Head of Strategy, European Cybercrime Centre, EUROPOL  •	Prof. Udo HELMBRECHT, Executive Director of ENISA  •	Mr Florian WALTHER, Independent IT-Security consultant
+	- The impact of mass surveillance on confidentiality of lawyer-client relations	• Mr Jonathan GOLDSMITH, Secretary General, Council of Bars and Law Societies of Europe (CCBE)
+9th December	- Rebuilding Trust on EU-US Data	• Ms Viviane REDING, Vice
+2013  (STR)	flows	President of the European Commission
+	- Council of Europe Resolution 1954 (2013) on ‘National security and access to information’	• Mr Arcadio DÍAZ TEJERA, Member of the Spanish Senate, - Member of the Parliamentary Assembly of the Council of Europe and Rapporteur on its Resolution 1954 (2013) on ‘National security and access to information’
+17th- 18th	Parliamentary Committee of	• Ms Vanessa GRAZZIOTIN,
+December	Inquiry on Espionage of the	Chair of the Parliamentary
+(BXL)	Brazilian Senate (Videoconference)	Committee of Inquiry on Espionage  • Mr Ricardo DE REZENDE FERRARO, Rapporteur of the Parliamentary Committee of Inquiry on Espionage
+	IT means of protecting privacy	•	Mr Bart PRENEEL, Professor in Computer Security and Industrial Cryptography in the University KU Leuven, Belgium  •	Mr Stephan LECHNER,  Director, Institute for the Protection and Security of the Citizen (IPSC), - Joint Research Centre(JRC), European Commission  •	Dr. Christopher SOGHOIAN, Principal Technologist, Speech,
+
+PR\1014703EN.doc
+
+49/52
+
+PE526.085v02-00
+
+EN
+
+Exchange of views with the
+journalist having made public the
+facts (Part II) (Videoconference)
+
+Privacy & Technology Project,
+American Civil Liberties Union
+
+•	Christian HORCHERT, IT-
+Security Consultant, Germany
+
+•	Mr Glenn GREENWALD,
+Author and columnist with a
+focus on national security and
+civil liberties, formerly of the
+Guardian
+
+PE526.085v02-00
+
+50/52
+
+PR\1014703EN.doc
+
+EN
+
+ANNEX III: LIST OF EXPERTS WHO DECLINED PARTICIPATING IN THE LIBE
+
+INQUIRY PUBLIC HEARINGS
+
+1. Experts who declined the LIBE Chair’s Invitation
+
+US
+
+•	Mr Keith Alexander, General US Army, Director NSA1
+
+•	Mr Robert S. Litt, General Counsel, Office of the Director of National Intelligence2
+
+•	Mr Robert A. Wood, Chargé d’affaires, United States Representative to the European
+Union
+
+United Kingdom
+
+•	Sir Iain Lobban, Director of the United Kingdom’s Government Communications
+Headquarters (GCHQ)
+
+France
+
+•	M. Bajolet, Directeur général de la Sécurité Extérieure, France
+
+•	M. Calvar, Directeur Central de la Sécurité Intérieure, France
+
+Netherlands
+
+•	Mr Ronald Plasterk, Minister of the Interior and Kingdom Relations, the Netherlands
+
+•	Mr Ivo Opstelten, Minister of Security and Justice, the Netherlands
+
+Poland
+
+•	Mr Dariusz Luczak, Head of the Internal Security Agency of Poland
+
+•	Mr Maciej Hunia, Head of the Polish Foreign Intelligence Agency
+
+Private IT Companies
+
+•	Tekedra N. Mawakana, Global Head of Public Policy and Deputy General Counsel,
+Yahoo
+
+•	Dr Saskia Horsch, Senior Manager Public Policy, Amazon
+EU Telecommunication Companies
+
+•	Ms Doutriaux, Orange
+
+•	Mr Larry Stone, President Group Public & Government Affairs British Telecom, UK
+
+1	The Rapporteur met with Mr Alexander together with Chairman Brok and Senator Feinstein in Washington on
+29th October 2013.
+
+2	The LIBE delegation met with Mr Litt in Washington on 29th October 2013.
+
+PR\1014703EN.doc	51/52	PE526.085v02-00
+
+EN
+
+Telekom, Germany
+Vodafone
+
+2.	Experts who did not respond to the LIBE Chair’s Invitation
+Germany
+
+•	Mr Gerhard Schindler, Präsident des Bundesnachrichtendienstes
+Netherlands
+
+•	Ms Berndsen-Jansen, Voorzitter Vaste Kamer Commissie voor Binnenlandse Zaken
+Tweede Kamer der Staten-Generaal, Nederland
+
+•	Mr Rob Bertholee, Directeur Algemene Inlichtingen en Veiligheidsdienst (AIVD)
+
+Sweden
+
+•	Mr Ingvar Âkesson, National Defence Radio Establishment
+(Försvarets radioanstalt, FRA)
+
+PE526.085v02-00
+
+52/52
+
+PR\1014703EN.doc
+
+EN

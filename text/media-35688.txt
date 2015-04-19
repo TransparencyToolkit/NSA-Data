@@ -1,1399 +1,1358 @@
-TOP SECRET II COMINT
-
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+﻿TOP SECRET II COMINT
 
 Pay attention to that man behind the
+
 curtain:
+
 Discovering aliens on CNE infrastructure
 
 CSEC Counter-CNE
 
- 
-
 Target Analytics thread
 SIGDEV Conference
-NSA June 2010
+NSA-June 2010
 
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-TOP SECRET COMINT
+/H	ll+l
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Canada
 
-The need for 
+TOP SECRET II COMINT
 
- 
+Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+The need for Counter-CNE...	^
 
- 
+•	Foreign and friendly actors often encountered
 
-- Foreign and friendly actors often encountered
+•	CNE operators do not pursue them beyond their targets
 
-- CNE operators do not pursue them beyond their targets
-- Reporting groups need to be made aware
+•	Reporting groups need to be made aware
 
-OPSEC evaluation is needed
+•	OPSEC evaluation is needed
 
-- Active pursuit of CNE actors: a different ballgame
+•	Active pursuit of CNE actors: a different ballgame
 
-Safeguarding Canada ?3 security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+/H	ll+l
 
-TOP SECRET COMINT
+Canada
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 Outline
 
- 
+•	Introduction CCNE at CSEC
 
- 
+•	CCNE tools and methods
 
- 
+•	SNOWGLOBE
 
- 
+•	De-confliction
 
- 
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-- Introduction CCNE at CSEC
-- CCNE tools and methods
-SNOWGLOBE
+/H	ll+l
 
-- De-confliction
+Canada
 
-Safeguarding Canada?s security through information superiority a
+TOP SECRET II COMINT
 
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information
+■	■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
-TOP SECRET COMINT
-
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-I .:
 CCNE Group at CSEC
 
- 
+•	Part of CSEC CNE operations (KO)
 
- 
+•	Recently formed matrix team
 
- 
-
-- Part of CSEC CNE operations (KO)
-- Recently formed matrix team
-
-- and operators from CNE Operations, IO Reporting
+•	Analysts and operators from CNE Operations, 10 Reporting
 Lines and Global Network Detection
 
-- Mandate:
-Provide situational awareness to CNE operators
-Discover unknown actors on existing CNE targets
-Detect known actors on covert infrastructure
-Pursue known actors through CNE
-Review OPSEC of CNE operations
+•	Mandate:
 
-Safeguarding Canada ?s security through information superiority (il?tI
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+-	Provide situational awareness to CNE operators
 
- 
+-	Discover unknown actors on existing CNE targets
 
-TOP SECRET COMINT
+-	Detect known actors on covert infrastructure
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+-	Pursue known actors through CNE
+
+-	Review OPSEC of CNE operations
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 CCNE team
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Reverse engineering
 
-  
-  
- 
-  
- 
+T arget development
 
-Target devel pment I nderstand
+Active collection
 
-eign CNE actors
+nderstand
+foreign CNE actors
 
-    
- 
-  
-   
-  
-
-Active c011 - tion . oreign CNE
-
+oreign CNE
 persona
 
-Passive colletion Develo 
-tion signatures
+Passive collection Develot
 
-Safeguarding Canada '3 security through information superiority dl?"
-Pr?server la s?curit? du Canada par la sup?riorit? de i'information  a
+Collection signatures
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	ll+l
+
+Canada
+
+5
 
 TOP SECRET II COMINT
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
+
+Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 CNE Toolkit: WARRIORPRIDE
 
- 
+• WARRIORPRIDE (WP):
 
-WARRIORPRIDE (WP):
-Scalable, Flexible, Portable CNE platform
-Unified framework within CSEC and across the 5 eyes
+-	Scalable, Flexible, Portable CNE platform
 
-Do more with less effort
-- Common framework for sharing code/plugins across the 5 eyes
-- WARRIORPRIDE is an implementation of the 5-eyes API
+-	Unified framework within CSEC and across the 5 eyes
 
+-	Do more with less effort
 
+•	Common framework for sharing code/plugins across the 5 eyes
+
+•	WARRIORPRIDE is an implementation of the "WZOWSKI” 5-eyes API
+
+-	WARRIORPRIDE@CSE/etc. == DAREDEVIL@GCHQ
+
+• WARRIORPRIDE
+
+-	xml command output to operators
+
+-	Several plugins used for machine recon / OPSEC assessment
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/O	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 WARRIORPRIDE
 
-command output to operators
-Several plugins used for machine recon OPSEC assessment
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Safeguarding Canada ?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+/H	ll+l
 
- 
+Canada
 
-TOP SECRET COMINT
+7
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+TOP SECRET II COMINT
 
+l+l
 
-WARRIORPRIDE
+Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
-
-Transaction Id: 133545
-
-Core storage files for implant 
-Plugin Store: 
-Config Store: o:ETampEoonfigFilaSys-sys
-
- 
- 
- 
-  
-
-Note that command does not list plugi
-
-real work
-
- 
-
- 
-
- 
-
-Implant
-
- 
-
- 
-
- 
-
-com ms
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Safeguarding Canada ?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
-
- 
-
-TOP SECRET COMINT
-
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-AM- 
 WARRIORPRIDE plug-ins and output
 
- 
+•	Several WP plugins are useful for CCNE:
 
- 
+-	Slipstream : machine reconnaissance
 
- 
+-	ImplantDetector: implant detection
 
- 
+-	RootkitDetector: rootkit detection
 
-- Several WP plugins are useful for CCNE:
-Slipstream machine reconnaissance
-lmplantDetector implant detection
-RootkitDetector rootkit detection
-Chordflier/U_ftp file identification retrieval
-NameDropper: DNS
-WormWood network sniffing and characterization
+-	Chordflier/U ftp : file identification / retrieval
 
-- Already used for CNE OPSEC
+-	NameDropper: DNS
 
-- Used for precise identification and heuristics
+-	WormWood : network sniffing and characterization
 
-Safeguarding Canada ?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+•	Already used for CNE OPSEC
 
- 
+•	Used for precise identification and heuristics
 
-TOP SECRET COMINT
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+/H	ll+l
 
- 
+Canada
 
-I Communications Security Centre de la s?curit? 
-Establishment Canada des telecommunications Canada 
-1_ . 
+8
 
- 
+TOP SECRET II COMINT
 
-WP output (raw)
+■	■ Communications Security Centre de la sécurité
 
-<?xml 
+Establishment Canada des télécommunications Canada
 
-<response 
+WP xml output (raw)
 
+<?xml version-'1.0" encoding-'UTF-8"?>
 
+cresponse xmlns:xsi-'http://www.w3. org/2001/XMLScherna-instance''
 
+xsi:noNamespaceSchemaLocation="U_FileCollectorLp/U_FileCollectorLp_2.15.xsd"ximplantl
 
+d>51.1.2.160</implantld><transaction><transactionSource>50.0.0.101</transactionSource><tr
 
+ansactionld>320453</transactionld></transaction><timestamp><TLT>2010-02-
 
+23T15:53:06.366</TLT><UTC>2010-02-
 
+23T15:47:43.448</UTC></timestamp><errors><errorPlugin>0</errorPlugin><errorOs>0</error
 
-Safeguarding Canada ?s security through information superiority dl??
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
+Os></errors><commandlnfo>fcstart</commandlnfo><responseDetails><fcstart><status>Succe
 
- 
+ss</statusxstandbyMode>FALSE</standbyModex/fcstartx/responseDetailsx/response>
 
-TOP SECRET COMINT
+Safeguarding Canada’s security through information superiority
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Préserver la sécurité du Canada par la supériorité de l’information
 
-1'11];
+/H	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security
+Establishment Canada
+
+Centre de la sécurité
+
+des télécommunications Canada
+
 WP SLIPSTREAM output (parsed)
 
-[2010105118 - 16:28:05 Transaction Id: 582966
-- 
+[2010/05/18 - 16:28:05 (UTC)] Transaction Id: 582966
+U_SLIPSTREAM - <ssservices>
 
 Implantld: <51.8.1.13>
 
-Timestamp (UTC): 2010102109 06:42:42
+Timestamp (UTC): 2010/02/09 06:42:42
 
- 
+PAGE : 1 of 1
 
- 
+PID |Service Name
 
- 
+|Status ¡Startup Type ¡Service Process Type|Display Name
 
- 
+¡Binary Path
 
-PAGE 1 of 1
+924 ¡AeLookupSvc	¡RUNNING ¡AUTOMATIC ¡SHARED
 
-  
+C:\WINDOWS\system32\svchost.exe -k netsvcs
+0 ¡Alerter	¡STOPPED ¡DISABLED ¡SHARED
 
-PID |Service Name I |Status |Startup Type |Service Process Type|Display Name |Binary Path
+LocalService	|
 
- 
+3184 |ALG	¡RUNNING ¡MANUAL ¡OWN PROCESS
 
-924 |AeLookupSvc Application Experience Lookup Service 
--k 
+C:\WIN DO WS\Sy ste m32\al g .exe
 
-0 |Alerter |Alerter -k
-LocalService 
+0 ¡AppMgmt	¡STOPPED ¡MANUAL ¡SHARED
 
-3184 PROCESS |Application Layer Gateway Service 
+-k netsvcs	|
 
+¡RUNNING ¡AUTOMATIC ¡SHARED
 
-0 |Application Management 
--k 
+924 ¡AudioSrv
+-k netsvcs
 
-924 |AudioSrv |Windows Audio 
--k 
+¡cation Experience Lookup Service	|
 
-0 |Background Intelligent Transfer Service 
--k 
+¡Alerter	¡C:\WINDOWS\system32\svchost.exe -k
 
-0 |Browser |Computer Browser 
--k 
+¡Application Layer Gateway Service	|
 
-1028 |Symantec Event Manager Files\Common
-Files\Symantec 1h ccCommon 
+¡Application Management	¡C:\WINDOWS\system32\svchost.exe
 
-1028 |ccSetMgr |Symantec Settings Manager Files\Common
-Files\Symantec 1h ccCommon 
+¡C:\WINDOWS\System32\svchost.exe
 
-1708 Cissesrv PROCESS Smart Array SAS1SATA Event Notification Service 
+0	¡BITS	¡STOPPED	¡MANUAL
 
-iles\HP\Cissesrv\cissesrv.exe" 
-0 |CiSvc |Indexing Service 
+C:\WINDOWS\system32\svchost.exe -k netsvcs
+0 ¡Browser	¡STOPPED ¡AUTOMATIC
 
-0 |ClipSrv PROCESS |ClipBook
-Safeguarding Canada ?3 security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+-k netsvcs	|
 
- 
+1028 ¡CcEvtMgr	¡RUNNING	¡AUTOMATIC
 
-TOP SECRET COMINT
+Files\Symantec Shared\ccSvcHst.exe" /h ccCommon
+1028 ¡ccSetMgr	¡RUNNING	¡AUTOMATIC
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Files\Symantec Shared\ccSvcHst.exe" /h ccCommon
 
-WP SLIPSTREAM drivers
- (parsed)
+1708 ¡Cissesrv	¡RUNNING ¡AUTOMATIC
+
+Files\HP\Cissesrv\cissesrv.exe"	|
+
+0	¡CiSvc	¡STOPPED	¡DISABLED	¡SHARED
+
+0 ¡ClipSrv
+
+¡STOPPED ¡DISABLED
+
+¡Windows Audio
+
+¡Background Intelligent Transfer Service
+
+I
+
+¡Computer Browser
+
+¡Symantec Event Manager
+
+¡Symantec Settings Manager
+
+I
+
+¡OWN PROCESS ¡HP Smart Array SAS/SATA Event Notification Service ¡"C:\Program
+¡Indexing Service	¡C:\WINDOWS\system32\cisvc.exe
+
+¡OWN PROCESS ¡ClipBook
+
+¡SHARED
+¡SHARED
+¡SHARED
+
+I
+
+¡SHARED
+
+¡C:\WINDOWS\system32\svchost.exe
+¡"C:\Program Files\Common
+¡"C:\Program Files\Common
+
+10
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+il»«
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+WP SLIPSTREAM output
+
+[2010/05/18 - 16:28:06 (UTC)] Transaction Id: 582968
+U_SLIPSTREAM - <ssdrivers>
 
 Implantld: <51.8.1.13>
-Timestamp (UTC): 2010/02mg 06:42:43
 
- 
+Timestamp (UTC): 2010/02/09 06:42:43
 
- 
+(parsed)
 
- 
+drivers
 
- 
+PAGE : 1 of 1
 
- 
+-I
 
- 
+SCM|Driver Name  1  I	|Status |Startup Type |Driver Type		1 Display Name	1 Binary Path  1
+1  lntoskrnl.exe	1 | | IRUNNING | |	1  1		1  |C :\WI N DO WS\sy ste m32\ntos krn 1. exe
+¡hal.dll	IRUNNING | |	1		|C:\WIN DOWS\system 32\hal.dll
+IKDCOM.DLL	IRUNNING | |	1		|C:\WI NDOWS\system32\KDCOM.DLL
+IBOOTVID.dll  1	IRUNNING | |	1		|C:\WINDOWS\system32\BOOTVI D.dll
+lACPI.sys	IRUNNING | |	1		lACPI.sys 1
+¡WMILIB.SYS  I	IRUNNING | |	1		|C :\WI NDOWS\system32\DRI VERS\WM 1 LI B. SYS
+Ipci.sys	IRUNNING | |	1		Ipci.sys 1
+|isapnp.sys	IRUNNING | |	1		psapnp.sys |
+Ipciide.sys	IRUNNING | |	1		Ipciide.sys |
+IPCIIDEX.SYS	IRUNNING | |	1		|C:\WINDOWS\system32\DRIVERS\PCIIDEX.SYS
+|MountMgr.sys	IRUNNING | |			|MountMgr.sys
+|ftdisk.sys	IRUNNING | |	1		|ftdisk.sys 1
+|dmload.sys	IRUNNING | |	1		|dmload.sys |
+|dmio.sys	IRUNNING | |	1		Idmlo.sys |
+jvolsnap.sys	IRUNNING | |	1		|volsnap.sys |
 
- 
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-PAGE SCM|Driver Name |Status |Startup Type |Driver Type |Display Name |Binary Path
+/H	ll+l
 
-i i i i i i
+Canada
 
+TOP SECRET II COMINT
 
+■	■ Communications Security Centre de la sécurité
 
+Establishment Canada des télécommunications Canada
 
-
-
-
-
-|pci.sys |pci.sys 
-|isapnp.sys |isapnp.sys 
-|pciide.sys |pciide.sys 
-
-
-|ftdisk.sys |ftdisk.sys 
-|dm|oad.sys |dmload.sys 
-|dmio.sys |dmio.sys 
-|Vo|snap.sys |Vo|snap.sys 
-Safeguarding Canada?s security through information superiority dl?"
-Pr?server la s?curit? du Canada par la sup?riorit? de i ?information  a
-
- 
-
-TOP SECRET COMINT
-I I Communications Security Centre de la s?curit?
-
- 
-
- 
-
-Establishment Canada des telecommunications Canada
-
-
- 
-
-- Extend WP output to a signature based system:
 REPLICANTFARM
 
-- Module based parser/alert system running on real-time
+• Extend WP output to a signature based system:
+REPLICANTFARM
+
+•	Module based parser/alert system running on real-time
 CNE operational data
 
- 
+•	Custom/module based analysis:
 
-Custom/module based analysis:
-Actors
-Implant technology
-Host based signatures
-Network based signatures
+-	Actors
 
-Safeguarding Canada ?3 security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+-	Implant technology
 
- 
+-	Host based signatures
 
-TOP SECRET COMINT
+-	Network based signatures
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	11+1
+
+Canada
+
+TOP SECRET II COMINT
+
+■ CCNE/Opsec WPID Alerts - Mozilla f irefd*
+
+File Edit View History Bookmarks lools Help
 
 
 
+é In
 
-Eile Edit Eiew History ?ookmarks Idols Help
+* -1
 
-*0 fe'i_? 
-Most Visited Getting Started Latest Headlines .1 HT -: Operations Opsec Trac Systems 
-CCNEiCrpsec WPID Alerts Exploits r- http?obelixl Alerts WPID Alerts 
+Most Visited lj Getting Started ;>j Latest Headlines ¿1 LTT < Operations < TW... - Dpsec - klsvn - Trac CCNE/Opsec: Systems □ http://obelix/systemInfo/
 
-WFPID Alerts REPLICANTFARM
+J CCNE/Opsec WPID Alerts x 0 Exploits
 
-No re the: the search is done with tire ?elds as per? regular 
+http://obelix/
 
- 
+CCNE/Opsec WPID Alerts x |V CCNE/Opsec WPiD Alerts x
 
- 
+CCNE/Opsec WPID Alerts
 
- 
+Note that the search is done with the fields as perl regular expressions..
 
- 
+REPLICANTFARM
 
- 
+C lurent Modu les:  mod_10W_WTH_Implaiit .pi mod HW MM SHEPHERD.pl	mod_l 10Q,_VO_Implant.pt	moc_3 5_pracP'arents.pl	mod_5W>_SD_MD C.pl	mad_24_expecledArguments.pl	mod_3M_UNTC_WTNPAC? pi	mod_310_UNK_WTDOWTCEY.pl	• h
+	tnc-dj l_cloaksd.pl	mod_ 16_tecyclarsx sc.pl	m od_ 2 C1 _SD_u H2 iFTP.pl	mod_2 i_pfivilsH es.pl	mod_3C 5_UlSIEJASEX.pl	mod_3 ll_UNK_CIVETCAT.pl	me
+	mcd_l 2W_AF_ALOOFNESS pi	mcd_ 17_tmpaflcec.pl	raod_2 U_pahmadinca.t ion.pl	mod_300_UNK_TCPSRV3 2 .pi	mod_3Cr 6_UNK_WTNU?DATE. pi	mod_3 _mspra tender. pi	mo
+mod_ 102 _MM_REGE ACKU? .pi  mod_103_MM_D0GHOUSE.pl  mod_104_MM_WALKER.pl	mod_12_system3 2var.pl	mod_ ] S _p as swor¿fil t =r =. pi	m cd_ 21 _=■: h seuls at .pi	mod_30 l_UTiK_BLAZINGANGEL.pl	mod_307_UNK_QUI\rEEINGSQUAB .pi	mod_400_SS_WTNBEE.pl	mo
+	fn&d_l 3_farpassTTOfd.pl	mod_ 19 _k sraslcloattfi=. pi	mod_2 7._n runinst aHerae. pi	mod_302._TTNYWrEB.pl	mod_30S_UME_WTND0.pl	m«i_4Gl_SS_SSLlNST pi	mo
+	mod_ 14_;t r aagsdllat t sa sions .pi	mod_ 1 _p.acked.pl	m od_ 2 3 _hi.ddcn.pl	mod_30JJ2MK_CYDLL.pl	mod_305_UNK_DIESELRATTLE.pl	mod_402_SS_SharpR .pi	mo
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Examples: 
-i Della  are
-singleL
+Ilots {.) ara
+îtn.El=-
 character
-wildeaxtle
-. Dal 3U:   Pl mud_1 .pl 13le 5 ??l??lls.p1 meIL2 0.131 meni_24_u;uyet mud_3 mo
-mad?1m Ram  P1 mod 1 med_23_privilegee.pl mad mod 3 are
-number of mod_'l T_tmpexee.pl mmLE? men-1L3 _mspeetendet.pl 
-character! P1 med 12_e:vstem32 .pl men-[30 med me
-. Single med?103?m4?mGHOU? '1 mo-d_13_rarpaeswaed_pl mod_19_kemelelnaldng.pl me
-5113".- ad_1m_hmll_wm mod mud ]_pa.ekecl.pl mad_23_hidden.pl mad_303 mold me
-{Haze - - 
-WE):
-51233.11
-I Infrastructure
+vrildcarda
+Dot-Star (..*)
+means any
 
-THE: 
-?m Middle Regeerp:  Histamie: 0
-Live: 
-Submit Query I
-ALERT 
-Module: Dale: Tag: File name: .Jdaiastoreierclsive-QDI Oi?l? Ii] 5
-mod_l 2010-01-21T153539963 MRI am} 
-eta ils:
+manta: of
 
-Possible MM driver ?le: 
+characters
 
-Possible mi driver ?le: 
-Possible Li's-I driver ?le: 
-Possible EDI driver ?le: 
-Possible Fill-I driver ?le: 
+Single WPID:
 
+5r..s',.r..i3
 
+Class C
 
- 
+WPID:
 
- 
+51UBV1U
 
-1L5
+lafrastrcctura:
 
-TOP SECRET COMINT
+A5tfl.
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+		Type:
+WPTD Regexp:	Module Regexp: MM	Historic: ’3
+		Live: ' .
 
- 
+| SubmitQuery |
 
- CCNEfOpsec viewer Mozilla Firefox
-*6 e's? 
-)9 Most Visited Getting Started . Latest Headlines .1 HT Operations 3' Opsec klsim ?TraC Systems 
+ALERTS
 
-CCNEi'O-psec WPID Alerts WPID Alerts a CCNEi'Opsei: WPID Alerts CCNEfOpsec 
+	Module:	Date:	Tag:  MM	File name:../dala^ore/arcltRre/2010/01/21/2 5
+	mod_l 03_MM_DOGHOUSE pi	2[H0-Q1-21T15:36:W.96S		■,’niID00M)27248i_18_Y2QlOMQlD21_H15M2ES59_MSfi42MU5OQNS0_RX[D05O_0OO_0
 
- 
+Details:
 
-viewer
+Possible MM DOGHOUSE driver Eie: C.WTNKTt£NtUdnstallQ24459SS.
 
-Note em :eai?c}: done on Lice Lipid.? u'i'Li: a singer's tritium-d and aperi' regr?oul'br Lb: convened line;
+Possible MV DOGHOUSE driver file: C:\WMNT.$NtUrAistallQ24459Ei''HfAsy^
+Possible MM DOGHOUSE driver file: C:AV[MvT^NtUdnstallQ24459gS'netbt.sys.
+Possible MM DOGHOUSE driver He: C:iWJNNr.$NtUninstaDQ2445?gi'.1cpT-sys;
+Possible MM DOGHOUSE driver file: C:\WINNT(SN«inins1allQ244598$'.hotSx inf
 
-Examples:
+^PULLEDPORK—
 
-A value act" 11'. a wpia Loci-sates dust ?-:Lass' is a elm-saw.
 
-Single '31. 15.1.13
-
-Class 
-
-CLass 51.3.1.?
-
-The egexp is a pert reguLil expression: applied. no the li:r_e. Orly countered lines mis?t; die expression: u'ill 'be displayed.
-
-The {Rages}; is a pad reguLsr expression: Jppliead to [te :murmzd life. Only counties: Lites NOT sitistEJiLg dze expuessi-ou'. will ?be displayed.
-
-mar 51.3.1 13
-
--2 1101::
-
--:
-
- 
-
- 
-
-I proc I cmdline I parent Tl?pi? I last?em
-
-IC: syr.-: 11:13
-Intruders I5:qw:;C: Flew. Piles SHEER: Systems: Ems-point Pia-testicle I5: it'll-5
-Flew. Syp'aizte: LiveL'pdele' LuCallbejcPsomyess?qm; I5: g1; 2610-40544 6433-5
-Ihssallhs?rpremy qum; C: Prayers: Fitss Symsius: 3951] I5 94:05
-I [Kant-admins} I5:qoet; C: Flew. 53:31:21-: LivaUptl?ate' qua-t; 1151: IE '35} I5: gig I 1610-45?14 {34:35
-Il'issallbs?rpimy I?quetgc: Fragrant F'Ltss Eye-?le: LivsL'pmts I5 191-34544 94:95
-I oceans~1 .ese 53mins: I5: g1; 161-345?111 {34:95
-I I?qum; C: 1115:1311. Syn-?ts: J. ivsLIpaets Luattessileqw; I 1913?05?14 94:05
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-{34:94
-1:11-34:44 91:15
-191945?34 91:10
-amass?J: 19:3:
-Issues?3.3 19:35
-
-I?quetg C: Prayers: Fitss Systems: Syn-saris: Repairs I5 
-
- 
-
-systerrjl'Wbs-m ?ss:i:.tsi: Emmi-die; Ik 
-HelpCH Lea?es HelpSw-?ssxs?q?iset; 5111mm; I5 
-I5:qw:;C: links-mm. APP .4=l smears: Legs Dias-gs ?q?mlg?: Dimmer. Logs?qwi; I I5: g1;
-Isa?lasiness I?quetgc: smash-m Spam-Assasstr.? 4.511: Dimmer APP smash-m Alias-med: 
-
- 
-
- 
-
- 
-
- 
-
-19:30
-llamas?13 19:39
-
-qum; C: Edna-siren APP .a I5 gt;
-
- 
-
- 
-
-listpi'utsexs I?qisat; C: sweater APP LisMJeexs?qt-ot; I5 
-Isa?lemmas: I?quetgc: Lina-sister ?span: limes-mar. APP Span-Assesses limes-rater. Spaia'AssassiLrLalss?qm; sweater. I5 
-Freeware-res: Lukas-m APP 'qutglmasnsar Sm'aaq'wt; 
-Isis-eerie I?qlastgc: systij -: squotgt: Isl?ssistar'APP Leatbat?eqmt; 
-
- 
-
-191-34 5?2 3 19:3 {1
-
-Jill-3a.? 3 19:3 {1
-
- 
-
- 
-
-Issues?3.3 19:35
-
- 
-
-Isuzu-35.13 19:30
-llamas?13 14:11
-
-Iemdexs I?quet; C: domes systij -: ?41m; C: APP IE 
-
- 
-
-Iawpearsexs I?qmgc: hmaenmr? SenstityPLus r. 
-IE2: 11151515.: C: Syd-sits: UpcaieSyKrAp-ps 
-I?qwt; C: APP .e=1 F?qwigci smeared: Legs Dimes Legs?1919054 l?F?-?aaitiia?ji?qui; p=5sqtotg C: smear-.5: L-Bg?qu-Dl; 1' I5 
-IC: syr.-: I5 
-
-Ilusallbequ'ooiy liquor; C: P1634311 Files Ii 
-
- 
-
-Elms?:3 94:95
-Issues?1s 19:31
-
- 
-
- 
-
-{13:15
-
- 
-
-I 151-3054 
-
- 
-
- 
-
- 
-
-Iltcallbe?rpremy I?qisat; C: Preemie. Symsi:t-: LivsLIpeats "3951] I5 94:95
-Ilusallbsi'woog: quuotgc: Flog-an: Files Sy?marzte-z LiIreL'pdate Lu?allba?oxyexe?qm; S-CIEB 11315-151133}- Ii g1; {34:55
-I I?qwt; C: ngian'. Hydrate: LivsLIpcats LufellbedsPrexyexsa quit; {850131313 1 I5 gr; I Ella-?D 5?11. 94:95
-
- 
-
-I ems I?quotgc: 53:11:13-: lL'CDE-ils di??qmt; IE gr; I 1013-05-11 Q4:le
-
- 
-
-IltaLL.e:.e quuotg?: P163431. Files LiIreprciate LL31 L.e:.e.5:qt.m; -5 54::6
-. -v
-
-Milt/tum ram: cu Una-luv: 1.0 ?v 
-
-TOP SECRET ll COMINT
-
- 
-
- 
-
- 
-
- 
-
-HI      
- 
-REPLICANTFARM generic modules 
-- Cloaked - Kernel cloaking
-- Recycler - Schedule at
-- Rar password - Ntuninstall execution
-- executable - hidden
-
-- Packed
-
-- Peb modification
-- Privileges
-
-- MS pretender
-
-- System32 ?variables? Other 
-- Strange DLL
-
-exte SI 0 
-Safeguarding Canada ?s security through information superiority dl??
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
-
- 
 
 TOP SECRET II COMINT
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■	■ Communications Security Centre de la sécurité
 
-Generic modules example
+Establishment Canada des télécommunications Canada
 
-my @runningProcs xml_isProcessRunning( $xml, 
+cj CCNE/Opsec Mond umpprtracker viewer Mozilla Firefox
 
+File Edit View History Bookmarks Tools Help
 
+« -e
 
+p Most Visited ijj Getting Started Latest Headlines JL LTT < Operations < TW... 1 Opsec - klsvn-Trac j_J CCNE/Opsec Systems C http://obelix/systemlnfo/
 
+-L CCNE/Opsec WPIO Alerts x	G CCNE/Opsec WPÍD Alerts	L CCNE/Opsec WPID Alerts x	Q CCNE/Opsec Mandumppr... x
 
+CCNE/Opsec Mondumpprtracker viewer
 
+Note that the search is dene on the wpidj with a simple wildcard and a perl regexp for xcs tommand lines..
 
+Eunpht;
 
+t A ■valise of* * in a v.jio tndicaies that ■class' is a wildcanJ.
 
-.
+•	Single WPIO: SL.a.l. 13
 
+•	Cl*» E WPH>: 51.1.*. *
 
+■	Class C WPIO: 51.3.1.*
 
+■	The —Regexp Is a pari regular expression applied to its :orrjT_sr.d line. Only cswraasHidi tirass -satisfying its expression will te displayed.
 
+•	Tie -Regexp Ls a perl regular expression applied to its command line. Only command lines HOT sati«§ring ite expression will "be displayed.
 
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-foreach my $runningProc (@runningProcs)
-
-
-$a|ertText .2 "Suspicious process detected, legitimate exe named appended with string: . $runningProc . 
-
-Safeguarding Canada?s security through information superiority a
-
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information
-
- 
+pm	cmdLint	parear	tipid	lutSeea
+|9räeds^nc.BH!	C:' WTCDOWS'ívitsmôZffisÉedssync.exe v-tk	&11 ;ia-JíEoiíT._0TiTjéri6 gt ;		2Ö15W55-24 12:13
+ldwlrwiînf,aî.s	£qi»t;t: Program. FiLsí' SynssEtK.' Symantec Exdpoir.i: Protection! UWHW:Lail.EK&qwt,	&li ;iiRkitown_ííwiwi&gt ;		201MJ-24 04:05
+1 Iwaübidfraxy	fapwCiC: Proarar. Files-SymatiK'LivaVpistt'LpCaUtodcPs«y.«iafoiBK; {SL1CD2ÍE-1C4&-4ÍSÍ-&DDIXA+FAE545FBDF}	£ li ;iaiííEtmrí_ty\vT^r£ gt ;		2010-05-24 04:05
+1 iTsrallbsilrproxy |*qi»H;C: Program FiLeiVSyfsaEteo'Lix'eLpdate'XuCiUhacbProxy.aceifeqiayt; {E5A3EBEE-D5BXM21s-K6[)F-54C0B3739522}		* H iimknOT^OTiTerÄ gt ;		2010-05-24 04:05
+1  f	£qií«;C: Fr:-arar. FLLk S'-rr.a:ia: LivîVçdaé'luCaLLCü-dcPi-îxy.atâÂq't«:; {Dû75?52S-C'5E ‘-isaL-5DCF-230; 1EEE'E-E3 \	&lt iiaikEBiir^treTuafi gi ;		2010-05-24 04:05
+1 liKallbaftprory	&qtot;C: Program Fila;' Symantec LivêUpdaié-L'bCjlllacl-SVoxy.atiÂqiiiw; {CÆ0DC234-fi5E!H<fiT4-WAE-i2158£FCA433}	* 11 ;ur3aic",b_cmT.erÄ gi ;		2010-05-24 04:05
+1 ['iKCOls-l. sxs	£qi»t;C:'PEO<ïRA-.l'Sïïtan.ed-LIVÏVP-.L'LVCOWS~L.EXES:qtoi;	£1t iiinkEow^owiiisrfi gt ;		2010-05-24 04:05
+|lnHl.öL»	*qisot;C: Program FilK'.Sv'ffianteo'lK'eUpdsie'.Ltisllexeárquot: -S	Ält ;urXíno'KT_mRTierife,g t ;		2010-05-24 04:05
+1 ses olívate	*qi»H;C: Program Fil«'. Symantec' Symantec Endpoir-t Piore: non SeacLU .exe*ouot: -Embedding	*H:,unkng'w>n onTeriSgl:		2010-05-24 04:04
+ivmipívse.ene	C:' '^TbnX»WS'^,4raTi52'w'beiTiliraiipiVbe,e3H -••erprad -Embedding	£lt ;-L.r3a,.c,;r._b"T:erÆ gt ;		2010-05-24 02:10
+Iftelpsvc.ace	C:1 .WINDOWS PCHsaLtlî'HelpCtfEmarie;' HelpSvc.cwAqwM:; iEmbewing	& 11 ;ur3a!.cf.f._cmT.er£ gt ;		2010-05-24 02:10
+	£qi»c,C: LIDiaraff.’-AP-P AcioraitPriai.ä.äXä&qisQi; .<i=L ..F^quot.C .i¿Daemon'* Lues OldLogs' Logs-20 1 0-05-22-Sat-OO-OO-ZO.zip&qwt. .p=&qiroi:C; UDaetnan Logs&qiMt; Jt	£1t ;iînlœî3T;rî_tîwiïa£ gt ;		2010-05-2J 10:32
+l-a-leamene	*qisot;C: tID^monr.SpamAsas5in.iê-leâm exeÂqi»t; —tant —ror.5gparh=£ quot ; C : MDaemor. APP Spun* va ; ;i r_ deéiil r jet le >*q'¿o r ; —;itecorÆgpatt=&quot;C: AiDaemon SpamAesaesin mlesÄquot: —diiÆquorCAiDeemon PUBLICA EAYE5W1 EMA NOK-SPn.1 ILLA * nvsg&quot;	£1t ;urj:r_gr.r._cr,.TT.erife,g t ;		2010-05-23 19 JO
+|iKMiaapfisite.at	Sqisot: C: ADDaemon APP AocouniPmne.exefepiot ;. a	* H iratfaLg'm; onTeriSet:		2010-05-23 19:30
+1 ItarpnaH.ete	¿feqisor; G: MDjssimVAPP LisiPiiate.eKe&qiiot; s	& It iiaUif-oti^oiineriS gt ;		2010-05-23 19:30
+Isa-team, ace	&qiVK;C: ilDaeraon' Sj^AesäK-ifA-^Ieam.exeÄqi»::; -apara -c*ES.gpait=&qj>oi:C:'.JiD34ra«i''APF.SparaA55a^ifi'd^T:Ii_n>les*£[Ubi; -aLter-erigföü:=¡£q.ivci;C^fCî3erabr.-SpaiyAisaSíir.'.rLilecÆqivet; -dir ÂqiHH;C:-.lïï>Kffior.f.PDT31JC~rSATŒSI~l.I&£A'.SPAM~l .IMAb.ma.g&quo::	* 11 ;ur3aig",b_cmT.erÄ gt ;		2010-05-23 19^0
+md.updater.exe	Sqisor C: .MD^mor.'.APP iMDUpdater.exe&quoi ; p=áüj.ijot;tíDaeraon ServerSquot: ,'s	&1t ;iínlaig'«,n_msTer*,gt :		2010-05-23 1930
+|cmd.exe	* quor ; C: .M.TNTX>WS' system3 2 ornid .exeÄqivc t ; -r &qmr: C : MDaemon .APP Learr: baÆq-co i ;	£1t ;urj:r_g,RT._o"T.erife,g t ;		2010-05-23 1930
+|<md.«te	Squat; C: UTHDOWS' sysreiTi32 .cmd.exefeqtvot ; -r *qmr;C: MDaemon'APP Cleanup .lat*quot ;	£ltiurAf-griT. {VBTveriSgl:		2010-05-23 1930
+|avupaae.ene	íiqisKi C: MD-aeraor.' Se*urir.'PLu; a_.iipdate er.5Æa;adr; q r.	& lt iiaUínoi^oiinériS gt ;		2010-05-23 14:21
+|íiatííll32.aie	C UTvDOWS' -t-y ;tem3 2' rursd 113 2. exe C: J50CLtME~TAILirSEr-l.TlTNAPPLIC~r SyraaiaK'.SyKfApp&' SyKnAppS.dll. UpdateSyîLrApp S	& 11 :urZngf.f._cmT.er£ gt ;		2010-05-23 04:05
+KcoiindpnMte.at	*qi»t;C: tJDaemOT.'APPAccwifitPíime.eKe&quot; d=L r^quct:C:'AÍI>aenvHí L*gs DldLogs Logs-201l>-05-21-Ffi-(X3-í>0-03.íipSqiK.i; p=*quot:C: AIDaemonLogafeiuotj r	&1t ;unlaig'wn_oisTer*,gt :		2010-05-22 1932
+|msfeed55ytyr.exe	C: V*T>¡DOWS'.sysremi3 ? m^ed.i.!.vn-.exe sync	ftll:urj:r_gr.r. merer*'et:		2010-05-22 0 3:16
+1 lucallhadcproxy	írq-icor: C: Program. Files1. Symantec' Lp/eUpdeie'XuCalLhadcPíioxy exe^qisot; { B L2CD25B-1040-40 36-9DDEM.4FÆ649FBDF}	&1t ;iirJíngTi'n_OTXT!er*gt :		2010-05-22 04:05
+1 lisKllbáftpfoxy	&qii*c;C: Program FiLes.&>'raaEiK'LiveUpiaie'XuCalloaílíPí>osy.es.eiSq,i»t; {EiA3EBEE-D.5£^21 e-E-fOF-í4C0B3739522}	& It iiaUif-oti^oiineriS gt ;		2010-05-22 04:05
+1 [ucsllbadkproxy	&qnsrt;C: Program Files' Svm^et LiveUpdaieluCjllbadFioxy.exs&qtim:; {D3T-5í»2-54>5E'-ladL-50CF-23Q51EEE7BE3 }	&1t :uTL>aiQ''S‘n_ot>TÄr* gt :		20104)5-22 04:05
+liKallhsífcproxy	*qisot;C: Program Files'. SyffiafitefLix-eUpdaieX.uCiUl»rfePí03Cj-ace*qTsac; { C60IIC234-65 F9-+6T4-94AEr-S215BEFCA433 }	*1i ;iînlaig'«,n_msTer*gt :		2010-05-22 04:05
+1 liKonis-l .ate	Squot;C: PEOGPA-1 SymantK LIYEUP- L LUCOM S- L .EXBfequo i :	feltmrAr-orer- o~.~r.er*ei:		2010-05-22 04:05
+l'baa'LL.exe |3rqi¡»t;C: Program Files'.Symantec'LiveUpdiie.Luall.exe&quct: -S		&lt iiinknoTi^owner* gt :		2010-05-22 04:05
 
 TOP SECRET II COMINT
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+REPLICANTFARM generic modules
 
- 
+•	Packed
+
+•	Peb modification
+
+•	Privileges
+
+•	MS pretender
+
+•	System32 “variables” Other ideas___________
+
+•	Strange DLL
+extensions
+
+•	Cloaked
+
+•	Recycler
+
+•	Rar password
+
+•	Tmp executable
+
+•	Kernel cloaking
+
+•	Schedule at
+
+•	Ntuninstall execution
+
+•	hidden
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada oar la suDériorité de l’information
+
+/H	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
+
+Generic modules : example
+
+my @runningProcs = xml_isProcessRunning( $xml, 'svchost.{l,3}\\.exe',
+'winlogon.{l,3}\\.exe',
+
+'services.{l,3}\\.exe',
+
+'lsass.{l,3}\\.exe',
+
+'spoolsv.{l,3}\\.exe',
+
+'autochk.{l,3}\\.exe',
+logon.{l,3}\\.scr',
+
+'rundll32.{l,3}\\.exe',
+
+'chkdsk.{l,3}\\.exe',
+
+'chkntfs.{l,3}\\.exe',
+
+'logonui.{l,3}\\.exe\
+
+'ntoskrnl.{l,3}\\.exe',
+
+'ntvdm.{l,3}\\.exe',
+
+'rdpclip.{l,3}\\.exe',
+
+'taskmgr.{l,3}\\.exe',
+
+'userinit.{l,3}\\.exe',
+
+'wscntfy.{l,3}\\.exe',
+
+'tcpmon.{l,3}\\.dir );
+
+foreach my SrunningProc (@runningProcs)
+
+{
+
+SalertText .= "Suspicious process detected, legitimate exe named appended with string:". SrunningProc . "An";
+
+}
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/d	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 RF specific signatures
 
-- KNOWN actor filenames, processes, covert stores:
+•	KNOWN actor filenames, processes, covert stores:
 
+-	MAKERSMARK / FANNER
 
-ALOOFNESS
-SNOWGLOBE
-VOYEUR
-SUPERDRAKE
-GOSSIPGIRL
+-	SEEDSPHERE/BYZANTINE
 
-- Infrastructure
-Known IP addresses
-Known DNS queries
+-	ALOOFNESS
 
-- Other tools
+-	SNOWGLOBE
 
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+-	VOYEUR
 
- 
+-	SUPERDRAKE
+
+-	GOSSIPGIRL
+
+•	Infrastructure
+
+-	Known IP addresses
+
+-	Known DNS queries
+
+•	Other tools
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/O	ll+l
+
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+l+l
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
 
-Specific signatures example 
+Specific signatures : example
 
- 
+# Check a known drivers present
 
- 
-
-Check a known drivers present
-
-my @driversPresent xml_isDriverPresent( $xml, 
-
+my @driversPresent = xml_isDriverPresent( $xml, 'usbdevW.sys', ,acpimem32\\.sys',
+,usblink32i\\.exe\ ,\\$NtUninstallQ722833\\$');
 
 foreach my $driver (@driversPresent)
 
-$a|ertText "Possible MM CARBON driver detected: . $driver . 
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  a
+{
 
- 
+$alertText .= "Possible MM CARBON driver detected: ". $driver. "An";
+
+}
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+18
+
+/H	ii+i
+
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+■	■ Communications Security Centre de la sécurité
 
-I Communications Security Centre de la s?curit?
+Establishment Canada des télécommunications Canada
 
-Establishment Canada dest?l?communications Canada 
+Operations
 
-- Routine operations for CCNE investigations on current
+•	Routine operations for CCNE investigations on current
 targets
-Execution of OPSEC related plugins
 
-Collection of files
-Examination of network activity
+-	Execution of OPSEC related plugins
 
- 
+-	Collection of files
 
- 
+-	Examination of network activity
 
- 
-
- 
-
-- Blanket approvals for addition of selectors to level 4 OPs
+•	Blanket approvals for addition of selectors to level 4 OPs
 against known actors: example WATERMARK operations
-
 against MAKERSMARK
 
-- Standard operating procedures for level 2 level 4
+•	Standard operating procedures for level 2 - level 4
 operataions against foreign CCNE actor infrastructures
 
+Safeguarding Canada’s security through information superiority
 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+/H	ll+l
 
- 
+Canada
 
-TOP SECRET COMINT
+TOP SECRET II COMINT
 
- 
-  
+l+l
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Communications Security
+Establishment Canada
 
-CCNE OPSEC page on 5-Eyes  
+Centre de la sécurité
+
+des télécommunications Canada
+
+CCNE / OPSEC page on 5-Eyes K1SVN
+
 Wiki
 
- 
-
- 
-
- 
-
- 
-
- 
-
-- Contains reverse engineering reports for CNE IO
+• Contains reverse engineering reports for CNE / IO
 consumption
 
-- Even logs and notes for several actors
+• Even logs and notes for several actors
 
-Safeguarding Canada '3 security through information superiority (il?l'I
-Pr?server la s?curit? du Canada par la sup?riorit? de i'information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+20
+
+/H	li+i
+
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+Communications Security Centre de la sécurité
 
-Establishment Canada des telecommunications Canada
+Establishment Canada des télécommunications Canada
 
-CCNE operations Covert Infrastructure 
+CCNE operations - Covert Infrastructure
 
-I I Communications Security Centre de la s?curit?
+•	Some fusion of the WP and CCNE infrastructures
 
- 
+-	Dedicated ORB for CCNE
 
- 
+-	Unattributed dialups to the ORB
 
-Some fusion of the WP and CCNE infrastructures
-Dedicated ORB for CCNE
-Unattributed dialups to the ORB
-
-Philosophy: use low hanging fruits against the actors
+•	Philosophy: use low hanging fruits against the actors
 (public exploits and tools if available)
 
-Discussions regarding repurpose of foreign toolkits
+•	Discussions regarding repurpose of foreign toolkits
 
-- De-confliction
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+•	De-confliction
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada oar la suDériorité de l’information
+
+/H	ll+l
+
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+■	■ Communications Security Centre de la sécurité
 
-Establishment Canada des telecommunications Canada
+Establishment Canada des télécommunications Canada
 
+SNOWGLOBE
 
-SNOWG LOBE I
-
-I I Communications Security Centre de la s?curit?
-
- 
-
- 
-
-- Provide the historical account of the activity on
+•	Provide the historical account of the activity on
 DOURMAGNUM (Imam Hussein University)
 
-- Implant identified while investigating another
+•	Implant identified while investigating another
 unattributed actor
 
-- rar archiving of emails on target
+•	rar archiving of emails on target
 
-- Beaconing using HTTP to php-based listening post
+•	Beaconing using HTTP to php-based listening post
 
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-TOP SECRET COMINT
+/T	11+1
 
-
-I Communications Security Centre de la s?curit? {Jim
-Establishment Canada des telecommunications Canada . 
-
- 
-
- 
-
-P1 WPID Alerts - Mozilia Fire-fox
-
-Eile Edit Eiew History ?oolcmarks Iools ?elp
-
- 
-
-Most?u'isited Getting Started .1 Latest Headlines -: Operations c:  Opsec - - Trac CCNEiOpsec Systems 
-http?obeliio? WPID Alerts r: CCNEfOpsec WPID Alerts Opsec? >1 Opsec 
-
-CCNEfOpsec Alerts
-
-Note that the search is done With ?eld: a: per} regain? 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Em
-Cancel MotlIJu: 
-I Del: .2.) angled? I Pl 
-wincarde Ind-1w it?  m_11_dealhod.pl mod_ 
-I may m'wl'W?cmm 91": mild motl_lT Mp1. non-[900;
-mimufc?rntae m?l mod_RPI_
-II Shogie ?@113: 512.115.. 12.13 mud-1 BUSH 'Pl m_13_mpleamlnl.pl mod_4l31_55_551m5T_pt mull_6_lmowmhs.pl mod_RFI_
-I Class mud?m: MM ?mm HID-II lJldeedqnl. mil-d 303 Inn-d mun-d 
-. .91
-I Mada-12430:
-TIN-
-WPID Ragga): Raga]: mum: 
-Liv:
-Submit?uer?y
-ALERTS
-Module: Date: 10218241906 Tag: SIG File name: __idalaslorel asct?ve??mim??i 10m745 
-Details:
-
- 
-
-Possible OBE CHOCOP OP process detected: cmdexe -5?2 ?220983236SOO"-rar. exe" a ?r ?ir1ul -hploclcless ?aprfeghlii 4:116 
-Possible OBE CHOCOP DP process detected: cmdexe EC a ?r ?i:nul -hp1ock1ess ?aprfeghhi 4:116 
-Possible OBE CHOCOPDP process detected; a ?r ?ir1ul ?hploc1v:1ess ?apSNazarian ?tnld 
-Possible OBE CHOCOPDP process detected: a ?r ?itlul ?hplockless ?apST-'azarian 4:116 
-Possible OBE CHOCOP DP process detected: cmd.exe a ?r ?inul ?hploclcless ?ap31?iaza.tiazl 
-Possible SNOWGL OBE CHOCOP DP process detected; cmd.exe a ?r ?inul -hplockless ?apSI?Caza.Iian ?tIlld 
-Possible SNOWGL OBE CHOCOPDP process detected; a ?r ?ir1ul ?hpiockless ?ap1cpnaza:i ?l:nld 66121: 
-Possible OBE CHOCOPDP process detected: a ?r ?it1ul ?hplockless ?ap1cp:1aza:i ?m1d 
-Possible OBE CHOCOP DP process detected: cmd.exe a ?r ?inul ?i1plock1ess ?tnld temp-16613: 
-Possible SNOWGL OBE CHOCOP DP process detected; cmdexe a ?r ?inul ?hplockless ?apiqmazari ?tnld 
-Possible SNOWGL OBE CHOCOPDP process detected; a ?r ?irlul ?hploclc1ess ?apmsaadati ?m1d 
-Possible SNOWGL OBE CHOCOPDP process detected: a -r -hplockless -apmsaadati -?mld 
-Possible OBE CHOCOP DP process detected: cmd.exe a -r ?i:nul -hploclcless -spmsaadsti 4:116 
-Possible SNOWGL OBE CHOCOP DP process detected; cmd.exe 5C a -r -inul -hplockless -spmsaadati 4:116 cilh-?j?Elx-ION-Usersl?lu
-
- 
-
- 
-
- 
-
-
-Safeguarding Canada ?3 security through information superiority dl?"
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
-
- 
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+■	■ Communications Security Centre de la sécurité
 
-I I nications Security Centre de la s?curit 
+Establishment Canada des télécommunications Canada
 
+O CCNE/Opsec WP1D Alerts - Mozilla Firefox
 
-Establishment Canada des telecommunications Canada
+hile Edit View History Bookmarks Tools Help
 
- 
+(On - C A ❖
 
- 
+Û -I
 
- 
+I Googf
 
- 
+Most Visited Q Getting Started j Latest Headlines »i LTT ic Operations < TW... - Opsee - klsvn - Trat ¡j CCNE/Opsec Systems http://obelix/system[nfo/
+
+*L http://obelix/	¿j CCNE/Opsec WPID Alerts x	(£] CCNE/Opsec WPID Alerts x	- Opsec-klsvn	- Opsec - klsvn
+
+CCNE/Opsec WPID Alerts
+
+Note that the search is done with the fields as perl regular expressions..
+
+Examples:
+
+DeU (.) iß »bisU-tfearKi-a
+Ti'ilifaitfdS
+
+Dot-Star (, *) ewes. ay
+raimfer of dsaraUBrs
+
+WID: 5L,..S,..r.l3
+CUM C WPID: 51-..E . 1
+IrJrasmiinsre: ■ 50'.
+
+Current Modules:
+
+tt»d_	Lar.i .pi
+
+modIl00_mi_3HEPHEED.pl
+
+moUl^Cm YcARBON.pl '
+
+I3»d_ 102_MM_REGBACE.UP.pl
+
+med_103_MM_pOGHOUSE.pt
+
+mcd~l04~mOvALKER.pl
+
+3 r. od_ 11 M_VO_Iix.p lam .p L
+
+m	11 disked. p 1
+
+r.:d_12 M_AP_ALOOR>BSE ,pl
+
+mod_ 12._system3 2v® pi
+
+mrs_ 13 jfapa&STtwa pi
+
+ST. ZS_ 1 -_:fi".ErÎL I eXCST.-■ Î Of. s. p I
+
+m«l_ l.è _ja‘t>tPaïâEtï. pi
+mod_ l 0Jj&rycterejKi.pl
+o»d_ 17 _tE.pa;*:. pt
+m-Cd_lS_passi5wdfi.ltas.pl
+m«5 I0_kenv; Ldeül:Lr.ï.pL
+EOd_L_pKfced.pL
+
+i_2M_3D_MI2C.pl
+L20l~SD_M25FIP.pl
+i_2üjpaîoBidaŒài«î.pi
+l_21_stfedis Le»t. pt
+l22nnHitiv5ial Iex«.pL
+l_2JJwMai.pl
+
+3K«i_24_espK t-âdAr5iai.aitï pi
+
+aL«f_15 jf ivil45é£.n L
+flKXJJ M_Um_TCPSRV32, pi
+
+1 J 0 L_LTvH_BLAZING_4XGEL.pl
+jmxJJ {ÜTDTFWEB pi
+ij OJ_Um_CÏDLL.pi
+
+U M.UNR^mT ACP. p l	rood.
+
+LJDtfuNKJASEX.-pL	mod'
+
+l_j06_UNK_WINUPIMTE.pl	iKOfii.
+
+I_3 0T_U]\lK_QUT^'EE]NGS QUAB pi	modi.
+
+LjDsYjNkGwINDO.pL	" W
+
+!_j 0P_U?Æ._DIES ELRATTLE.pl	mod.
+
+310_LTTC_WTDOWKEY.pl
+SI l~UKK~CI\,ETCAT.pi
+3_aksjH«eKlsr.pl
+4M_S S_WTNBEE.pt
+'4-C'i"ss"sslp-;st"pl
+402_SS_2hapR.pl
+
+l_jM_SJ_DDLT.pL
+L5_kHmKpe.pl
+I_KO_CR_lMPLANT.pl
+l_fid1_GE_FL.43.IE pi
+!_5JawwnKtas. pi
+L^CO.SC.CHOCOPOP. p l
+
+fii«li_S<K>_
+
+n»d_9TOj
+
+nBod_EeFl_
+
+K'M._FJFI_
+
+Rn
+
+		Type:
+WPID R^np:	Module Regexp: _700_SG_	HLs-lOfic: ®
+		
+
+Submit-Query |
+
+ALERTS
+
+WTIE'I
+
+Details:
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Possible
+
+Module: mod 700 SG CHOCOPOP pt	Date: 7009-09-30T10:!8:41.906	Tag: SG	FUe name: .. data5tore,arclm^,2009.'0930TO.'TXIDO{H)t>074573_18_Y2009M09D30_H10Ml
+
+SXOWGLOBE CHOCOPOF process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+SXOWGLOBE CHOCOPOP process detected
+
+cmd.exe C ""c:\RECY
+cmd.exe C ""ciTŒCY
+" c uREC Y"CLER\S-1 -5-
+"c uRECYCLESj'.S-1 - 5
+cmd.exe /C ""c:\RECY
+cmd.exe C ""c:\RECY
+" c i'RECYCLERNS-l -5-
+"c : 'EEC Y* C L E R' £ -1 - 5-
+cmd.exe C ""c:\RECY
+cmd.exe C ""c:\RECY
+"c:’RECYCLER\S-l-5-
+"c : 'EEC Y* C L E R '■ S -1 - 5-
+cmd.exe IC ""ci'RECY
+cmd.exe C ""ci'RECY
+
+"CLER > S -1- 5-21-101796669-4102346S 75 -22098 32 36-500'!rar. exe " a -r -¡mil
+"CLER-.S-1-5-21-10179666 9-41023468 75-22098 32 36-500''rar. exe" a -r -¡mil
+-21-101796669-4102346S75-220983236-500Var.exe" a -r -inul -hplockless -
+-21-101796669-4102346875-220983236-500''-rar.exe" a -r -inul -hplockless -
+CLER'.S-1-5-21-101796669-4102346875-22098 32 36-500\rar.exe" a -r -¡mil.
+'CLER>. S -1-5-21-101796669-4102346875-2209S 32 36- 5 DO'rar. exe " a -r -¡mil
+-21-1017 9*6669-4102 346S75-2209 S3236-5 00 r ar.exe" a -r -inul -hplockless -
+-21-101796669-4102346875-220983236-SOO'-rar.exe" a -r -inul -hplockless -
+'CLER- S-1-5-21-101796669-4102346S 75-2209S 32 36-500''rar. exe" a -r -inul
+CLER- S-1 -5-21-101796669-41023468 75 -22098 32 3 6-500 >rar. exe" a -r -inul
+-21-1017 96669-4102 346S75-220983236-500 -rar.exe " a -r -inul -hplockless -
+■21-101796669-4102346875-220983236-500'-rar.exe" a -r-inul -hplockless
+'CLERS-l-5-21-lO1796669-4102346S75-2209S3236-5Q0rar.exe" a -r -¡mil
+CLER-S-1-5-21-1.01796609-4102340S75-2209S3236-50DTar.exe" a -r -inul
+
+-hplockless -aprfeghhi -tnld temp-168 .rar ciMDAEMON'Usersihu.a
+-hplockless -aprfeghhi -tnld temp-168 .rar c: MDAEMOXUsersihu.a
+apSXazarian -tnld Ci'WTXDOWS .TEMPT^.rar ci'MDAEMOX'Usi
+apSXazarian -tnld C:\WINDOWS\TEMPU66.rar ci'MDAEMOX'Usi
+-hplockless -apSXazarian -tnld temp'166.rar c:'MD AEMOX' Users'ih
+-hplockless -apSXazarian -tnld temp\166.rar c:-MDAJE MOX'User s'J]
+apkpnazari -tnld C: .WINDOWS1 TEZvlP' 166.rar c:'_vIDAEMON'.User:
+apkpnazari -tnld Ci'WEXDOWS'-TEMP'.ldd.rar c:'.MD AEMOX'.User:
+-hplockless -apkpnazari -tnld temp I66.rar cMDAEZvIOX'Users''ihu.
+-hplockless -apkpnazari -tnld temp 166.rar c:'MDAEZvlOX;Users'ihu.
+apmsaadati -tnl d Ci WTNDOWS'.TEMP' 166.rar c: \IDAEMOXUser
+apmsaadati -tnld C:\WIHDOWS\TEMP-166.rar c: AIDAEMOX User
+-hplockless -apmsaadati -tnld temp'-166.rar c:-MDAEMON\Users\ihu
+-hplockless -apmsaadati -tnld temp'166.rar ci iNrlD-AEMOX Usersihu
+
+-=DOURYLAGXUM=-
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+23
+
+A|+|
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunicatk
+
+SNOWGLOBE on target	'
 
 Possible SNOWGLOBE CHOCOPOP process
 detected:
 
-cmd.exe 
-a -r -inu|
--hp|ockless -aprfeghhi -tn1d temp\168.rar
-
-c:\M 
-
-Safeguarding Canada?s security through information superiority a
-
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information
-
- 
-
-TOP SECRET II COMINT
-
- 
-  
-
-Establishment Canada des telecommunications Canada
-
-
-SNOWGLOBE implant 
-
-I I Communications Security Centre de la s?curit?
-
- 
-
- 
-
- 
-
- 
-
-- Injects itself in svchost.exe
-- No cloaking no hooking
-
-- Bootstraps in service called (distributed
-transaction coordinator 64b
-
-Service entry is permanent
-
-- Executable kept on disk in system32
-16 byte string XOR
-
-- beacons and tasking
-
-- Actor observed upgrading on target
-
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
-
- 
-
-TOP SECRET II COMINT
-
- 
-  
-
-Establishment Canada des telecommunications Canada
-
-If.? a, I
-
-
-
-SNOWGLOBE activity and attribution
-
-I I Communications Security Centre de la s?curit?
-
- 
-
- 
-
- 
-
-- Targeting is scarce but resembles CT CP priorities
-- French localisation seen in exploit PDFs (GCHQ)
-
-- French commentary in the binary
-
-- French binary name developer path
-
-- Observed in Iran, Norway, Greece, Belgium, Algeria,
-France, US targets
-
-- Listening posts worldwide several French legit sites
-
-- Now seen in passive collection, several reports
-
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
-
- 
-
-TOP SECRET II COMINT
-
- 
-  
-
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-De-confliction on CCNE operations 
-
- 
-
- 
-
-- State-sponsored landscape is very busy
-CCNE Targets are de-conflicted
-- Actors on CCNE targets are not
-
-Covert nature of foreign (and friendly actors) make de-
-confliction challenging
-
-- Often need to refer to precise technology for identification
-
-CNE CCNE from SIGINT HUMINT need to get
-together on this issue
-
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
-
- 
-
-I'lvl
-
- 
-
- 
-
-TOP SECRET II COMINT
-
-Communications Security Centre de la s?curit?
-Establishment Canada
-
-des telecommunications Canada
-
- 
-
- 
-
-De-confliction FAIL
-
-Actor discovered
-
-5 eyes effort so
-Several cohabitations
-
-At CSEC: 400 man-hours:
-
-npack
-
-Over 20 CNE Operations 
-
-
-
-Passive Collection  1
-4  winlogon
-
-Reverse engineering
-Planning of active operations
-
-Safeguarding Canada?s security through information superiority
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information
-
- 
-
-31
-
-unpack
-
-driver
-Kernel
-
-n:
-2
-
-
-
- 
-
- 
-
- 
-
-TS if SI ff REL
-
-Ell?J
-
-
-
-a 
-
-
-
-
-
-
-f?
-
-File
-
-
+cmd.exe /C ""c:\RECYCLER\S-l-5-21-101796669-
+4102346875-220983236-500\rar.exe" a -r -inul
+-hplockless -aprfeghhi -tnld temp\168.rar
+c:\MDAEMON\Users\ihu.ac.ir\rfeghhi\md5*.msg">nul.
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/O	ll+l
 
 Canada
 
- 
+TOP SECRET II COMINT
+
+Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+SNOWGLOBE implant
+
+•	Injects itself in svchost.exe
+
+•	No cloaking / no hooking
+
+•	Bootstraps in service called MSDTC64 (distributed
+transaction coordinator 64b
+
+•	Service entry is permanent
+
+•	Executable kept on disk in system32
+
+•	Crypto: 16 byte string XOR
+
+•	http beacons and tasking
+
+•	Actor observed upgrading on target
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	ll+l
+
+Canada
 
 TOP SECRET II COMINT
 
- 
-  
+Communications Security Centre de la sécurité
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Establishment Canada des télécommunications Canada
 
-Conclusion 
+SNOWGLOBE activity and attribution
 
- 
+•	Targeting is scarce but resembles CT / CP priorities
 
- 
+•	French localisation seen in exploit PDFs (GCHQ)
 
-CCNE effort essential to the national cyber mandate:
-CNE situational awareness
-New actor discovery
-Tracking known actors
+•	French commentary in the binary
 
-Several new actors discovered using this process
+•	French binary name / developer path
 
-- De-confliction needs to be improved
+•	Observed in Iran, Norway, Greece, Belgium, Algeria,
+France, US targets
 
-Safeguarding Canada?s security through information superiority dl?l'l
-Pr?server la s?curit? du Canada par la sup?riorit? de i?information  3.
+•	Listening posts worldwide - several French legit sites
 
- 
+•	Now seen in passive collection, several reports
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	ll+l
+
+Canada
 
 TOP SECRET II COMINT
 
- 
+l+l
 
- 
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+De-confliction : on CCNE operations
+
+•	State-sponsored landscape is very busy
+
+•	CCNE Targets are de-conflicted
+
+•	Actors on CCNE targets are not
+
+•	Covert nature of foreign (and friendly actors) make de-
+confliction challenging
+
+•	Often need to refer to precise technology for identification
+
+•	CNE / CCNE from SIGINT + HUMINT need to get
+together on this issue
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/O	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+■	■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+De-confliction FAIL
+
+•	Actor discovered
+
+•	5 eyes effort
+
+•	Several cohabitations
+
+•	At CSEC: 400 man-hours:
+
+-	Over 20 CNE Operations
+
+-	Passive Collection
+
+-	4 Reports
+
+-	Reverse engineering
+
+-	Planning of active operations
+
+TS//SI//REL
+
+SO
+
+S1
+
+driver
+
+7
+
+unpack
+
+Decrypt
+
+I
+
+File
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+28
+
+/H	li+i
+
+Canada
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 
- 
+
+Conclusion
+
+•	CCNE effort essential to the national cyber mandate:
+
+-	CNE situational awareness
+
+-	New actor discovery
+
+-	Tracking known actors
+
+•	Several new actors discovered using this process
+
+•	De-confliction needs to be improved
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+/H	ll+l
+
+Canada
+
+TOP SECRET II COMINT
+
+l+l
+
+Communications Security Centre de la sécurité
+Establishment Canada des télécommunications Canada
 
 MM CCNE contacts
 
- 
+Safeguarding Canada’s security through information superiority
 
-Safeguarding Canada ?3 security through information superiority (1WI
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+/H	ll+l
 
+Canada

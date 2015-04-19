@@ -1,1559 +1,1461 @@
- 
+﻿
 
-I Internet Anonymity 2011
+• NSA (S31323)
 
-. I
-.I . - _I?liNSA ($31323)
+TOP SECRET//COMINT REL TO USA,FVEY
 
-     
-   
+ÊF
 
-NSTS
+1
+
+M r-
+
+(U) Many Possible Meanings/lnterpretations
+
+(S//REL) Simply Not Using Real Name for Email
+(S//REL) Private Forum with Unadvertised Existence
+(S//REL) Unbeatable Endpoint on Internet
+(S//REL) This Talk Concerns Endpoint Location
+
+(S//REL) The Network Address (IP Address) is Crucial
+(S//REL) It is Not Always Sufficient, However
+
+•	(S//REL) Dynamic IP Address
+
+•	(S//REL) Mobile Device
+
+n-
+
+i rL
+
+TOP SECRET//COMINT REL TO USA,FVEY
 
 2
 
-1r: 
+•	(S//REL) Anonymity Is Not Simply Encryption
 
+(S//REL) Encryption Can Simply Hide Content
 
- 
+(S//REL) Anonymity Masks the MetaData and hence association with user
+(S//SI//REL) Importance of MetaData to SIGINT post-2001 can not be overstated
+(S//REL) There is also anonymity specifically for publishing information
 
+• (S//REL) Beyond the Scope of this Talk!
 
-TOP SECRETHCOMINT REL TO 
+•	(U) Anonymity is the antithesis of most business transactions (but encryption may be
+crucial)
 
+(U) Authentication for monetary exchange
+(U) Marketing wants to know customer well
+(U) The same goes for Taxing Authorities :-)
 
+n.
 
- 
- 
+TOP SECRET//COMINT REL TO USA,FVEY
 
-What is Internet Anonymity?
+3
 
-A - - "r -.
-llIla:    .5 - I:  v;   1 II). 
+Ä
 
-h'
+i vtf
 
-  
+(C//REL) Who Wants Internet
 
+9
 
+.î	» tafp
 
+W2, J N*
 
+!&k . / % •
 
- (U) Many Possible Meanings/Interpretations 
-- Simply Not Using Real Name for Email I
-- Private Forum with Unadvertised Existence 
-- Unlocatable Endpoint on Internet -
+(U) All Technology is Dual-Use
 
-This Talk Concerns Endpoint Location
+-	(U) Nuclear Weapon to Plug Oil Well
 
-- The Network Address (IP Address) is Crucial
+-	(U) Homicide by Hammer
 
-- It is Not Always Sufficient, However
+(U) Internet Anonymity for Good
 
-Dynamic IP Address
-Mobile Device
+-	(U) Anonymous Surveys (Ex: Diseases)
 
-TOP REL What is Internet Anonymity?
+-	(U) Human Rights Bloggers
 
- 
+-	(U) HUMINT Sources
 
-Anonymity Is Not Simply 
+TOP SECRET//COMINT REL TO USA,FVEY
 
+JtM
 
+Ä W
 
-.r
+1 Vtf
+*
 
-if I - Can Simply Hide Content  
-n: - Anonymity Masks the MetaData and hence association with user 
-I . - Importance of MetaData to SIGINT post-2001 can not be overstated I 
-I 1 - There is also anonymity specifically for publishing information 
- Beyond the Scope of this Talk! 5f:
-(U) Anonymity is the antithesis of most business transactions (but may be 
-crucial) *3
-- (U) Authentication for monetary exchange 
-- (U) Marketing wants to know customer well I
-- (U) The same goes for Taxing Authorities 
-TOP REL TO . .  
-
-     
-
-Who Wants Internet
-0.. 9
-
-
-    --    - I 
+(C//REL) Who Wants Internet
 
 
 
+fi®
 
+4>
 
- (U) All Technology is Dual-Use 
-5- (U) Nuclear Weapon to Plug Oil Well 
+• (U) Internet Anonymity for Bad (Semi to Really)
 
-. - (U) Homicide by Hammer
- (U) Internet Anonymity for Good
-- (U) Anonymous Surveys (Ex: Diseases)
+(U) Copyright Violators (File Sharing)
 
-- (U) Human Rights Bloggers
-- (U) HUMINT Sources
-
- 
-
-TOP REL Who Wants Internet
-
-  
-
-li-     
-
-    
-
-(U) Internet Anonymity for Bad (Semi to Really)
-
-i; (U) Copyright Violators (File Sharing)
-
-a I (U) Internet Scam Artists
-
+(U) Internet Scam Artists
 (U) Pedophiles
 
-Foreign Intelligence Agents
-
- Terrorist Actors (Our Concern)
+(C//REL) Foreign Intelligence Agents
+(S//REL) Terrorist Actors (Our Concern)
 
 (U) Both Cases Use Internet Anonymity Technology (IAT)
 
-'r-r . 
-4.1.Wb2g.
+(Tv1
 
-Internet Censorship: A
-. 
+TOP SECRET//COMINT REL TO USA,FVEY
 
-  
+JtM
 
-it
-
-
-?33:
+5
 
 
 
-. I
+(S//REL) Internet Censorship: A
 
-I  WW4  
--..ll'l.? In:
+££
+
+n
+
+
 
 (U) Different Scenario
 
-User IP Address known
+(U//FOUO) User IP Address known
+(U//FOUO) User Blocked from accessing
 
-User Blocked from accessing
 certain site IP Addresses
 
-Users get around it with
-Circumvention Technology Mostly the same
+(U//FOUO) Users get around it with
+Circumvention Technology - Mostly the same
 as Internet Anonymity Technology (IAT)
 
-15?? 
-dd?iw   .
-
-TOP REL TO 
-
-Types 47?  
-
-Single Hop Proxies
-
-Web Site Proxies
-Proxies
-
-Browser Configured to Access
-Proxy Aggregator Sites for Both
-
-May support 
-
-HTTP Sites: Only User Proxy
-SSL Sites 
-
-- Transparent (Just Pass the Bits)
-- Man-in-the-Middle (MITM)
-
-TOP REL TO 
-
-    
-
-Jr" 
+TOP SECRET//COMINT REL TO USA,FVEY
 
 
-di?f'ab" -.-  
 
-Types Of IAT: HTTP
-Proxies/A . re ators
+6U|
 
-?fir  
- Web-Site Proxy Aggregator sites
-- May list thousands of proxies
+(S//REL) Web Site Proxies
+(S//REL) HTTP/SOCKS Proxies
 
-- Taxonomy may be country where hosted
-Taxonomy may be ego/business related
-Taxonomy may be proxy software related
-Taxonomy may be provider related
+•	(S//REL) Browser Configured to Access
+(S//REL) Proxy Aggregator Sites for Both
+(S//REL) May support SSL/TLS
 
-- Proxy Information IS Temporal
+•	(S//REL) HTTP Sites: Only User « Proxy
 
-Requires active confirmation
-Requires revisits
+•	(S//REL) SSL Sites (HTTPS)
 
-TOP REL TO 
+(S//REL) Transparent (Just Pass the Bits)
+- (S//REL) Man-in-the-Middle (MITM)
 
- 
-   
+TOP SECRET//COMINT REL TO USA,FVEY
 
-Types or IAT: HTTP
+JtM
 
-Proxies/A . re ators
+a -.
 
-i "gyWeb Proxy Sites (and Aggregator sites) Info We Want
+n.
 
-,1 {a
- Domain Name (obvious I.
-- Associated IP address(es) 
-Can get live (nsIookup, host, dig, etc) 
-Can maybe get internally (Foxtrail, NKB, etc.) 
-?Exit? IP address (where does user appear?) 
-  Obtaining manually easy  
-. How to Automate? 
-(S/l RE L) Proxy Discoverer (Originally S31323) 
-Other miscellaneous (cookie modification, SSL support, etc2g.
+(S//REL) Web-Site Proxy Aggregator sites
 
-Types Of IAT: HTTP
-Proxies/A . re ators
+(S//REL) May list thousands of proxies
 
- 
+•	(S//REL) Taxonomy may be country where hosted
 
-i . .  
+•	(S//REL) Taxonomy may be ego/business related
 
-.3
+•	(S//REL) Taxonomy may be proxy software related
 
-Web Proxy Aggregator sites Analysis
+•	(S//REL) Taxonomy may be provider related
+(S//REL) Proxy Information IS Temporal
 
-1 
+•	(S//REL) Requires active confirmation
 
--
-.r
+•	(S//REL) Requires revisits
 
- Proxy Discoverer I. .
-- - Scrapes Aggregator (ie  
-I For each proxy, GET - 
-Iterate over software, variations 
-- 'i Glype, PHProxy, CGIProxy, ASP.NET, cURLProxy, Surrogafier,
-i Zelune
+M
 
-Try multiple times
-- Aggregator may give software hints
-Failure may indicate site down, or proxy SW modification
+-----------------w--------------
 
-Results from Proxy Discoverer must bridge low->high
+TOP SECRET//COMINT REL TO USA,FVEY
 
-Operationalized by with NTOC support (project
+-ib
+
+(S//REL) Web Proxy Sites (and Aggregator sites) - Info We Want
+
+•	(S//REL) Domain Name (obvious :-))
+
+•	(S//REL) Associated IP address(es)
+
+•	(S//REL) Can get live (nsiookup, host, dig, etc)
+
+•	(S//REL) Can maybe get internally (Foxtrail, NKB, etc.)
+
+•	(S//REL) “Exit” IP address (where does user appear?)
+
+•	(S//REL) Obtaining manually easy (http://checkip.dyndns.org)
+
+•	(S//REL) How to Automate?
+
+• (S//REL) Proxy Discoverer (Originally S31323)
+
+•	(S//REL) Other miscellaneous (cookie modification, SSL support, etc.)
+
+n-
+
+i rL
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+9
+
+>«
+
+to
+
+(S//REL) Web Proxy Aggregator sites Analysis
+
+•	(S//REL)	Proxy Discoverer
+
+•	(S//REL) Scrapes Aggregator (ie www.proxy.org)
+
+•	(S//REL) For each proxy, GET
+
+•	(S//REL) Iterate over software, variations
+
+•	(S//REL) Glype, PH Proxy, CGI Proxy, ASP.NET, cURLProxy, Surrogafier,
+Zelune
+
+•	(S//REL) Try multiple times
+
+•	(S//REL) Aggregator may give software hints
+
+•	(S//REL) Failure may indicate site down, or proxy SW modification
+
+•	(S//REL) Results from Proxy Discoverer must bridge low->high
+
+•	(S//REL) Operationalized by NACIRONIN with NTOC support (project
 PONTENTPOTABLES)
 
-See 8002011:?
+•	(S//REL) See SDC2011:
 
- 
+k
 
-TOP SEQRETHCOMIN REL in:
+TOP SECRET//COMINT REL TO USA,FVEY
 
+10
 
+M
 
-Types VPN Anonymity Providers
-
-Provider may offer multiple servers
-
-Different Sovereign Nations
-Different Bandwidths
-Most fee based: Can vary on time/number of servers
-
-May offer multiple VPN protocols
-
-(S/l REL) PPTP (No client software)
-SSH
-
-
-
-
-
-SSTP
-
-Communications User Server 
-
-Is
-
-TOP REL TO 
-
-    
-
-
-'31-
-
-
-
-
-. (Pi N?ii
-
-fw
-
-
-TI:
-3?
-
-I?u.
-
-Types Of IAT
-
-t:  ?lt- -, 2 Hall.  i, I
-
-i' 1
-VPN Anonymity Providers
- - Plethora of providers (I found about 200)
-
-12VPN, Ace VPN, Air VPN, Ananoos, AnoCentral, Anonine, Anonyproz,
-AnonymityNenA/ork, Anonymizer, Anti-Hadopi, Arethusa, ArtofPing, Astrill, BananaVPN, 
-
-BIackLogic, BuyProxyService, Change-Mon-IP, Cienen, 
-
-ConnectionVPN, CracklP, DarknetVPN,
-DrakkerVPN, DoubleVPN, Eztun, Freedur, 
-GoTrusted, HideMyAss, Hideway, High-
-.. Speed-VPN, HostSpotVPN, HotspotShield, IAPSSecurityStore, IdealVPN,
-
-- InvisibleBrowsing, iOpusiPig, IPJE T, Ipredator, ItsHidden, Ivacy, IVPN, Ksecure, 
-
-LamniaVPN, Linkideo, Loki, MetroPipe, MicroVPN,
-
-MonkeyVPN, Mullvad, MyOpenGateway, Overplay, PacketIX, PC-Streaming,
-I PerfectPrivacy, Privacy.io, Privachi, PrivacyTunnel, PrivatelnternebAccess, PrivateVPN,
-PRQtunnel, PublicVPN, Relakks, RemoteVPN, RoadWarriorVPN, RootPanama,
-RoxNetworks, SaferSurf, SecretsLine, SecureNetics, SecureSwiss, SecureTunnel, SecureVPN,
-SofanetSofaLlNK, SuperVPN,
-SurfBouncer, SurfoNym, SurfRescue, TheSafety, Tiggerswelt, tonVPN,
-Trackbuster, trilightzone, TorrentFreedeom, Tunnelr, TUVPN, UltraVPN, 
-USAIP, VIPAccounts, VIPVPN, VPN4ALL, VPNGates, VPNMaster,
-VPNonline.ru, VPNTunnel,
-vpntunnelse, VPNSecure, VPNout, Witopia, WOWVPN,
-XeroBank, xtra-vpn, YourFreedom, YourPrivateVPN
-
- 
-
- 
-
-TOP SEQRETHCOMIN REL Types ?stVPN Anonymity Providers 
- . . . . . 
- - Range of Sovereign Nations/Localities In this set huge! 
-
-a Multiple Cities in more popular countries
-Most fee based: Can vary on time/number of servers
-I Most notable exception: Hotspot Shield (Provider AnchorFree)
-Advertising supported
-. Multiple OSINT reports of ?most popular?
-- all: About a half dozen others claim they are free
-Package deals (Europe, any 3 servers, etc.) sometimes available
-Poster child for location selection: IAPS 
-
-AE, AG, AI, AM, AN, AQ, AT, AU, AW, BB, BD, BG, BM, BR, BS, BZ, CA, CH, CL,
-CN, CO, CR, CU, CY, DK, DO, EE, EG, FJ, GB, GD, GI, GL, GR, GT, HK, HU, ID, IE, IL, IN,
-IR, IS, JM, JO, JP, KN, KP, KR, KW, KY, LC, LI, LU, MA, MC, MH, MK, MN, MT, MX, MY, NI,
-NO, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PR, PS, PY, QA, RO, RU, SA, SB, SC, SE, SG,
-
- 
-
-SI, SK, SN, TC, TH, TR, TV, TVVTypes VPN Anonymity Providers
-
-- Search of SIGINT Forensics Lab Holdings for 
-
-Using SNAPE Portal
-specifically because a client is required
-
-- Listing is just name of IAT provider 
-HotSpot Shield T5 ..
-
-Steganos Anonymous VPN
-
-Securenetics .
-
-General references to using products 
-er-
-"1r:
-
-Several references to IP address only: Need more products in
-
-
- 
-
-TOP SEQRETNCOMINT REL TO 14 
+to
 
 I
-I . .I
 
-VPN Anonymity Providers
+. ol
 
-REL) What ?we? want
+(S//REL) VPN Anonymity Providers
 
- 
+(S//REL) Provider may offer multiple servers
 
-Server enumeration
+•	(S//REL) Different Sovereign Nations
 
- 
+•	(S//REL) Different Bandwidths
 
-SIGINT: Obvious target using such a service
-One hop, so enough coverage means success!
+•	(S//REL) Most fee based: Can vary on time/number of servers
 
-v.
-Compliance: ls target in US is important! 
-Exploiting User VPN traffic  
-Very case by case 
-Coverage (may need 2 sided collection) - 
-Protocol (may or may not have vulnerabilities) 
-Settings (implementation important) 
-?Collateral? - NCSC, TAO, FISA, etc. 
+(S//REL) May offer multiple VPN protocols
 
-Request sent to CES if important
+•	(S//REL) PPTP (No client software)
 
- 
+•	(S//REL)	SSH
 
-TOP SEGRETNCOMINT REL TO 15 .
+•	(S//REL)	OpenVPN
 
-Types Of IAT
+•	(S//REL)	L2TP/IPSEC
 
-    
+•	(S//REL)	SSTP
 
-I, .
+(S//REL) Communications User ~ Server Encrypted
 
-I. - SAW114.?. I, I Hg, urn; 3.11:1,
-..      
- - w? 1.: . 
+TOP SECRET//COMINT REL TO USA,FVEY
 
-VPN Anonymity Providers
-Server enumeration
-
-Manual work with Covered Internet (Linux/Windows)
-
-Sometimes info derived from documentation
-Sometimes need to access service
-
-May be a trial version to get ?seed? 
-Even if paid may only get some servers 
-
-Some providers give you the works, YMMV
-
-Try to minimize work!
-
-Try to extend seed(S//REL) 
-
-DNS ?Pattern?, ex. vpn01.hidegood.net
-
-Use scripting/free Linux tools to exhaust space (try
-nslookup on vpn01.hidegood.net, vpn02.hidegood.net, etc.)
-
-Open source DNS enumeration scripts (brief look)
-Where do results go? (Again, See talk)
-
-c.53-
-
- 
-
- 
-
-TOP REL TO 16 .
-
-Types Of IAT
-
-    
-
-I, .
-
-I. - SAW114.?. I, I Hg, urn; 3.11:1,
-..      
- It.-  - w? 1.: . 
-
-VPN Anonymity Providers
-Server enumeration
-
-Use the XKEYSCORE, Luke AKA Fun With X509
-
-Prompted by Hotspot Shield (HSS), the free service
-for which server lists are NOT readily available (Software i
-Reverse Engineering required) I 
-
-as well as send a server
-x. 509 certificate to client as part of setup
-
-XKEYSCORE sees a LOT of traffic worldwide
-
-XKEYSCORE fingerprints aren't too hard T4
-
-Need unique string, usually CN and/or DN
-
-Check for valid X509 certificate
-Query safe: Traffic (still do 1-side defeat)
-
-c.53-
-
- 
-
- 
-
-TOP SECRETNCOMINT REL VPN Anonymity Providers
-
- 
-
-
-
-Types Of IAT
-
-.
- -gli
-
-Server enumeration
-Use the XKEYSCORE, Luke AKA Fun with X509
-
-Prompted by Hotspot Shield (HSS), the free service for
-which server lists are NOT readily available (Software Reverse
-Engineering required)
-
-(S/lSl/l REL) $pkcs
-and $udp and 'metrofreefivpn';
-
-(Sl/Sl/l REL) $th and
-
-from_port(8881) and Ix01 'c
-
-and' 
-
-(Sl/Sl/l REL) 
-$th and from_port(443) and
-
-Ix01 Ix01 and
-'ComodoVPNS-';
-
- 
-
-TOP SECRETNCOMINT REL TO 
-
-18.
-
-
-
-E. 
-
- 
-  
- 
-
-Types Ill..-.- - ifProprietary Multi-Hop Networks (Usually Circumventor Motivated) 
-Freegate 
-REL) Ultrasurf ta.
-- Gpass 
-- Garden 
-- Haystack (by Austin Heap ruled bogus by community) 
-
-Movement to Secure US Government Support to Providers (Congress)
-
-US Dept of State
-Broadcasting Board of Governors (Independent USG Agency)
-
-E. 
-
-- Has instructions for ?Getting around Internet Blockage?
-on Radio Free Asia (RFA) and VOA Persian news sites
-
- 
-
-TOP SECRETNCOMINT REL TO 20 .
-
- 
-
- 
-
- Anonymous Remailers (Multi-Hop)
-
-- Most Secure
-- Main examples: Mixmaster and Mixminion
-
-- Extremely High Latency (Random Delays) 
-useful for email, other store and forward 
-communications 
-Not much use 
-(SIIREL) NOTE 1: Usability and Anonymity are Foes! 
-pr"
-
- 
-
-TOP SEQRETNCOMINT REL TO 21 .
-
- 
-
-  
-
-Miscellaneous IAT Technologies (Single Hop)
-
-    
-  
-   
-   
-  
-   
-  
-   
-  
- 
-  
- 
-
-PSIPHON
-
-- Discussed in Censorship Circumvention Circles
-
-- Technology for known associate to setup in appropriate place
-
-- Access via knowing obscure URL and Username/Password 
-
-v.
-- Miscellaneous Multi-Selectors 
-Some are just and/or Socks Proxy Aggregators? 
-EasyHidelP. com 
-Real-Hide-IP.com 
-Found researching this presentation! 4
-Both of these yield list with HTTP  
-
-Postprocessing: Shell/PERL/etc. script to extract another to check
-w/Covered Internet (simple proxy option to wget)
-
-will track these
-
-  
-
-TOP SEQRETNCOMINT REL TO 22 .
-
-Types '.I.- II..- . g. 4  . 
-
-
-
-Miscellaneous IAT Technologies (Single Hop)
-
-- Miscellaneous Multi-Selectors
-
-Proprietary Proxy Provider/Chooser
-
-Paid product, Client Software
-Usually involves obfuscation and/or 
-GHOSTSURF
-
-First analyzed 2006 uses obfuscaton
-
-Server list has changed but all else same
-Easy-Hide-IP
-
-Analyzed in 2011 uses TLS on port 8881
-
-Over 400 servers in 7 countries
-Hide-[P
-
-Analyzed in 2006 New product now
-
-Need to re-analyze
-
- 
-
- 
-
-TOP REL TO 23 .
-
-E. 
-
-   
-
-Types JIL1f- ?J'Iilnzy,
-- Ii. v.Miscellaneous IAT Technologies (Single Hop)
-
-- Bot-Based Proxy Networks
-
-Kudos to_ NGA, for pointing this out in
-her Intelink-TS blog, Sphinx1121 (Pointer to krebsonsecurity.com)
-
-Bot owners drop socks proxies on compromised 
-computers 
-
-- Said proxies are then rented out to ?customers? for
-anonymity
-
-- OSINT indicates a ?product? called XSOX available on
-underground forums as a for such a network
-
-- General Note for IAT Details IMPORTANT
-
-- Proof by example: EasyHideIp.com NOT the same as
-Easy-Hide-IP.com (Of course domains are not case sensitive)
-
-
-
- 
-
- 
-
-TOP REL TO 24 
-
- 
-
-Types ?it  r-?e 
-. H: I . Fri incOpen Source Multi-Hop Networks
-
-Jondo Anonymous Proxy (JAP)
-- Championed by German University (Dresden)
-
-- (Mostly?) Open source software some Docs in German
-
-- Uses a technology known as Cascades 
-i' Each cascade is set of 2 or 3 Mixes 
-All internal traffic .-
-Free service AN.ON: 5 Cascades 
-Premium service JonDoNym: 10 Cascades 
-
-Countries: BG, CA, CH, CZ, DE, DK, FR, GB, IT, LU, US,
-Less than 50 mixes total
-
- 
-
-TOP SEQRETNCOMINT REL TO 25 .
-
-Types of IAT
-
-    
-
-I, .
-
-A1.- if  ELI?13- 19'; -  "1942  '.z'llLl .l . I
-
-Open Source Multi-Hop Networks
-
-Jondo Anonymous Proxy (JAP)
-- Comparison with Tor
-
-- Not nearly as well studied
-- Much smaller contained development community
-More centralized structure (all mixes centrally approved)
-- Not as diverse geographically or scalable
-- Not as well used or publicized
-- Not analyzed in great detail here at NSA (or 
-
-- Much better chance for Global Adversary (SIGINT 
-- Sessionization of DNI still would be a problem
-
- 
-
- 
-
-TOP REL TO 26 .
-
-
-
-E. 
-
-Types Fir. a i, .. .- ..    
-
-
- Open Source Multi-Hop Networks
-
- JonDo Anonymous Proxy (JAPTypes of IAT
-
-      
-
-.  .
-
-Open Source Multi-Hop Networks 
-Tor 
-
-Very widely used worldwide 
-
-- Open Source 1; 
-Active Development 
-
-"3 Mitigates Threats 
-
-- Very Secure 
-- Low enough latency for most TCP uses 
-- Still the King of high secure, low latency Internet Anonymity 
-
-- There are no contenders for the throne in waiting
-
- 
-
-TOP SEQRETNCOMINT REL TO 28 .
-
-Operation (1)
-
-(ifH..-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Alina
-
-
-
-   
-    
-
-  
-
-Step 1: Allen's Tar
-:dianl attain: a list
-:11! Tor nudes 
-a directory um!
-
- 
-
- 
-
- 
-
-    
-
- 
-
- 
-
-   
-
-Aliee
-
-IA .- .-
-
-Etep 2: Aliee?e Ter elient Guard
-Pic-H5 randem path tn
-
-deetinetien server. Green -
-links are red . 
-
-links are in the clear.
-
-TOP SEQRETHCOMINT REL TO 
-
-[2,1 Te: nettle
-. . 
-link.
-
- 
-
-  
-
-  
-
-Mom: Where Do Tor Relays Come -
-
-    
-
-I, .
-
-Aif??Lil .- 
-.I'Recall there is (well actually more than 1) Tor 
-Directory server? 
-if
-
-- This is the pool
-
-- Choices made in terms of advertised capabilities:
-- Bandwidth 
-- Uptime 
-Supported Protocols 
-
-- Tor client has total final say
-
-E. 
-
- 
-
- 
-
-TOP REL TO 31 .
-
-Mom: Where Do Tor Relays Come -
-
- 
-  
- 
-
- 
-
-From?
-i,  -     .
-
-Pool is still currently about 1500 
-- Many countries represented 
-
-Most in DE - 
-
-Second most in US 
-
-- Anyone can set one up and register it 
-
-- Exit nodes are scary (Kiddie Porn) 
-How about a private pool? (heh-heh) 
-- (SIIREL) Note 2: Private Resources and Anonymity are rt?
-
-foes!
-
- 
-
-TOP REL TO 32 .
-
-Bridges: Special Tor Relays
-
-  all
-
-   
-
-.- L.   I   
-
-I
-silt?: -: - JRim." --. i?e?f fi-  4_ in
-. I
-
-    
-
-
-
-Having the set of relays public makes it easy for government
-
-CGHSOFS 
-
-Just block access to all relays from that country 
-Tor Project staffed with smart people! I
-
-Introduce new concept: Bridge Nodes  
-
-- Unadvertised Entry Nodes distributed ?out-of-band"
-
-Project will hand out three at a time (weekly)
-Email or surf bridgestorprojectorg
-
-SIGINT: Use Tor Against Itself! (Bridge requests from
-exit nodes)
-
-Circa April 2011: Tor Project claims around 600 Bridges
-
-E. 
-
- 
-
- 
-
-TOP REL TO 33 .
-
-Tor and NSA Targets
-
-  
-    
- 
-   
-
- 
-
- all
-
-. i. tsi  1:5. its?; 2.4111,,
-i,  a . 
-Sophisticated CT Targets use TOR to access Terrorist 
- Web Forums 
-- Web Forums: aI-Faloja, CEMF, aI-Hisbah, 5""3
-shumukh, TRSC -
-Persona: DLW, Song of Terror, Time of Terror 
-
-Visible exit traffic allows for ?All except the Client 
-SIGDEV
-
-- Solving (attempting to solve this IP address 
-problem was the work of NSA PARTNERSNIPPET team
-
-Also 80+ CT email selectors who have used Tor
-
-'34: 
-
-Pas ive Traffic Analysis
-
-. - . 
-"i i .
-11ihg.? it} Hi".  11. I. Jr?ltidill
-l'l. a- I :il'e I - . 1
+«¿9
 
 11
 
-For Normal SIGINT flow, need to identify Tor
+
+
+(S//REL) VPN Anonymity Providers
+
+(S//REL) Plethora of providers (I found about 200)
+
+• (S//REL) 12VPN, Ace VPN, Air VPN, AlwaysVPN, Ananoos, AnoCentral, Anonine, Anonyproz,
+AnonymityNetwork, Anonymizer, Anti-Hadopi, Arethusa, ArtofPing, Astrill, BananaVPN, BeeVPN,
+BlackLogic, BlackVPN, BolchVPN, BuyProxyService, Change-Mon-IP, Cienen, ClearVPN,
+ConnectlnPrivate, ConnectionVPN, CrackIP, Cryptline, Cryptocloud, CyberGhostVPN, DarknetVPN,
+DrakkerVPN, DoubleVPN, ExpressVPN, Eztun, FBVPN, FlashVPN, FQVPN, Freedur, FreeVPN,
+GateVPN, GoldenFrogVyprVPN, GoTrusted, HappyVPN, HidelPVPN, HideMyAss, Hideway, High-
+Speed-VPN, HostSpotVPN, HotspotShield, lAPSSecurityStore, ibVPN, IdealVPN,
+
+InvisibleBrowsing, iOpusiPig, IPJET, Ipredator, ItsHidden, Ivacy, IVPN, Ksecure, KeyVPN, Kryptnet,
+LamniaVPN, LeVPN, LibertyVPN, LifeVPN, Linkideo, Loki, MadVPN, MetroPipe, MicroVPN,
+MonkeyVPN, Mullvad, MyOpenGateway, MyVPN, Overplay, oVPN, PacketlX, PC-Streaming,
+PerfectPrivacy, Privacy.io, Privacy.li, PrivacyTunnel, PrivatelntemetAccess, PrivateVPN,
+
+PRQtunnel, PublicVPN, PureVPN, Relakks, RemoteVPN, RoadWarriorVPN, RootPanama,
+RoxNetworks, SaferSurf, SecretsLine, SecureNetlcs, SecureSwIss, SecureTunnel, SecureVPN,
+SlickyProxy, SmallVPN, SofanetSofaLINK, SteganosInternetAnonymVPN, StrongVPN, SuperVPN,
+SurfBouncer, SurfoNym, SurfRescue, SwissPVN, SwitchVPN, TheSafety, Tiggerswelt, tonVPN,
+Trackbuster, trilightzone, TorrentFreedeom, Tunnelr, TUVPN, UkiVPN, UltraVPN, UnblockVPN,
+USAIP, VIPAccounts, VIPVPN, VPN4ALL, VPNDeutschland, VPNDog, VPNGates, VPNMaster,
+VPNonline.ru, VPNPrivacy, VPNProNet, VPNSeek, VPNSteel, VPNSwiss, VPNtraffic, VPNTunnel,
+vpntunnel.se, VPNSecure, VPNod, VPNout, VPNWorld, VyprVPN, Witopia, WorldVPN, WOWVPN,
+XeroBank, xtra-vpn, YourFreedom, YourPrivateVPN
+
+s*	1	'■
+
+n.
+
+i rL
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+12
+
+(S//REL) VPN Anonymity Providers
+
+(S//REL) Range of Sovereign Nations/Localities in this set huge!
+
+•	(S//REL) Multiple Cities in more popular countries
+
+•	(S//REL) Most fee based: Can vary on time/number of servers
+
+(S//REL) Most notable exception: Hotspot Shield (Provider AnchorFree)
+
+» (S//REL) Advertising supported
+» (S//REL) Multiple OSINT reports of “most popular"
+
+(S//REL) About a half dozen others claim they are free
+
+•	(S//REL) Package deals (Europe, any 3 servers, etc.) sometimes available
+
+•	(S//REL) Poster child for location selection: iAPS (www.intl-alliance.com)
+
+(S//REL) AE, AG, Al, AM, AN, AQ, AT, AU, AW, BB, BD, BG, BM, BR, BS, BZ, CA, CH, CL,
+CN, CO, CR, CU, CY, DK, DO, EE, EG, FJ, GB, GD, Gl, GL, GR, GT, HK, HU, ID, IE, IL, IN,
+IR, IS, JM, JO, JP, KN, KP, KR, KW, KY, LC, LI, LU, MA, MC, MH, MK, MN, MT, MX, MY, Nl,
+NO, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PR, PS, PY, QA, RO, RU, SA, SB, SC, SE, SG,
+SI, SK, SN, TC, TH, TR, TV, TW, UA, US, UZ, VA, VE, VG, VI, VU, ZA,
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+13
+
+M
+
+to
+
+(S//REL) VPN Anonymity Providers
+
+(S//REL) Search of SIGINT Forensics Lab Holdings for OpenVPN
+
+•	(S//REL) Using SNAPE Portal
+
+•	(S//REL) OpenVPN specifically because a client is required
+
+•	(S//REL) Listing is just name of IAT provider
+
+(S//REL) HotSpot Shield
+(S//REL) Steganos Anonymous VPN
+(S//REL) Securenetics
+
+(S//REL) General references to using OpenVPN products
+
+(S//REL) Several references to IP address only: Need more products in
+RONIN\
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+14
+
+(S//REL) VPN Anonymity Providers
+
+(S//REL) What "we” want
+
+•	(S//REL) Server enumeration
+
+(S//SI//REL) SIGINT: Obvious - target using such a service
+
+» (S//SI//REL) One hop, so enough coverage means success!
+(S//SI//REL) Compliance: FAA- Is target in US is important!
+
+•	(S//REL) Exploiting User «-» VPN traffic
+
+(S//SI//REL) Very case by case
+
+(S//SI//REL) Coverage (may need 2 sided collection)
+(S//SI//REL) Protocol (may or may not have vulnerabilities)
+(S//SI//REL) Settings (implementation important)
+(TS//SI//REL) "Collateral” - NCSC, TAO, FISA, etc.
+(S//SI//REL) Request sent to CES if important
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+15
+
+(S//REL) VPN Anonymity Providers
+
+(S//REL) Server enumeration
+
+(S//SI//REL) Manual work with Covered Internet (Linux/Windows)
+
+» (S//SI//REL) Sometimes info derived from documentation
+» (S//SI//REL) Sometimes need to access service
+
+» (S//SI//REL) May be a trial version to get “seed"
+
+» (S//SI//REL) Even if paid may only get some servers
+» (S//SI//REL) Some providers give you the works, YMMV
+» (S//SI//REL) Try to minimize work!
+
+» (S//SI//REL) Try to extend seed(S//REL)
+
+» (S//SI//REL) DNS “Pattern”, ex. vpn01.hidegood.net
+» (S//SI//REL) Use scripting/free Linux tools to exhaust space (try
+nslookup on vpn01.hidegood.net, vpn02.hidegood.net, etc.)
+
+» (S//SI//REL) Open source DNS enumeration scripts (brief look)
+» (S//REL) Where do results go? (Again, See NAC/RONIN talk)
+
+k
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+16
+
+M
+
+7
+
+A
+
+(S//REL) VPN Anonymity Providers
+(S//REL) Server enumeration
+
+• (S//SI//REL) Use the XKEYSCORE, Luke - AKA Fun with X.509
+
+(S//SI//REL) Prompted by Hotspot Shield (HSS), the free service
+for which server lists are NOT readily available (Software
+Reverse Engineering required)
+
+(S//SI//REL) OpenVPN, as well as SSL/SSTP, send a server
+x.509 certificate to client as part of setup
+
+(S//SI//REL) XKEYSCORE sees a LOT of traffic worldwide
+(S//SI//REL) XKEYSCORE fingerprints aren't too hard
+
+» (S//SI//REL) Need unique string, usually CN and/or DN
+» (S//SI//REL) Check for valid X.509 certificate
+(S//SI//REL) Query safe: Traffic encrypted (still do 1-side defeat)
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+17
+
+(S//REL) VPN Anonymity Providers
+(S//REL) Server enumeration
+
+• (S//SI//REL) Use the XKEYSCORE, Luke - AKA Fun with X.509
+
+(S//SI//REL) Prompted by Hotspot Shield (HSS), the free service for
+which server lists are NOT readily available (Software Reverse
+Engineering required)
+
+(S//SI//REL) fingerprint('encryption/hotspot_shield/x509') = $pkcs
+and $udp and 'metrofreefivpn';
+
+(S//SI//REL) fingerprint('encryption/easy_hide_ip/x509') = $tcp and
+from_port(8881) and C\x06\x09\x2a\x86\x48\x86\xf7\x0d\x01\x01\x01'c
+) /*RSA*/and'
+
+(S//SI//REL) fingerprint('encryption/comodo_trustconnect/x509') =
+$tcp and from_port(443) and
+
+C\x06\x09\x2a\x86\x48\x86\xf7\x0d\x01\x01\x0rc) /*RSA*/ and
+'ComodoVPNS
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+18
+
+(S//REL) Proprietary Multi-Hop Networks (Usually Circumventor Motivated)
+(S//REL) Freegate
+(S//REL) Ultrasurf
+(S//REL) Gpass
+(S//REL) Garden
+
+(S//REL) Haystack (by Austin Heap - ruled bogus by community)
+(S//REL) Movement to Secure US Government Support to Providers (Congress)
+
+(S//REL) US Dept of State
+
+(S//REL) Broadcasting Board of Governors (Independent USG Agency)
+
+• (S//REL) Has instructions for “Getting around Internet Blockage”
+on Radio Free Asia (RFA) and VOA Persian news sites
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+20
+
+M
+
+to
+
+m
+
+(S//REL) Anonymous Remailers (Multi-Hop)
+
+(S//REL) Most Secure
+
+(S//REL) Main examples: Mixmaster and Mixminion
+(S//REL) Extremely High Latency (Random Delays)
+
+(S//REL) Only useful for email, other store and forward
+communications
+
+(S//REL) Not much use
+
+(S//REL) NOTE 1: Usability and Anonymity are Foes!
+
+■ >■
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+A#
+
+21
+
+A " .
+
+H,
+
+i rL
+
+(S//REL) Miscellaneous IAT Technologies (Single Hop)
+
+(S//REL) PSIPHON
+
+•	(S//REL) Discussed in Censorship Circumvention Circles
+
+•	(S//REL) Technology for known associate to setup in appropriate place
+
+•	(S//REL) Access via knowing obscure URL and Username/Password w/HTTPS
+
+(S//REL) Miscellaneous Multi-Selectors
+
+•	(S//REL) Some are just "HTTP and/or Socks Proxy Aggregators”
+
+(S//REL) EasyHidetP.com
+(S//REL) Real-Hide-IP.com
+
+» (S//REL) Found researching this presentation!
+
+(S//REL) Both of these yield list with HTTP GET!
+
+(S//REL) Postprocessing: Shell/PERL/etc. script to extract another to check
+w/Covered Internet (simple proxy option to wget)
+
+(S//REL) NAC/RONIN will track these
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+22
+
+M
+
+to
+
+n.
+
+(S//REL) Miscellaneous IAT Technologies (Single Hop)
+
+(S//REL) Miscellaneous Multi-Selectors
+
+• (S//REL) Proprietary Proxy Provider/Chooser
+
+(S//REL) Paid product, Client Software
+
+(S//REL) Usually involves obfuscation and/or encryption
+
+(S//REL) GHOSTSURF
+
+» (S//REL) First analyzed 2006 - uses obfuscaton
+» (S//REL) Server list has changed but all else same
+(S//REL) Easy-Hide-IP
+
+» (S//REL) Analyzed in 2011 - uses TLS on port 8881
+» (S//REL) Over 400 servers in 7 countries
+(S//REL) Hide-IP
+
+» (S//REL) Analyzed in 2006 - New product now
+» (S//REL) Need to re-analyze
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+23
+
+(S//REL) Miscellaneous IAT Technologies (Single Hop)
+
+(S//REL) Bot-Based Proxy Networks
+
+(U//FOUO) Kudos	NGA, for pointing this out in
+
+her Intelink-TS blog, Sphinxll21 (Pointer to krebsonsecurity.com)
+
+•	(S//REL) Bot owners drop socks proxies on compromised
+computers
+
+•	(S//REL) Said proxies are then rented out to “customers” for
+anonymity
+
+*	(S//REL) OSINT indicates a “product” called XSOX available on
+underground forums as a C&C for such a network
+
+(S//REL) General Note for IAT analysts: Details IMPORTANT
+
+*	(S//REL) Proof by example: EasyHidelp.com NOT the same as
+Easy-Hide-IP.com (Of course domains are not case sensitive)
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+24
+
+(S//REL) Open Source Multi-Hop Networks
+
+(S//REL) Jondo Anonymous Proxy (JAP)
+
+(S//REL) Championed by German University (Dresden)
+
+(S//REL) (Mostly?) Open source software - some Docs in German
+(S//REL) Uses a technology known as Cascades
+
+*	(S//REL) Each cascade is set of 2 or 3 Mixes
+
+*	(S//REL) All internal traffic encrypted
+
+*	(S//REL) Free service AN.ON: 5 Cascades
+
+*	(S//REL) Premium service JonDoNym: 10 Cascades
+
+(S//REL) Countries: BG, CA, CH, CZ, DE, DK, FR, GB, IT, LU, US,
+(S//REL) Less than 50 mixes total
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+25
+
+M
+
+to
+
+(S//REL) Open Source Multi-Hop Networks
+
+(S//REL) Jondo Anonymous Proxy (JAP)
+
+(S//REL) Comparison with Tor
+
+•	(S//REL) Not nearly as well studied
+
+*	(S//REL) Much smaller contained development community
+
+•	(S//REL) More centralized structure (all mixes centrally approved)
+
+•	(S//REL) Not as diverse geographically or scalable
+
+*	(S//REL) Not as well used or publicized
+
+(S//REL) Not analyzed in great detail here at NSA (or FVEY?)
+(TS//SI//REL) Much better chance for Global Adversary (SIGINT :-))
+
+*	(TS//SI//REL) Sessionization of DNI still would be a problem
+
+n-
+
+i rL
+
+TOP SECRET//COMINT REL TO US A,FVEY
+
+26
+
+M
+
+to
+
+J i
+
+(S//REL) Open Source Multi-Hop Networks
+(S//REL) Jon Do Anonymous Proxy (JAP)
+
+JAP
+
+BiOmai
+User A
+
+^l!
+
+JAP
+
+Bicwsei
+Us-ci B
+
+JAP
+
+Btcwsei
+Uhh m
+
+%
+
+InfaScrvce
+
+^1
+
+*0
+
+Mn 1
+
+i First Mnj
+
+f©
+
+Mix 2
+
+(Mddle MLx|
+
+bdrcctonai TCPjIP canneclinn
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+27
+
+f ^
+
+* i
+
+m
+
+(S//REL) Open Source Multi-Hop Networks
+
+- (S//REL) Tor
+
+(S//REL) Very widely used worldwide
+(S//REL) Open Source
+
+•	(S//REL) Active Development
+
+•	(S//REL) Mitigates Threats
+(S//REL) Very Secure
+
+(S//REL) Low enough latency for most TCP uses
+
+(S//REL) Still the King of high secure, low latency Internet Anonymity
+
+•	(S//REL) There are no contenders for the throne in waiting
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+A#
+
+28
+
+A " .
+
+(S//REL) Tor Operation (1)
+
+■+. mH
+
+»
+
+m How Tor Works: 1
+
+Alice
+
+CJ3 Tor rtc-dû
+, -p* tm&ncryptod Unit
+—*- Grttrypicd Jirtk
+
+Step 1: Alice's Tor
+client obtains a list
+of Tor nodes from
+a directory server.
+
+Jane
+
+Gob
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+1
+
+29
+
+M f'
+
+(S//REL) Tor Operation (2)
+
+F© How Tor Works: 2
+
+AliCC
+
+Step 2: Alice e Tor client
+picks a random path to
+destination server Green
+links arc encrypted* red
+links are in the clear,
+
+Guard
+
+Middle
+
+Oa^e
+
+Tor nodo
+
+- unencrypted link
+■ m encrypted link
+
+Jane
+
+Exit
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+ÉÏ r
+
+’ ■iV
+
+(S//REL) Recall there is (well actually more than 1)
+Directory server?
+
+(S//REL) This is the pool
+
+(S//REL) Choices made in terms of advertised capabilities:
+
+•	(S//REL) Bandwidth
+
+•	(S//REL) Uptime
+
+•	(S//REL) Supported	Protocols
+
+(S//REL) Tor client has total final say
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+
+
+31
+
+(S//REL)
+
+(S//REL)
+
+Pool is still currently about 1500
+
+(S//REL) Many countries represented
+
+•	(S//REL) Most in DE
+
+•	(S//REL) Second most in US
+
+(S//REL) Anyone can set one up and register it
+
+(S//REL) Exit nodes are scary (Kiddie Porn)
+
+How about a private pool? (heh-heh)
+
+(S//REL) Note 2: Private Resources and Anonymity are
+foes!
+
+n.
+
+i
+
+-----------------W---------------
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+-ib
+
+(S//REL) Having the set of relays public makes it easy for government
+censors
+
+(S//REL) Just block access to all relays from that country
+(S//REL) Tor Project staffed with smart people!
+
+(S//REL) Introduce new concept: Bridge Nodes
+
+•	(S//REL) Unadvertised Entry Nodes distributed “out-of-band”
+
+•	(S//REL) Project will hand out three at a time (weekly)
+
+(S//REL) Email or surf bridges.torproject.org
+
+(S//SI//REL) SIGINT: Use Tor Against Itself! (Bridge requests from
+exit nodes)
+
+(S//REL) Circa April 2011: Tor Project claims around 600 Bridges
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+33
+
+to
+
+(TS//SI//REL) Sophisticated CT Targets use TOR to access Terrorist
+Web Forums
+
+- (TS//SI//REL) Web Forums:	, CEMF, al-Hisbah,
+
+shumukh, TRSC
+
+(TS//SI//REL) Persona: DLW, Song of Terror, Time of Terror
+
+(TS//SI//REL) Visible exit traffic allows for “All except the Client IP”
+SIGDEV
+
+(TS//SI//REL) Solving (attempting to solve :-() this IP address
+problem was the work of NSA PARTNERSNIPPET team
+
+(S//SI//REL) Also 80+ CT email selectors who have used Tor
+
+n.
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+34
+
+(S//SI//REL) Passive Traffic Analysis
+
+VI
+
+
+
+•r-
+
+
+
+1 Vtf
+
+(S//SI//REL) For Normal SIGINT flow, need to identify Tor
 traffic!
 
-Only outer TLS layer visible How to
+(S//SI//REL) Only outer TLS layer visible
+Distinguish?
 
-Distinguish? 
-Tor developers attempt to remain anonymous 
-by blending in with myriad other TLS traffic  
+How to
 
-Tor TLS has changed over the years 
--.4
+(S//SI//REL) Tor developers attempt to remain anonymous
+by blending in with myriad other TLS traffic
 
-There ARE some server client features which . .
-are recognizable NOW ex
+(S//SI//REL) Tor TLS has changed over the years
 
- 
+(S//SI//REL) There ARE some server -» client features which
+are recognizable NOW
 
- 
+IIV
 
-TOP REL TO 35 .
-
-Passive Traffic Analysis
-
- 
-
- 
-
- 
-
-?vii-,3: 
-I . a. - . ?I\la t' -
-., i   :91; 1r,-
+TOP SECRET//COMINT REL TO USA,FVEY
 
 
 
-Tor TLS (server client) startup features
+35
 
-Certificate: Specific Diffie-Hellman (DH)
+1
+
+(S//SI//REL) Tor TLS (server -» client) startup features
+
+-	(S//SI//REL) Certificate: Specific Diffie-Hellman (DH)
 Modulus (just string match)
 
-Certificate: Issuer and Subject random
-names of same form ex: 
+-	(S//SI//REL) Certificate: Issuer and Subject random
+names of same form - ex: CN=www.ofzgkdjxvjrss.net
 (regex match)
 
-Certificate: Always 2-hour lifetime (ASN.1
-format more intensive computation)
+-	(S//SI//REL) Certificate: Always 2-hour lifetime (ASN.l
+format - more intensive computation)
 
-Several XKS fingerprints and a plugin
+(S//SI//REL) Several XKS fingerprints and a plugin
 implemented
 
- 
 
 
-TOP REL TO 
+TOP SECRET//COMINT REL TO USA,FVEY
 
 36
 
-. 
+(S//REL) Driven by Censorship Circumvention, Hide Signature
 
+(S//REL) New bridge nodes blocked in China
+(S//REL) Researching better bridge distribution strategies
 
+*	(S//REL) Claim by Tor Project is 8000 requests/day for <1000 total
+(S//REL) Around Feb 2011, changed the TLS handshake
 
-       
+*	(S//REL) Signature more like Apache web-server
 
-Tor Project Recent Activity
+(S//REL) Different DH Modulus
+(S//SI//REL) New XKS Signatures address this
 
-1:1: I I .I It': I- w?
-"iI'w -: i. I - lit-1- .- I 
-1.1-.51It'l- Ix 4' 1?   .  
+(TS//SI//REL) Proposed eventual change will kill identification!
 
- 
-
-Driven by Censorship Circumvention, Hide Signature
-
-New bridge nodes blocked in China 
-- Researching better bridge distribution strategies 
-
-Claim by Tor Project is 8000 requests/day for <1000 total 
-Around Feb 2011, changed the TLS handshake 
-
-- Signature more like Apache web-server
-
-Different DH Modulus
-New XKS Signatures address this 4
-
-Proposed eventual change will kill identification!
-
-E. 
-
-- Each Tor node will generate randomish signatures in a volatile
+*	(S//REL) Each Tor node will generate randomish signatures in a volatile
 way specifically designed to look like normal website TLS traffic!
 
- 
+n.
 
-TOP REL TO 37 .
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+37
 
-Tor Project Recent Activity
+M
 
-    
-   
+to
 
-. . .- I. 
-1' t?
+(S//REL) Tor on non-traditional platforms
 
-8.. 
+(S//REL) ORBOT, Tor for Android smartphones
+(S//REL) Tor Router Project
 
-Tor on non-traditional platforms
+•	(S//REL) Modified Linksys Router - everything over Tor
 
-ORBOT, Tor for Android smartphones 
+(S//REL) Hide-My-IP-Address
 
+•	(S//REL) Proprietary replacement for Tor Browser Bundle
 
-Tor Router Project
-Modified Router everything over Tor
-Hide-My?IP-Address 
-- Proprietary replacement for Tor Browser Bundle
+•	(S//REL) From “WCCL Network” not part of Tor Project
 
-- From Network? not part of Tor Project
-- Looked at based on reference by CT target .4
-1H,
+•	(S//SI//REL) Looked at based on reference by CT target
 
-Tor Project working on better strategies to distribute bridges
-Tails: Complete Bootable OS on CD for anonymity
+(S//REL) Tor Project working on better strategies to distribute bridges
 
-- Tor is a crucial component
+(S//REL) Tails: Complete Bootable OS on CD for anonymity
 
- 
+•	(S//REL) Tor is a crucial component
 
-TOP SEQRETNCOMINT REL TO 38 .
+n.
 
-Tor Hidden Service URLs
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+38
 
- 
+M
 
- 
+to
 
-. "viTor Hidden Services (HS) for anonymous publishing
-Not real reliable, but Tor Project research continues
-I said outside scope, sorry
-Tor HS accessed via Tor only by
-There is the tor2web.com site which is a HTTP to Tor proxy
+(S//REL) Tor Hidden Services (HS) for anonymous publishing
+(S//REL) Not real reliable, but Tor Project research continues
+(U//FOUO) I said outside scope, sorry
+(S//REL) Tor HS accessed via Tor only by
 
-Loses some anonymity but easy to use
-Good tool for Covered Internet research
+(S//REL) There is the tor2web.com site which is a HTTP to Tor proxy
 
-Site on Wikilnfo to document Tor HS URLs
+•	(S//REL) Loses some anonymity but easy to use
 
-~41
+•	(S//REL) Good tool for Covered Internet research
+(S//REL) Site on Wikilnfo to document Tor HS URLs
 
-?The Onion Realm" ax
+•	(S//REL) “The Onion Realm” -
 
-Kudos to (8314) for populating this
+•	(U//FOUO) Kudos to CES/CTSO (S314) for populating this
 
- 
+n.
 
-
-TOP SECRETHCOMINT REL TO 
+TOP SECRET//COMINT REL TO USA,FVEY
 
 39
 
- 
+M
 
-Public IAT Resources Inside
+to
 
-IAGeneral IAT
+(S//REL) Tor
+
+(S//REL)
+(S//REL)
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+40
+
+Æ- f
+
+(S//REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+(S//REL) Most is FVEY (cited here) Majority US, also UK, CAN
+(S//SI//REL) Format is TOPI / Type of Info
+
+•	(TS//SI//REL) CT /	Discuss Tor (6 reports)
+
+•	(TS//SI//REL) CT /	Use Tor or another proxy
+
+•	(TS//SI//REL) CT /	Create modified Tor
+
+•	(TS//SI//REL) CT /	Mandate use of Tor
+
+•	(TS//SI//REL) CT / Tor for Censorship Circumvention
+
+•	(TS//SI//REL) CT /	Use Tor and a VPN (UltraVPN)
+
+•	(TS//SI//REL) CT /	Instructions for using Tor and	other US Proxy
+
+•	(TS//SI//REL) CT /	Discuss	us of (non-specified but non-US) VPN
+
+•	(TS//SI//REL) CT /	Discuss	Tor and HTTP Proxies for anonymity
+
+•	(TS//SI//REL) CT /	Discuss	Tor and RealHidelp (previously unknown IAT)
+
+•	(TS//SI//REL) CT /	Discuss	use of Kproxy.com (HTTP Proxy)
+
+n.
+
+i rL
+
+TOP SECRET//COMINT REL TO US A,FVEY
+
+41
+
+M
+
+7
+
+A
+
+(S//REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+(S//SI//REL) Format is TOPI / Type of Info
+
+•	(TS//SI//REL) CT / Use of PimpMylp (HTTP Proxy)
+
+•	(TS//SI//REL) CT /	Use of (masked US Company) VPN (L2TP protocol) for anonymity
+
+•	(TS//SI//REL) CT /	Instructions for use of VPNs for anonymity
+
+•	(TS//SI//REL) CT / Use of VPN (HotSpotShield) and SSH tunnels
+
+•	(TS//SI//REL) CT /	Use of Tor and an unspecified VPN
+
+•	(TS//SI//REL) CT /	Use of Easy-Hide-IP (Socks proxy chooser)
+
+•	(TS//SI//REL) CT / Use of unspecified anonymizing proxy
+
+•	(TS//SI//REL) CT / Instructions on use of Tor and name-masked US program
+
+•	(TS//SI//REL) CT / Use of VPN (Cyberghost)
+
+•	(TS//SI//REL) CT / Use of unspecified HTTP proxy
+
+•	(TS//SI//REL) CT / Questions on whether Tor is compromised
+
+•	(TS//SI//REL) CT / Questions on whether associated compromised by IAT non-use
+
+A-
+
+i rL
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+42
+
+M
+
+to
+
+n-
+
+i rL
+
+(S//REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+(S//SI//REL) Format is TOPI / Type of Info
+
+•	(TS//SI//REL) Iran / Use of Freegate and Ultrasurf
+
+•	(TS//SI//REL) India / Use of unknown proxy for anonymity
+
+•	(TS//SI//REL)	India / Use	of Tor to access a webmail account
+
+•	(TS//SI//REL)	India / Use	of Tor for hacking (2 reports)
+
+•	(TS//SI//REL) India / Provision of list of socks proxies to use
+
+•	(TS//SI//REL) Iran / Provision of list of socks proxies to use
+
+•	(TS//SI//REL)	India / Use	of unknown proxy for anonymity
+
+•	(TS//SI//REL)	Cuba / Use	of unknown proxy for anonymous research
+
+•	(TS//SI//REL) Turkey / Use of Tor
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+43
+
+M
+
+.to
+
+5^4!
+
+(S//REL) From Last years SDC Talk
 
 
 
 
 
-REL) Tor
-4
- 
-
-'?j??Grep? in SIGINT reports for relevant phrases (ex anonymity)
-
-Most is FVEY (cited here) Majority US, also UK, CAN
-Format is TOPI Type of Info
-
- 
-
-CT Discuss Tor (6 reports)
-
-CT Use Tor or another proxy
-
-CT I Create modified Tor
-
-CT Mandate use of Tor
-
-Tor for Censorship Circumvention
-
-CT I Use Tor and a VPN (UltraVPN)
-
-Instructions for using Tor and other US Proxy
-CT I Discuss us of (non-specified but non-US) VPN
-CT Discuss Tor and HTTP Proxies for anonymity
-CT Discuss Tor and Rea/Hidelp (previously unknown IAT)
-
-CT Discuss use of Kproxy.com (HTTP Proxy)
-TOP REL TO 
-
-       
-
-References to IAT in SIGINT
-
-I, .
-
-     sir" I  
-
-?13"  Hi?; "if a" :35:
-?Grep? in SIGINT reports for relevant phrases (ex anonymity) 
-Format is TOPI Type of Info 
-
-CT I Use of PimpMyIp (HTTP Proxy) 
-- CT I Use of (masked US Company) VPN (L2TP protocol) for anonymity I
-- CT I Instructions for use of VPNs for anonymity
-
-- CT I Use of VPN (HotSpotShie/d) and SSH tunnels  
-
-unspecified VPN
-
-CT I Use of Easy-Hide-IP (Socks proxy chooser)
-
-CT I Use of unspecified anonymizing proxy 
-Instructions on use of Tor and name-masked US program
-
-CT I Use of VPN (Cyberghost) 
-
-- CT I Use of unspecified HTTP proxy
-CT I Questions on whether Tor is compromised
-CT I Questions on whether associated compromised by IAT non-use
-
- 
-
- 
-
-TOP REL TO 42 
-
-   
-
-?Grep? in SIGINT reports for relevant phrases (ex anonymity)
-
-gig-I.   .  I.
-- I .-
-
-Format is TOPI Type of Info
-
- 
-
-   
-
-he
-
-Iran I Use of Freegate and Ultrasurf 
-India/ Use of unknown proxy for anonymity
-
-India/ Use of Tor to access a webmail account
 
 
-India/ Use of Tor for hacking (2 reports) if"
-India/ Provision of list of socks proxies to use 
-Iran Provision of list of socks proxies to use 
-India/ Use of unknown proxy for anonymity 
-Cuba/ Use of unknown proxy for anonymous research I..-
-Turkey/ Use of Tor 
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+44
 
-TOP SEQRETNCOMINT REL TO 
+M- +
 
-43.
+1 Vtf
+*
 
-(U) Backup Slides
+(S//REL) Tor (The onion router)
 
-    
+71
 
-Ir a I i. -. faithI..- 1. -
-I 1' unify-Era-u
+4>
 
-- JE- hli: a I 
-.-
 
-From Last years SDC Tor Talk
 
- 
+¿fj
 
-Tor (The onion router)
+(S//REL) Development originally NRL funded
 
-251*)?
-
-- ',rull
-I ?I'kll ?Ii f. . 1 - ?Il'hil- I.  . I I:  I
-
-Development originally NRL funded
-
-Original developers from Anonymous Remailer
+(S//REL) Original developers from Anonymous Remailer
 Research Community
 
-   
-   
+(S//REL) Project now a US non-profit (www.torproject.org)
 
-Project now a US non-profit 
+(S//REL) User to Internet site interaction uses 3 hops
+through Tor “Relays”
 
-User to Internet site interaction uses 3 hops
-through Tor ?Relays?
+(S//REL) Entry
+(S//REL) Middle
+(S//REL) Exit
 
-Entry
-Middle
-- Exit
+(¡v1
 
-TOP REL TO 
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+45
 
-45.
+ä - .
 
-E. 
+A- ^
 
- 
+(S//SI//REL) As you can see from the diagram,
+everything except for final hop is encrypted.
 
- 
-
-Tor Security
-
-?I\you can see from the diagram, 
-everything except for final hop is  
-The final hop may be also in the case of
+•	(S//SI//REL) The final hop may be also in the case of
 Bob being an SSL site.
-Two-layer TOR Pipe between
-any 2 nodes TLS (Only thing seen 4
 
+•	(S//SI//REL) Two-layer TOR encryption: Pipe between
+any 2 nodes TLS encrypted (Only thing seen
 externally).
 
-Inside the TLS is the Onion Routing (see
+• (S//SI//REL) Inside the TLS is the Onion Routing (see
 following diagram):
 
- 
+------------------W--------------
 
- 
+TOP SECRET//COMINT REL TO USA,FVEY
 
+46
 
-TOP REL TO 46
+n.
 
- 
-
- 
-
- 
-
-{#2251 .
-
-Tor Security (Eu? ?vii-F1 
-I . a. - . ?I\each node can only data between its
+(S//SI//REL) So each node can only decrypt data between its
 predecessor and itself and only knows about its predecessor
 and successor.
 
-The exit node can read the final traffic if it is not
+(S//SI//REL) The exit node can read the final traffic if it is not
 SSL.
 
-The user Tor client is in control of everything
+(S//SI//REL) The user Tor client is in control of everything
+(S//SI//REL) Setting up keys for cryptography
+(S//SI//REL) Choosing the Entry, Middle, and Exit
 
-- Setting up keys for 
-- Choosing the Entry, Middle, and Exit
+(TS//SI//REL) Tor is very good - No passive
+exploitation :-(
 
-Tor is very good No passive
-exploitation 
-
- 
-
-
-TOP REL TO 
+TOP SECRET//COMINT REL TO USA,FVEY
 
 47
 
-. 
+Routing path
+
+Source
+
+Router A
+
+Router B
+
+Router G
+
+”■
 
 
 
- 
+TOP SECRET//COMINT REL TO USA,FVEY
 
-Tor Onion 
+48
 
- 
+(S//REL) NSA Network Analysis Center (NAC) data
+source GOLDENFORTIN
 
-.1- gr
-4 It;
-. . 
-Layers ef the omen {we #4 
-LEI. 
-gig-*4
-Que 
-JEFF-
-Message
+(S//REL) Cisco Netflow Records
 
- 
+•	(U)	From IP Address
 
- 
+•	(U)	To IP Address
 
- 
+•	(U)	Time Up
 
- 
+•	(U)	Time Down
 
-Renting path
+•	(U)	Number of Bytes
 
-Snuree RuuterEI. Rnuter?
+•	(U)	Number of Packets
 
-TOP SECRETHCOMINT REL TO 48
+(S//REL) Heavy Representation of Tor Relays
 
- 
+■i
 
- 
+-------------------«■--------------
 
- 
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+-ib
 
- 
+(S//SI//REL) How to use Tor network data?
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Passive Traffic Analysis-
-
- 
-   
-
-I
-
-
-.- L.   . I   
-
-  
-
-NSA Network Analysis Center (NAC) data 
-source GOLDENFORTIN 
-
-Cisco Netflow Records f"
-
-(U) From IP Address 
-(U) To IP Address 
-
-(U) Time Up 3.
-(U) Time Down 
-(U) Number of Bytes 
-
-- (U) Number of Packets
-Heavy Representation of Tor Relays
-
- 
-
- 
-
-TOP REL TO 49 
-
-Passive Traffic Analysis-
-
- 
-   
-
-I, .
-
-- at: 
-
-AWE   ?11: 
-IL I. I. 
-I), . 5L3
-It'l- 4' 1..
-
-.- Pit-I I .-
-.-
-  Mi"; 
-.1   ..
-
-
-
-How to use Tor network data?
-
-Attempt to work back from known exit traffic of interest
+(S//SI//REL) Attempt to work back from known exit traffic of interest
 all the way back to client user
 
-This is ?Circuit Reconstruction"
-Requires great coverage
+•	(S//SI//REL) This is “Circuit Reconstruction”
 
-Geography might be your friend sometimes
+•	(S//SI//REL) Requires great coverage
 
-Attempt to correlate known exit traffic to a small set of
+•	(S//SI//REL) Geography might be your friend sometimes
+
+(S//SI//REL) Attempt to correlate known exit traffic to a small set of
 putative client traffic
 
-Client Geographical Assumption Required
-No smoking gun yet Optimism still livesActive: Traffic Shaping
+•	(S//SI//REL) Client Geographical Assumption Required
+(TS//SI//REL) No smoking gun yet:-(Optimism still lives!
 
- .32?
+n.
 
-.. 'Jk' I 1:35_
-.II.- 1 . 'l?r 4  . I  
+TOP SECRET//COMINT REL TO USA,FVEY
+
+50
+
+to
 
 
-This primarily means deny/degrade to date
-If target is behind a choke point to
 
+(TS//SI//REL) Active: Traffic Shaping
+
+
+
+
+
+(S//SI//REL) This primarily means deny/degrade to date
+
+(TS//SI//REL) If target is behind a choke point to
 Internet
-Block all or a major subset of Tor Relays 
-Block all Tor TLS handshakes 
-Try to force target to use alternate communications 
-means .
-Always the (potential) Exploit vs Attack Tradeoff 
-Fa
 
- 
+•	(TS//SI//REL) Block all or a major subset of Tor Relays
 
- 
+•	(TS//SI//REL) Block all Tor TLS handshakes
+(TS//SI//REL) Try to force target to use alternate communications
 
-TOP REL TO 51 .
+means
 
- 
+(S//SI//REL) Always the (potential) Exploit vs Attack Tradeoff
 
- 
+TOP SECRET//COMINT REL TO USA,FVEY
 
- 
+Aß
 
-Active: Implants
+51
 
-I Il?vii-,4 
-I . a. - . ?I\TorButton: A Thorn in the side of SIGINT
+^ * ,
 
-One of the components of The Tor Browser
-Bundle AKA ?Tor for Dummies"
+VjT'Ak, N
 
-Firefox browser plugin on/off switch for Tor
+• (S//SI//REL) TorButton: A Thorn in the side of SIGINT
 
-Locks down browser REAL good (disables all
+(S//REL) One of the components of The Tor Browser
+Bundle - AKA “Tor for Dummies”
+
+(S//REL) Firefox browser plugin - on/off switch for Tor
+
+(S//REL) Locks down browser REAL good (disables all
 active content things, sandboxes state, etc.)
 
-No current bypass methods for ONE Exploits
+(TS//SI//REL) No current bypass methods for CNE Exploits
 
-Only hope is implanting web server with
+(TS//SI//REL) Only hope is implanting web server with
 poisoned content document intended for target
 
- 
-
-
-TOP REL TO 52
-
-. 
 
 
 
+
+n.
+
+(' -
+
+k. i
+
+
+
+TOP SECRET//COMINT REL TO USA,FVEY
+
+52

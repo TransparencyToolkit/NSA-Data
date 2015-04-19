@@ -1,242 +1,87 @@
-TOP TO USA, AUS, CAN, GBR, 
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
 NATIONAL SECURITY AGENCY
 CENTRAL SECURITY SERVICE
 
-D?auablea 5w
-I.
-gm
-(XSUX A
-SW 565%
+0^ftUJDt54 SD7
+AôEWf b<Kf'
+DTBb3LP HDEYI
+D0<XS«X 0*YR Jfi!
+(55^ BUH 5654
 
- 
-   
-   
- 
-
-RYPTANALYSIS 8.
+RYPTANALYSIS 8
 PLOITATION SERVICES
-8
+CRYPTANALYSIS &
 XPLOITATION SERVICES
 
-CLASSIFICATION GUIDE FOR
+(U//FOUO) CLASSIFICATION GUIDE FOR
 ECI PAWLEYS (PAW)
+
 02-19
 
 Effective Date: 14 November 2006
 
-CLASSIFIED BY: 
+CLASSIFIED BY:
 
-REASON FOR CLASSIFICATION: IA 
-DECLASSIF ON: 20291123
+REASON FOR CLASSIFICATION: 1.4 (c)
+DECLASSIFY ON: 20291123
 
-ENDORSED 
+ENDORSED BY:
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
-CLASSIFICATION GUIDE TIT 
-ECI PAWLEYS (PAW) Classi?cation Guide 02-19
+(U//FOUO) NSA/CSS CLASSIFICATION GUIDE TITLE/NUMBER:
 
-(U) PUBLICATION DATE: 14 November 2006
-(U) OFFICE OF ORIGIN: Exploitation Services (S31)
-(?mum 
+ECI PAWLEYS (PAW) Classification Guide 02-19
 
-ORIGINAL CLASSIFICATION AUTHORITY:
+(U) PUBLICATION DATE:
+(U) OFFICE OF ORIGIN:
+(U//FOUO) POC:
 
-ECI PAWLEYS (PAW) protects clandestine HUMINT and computer network access intended to obtain
-information and material. It protects operational details, as well as any equipment, materials, technical
+(U) PHONE:
+
+14 November 2006
+
+Cryptanalysis & Exploitation Services (S31)
+
+(U//FOUO) ORIGINAL CLASSIFICATION AUTHORITY:
+
+(TS//SI//REL) ECI PAWLEYS (PAW) protects clandestine HUMINT and computer network access intended to obtain
+cryptographic information and material. It protects operational details, as well as any equipment, materials, technical
 information and some SIGINT capabilities gained as a result of such access.
 
- 
+Description of Information	Classification/  Marking	Reason	Declass	Remarks
+1. (U//FOUO) The term PAWLEYS or trigraph PAW or any officially registered PAWLEYS project coverterms standing alone without reference to a specific operation or target.	UNCLASSIFIED	N/A	N/A	
+2. (U//FOUO) The term PAWLEYS or the trigraph PAW in association with ECI, NSA, SIGINT, or intelligence.	UNCLASSIFIED// FOR OFFICIAL USE ONLY	N/A	N/A	
+I (U) GENERAL GUIDELINES AND OPERATIONAL DETAILS				
+3. (TS//SI//REL) The fact that NSA has requirements for:  • HUMINT acquisition of foreign cryptographic information and material.	TOP SECRET// COMINT//REL	1.4(c)	20291123	
+• acquisition of foreign  cryptographic information and material via a Computer Network Exploitation (CNE) operation.				
+4. (U//FOUO) The details of  PAWLEYS requirements without reference to locations or operational aspects.	TOP SECRET// COMINT//REL	1.4(c)	20291123	(U//FOUO) Some requirements are NOFORN or restricted to a subset of 2nd Party partners.
 
-Description of Information Classi?cation/ Reason
-Marking
-1. The term PAWLEYS or UNCLASSIFIED 
-trigraph PAW or any of?cially
-registered PAWLEYS project
+-2-
 
-coverterms standing alone without
-reference to a speci?c operation or
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
- 
+Description of Information	Classification/  Marking	Reason	Declass	Remarks
+5. (TS//SI//KEL) liCI PAWLliYS protects the following as they arc related to CNE operations:  ( 1 ) The fact that an operation is specifically intended to acquire or enable the acquisition of cryptographic information  (2)	The success (or lack thereof! in acquiring or enabling the acquisition of the intended cryptographic information  (3)	The technical details of CNE tools that arc designed for a specific target's cryptographic- system.  (4)	Cryptographic information collected by a CNE operation conducted specifically for that purpose.	TOP SECRET// C0MINT-EC1 PAW// REL	14(c)	20291123	(TS//S1//REL) PAWLEYS will appy to CNE operations and tools (and resulting cryptographic information) ONLY when the operation or tool i> tailored to a specific target's cryptographic system.  (U//EOUO) NOFORN or some limited 2nd Party release may be applied. Operational information is extremely sensitive and is only divulged under the strictest of need- to-know rules.
+6. (TS.vSL.REL) ECT PAWLEYS protects the following as they arc related to clandestine HL'MINT operations:  ( 1 ) The material. equipment or information resulting from a PAWLEYS operation and the fact of access.  (2)	Any analysis or technical capability developed as a result of PAWLEYS information.  (3)	The location, purpose, time frame, means of access or any other operational detail relating to the planning of or accomplishment of a clandestine cryptographic access.  (4)	Any identifying information regarding HUMINT assets involved in PAWLEYS operations.	TOP SECRET// C0MINT-EC1 PAW// REL	14(c)	20291123	(U//FOUO) “Any analysis or technical capability" would include technical papers, notes, software or other techniques, which could not have been developed without PAWLEYS information.  (U//EOUO) NOFORN or some limited 2nd Party release may be applied. Operational information is extremely sensitive and is only divulged under the strictest of need- to-know rules.
 
- 
+- 3 -
 
-target.
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
-2. The term PAWLEYS or 
-the trigraph PAW in association with FOR OFFICIAL USE
-ECI, SA, SIGINT or intelligence. ONLY
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
 
-(U) GENERAL GUIDELINES AND OPERATIONAL DETAILS
+Description of Information	Classification/	Reason	Declass	Remarks
+	Marking			
+(C) PARTNER RELATIONSHIPS				
+7. (S//SI//REL) The tact that NS A partners with CIA. FBI. DIA. DUS or other USG entities to address PAWLEYS requirements.	SECRET//  COM1NT//REL	14(c)	20291123	
+8. (S't'REL) The fact that CSE. DSD. GCHQ and GCSB all operate PAWLEYS programs and that NSA collaborates with each on targets of mutual interest.	SECRET//REL	14(c)	20291123	
 
-3. (T The fact that SA has TOP 1.4 20291123
-requirements for: 
+-4 -
 
-0 HUMINT acquisition of foreign
-information and
-material.
-
-0 acquisition of foreign
-information and
-material via a Computer
-Network Exploitation (CNE)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-operation.
-
-4. The details of TOP 1.4 20291123 Some requirements are
-PAWLEYS requirements without OFORN or restricted to a subset of
-reference to locations or operational 2nd Party partners.
-aspects.
-
- 
-
-2 
-TOP T0 USA, AUS, CAN, GBR, 
-
-TOP TO USA, AUS, CAN. GBR, 
-
- 
-
- 
-
-of Information Chas?lcation/ Ream Decks Remarks
-Marking
-ECI PAWLEYS TOP SEC 1.4 20291l23 ('l'Sr'a'SlirREL) PAWLEYS will apply
-protects the following as they are to CNE operations and tools (and
-related to NE operations: REL resulting information)
-ONLY when the operation or tool is
-The fact that an operation is tailored to a speci?c target's
-speci?cally intended to acquire system.
-or enable the acquisition of
-information NOFORN or some
-limited 2nd Party release may be
-(2) The success (or lack thereof) in applied. Operational information is
-acquiring or enabling the extremely sensitive and is only
-acquisition of the intended dimlged under the strictest of need-
-information to-know rules.
-(3) The technical details of CNE
-tools that are designed for a
-specific target's 
-system.
-(4) inionnation
-collected by a NE operation
-conducted speci?cally for that
-PUM-
-ECI PAWLEYS TOP SEC 1.4 20291 l23 "Any analysis or
-
-protects the following as they are
-related to clandestine 
-operations:
-
-(I) The material. equipment or
-information resulting from a
-PAWLEYS operation and the
-fact of access.
-
-(2) Any analysis or technical
-
-capability developed as a result
-
-of PAWLEYS rnforrnation.
-
-(3) The location. purpose. time
-
-frame. means of access or any
-
-other operational detail relating
-to the planning of or
-accomplishment of a clandestine
-access.
-
-(4) Any identifying information
-
-regarding HUMINT assets
-
-involved in PAWLEYS
-operations.
-
- 
-
-PAW
-
-REL
-
- 
-
- 
-
-technical capability" would include
-technical papers. notes. software or
-other techniques. which could not
-have bixn developed without
-PAWLEYS information.
-
-NOFORN or some
-limited 2nd Party release may be
-applied. Operational information is
-extremely sensitive and is only
-divulged under the strictest of need-
-to-know rules.
-
- 
-
--3-
-
-TOP TO USA, CAN, GBR, 
-
- 
-
- 
-
-TOP SEC TO USA, CAN. GBR. 
-
- 
-
- 
-
- 
-
-Description of Information Classi?cation! Reason Decline Remarks
-Marking
-(C) PARTNER RELATIONSHIPS I
-7. 'lhe fact that NSA 1.4 20291123
-partners with CIA. l-?Bl. DHS 
-or other entities to address
-PAWLEYS requirements.
-8. 'lhc fan that SE. 050. 1.4 20291123
-GCHQ and GCSB all operate
-
-PAWLEYS programs and that SA
-collaborates with each on targets of
-mutual interest.
-
- 
-
- 
-
-4 
-TOP SEC RE TO USA, CAN. GBR. NZI. [20291123
-
- 
-
- 
-
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123

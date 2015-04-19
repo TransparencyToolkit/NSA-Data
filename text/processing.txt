@@ -1,57 +1,53 @@
- German, NBA Share UNI Processing Knowledge
+﻿(S//SI) German, NSA SIGINTers Share DNI Processing Knowledge
 
+SUSLAG (Special US Liaison Activity Germany)
 
+Run Date: 05/22/2006
 
-SUSLAG [Special US Liaison Activitv Gerinanv}
-Run Date: 
+(S//SI) A END* delegation responsible for building END'S next generation DNI
+(Digital Network Intelligence)- processing architecture visited the Joint SIGINT
+Activity (JSA) in late February for two days of discussions to learn more about
 
-A delegation responsible for building BND's next generation DNI
-[Digital Network Intelligence} processing architecture visited the Joint SIGINT
-Activitv in late Februarv for two days oi'discussions to learn more about
+1 of 3
 
-lof'j
+NSA's DNI architecture. The JSA, an operational element of the Special US Liaison
+Activity Germany (S US LAG), is a joint SIGINT development, collection, and
+exploitation site manned by German and US personnel,
 
-NEA's DNI architecture. The JEA, an operational element of the Special UE Liaison
-Activity Germany is ajoint EIGINT development, collection, and
-exploitation site manned by German and US personnel.
+(S//SI) DND analysts discussed their processing architecture, which is largely
+based on NSA's old P25 and P26 GRANDMASTER prototypes, Their focus is
+primarily e-mail processing, specifically SMTP e-mail, Spam filters are used to
+manage large data volumes. Selected traffic is passed through an automated
+privacy protection system, ensuring that analysts cannot view German-protected
+traffic. On-site DND analysts then manually assess all selected traffic to determine
+potential intelligence value,
 
-END discussed their processing architecture, which is largely
-based on NEA's old P25 and P26 GRANDMAETER prototypes. Their focus is
-primarily e-mail processing, speci?cally EMTP e-mail. Epam ?lters are used to
-manage large data volumes. Selected tra?ic is passed through an automated
-privacy protection system, ensuring that cannot view German-protected
-tra?ic. Dn-site END then manually assess all selected tra?ic to determine
-potential intelligence value.
-
-In conducting this evaluation, they do not prioritize the selected traf?c by
+(S//SI) In conducting this evaluation, they do not prioritize the selected traffic by
 target or keyword. Instead they focus on e-mails carrying attachments with the
-goal to scan e-mails as quickly as possible to increase their throughput. E-mails
-that are determined to be ofpotential intelligence value are then forwarded to END
-HQE for follow-on evaluation and reporting.
+goal to scan e-mails as quickly as possible to increase their throughput, E-mails
+that are determined to be of potential intelligence value are then forwarded to DND
+PIQS for follow-on evaluation and reporting,
 
-NEA intelligence discussed NEA's EIGINT Development model,
-NEA's "Hunt versus Gather" philosophy, our multi-stage selection and ?ltering
-process, and the evolution processing systems from GRANDMAETER to
-WEALTHYELUETER and, in the future, TURMDIL. The END appeared especially
-interested in the TURMDIL approach of scanning and making judgments at the
-packet level prior to any sessionising.
+(S//SI) NSA intelligence analysts discussed NSA's SIGINT Development model,
+NSA's "Hunt versus Gather" philosophy, our multi-stage selection and filtering
+process, and the evolution of DNI processing systems from GRANDMASTER to
+WEALTHYCLUSTER and, in the future, TURMOIL. The DND appeared especially
+interested in the TURMOIL approach of scanning and making judgments at the
+packet level prior to any sessionizing.
 
-In summary, NBA and END use opposite selection and ?ltering
-approaches. Where NEA primarily relies on equipment for selection 
-and analyst minimisation for privacy protection, the END relies on
-to manually scan tra?ic for selection, and then equipment to ?lter data for
-privacy protection. Full use of current NEA DNI processing systems and analysis
-methodologies at JEA will be key to influencing the END to alter their strategic DNI
-processing approach.
+(S//SI) In summary, NSA and BND use opposite selection and filtering
+approaches. Where NSA primarily relies on equipment for selection (e,g,
+DLACKNIGHT) and analyst minimization for privacy protection, the DND relies on
+analysts to manually scan traffic for selection, and then equipment to filter data for
+privacy protection. Full use of current NSA DNI processing systems and analysis
+methodologies at JSA will be key to influencing the DND to alter their strategic DNI
+processing approach,
 
-Note: END Germany's Eundesnachrichtendienst [the Federal Intelligence
-Service}
+*(U) Note: DND = Germany's Dundesnachrichtendienst (the Federal Intelligence
+Service)
 
- 
+(U) This article is reprinted from the Foreign Affairs Digest, April edition.
 
-This article is reprinted from the Foreign A?hirs Digest, April edition.
+2 of 3
 
-Eof'j
-
-3of3
-
+3 of 3

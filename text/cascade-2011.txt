@@ -1,0 +1,1394 @@
+﻿CLASSIFICATION:
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Project Overview
+Current Status
+Proposed Architecture
+Towards 2015
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+
+
+
+
+Project Overview
+
+Alignment of passive cyber sensor capabilities and
+architecture in the SIGINT and ITS missions
+
+Goals
+
+Common sensor technology and architecture
+Address scalability issues in sensor deployments
+
+Scope
+
+Passive sensors and supporting infrastructure are in scope
+
+A Analytic tools are out of scope
+
+%% Host based capability is out of scope (caveat: passive
+messaging is in scope)
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Our Sensors
+
+SIGINT / ITS
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+36 Monitoring of GC Networks
+
+36	Includes:
+
+36	Full-Take Packet Capture
+
+36	Signature Based Detection
+
+36	Anomaly Based Discovery
+
+36 Analytic Environment
+36	Oversight Compliance Tools
+
+36 Monitoring in Passive SIGINT
+
+36 Includes:
+
+36 Full-Take (on specific accesses)
+
+36	Signature Based Detection
+
+36	Anomaly Based Discovery
+
+36 Additional Functions are offloaded and exist further
+downstream:
+
+36 Analytic Environment
+36	Dataflow / Targeting
+
+36	Oversight and Compliance Tools
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+Shades of Blue
+
+EONBLUE
+
+DELL R610 1U Platform
+
+-	TS//SI Processing
+
+-	Tracking / Discovery
+
+10Gbps
+
+INDUCTION
+
+Distributed Processing (Cloud)
+
+-	TS//SI Processing
+
+-	Tracking / Discovery
+
+-	PXE Boot Infrastructure
+
+Multiple
+
+10Gbps
+
+THIRD-EYE
+
+Cyber Metadata Processor
+
+-	UNCLASSIFIED Processing
+
+-	Metadata Production
+
+Metadata
+
+Multiple 1Gbps
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Special Source
+
+100% INDUCTION coverage of main SSO sites + metadata production
+THIRD-EYE metadata production at select new sites
+
+CRUCIBLE deployments to newly emerging sites pre-SCIF environment (survey)
+38 Increase in link speeds
+38 Warranted Collection
+
+38 EONBLUE sensor deployment - full take collection
+
+38 FORNSAT
+
+38 Recently upgraded to current EONBLUE code base, leveraging GCHQ
+CHOKEPOINT solution to integrate with environment (Virtualized)
+
+38 Working on SUNWHEEL / SMO
+
+38 CHOKEPOINT system enroute to CASSIOPEIA
+
+38 No SUNWHEEL presence as of yet, plans to leverage CHOKEPOINT capability
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+36 Deployment at 3 edge gateway GC departments
+36 Dynamic defence is enabled at two of these sites
+
+36 Deployment at the main government backbone
+36 Dual lOGbps links (~3Gbps loading)
+
+3§ Data volumes continue to increase due to Internet Access Point
+aggregation
+
+36 Currently performing full take and storage of all monitored
+traffic
+
+36 System performance issues, overall analyst usability issues
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Divergence - Sensor Deployments
+
+V*”'S.
+
+• While both ITS/SIGINT currently leverage EONBLUE
+software:
+
+o The architectures are not aligned
+o Configuration differs greatly
+
+o Software versions are not standard across programs
+o The full capability of EONBLUE is not being leveraged equally
+across programs
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+OF SECRET / COMINT //
+
+CLASSIFICATION:
+
+
+
+CLASSIFICATION:
+
+em Statement
+
+
+
+it
+
+
+
+36 Divergence
+
+36 Sensor architectures have diverged between ITS/SIGINT
+36 Within each area, versions are not standardized
+
+36 Management and Scalability
+36 Some configurations will not scale
+36 Difficult to manage current sensor environment
+36 High cost to grow existing solution (people, HW/SW costs)
+
+36 Duplication of Effort
+
+36 Divergence creates duplication of effort
+
+36 Limited resources are not focused on innovation and new
+challenges
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+1
+
+Ensure that SIGINT /
+ITS approach to
+Tracking / Metadata
+Production are aligned
+
+Improve Query
+Performance for Full-
+Take Data
+
+Develop / Implement
+strategy to better do
+Full-Take
+
+Extend Native	M
+
+Messaging Between I Shared Mission Space
+Business Lines	8
+
+Ensure Targeting is H Single Interconnected
+Unified	■ Sensor Grid
+
+Simplify Version	■	Host / Network
+
+Management	H	Interoperability
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Tracking and Metadata
+
+
+
+Ensure EONBLUE is deployed in a standard fashion across all
+
+environments
+
+Upgrade SCNET to lOGbps
+EONBLUE
+
+Update all SIGINT collection
+sites to latest code release
+
+Produce Standard Metadata		
+DNS Response Harvesting	HTTP Client / Server Headers	IP-to-IP Flow Summarizations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+Full-Take Strategy
+
+<<*—•S.
+
+Address SCNET Scalability
+
+Reconfiguration / Design of Storage
+
+Solution
+
+Improved / Enforced data indexing and
+
+quering
+
+Leverage Third-Eye Architecture		
+Distributed Collection Grid (at multiple clients)	Queries are Federated and Centrally Managed	Enables unique data ingest at client department (i.e. Firewall Logs)
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Full-Take Strategy
+
+CLASSIFICATION:
+
+38 Benefits
+
+38 Improve Performance
+
+Better data indexing techniques
+Federated queries across multiple systems
+38 Reduced Cost (Storage local to client departments)
+
+10,000$ -> 25,000$ per client
+Re-use of back-end Storage
+
+38 Enable departmental security officers / operators
+
+Capability of Third-Eye exceeds what is commercially available
+
+38 Cons
+
+38 Requires network connections to each GC Department
+38 Requires footprint within each departments datacenter
+38 Complexity of distributed processing
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+CLASSIFICATION:
+
+Sensor Interoperability
+
+co«~a'N.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+CLASSIFICATION
+
+Interoperability enables Synchronization
+
+s.
+
+ITS access to data collected by SIGINT sensors
+
+Outputs should be common to enable a common analyst platform
+Sensor environment should be seamlessly integrated
+
+38 Capability remains at cutting-edge
+
+Single release for all collection programs in SIGINT, all points of
+presence, and across both missions
+
+Management is simplified for operators, focusing on sensor
+expansions
+
+Standardized OS Versions and Optimizations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Unified Sensor Environment
+
+/J
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+36 Where do you deploy sensors to maximize detection
+
+capabilities for Foreign Intelligence collection and Network
+Defence
+
+36 Coverage-based deployment considerations - what are the
+gaps?
+
+36 Threat-based deployment considerations - what are the gaps?
+36 Based on EPRs
+
+36 Threat trends and forecasting reports
+36 Adversary TTPs
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+CLASSIFICATION:
+
+Canadian Cyber Sensor Grid
+
+Foreign
+Internet Space
+
+Secure Channel
+
+FORNSAT
+
+Canadian Internet Space
+
+Foreign Internet Space
+
+System of
+Importance
+
+Foreign
+Internet Space
+
+Foreign Internet Space
+
+Foreign
+Internet Space
+
+Defensive Monitoring
+
+Special Source / Special Access
+Warranted Access
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+
+
+Strategic Priorities for CSEC
+
+Strengthen “Team CSEC” and Prepare for Our New Facility
+
+Adopt Innovative and Agile Business Solutions
+
+Expand Our Access Footprint
+
+Improve Analytic Tradecraft
+
+%% Automate Manual Processes
+
+Synchronize the Cryptologic Enterprise for Cyber Security
+Mission
+
+Enable “Effects” for Threat Mitigation
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+i
+
+f
+
+36 Expand Our Access Footprint
+
+36 We will increase SPECIAL SOURCE access to include all
+international gateways accessible from Canada.
+
+36 We will deploy a sensor system that creates a protective grid at
+multiple layers over Government operations in Canada, and at all
+classification levels.
+
+36 Improve Analytic Tradecraft
+
+36 We will equip SIGINT and cyber defence analysts with tools for
+flexible manipulation and customized analysis of large scale data
+sets.
+
+^ We will build analytic tradecraft that understands, anticipates,
+and exploits the methodology of threat agents to provide
+comprehensive cyber- situational awareness based on multiple
+sources of cryptologic data.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Cyber Sensor in 2015
+
+Synchronize the Cryptologic Enterprise for the Cyber Security Mission
+
+We will improve how we anticipate, identify, track and mitigate cyber threats on
+government systems through new concepts of joint operations.
+
+We will design and develop joint SIGINT-ITS systems, including common data
+repositories, joint tasking and analytic systems.
+
+We will increase operational capacity by ensuring SIGINT, ITS, and cryptologic
+partner sensors interoperate seamlessly.
+
+We will synchronize and use ITS and SIGINT capabilities and complementary
+analyses to thwart cyber threats.
+
+Enable “Effects” for Threat Mitigation
+
+We will seek the authority to conduct a wide spectrum of Effects operations in
+support of our mandates.
+
+We will build the technical infrastructure, policy architecture and tradecraft
+necessary to conduct Effects operations.
+
+We will further integrate ITS and SIGINT authorities and operations to leverage
+common sensors, systems and capabilities necessary for active and expanded
+dynamic cyber defence measures.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+The Network Is The Sensor
+
+Principles
+
+r
+
+Security needs to be j
+transparent to the
+user in order to be
+effective
+
+Security is a right for all
+Canadians
+
+•	Federal Government
+
+*	Municipal / Provincial Gov
+
+•	Critical Infrastructure
+
+*	Industry
+
+, * The Citizen
+
+End-Users should
+incur little cost for
+security
+
+IT Assets should be
+distributed
+
+Access is mandate /
+authority agnostic
+
+Goals
+
+Detect threats as they
+enter our national
+networks, not at the
+Gateway
+
+Identify Exfiltration,
+Command and
+Control, anywhere in
+our national networks
+
+The network is your
+defence for all
+infrastructure
+
+Rationale
+
+r	\	r		
+We can’t keep pace with our adversary		Gateway / Device / End- Node protection is not sufficient (essential, yes)		Rather than plugging one hole at a time, build better layered defence
+i		J	\		a	L.	A
+
+
+
+~\
+
+
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+Principles Explained
+
+CLASSIFICATION:
+
+36 Security is Transparent
+
+If security inhibits functionality, or interferes with user experience
+it will be bypassed
+
+36 Security is a right
+
+36 Attempting to protect everybody with end-node / gateway
+defenses is not feasible.
+
+36 IT Assets should be distributed
+
+^ We run an open market, network providers will compete to
+provide access
+
+36 Consolidated gateways creates single points of failure
+36 Cost / Redundancy considerations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+36 Detection before attack hits target
+
+3§ If we wish to enable defence we must have intelligence to know
+when attacks enter our national infrastructure
+
+36 Identify Exfiltration / Command and Control
+
+36 Some attacks will slip through or can't be seen (i.e. shaping)
+
+36 Exploit our temporal advantage - aggressively pursue these
+implants as they will communicate ‘home' for instruction
+
+36 The Network IS your Defence
+
+36 In some cases, in cooperation with our partners we can affect
+change at the CORE of the Internet on detection:
+
+Modify traffic routes
+
+Silently discard malicious traffic (hygiene filtering)
+
+Insert payload to disrupt adversaries
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+26 Keeping pace with the Adversary
+
+26 From the time a malicious PDF is opened, till SEEDSPHERE has
+interactive control of a workstation is <3 minutes
+
+26 There are countless malicious actors (state, crime, generic malware)
+
+26 Gateway / End-Node Defence by itself is insufficient
+26 It is only one part of the problem
+
+26 Over 600,000 Apps in the iTunes AppStore (How do you secure that?)
+
+26 Defence in Depth includes network monitoring, and network interaction
+
+26 Build better Defence
+
+26 Our current MO is to resolve one incident at a time
+
+26 Automate the defence through a robust network capable of not only
+detection, but manipulation of malicious traffic
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+38 EONBLUE will be integrated into the Network
+38 Monitoring Government of Canada
+
+38 Monitoring Core Infrastructure (Special Source) extending the
+reach to view national infrastructure
+
+38 Monitoring foreign Internet Space
+
+38 EONBLUE will enable defensive operations
+
+38 Through robust communication with host-based capabilities
+38 Through direct manipulation of network communications
+38 Through interaction with Teleco infrastructure to affect change
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+CLASSIFICATION:
+
+Changing the way we think
+
+Tipping and Cueing
+
+If the purpose is to enable defence of national infrastructure it becomes
+unnecessary in a 5-eyes context
+
+We have full visibility of our national infrastructure
+
+The chance of heating’ the internet for latency of an attack is minimal
+
+The network will perform the filtering
+
+What if instead T&C enables intelligence collection (Cyber Session
+Collection)?
+
+Targeting and Tasking
+
+We all share common targets and we will all target using our national capability
+the cyber threats we know about
+
+%% No need for 2nd party tasking / targeting requests. Instead expose cyber
+information across the community
+
+What if instead we focus on analytic collaboration and knowledge transfer
+TEXPRO information, federated repositories (malware/traffic), etc
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FYEY
+
+CLASSIFICATION:
+
+Changing the way we think
+
+36 Foreign SIGINT Intercept
+
+36 Becomes the 'hunting ground’ for discovery of new threats
+
+36 Enables attribution and counter-intelligence reporting
+
+36 Defence is taken care of by The Network’
+
+36 Mobile Platforms are the next frontier, what is their implication
+on Cyber?
+
+36 Domestic Defence
+
+36 We will exhaust the treasury deploying network appliances to
+perform dynamic defence
+
+36 The same capabilities will be integrated into the CORE of the
+Internet
+
+36 Defence in Depth through complimentary capabilities on end-
+nodes, at the gateway, and in the core of the Internet.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Conclusion
+
+CASCADE
+
+The harmonization of ITS/SIGINT Sensor capabilities
+
+Lays the foundation for long-term integration of Cyber within the
+Cryptologic Enterprise
+
+Towards 2015
+
+The Network is the Sensor
+
+Defence, Mitigation, Intelligence all formed from a single
+comprehensive network creating a perimeter around Canada
+
+Extending our reach through 5-eyes partnerships to ensure mutual
+defence of national assets.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Project Overview
+Current Status
+Proposed Architecture
+Towards 2015
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Project Overview
+
+Alignment of passive cyber sensor capabilities and
+architecture in the S1GINT and ITS missions
+
+Goals
+
+36 Common sensor technology and architecture
+36 Address scalability issues in sensor deployments
+
+Scope
+
+Passive sensors and supporting infrastructure are in scope
+36 Analytic tools are out of scope
+
+36 Host based capability is out of scope (caveat: passive
+messaging is in scope)
+
+CLASSIFICATION: POP SECRET // COMINT // REL FVEY
+
+What is the project about?
+
+Define the goal of this project
+
+Is it similar to projects in the past or is it a new effort?
+
+Define the scope of this project
+
+Is it an independent project or is it related to other projects?
+
+* Note that this slide is not necessary for weekly status meetings
+
+3
+
+Our Sensors
+
+SIGINT / ITS
+
+CLASSIFICATION: I'OP SECRET // COMINT // REL FVEY
+
+Photonic Msm
+
+Monitoring of GC Networks
+
+38 Includes:
+
+38 Full-Take Packet Capture
+38 Signature Based Detection
+38 Anomaly Based Discoveiy
+38 Analytic Environment
+38 Oversight Compliance Tools
+
+# EOMBLUE
+
+38 Monitoring in Passive SIGINT
+38 Includes:
+
+38 Full- l ake (on specific accesses)
+38 Signature Based Detection
+38 Anomaly Based Discoveiy
+
+38 Additional Functions are offloaded and exist further
+downstream:
+
+i:	Analytic Environment
+
+38 Dataflow Targeting
+38 Oversight and Compliance Tools
+
+CLASSIFICATION: IOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Shades of Blue
+
+
+
+Current Status - SIGINT Deployments
+
+3€ Special Source
+
+38 ioo% INDUCTION coverage of main SSO sites + metadata production
+33 THIRD-EYE metadata production at select new sites
+
+33 CRUCIBLE deployments to newly emerging sites pre-SCIF environment (survey)
+33 Increase in link speeds
+33 Warranted Collection
+
+33 EONBLUE sensor deployment - full take collection
+
+3« FORNSAT
+
+33 Recently upgraded to current EONBLUE code base, leveraging GCHQ
+CHOKEPOINT solution to integrate with environment (Virtualized)
+
+33 Working on SUNWHEEL / SMO
+
+33 CHOKEPOINT system enroute to CASSIOPEIA
+
+33 No SUNWHEEL presence as of yet, plans to leverage CHOKEPOINT capability
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+* If any of these issues caused a schedule delay or need to be discussed further,
+Include details in next slide.
+
+6
+
+
+
+LASS1FICATION:
+
+Current Status - IT Security Deployments
+
+Deployment at 3 edge gateway GC departments
+Dynamic defence is enabled at two of these sites
+
+Deployment at the main government backbone
+3i Dual lOGbps links (~3Gbps loading)
+
+Data volumes continue to increase due to Internet Access Point
+aggregation
+
+Currently performing full take and storage of all monitored
+traffic
+
+US System performance issues, overall analyst usability issues
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+OSSIFICATION:
+
+Divergence - Sensor Deployments
+
+• While both ITS/SIGINT currently leverage EONBLUE
+software:
+
+The architectures are not aligned
+
+Configuration differs greatly
+
+Software versions are not standard across programs
+
+The full capability of EONBLUE is not being leveraged equally
+
+across programs
+
+CLASSIFICATION: I'OP SECRET // COMINT // REL FVEY
+
+Problem Statement
+
+CT
+
+36 Divergence
+
+36 Sensor architectures have diverged between ITS/SIGINT
+36 Within each area, versions are not standardized
+
+36 Management and Scalability
+36 Some configurations will not scale
+36 Difficult to manage current sensor environment
+36 High cost to grow existing solution (people, HW/SW costs)
+
+36 Duplication of Effort
+
+36 Divergence creates duplication of effort
+
+36 Limited resources are not focused on innovation and new
+challenges
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Duplicate this slide as necessary if there is more than one issue.
+
+This and related slides can be moved to the appendix or hidden if necessary.
+
+10
+
+A Phased Approach
+
+Extend Native Messaging Between Business Lines		Shared Mission Space
+		
+Ensure Targeting is Unified		Single Interconnected Sensor Grid
+u		
+Simplify Version Management		Host / Network Interoperability
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Ensure EONBLUE is deployed in a standard fashion across all
+
+environments
+
+Upgrade SCNET to lOGbps
+EONBLUE
+
+Update all SIGINT collection
+sites to latest code release
+
+57
+
+Produce Standard Metadata
+
+DNS Response
+Harvesting
+
+HTTP Client /
+Server Headers
+
+IP-to-IP Flow
+Summarizations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Full-Take Strategy
+
+Address SCNET Scalability
+
+Reconfiguration / Design of Storage
+Solution
+
+Improved / Enforced data indexing and
+quering
+
+\ '
+
+Leverage Third-Eye Architecture
+
+Distributed Collection Grid
+(at multiple clients)
+
+Queries are Federated and
+Centrally Managed
+
+Enables unique data ingest
+at client department (i.e.
+Firewall Logs)
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+CLASSIFICATION:
+
+Full-Take Strategy
+
+Benefits
+
+Improve Performance
+
+Better data indexing techniques
+Federated queries across multiple systems
+Reduced Cost (Storage local to client departments)
+
+10,000$ -> 25,000$ per client
+Re-use of back-end Storage
+
+Enable departmental security officers / operators
+
+Capability of Third-Eye exceeds what is commercially available
+
+Cons
+
+Requires network connections to each GC Department
+Requires footprint within each departments datacenter
+Complexity of distributed processing
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+I
+
+38 ITS access to data collected by SIGINT sensors
+
+38 Outputs should be common to enable a common analyst platform
+38 Sensor environment should be seamlessly integrated
+
+38 Capability remains at cutting-edge
+
+;i Single release for all collection programs in SIGINT, all points of
+presence, and across both missions
+
+38 Management is simplified for operators, focusing on sensor
+expansions
+
+38 Standardized OS Versions and Optimizations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Unified Sensor Environment
+
+All Cyber Sensors form a complete eco-system
+
+Access point is Mandate / Authority Agnostic	Sensors are Multi-Modal (Defence or Intelligence from any  sensor anvtimet
+
+52
+
+Extend Messaging to Host Based Capabilities
+
+IT Security Host Based Agents	CNE implants
+
+Cyber Processing and analytic environments converge
+
+Two-Tier Environment  • Automated / GUI rich environment for operators •Command-Line Driven RAW uccess for Discovery	Shared Network Resources for Common Services •Wiki/Blog/Chat • NIS / NIT / DNS / Messaging / etc
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+CLASSIFICATION:
+
+Synchronized Deployment Strategy
+
+38 Where do you deploy sensors to maximize detection
+
+capabilities for Foreign Intelligence collection and Network
+Defence
+
+38 Coverage-based deployment considerations - what are the
+gaps?
+
+X
+38
+38
+
+38 Threat-based deployment considerations - what are the gaps?
+38 Based on EPRs
+
+38 Threat trends and forecasting reports
+38 Adversary TTPs
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Secure Channel
+
+FORNSAT
+
+Canadian Internet Space
+
+Foreign Internet Space
+
+System of
+Importance
+
+Foreign
+Internet Space
+
+Foreign Internet Space
+
+Foreign
+Internet Space
+
+-
+
+Defensive Monitoring
+
+Special Source / Special Access
+Warranted Access
+
+GAZEBO Access
+
+CLASSIFICATION: TOP SECRET // COMTNT // REL FVEY
+
+Strategic Priorities for CSEC
+
+38 Strengthen “Team CSEC” and Prepare for Our New Facility
+38 Adopt Innovative and Agile Business Solutions
+38 Expand Our Access Footprint
+38 Improve Analytic Tradecraft
+
+38 Automate Manual Processes
+
+38 Synchronize the Cryptologic Enterprise for Cyber Security
+Mission
+
+38 Enable “Effects” for Threat Mitigation
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+LASSIFI CATION:
+
+Cyber Sensor in 2015
+
+36 Expand Our Access Footprint
+
+36 Wc will increase SPECIAL SOURCE access to include all
+international gateways accessible from Canada.
+
+36 We will deploy a sensor system that creates a protective grid at
+multiple layers over Government operations in Canada, and at all
+classification levels.
+
+36 Improve Analytic Tradecraft
+
+36 We will equip SIGINT and cyber defence analysts with tools for
+flexible manipulation and customized analysis of large scale data
+sets.
+
+36 We will build analytic tradecraft that understands, anticipates,
+and exploits the methodology of threat agents to provide
+comprehensive cyber- situational awareness based on multiple
+sources of cryptologic data.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+CLASSIFICATION:
+
+Cyber Sensor in 2015
+
+‘V—S.
+
+36 Synchronize the Cryptologic Enterprise for the Cyber Security Mission
+
+36 We will improve how we anticipate, identify, track and mitigate cyber threats on
+government systems through new concepts of joint operations.
+
+36 We will design and develop joint SIGINT-ITS systems, including common data
+repositories, joint tasking and analytic systems.
+
+36 We will increase operational capacity by ensuring S1G1NT, ITS, and cryptologic
+partner sensors interoperate seamlessly.
+
+36 We will synchronize and use ITS and SIGINT capabilities and complementary
+analyses to thwart cyber threats.
+
+36 Enable “Effects” for Threat Mitigation
+
+36 We will seek the authority to conduct a wide spectrum of Effects operations in
+support of our mandates.
+
+36 We will build the technical infrastructure, policy architecture and tradecraft
+necessary to conduct Effects operations.
+
+36 We will further integrate ITS and SIGINT authorities and operations to leverage
+common sensors, systems and capabilities necessary for active and expanded
+dynamic cyber defence measures.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+LASSIFICATION :
+
+The Network Is The Sensor
+
+Principles
+
+Security needs to be
+transparent to the
+user in order to be
+effective
+
+End-Users should
+incur little cost for
+security
+
+IT Assets should be
+distributed
+
+Access is mandate /
+authority agnostic
+
+Goals
+
+Detect threats as they
+enter our national
+networks, not at the
+Gateway
+
+Identify Exfiltration,
+Command and
+Control, anywhere in
+our national networks
+
+The network is your
+defence for all
+infrastructure
+
+Rationale
+
+		
+We can’t keep pace with our adversary  v J	Gateway / Device / End- Node protection is not sufficient (essential, yes)	Rather than plugging one hole at a time, build better layered defence
+
+		
+		
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Principles Explained
+
+36 Security is Transparent
+
+36 If security inhibits functionality, or interferes with user experience
+it will be bypassed
+
+36 Security is a right
+
+36 Attempting to protect everybody with end-node / gateway
+defenses is not feasible.
+
+36 IT Assets should be distributed
+
+36 We run an open market, network providers will compete to
+provide access
+
+36 Consolidated gateways creates single points of failure
+
+36 Cost / Redundancy considerations
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+36 Detection before attack hits target
+
+36 If we wish to enable defence we must have intelligence to know
+when attacks enter our national infrastructure
+
+36 Identify Exfiltration / Command and Control
+
+36 Some attacks will slip through or can’t be seen (i.e. shaping)
+
+36 Exploit our temporal advantage - aggressively pursue these
+implants as they will communicate ‘home’ for instruction
+
+36 The Network IS your Defence
+
+36 In some cases, in cooperation with our partners we can affect
+change at the CORE of the Internet on detection:
+
+Modify traffic routes
+
+Silently discard malicious traffic (hygiene filtering)
+
+Insert payload to disrupt adversaries
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+Rationale
+
+36 Keeping pace with the Adversary
+
+36 From the time a malicious PDF is opened, till SEEDSPHERE has
+interactive control of a workstation is <3 minutes
+
+36 There are countless malicious actors (state, crime, generic malware)
+
+36 Gateway / End-Node Defence by itself is insufficient
+
+36 It is only one part of the problem
+
+36 Over 600,000 Apps in the iTunes Appstore (How do you secure that?)
+
+36 Defence in Depth includes network monitoring, and network interaction
+
+36 Build better Defence
+
+36 Our current MO is to resolve one incident at a time
+36 Automate the defence through a robust network capable of not only
+detection, but manipulation of malicious traffic
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+ASSIFICATIO
+
+What does it Mean?
+
+36 EONBLUE will be integrated into the Network
+36 Monitoring Government of Canada
+
+36 Monitoring Core Infrastructure (Special Source) extending the
+reach to view national infrastructure
+
+36 Monitoring foreign Internet Space
+
+36 EONBLUE will enable defensive operations
+
+36 Through robust communication with host-based capabilities
+36 Through direct manipulation of network communications
+36 Through interaction with Teleco infrastructure to affect change
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+
+
+Changing the way we think
+
+IIMIlllWfflWMIl
+
+96 Tipping and Cueing
+
+36 If the purpose is to enable defence of national infrastructure it becomes
+unnecessary in a 5-eyes context
+
+Wc have full visibility of our national infrastructure
+
+The chance of'beating' the internet for latency of an attack is minimal
+
+The network will perform the filtering
+
+96 What if instead T&C enables intelligence collection (Cyber Session
+Collection)?
+
+96 Targeting and Tasking
+
+96 We all share common targets and we will all target using our national capability
+the cyber threats we know about
+
+96 No need for 2ml party tasking / targeting requests. Instead expose cyber
+information across the community
+
+96 What if instead we focus on analytic collaboration and knowledge transfer
+TEXPRO information, federated repositories (malwarc/traffic), etc
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+I
+
+Changing the way we think
+
+36 Foreign SIGINT Intercept
+
+36 Becomes the ‘hunting ground’ for discovery of new threats
+
+36 Enables attribution and counter-intelligence reporting
+
+36 Defence is taken care of by ‘The Network’
+
+36 Mobile Platforms are the next frontier, what is their implication
+on Cyber?
+
+36 Domestic Defence
+
+36 We will exhaust the treasury deploying network appliances to
+perform dynamic defence
+
+36 The same capabilities will be integrated into the CORE of the
+Internet
+
+36 Defence in Depth through complimentary capabilities on end-
+nodes, at the gateway, and in the core of the Internet.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY
+
+9« CASCADE
+
+36 The harmonization ofITS/SIGINT Sensor capabilities
+
+■ft Lays the foundation for long-term integration of Cyber within the
+Cryptologic Enterprise
+
+36 Towards 2015
+
+36 The Network is the Sensor
+
+Defence, Mitigation, Intelligence all formed from a single
+comprehensive network creating a perimeter around Canada
+
+Extending our reach through 5-eyes partnerships to ensure mutual
+defence of national assets.
+
+CLASSIFICATION: TOP SECRET // COMINT // REL FVEY

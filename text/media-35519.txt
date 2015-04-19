@@ -1,216 +1,135 @@
-POISONNUT - WikiInfo
+﻿POISONNUT - Wikiinfo
 
-The accredited security level of this system is: TOP Tn 
-TOP TO USA. FVEY (U) POISONN U-l Adminiba?
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT KEYHOLP//nRmv/PRnPiN/BFi inn/RPi rn tt*;4 fvfv *
 
-POISONNUT
+TOP SECRETJ/SI//REL TO USA, FVEY	(u) POISONNUTAdminibaK
 
+(S//REL) POISONNUT
 
-
-2 This Project page has moved to the: CES 2P
+This Project page has moved to the: CES 2P
 PIQ Wiki
+
 Contents
 
- 
+■	1 (U) Overview
 
-I 1 (U) Overview
-I 2 (U) Development Process and Standards
-I 3 (U) History
-I 4 (U) Current Architecture
-I 4.1 (U) TestinglIntegration
-I 4.2 (U) Developer Resources
-I 5 (U) Future
-I 6 (U) Contact Info
-I 6.1 (U) Related Wiki Pages
-I 7 (U) References
-I 8 (U) See also
+■	2 (U) Development Process and Standards
+
+■	3 (U) History
+
+■	4 (U) Current Architecture
+
+■	4.1 (U) Testing/Integration
+
+■	4.2 (U) Developer Resources
+
+■	5 (U) Future
+
+■	6 (U) Contact Info
+
+■	6.1 (U) Related Wiki Pages
+
+■	7 (U) References
+
+■	8 (U) See also
 
 (U) Overview
 
- 
+(URN info: alias
 
-This page is registered as This applicau'on makes use ofthe
+This page is registered as
 
+go pnut
 
-Java programming language.
-go pnu 
-(URN infm alias 
+	This application makes use of the
+Java	Java programming language.
 
-(TSHSIHREL) POISONNUT, also known as the Virtual Private Network Attack Orchestrator (VAO), is a message driven 
-exploitation service for VPNs with the main focus on Currently, the list of POISONNUT clients includes TURMOIL,
-and the Each POISONNUT client can connect to POISONNUT using ISLANDTRANSPORT. Once
-connected to POISONNUT, clients send and receive XML messages using ISLANDHIDEAWAY.
-
- 
-
- 
-
- 
+(TS//SI//REL) POISONNUT, also known as the Virtual Private Network Attack Orchestrator (VAO), is a message driven cryptologic
+exploitation service for VPNs with the main focus on IPSec. Currently, the list of POISONNUT clients includes TURMOIL,
+WEALTHYCLUSTER and the TEe. Each POISONNUT client can connect to POISONNUT using 1SLANDTRANSPORT. Once
+connected to POISONNUT, clients send and receive XML messages encrypted using ISLANDH1DEAWAY.
 
 (U) Development Process and Standards
 
-POISONNUT follows the LONGHAUL Development Process which uses the NSA Way.
+(U//FOUO) POISONNUT follows the LONGHAUL Development Process which uses the NSA Way.
 
 (U) History
 
-(TSHSIHREL) The VPN Attack Orchestrator (VAO) has existed in various con?gurations since 2003. Originally developed as a
-standalone application by the Network Security Products branch, the later became a key application integrated with
-corporate collection frameworks such as WC2 As of 2006, the Heritage VAO, as it is now known, was stood up inside
-of aJBoss server. In November 2008, a new development effort was stood up in order to increase the throughput and stability of
+(TS//S1//REL) The VPN Attack Orchestrator (VAO) has existed in various configurations since 2003. Originally developed as a
+standalone application by the Network Security Products branch, the later became a key crypt application integrated with
+corporate collection frameworks such as WC2 andTURMOIL. As of 2006, the Heritage VAO, as it is now known, was stood up inside
+of a JBoss server. In November 2008, a new development effort was stood up in order to increase the throughput and stability of
 the VAO. The new VAO system, under the cover term POISONNUT, has a major development milestone scheduled for September
-2009. POISONNUT is the ?rst component which will be available under the LONGHAUL project. This new development is being
+2009. POISONNUT is the first component which will be available under the LONGHAUL project. This new development is being
 undertaken by developers in the T342P and the S31243 VPN Team.
 
- 
-
-(UHFOUO) Modern
-POISONNUT Graphic
-
-(UHFOUO) Early
-VAC) Graphic
+VAO Graphic
 
 (U) Current Architecture
 
-10f2
+1 of 2
 
-POISONNUT - Wikilnfo
+POISONNUT - Wikiinfo
 
-(UHFOUO) The POISONNUT system is composed of several components. Each component is composed of one or more products. A
+(U//FOUO) The POISONNUT system is composed of several components. Each component is composed of one or more products. A
 description of our business model for POISONNUT is available: here.
-(UHFOUO) These are the high level components for the POISONNUT system:
 
-REL
+(U//FOUO) These are the high level components for the POISONNUT system:
 
-ESP Key Rec; Liest
+TS//SI//REL
 
-   
-   
-
-sponge
-
- 
-
-  
- 
-
-ESPRequest
-Dispatcher
-
- 
-    
-    
- 
- 
-  
-
-  
-
-
-
-ESPSiitpUdla-i
-
-SP
-ISLAND HIUEAW A?r?
-
-   
-
-It): In From End
-
- 
-
- 
- 
-
-IKE Phaan
-Processor
-
-  
-
-IKE Pha5e1
-Processor
-
-   
-     
-     
-  
-
- 
-
- 
-
- 
-
- 
-
-IS A 
-ND DEA Pliase?lSiife
-
- 
-
- 
-
-It: Oul
-
- 
-
-(UHFOUO) Lite VPN Summary
-
-    
-   
- 
-
-sage-i IKEMessaga
-
-Dispatde
-
-(TSHREL) Components High Level Design
+(TS//REL) Components High Level Design
 
 (U) Testing/Integration
-I VALIANTSURF i POISONNUT Integration Notes
+
+■	VALIANTSURF / POISONNUT Integration Notes
 (U) Developer Resources
 
-I (U) VAO Developers Calendar;i Meeting Notes
+■	(U) VAO Developers Calendar / Meeting Notes
 
-- (TSHREL) VPN_Metrics
+■	(TS//REL) VPN Metrics
+
 (U) Future
 
-I (U) VAO Client
+- (U) VAO Client
 
 (U) Contact Info
 
-I (UHFOUO) POISONNUT Development Team email alias:
+(U//FOUO) POISONNUT Development Team email alias
 
-  
- 
- 
- 
+(U//FOUO) Jabber Chat Room:_______
 
-I (UHFOUO) Jabber Chat Room:
-- (UHFOUO) group
-I (UHFOUO) Developer AIL
+(U//FOUO) LONGHAUL JSignout group
+(U//FOUO) Developer A/L
 
-(U) Related Wiki Pages
+(U) Related Wlkl Pages
 
-I (UHFOUO) LONGHAUL the Parent Project
+(U//FOUO) LONGHAUL I
+(U//FOUO) SCARLETFEVER I
 
-I (UHFOUO) SCARLETFEVER a Sibling LONGHAUL Project
+[_toe_Parent Project
+
+■ a Sibling LONGHAUL Project
+
 (U) References
 
-I (CHREL) PICARESQUE information about Virtual Private Network Attack Orchestrator
+■	(C//REL) PICARESQUE information about Virtual Private Network Attack Orchestrator
 
 (U) See also
 
-- POISONNUT Experts List 
-- VPN Experts List?
+■	List
 
-Retrieved from
-Categories: Applications using Java URN VPN POISONNUT TechExp projects systems LONGHAUL
+■	Experts
 
-Derived From: SI Classification Guide. 02?01. Dated: 20060711
-and NSNC 88M 1-52. Dated: 200?010Ei
-Declassiiy 0n: 20320108
+from
 
-TOP TO USA, FVEY
+Categories: Applications using Java | URN | VPN | POISONNUT | TechExp projects | Decryption systems | LONGHAUL
 
-20f2
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSAfCSSM 1-52, Dated: 20070108
 
+___________________________________________________________________________________________________________________________________Declassify On: 2032010S
+
+TOP SECRET//SI//REL TO USA, FVEY
+
+2 of 2

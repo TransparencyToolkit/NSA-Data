@@ -1,0 +1,1161 @@
+﻿□
+
+To Protect And Infect
+
+The Militarization of the Internet
+(Part Two; in three acts)
+
+The 30c3 - December 30th, 2013
+
+Jacob Appelbaum (@ioerror)
+
+Act I
+
+(Low end) corporate spying
+
+•	Commercial hardware solutions are rather boring
+
+•	Forensics hardware like the "Mouse Jiggler"
+
+-	Now disabled in systemd (!)
+
+•	Power insertion attacks
+
+-	Hotplug seizures
+
+•	Keystroke recorders
+
+-	largely lame
+
+•	FinFisher, HackingTeam, VUPEN
+
+Rafael is a journalist
+from Angola, who
+exposed corruption
+in the government.
+
+Angola Attack
+
+•	Discovered at Oslo Freedom Forum
+
+•	Lamest OS X backdoor ever
+
+-	Screencapture
+
+-	Curl
+
+-	Sleep
+
+•	Unsuspecting 8 GB of screenshots in the home directory
+
+•	Infrastructure connected with Operation Hangover
+
+-	Appin Security
+
+•	Code signed
+
+-	Apple revoked the signing permissions in a reasonable time frame
+
+In Summer 2013 Rafael was arrested, then
+released and faced 11 criminal charges for his
+work exposing corruption.
+
+These guys aren’t impressive
+
+They do harm to good people and they hand
+wave away their contribution to increasing the
+total amount of human suffering in the world.
+
+'M
+
+sL
+
+Control,
+Baby!
+
+Act II
+
+Intelligence agency "solutions"
+
+Meta-point: "non-attributable to NSA"
+Meta-point: Total surveillance & control in secrecy
+
+The Big Picture
+
+•	Planetary Strategic Surveillance and...
+
+•	Exploitation Systems
+
+•	Passive sensors
+
+•	Collect (TURMOIL)
+
+•	Active attacks
+
+•	Infect (TURBINE, QFIRE, etc)
+
+•	Wait, what about "Protect?!"
+
+•	Multi-pwn!
+
+•	Blackhats used to keep your box updated
+•... these guys step on each other's toes
+
+•	Operations - “Close Access Operations“ and “Off-Net”
+
+(TS//SI//REL) NIGHTSTAND - Close Access Operations •
+Battlefield Tested • Windows Exploitation • Standalone System
+
+System Details
+
+>	(U//FOUO) Standalone tool currently
+running on an x86 laptop loaded with
+Linux Fedora Core 3.
+
+>	(TS//SI//REL) Exploitable Targets
+include Win2k, WinXP, WinXPSPl,
+
+WINXPSP2 running internet Explorer
+versions 5.0-6.0.
+
+>	(TS//SI//REL) NS packet injection can
+target one client or multiple targets on a
+wireless network.
+
+>	(TS//SI//F£iSÎj^fë(^^indetecta6lé by
+the user.
+
+NIGHTSTAND Hardware
+
+(TS//SI//REL) Use of external amplifiers and antennas in both
+experimental and operational scenarios have resulted in successful
+NIGHTSTAND attacks from as far away as eight miles under ideal
+environmental conditions.
+
+How do "they" do it?
+
+•	Dragnet surveillance
+
+•	Data retention
+
+•	~15 years at least, including content!
+
+•	Tasking, exploitation
+
+•	QUANTUM THEORY and how each "solution"
+tries to meet this goal
+
+•	Man-On-The-Side as QUANTUM INSERTION
+
+•	PRISM, “upstream” and many other programs
+
+“They’ll never find me!”
+
+Dream on - Data Retention is an important part of
+total surveillance and the analysis is successful
+
+against us all.
+
+Data totalitarianism or put another way:
+
+totalitarianism
+
+TURMOIL
+
+Deep Packet Inspection
+(Passive dragnet surveillance sensors)
+
+TURBINE
+
+Deep Packet Injection
+
+QFIRE
+
+TURMOIL and TURBINE combined with
+additional infrastructure that they co-opt through
+pwnage of routers and other operations.
+
+Selector Summary:
+
+i,,, —«
+
+Equivalent ID«: 5
+
+		Page 1 of 1
+□		Application
+]	□	eMail
+Mm	n eMail	
+***	n	eMail
+
+4 n im
+
+From wiretapping to whole life surveillance
+
+Example one: German Chancellor Merkel!
+(We revealed this operation in Der Spiegel)
+
+Example two: Political and religious 'untasked'
+targeting for some set of websites
+
+Example three: three hops away? Uh oh!
+
+(That's you!)
+
+This is the militarization of the internet
+
+•	We are under a kind of martial law
+
+•	This strategy is undermining the internet in a
+direct attempt to keep it insecure
+
+•	We are personally and socially left vulnerable
+and actively exploited, literally
+
+•	This is being done in our names with our tax
+money and without our consent; usually without
+the knowledge of our representatives!
+
+•	Those who know usually do not actually
+understand! (eg: Members of the US Congress)
+
+Active exploitation of targets with FOXACID
+
+Selector surveillance leads to exploitation:
+
+•	QUANTUMTHEORY
+
+•	SEASONEDMOTH (SMOTH)
+
+•	QUANTUMNATION
+
+•	VALIDATOR, COMMONDEER
+
+•	QUANTUMBOT
+
+•	QUANTUMCOPPER
+
+•	Think “The Great Firewall of China”
+
+•	Ahem, “The Great Firewall of Earth”
+
+•	QUANTUMINSERT
+
+•	Think Man-on-the-side
+
+TAO infrastructure
+
+•	First they find the target, then they redirect them
+
+•	QUANTUMINSERT and FOXACID
+
+•	Server’s like to pretend that they’re Apache
+servers
+
+•	Implemented in Python, easily fingerprinted
+
+•	A few FOXACID URLs are public
+
+•	Pay attention to the bugs in their
+implementation
+
+When the NSA can’t do it - they bring in GCHQ!
+
+And boy oh boy do they love Yahoo!
+
+TOP SECRETMSI//REL USA, AUS, CAN, GBR, NZL
+
+What is QUANTUM?
+
+QUANTUM Generic Animation - High Level of How It Works
+
+%
+
+Target
+
+5.	FOXACID packet beats the
+Yahoo packet back to the
+endooint
+
+SSO Site
+
+Internet Router
+
+Yahoo’s
+Web Server
+
+*■
+
+k
+
+TAO FOXACID
+Server
+
+Re-purposing hardware and impersonating
+
+infrastructure
+
+Re-purposing unused WiFi hardware
+
+Cell base stations
+
+
+
+
+
+TYPHON HX
+
+Base Station Router
+
+GSM
+
+r
+
+"I
+
+(S//SI//FVEY) Tactical SIGINT elements
+use this equipment to find, fix and finish
+targeted handset users.
+
+(S//SI) Target GSM handset registers with
+BSR unit.
+
+(S//SI) Operators are able to geolocate
+registered handsets, capturing the user.
+
+OTS Range: 75% Probability Range
+
+Tj Dru»afatAtannn Dirt (rlRn)
+
+(S//SI//REL) The macro-class Typhon is a Network-In-a-
+Box (NIB), which includes all the necessary architecture to
+support Mobile Station call processing and SMS
+messaging in a stand-alone chassis with a pre-
+provisioning capability.
+
+(S//SI//REL) The Typhon system kit includes the amplified
+Typhon system, OAM&P Laptop, cables, antennas and
+AC/DC power supply.
+
+(U//FOUO) An 800 WH Li/on Battery kit is offered
+separately.
+
+Typlwu Ha Priced Opliuir*
+
+Deliverable I Duration	IFP COS! en.
+
+i lloi:me I 4Mom.-. |	D1 ft.iW |
+
+Tjpkcn Msdcl/Colcr	Order Codr (& Tsoi Spare kit)
+KxS 3hck CSvti50)	G1WU164 A 0:0041-0
+	0100*16. & iriUV41:l
+Kx>/3Uck .ZOSMSOOj	G100372T & G1O026C3
+IIa* (IG3M50))	G100372« <i uI0020:7
+KxlBZUel (DC11300)	G10O4165 AC 1004141
+KxlSC-rccm CDCS18C0;	G1001162 k £1001128
+KxL&Blxl (PCSIPOO)	G1604166 k £10041-3
+KxlS'Cna (PC SI TOD)	G10W163 A GI004119
+
+(U) A bracket and mounting kit are available upon	(u) Status: Available 4 mos ARO
+
+reauest.
+
+Typhon BSR
+
+BTS Rangs; 75v/o Probability Rangs
+
+1 ■ u b U rt™ B
+
+Typliou Hx Priced Options
+
+I» I Dnndoo	PF^ 2 «JST e-
+
+11:5.800
+
+Delivers bke	Dn.rs.tioo
+1 to 2 3 nalti.	4 Months
+
+Tj-pkon Model Color Order Code (& 1m..	___/
+
+HxS Elad (GSMBSOj
+
+HxS.-'&reen [GSM 650)
+
+Hxfr'Bhcl: (EGSM900)
+
+Hx9/Gieen (EGSM900)
+
+Hm 13.■■Slack <DCS1SOO)
+
+Hx IS Green CDC51EQ0)
+
+Hx 19.31a ¡k CFCS19CÛ)
+
+Hx 1?,'Green [PC 5-1900}
+
+G1Û04164 .fc G1Q&4140
+
+G1Û04161 it G10&413 i
+
+G1Ü03727 x G1002É65
+
+G1003726 & GJOD2Q3 '
+
+G1004165 x G1C04141
+
+G1W41G2 & GJO&4133
+
+GI0H16SÆG1GQ4L42
+
+G100416Î £01004139
+
+(TS//SI//REL) SOMBERKNAVE is a software implant that surreptitiously routes
+TCP traffic from a designated process to a secondary network via an unused
+embedded 802.11 network device. If an Internet-connected wireless Access
+Point is present, SOMBERKNAVE can be used to allow OLYMPUS or
+VALIDATOR to “call home” via 802.11 from an air-gapped target computer. If
+the 802.11 interface is in use by the target, SOMBERKNAVE will not attempt
+to transmit.
+
+(TS//SI//REL) Operationally, VALIDATOR initiates a call home.
+SOMBERKNAVE triggers from the named event and tries to associate with an
+access point. If connection is successful, data is sent over 802.11 to the ROC.
+VALIDATOR receives instructions, downloads OLYMPUS, then disassociates
+and gives up control of the 802.11 hardware. OLYMPUS will then be able to
+communicate with the ROC via SOMBERKNAVE, as long as there is an
+available access point.
+
+m.E3 Eim
+
+ROC
+
+www Random Access Point
+
+SOMBERKNAVE
+
+(software) “Implants”
+
+•	VALIDATOR, COMMONDEER, OLYMPUS,
+UNITED RAKE, STUXNET and many many
+more
+
+•	With payloads for you...
+
+•	#BADBIOS
+
+•	SMM
+
+•	iPhone
+
+•	Routers (Juniper, Huawei, Cisco, etc)
+
+•	SIM cards (remote, local)
+
+•	Hard drive firmware
+
+(TS//SI//REL) STUCCOMONTANA provides persistence for DNT implants. The
+DNT implant will survive an upgrade or replacement of the operating system -
+including physically replacing the router’s compact flash card.
+
+Command, Control, and Data Exfiltration using
+DINT implant Communications Protocol (typical)
+
+Typical Target
+Firewall or Router
+
+MPU J CPU
+
+Operating Syr.tom
+
+System BIOS
+
+^ÈPtStS ÎËNCË
+IMPLANT
+DNT piiylDJd
+
+Target Network
+
+(S//SI//REL) STUCCOMONTANA Concept of Operations
+
+(TS//SI//REL) Currently, the intended DNT Implant
+
+VALIDATOR, which must be run as a user process orLtne target opetting
+system. The vector of attack is the modification of tnte target's BIOS. The
+modification will add the necessary software to the BIOS and modify its
+software to execute the STUCCOMONTANA implant at the end of its native
+System Management Mode (SMM)J&afidler.
+
+ANT Prod
+
+(TS//SI//REL) SWAP provides software application persistence by exploiting the
+motherboard BIOS and the hard drive's Host Protected Area to gain periodic
+execution before the Operating System loads.
+
+(T5//SI//REL) This technique supports single or multi-processor systems running
+Windows. Linux. FreeBSD, or Solaris with the following file systems: FAT32, NTFS,
+EXT2, EXT3, or UFS 1.0.
+
+(TS//SI//REL) Through remote access or interdiction, ARKSTREAM is used to re-
+flash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard
+drive on a target machine in order to implant SWAP and its payload (the implant
+installer). Once implanted, SWAP's frequency of execution (dropping the payload) is
+configurable and will occur when the target machine powers on.
+
+Status: Released / Deployed. Ready for	Unit Cost: $0
+
+Immediate Delivery
+
+m
+
+(TS//SI//REL) DEITYBOUNCE provides software application persistence on Dell
+PowerEdge servers by exploiting the motherboard BIOS and utilizing Systeni
+Management Mode (SMM) to gain periodic execution while the Operating System
+loads.
+
+^^^^^^fTS«SI//REL) DEITYBOUNCE Extended Concept of Operations
+
+(TS//SI//REL) This technique supports multi-processor systems with RAID hardwan
+and Microsoft Windows 2000, 2003, and XP. It currently targets Dell PowerEdge
+1850/2850/1950/2950 RAID servers, using BIOS versions A02, A05, A06, 1.1.0,
+1.2.0, or 1.3.7.
+
+Looking for NSA malware?
+
+Look for samples that implement RC6 and that
+
+emit encrypted UDP traffic.
+
+(TS//SI//REL) DROPOUTJEEP is a STRAITBIZARRE based software implant for
+the Apple iPhone operatinc^^M^nd uses the CHIMNEYPOOL framework.
+DRI^P®W,MiBteioflffl^™!trHhe FREEFLOW project, therefore it is supported
+in the TURBULENCE architecture.
+
+(U//FOUO) DROPOUTJEEP - Operational Schematic
+
+(TS//SI//REL) DROPOUTJEEP is a software implant for the Apple iPhone that
+utilizes modular mission applications to provide specific SIGINT functionality. This
+functionality includes the ability to remotely push/pull files from the device, SMS
+retrieval, contact list retrieval, voicemail, geolocation, hot mic, camera capture, cell
+tower location, etc. Command, control, and data exfiltration can occur over SMS
+messaging or a GPRS data connection. All communications with the implant will be
+covert and encrypted.
+
+iOS
+
+The NSA claims in their QUANTUMTHEORY
+documents that every attempt to implant iOS will
+
+always succeed.
+
+WTF?
+
+(TS//SI//REL) TOTECHASER is a Windows CE implant targeting the Thuraya 2520
+handset. The Thuraya 2520 is a dual mode phone that can operate either in SAT or
+GSM modes. The phone also supports a GPRS data connection for Web browsing,
+e-mail, and MMS messages. The initial software implant capabilities include
+providing GPS and GSM geo-location information. Call log, contact list, and other
+user information can also be retrieved from the phone. Additional capabilities are
+being investigated.
+
+(TS//SI//REL) TOTECHASER will use SMS messaging for the command, control,
+and data exfiltration path. The initial capability will use covert SMS messages to
+communicate with the handset. These covert messages can be transmitted in
+
+GPS - Current Fin , Last Fin, Last 10
+
+GSM - MCC, MHC, LAC, Timing Adu
+
+Identity - IMS I, IMEI
+
+Call Log - Out, In, Missed
+
+Contact List - Names, Phone Numbers
+
+arioijar.-
+
+(U//FOUO) TOTECHASER - Operational Schematic
+
+(TS//SI//REL) IRATEMONK provides.5oftWareapplTcation persistence on desktop
+and laptop computers by implanting the hard drive firmware to gairexecution
+through Master Boot Record (MBR) substitution.- .	-
+
+(TS//SI//REL) This technique supports systems without RAID hardware that boot
+from a variety of Western Digital, Seagate, Maxtor, and Samsung hard drives. The
+supported file systems are: FAT, NTFS, EXT3 and
+
+(TS//SI//REL) Through remote access or interdiction, UNITEDRAKE, or
+STRAITBAZZARE are used in conjunction with SLICKERVICAR to upload the hard
+drive firmware onto the target machine to implant IRATEMONK and its payload (the
+implant installer). Once implanted, IRATEMONK's frequency of execution (dropping
+the payload) is configurable and will occur when the target machine powers on.
+
+Status: Released / Deployed. Ready for
+Immediate Delivery
+
+Unit Cost: $0
+
+(TS//SI//REL) Modern SIM cards (Phase 2+) have an application program interface
+known as the SI Ml Toolkit (STK). The STK has a suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+MONKEYCALENDAR uses STK commands to retrieve location information and to
+exfiltrate data via SMS. After the MONKEYCALENDAR file is compiled, the
+program is loaded onto the SIM card using either a Universal Serial Bus (USB)
+smartcard reader or via over-the-air provisioning. In both cases, keys to the card
+may be required to install the application depending on the service provider's
+security configuration
+
+Unit Cost: $0
+
+(TS//SI//REL) This technique supports single or multi-processor systems running
+Windows, Linux, FreeBSD, or Solaris with the following file systems: FAT32, NTFS,
+EXT2, EXT3, or UFS 1.0.
+
+(TS//SI//REL) Through remote access or interdiction, ARKSTREAM is used to re-
+flash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard
+drive on a target machine in order to implant SWAP and its payload (the implant
+installer). Once implanted, SWAP’s frequency of execution (dropping the payload) is
+configurable and will occur when the target machine powers on.
+
+Interdiction
+
+So-called “off-net’ operations include tampering
+with your hardware while it is being shipped!
+
+They call this process “Interdiction”
+Remember: Don’t forget to check your gear!
+
+Hardware implants
+
+•	Hardware interdiction is used to attack:
+
+•	PCI-BUS
+
+•	i2c bus
+
+•	JTAG (with persistence)
+
+•	Modification of cellphone hardware
+
+•	Modified USB cable and USB ports
+
+•	Modified network cards
+
+•	Lots of interesting custom hardware
+
+(TS//SI//REL) GINSU provides software application persistence for the CNE implant,
+KONGUR, on target systems with the PCI bus hardware implant, BULLDOZER.
+
+v
+
+Field
+
+Network
+
+
+
+KONGUR-1 mptanted
+Computer or Nelwork 'B'
+
+BULL DOZER-Implanted
+Computer on Network 'A'
+
+(TS//SI//REL) GINSU Extended Concept of Operations
+
+(TS//SI//REL) IRONCHEF provides access persistence to target systems by
+exploiting the motherboard BIOS and utilizing System Management Mode (SMM) to
+communicate with a hardware implant that provides two-way RF communication^^
+
+
+
+(TS//SI//REL) IRONCHEF Extended Concept of Operations
+
+(TS//SI/REL) This technique supports the HP Proliant 380DL G
+a hardware implant has been installed that communicates over
+(WAGONBED).
+
+(TS//SI//REL) Through interdiction, IRONCHEF, a software CNE implant and the
+hardware implant are installed onto the system. If the software CNE implant is
+removed from the target machine, IRONCHEF is used to access the machine,
+determine the reason for removal of the software, and then reinstall the software
+from a listening post to the target system.
+
+Status: Ready for Immediate Delivery
+
+Unit Cost: $0
+
+Sabotage of US companies
+
+Do you notice the common theme of sabotaging
+
+companies?
+
+US President Obama’s own advisors recently
+issued a report advising against this strategy.
+
+(TS//SI//REL) MONKEYCALENDAR is a software implant for GSM (Global System
+forjMobile communication) subscriber identify module (SIM) cards. This implant
+pull^jeolocation information from a target handset and exfiltrates it to a user-
+defined phone number via short message service (SMS).
+
+TOP SEC RET//C OMI NT
+
+(U//FOUO) MONKEYCALENDAR - Operational Schematic
+
+GSM Network
+
+çomroi Laptop and
+
+Mormjl Pin one
+
+Ssmiurta SGW-iTiiaOC: pr tforrtad
+
+Incoming Call Numbers
+Outgoing Call Numbers.
+
+Rece fitly- registe red Networks
+Recent LAGS
+Cell Power Irfcriingtton
+Recen! TMSis an-d iMSIs
+Neiwcrfc Aulheoticatior
+
+Challenge Responses
+Recent Succeasiul PlN^s
+PICASSO SjW Version
+
+(TS//SI//REL) COTTON MOUTH-1 (CM-I) is a Universal Serial Bus (USB) hardware implant
+which will provide a wireless bridge into a target network as well as the ability to load exploit
+software onto
+
+COTTONMOUTH - 1
+
+uïn-field" re-
+he USB. The
+
+RF link will enable command and data infiltration and exfiltration. CM-I will also communicate
+with Data Network Technologies (DNT) software (STRAITBIZARRE) through a covert
+channel implemented on the USB, using this communication channel to pass commands and
+data between hardware and software implants. CM-I will be a GENIE-compliant implant
+based on CHIMNEY POOL.
+
+(TS//SI//REL) CM-I conceals digital components (TRINITY), USB 1.1 FS hub, switches, and
+HOWLERMONKEY (HM) RF Transceiver within the USB Series-A cable connector.
+MOCCASIN is the version permanently connected to a USB keyboard. Another version can
+be made with an unmodified USB connector at the other end. CM-I has the ability to
+communicate to other CM devices over the RF link using an over-the-air protocol called
+SPECULATION.	cottonmouth conop
+
+INTERNET Scenario
+
+\
+
+M 'VIH : I h:i ll<
+
+■•rtwrfc Hzruaevsr:
+Iv.jF'i-j-ïJîh
+
+X
+
+1-
+
+\1: 'r V-. '.| i .: l
+
+TWITS
+
+Targoft JOCONUS}
+\ta aI atad Nat work
+
+Status: Availability - January 2009
+
+Unit Cost: 50 units: $1,015K
+
+(TS//SI//REL) COTTON MOUTH-11 (CM-II) is a Universal ^tfjal Bus (USB) hardwar
+Tap, which will provide a covert link over USB link into a targets network. CM-II is in
+to be operate with a long haul relay subsystem, which is co-located within the
+equipment. Further integration is needed to turn this capability into a deployable sys
+
+TS//SI//REL) CM-II will provide software persistence capability, “in-field” re-program
+and covert communications with a host software implant over the USB. CM-II
+:ommunicate with Data Network Technologies (DNT) software (STRAITBIZARRE) th
+:overt channel implemented on the USB, using this communication channel
+:ommands and data between hardware and software implants. CM-II will be a
+:ompliant implant based on CHIMNEYPOOL.
+
+[TS//SI//REL) CM-II consists of the CM-I digital hardware and the long haul relay co
+somewhere within the target chassis. A USB 2.0 HS hub with switches is concea
+dual stacked USB connector, and the two parts are hard-wired, providing a intra-cha
+
+COTTONMOUTH-II is cheap too!
+
+Status: Availability - September 2008
+
+Unit Cost: 50 units: S200K
+
+...unless you count the cost to our liberty!
+
+tnput Ethernet
+Contacts Module
+
+Slacked USB
+Module
+
+Contacts i Rowel Supply PWE
+
+LEDs at Top
+
+Contacts / Power Supp ¡y PWß
+
+LEDs at Top
+
+input Ethernet
+Contacts Module
+
+MÜWLERMON
+RF PWB
+
+Stacked US3
+Module
+
+FIREWALK
+PWB with
+TRINITY IV1CM &
+Broadcom Phy
+
+Heat
+
+Spreader
+
+EWALK is a bi-directional lO/lOO/lOOObT (Gigabit) Etherr
+rithin a dual stacked RJ45 / USB connector. FIREWALK i;
+
+(TS//SI//REL) FIREWALK is a bidirectional network implant, capable of passively collecting
+Gigabit Ethernet network traffic, and actively injecting Ethernet packets onto the same
+target network.
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+GODSURGE
+
+ANT Product Data
+
+(TS//SI//REL) GODSURGE runs on the
+provides software application persistence
+the JTAG debugging interface of the serve"
+
+lant and
+exploiting
+
+06/20/08
+
+(TS//SI//REL) This technique supports Dell PowerEdge 1950 and 2950 servers that
+use the Xeon 5100 and 5300 processor families.
+
+(T5//SI//REL) Through interdiction, the JTAG scan chain must be reconnected on
+the target system by removing the motherboard from the chassis and attaching the
+depopulated parts back onto the circuit board. After this step is complete, the
+hardware implant itself must be attached to the motherboard. The implants should
+already be programmed with the GODSURGE application code and its payload, the
+implant installer. Once implanted, GODSURGE’s frequency of execution (dropping
+the payload) is configurable and will occur when the target machine powers on.
+
+Status: Released / Deployed. Ready for
+Immediate Delivery
+
+Unit Cost: $500 for Hardware
+and Installation
+
+(TS//SWREL) HOWLER MONKEY is a custom Short to Medium Range Implant RF
+Transceiver, it is used in conjunction with a digital core to provide a complete
+implant.
+
+hl ÜWLERMON KEY -
+SUTURESAJ LOR
+
+123' (3125 mm)
+X 0.48" (122 mm)
+
+H ÜWLERMON KEY - YELÜ0WPIN
+
+2~ (5Û.Ûmm)j<ÜYl5' (11.5 mm)
+
+(Actual Size)
+
+HOWLERMONKEY-
+
+Front
+tiack
+
+EU iuRESAILOR
+
+1.2ÖT (30.5 mm)
+x 0.23' (6 mm)
+
+HOWLERMONKEY
+
+FIREWALK
+
+0.É31 (16 mn) n
+0.631 (16 mm)
+
+(TStf SI//REL) HOWLERMONKEY is a COTS-based transceiver designed to be
+compatible with CONJECTURBSPECULATION networks and STR.IKEZONE
+devices running a HOWLERMONKEY personality. PCS layouts are tailored to
+individual, implant space requirement § and can vary greatly inform factor.
+
+implant 1
+
+Distal Core
+
+HOWLERMONKEY
+Transceiver -
+
+implant 2
+
+
+
+		
+	Distal Core	
+		
+-	-HOWLERMONKEY	
+	Transceiver	
+
+Status: Available - Delivery 3 months
+
+Unit Cost:	40 units: $750/ each
+
+25 units: El.000/ each
+
+HOWLERMONKEY -
+SUTURESAILOR
+
+1.23” (31.25 mm)
+x 0.48” (12.2 mm)
+
+HOWLERMONKEY -
+SUTURESAILOR
+
+Front
+
+Back
+
+1.20” (30.5 mm)
+x 0.23” (6 mm)
+
+HOWLERMONKEY - YELLOWP1N
+
+2” (50.8 mm) x 0.45” (11.5 mm)
+
+(Actual Size)
+
+i
+
+HOWLERMONKEY -
+FIREWALK
+
+0.63” (16 mm) x
+0.63” (16 mm)
+
+Whew, it’s all stuff we thought...
+
+Ha, just kidding!
+
+Specialized Philip K. Dick inspired nightmares
+
+•	Continuous Wave generators
+
+•	...beaming into people
+
+•	Huh, no data on human safety for these tools?
+
+•	What happened to Hugo exactly? :-)
+
+•	Room bugs
+
+•	Data exfiltration via active radar
+
+•	Video exfiltration via added hardware with radar
+
+•	Keyboard retro-reflector data exfiltration
+
+•	Location tracking of targets (kill ’em w/drones)
+
+information. Primary uses include VAGRANT and DROPMIRE collection.
+
+that otherwise would not be collectable, or would be extremely difficult to collect
+and process. It provides the following features:
+
+•	Frequency Range: 1 - 2 GHz.
+
+•	Bandwidth: Up to 45 MHz
+
+•	Output Power: User adjustable up to 2 W using the internal amplifier; external
+amplifiers make it possible to go up to 1 kW.
+
+•	Phase adjustment with front panel knob
+
+(U) Capabilities
+
+(TS//SI//REL TO USA,FVEY) RAGEMASTER provides a target for RF flooding
+and allows for easier collection of the VAGRANT video signal. The current
+RAGEMASTER unit taps the red video line on the VGA cable. It was found that,
+empirically, this provides the best video return and cleanest readout of the
+monitor contents.
+
+(U) Concept of Operation
+
+(TS//SI//REL TO USA.FVEY) The RAGEMASTER taps the red video line
+between the video card within the desktop unit and the computer monitor,
+typically an LCD. When the RAGEMASTER isjllun^nated.byL& radaruaiOhe
+illuminating signal is modulated with the red viaemnTormSi^W^^Mmation
+is re-radiated, where it is picked up at the radar, demodulated, and passed
+onto the processing unit, such as a LFS-2 and an external monitor,
+NIGHTWATCH, GOTHAM, or (in the future) VIEWPLATE. The processor
+recreates the horizontal and vertical sync of the targeted monitor, thus allowing
+TAO personnel to see what is displayed on the targeted monitor.
+
+(TS//SI//REL TO USA, FVEY) NIGHTWATCH is a portable computer with
+specialized, internal hardware designed to process progressive-scan (non-
+interlaced) VAGRANT signals.
+
+(U) Capability Summary
+
+(TS//SI//REL TO USA,FVEY) The current
+implementation of NIGHTWATCH consists of
+a general-purpose PC inside of a shielded
+case. The PC has PCI digitizing and clock
+cards to provide the needed interface and
+accurate clocking required for video
+reconstruction. It also has:
+
+•	horizontal sync, vertical sync and video
+outputs to drive an external, multi-sync
+monitor.
+
+•	video input
+
+•	spectral analysis up to 150 kHz to provide for indications of horizontal and
+vertical sync frequencies
+
+•	frame capture and forwarding
+
+•	PCMCIA cards for program and data storage
+
+•	horizontal sync locking to keep the display set on the NIGHTWATCH display.
+
+•	frame averaging up to 2A16 (65536) frames.
+
+(TS//SI//REL TO USA.FVEY) Data RF retro-reflector. Provides return
+modulated with target data (keyboard, low data rate digital device) when
+illuminated with radar.
+
+U) Capabilities
+
+TS//SI//REL TO USA,FVEY) SURLYSPAWN
+as the capability to gather keystrokes without
+equiring any software running on the targeted
+ystem. It also only requires that the targeted
+ystem be touched once. The retro-reflector is
+ompatible with both USB and PS/2 keyboards,
+he simplicity of the des^n^tmws the form
+actor to be tailored for specific operational
+equirements. Future capabilities will include
+aptop keybo;
+
+U) Concept of Operation
+
+TS//SI//REL TO USA,FVEY) The board taps into the data line from the
+eyboard to the processor. The board generates a square wave oscillating at
+preset frequency. The data-line signal is used to shift the square wave
+requency higher or lower, depending on the level of the data-line signal. The
+quare wave, in essence, becomes frequency shift keyed (FSK). When the
+nit is illuminated by a CW signal from a nearby radar, the illuminating signal
+s amplitude-modulated (AM) with this square wave. The signal is re-radiated,
+here it is received by the radar, demodulated, and the demodulated signal is
+rocessed to recover the keystrokes. SURLYSPAWN is part of the
+NGRYNEIGHBOR family of radar retro-reflectors.
+
+(TS//SI//REL TO USA,FVEY) Beacon RF retro-reflector. Provides return
+when illuminated with radar to provide rough positional location.
+
+(U) Capabilities
+
+(TS//SI//REL TO USA,FVEY) TAWDRYYARD is
+used as a beacon, typically to assist in locating
+and identifying deployed RAGEMASTER units.
+Current design allows it to be detected and located
+quite easily within a 50' radius of the radar system
+being usej^y&iNUBiMe it. TAWDRYYARD draws
+as 8 pA at 2.5V (20pW) allowing a standard lithiu^
+coin cell to power it for months or years. The
+^^l^^fthe design allows the form factor to
+be tailored for specific operational requirements.
+Future capabilities being considered are return of
+GPS coordinates and a unique target identifier and
+automatic processing to scan a target area for
+presence of TAWDRYYARDs. All components are
+COTS and so are non-attributable to NSA.
+
+(U) Concept of Operation
+
+(TS//SI//REL TO USA,FVEY) The board generates a square wave operating
+at a preset frequency. This square wave is used to turn a FET (field effect
+transistor) on and off. When the unit is illuminated with a CW signal, the
+illuminating signal is amplitude-modulated (AM) with the square wave. This
+
+sinnal is ra-radiatad whfirfi it is nir.kad un hv tha radar than nmnassad tn
+
+(S//SI) Hand held finishing tool used for geolocating targeted handsets
+in the field.
+
+(S//SI) Features:
+
+•	Split display/controller for
+flexible deployment
+capability
+
+•	External antenna for DFing
+target; internal antenna for
+communication with active
+interrogator
+
+•Multiple technology
+capability based on SDR (s//si) waterwitch Handset df set
+
+Platform; currently UMTS, with GSM and CDMA2000 under
+development
+
+•	Approximate size 3” x 7.5” x 1.25” (radio), 2.5” x 5” x 0.75”
+(display); radio shrink in planning stages
+
+•	Display uses E-Ink technology for low light emissions
+
+Happy New Year!
+
+Thanks for your material support!
+
+•	Andy Müller-Maguhn
+
+•	Eric Holder (Jr)
+
+•	Emperor Alexander
+
+•	Julian Assange
+
+•	Laura Poitras
+
+•	Marcel, Judith, Christian, Holger, Jorg and others Der Spiegel
+
+•	US President Obama
+
+•	The brave people who came forward to tell us their stories
+- Especially our anonymous supporters, thank you!
+
+We encourage you to visit Der Spiegel Online for our
+extensive coverage in English and German!
+
+Thank you!
+
+Questions?
+
+“Resistance isn't futile, it's the new mode of participation
+
+Act III? - It's up to you!
+Leak more documents!

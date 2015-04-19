@@ -1,401 +1,2196 @@
- What Your
+﻿(s//si//rel) What Your
+
 Mother Never Told
 You About SIGDEV
+Analysis^^^^^^^
 
-Ana'ys's?
-Net Pursuit
+SSG21 Net Pursuit
 Network Analysis Center
 
- 
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20370401
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
-
- 
-
- 
-
-i Wm USA, Aus, CAN, GBR, NZL
-
- 
-
-a;
-
-
-What have I learned in
-
+(U//FOUO) What have I learned in
 my first two years in
-to understand the data that
+
+S(U//FOUOYlMp6rtant to understand the data that
 
 you are searching against
 
-Important to understand the hidden
+S	(S//SI//REL) Important to understand the hidden
 treasures and nuances in various SIGDEV tools
 
-Nothing is 100%: there are always
+S (U//FOUO) Nothing is 100%: there are always
 exceptions to the tools and the rules
 
-Took a network view of VPNs
+S (S//SI//REL) Took a network view of VPNs
 
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
-
-a;
-
-
-Makes
-
+(TS//SI//REL)What Makes
 SIGDEV Analysis Challenging?
 
-Requires knowledge 
-Access and collection
-Network protocols
-Routing
+^ (u//fouo) Requires knowledge of
+" (s//si//rel) Access and collection
+^ (s//si//rel) Network protocols
 
+" (s//si//rel) Routing
+" (ts//si//rel) Encryption
 
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
-
-a;
-
-
-Challenges 
-
-Technical jargon and abbreviations
-IPSEC
-IKE
-MPLS
-PSK
-PPTP
-
-GRE
-Cisco commands
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
+ECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
 
 
-Tools
-=4 How to use them
-Knowing that they exist
+(U//FOUO) Challenges etc....
 
-=4 Multiple query languages
-SQL for TOYGRIPPE
+(TS//SI//REL) Technical jargon and abbreviations
+" IPSEC
+" IKE
+" MPLS
+" PSK
+" PPTP
+" L2TP
+"GRE
 
-Oracle Text Query in DISCOROUTE
-=4 Quantity
+" Cisco commands
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TOP TO USA, AUS, CAN, GBR, NZL
+(TS//SI//REL)Challenges etc....
 
-Wm USA, AUS, CAN, GBR, NZL
+(S//SI//REL) Tools
 
- 
+=■ How to use them
 
-a;
+=■ Knowing that they exist
 
+^ Multiple query languages
+- SQL for TOYGRIPPE
 
-Tools
+=• Oracle Text Query in DISCOROUTE
+=■ Quantity
 
-DISCOROUTE
+(U//FOUO) Tools
 
-BLACKPEARL
+^ DISCOROUTE
+^ BLACKPEARL
+^TOYGRIPPE
+^GNETWORK GNOME
+^ NKB & RONIN
+^ XKEYSCORE
+^ TREASUREMAP
+^ RENOIR
+^ ....and more....
 
-TOYGRIPPE
+(s//si//rel) Building Network
 
-GNETWORK GNOME
-NKB RONIN
+BLACKPEARL>CKPEAR^ow|edge
 
-XKEYSCORE
+toygrippeoygrtppe
 
-TREASUREMAP
+xkeyscoreeyscore
 
-RENOIR
+Maximize the overlap of the tools for
 
+success
 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-
-WSWREL) Building Network
-OW I ed 9 
-
- 
-
-
-
-XKEYSCOKEEYSCORE
-
-Maximize the 0' of the tools for
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
- 
-
-a;
-
-
-L)
+(S//SI//REL)
 
 DISCOROUTE
 
-router configuration database
+NAC's router configuration database
 
- 
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
 
 
- DISCOROUTE
+(U//FOUO) DISCOROUTE
 
-(C) NAC project to acquire, parse, database
+^ (C) NAC project to acquire, parse, database
 and display configuration files from network
 devices
 
-(C) Allows to mine device configs for
+^ (C) Allows analysts to mine device configs for
 SIGDEV discovery
 
-Router confi'
+Router configs are a rich source
 
- 
+of
 
- 
+network and VPN information
 
-   
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-a rich source
+(S//SI//REL) DISCOROUTE
 
- 
-
- 
-
-network an i information
-
- 
-
- 
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
-
-a;
-
-
- 
-because they all
-
+= rS//SI//RtLTAfnPs ar^important because they all
 belong to a device and they all have a purpose in
 the network
 
-Search for
-Endpoint 
-Loopback 
-Opposite end of a point-to-point connection
-found in pings and telnets
+=* (S//SI//REL) Search for
+^ Endpoint IPs
+^ Loopback IPs
 
-Make note of the source and
-destination of the config
+^ Opposite end of a point-to-point connection
+^ IPs found in pings and telnets
 
- 
+^ (S//SI//REL) Make note of the source and
+destination IPs of the config
 
-TOP TO USA, AUS, CAN, GBR, NZL
+(U//FOUO) DISCOROUTE
 
-Wm USA, AUS, CAN, GBR, NZL
+=* (U//FOUO) Country ^^	^
 
- 
+^ (U//FOUO) IP Search
+^ (U//FOUO) Text Query
+^ (TS//SI//REL) Manifest Tag Selection
+=■ K - Crypto Keys
+^ H - TAO Pop
+^ M - Multihop
+^ (S//SI//REL) VPN report
 
-a;
-
-
-DISCOROUTE
-Cou?r?a  
-
-lP Search
-
-Text Query
-
-Manifest Tag Selection
-Keys
-TAO Pop
-Multihop
-
-VPN report
-
- 
-
-TOP TO USA, AUS, CAN, GBR, NZL
-
-Wm USA, AUS, CAN, GBR, NZL
-
- 
-
-a;
-
-
-DISCOROUTE: Country
+(S//SI//REL) DISCOROUTE: Country
 
 Search
 
-lPGeo lookup on every IP address
+^ (S//SI//REL) IPGeo lookup on every IP address
 that is parsed
 
-Configs with only private will
+(S//SI//REL) Configs with only private IPs will
 not show up in the results of a country search
 
- 
+(s//si//rel) DISCOROUTE: Searching for IP
 
-TOP TO USA, AUS, CAN, GBR, NZL
+-	(S//SI//REL) Text query IP search
 
-TOP TO USA, AUS, CAN, GBR, NZL
+-	searches through the payload
 
- 
+-	If you only search using this field, then you will miss
 
-a;
-
-
-DISCOROUTE: Searching for IP
-
-TextAdBd/ne sees
-
-searches through the payload
-
-If you only search using this field, then you will miss
-configs that have your of interest as the source and
+-	configs that have your IPs of interest as the source and
 destination address
 
-configs where your IP falls within the range of the interface mask
+-	configs where your IP falls within the range of the interface mask
 
-IP address field search
+-	(S//SI//REL) IP address field search
 
-searches through the parsed file
+-	searches through the parsed file
 
-If you only search using this field, then you will miss configs with
-your of interest in pings, telnets, arp commands
+-	If you only search using this field, then you will miss configs with
+your IPs of interest in pings, telnets, arp commands
 
- 
+(S//SI//REL)	DUTE Search IFeb
 
-TOP TO USA, AUS, CAN, GBR, NZL
-
-i
-
-DISCOROUTE Search 1Feb
 to 13 Apr:
+
+
+
+(S//SI//REL)
 
 in the payload
 
-3 results
+^ 3 results
 
-IP Address Search: searching for the IP in the
+^ (S//SI//REL) IP Address Search: searching for the IP in the
 parsed file
 
-Exact lP search
-De-duped by most recent
-28 results (27 had as the source IP)
-Somalia Country search: 66 results
-(12 of those had a source IP of?)
+^ Exact IP search
+^ De-duped by most recent
 
-Difference: lP was the source IP for configs more
+^ 28 results (27 had	as the source IP)
+
+^ (S//SI//REL) Somalia Country search: 66 results
+(12 of those had a source IP
+
+=■ (S//SI//REL) Difference: IP was the source IP for configs more
 times than it occurred in the payload data
 
-7
+(s//si//rel) Why fewer configs for
 
-Why fewer configs for
-
-in the Country
+in the country
 
 search?
 
-12 as opposed to 27
-Geo location fo?
+^ (S//SI//REL) 12 as opposed to 27
 
+^ (S//SI//REL) Geo location
 was Hong Kong for a period of time
 
-Geo is assigned to router configs
+^ (S//SI//REL) Geo is assigned to router configs
 at the time of ingest and not changed if the IP
 location is corrected
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
+XS//sj^/rèl) Data Found in a Text Query:
+Inne-rJNetwork IPs in a Huawei Config
 
-
-Data Found in a Text Query:
-
-<lLetwork in a Huawei Config
-
+<LNC>dis firew se
 04:19:05 2011/06/18
-Current total sessions 19
+Current total sessions : 19
+udp VPN: public -> public!
 
-udp VPN: public public?
+Inner IPs
 
- 
+Press CTRL+K to abort
+Connected to
 
- 
+INT//REL TO USA, AUS, CAN, GBR, NZL
 
- 
+(s//si//rel) DISCOROUTE
 
-lnner 
+^ (TS//SI//REL^ H -TAOmasapresehceOh the router
 
- 
+^ (S//SI//REL) M - multihop router. The admin telnetted
+into a router and then telnetted again to another
+device. Potential goldmine of information about your
+network, but be careful when looking through them to
+make sure you are associating an IP with the correct
+device.
 
- 
+=• (TS//SI//REL) K - crypto keys
 
- 
+(s//si//REL) VPNs in Router
 
- 
+Confias
 
- 
+^ (ts//si//rel) DISCOROUTE sets manifest tags to
+'K' for configs with crypto information
 
-Press to abort
+^ (s//si//rel) Separate parsers developed for each
+vendor to pull out the endpoints and the pre-
+shared keys
 
-Connected to_ 
+^ Cisco
+^ Huawei
+^Juniper
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-QueStion 
+^HS/Sty/REL) VPN Information in a Cisco
 
-SSG22
+(S//SI//REL) EndpointCoPSKssjand Description Fields
+
+crypto isakmp key VpnsAreCool address
+
+crypto map VPNS-ROCK 10 ipsec-isakmp
+set peer^^^^^^^l
+
+interface Tunnell
+
+description Tunnel TO theStars
+bandwidth 512
+ip address
+
+ip tcp adjust-mss 1350
+load-interval 30 keepalive 5 2
+tunnel source
+tunnel destination
+crypto map VPNS-ROCK
+
+TOP SECRET//COMINT//REL
+
+CAN, GBR, NZL
+
+ECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REDVPN Information in a
+
+(S//SI//REL) Netstri
+
+rname&».SNMYiP Community &
+>omain Names
+
+Username deb privilege 5 password 7
+082C495A0C1617
+
+snmp-server community dancer RW 70
+snmp-server community tangosnmp RW 60
+
+ip domain name lifesabeach
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+s//si//rel) VPN Information in a
+
+#	ike proposal 60 authentication-a
+
+#	ike peer e ---- More ----.[42D .[42
+exchange-mode aggressive pre-shared-key GoHokies
+ike-proposal 60
+
+undo version 2
+local-id-type name
+remote-name svn
+remote-address
+
+remote-address authentication-address
+nat traversal
+
+#	ipsec proposal GoHokies
+
+#	ipsec policy helloworld 60 isakmp
+security acl 3060
+
+ike-peer proposal GoHokies
+
+#	interface Virtual-Templatel ---- More ----.[42D .[42D
+ip address
+
+remote address pool l
+
+#	interface GigabitEthernet0/0/0
+ip address
+
+#	interface GigabitEthernet0/0/l
+description GigabitEthernet0/0/l Interface
+ip address
+
+ipsec policy helloworld
+
+7“ ei Config
+
+O
+
+ECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) VPN Information in ajuniper
+Config
+
+set ike gateway "BadguyVPN" addressMain outgoing-interface "untrust" preshare
+"xGe7YOYfNx3DNGsp4GCq+fgCdondsCBQtVwo/3YfCvbR7zJyDUewVD4=" proposal "pre-g2-3des-sha" "pre-g2-
+3des-md5"
+
+set ike gateway "BadguyVPN" cert peer-ca all
+
+set ike gateway "BadguyVPN Backup" addressMain outgoing-interface "untrust" preshare
+"YWZpKbUvNGQvCbsiXdCwv3pxRDnLEAxo9877SfJFLBgg9utCdSyYPPI = " proposal "pre-g2-3des-sha" "pre-g2-
+3des-md5"
+
+set ike gateway "To Mouse" addressMain outgoing-interface "untrust" preshare
+"fn3VG5ElNI+amHsDeyChciqYVHnuTsbj4w= = " proposal "pre-g2-3des-sha"
+
+set ike respond-bad-spi l
+
+set vpn "BadguyVPN" gateway "BadguyVPN" no-replay tunnel idletime 0 proposal "nopfs-esp-3des-sha"
+set vpn "BadguyVPN" monitor optimized rekey
+set vpn "BadguyVPN" id 5 bind interface tunnel.3
+
+set vpn "backup BadguyVPN" gateway "BadguyVPN Backup" no-replay tunnel idletime 0 proposal "nopfs-esp-
+3des-sha" "nopfs-esp-3des-sha" "nopfs-esp-3des-sha" "nopfs-esp-3des-md5"
+
+set vpn "backup BadguyVPN" monitor optimized rekey
+
+set vpn "backup BadguyVPN" id 4 bind interface tunnel.l
+
+set vpn "From Rat" gateway "To Mouse" no-replay tunnel idletime 0 proposal "nopfs-esp-des-md5"
+set vpn "From Rat" monitor optimized rekey
+set vpn "From Rat" id 6 bind interface tunnel.2
+
+(s//si//rel) VPN Report Search
+
+^ (S//SI//REL) Some of
+in...
+
+
+
+hat you can search
+
+^ Country
+^ IP Address
+^SIGAD/Case Notation
+^ Descriptions: crypto map and interface
+^ Netstrings: Username, Domain Name
+^ Pre-shared keys
+^ Device Hostname
+^TAO Project Name
+
+(S//SI//REL)
+
+DISCOROUTE VPN
+
+
+
+Dr>rvrv H-
+
+Query Reports
+
+VPN Report Form
+
+Click ttf— Maxtor text sty
+
+NKB HOME
+
+Network Mgmt Query Wiki Feedback
+
+Query Results
+
+2012-03-14 00:00
+
+End Date:
+
+2012-04-13 23:59:59
+
+<S> DO I O LOdd Dddr O Entire DdidDdêe
+
+Secdnd level
+
+Third level
+Fdurth level
+Fifth level
+
+Route Reports
+
+Hostname:
+
+5IGAD:
+
+Case:
+
+Country:
+
+TAO Project Name ®:
+Session ID:
+
+Pre-5hared Keys:
+Snmp Community:
+Interface Descr:
+Crypto Descr:
+Username:
+Domain Name:
+
+IP Address	
+IP Address:	
+	(1.2.3.4)
+□ Tunnel Source	□ VPN Source
+□ Tunnel Dest	□ VPN Remote
+□ Interface	
+
+Generate Report Generate Report in New Window Clear Panel
+
+Powered by the SIGDEV Lab
+Version Number: 2.17 New!
+
+|\|Ap Last Modified Date: March 28, 2012
+
+----- Last Reviewed Dr'*"-	'i° 'im
+
+Content Steward|
+
+Page Publisher:
+
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+jg#, i
+
+
+
+DiscoRoute
+
+Query Reports Niw! Network Mgmt Query Wiki Feedback
+
+VPN Report Form
+Query Results
+
+DiscoRoute Reports
+
+Session ID: 1332289408998
+
+Hostname Vendor Sigad	Case Notation	Collection Source	Country TAO Project	TAO Pop
+IBL_Baghdad_Router cisco USJ-7S9A	E9BDJ00000M0000	cu  o  >-  ai  X	LB	No
+
+Interfaces
+
+Interface ID		Network Mask Description
+LoopbackO		255,255.255.255 voice traffic
+FastEthernet0/0		255,255.255.240 Connected To ASA/Firewall
+Fast Ethernet 0/1		255,255.255.24S Connected To 2MB DSL
+SerialO/l/O	■	255,255.255.240 Connected To DVB	|
+
+Tunnels
+
+Description
+
+Tunnel TO Beirut
+
+Tunnel TO Beirut
+
+Tunnel TO Beirut
+
+Tunnel TO Beirut
+
+VPN Peers
+
+VPN Type	PSKs	Description
+ppsec	Ibl Baghdad	
+ipsec	IblvoiceVpn	
+ipsec	Ibl Baghdad	
+ipsec	IblvoiceVpn	
+ipsec	Ibl Baghdad	
+ipsec	IblvoiceVpn	
+ipsec	Ibl Baghdad	
+ipsec	IblvoiceVpn	
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+(s//si//rel) VPN Report
+
+-	<ts//si//re	PN report as a start but not as the
+
+final answer for VPNs from a country or a SIGAD
+
+-	(C) Query in different ways to make sure you get as much
+of the data as possible
+
+-	(TS//SI//REL) Depending on your scenario you may want to
+start with a country search, an IP range or a descriptive
+term
+
+VPN Peers Section contains the
+endpoint IPs for your VPN which
+can be entered into TOYGRIPPE
+
+(S//SI//REL) Description &Net Strings
+Searches
+
+^ (S//SI//REL) Suppose you do a general VPN report
+query
+
+^ Search by country
+^ Search by SIGAD
+^ (S//SI//REL) Find a VPN of interest
+
+^ (S//SI//REL) Analyze the NetStrings and the
+description fields
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) NetStrings
+
+="^S7/Si//REL) UCa follow-on VPN report using a
+netstring specific to your network
+^Snmp community string: pegasus
+^ Domain name: badguy.com
+^ Username
+
+^ (S//SI//REL) Search ROYALNET
+
+^ Analytics to find other netstrings related to your
+target
+
+^ Analytics to find links likely to carry your
+target's communications
+
+
+
+(U//FOUO)
+
+BLACKPEARL
+
+(S//SI//REL) NAC tool enabling automated DNI link and
+network characterization against survey collection
+across the SIGINT system
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) BLACKPEARL
+
+^(0//FOQu) 'General Query
+(S//SI//REL) Customized reports
+^VPN report
+^ DNI Access Essentials
+^ MPLS report
+^ Five Tuple Report
+
+(S//SI//REL) BLACKPEARL IP
+
+^ Interface IPs
+Loopback IPs
+
+Source or destination IPs of the router config
+file
+
+Inner network IPs
+Analyze other IPs on the link
+
+(U//FOUO) BLACKPEARL
+
+(S//SI//REL) Search 'All traffic' and include
+subchannels and tunnels if no results found
+under limited search
+
+^ (S//SI//REL) If link is identified as MPLS then
+look at the other IPs in inner labels, if present
+
+^ (S//SI//REL) Use BLACKPEARL for finding
+access and gathering information on your
+network
+
+(s//si//rel) Search for Inner
+Tunneled IPs
+
+^ (s//si//rel) Query BLACKPEARL with an endpoint
+IP
+
+^ Find other tunneled IPs - inner network IPs that
+you can do follow on searches
+
+^ (s//si//rel) Query DISCOROUTE with any new IPs
+found
+
+^ (ts//si//rel) Success: Discovered information on
+Somalia's Hormuud network
+
+(ts//si//rel) Example: Hormuud
+Network
+
+^ (S//SI//REL) Began with loopback IPs from a
+spreadsheet
+
+^ (S//SI//REL) Found configs for 2 of the 12
+loopbacks in a text query in DISCOROUTE
+
+and	were in the payload
+
+but not parsed
+
+^ (S//SI//REL) Took the IPs from those configs
+and found other configs, one with hostname
+'LNS'
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+c&JSiJJREW£A2
+
+KPEARL hit on LNS IP
+
+^ Inner IPs in L2TP tunnels
+
+^ DR search for inner IPs from the L2TP tunnels
+and found more configs
+
+^ (UJJFOUO) Many of the configs were multi-hop
+
+^ (SJJSIJJREL) Information compiled forTAO
+^ -400 IPs for over 50 devices
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+L2TP tunnel
+Number of Five Tuples
+
+C* I i ^i^efcWress-j
+
+: 1 I I
+
+
+
+Dest Address
+
+Source Port
+
+IeveI
+
+□est Port
+
+Next Protocol
+
+% Packets
+
+22
+
+4S27
+
+TCP (6)
+
+100.□
+
+L2TP tunnel
+
+Number of Five Tuples: 6
+
+
+
+and Destination Address =
+
+# Pad
+
+43
+
+Source Address
+
+Dest Address
+
+.Source Port
+
+IeveI
+
+IeveI
+
+Dest Port
+
+Next Protocol
+
+% Packets
+
+9101
+
+6006
+
+6000
+
+6006
+
+6000
+
+6000
+
+53771
+
+53779
+
+£3059
+
+53783
+
+53778
+
+53782
+
+TCP (6)
+TCP (6)
+TCP (6)
+TCP (6)
+TCP (6)
+TCP (6)
+
+67.2
+8.6
+6.0
+6.9
+
+5.2
+
+5.2
+
+# Pad
+
+39
+
+5
+
+A
+
+4
+
+3
+
+3
+
+L2TP tunnel
+
+Number of Five Tuples: 2
+
+Source Address =
+24 total packets
+
+land Destination Address =
+
+#	Source Address	Dest Address	Source Port	Dest Port	Next Protocol	% Packets
+
+# Pad
+
+23
+
+23
+
+3078
+
+3080
+
+TCP (6)
+TCP (6)
+
+83.3
+
+16.7
+
+20
+
+4
+
+Content Steward:!
+
+General Support: Contact the Mission Support Team|
+
+Contact Us
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+FrtJ:	SÛ4fi^!0	ftct QroviME b. Htffrjh££l Cl Mötifi C-M
+
+me
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(U//FOUO) TOYGRIPPE
+
+(S//SI//REL) VPN Metadata Repository
+
+(S//SI//REL)Building VPN Network
+Knowledge
+
+^ (S//SI//REL)VPNs are part of a larger network
+
+^ (S//SI//REL)Inner or tunneled IPs are a peek
+inside the target's network
+
+^ (S//SI//REL)Beneficial to look beyond the
+endpoints of your VPN
+
+^ (S//SI//REL)Combine information from as many
+SIGDEV databases as you can
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(U/FOUO) TOYGRIPPE
+
+^(U/PO"UOpSea?c h 3 months at a time
+
+(U//FOUO) Keep going back in time if no results
+found
+
+^ (S//SI//REL) Take endpoint IPs found here and
+search in
+
+^ DISCOROUTE -- device information
+^ BLACKPEARL -- inner tunneled IPs
+^ (S//SI//REL) Country report
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(u//Fouo) TOYGRIPPE
+
+i,'tS77Sl7/REO Make note of other connections to the
+IP of interest and search for them separately
+
+^ (S//SI//REL) You might not find what you are looking
+for, but it still may be important
+
+^ (S//SI//REL) Convert the target domain name to
+hex and search for it in the idData field
+^ badguy.com „ 6261646775792e636f6d
+^ (idData LIKE '%6261646775792e636f6d')
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(u//Fouo) Endpoint IP
+
+■^(TS//SI//REL)Query each IP in TOYGRIPPE
+separately
+
+^Try to determine the importance of the
+connections
+
+^ Note other VPN connections: all IPs are
+important until proven otherwise
+
+^ (TS//SI//REL)Success: Discovered Iranian
+corporate intranet
+
+(S//SI//REL) Building a VPN
+
+Intranet:
+
+Searching back through
+
+Izmir	Malaysia
+
+TOYGRIPPE
+
+Istanbul
+
+Ankara	A|| branches of the same company.
+
+Hub was in Tehran.
+
+Armenia
+
+South Korea
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+y
+
+(S//SI//REL) Finding Suspicious VPN
+
+Connections
+
+Izmir
+
+Istanbul	<-
+
+■ ■
+
+Ankara
+
+Malaysia
+
+Armenia
+
+South Korea
+
+(TS//SI//REL)Two connections outside the target company
+
+ECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) Discovery of a Data
+
+Center
+
+(S//si//rel) Discovery of a Data
+
+Center
+
+>
+
+...and when I did a follow on
+search in TOYGRIPPE for IP C.
+
+.I only found it only established
+VPN connections to IP A
+
+Later	discovered that IP C belong«  another countr	ed to a data center ir  y	1
+	k	k J	
+			
+
+(S//SI//REL) Search for other
+end of the point-to-point
+
+^ (S//SI//REL) WhaEOionaireadlOiaKe VPN endpoints
+from a GNOME report or a TOYGRIPPE search
+
+=• (S//SI//REL) Search for that IP in the DISCOROUTE
+VPN report GUI - you don't find it
+
+^ (S//SI//REL) Try to search for the other end of what
+would be a point-to-point connection in DISCOROUTE
+to find the customer edge router
+
+^ (S//SI//REL) END GOAL: find more information about
+the network
+
+(S//SI//REL) Customer Edge
+
+Routers
+
+
+
+(U//FOUO)
+
+NKB and
+
+(S//SI//REL) NKB is NSA's Network Knowledge Base
+delivering target communications' DNI and
+enrichment data
+
+(S//SI//REL) RONIN is a device characterization
+database and one of the enrichments to NKB
+
+(U//FOUO) NKB
+
+^ (S//SI//REL) RONIN data
+
+^ Server Analytics: VPN identified through
+
+application layer information in ASDF
+=* Wiki: VPN Metadata in ASDF
+
+"’VPN Analytics: endpoint in TOYGRIPPE
+
+” Router Config: new descriptive information
+coming soon to include tunnel & VPN
+information for IPs
+
+” Example: Kenya VPN
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+^^^SZ/Si/y^EL) NKB Search for
+De
+
+\/irö
+
+> MS: HOB«
+
+[■nierfaee «GUTE«
+
+Hnf ^ i I r-
+
+MC H: Hi--.,*»
+
+vimnwfrii ,f
+
+Sarjici
+
+fariHrhc«: route a
+
+CD
+
+H HÜ Lift'»
+Lnterfacii: ROUTES:
+
+
+
+interface: server
+
+j
+
+LnCc-rfac®:tK
+
+m
+
+H gnclkkgri
+[nteffae-e- ROUTES
+
+m
+
+H anjwaro-
+
+Enierface: route«
+
+CD
+
+Hardware
+
+[nC^rfaca: ROUTER
+
+CD
+
+IP ROUTEiFctltod &v
+
+F-SS- C elhernel: LR
+
+vpTi: rteu-i
+
+vf*N M^C3
+
+rast eihemeiilR
+
+-ID
+
+ynfcngwn: "P
+
+unfcnnwn: IP
+
+B
+
+
+
+VPN Et»
+
+Dfllia^auri'P 3 Srrvti r/EIrwU-p 3
+
+
+
+
+
+R-Sh IN
+
+BSUlLi
+
+PJtnlN
+
+BGHJN
+
+SCH IN
+
+BEUU
+
+Hardware
+
+Jnfte ildce :ROUT E i
+
+Hardware
+liY»i1ate ROUTED
+
+Hardware
+Ino* dace routed
+
+Hardware
+
+lownaia route*
+
+5e™.ca
+
+Inr.-e date ROuT GJi
+
+Harüwar«
+
+Irro dace. ROUTE*
+
+Service
+
+Ini'.- rt eit a :e£r^EP
+
+■iflrvita-
+
+Imeda« SERVER
+
+fast
+
+rthcrn«l:IP
+
+!■* r i ■ p r- rl I r ■%.	3
+
+counfr-l
+io
+
+;r-I
+
+fast
+
+aiTierdit: IP
+
+Unknown; IP
+
+Unknown: |P
+
+:p
+
+ROUTE iftflJlfid
+
+6*
+
+fast
+
+9tti0iri*t:|P
+
+kt£Mt t* Ev 1
+
+■-■PN Cl«S
+
+L ümiiiinili
+
+is j«yiced by interface
+EasiEtt’^meT'S" on tha Cis c
+
+nwdel "tS70"J n«mask|__________
+
+dnsniptiM “— 7* Ml pfpyidcT .
+
+founds
+
+fount*!
+
+iO
+
+IP
+
+count -1
+
+Ql9Cr"
+
+and
+
+|n serviced by intarface
+'EastEtherner*" on tna Osc
+model "(37(i"J ^ dn nau<iaskl
+dastnpeiort — To DSl cmytrfar".
+
+nticlM
+
+and
+
+_________________|ix xervicc-d by intarfoco
+
+T,itEBi*i ......H- -r-- on. (ha	rovterngm*^
+
+"caTfl ". With natmask
+
+________________and de-sonpacM. "— To DSL pmovider".
+
+fOunry Cd^COROUTEl________________________________
+
+'FaiCEtfi
+
+POlint- 1
+
+isa
+
+count1- 1
+
+|ic "jif viced by interface
+
+..N.fl__riot4-" on the Ci^kp mutiar
+
+, model "0670", with natruask
+"id de-stepson “— To D5l provider".
+
+i n ,n a starbt: root* with a
+|orv.n0ucer ■’tR_tG'GQ 1"
+
+counriw5Ci
+=*ura—SERVER
+IP-1
+
+muntH 153
+
+SB
+
+:p
+
+Dtcfl
+
+-H.20&.62.1 W/3? was townd as Bre :p for irvterfaaa
+
+£Qll-AuC-liO
+
+SQll-On-l?
+
+301 i-Ott-11
+
+3011-0*15
+
+SOI L-i^a-sE
+
+■Hpfi:lP::Evl
+
+■■vPhtiCiHfl
+
+W uril-50
+sdurra-SEftvEI
+EPf|
+
+_VTJC
+
+Djunt-r- m
+
+¡E
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+(U//FOUO) GNETWORK
+
+(S//SI//REL) Tool u sed to extract and correlate
+information from a variety of NAC, SSG, SSO, NTOC
+and other metadata databases
+
+(s//si//REL) Keep an Eye on the Entire
+Netblock
+
+^ (S//SI//REL) Multiple VPNs for one
+target
+
+^ different purposes
+^ different clients
+
+(s//si//rel) GNOME Task: Private
+IP VPNs
+
+^ (S//SI//REL) Find a public IP associated with
+your private IP
+^ Loopback IP
+^ Another interface IP
+
+^ (S//SI//REL) Use those for your GNOME report
+and look for your private IP on the same link
+
+^ (S//SI//REL) Data presented in the VPN tab in
+GNOME report is limited
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+(U//FOUO) Network
+Patterns...
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(s//si//rel) IP Patterns
+
+^ (S//SI//REL) Admins are people -- lean towards
+predictability in assignment of IPs to make
+their job easier
+
+^ (S//SI//REL) IP or a combination of the octets
+could be an indication of:
+
+^ network provider
+^ location
+
+^ specific purpose in the network
+
+(§/7si//REL) Example #l:Private IP VPN
+
+rt side of the VPN:
+
+(s//si//rel) Client
+
+•	Second octet indicated the network provider
+^ 20 = network provider #l
+
+^ 2l = network provider #2
+
+•	Second and third octet = country
+
+^ 20.30 and 21.30 were the same country but different providers
+• 40 = individual target entity in that country
+
+" (s//si//rel) Server side of the VPN:^^
+
+• Second octet indicated network provider
+
+^ 51= network provider #1
+^ 52 = network provider #2
+
+(s//si//rel) Example #2:Network
+
+Patterns
+
+(S//SI//REL) Public IP VPN:^^^^^|.#
+
+^ Third octet = country location of this IP (three
+possible)
+
+^ Fourth octet= country location of the other side
+of the VPN connection
+
+Analyzed the opposite side of this /24
+and identified the country for 167 4th
+octet values (out of 209) „ when this
+public IP connects to a private IP we
+know the country location of the private
+
+IP.
+
+(U//FOUO) Final Thoughts...
+
+*	(S//SI//REL) Just because you don't get results doesn't
+mean the answer isn't there
+
+*	If you're looking for a connection from A to B and don't
+find it, then maybe you need to look for one from A to C
+to B
+
+*	(S//SI//REL) Try the query a different way
+
+*	Widen the search either by wildcarding (if permitted) or
+by selecting a different drop-down option
+
+*	Enter information in a different field
+
+(u//Fouo)Final Thoughts...
+
+^ (S//SI//REL) All IPs are important until proven otherwise
+^They all serve a purpose and belong to a device
+
+^ Make note of what you find even if you don't know at the
+time what it means
+
+=> (S//SI//REL) Search for data even if results are unlikely
+=> (S//SI//REL) Don't necessarily discard dated information
+
+(u//fouo) Final Thoughts...
+
+(U//FOUO) Understand the data that you are searching and
+what the fields in the GUI are searching for
+
+=> (U//FOUO) Take an iterative approach: start searches wide,
+then narrow them down, then widen back out again
+
+=> (S//SI//REL) Bounce between the different databases and use
+the tools for every aspect of your network analysis
+
+(s//si//rel) VPN SIGDEV:
+
+Build the network knowledge...
+
+(TS//SI//REL) Dig beyond paired collection,
+PSKs and persistence
+
+(S//SI//REL) Discovery of the inner IPs of the
+VPN is possible in ways otherthan decryption
+
+(S//SI//REL) Investigate device IPs
+
+^ (U//FOUO) Look for patterns
+
+(S//SI//REL) Discoverthe 'N' of yourVPN
+
+(U//FOUO) Questions?
+
+SSG21 Net Pursuit
 Network Analysis Center
 
- 
+(S//SI//REL)
+Simplifying and
+Automating VPN
+SIGDEV
 
+SSG22
+
+Network Analysis Center
+
+
+
+(U//FOUO) The Ultimate Goals
+
+^ (s//si//rel) Integrate VPN information into
+mainstream analytic tools and knowledge bases.
+
+^ (s//si//rel) Give analysts the ability to discover,
+develop, and track known targets using VPNs.
+
+^ (s//si//rel) Give analysts the ability to discover new
+targets using VPNs.
+
+ECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+(U//FOUO)
+
+The Start. . .
+
+" (s//si//rel) Develop new corporate VPN tool
+(DARKSUNRISE).
+
+=* Joint collaboration between CES and the NAC.
+=* Take advantage of cloud architecture.
+
+^ Strive to meet the needs of the entire VPN
+community.
+
+(u//fouo)To The Cloud!
+
+• (s//si//red Data stored in MDR-2, the
+corporate metadata repository.
+
+^ Stores one year of DNI metadata.
+
+^ Enables filtering, aggregating, and transforming
+large datasets quickly.
+
+^ Manage high data volumes.
+
+^ Answer VPN questions efficiently and easily.
+
+
+
+(s//si//rel) What are Some of the
+Needs of the VPN SIGDEV
+
+(s//si//rel) Answer VPN SIGDEV questions quickly.
+
+Community?
+
+^ (s//si//rel) Allow SIGDEVers to spend time analyzing data
+instead of gathering and processing the data first.
+
+(s//si//rel) Make VPN SIGDEV more widely understood by
+simplifying and automating the SIGDEV process.
+
+(s//si//rel) Robust Structure
+
+Allow for multiple VPN and network encryption
+^ DAltowodor incorporation of new analytics.
+
+
+
+(S//SI//REL) What are Some of the
+
+Questions?
+
+(s//si//rel) Basic Questions
+
+^ Is my target using a VPN?
+
+^ What are all of the VPNs from country
+BadGuyLand?
+
+^ Tell me all of the VPNs where domain = sita*.
+
+=* Tell me all of the VPNs where the vendor ID =
+Cisco.
+
+(S//SI//REL) What are Some of the
+
+^ (S//SI//REL) Specializes	ns?
+
+^ What are all of the VPNs that are bi-directional?
+
+^ What are all of the VPNs that are paired?
+
+^ Tell me all of the VPNs (and how many) that a particular
+VPN talks to (persistent hubs/centrality).
+
+^ What are all of the VPNs that are of interest (via Target
+Network Service)?
+
+What VPNs are associated to a router config?
+
+What are all of the VPNs that are persistent?
+
+For which VPNs do we have a PSK?
+
+
+
+(S//SI//REL) What are Some of the
+
+^ (S//SI//REL) Synthesizing Information
+
+^ What are all of the VPNs that are bi-directional,
+persistent, and of interest?
+
+=• What are all of the VPNs that are paired,
+persistent, and for which we have a PSK?
+
+^ What are all of the VPNs from country
+BadGuyLand that are paired, associated to a
+router config, and of interest?
+
+(U//FOUO) DARKSUNRISE
+
+^ (u//fouo) This is a prototype GUI.
+
+^ (u//fouo) Comingg Fall 2012
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+/Q//QI//DPI 1	IMRIÇF
+
+Mozilla Firefox
+
+File Edit View History Bookmarks loots Help
+
+
+
+& Virtual Private Network Working Group -
+
+RoyalNet “Prototype*
+
+* BLACKPEARL - Wikiinfo
+
+ml
+
+Ù • G (G|,r Google
+
+3[*
+
+j DNI Presenter - index O TOYGRIPPE * XKEYSCORE [ J dsridge
+
+| Main I Centrality || Stats | General Queries |
+
+DarkSunrise
+
+Shadownet Filters
+
+
+
+-14 SIGAD:
+
+-(+ CASH:
+
+-(+ Protocol:
+
+~(+j IP Ranges:
+
+-(+ Source IP:
+
+-(+ Destination IP:
+-(+ Domain:
+
+-(+ ExchangeTypeld:
+I Vendorld:
+
+-(+ Country Code:
+-(+ FVEY Only
+
+-[+ BiDirectional
+I * First Seen:
+
+Start: |~
+
+End:	f
+
+
+
+□ *
+
+- Last Seen:
+
+Start: ^
+
+End:	[
+
+Q»
+
+
+
+DS-2Q0B	PK1S011
+DS-200B	PK1S011
+DS-200B	PK18011
+DS-200B	PK18011
+□S-200B	PK1S011
+DS-200B	PK1S011
+DS-200B	PK18011
+DS-200B	PK1S011
+DS-200B	PK1S011
+DS-200B	PK1S011
+DS-200B	PK18011
+DS-200B	PK1S011
+DS-2Q0B	PK1S011
+
+Source
+
+Realm	Country Domain
+
+DYNAMIC PAGE - HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET//COMINT//TK//NOFORN
+
+Country Domain
+
+Protocol Data Source
+
+Classification
+
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	AF
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_publlc	AF
+IPv4_publlc	PK
+IPv4_publlc	PK
+
+IPSEC	VPN-TU	TS//SI//REL TO USA...
+IPSEC	VPN-TU	TS//SI//RELTO USA...
+IPSEC	VPN-TU	TS/ySI//RELTOUSA...
+IPSEC	VPN-TU	TS/ySI//RELTOUSA...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+IPSEC	VPN-TU	Tsyysiz/RELTO usa...
+
+:
+
+1
+
+H i Pagej 1 [of 3| ► kl ¡3" 11 Checking TNS..Finished! 'TFinished! ^ I Clear Filters
+Drilldown/Details
+
+Reports: csv html xls ren ivml Displaying 1 -100 of 2361 Page Size [ 100
+
+HKB Location Data PPTP Details IPSec Details	VipNet Details
+
+- Source IP
+
+IP:
+
+CountryCode:
+
+CountryHame:
+
+City:
+
+Domain:
+
+Company:
+
+ASH:
+
+Gray Theme v
+
+— h Destination IP
+IP:
+
+CountryCode:
+
+CountryHame:
+
+City:
+
+Domain:
+
+Company:
+
+ASH:
+
+RO
+ROMANIA
+BUCHAREST
+ROMTELECOM.NET
+ROMTELECOM DATA NETWORK
+9050
+
+PK
+PAKISTAN
+KARACHI
+TW1.COM
+GRUPM
+38193
+
+Content Steward!
+
+General Support: Contact the SHADOWNET Team|
+
+DYNAMIC PAGE - HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SFrRFT//rOMINT//Tk7/NOFORN
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL)
+
+me NKb Location Data
+
+Ö Mozilla Firefox
+
+File Edit View History Bookmarks Tools Help
+
+0
+
+Ë DNI Presenter - Index [ÏÏ] TOYGRIPPE * XKEYSCORE [j dsridge
+
+riiidown
+
+
+
+¡] ' Google
+
+3S
+
+DYNAMIC PAGE - HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET//COMINT//TK//NOFORN
+
+DarkSunrise
+
+Shadownet Filters
+SIGAD:
+
+-g CASH:
+
+-(+ Protocol:
+
+-|+| IP Ranges:
+
+-[+ Source IP:
+
+-(+ Destination IP:
+-(+ Domain:
+
+{+) ExchangeTypeld:
+|+j Vendorld:
+
+SRI
+
+SIGAD CASN
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+DS-200B PK1S011
+
+BIDir... Protocol Data Source
+
+IPv4_public	SE
+IPv4_public	RO
+IPv4_public	RO
+IPv4_public	TR
+IPv4_public	TR
+IPv4_public	AE
+IPv4_public	AE
+IPv4_public	AE
+IPv4_public	CZ
+IPv4_public	cz
+IPv4_public	AE
+IPv4_public	TR
+B IPv4_public	NL
+
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_public	PK
+IPv4_public	PK
+IPv4_publlc	PK
+IPv4_publlc	AF
+IPv4_publlc	PK
+IPv4_publlc	PK
+IPv4_public	PK
+IPv4_publlc	PK
+IPv4_publlc	AF
+IPv4_public	PK
+IPv4_publlc	PK
+
+TS//SI//RELTO USA...
+
+*
+
+IPSEC VPN-TU
+
+TS//SI//RELTO USA...
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+IPSEC
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+VPN-TU
+
+TS//SI//RELTO USA...
+TSO/RELTO USA...
+TSO/RELTO USA...
+TS//SI//RELTO USA...
+TS//SI//RELTO USA...
+TS//SI//RELTO USA...
+TS//SI//RELTO USA...
+TS//SI//RELTO USA...
+TSO/RELTO USA...
+TS//SI//RELTO USA...
+TS//SI//RELTO USA...
+
+Page) 1 [of 3 ► M I S’I Checking TNS. Finished! 7 Finished! 7 I Clear Filters
+DriHdotfn/De tails
+
+Location Data PPTP Details IPSec Details VipNet Details
+
+Reports: csv html xls ren Ivml | Displaying 1-100 of2361 Page Size 100
+
+RO
+
+ROMANIA
+
+BUCHAREST
+
+ROMTELECOM.NET
+
+ROMTELECOM DATA NETWORK
+
+9050
+
+Gray Theme
+
+-|- Destination IP
+IP:
+
+CountryCode:
+
+CountryName:
+
+City:
+
+Domain:
+
+Company:
+
+ASH:
+
+PK
+
+PAKISTAN
+
+KARACHI
+
+TW1.COM
+
+GRUPM
+
+38193
+
+Content Steward!
+
+■General Support: Contact the SHADOWNET Team!
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) The IPSec Details Drilldown
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) Automatic Identification
+
+of
+
+Ri directi
+
+VPNs
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) Automatic Identification
+
+of
+
+• (S//SI//REL)
+
+against
+
+The icon means this record hits
+the Target Network Service (TNS).
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(TS//SI//REL) Automatic Identification
+
+of
+
+Mo7illa I frofox
+
+(¥! DNI Presenter - index mi TOYGRIPPE XKEYSCORE |2
+M' Virtual Private Network Worki	(_'] JSignout: Llsi
+
+Content Steward
+
+DYNAMIC PAGE - HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET//COMINT//TK//NOFORN
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL)
+
+The Centrality Tab
+
+• (s//si//rel) Find all VPNs that talk to a
+base VPN.
+
+^ Discover persistent hubs.
+
+"’Can continue chaining outwards.
+
+4 I Page)1 1»f 1 | > >*ll I ® I Clear Filters I
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) The Centrality Tab
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL) The Centrality Tab
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(S//SI//REL)
+
+The Centrality Tab
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+I ii i 'd'si
+
+J*liiÉs—
+
+m |'3
+
+J-iinta—
+
+m I1]
+
+fnif
+
+■ Hf |'j
+
+rfKt-----------
+
+iil; :
+t'J
+
+'1:
+
+mupt
+
+
+
+
+
+(U//FOUO) The Metrics Tab
+
+• (S//SI//RED Count distinct VPN
+records, grouping them by one or
+more of the following attributes:
+
+^ SIGAD
+^ Source
+^ VPN Type
+^ Case Notation
+^ Date
+
+xauamau
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+(U//FOUO)
+
+TheMetrics Tab: One
+
+					" ^				
+ÜDNP		ter ■ index 0 TOKBK Ä-SE							■
+■									
+
+Man Centrality Stats G
+
+- Column Headers:
+
+DS-2003.UKC-LL55iA
+
+ESP,KEvl,PPTP,VP'll
+
+SIGAC ES3
+JS.-759A 60677
+DS-200E 3153-
+
+JS.-799
+
+JS-3141B
+
+JKC-"55W
+
+JSF-790
+
+JS.-759
+
+JS-3140
+
+IKE_ESP_NAT_... KEV
+
+Tabs I
+CSi/P.epol
+HÏÏJL Report
+I XLSRepOlt
+
+Row Headers: SKAD
+Colum Headers: VFN Tyas
+
+Filter by SEAD: CS-200B,U<C-1155W,LS-31^0,LS-3HB,LSD-100:TEC,U3F-790,U3]-755,US]-75EA,LS:-799
+Filter by Source: -Ho Selection—
+
+Filter by VPN Tyae: ESP,KEv:,FPTP,WPMET
+
+SIGAD X
+
+•a Suppo-t: Contact the SHADOV7NETTS
+
+CTNAMIC PAGE - HIGHES POSSIBLE CLASSIFICA
+TOP 5ECRET//CCMINT//TK/A10F0RN
+
+(TS//SI//REL) Total number of VPN type per SIGAD.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+(U//FOUO) The Ultimate Goals
+
+^ (s//si//rel) Integrate VPN information into
+mainstream analytic tools and knowledge bases.
+
+^ (s//si//rel) Give analysts the ability to discover,
+develop, and track known targets using VPNs.
+
+^ (s//si//rel) Give analysts the ability to discover new
+targets using VPNs.
+
+(U//FOUO) Questions?
+
+SSG22
+
+Network Analysis Center

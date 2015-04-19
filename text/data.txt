@@ -1,16 +1,11 @@
-Cable Master List
+﻿Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
@@ -21,8 +16,7 @@ Ge
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -31,16 +25,18 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
-
 (Suggested Scenario)
 
 Available to Access 2011
@@ -51,72 +47,70 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 AC-1
+
 GX
+
 PINNAGE
 
 1998
 
 Whitesands Bay
-
 Sennen
 
 UK, Netherlands, Germany, US
 Transatlantic
-
 100Mbps-1GbE
-
 4
 
-Potential: 4fp*32wl*1OG
+Potential: 4fp*32wl*10G
 
 1600.0
+
 420.0
+
 420.0
+
 0.0
 
 1600.0
+
 604.8
-0.0
 
 0.0
 
 0.0
+0.0
 
-Added 6006b (Telegeog Jan 09)
+Added 600Gb (Telegeog Jan 09)
 Requested from PINNAGE
 
+Latest Telegeography Page [REDACTED]
 
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -125,12 +119,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -144,15 +141,13 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
+Interconnections
 
-Intel Value Notes
+Yellow / AC-2
+Level 3 & GX (2fp)
 
-Yellow AC-2
-Level 3 GX (2fp)
-LITTLE PINNAGE
+LITTLE & PINNAGE
 
 2000
 
@@ -168,14 +163,17 @@ Transatlantic
 
 4 (2 L3, 2 GX)
 
-Potential: 2fp*47wl*1OG (L3) 2fp*80*10G (GX)
+Potential: 2fp*47wl*10G (L3) + 2fp*80*10G (GX)
 
 2540.0
+
 980.0
+
 980.0
 0.0
 
 2540.0
+
 1411.2
 0.0
 0.0
@@ -183,32 +181,29 @@ Potential: 2fp*47wl*1OG (L3) 2fp*80*10G (GX)
 
 Requested from PINNAGE
 
+Latest Telegeography Page [REDACTED]
 
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -217,11 +212,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -235,13 +234,11 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 Hibernia
+
 Hibernia
 
 Hibernia
@@ -254,231 +251,120 @@ Southport
 
 UK, Ireland, (Iceland - Future), Canada, US
 Ireland, Transatlatnic
-
-10Mbps-1OGbE
-
+10Mbps-10GbE
 4
 
-Potential: 4fp*96*10 4fp*96*10
+Potential: 4fp*96*10 + 4fp*96*10
 
 7680.0
+
 1280.0
 844.8
 0.0
 
 7680.0
+
 1843.2
+
 0.0
+
 0.0
+
 0.0
 
-Huawei 40G equipment on UK-lreland US-Canada segments
+Huawei 40G equipment on UK-lreland & US-Canada segments
 
-
-
-Cable Master List
-
-Cable
-
-Owners
-
-Landing Partner SRT
-Non_Partner
-
-RFS Year
-
-UK Landing Point
-
-UK Landing Point Group
-Landings
-
-Foreign Landing Categories
-Ge
-
-Fibre Pairs
-
-Potential Capacity
-
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-
-Total Potential Capacity
-Egress
-
-Total Capacity 2011
-Lit Capacity Adjusted 2011
-Available to Access 2011
-Egress 2011
-
-Available to Access 2011
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
+Latest Telegeography Page [REDACTED]
 
 Intel Value Notes
 
-TGN Atlantic 
-Tata Communications
-
-Tata
-
-2001
-
-Highbridge
-Highbridge
-
-UK, US
-
-Transatlantic
-100Mbps-1GbE
-
-4
-
-Potential: 4fp*100*10
-
-4000.0
-620.0
-620.0
-0.0
-
-4000.0
-892.8
-0.0
-
-0.0
-
-0.0
-
-
-
 Cable Master List
 
-Cable
+Cable	TGN Atlantic N
+Owners	Tata Communications
+Landing Partner SRT	
+Non_Partner	Tata
+RFS Year	2001
+UK Landing Point	Highbridge
+UK Landing Point Group	Highbridge
+Landings	UK, US
+Foreign Landing Categories	Transatlantic
+Ge	100Mbps-1GbE
+Fibre Pairs	4
+Potential Capacity / Lit Capacity	Potential: 4fp*100*10
+Available to Access	4000.0
+Lit Capacity	620.0
+Lit Adjusted	620.0
+Total Potential Capacity	0.0
+Egress	
+Total Capacity 2011	4000.0
+Lit Capacity Adjusted 2011	892.8
+Available to Access 2011	0.0
+Egress 2011	0.0
+Available to Access 2011 (Suggested Scenario)	0.0
+Available to Access 2011 Suggested Scenerio Notes	
+Notes	
+Collateral	
+Access_Direct	
+Interconnections	
 
-Owners
-
-Landing Partner SRT
-Non_Partner
-
-RFS Year
-
-UK Landing Point
-
-UK Landing Point Group
-Landings
-
-Foreign Landing Categories
-Ge
-
-Fibre Pairs
-
-Potential Capacity
-
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-
-Total Potential Capacity
-Egress
-
-Total Capacity 2011
-Lit Capacity Adjusted 2011
-Available to Access 2011
-Egress 2011
-
-Available to Access 2011
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
+Latest Telegeography Page [REDACTED]
 
 Intel Value Notes
 
-TGN Atlantic 8
-Tata Communications
+Cable Master List
 
-Tata
+Cable	TGN Atlantic S
+Owners	Tata Communications
+Landing Partner SRT	
+Non_Partner	Tata
+RFS Year	2001
+UK Landing Point	Pottington
+UK Landing Point Group	Pottington
+Landings	UK, US
+Foreign Landing Categories	Transatlantic
+Ge	100Mbps-1GbE
+Fibre Pairs	4
+Potential Capacity / Lit Capacity	Potential: 4fp*100*10
+Available to Access	4000.0
+Lit Capacity	620.0
+Lit Adjusted	620.0
+Total Potential Capacity	0.0
+Egress	
+Total Capacity 2011	4000.0
+Lit Capacity Adjusted 2011	-
+Available to Access 2011	0.0
+Egress 2011	0.0
+Available to Access 2011 (Suggested Scenario)	0.0
+Available to Access 2011 Suggested Scenerio Notes	
+Notes	
+Collateral	
+Access_Direct	
+Interconnections	
 
-2001
+Latest Telegeography Page [REDACTED]
 
-Pottington
-
-Pottington
-
-UK, US
-
-Transatlantic
-100Mbps-1GbE
-
-4
-
-Potential: 4fp*100*10
-
-4000.0
-620.0
-620.0
-0.0
-
-4000.0
-
-0.0
-0.0
-0.0
-
-
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -487,11 +373,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -505,13 +395,15 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Apollo North
+C&W
 
 GERONTIC
 
@@ -521,54 +413,59 @@ Bude
 
 Bude
 
+UK, US
 
+Transatlantic
 
-TTansa?an?c
-
-
+10GbE
 
 4
 
-Potential: 4fp*128wl*1OG
+Potential: 4fp*128wl*10G
 
 5120.0
+
 900.0
+
 590.0
+
 590.0
+
 140.0
+
 5120.0
+
 1296.0
+
 849.6
+
 140.0
+
 1223.4
 
 LATUS
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -577,12 +474,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -596,14 +496,16 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 TAT-14
-BT, VZB, Consortium
+
+BT, VZB, C&W, Consortium
 REMEDY
 
 2001
@@ -615,51 +517,56 @@ Bude
 UK, France, Netherlands, Germany, Demark, US
 Transatlantic, Europe
 
-Probably mentioned in upgrade test docs
-
+Probably 10GbE, mentioned in upgrade test docs
 4
 
-Potential: 2fp*37wl*10G (after upg) 2fp*16wl*10G
+Potential: 2fp*37wl*10G (after upg) / 2fp*16wl*10G
 
 1280.0
+
 640.0
+
 640.0
+
 115.0
+
 10.0
+
 740.0
+
 921.6
+
 115.0
+
 10.0
+
 921.6
 
 HIASCO (Proposed)
 
+[REDACTED]
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -668,12 +575,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -687,75 +597,69 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Flag Atlantic 1
-
 Reliance Globalcom
 GERONTIC (Backhaul EA -FA)
+
 Reliance
-
 2001
-
 Skewjack
-
 Skewjack
-
 UK, France, US
 Transatlantic
 10Mbps-1GbE
-
 6
 
 Potential: 6fp*52*10G
 
 3120.0
+
 640.0
+
 640.0
 0.0
 
 3120.0
+
 921.6
 0.0
-
 0.0
+
 921.6
 
 Access to remaining circuits that do not go onto FEA
 
 CNE PFENNING ALPHA
-(Backhaul between FEA and FA1 cables)
 
-
+NIGELLA* (Backhaul between FEA and FA1 cables)
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -764,11 +668,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -782,11 +690,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 TGN Northern Europe
 Tata Communications
@@ -798,56 +703,53 @@ Tata
 Hunmanby (Scarborough)
 
 Scarborough
-
 UK, Netherlands
-
 Europe
-
-
-
+1GbE
 4
 
-Potential:4fp*96wl*10G 1fp*16wl*10G
+Potential :4fp*96wl*10G / 1fp*16wl*10G
 
 3840.0
+
 160.0
+
 160.0
 0.0
 
 3840.0
+
 230.4
-0.0
 
 0.0
 
 0.0
 
+0.0
 
+Latest Telegeography Page [REDACTED]
+
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -856,11 +758,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -874,62 +780,65 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 UK-Germany 6
-BT, DTAG Arcor
+
+BT, C&W, DTAG , Arcor
+
 REMEDY
 
 1994
+
 Scarborough
 Scarborough
 UK, Germany
 Europe
 
 4
+
 Lit: 4fp*4wl*2.5G
 
 40.0
+
 40.0
+
 40.0
 0.0
 
 40.0
+
 40.0
 0.0
 0.0
 0.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -938,11 +847,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -956,15 +869,12 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 UK-Netherlands 14 (inc FARLAND3)
-BT, KPN
-GERONTIC or 
+C&W, BT, KPN
+GERONTIC or REMEDY?
 
 Winterton-on-sea
 Winterton-on-sea
@@ -972,44 +882,48 @@ UK, Netherlands
 Europe
 
 10
-(GERONTIC) (REMEDY) Approx 5 
+
+3*2.5G (GERONTIC) +? 1*2.5G (REMEDY) + Approx 5 KPN??
 
 10.0
-10.0
+
 10.0
 
 10.0
+
 10.0
+
+10.0
+
 0.0
-0.0
+
 0.0
 
+0.0
 
+Latest Telegeography Page [REDACTED]
+
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1018,11 +932,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1036,7 +954,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1052,40 +971,43 @@ Redcar
 UK, Denmark
 Europe
 
+6
+
 160.0
+
 80.0
+
 80.0
 
 160.0
+
 115.2
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1094,11 +1016,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1112,7 +1038,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1125,39 +1052,38 @@ Alcatel
 
 Lowestoft
 Lowestoft
-
 UK, Netherlands
 Europe
 
+6
+
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1166,11 +1092,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1184,7 +1114,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1192,9 +1123,11 @@ Intel Value Notes
 
 Circe North
 Viatel
+
 VITREOUS
 
 Lowestoft
+
 Lowestoft
 
 Europe
@@ -1202,10 +1135,13 @@ Europe
 24
 
 90.0
+
 50.0
+
 50.0
 
 90.0
+
 72.0
 0.0
 0.0
@@ -1216,27 +1152,22 @@ Requested from VITREOUS
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1245,11 +1176,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1263,14 +1198,12 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 Circe South
 Viatel
+
 VITREOUS
 
 Pervensey Bay
@@ -1281,36 +1214,38 @@ Europe
 24
 
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Requested from VITREOUS
 
+Latest Telegeography Page
+
+Intel Value Notes
+
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1319,11 +1254,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1337,7 +1276,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1352,39 +1292,55 @@ Broadstairs
 UK, Belgium
 Europe
 
-4 bundles 48
-2.56 48/?
+4 bundles x 48
+2.5G x48/?
 
 0.0
+
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
+Cable	PEC
+Owners	GX
+Landing Partner SRT Non_Partner	PINNAGE
+RFS Year	1999
+UK Landing Point	Broadstairs
+UK Landing Point Group	Broadstairs
+Landings  Foreign Landing Categories  Ge	UK, Belgium, ? Europe
+Fibre Pairs  Potential Capacity / Lit Capacity  Available to Access  Lit Capacity  Lit Adjusted  Total Potential Capacity  Egress	24
+Total Capacity 2011	0.0
+Lit Capacity Adjusted 2011	0.0
+Available to Access 2011	0.0
+Egress 2011	0.0
+Available to Access 2011 (Suggested Scenario)  Available to Access 2011 Suggested Scenerio Notes  Notes	0.0
+Collateral Access_Direct Interconnections Latest Telegeography Page Intel Value Notes	Requested from PINNAGE
+
+Cable Master List
+
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1393,11 +1349,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1411,138 +1371,68 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
-
-PEC
-GX
-PINNAGE
-
-1 999
-Broadstairs
-Broadstairs
-
-UK, Belgium, 
-Europe
-
-24
-
-0.0
-0.0
-0.0
-0.0
-0.0
-
-Requested from PINNAGE
-
-Cable Master List
-
-Cable
-
-Owners
-
-Landing Partner SRT
-Non_Partner
-
-RFS Year
-
-UK Landing Point
-
-UK Landing Point Group
-Landings
-
-Foreign Landing Categories
-Ge
-
-Fibre Pairs
-
-Potential Capacity
-
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-
-Total Potential Capacity
-Egress
-
-Total Capacity 2011
-Lit Capacity Adjusted 2011
-Available to Access 2011
-Egress 2011
-
-Available to Access 2011
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 SMW-4
-FT, Consortium
+
+VzB, FT, Consortium
 DACRON
 
 2005
 
-France,  India
+France,... India
 Europe, Middle East, Asia
 
 2
+
 Potential: 2fp*64*10G
 
 480.0
+
 240.0
+
 240.0
+
 170.0
+
 20.0
+
 1280.0
+
 345.6
+
 170.0
+
 20.0
+
 170.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1551,11 +1441,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1569,14 +1463,17 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 SMW-3
+
 BT, Consortium
+
 REMEDY
 
 Goonhilly
@@ -1586,37 +1483,42 @@ Goonhilly
 UK, Belgium, Germany, France, Asia
 Europe, Middle East, Asia
 
+2
+
 70.0
+
 70.0
+
 70.0
+
 55.0
+
 15.0
+
 160.0
 100.8
+
 55.0
+
 15.0
+
 55.0
 
 Complete MUX plans (REMEDY)
 
-NUMDAH 2 (all terminating) NUMDAH 3 (4wl passing)
-
+NUMDAH 2 (all terminating) & NUMDAH 3 (4wl passing)
 23
 
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
@@ -1627,8 +1529,7 @@ Ge
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1637,16 +1538,18 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
-
 (Suggested Scenario)
 
 Available to Access 2011
@@ -1657,7 +1560,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1677,53 +1581,53 @@ UK,Asia
 
 Europe, Middle East, Asia
 10Mbps-1GbE
-
 2
 
 Potential: 2fp*40*10G
 
 800.0
+
 70.0
+
 70.0
+
 130.0
+
 10.0
 800.0
 120.0
+
 130.0
+
 10.0
 130.0
 
 CNE PFENNING ALPHA
 
-(Backhaul between FEA and FA1 cables)
+NIGELLA* (Backhaul between FEA and FA1 cables)
 112
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1732,11 +1636,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1750,28 +1658,37 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 CANTAT-3
+
 Tata (ex Teleglobe), BT, DTAG etc
 REMEDY
 
 Redcar
+
 Redcar
+
 UK, Germany, Denmark, Canada
 Canada
+
+3
 
 3*2.5
 
 7.5
-7.5
+
 7.5
 
 7.5
+
+7.5
+
 7.5
 0.0
 0.0
@@ -1780,27 +1697,22 @@ Canada
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1809,11 +1721,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1827,11 +1743,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
 
-Latest Telegeography Page
-
-Intel Value Notes
+Interconnections
 
 TGN Western Europe North
 Tata Communications
@@ -1839,53 +1752,56 @@ Tata Communications
 Tata
 
 2002
+
 Highbridge
 Highbridge
 UK, Portugal
 Europe
 
 4
-Potential: 4fp*96wl*10G 1fp*12wl*10G
+
+Potential: 4fp*96wl*10G / 1fp*12wl*10G
 
 3840.0
+
 120.0
+
 120.0
 0.0
 
 3840.0
+
 172.8
-0.0
 
 0.0
 
 0.0
 
+0.0
 
+Latest Telegeography Page [REDACTED]
+
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -1894,11 +1810,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -1912,7 +1832,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -1922,91 +1843,50 @@ TGN Western Europe South
 Tata Communications
 
 Tata
-
 2002
 Pottington
 Pottington
 UK, Spain
 Europe
 
-3840.0
-120.0
-120.0
-0.0
+4
 
 3840.0
+
+120.0
+
+120.0
+0.0
+
+3840.0
+
 0.0
 
 0.0
+
 0.0
 
-
-
-Cable Master List
-
-Cable Ulysses-2 (inc CH Tu)
-Owners VZB, BT, FT, KPN
-Landing Partner SRT DACRON
-Non_Partner
-RFS Year 1997
-UK Landing Point Lowestoft
-UK Landing Point Group Lowestoft
-Landings UK, Netherlands
-Foreign Landing Categories Europe
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access 800.0
-Lit Capacity 320.0
-Lit Adjusted 320.0
-Total Potential Capacity
-Egress
-Total Capacity 2011 800.0
-Lit Capacity Adjusted 2011 460.8
-Available to Access 2011 0.0
-Egress 2011 0.0
-
-Available to Access 2011 0.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes DACRON:Equipped for 44 waves, being upgraded for 80, KPN: Claim
-Collateral Requestef from DACRON
-Access_Direct
-lnterconnections
-Latest Telegeography Page
-
-Intel Value Notes
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2015,11 +1895,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2033,52 +1917,65 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
-Concerto 1 North
-lnteroute
-STREET CAR
+Ulysses-2 (inc Vzb CH Tu)
+VZB, BT, FT, KPN
+DACRON
 
-Thorpeness
+1997
 
-Thorpeness Aldeburgh
+Lowestoft
+
+Lowestoft
+
 UK, Netherlands
 
 Europe
 
-0.0
+800.0
+
+320.0
+
+320.0
+
+800.0
+
+460.8
+
 0.0
 
 0.0
+
+0.0
+
+DACRON:Equipped for 44 waves, being upgraded for 80, KPN: Claim
+Requestef from DACRON
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2087,11 +1984,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2105,52 +2006,71 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
+
+Concerto 1 North
+Interoute
+STREET CAR
+
+Thorpeness
+
+Thorpeness & Aldeburgh
+UK, Netherlands
+Europe
+
+?
+
+0.0
+
+0.0
+
+?
+
+0.0
+
+?
 
 Latest Telegeography Page
 
 Intel Value Notes
 
-Concerto 1 South
-lnteroute
-STREET CAR
+Cable Master List
 
-Thorpeness
+Cable	Concerto 1 South
+Owners	Interoute
+Landing Partner SRT Non_Partner RFS Year	STREET CAR
+UK Landing Point UK Landing Point Group Landings  Foreign Landing Categories  Ge  Fibre Pairs  Potential Capacity / Lit Capacity  Available to Access  Lit Capacity  Lit Adjusted	Thorpeness  Thorpeness & Aldeburgh  UK, Belgium  Europe
+Total Potential Capacity Egress	?
+Total Capacity 2011	0.0
+Lit Capacity Adjusted 2011	0.0
+Available to Access 2011	?
+Egress 2011	0.0
+Available to Access 2011 (Suggested Scenario)  Available to Access 2011 Suggested Scenerio Notes  Notes  Collateral  Access_Direct  Interconnections	?
 
-Thorpeness Aldeburgh
-UK, Belgium
+Latest Telegeography Page
 
-Europe
-
-0.0
-0.0
-
-0.0
+Intel Value Notes
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2159,11 +2079,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2177,55 +2101,55 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Rembrandt-1
+
 KPN
 
 KPN
 
 Lowestoft
 Lowestoft
-
 UK, Netherlands
 Europe
 
 0.0
 
 0.0
+
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2234,11 +2158,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2252,55 +2180,60 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 FARLAND1
+
 BT
+
 REMEDY
 
 Aldeburgh
-Thorpeness Aldeburgh
 
+Thorpeness & Aldeburgh
 Europe
+8
 
 10.0
-10.0
+
 10.0
 
 10.0
+
 10.0
+
+10.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2309,11 +2242,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2327,55 +2264,55 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
-Rem brandt-2
+Rembrandt-2
+
 KPN
 
 KPN
 
 Broadstairs
 Broadstairs
-
 UK, Netherlands
 Europe
 
 0.0
 
 0.0
+
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2384,11 +2321,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2402,14 +2343,17 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Ulysses-1
+
 VZB
+
 DACRON
 
 St Margarets Bay
@@ -2420,10 +2364,13 @@ Europe
 24
 
 40.0
-40.0
+
 40.0
 
 40.0
+
+40.0
+
 40.0
 0.0
 0.0
@@ -2432,27 +2379,22 @@ Europe
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2461,11 +2403,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2479,7 +2425,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -2487,17 +2434,22 @@ Intel Value Notes
 
 UK-France 5 (FARLAND2)
 BT
-EDY
+
+REMEDY
 
 Cheriton
 
 UK, France
 Europe
 
+4
+
 2.5G
 
 10.0
+
 10.0
+
 10.0
 
 0.0
@@ -2505,27 +2457,22 @@ Europe
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2534,11 +2481,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2552,13 +2503,15 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 UK-France 3
+C&W
 
 GERONTIC
 
@@ -2567,42 +2520,45 @@ Brighton
 UK, France
 Europe
 
+6
+
 6*140
 
 0.8
-0.8
+
 0.8
 
 0.8
+
 0.8
+
+0.8
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2611,11 +2567,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2629,14 +2589,16 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Farice
-Farice 
+
+Farice Ltd
 
 Farice
 
@@ -2644,49 +2606,48 @@ Farice
 
 Dunnet Bay, Scotland
 Dunnet Bay, Scotland
-UK, Faroe ls., Iceland
+UK, Faroe Is., Iceland
 Europe
 
 2
+
 Potential: 2fp*36wl*10G
 
 720.0
+
 100.0
+
 100.0
 0.0
 
 720.0
+
 40.0
 0.0
 0.0
 0.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2695,11 +2656,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2713,7 +2678,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -2728,35 +2694,34 @@ UK, France
 Europe
 
 0.0
+
 0.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2765,11 +2730,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2783,7 +2752,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -2796,10 +2766,13 @@ Europe
 12
 
 30.0
-30.0
+
 30.0
 
 30.0
+
+30.0
+
 30.0
 0.0
 0.0
@@ -2808,27 +2781,22 @@ Europe
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2837,11 +2805,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2855,59 +2827,68 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Solas
-Eircom, 
+
+Eircom, C&W
 GERONTIC
 
 1999
+
 Oxwich Bay
 Oxwich Bay
 UK, Eire
 Ireland
 
+6
+
 640.0
+
 200.0
+
 200.0
+
 60.0
+
 20.0
+
 640.0
+
 15.0
+
 60.0
+
 20.0
+
 60.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -2916,11 +2897,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -2934,27 +2919,38 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 BT-TE1
-BT, Telecom Eire
 
+BT, Telecom Eire
+REMEDY
 
 1988
+
 Holyhead
 
-1.0
-1.0
+6
+
 1.0
 
 1.0
+
 1.0
+
+1.0
+
+1.0
+
 0.0
+
 0.0
+
 0.0
 
 Cable Master List
@@ -2967,25 +2963,36 @@ RFS Year
 UK Landing Point
 UK Landing Point Group
 Landings
+
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs 48
 
 Potential Capacity
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
-Lit Capacity
-Lit Adjusted
-Total Potential Capacity
-Egress
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 0.0
-Egress 2011 0.0
 
-Available to Access 2011 0.0
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011	0.0
+
+Lit Capacity Adjusted 2011	0.0
+
+Available to Access 2011	0.0
+
+Egress 2011	0.0
+
+Available to Access 2011	0.0
+
 (Suggested Scenario)
 
 Available to Access 2011
@@ -2996,35 +3003,32 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Cable Master List
+
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3033,11 +3037,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3051,7 +3059,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -3060,49 +3069,50 @@ Intel Value Notes
 ESAT1
 
 1999
+
 Sennan Cove
 
 UK, Eire
 Ireland
 
-1 2
+12
+
 Potential: 12fp*8wl*10
 
 960.0
+
 5.0
+
 5.0
 
 960.0
+
 5.0
 0.0
 0.0
 0.0
 
-
+[REDACTED]
 
 Cable Master List
+
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3111,11 +3121,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3129,7 +3143,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -3138,50 +3153,50 @@ Intel Value Notes
 ESAT2
 
 1999
+
 Southport
 
 UK, Eire
 Ireland
 
-1 2
+12
+
 Potential: 12fp*8wl*10
 
 960.0
+
 5.0
+
 5.0
 
 960.0
+
 5.0
 0.0
 0.0
 0.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3190,11 +3205,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3208,51 +3227,50 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 UK-N Ireland LANIS
+C&W
 
-
-3.0
-3.0
 3.0
 
 3.0
+
+3.0
+
+3.0
+
 3.0
 0.0
 0.0
 0.0
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3261,11 +3279,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3279,67 +3301,72 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 Apollo South (not UK)
+C&W
 
 GERONTIC
 
 2003?
 
+*
 
-
-
+*
 
 France, US
 Transatlantic
 
 4
+
 Potential: 4fp*128wl*10G
 
 5120.0
+
 1100.0
+
 1100.0
+
 1090.0
+
 60.0
 
 5120.0
+
 1584.0
+
 1569.6
+
 60.0
 
 2260.2
 
-
+[REDACTED]
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3348,11 +3375,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3366,7 +3397,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -3377,93 +3409,46 @@ Reliance Globalcom
 
 Reliance
 2001
-
 Not UK
 Not UK
 France, US
 Transatlantic
 
 6
+
 Potential: 6fp*52*10G
 
 3120.0
+
 640.0
+
 640.0
 
 3120.0
+
 921.6
 
 0.0
 
 Cable Master List
 
-Cable SCEPTRE
-Owners REMEDY
-Landing Partner SRT Non-Cable Access
-
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-Lit Capacity
-Lit Adjusted
-Total Potential Capacity 400.0
-Egress 10.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 400.0
-Egress 2011 10.0
-
-Available to Access 2011 400.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3472,11 +3457,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3490,312 +3479,105 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+SCEPTRE
+REMEDY
+Non-Cable Access
+
+400.0
+
+10.0
+0.0
+0.0
+
+400.0
+
+10.0
+400.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 PRESCOTT
-
 Non-Cable Access
 
 0.0
-0.0
-0.0
-0.0
+
 0.0
 
-Cable Master List
+0.0
 
-Cable GIBBUS
-Owners GERONTIC
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
+0.0
 
-Potential Capacity
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-
-Total Potential Capacity
-Egress
-
-Total Capacity 2011
-
-Lit Capacity Adjusted 2011
-Available to Access 2011
-Egress 2011 0.0
-
-Available to Access 2011
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
-Cable KIRKISTOWN
-Owners GERONTIC
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-Total Potential Capacity 90.0
-Egress 10.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 90.0
-Egress 2011 10.0
-
-Available to Access 2011 90.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
-Cable LINNELL
-Owners GERONTIC
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-Total Potential Capacity 60.0
-Egress 10.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 60.0
-Egress 2011 10.0
-
-Available to Access 2011 60.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
-Cable CATEGORY
-Owners DACRON
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-Total Potential Capacity 50.0
-Egress 10.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 50.0
-Egress 2011 10.0
-
-Available to Access 2011 50.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
-Cable KNAPWEED
-Owners DACRON
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-
-Lit Capacity
-
-Lit Adjusted
-Total Potential Capacity 50.0
-Egress 10.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 50.0
-Egress 2011 10.0
-
-Available to Access 2011 50.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
-
-Cable Master List
-
-Cable ELAPSE
-Owners GERONTIC
-Landing Partner SRT Non-Cable Access
-Non_Partner
-RFS Year
-UK Landing Point
-UK Landing Point Group
-Landings
-Foreign Landing Categories
-Ge
-Fibre Pairs
-
-Potential Capacity
-Lit Capacity
-
-Available to Access
-Lit Capacity
-Lit Adjusted
-Total Potential Capacity 100.0
-Egress 20.0
-Total Capacity 2011 0.0
-Lit Capacity Adjusted 2011 0.0
-Available to Access 2011 100.0
-Egress 2011 20.0
-
-Available to Access 2011 100.0
-(Suggested Scenario)
-
-Available to Access 2011
-Suggested Scenerio Notes
-
-Notes
-
-Collateral
-
-Access_Direct
-lnterconnections
-
-Latest Telegeography Page
-
-Intel Value Notes
+0.0
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
@@ -3806,8 +3588,7 @@ Ge
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3816,16 +3597,18 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
 
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
-
 (Suggested Scenario)
 
 Available to Access 2011
@@ -3836,14 +3619,441 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+GIBBUS
+GERONTIC
+Non-Cable Access
+
+*
+
+0.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+KIRKISTOWN
+GERONTIC
+Non-Cable Access
+
+90.0
+
+10.0
+0.0
+0.0
+
+90.0
+
+10.0
+90.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+LINNELL
+GERONTIC
+Non-Cable Access
+
+60.0
+
+10.0
+
+0.0
+
+0.0
+
+60.0
+
+10.0
+
+60.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+CATEGORY
+DACRON
+Non-Cable Access
+
+50.0
+
+10.0
+0.0
+0.0
+
+50.0
+
+10.0
+50.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+KNAPWEED
+DACRON
+Non-Cable Access
+
+50.0
+
+10.0
+0.0
+0.0
+
+50.0
+
+10.0
+50.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+ELAPSE
+GERONTIC
+Non-Cable Access
+
+100.0
+
+20.0
+
+0.0
+
+0.0
+
+100.0
+
+20.0
+
+100.0
+
+Cable Master List
+
+Cable
+Owners
+Landing Partner SRT
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+
+Available to Access 2011
+
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 EIG
-Consortium
+
+C&W, Consortium
 GERONTIC
 
 2010
@@ -3851,15 +4061,22 @@ GERONTIC
 UK, Med, Egypt, Middle East, India
 Middle East, Asia
 
+N/A
 
+N/A
 
-
+N/A
 
 10.0
+
 1280.0
+
 160.0
+
 160.0
+
 10.0
+
 160.0
 
 Access Proposed VISAGE
@@ -3867,27 +4084,22 @@ Access Proposed VISAGE
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3896,11 +4108,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3914,14 +4130,16 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
 
 GLO-1
-Globacom (Nigeria)
+
+C&W, Globacom (Nigeria)
 GERONTIC
 
 2009?
@@ -3929,15 +4147,22 @@ GERONTIC
 UK, West Africa
 Africa
 
+N/A
 
+N/A
 
-
+N/A
 
 10.0
+
 320.0
+
 30.0
+
 30.0
+
 10.0
+
 30.0
 
 Possible Access, TEA taps in place(?)
@@ -3945,27 +4170,22 @@ Possible Access, TEA taps in place(?)
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -3974,11 +4194,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -3992,7 +4216,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -4011,27 +4236,22 @@ Can Access: 3889
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -4040,11 +4260,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -4058,7 +4282,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -4076,27 +4301,22 @@ Lit Capacity Adjusted 2011*
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -4105,11 +4325,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -4123,7 +4347,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -4132,35 +4357,32 @@ Intel Value Notes
 UK Internal
 
 8787.1
+
 296
 
 12411.7
+
 388.92
 
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
@@ -4169,11 +4391,15 @@ Lit Capacity
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
+
 Lit Capacity Adjusted 2011
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -4187,7 +4413,8 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
@@ -4204,40 +4431,39 @@ Both Ends: 777.84
 Cable Master List
 
 Cable
-
 Owners
-
 Landing Partner SRT
 Non_Partner
-
 RFS Year
-
 UK Landing Point
-
 UK Landing Point Group
 Landings
 
 Foreign Landing Categories
+
 Ge
 
 Fibre Pairs
 
 Potential Capacity
-
-Lit Capacity
+/ Lit Capacity
 
 Available to Access
 
-Lit Capacity
+Lit Capacity 33.7 % can Access:
 
 Lit Adjusted
 
 Total Potential Capacity
+
 Egress
 
 Total Capacity 2011
-Lit Capacity Adjusted 2011
+
+Lit Capacity Adjusted 2011	31.3 % can Access:
+
 Available to Access 2011
+
 Egress 2011
 
 Available to Access 2011
@@ -4251,15 +4477,9 @@ Notes
 Collateral
 
 Access_Direct
-lnterconnections
+
+Interconnections
 
 Latest Telegeography Page
 
 Intel Value Notes
-
-33.7 can Access:
-
-31.3 can Access:
-
-
-

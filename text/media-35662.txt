@@ -1,21 +1,18 @@
-TOP SECRET STRAP1
+﻿TOP SECRET STRAP1
+
 12th November 2010
 
-ICTR-MCT Team 
-
-MHE Team 
-
+ICTR-MCT Team (ICTR-MCT-GCHQ-dl)
+MHE Team (MHETeam-GCHQ-dl)
+OPDSDHQ^^^H
 
 TEA
 
-Benhall Records Centre 
-
- 
+Benhall Records Centre
 
 iPhone target analysis and exploitation with unique
-device identifiers
 
-Summary
+device identifiers
 
 This paper describes standard analysis techniques
 that have been used to both discover iPhone
@@ -28,52 +25,59 @@ target phone. It highlights the exploits currently
 available and the CNE process to enable further
 targeting.
 
-  
+OPDSDH
 
-
-
-  
+Summary
 
 Page 1 of 11
+
 TOP SECRET STRAP1
 
 TOP SECRET STRAP1
+
 12th November 2010
 
-A. REFERENCES
+A.	REFERENCES
 
-iPhone applications and privacy issues: An analysis of Application
-Transmission of iPhone Unique Device Identifiers (UDIDs),
+[a]	iPhone applications and privacy issues: An analysis of Application
+Transmission of iPhone Unique Device Identifiers (UDIDs),|
+
 October 1 2010
 
-CROWN PRINCE Techni ue for identifying Apple UDIDs in HTTP traffic
-8/7844/5001/1/105? 22/07/10
+[b]	CROWN PRINCE - Technimjefondentifying Apple UDIDs in HTTP traffic
 
-Strategic Framework Task 4138585 Report No: Roke 
+- B/7844/5001/1/105J
+
+[c]	Strategic Framework Task 4138585
 October 2009 Issue 2
 
-The Good ienetration iuide -
+22/07/10
 
-[e1  SEPP  
-wheelie-?
+- Report No: 72/09/R/416/C, Roke
 
-B. BACKGROUND
+[d]	TheGoodpeneti^
 
-1. Every Apple iPhone, iPad and iPod touch has a unique hardware
+[e]	Current SEPP targets
+
+[f]	iPhone target list
+
+B.	BACKGROUND
+
+1.	Every Apple iPhone, iPad and iPod touch has a unique hardware
 identifier called the Apple UDID. The UDID is a 40 character hex string
-(160 bits) that seems to be a hash of the IMEI, serial number and
+(160 bits) that seems to be a SHA-1 hash of the IMEI, serial number and
 the Bluetooth and WiFi MAC addresses. The UDID is available to
 developers of applications for these devices, and it is used to identify a
-given device. As highlighted in the UDID is seen in multiple apps and
+given device. As highlighted in [a], the UDID is seen in multiple apps and
 can be used to allow target tracking or be used to correlate with other
 personal identifiers.
 
-2. The Mobile Theme has invested a large amount of research into iPhone
-apps and metadata anal sis over the last year accumulating with a
-detailed report done by in October 2009 and 29 SEM rules
-created by ICTR-MCT These rules have used to extract iPhone
+2.	The Mobile Theme has invested a large amount of research into iPhone
+apps and metadata analysisover the last year accumulating with a
+detailed report done by^^|[c] in October 2009 and 29 SEM rules
+created by ICTR-MCT [b]. These rules have used to extract iPhone
 metadata for a number of apps and in particular the Unique Device
-Identifier (UDID) from any carrier being processed using DEBIT CARDs.
+Identifier (UDID) from any carrier being processed using DEBIT CARDS.
 Further TDI rules are being developed by GTE that will in the future
 extract UDID events from carriers processed through the MVR system.
 The resulting events have then been used to populate both research and
@@ -81,51 +85,52 @@ corporate QFDs (Query Focused Datasets) such as MUTANT BROTH
 and AUTOASSOC and will eventually form the basis of mobile
 correlations in HARD ASSOC.
 
-3. Initially, an exploit was developed by the Joint Mobile
+3.	Initially, an exploit was developed by the Joint CNE/TECA Mobile
 Exploitation Team for iPhone that was to be delivered to the target
 phone when syncing with an exploited end point machine. This was
 successful for a BROKER target and resulted in the extraction of SMS,
 call logs and contact details. After this initial trial, CNE and SD undertook
 work to discover other single end points seen syncing with iPhones.
 
-4. At HANDEX 2010 (handset exploitation workshop) in August, various
+4.	At HANDEX 2010 (handset exploitation workshop) in August, various
 aspects of the iPhone OS were investigated for potential vulnerabilities.
 
 Page 2 of 11
-TOP SECRET STRAP1
-
-C.
 
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
 12th November 2010
 
 Using an open source PDF vulnerability when using the Safari browser,
-Joint Mobile Exploitation Team were able to develop an
+Joint CNE/TECA Mobile Exploitation Team were able to develop an
 exploit to deliver a WARRIORPRIDE implant to a target test phone.
 Further, investigation, liaison and testing with the CNE QUANTUM team
 resulted in approval for the implant to be deployed against QUANTUM
 iPhone targets.
 
-DESCRIPTION OF ANALYSIS
+C.	DESCRIPTION OF ANALYSIS
 
 CNE Endpoint
 
-As part of the SD Mobile Exploitation theme to identify further end point
+5.	As part of the SD Mobile Exploitation theme to identify further end point
 machines that had been seen syncing with iPhones, a survey was
 undertaken by CNE and TAO to scan all target end point machines for
 the appropriate iPhone registry keys. Scanning of all CNE stored single
 end point (SEPs) registry keys on particular process IDs resulted in 9
-CNE endpoints seen this year sync'd with iPhones. The resulting Unique
+CNE endpoints seen this year sync’d with iPhones. The resulting Unique
 Device Identifiers (UDID) were extracted from the registry keys and ran
 in MUTANT BROTH and AUTOASSOC, resulting in 6 correlations with
 either iPhone Safari user agents or the iPhone Mail app seen in passive
-coHecdon.
+collection.
 
-A CNE end point operation 
+6.	A CNE end point operation against	SO LINE
 
-EPILSON had resulted in access to a windows end point machine
-. A scan of this machine's re istr keys resulted in UDID
-. As can be seen, the
+EPI^ONHtad resulted in access to a windows end point machine
+^^^^^^^^^^carM3HhknTTachine^egistrW<eys resulted in UDID
+
+As can be the
 
 UDID has been seen with the Admob SEM rule type and with the Apple-
 IMEI-URI TDI type. Admob is the largest mobile advertising network
@@ -133,210 +138,244 @@ allowing games publishers to embed adverts and therefore receive
 revenue from a number of different brands. The target iPhone OS is 3_0
 as shown in the User Agent profile in figure 2.
 
-type value
+TDI type
 
- 
+TDI value
 
+0	EHP_AdmotHsu-Uft)
 
+[7] EihUTÛ_Apple-imBi-Um
+[^1 EHP^Admob-X-Admcb-Iiu
 
+Figure 1 - MUTANT BROTH Matching Identifiers
 
-
-HIE
-
-EHF_Admuh-H-Admnb-I5u
-
-Figure 1 MUTANT BROTH Matching Identifiers
-
-I COLIN 
-
-{93}
+TDI
 
 User-Agent
 
- 
+£vent Count
 
-anillajin ?Phillie: II: CPII iPhone ['15 3_n like Mac HS 3: HIV iPhnnel,2: Ian?us) 
-like Gecko} 
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Ma c OS X; Hw iPhonel.2; emus] AppleWebKit/525.18,1	3 <18 %0
 
-iPhunc Mail 
+(KHTML, like Gecko) (AdM*b-ISDK-2a(J9l)Z(J3)
 
-riuzillarab (iPhone: u; CPU iPhone as a, like Mac as NW nPhoneI.z: en 
-(ICIITHL. like Gecko) 
+iPhone Mail (7A.341)	11(68%)
 
-Figure 2 ??iPhone UDID User agent profile
+MQZIIfa/S.D (iPhone; U; CPU IPhone OS 3_Q like Mat OS X; MW iPhonel.Z; en_us) AppleWebKit/SZS.Lö.L	till %)
 
-3 [13 ?1'33
+(KHTML, like Gecko) <AdMob-iSDK-20090609)
 
-11 [was 
-2 {12 'er
+Figure 2 -|
+
+iPhone UDID User agent profile
 
 Page 3 of 11
+
 TOP SECRET STRAP1
 
 TOP SECRET STRAP1
+
 12th November 2010
 
-7. The target UDID can be used track the iPhone seen with ASBOLINE
-EPILSON end point machine. In this particular case the tar et UDID has
-been seen 16 times, the last time off Pi on the
+7.
+
+The target UDID can be used track the iPhone seen with ASBOLINE
+EPILSON end point machine. In this paiTiculaj^ase^he^arge^pID has
+been seen 16 times, the last time off	on the
+
 24/10/10 using the inbuilt iPhone Mail client to access his yahoo
-
 account. The user agent for this is shown in Figure 3. In this case the
-TDI rule was used to extract the specific UDID
-
- 
-
+EAUTO_Apple-imei-URI TDI rule was used to extract the specific UDID
 value.
-TDI?Scope Auto Route
-User?Agent iPhone Mail 
-Labelled?Ru ute
-Figure 3 iPhone Mail client user agent
-Bearer .5."ng E?se'g Either info
-TDI-5L0: HclLilIll I: Ruute
 
-I
+TDI-Scope Auto Route________
 
-Source 
-at-Tranifn rm SEM- 
-User?Fluent fqu-crne; CPU
-iPhone 0'3 3_0 like Mai: 0'3 
-iPhone'LE; Aggiei?lebKItFEZE-L?l
-lile Geclt) [Adm-31::-
+User-Agent iPhone Mail (7A341)
+Labelled-Ro ute
 
-Labelled-Route
+Figure 3 - iPhone Mail client user agent
 
+Bearer Siged Pddg Ssdg Other Info
 
+GWVCB0Q1
 
-Figure 4 iPhone Admob user agent profile
+TDI-Scope Machine Ruute
 
-8. The UDID for all 6 targets were run through AUTOASSOC. The result for
+Source C PC_0EBITCARD
+horro at-Tran Storni SEM->TD!
+
+User-ftoent Mozilla/5.0 (iPhone; U; CPU
+iPhone OS 3_0 like Mac OS X; HW
+iP h o neljï ; e n_uí) App leWebKitf 5 25.13.1
+(KhlTML, like Gecko) (AdMob-
+iSDK'20090609) AS-IP-Src NO_MATCH
+
+Figure 4 - iPhone Admob user agent profile
+
+8.	The UDID for all 6 targets were run through AUTOASSOC. The result for
+
 is shown in Figure 5. As can be seen there is a clear
+correlation with the^^^^^^^Hyahoo-Y-cookie.
 
-correlation with the yahoo-Y-cookie.
+Known TE>1
 
-Kno wn TDI Pu ta the CORN TH Score Events Moat
+ole-imei-URI:
 
- 
+EXP_Admob-isu-URI:
 
-tasking .7 recent
-Vahoo-V-Cookr'e: 0.500 1 23/08/10
-Vanoo?V?Cookie: 0.500 1 14/11/09
-Vahoo-V-Cookr'e: 0.500 1 14/11/09
-Vahoo-V-Cookr'e: 0.500 1 19/06/10
-Vahoo-V-Cookr'e: 0.500 1 10/12/09
-Yehoe-Y-Coeki'e: 0.500 1 19/08/10
-Vahoo-V-Cookr'e: 0.500 1 23/08/10
-Vahoo-V-Cookr'e: 0.500 1 10/12/09
-Vahoo?V?Cookie: 0.500 1 19/06/10
-Vahoo-V-Cookr'e: 0.500 1 15/11/09
-EXP_Admob-rsu-URI: EXP Admob-X-Admob-Isu: DISDD 1 19/09/10
-EXP Admob-X-Admob?Isu: EXP_Admob-rsu-URI: DISDD 1 19/09/10
+EXP Admob-X-Adrrtob-lsu:
 
-Figure 5 AUTOASSOC results for ABSOLINE EPSILON
+Putative TÙ1
 
-9. The IP address, identifier type, bearer and user agent type for all 6
+Yahoo - Y- Cookie :
+
+Yahoo - Y- Cookie :
+
+Yahoo-Y-Cookie:
+
+Yahoo - Y- Cookie :
+
+Yahoo - Y- Cookie :
+
+Yahoo - Y- Cookie :
+Yahoo-Y-Cookie;
+
+Yahoo - Y- Cookie :
+
+Yahoo - Y- Cookie :
+Yahoo-Y-Cookie:
+
+Yahoo - Y- Cookie :
+
+EXP Admob-X-Admob-Isu,
+
+EXP_Adrnob-isu-UR!:
+
+CORINTH tasking ?	Score	Events	Most  recent
+-	1.000	13	24/10/10
+-	□ .SOD	1	23/00/10
+-	o.soo	1	14/11/09
+-	o.soo	1	14/11/09
+-	o.soo	1	19/06/10
+-	o.soo	1	10/12/09
+-	0.500	1	19/00/10
+-	o.soo	1	23/08/10
+-	o.soo	1	10/12/09
+-	o.soo	1	19/06/10
+-	o.soo	1	15/11/09
+-	o.soo	1	19/09/10
+-	o.soo	1	19/09/10
+
+Figure 5 - AUTOASSOC results for ABSOLINE EPSILON
+
+9.	The IP address, identifier type, bearer and user agent type for all 6
+
 targets was extracted and formed the basis of further target development
 work. Running the resulting 6 UDIDs through AUTOASSOC, resulted in
 two correlations with a high enough score. These were
-and and confirmed to be correct after discussing with
+and	and confirmed to be correct after discussing with
 
 Page 4 of 11
-TOP SECRET STRAP1
-
-10.
-
-11.
-
-12.
-
-13.
-
- 
-     
-     
-
- 
 
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
 12th November 2010
 
-the Checking BROADOAK tasking revealed that both targets
+Checking BROADOAK tasking revealed that both targets
 had known associated iPhone IMEIs already tasked.
 
-A recent rescan of all currently active CNE SEPs resulted in only 5 of the
+10.	A recent rescan of all currently active CNE SEPs resulted in only 5 of the
 9 identified CNE machines actually being available for exploit. The other
 4 implants having been removed. Of these five UDIDs, four returned with
 correlated UDIDs that had recently been seen in passive collection.
-These are contained in the iPhone target list 
+These are contained in the iPhone target list [f],
 
-Analysis of all TAO SEPs resulted in 116 UDIDs being identified. Of
+11.	Analysis of all TAO SEPs resulted in 116 UDIDs being identified. Of
 these UDIDs, 15 were correlated with iPhone user agents and the
 resulting identifier type, project name, case notation and IP noted. A full
-list is available in the iPhone target list Of these four had the Cydia
+list is available in the iPhone target list [f]. Of these four had the Cydia
 user agent as shown in Figure 6 indicating the target had jailbroken their
-phone. All four end points were located in
+phone. All four end points were located in^^^^|.
 
-TDI??rnpe Hanhme Rnute
+i |][-Hrrcpp machine fficuitp
 
-Source CFC DEEIITCARZI
-Format Transform SEM 
-User?Agent Mozilla/5.0 Romania/2501
-[ll-10006: 
-AppleWebKib?ElD 13 like 
-Hermon/4.0 Nubile/7011 Safari/528.16
+DEEHTCAPO
 
-- nH-IP-ljir-
+Format -Transform 3EM'»TD1
+llsor-Agent Mozilla/5.0 ReckApp,J2.6C .L
+(iPhone: U; CPU like Ctdia/l.D.3172-66)
 
-Labelled-Hunt:
+fippls WehKiVSlD .13 (KHTT'IL, like Gieko)
+Version/J .0 Mobils/7Dll 5afari/52S.16
+AS-lP-Src	AS-IP-Ostl
 
-.uen .. . ream- .. .
+Labelleij-RuuLe
 
+Euent-CSL EEQ7CB Stream-C
+E F0 7CS0 0 0 000000 0 Q 300000 0 0 000000 0 Z 0
 
-Figure 6 iPhone jailbroken user agent in MUTANT BROTH
-The same 15 TAO UDIDs were run through AUTOASSOC and resulted
+Figure 6 - iPhone jailbroken user agent in MUTANT BROTH
 
-in three ood correlations with yahoo selectors 
-and These were in
+12.	The same 15 TAO UDIDs were run through AUTOASSOC and resulted
+
+inthreeaoodcoirela^	yahoo sel i li n
+
+were in
 
 turn confirmed to be correct correlations with TAO target end points and
 two showed associated target iPhone IMEIs. Further, analysis of the
 Yahoo mail used via the Safari browser clearly showed the resulting
 UDID was transmitted in traffic.
 
-One of these TAO end point machines, SOLARSHOCK116 
-Iranian has been seen ncing with iPhone
-UDID was correlated
-with and using
-AUTOASSOC. The UDID was last seen on 23/10/10 at 03:46:362 on
-using the TDI.
+13.	One of these TAO end point machines, SOLARSHOCK116
 
- 
+lranian)Jiasbeense^	with iPhone
 
- 
+was
 
-SawFigure 7- SOLARSHOCK116 UDID AUTOASSOC correlations
+th ^si n
+AUTOASSOC. The UDID was last seen on 23/10/10 at 03:46:36z on
+
+using the EAUTO_Apple-imei-URI TDI.
+
+Jtiraiivn 75?
+
+LAum
+
+
+
+tmei war;
+
+Affsfiue 70/
+
+CSWWtf
+mstang?
+
+i.nnn	33	?3/srvin	FI
+i.OOc«	Si	tt/Wi 0	FI
+U.DJC	2	M/oi/w	El
+0.WQ	1	E3/06AU	0
+0.509	t	? VC 6/10	0
+U.bULT	1	£■0/12/09	0
+0.500	1	21/2 0/10	0
+n.sna	|	w/ee/w	0
+
+Figure 7- SOLARSHOCK116 UDID AUTOASSOC correlations
 
 Page 5 of 11
-TOP SECRET STRAP1
-
-2| 
-
-
-
-
-14.
-
-15.
-
-24.
 
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
 12th November 2010
 
 QUANTUM EXPLOIT
 
-After extensive testing of the QUANTUM tipping and redirection to the
-SHORTSHEET exploitation server by the Joint Mobile
+14.	After extensive testing of the QUANTUM tipping and redirection to the
+SHORTSHEET exploitation server by the Joint CNE/TECA Mobile
 Exploitation Team, further target development work was needed to
 identify iPhone targets recently seen active on the appropriate user
 agents. Bulk extraction of targets over a three-week period from
@@ -345,587 +384,366 @@ further queries in Xkeyscore resulted in others. Others were passed from
 discussions with various IPTs and two were also passed from TAO
 contacts.
 
-In total 44 selectors were checked to verify that the correct user agent
+15.	In total 44 selectors were checked to verify that the correct user agent
 was present. Of these 44 selectors, 41 were yahoo selectors and 3 gmail
 selectors. Of these 26 were seen with a valid iPhone Safari user agent
 as shown in Figure 8. A summary of OS versions seen with target
 phones is shown in Table 1 with OS highlighted in red currently
 exploited. These are 3_1_2, 3_1_3 and 4_0_1. In all 26 cases, the target
-were contacted with details regarding their targets use of an
+analysts were contacted with details regarding their targets use of an
 exploitable iPhone.
 
- 
+iPhone OS	Number
+3_0	4
+3_1	2
+3_1_2	6
+3_1_3	15
+4_0	3
+4_0_1	5
+4_0_2	1
 
- 
+Table 1 - iPhone target OS summary
 
- 
+24. One particular case was	target,with yahoo
 
- 
-
- 
-
- 
-
- 
-
- 
-
-iPhone OS Number
-
-3_0 4
-3_1 2
-3_1_2 6
-3_1_3 15
-4_0 3
-4_0_1
-
-4_0_2 1
-
- 
-
- 
-
- 
-
- 
-
-Table 1 iPhone target OS summary
-
-One particular case was a target,? with yahoo
-selector that was seen active on a iPhone OS
-
+selectorwas seen active on a iPhone OS
 3_1_2, as shown in Figure 8. The resulting Yahoo-B cookie is
+^^^^^^^^■ancha^arUi^eenthetarget has been active off
 
-and as can be seen the target has been active off
-. Running the resulting Yahoo-
-cookie through MUTANT BROTH resulted in 171 events primarily on
-case notations GWUKGOO5, GWVC8003 and IRUKC036. The resulting
-information was then forwarded to the in the -team for
+Running the	Yahoo-
+
+B cookie through MUTANT BROTH resulted in 171 events primarily on
+case notations GWUKG005, GWVCB003 and IRUKC036. The resulting
+information was then forwarded to the analysts in the^^^|team for
 tasking by the standard CNE process as outlined in the Good
-Penetration Guide 
-
- 
- 
+Penetration Guide [d].
 
 Page 6 of 11
+
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+12th November 2010
+
+TDÏ-5	Source CPC_IDEBTTCAR.O Formater
+
+Ser-Agent Masilla/S.ü (iPhone; U; CPU iPhone OS 3_1_2 like Mac QS X; en-us)
+
+Safah/528.i6 j
+
+. TCI Yahoo C Cuij	Y jI'iüli Y Cuukic
+
+FaWebKit/E28.10 ÎKHTML,Tf^jecka^7ersiü'R/4.û Mobile/7Dtl
+I Event-C$1 ËF07C6 stream-CSL EFÜ7C9
+
+TDT Scope Machine Route	Sauren CPC_DEBITCARD Format Transform ÏEM--*TD: Yahoo B CookieYahoo Y Cookie
+
+Iser-Agent Mcmlla/5.0 (iPhone; U; CPU iPhone OS 3_1_2 like Mec OS X; en-us) Ap3ÎeWebKrt/528.lS (KHTML, like Gecko] Versicm/4.0 Mobile/7Dll
+Safari/520.16 AS IP-Src NO.MATCH A5 1P~Dst ^^B Labelled Route	Event-CSL EF07C6 Stream-CSL EFD7C9
+
+TOI Scope Machina Route	IJ see Agent Mo^illa/SG IPhone; IJ; CPU iPhone OS3]l2likelMac OS X; en-us) AppleWebKitfEZa.JLi (K HTML, like
+
+Gecko) Version/d 0 Mobile/7D13 Safan/szg.Lo Yahoo-V-CookleBI^B Yahoo-H-L'ook le^^^B^^^^Yahoo-T-Cook e
+a=59mjMB5ROoHaZV0OSvGskx/MZl£BjY3IMjU2M£ROM[Pe-&a-rAE&&k-DAAYIXEBDZiiNKUBtks-CAAkNKrüqij{:IRDCf>i!j7riGvôg--~E&
+
+d-c2waTkRVMEFURXdKIVEldTURNNU5EZyDBYqFZQUUBZwFFMTclKTlpXMlFNSExGQTdqUQRORlBGQUg2TQFvawFaVEAtAXp6ATÜSbWpNQkE3B.QFDaXABqiI4V]NDE.
+af=OXdBGjFOJnR£pTeyOOOOMDHwfyjUmcHM9üVRkrXF2WUtWai540USUWndm2IM2yOt Yafioa-Y-Cockie-Full v=i&n=abqikÖqdvtMn&l=c0j]Ö4S/o&
+p—fin2nniOOCOO1300QOOO6ir^39&lg^en-US6;iritl-uS&np^l Cvcnt-security-lubcl 10007F Strcâinfï-ScCsirity-labeî 40QO23ECFF
+
+TOT-Scope User P.Tute^^^^^MlUei-Agent Mç-?illa/5 Q (iPhone; Ut CPU iPhone OS 3_1_2 üke Mac OS Wj en-us) AppleWebKi^Sâ.ie EKHTML like
+Gecko) version/4,0 Mobile/7Dii safari/5ZB.i6 Yahûo-Y-cookie^^^Hrahoo-B-cookæ^^^^^^^^|yab@o-T-cookne
+
+Figure 8 -Valid iPhone Safari user agent in MB (
+
+yahoo>)
 
 25.
 
-26.
+The target	with target selector
 
-27.
-
-28.
-
-29.
-
-TOP SECRET STRAP1
-12th November 2010
-
-     
- 
-
-Source run -
-CPIJ iPhone 05 3_1_2 like MaiYohoo-B-Eookic 
-
-- I a so 
-Event-ESL. Stream-ESL 
-TDI-Scope Machine Route Source Format-Transform 'I'ahoo-B-Eookie Tahoo-F-Cnokie
-
-leer?Agent Murillo/5.0 [iPhone; ll; iPhone 03 3_1_2 like Mac OS en?us] like Gecko] 
-Safari/525.16 no, MATCH ns?lP?ost-Labelled?Ruuie Event?col. Stream-ESL EFEITCB
-TDI?Scope Machine Route?User?Agent Mozilla/5.0 (iPhone; u; CPU IPhone es '3 1 2 like Mai: 09 en?osi like
-
-Gecko} version-?40 r-iobilefmn Sofaru??zaio Yahoo?T?Lookie
-NH 
-
- 
-
-ou .
-gent (iPhone;
-
-  
-
-
-Yahoo?T?Eoukie-l?ull 
-Evolil-socuritr-Io?lel Elroarn-oocuritr-Iabol 
-
-User Route [liar-Agent Mozillar'E .0 (Moons, CPU iPhone OS 3_1_2 like Mai: 05 x; err-us} like
-
-Gecko} tiers-owe .0 Mobile/T011 Safer'v'?EEIJb Yahoo-f-cookie-Yahoo-?-Eookie Tahoo-T-Lookie
-I nFFHiTn?wrnr-rumt?.
-
-Figure 8 ?Valid iPhone Safari user agent in MB 
-
-was seen active on different iPhone OS
+^^^^^^^^^^Bwas seen active on different iPhone OS
 and more recently on an iPad. Three other targets were seen active on
 iPads and two others on iPods but with no other associated iPhone
 device. Of the 44 targets seen, 16 were seen using the iPhone Mail
 client that comes by default with all OS. A total of 7 targets were seen
 using the Yahoo Mobile Messenger app.
 
-The target with target selector
+26. For all target selectors seen with valid Safari user-agents, further
 
-For all target selectors seen with valid Safari user-agents, further
 MUTANT BROTH, AUTOASSOC and MARINA queries were performed
 to discover any other possible OS versions seen with the selector.
 MARINA profile queries were performed resulting in the OS version
 being returned within the MachinelD field. The resulting user-agents,
 time/date, bearer, IP and any other associated selectors are shown in
-the iPhone target list Associated selectors are either from MUTANT
+the iPhone target list [f]. Associated selectors are either from MUTANT
 BROTH, AUTOASSOC or seen directly as stated in BROADOAK. All
 Yahoo B-cookies as shown in Figure 8 were run in MUTANT BROTH to
 confirm their uniqueness with the iPhone and target yahoo selectors.
 
-OPERATIONAL OUTCOME
+D.	OPERATIONAL OUTCOME
 
-The QUANTUM redirect and PDF Safari browser exploit was developed
+27. The QUANTUM redirect and PDF Safari browser exploit was developed
 to work against 3_1_2, 3_1_3 and 4_0_1 Safari OS versions. Of the 26
 targets seen with valid exploitable OS version, 5 were added to the
 QUANTUM system for targetting.
 
-Once notified, GCHQ IPTs either added the target to existing CNE
-section 7 warrants as defined in or developed targetting aids as
-defined in and wrote the appropriate warrant. The resulting section 7
-warrants were approved by IPT team leaders and signed off by the CNE
+28.
+
+29.
+
+Once notified, GCHQ IPTs either added the target to existing ONE
+section 7 warrants as defined in [e] or developed targetting aids as
+defined in [d] and wrote the appropriate warrant. The resulting section 7
+warrants were approved by IPT team leaders and signed off by the ONE
 Legal Team. Three NSA targets were discovered and were added by
-CNE Legal Team to the Partner Agreement Forms to allow exploitation.
+ONE Legal Team to the Partner Agreement Forms to allow exploitation.
 
-Initially,?yahoo sele and B-
+Initially,!
 
-ctor
-cookie was put on cover on 
+and B-
+was not seen
 
+yahoo selector
+
+cookie was put on cover on QUANTUM,
 active recently on a iPhone Safari browser to access his yahoo account,
 preferring instead to use the inbuilt iPhone Mail client or his iPad. Three
 QUANTUM attempts resulted in no redirect to SHORTSHEET server for
 
 Page 7 of 11
+
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+12th November 2010
+
+and after further analysis it was discovered that this selector was
+not^^^|but an associate. It was removed from tasking.
 
 30.
 
 31.
 
-32.
-
-33.
-
-34.
-
-35.
-
-TOP SECRET STRAP1
-12th November 2010
-
-- and after further analysis it was discovered that this selector was
-not-but an associate. It was removed from tasking.
-
 Target analysis and warrant was completed for a further five targets and
 a successful QUANTUM redirect and the PDF exploit was delivered for
+
 PFVT658) on the 30th of October. The resulting
 WARRIORPRIDE install was also performed and beaconed on the 2nd of
 November. The target phone was shown to be jailbroken and on the 3rd
 of November content was successfully extracted from the phone and
-was available in Looking Glass. This is highlighted in Appendix with
+was available in Looking Glass. This is highlighted in Appendix B with
 the resulting iPhone directory structure presented how it appears in
 Looking Glass. The WARRIORPRIDE exploit has resulted in extraction
-of the target?s address book, sms, call logs, notes, WLAN logs,
+of the target's address book, sms, call logs, notes, WLAN logs,
 bookmarks, map query history, Safari browsing history and some
 images. Detailed analysis of extracted files will be covered in a further
 report.
 
-A successful redirect to in October was
+A successful redirect to
+
+in October was
+
 performed but due to what is believed to be Javascript being disabled on
 the phone the firmware type of the phone could not be confirmed to
 enable the first stage implant. This initial survey of the firmware type has
-now been removed after discussions within CNE but the target has not
+now been removed after discussions within ONE but the target has not
 been seen recently on his iPhone for exploitation. The two other targets
 tasked for QUANTUM have failed to be seen recently in collect.
 
-Currently, there are four CNE Single End Point machines that have been
-identified with recently sync?d iPhone targets. The most recent being an
+32.	Currently, there are four CNE Single End Point machines that have been
+identified with recently sync’d iPhone targets. The most recent being an
 OVERLIT target seen on 29/09/10. These targets are being monitored
 by CNE and will have the SLIDE exploit installed to allow implant of
-WARRIORPRIDE when the iPhone is sync?d with the existing SEP
+WARRIORPRIDE when the iPhone is sync’d with the existing SEP
 machine.
 
-CONCLUSION
+E.	CONCLUSION
 
-With the analysis of the UDIDs on target machines and correlation in
+33.	With the analysis of the UDIDs on target machines and correlation in
 passive collection with known target yahoo selectors, the UDID can be
-used to correlate iPhone handset to end point machine and tasked
+used to correlate iPhone handset to end point sync machine and tasked
 yahoo selectors. The UDID can be used for realtime tracking of target
 iPhones and could in theory be used as a selector for QUANTUM events
 where other traditional selectors (yahoo-Y/B cookie etc) are not present.
 Of course an exploit for the application would have to be written which is
 not trivial.
 
-It is not possible at this time to take the UDID and reverse engineer the
+34.	It is not possible at this time to take the UDID and reverse engineer the
 SHA-1 HASH to discover the IMEI, MAC addresses and serial number.
 
-Further work is ongoing to identify targets of interest that are suitable for
+35.	Further work is ongoing to identify targets of interest that are suitable for
 the QUANTUM exploitation. Development and monitoring of current
+identifiedtaraets is still being done. Discovery of an associated IMEI for
 
-identified tar ets is still being done. Discovery of an associated IMEI for
-i will help in firmware identification and exploitation of this
+will help in firmware identification and exploitation of this
+
 target.
 
 Page 8 of 11
-TOP SECRET STRAP1
-
-36.
-
-37.
-
-38.
-
-39.
-
-40.
 
 TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
 12th November 2010
 
-CNE are now conducting surveys of all target machines registry
+36.	CNE are now conducting monthly surveys of all target machines registry
 keys for iPhone UDIDs. A similar tipping mechanism for all BROADOAK
 hits needs to be completed using a XKS workflow. Hopefully, other
 targets will be added for QUANTUM exploitation or discovered on new
 CNE SEPs in the future and a successful exploit of a target phone
 performed.
 
-FURTHER WORK
+F.	FURTHER WORK
 
-Analysis of three PRESTON accesses has resulted in the identification
+37.	Analysis of three PRESTON accesses has resulted in the identification
 of a number of iPhone targets. Development work against at least three
-target sets is needed with extraction of appropriate UDIDs and iTunes
+target sets is needed with extraction of appropriate UDIDs and ¡Tunes
 XDSID values. Suitable section 5 warrants need to be in place to pursue
 these end point machines, once CNE have gained access and the
 resulting target iPhones have been discovered.
 
-With further work being undertaken by B88 and TECA on the
+38.	With further work being undertaken by BSS and TECA on the
 WHIPSAW redirect and exploitation server, it should be possible in the
 coming months to implant directly the target iPhone. However, the
 WHIPSAW exploit is only available via the tasked ADSL line.
 
-An automatic implantation of SLIDE on to an iPhone is needed.
+39.	An automatic implantation of SLIDE on to an iPhone is needed.
+
 Currently this is manual process requiring a CNE operator to be
 connected to the endpoint machine whilst the target is syncing the end
 point machine and iPhone.
 
-A larger number of iPhone TDIs need to be written to allow further
+40.	A larger number of iPhone TDIs need to be written to allow further
 events to be populated into the QFDs allowing correlations with other
 target selectors. This will also enable further real-time tracking of target
 identifiers.
 
 Page 9 of 11
+
 TOP SECRET STRAP1
 
 TOP SECRET STRAP1
+
 12th November 2010
 
 APPENDIX A
 
-Targeting aid
-
- 
-
-IMEI for target selector 
-active and an iPhone?
-
- 
-
-C2C target selector 
-yahoo, gmail, hotmail, UDID
-
- 
-
- 
-
- 
-
-   
-
-Telephony selector seen
-correlated in MARINA,
-SOCIAL ANTHROPOID
-or 
-
-  
-      
-
-Unlikely due to the lack of
-correlated mobile bearer collect
-but worth checking
-
- 
-
- 
-
- 
-
- 
-
-C2C target selector active on
-any iPhone user agent?
-
- 
-
- 
-
- 
-
- 
-
-MozilIa/5.0 (iPhone; 
-CPU iPhone 08
-Target high enough priority
-
-for CNE End Point op?
-Discuss with Team Leadej
-
- 
-
- 
-
-and Tech Ex
-
- 
-
- 
-
-Put together CNE 11HSEP Targeting 
-
-
-
-Tech Ex QC and draft section
-7 warrant or add to existing
-
-
-
-Email pack to CNESEPP iPhone OS 3_1_2, 3_1_3, 4_0_1
-then add to QUANTUM
-
-End Point OP check for UDID
-in any registry keys
-
- 
-
- 
-
-Must have appropriate bearers on cover
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-SLIDE run and WARRIOR PRIDE
-installed on handset
-
- 
-
- 
-
-Page 10 of 11
 TOP SECRET STRAP1
 
 TOP SECRET STRAP1
-12?? November 2010
 
-APPENDIX 
+12th November 2010
+
+APPENDIX B
 
 Looking Glass iPhone directory structure
 
-12>_ 33
-File Browser
+\lib'ary\preferences\systenconfigiration								[see
+Nellie	d -,	mB			i Si«	File Type	Path	Dale Mudified
+© IaI /vai /mobiletmcdia/dcimtlOOappic/img 041C.jpc			autowake, plist	FT-	034.00		... \librorr\praferences\,.	01-Jan-1D00 00;...
+®--[Sl /var/mobilein-iedia/dcimilOOapple/img 0415. jpe			nntwnik. ¡Hnnhifirah nn. plkh	L	20.22KE	PLI5T File	,,, \librarv\praferences\,,	Cß-Nov-2010 17.,,
+â-[Â|\		0 rrm.^pple	lAiif pliih	L	1R.I11KF	PI ET File	... \lihrarv\pr=fi=n=nrps\.	in-Nnv-7mni7...
+!--& bin		1=1 netwcrkin:erf aces, plist		L r	1.35KB		... \librarv\Dreferences\..	01-Jan-1300 00:...
+i—& dev		|i| preference	s.plist	L	16.16KE	PLI5T File	... \librarv\preferences\..	03-No v-2010 17...
 
+3> library
 
+presences
 
- 
+sysiemconfiguiration
 
-heme Size File Type MuJilieiJ
-I ccm.q3plc.outowal<e.pli5t 504.00  .. 01-Jan-1300 00:
-20.22KE PLIST File  \librar'zlpreFerencesl. .. 03-Nov-2010 
-- :1 rrm..=finl1=.wiF .nlisl' 15.01KF Pl File  'Llihrarv'tnreFerenres't. .. 
-bin 1.35K8  'tlibrar'r'tbreferences'l. .. 01-Jan-1300 00:
-day preferencasdist 16. PLIST File  .. 03-Nov-2010 
-library
+? private
 
-- L: pre:erences
-L: syszemcon?guration
-- 1: private
-
-var
-
- 
-
-
-L: aDEleDlD
-
-apcleusbclevice
-
+-l(2?> lihiwy
+©■■& apcleotp
+&■& appleusbdevice
 aucio
-
 canes
 
 carrier bundles
-coreservlces
- dotaclossmigi'otoi's
+©■& coreservices
+GJ £> datadwsmigrators
+©■& extensions
+ra filfisy sl-e.ms
+¿1 & fonts
+SMS’ frametAorks
+S-& internet plug-ins
+III	keyboa'ddictioriaries
 
-.1
+l±l& launchcaemons
+©■■& lockdown
 
+Cp	manogedccnfigjrotonbjnde;
 
+¿1	mediacapture
 
-extensions
+prefprFnrphundlps
+©■& privatefrarreworks
+©■■& puitlishhgbundlas
+©■■& seerchbundes
+©■& sprhgbsardplugins
+©■■& sys:emconliguration
+©■& texilnput
+GJ £> videodecoders
+©	videoencoders
 
-Filesysl'ems
-
-fon:s
-
-framework
-
-internet plug-ins
-
-keyboa'clclictionaries
-
-launchcaemons
-
-locleclown
- 
-
-
-
-
-
-
-
-mediacaptLre
-
-nrezerenrehi Inrlles
-Drivatelrarreworks
-
-searchbuncles
-
-
-sys:emconl'iguration
-tex:lnput
-
-videoclccoclei's
-
-
-
-.1
-
-?t videoencoclers
-
-
-bin
-
-sbin
-var
-
-mobile
+& bin
 
 returned files
 
-610113.101 :3
+fe3 IS, lid, 11.] '¿Z I
+
 File Searcher
 
-Sel 
-MJdFicatiJn time Creation time Accessed time Files 3.e:rieved
+default |v]	defaut: |v	default: v	HI default:
+after llfl:/20C0 §	after Il/:lj2000 g|	after U/11,'2C0C	after
+upfr nrrpnin	np-n 11/ 1,701 fl §j|	up to n/it;?nr g|	iptn 111/1
+			
+default: |w|	I	I		Ö
+mh 0	Specify Path:		530file(s) found
+may 500715112547405151	I	I		
 
-defaJlt defaut: defath: 
+i^Files Relieved
 
-after 1111:1200: 3 after 111.112030 2 after 11111.'2c0c afber
+result reached (500),
 
-Ilnl'n 1111-12010 a mum 111112010 3 ?pm 11111,'2r1r 3 mm
-Fie Size (11 ii all/paiL ul 
-deFaL/t: lgcarch
-m'n 0 513989? Path: 5:10 019(5) Found
-
-may. 9007199254340991
-
-Warning: Maximum scorch
-I':5ult reached (500).
-Try a ino'e 5p:ci:ic search
-
- 
-
- 
-
- 
-
-        
-
- 
-
- 
-
- 
-
-     
-
- 
-
- 
-
- 
-
-    
-
- 
-
- 
-
- 
-
- 
-
-\ch 11!: fig: File Typ: 1 MJiJlieiJ DaLe C'eaLeJ ReinveiJ
-aclcressbook.soltedb l_ 236.0K8  31-Jan-1800 31-Jan-1830 RECEIVED 02/11/1013:06
-cdci'essbook.sqltedb 206.0103 \ci'ivotch'oi'imoblelji. .. 31-Jcn-1000 00: . 31-Jan-1030 0E: . .. RECEIVED 02/11/10 16:06
-51115.03 88.0KB  31-Jan-1800 00: . 31-Jan-1830 RECEIV 02,111,110 13:06
-srns.d:i 88.0KB  \crivatelvarimoblelJi. .. 31-Jan-1800 0 . 31-Jan-1830 RECEI 02/11/10 16:36
-Le ILer .pli:L 134.08  .. 31-Jci 1-1000 0 RECEI 02/11/10 10:06
-oom.ajpe.:omrrce1ter.plist 134.08  31-Jan-18000 . 31-Jan-1830 0E RECEIV. 02,111/10 16:36
-14.9KB  \librar'zlprezererc . . 31-Jan-1830 0E RECEI 03/11/10 17:12
-oomajpewl?plst 15.01103 PLIST File  RECEI 03,111,110 1?:11
-l_ 1.23<8  31-Jan-1800 00: . 31-Jan-1830 RECEI 02/11/1013:06
-1.23<8  \vorimobiclibrorylp? 31 1800 00: . 31 Jan 1830 RECEIV 02/11/10 16:36
-166.08  UU: . 02,111,110 13:01:
-com.c?DDe.Voutube.Dist l_ 166.08  'tvartmobie'library'lnn . 31-Jan-1830 RECEIVE 02/11/10 16:36
-\lyo'lmobileilitra'yl. .. . 31-Jan-1030 0E RECEIVED 02/11/10 10:06
-com.appe.accountsettirgs.plst 
-oom.q3pe.nq3s.plist 1.12(.8  02/11/10 13:06
-Iqu>.plbL 1.1ZKB  . . 31-Jai 1-1030 0E 02/11/10 16:06
-100.08  . 31-Jan-1830 02,111/10 13:06
-oom.q3pe.3reFerences.datet me.clist 100.08 \varimobielibrarylp? 31-J=n-1800 00: . 31-Jan-1830 0E: . .. RECEIVED 02/11/10 16:36
-1.0118  Ivartmobletlbrarytp? Juan-1600 00: . Juan-1630 02,111,11016:36
-l_ 88.08  31-Jan-18000 . 31-Jan-1830 02/11/1013:06
-1.0K8  31 18000 02/11/10 13:06
-8818  Ivartmobletibrarytp? . UL 02,111,110 16:31:
-0.08  31-?an-18000 . . 31-?lan-1830 0F 02/11/10 13:06
-cr-dynonic-text 2.41K0 \lyo'lmobileilitra'yl. .. 31-Jcn-1000 00: . 31-Jan-1030 0E: . .. 02/11/10 10:06
-ar-dynanic-textclat 2.41K8  31-Jan-1800 00: . 31-Jan-1830 
-cyramic-tectdat 18.9318 \lda'lmobileilitra'yl. .. 31-Jan-1800 00: . 31-Jan-1830 0E: . .. 02/11/10 13:06
-Lyi 16.9613 31-Jci 1-1000 00: . 31-Jai 1-1030 0E: . .. 02/11/10 16:06
-1?0.08  31-Jan-1800 00: . 31-Jan-1830 
-rotes cll: 32.0KB \lva'lmobileilitra'yl. .. 31-Jan-1800 0 . 31-Jan-1830 0E 02/11/10 13:06
-170.08  Juan-16000 . . 02,111,11016:36
-rotas cll: l_ 32.0(8  'tvartmobie'library'tnn 31-Jan-1800 0 02/11/10 16:36
-143(8  31 18000  02/11/10 13:06
-
-     
+a lit		1 1 1	1	File Typs	1 Fat.	Date	Mud Tied	i Date C Bated Lil	kToytl	| 5IoLjs	i DaltReusived
+Id	cdcressbûok. sql tedb	IB v	236,0KB		... \\arivate\va'\mobile\...	Jl-Jc	-1800 00	... Jl-Jan-18300C:..,		RECEIVED	02N1/10 13:0E
+cd cress book, sql tedb		L	230.01®		... \privotemob Ic'Ji...	31-Ja	-1000 00	... 31-Jan-1030OC:...		RCCCIV3D	03/11/10 L 0:0C
+»	ans. da	■ 1	8S.CKB		... \\arivate\va'\mobile\...	31-Je	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02/11/10 13:06
+m	sms. do	■UE3			... \private\var,mûble\)i...	31-Ja	-isnn nn	... 31-Jan-lSJOOC:...		P.ErEIV-D	03/11/10 L6:3E
+1	ujlii.cppe._uiilli ue iter .pli:L	L	134,06		... \\va\."ubilediLia-y\,,,	31-Jc	-1300 00	... 31-Jai 1-1830OC;,..		RECEIVED	02111/10 13;0E
+in	cam. epp e. romrr center. plist	L ?	134,OB		... \var^noble\ibrary\p..	Jl-Jc	-1800 00	... 31-Jan-1830OC:,,.		RECEIVED	O3HI/IO 16:36
+Ë	com. app=. .-•.■ili. plist	L v	14.5KB		... \\ibiarv\p,ro:eiorcos...	31-3a	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	03/11/10 17:12
+a	com.eppe.Ailfl, plist	L •:	15.01KB	PLIST File	... \llarary\prefarences\...	33-No	t-zoi: it	. 33-No V-2C10 17,,		RECEIVED	03/11/10 17:11
+m	oarn. epp e. nebilesafari. plist	L	1,23KB		... \\va'\mobiletlibra'y\...	31 -Je	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02H1/10 13:06
+a	com. epp c. ncbilesùfcrï. plist	L ?	1.22KB		... \u^moblc\ibfory\p..	31 3c	1SOO 00	... 31 Jon 1S30 OC:,..		RECEIVED	02111/10 16:36
+a	com. epp e. youtube. p ist	L	Ibb.UB		... YVa'\mobiletlibra'y\...	Jl-Jc	-180U UU	... Ji-Jan-iBJUUL:,,.		KECEiVoD	U2H1/1U u:ufc
+ë	cam. epp e. youtube. p ist	L	166,OB		... \varrrnoble\ibrary\p..	Jl-Jc	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	02f 11/10 16:36
+a	com. epp e. accountsettirgs. pi st	L	2.27KB		... W'o •\mobilodibro y\...	313c	-1000 00	... 31-J,in-1030 OC:..,		RECEIVED	03/11/10 13:06
+i	com. epp e. accountsettiras. pi st	L V’	2,27KB		... \var^moble\ ibrary\p..	Jl-Jc	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02/11/10 16:36
+is	com. appe. nips, plist	L ?	1.12KB		... \Va'\mobfediba-y\...	31-Js	-1SOO 00	. .. 31-Jan-lS30 OC:...		RECEIVED	02'H/IO 13:06
+a	uuiii.cppe. ii^js.plbl	L	1,12KB		... \vary 1 iuble\ibraiy\p,,	31-3c	-1300 00	... 31-Jai 1-1630OC;,..		RECEIVED	02,111/10 16:3E
+m	com. epp e.areferences.datet me, plist	L ?	100,OB		... a '\m o bilei, 1 i tra' y V..	Jl-Jc	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	0^111/10 13:06
+Ë	com. app e. :r*f stances. da tot me. plist	L	100.OB		... \var^moblo\ ibiary\p..	31-3a	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	O3/II/IO 16:36
+a	com. epp e. weather. p 1st	L •:	1.0KB		... \var^mobIe\ ibrary\p..	31-Je	-1600 00	... Jl-Jan-lCOOOC:...		RECEIVED	02/11/10 16:36
+a	com. aap e. ncbilephone .settings. p ist	L	88.C6		... ttva'\mobiledibra-y\,,,	Jl-Jc	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02H1/10 13:06
+a	com, epp c, «cot hei, p ist	L ?	1.0KB		... Wo'\mobiloditro-y\...	31 3c	1SOO 00	... 31 Jon 1SDOOC:,,.		RECEIVED	02'H/IO 13:06
+in	com. epp e. ncbilephone, settings, p ist	■ r	88.Lt!		... \varimoble\ibraryYp,,	Jl-Jc	-180U UU	... Ji-Jan-iBJUUU,,.		KECEiVoD	U2H1/1U ib:3fc
+a	lexiana ja jp-rlynamr-fRxt.raf	L	n.OR		... \\va-\mnhilft(libra'yY...	31-V	-i8on nn	... 31-lan-1830OC:...		RFCFTV-D	07/11/10 13:06
+a	cr-dynanic-text det	L	2.41KB		... W'o •\mobilodibro y\...	31-Jc	-lOOO 00	... 31-Jin-1030 OC;,		RECEIVED	03/11/10 13:06
+m	er-dynanic-text det	■ -,	2.41KB		... \varimoble\ibraryYk...	Jl-Jc	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02/11/10 16:36
+n	cyramic-teyt.dat	L ?	13.501®		... \Va'\mobfediba-y\...	31-3a	-1SOO 00	... 31-Jan-lSJOOC:...		RECEIVED	O2III/IO 13:06
+a	uyi aniiL-Lcx.L.dd.	L	10.931®		... \vary 1 iuble\ibraiy\k...	31-3c	-1300 00	... 31-Jai 1-1830OC;,..		RECEIVED	02111/10 16:36
+M	fe il-dynanic-text.det	L ?	170,OB		... a '\m o bilei, 1 i tra' y V..	Jl-Jc	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	O3III/IO 13:06
+a	rotas dt	L	32.CKB		... \\ya'\mobilodibra'y\...	31-3a	-1800 00	... 31-Jan-1830 OC:,,.		RECEIVED	O3/II/IO 13:06
+a	fejl-dynanlc-text.det	L	170.OB		... \vargnobIe\lbrary\k,,,	31-Je	-1600 00	... 31-Jan-1630 OC:,		RECEIVED	02/11/10 16:36
+m	rotas db	□ V	32.CKB		... \vanmoble\ibrary\n..	Jl-Jc	-1800 00	... 31-Jan-1830OC:...		RECEIVED	02H1/10 16:36
+a	tocknore, plist	IB T	4.42KB		... Wo'\mobiloditro-y\...	J1 Jc	1SOO 00	... 31 Jon 1830 OC:,,.		RECEIVED	O2III/IO 13:06
 
 Page 11 of 11
-TOP SECRET STRAP1
 
+TOP SECRET STRAP1

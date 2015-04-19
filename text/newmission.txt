@@ -1,103 +1,98 @@
- Starting Up a New Mission at the European Security
+﻿(S//SI//REL) Starting Up a New Mission at the European Security
 Operations Center: End-to-End SIGINT
 
-
+FROM
 
 Intelligence Analysis Intern
-Run Date: IEIDEIEDDT
+Run Date; 12/05/2007
 
-When considering possible TDY and deployment locations, many of my
-Intelligence Analysis Development Program colleagues have opted for Iraq,
+(S//SI//REL) When considering possible TDY and deployment locations, many of my
+Intelligence Analysis Development Program (IADP) colleagues have opted for Iraq,
 
-lofd
+1 of 4
 
-Afghanistan, or an site. At least for now, I chose to avoid the heat and sand and
+Afghanistan, or an SCS site. At least for now, I chose to avoid the heat and sand and
 took advantage of a different opportunity for my fourth IADP tour. From
-May-September EDDT, I completed a TDY from Ft. Meade to the European Security
-Operations Center in Darmstadt, Germany.
+May-September 2007, I completed a TDY from Ft, Meade to the European Security
+Operations Center (ESOC) in Darmstadt, Germany,
 
-The ESDC
+(U//FOUO) The ESOC
 
-ESDG, which stood up in April EDEN-I [see some baclroround}, is ajoint
-Ar'myi'NSA SIGINT operations center and serves as the SEIAnalysis 8: Production
-arm Europe ESDG's personnel mi): consists of 1D5th MI
+(S//SI//REL) ESOC, which stood up in April 2004 (see some background!, is a joint
+Army/NS A SIGINT operations center and serves as the S2/Analysis & Production
+arm of NSA/CSS Europe (NCEUR), ESOC's personnel mix consists of I05th MI
 Battalion soldiers, a small Marine detachment, contractors, Department of the
-Army civilians, and NSA civilians in Darmstadt and Stuttgart in Germany as well as
-in Molesworth, England, and Mons, Belgium. ESDG's missions include African
+Army civilians, and NS A civilians in Darmstadt and Stuttgart in Germany as well as
+in Molesworth, England, and Mons, Belgium, ESOC's missions include African
 Regional Targets, North African and European Counter-Terrorism missions, Force
-Protectioanndications 8: Warning, and theatre 
+Protection/Indications & Warning, and theatre SIGDEV
 
- 
-
-During my tour, I was assigned to the Africa Division and provided
-ESDG with target development support for the Gulfof Guinea Hydrocarbon
-Security mission, consisting primarily ofNigerian and Angolan targets. My
+(S//SI//REL) During my tour, I was assigned to the Africa Division and provided
+ESOC with target development support for the Gulf of Guinea Hydrocarbon
+Security mission, consisting primarily of Nigerian and Angolan targets. My
 particular focus was to launch the Africa Division's energy security mission
-covering Angola.
+covering Angola,
 
-Working African missions often present unique challenges, and both
-the Nigerian and Angolan energy sectors were certainly no different. While ESDG
+(S//SI//REL) Working African missions often present unique challenges, and both
+the Nigerian and Angolan energy sectors were certainly no different. While ESOC
 had worked the Nigerian energy security mission for over two years, due to
 resource constraints, relatively little development work had been done against the
-Angolan target. The larger Gulf oquinea Hydrocarbon mission consisted of
-several a branch manager, and a technical leader, but it was largely up to
+Angolan target, The larger Gulf of Guinea Hydrocarbon mission consisted of
+several analysts, a branch manager, and a technical leader, but it was largely up to
 me to do the bottom-up target development work in building the Angola mission.
 
-The Gul'foquinen and surrounding region
+(U) The Gulf of Guinea and surrounding region
 
-The task was somewhat daunting. Angola's state-owned oil firm,
+(S//SI//REL) The task was somewhat daunting, Angola's state-owned oil firm,
 Sonangol, is a massive entity with its own airline, logistical service firms, and
-importantly, its own telecommunications subsidiary. Sonangol partners with several
+importantly, its own telecommunications subsidiary, Sonangol partners with several
 major Western and Chinese oil companies, and Chinese firms are heavily involved
 in the telecommunications sector. Our collection was minimal, and our day-to-day
-Angola team was essentially one deep: me.
+Angola team was essentially one deep: me,
 
-We compiled a detailed assessment and established good baseline
-knowledge ofour current SIGINT posture in Angola. We reviewed existing SGS
-First Instance Reporting, and had several fruitful exchanges with SGS Luanda in
-Angola. We also worked closely both with ESDG's in-house elements and
+(S//SI//REL) We compiled a detailed assessment and established good baseline
+knowledge of our current SIGINT posture in Angola, We reviewed existing SCS
+First Instance Reporting, and had several fruitful exchanges with SCS Luanda in
+Angola, We also worked closely both with ESOC's in-house SIGDEV elements and
 the European Technical Center to begin a target templating process and draft
-collection requirements. Through collaboration with CIA and EUGGM Africa
+collection requirements. Through collaboration with CIA and EUCOM JAC*, Africa
 Division's understanding of our customer and partner requirements improved
 significantly.
 
-In order to gain a SIGINT window into Angola's telecom sector and
-energy industry, we chose to continue to chip away at Sonangol. Relying on skills
+(S//SI//REL) In order to gain a SIGINT window into Angola's telecom sector and
+energy industry, we chose to continue to chip away at Sonangol, Relying on skills
 and contacts acquired in previous IADP tours, I conducted intensive SIGINT
 
-inf-s
+2 of 4
 
 research on Sonangol seed selectors using chaining, metadata analysis, and
-visualization tools such as Gmap and Renoir. My target development work spanned
+visualization tools such as Cmap and Renoir. My target development work spanned
 both the DNI and DNR realms. We were able to identify and unlock Sonangol target
-domains, locate and task e-mail selectors in QADEN GE, and identify several new
-targets in the Angolan oil and telecommunications sectors.
+domains, locate and task e-mail selectors in CADENCE, and identify several new
+targets in the Angolan oil and telecommunications sectors,
 
-A key part of my tour at ESGG was identifying new potential collection
-accesses. Using open source, MEALE, ELAQKEEARL, NEE, BEAM, and
+(S//SI//REL) A key part of my tour at ESOC was identifying new potential collection
+accesses. Using open source, PINWALE. DLACKPEARL, NKD. ROADBED, and
 SURREY. I successfully located, identified, and submitted several new targets for
-and SGS collection. Partnering with ESGG SGS, and 
+FQRNSAT and SCS collection. Partnering with ESOC SIGDEy SCS, and FORNSAT
 collection staff at Ft. Meade and elsewhere, we were able to draft and submit the
 first collection requirement for the Angola energy mission. By the end of my tour
-ESGG had seen a significant increase in Angola energy traf?c. We also were able to
-issue the first product of the Angola mission, ajointly issued report between the
-Africa division and ESGG 
+ESOC had seen a significant increase in Angola energy traffic. We also were able to
+issue the first product of the Angola mission, a jointly issued report between the
+Africa division and ESOC SIGDEV
 
-My tour at ESGG was an excellent exercise in end-to-end SIGINT to
+(S//SI//REL) My tour at ESOC was an excellent exercise in end-to-end SIGINT to
 include initial research and target development, collection access discovery and
-tasking, and issuing products. My understanding ofthe SIGINT process improved
-greatly during my time at ESGG. The recent stand-up of the LIE. African Command
-co-located with EUGGM in Stuttgart, Germany is certain to create
-even more opportunities for to support ESGG's missions in a dynamic
-environment.
+tasking, and issuing products. My understanding of the SIGINT process improved
+greatly during my time at ESOC, The recent stand-up of the U.S. African Command
+(AFRICOM), co-located with EUCOM in Stuttgart, Germany is certain to create
+even more opportunities for analysts to support ESOC's missions in a dynamic
+environment. * *
 
- 
+(U) Notes:
 
-Notes:
+* (U) EUCOM JAC = the European Command Joint Analysis Center
 
-EUGGM JAG the European Gommand Joint Analysis Center
+3 of 4
 
-?inf-i
-
-Llof?
-
+4 Of 4

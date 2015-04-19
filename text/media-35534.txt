@@ -1,537 +1,344 @@
- Net Defense
-from Communications
+﻿(U//FOUO) Net Defense
+from Encrypted Communications
 
-.3
+irt i ir\ /	1 HI 1
 
- 
-
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 Increment 3 Requirement
 
+SYSREQ10322.2
 
-
-TURMOIL shall reinject 
-lP traffic into BLUESNORT for malicious
+(S//REL) TURMOIL shall reinject decrypted
+IP traffic into BLUESNORT for malicious
 
 network activity detection.
 
-T0 USA, FVEY
+2
 
-TOP T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
+
+TOP SECRET//SI//REL TO USA, FVEY
 
 Three-Feather Solution
 
-1. GALLANTWAVE application
+GALLANTWAVE application
+
+-	Same module supports NetDef and SIGINT
+
+-	Supports dynamic update of targeting via UTT
+
+-	Supports static target updates
+
+GALLANTWAVE Reinjection application
 Same module supports NetDef and SIGINT
-Supports dynamic update of targeting via 
-Supports static target updates
 
-2. GALLANTWAVE Reinjection application
-Same module supports NetDef and SIGINT
-Supports re-injection of into TURMOIL for detection by BLUESNORT
+Supports re-injection of decrypt into TURMOIL for detection by BLUESNORT
 
-3. BLUESNORT in Stage 1 Prime application
-Emits events off re-packetized, reinjected data
+BLUESNORT in Stage 1 Prime application
+Emits events off decrypted, re-packetized, reinjected data
 
-TOP T0 USA, FVEY
+TOP SECRET//SI//REL TO USA, FVEY
 
-TO USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 HIGH Level Data Flow
+
 Net Defense and SIGINT sites
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-FuEnZo?i? 
-Mission 
-Application 
-UV 5 
-i
-I
-
-
-I
-KEYSCORE
-
- 
-
- 
-
-
-
- 
-
-PITBOSS
-
- 
-
-l'
-
 
 TIPS (Bluesnort Events)
 
-TO USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 Status
 
-- Running Transform, Reinjection, Signature Hits
+Running on MHS DEV ESO T5 and T22
+
+Transform, Reinjection, Signature Hits
 confirmed
 
-- Signatures need further development
+Signatures need further development
 to produce true hits vs. false positives
 
-- NTOC POC reviewing XKS hits to
+NTOC POC reviewing XKS hits to
 generate new signatures.
 
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 Issues/Risks
 
-1. CA Servers at Net Defense Sites
-5) Connectivity to LONGHAUL
+1.	CA Servers at Net Defense Sites
 
-bi NTOC requires stand-up of separate dev and live fabric
+,> ITx Connectivity to LONCHAUL
 
-i. - funding may be needed
+w NTOC requires stand-up of separate dev and live ITx fabric
+¡.	- H/W funding may be needed
 
-ii. - Need paperwork for update to firewall submission expected by 25 Feb
-a Expected completion was 29 Feb; now delayed to TBD
+a. - Need paperwork for update to firewall - submission expected by 25 Feb
+o Expected completion was 29 Feb; now delayed to TBD
+di SSH connectivity
 
-a SSH connectivity
+& Short term: via BLUEBOX CA Servers at Pentagon - done
 
-e; Short term: via BLUEBOX CA Servers at Pentagon - done
+o Longer term: via deployment of servers within the NTOC enclave that connect to CA Servers in the field
 
-in Longer term: via deployment ofservers within the NTOC enclave that connect to CA Servers in the field
+2.	GALLANTWAVE Targeting Challenges
 
-2. GALLANTWAVE Targeting Challenges
-5) not yet available
+MAILORDER/Ni-FI not yet available
 
-a Mitigation: Manually load static targeting files
+m Mitigation: Manually load static targeting files
 
-T0 USA, FVEY
+6
 
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
+
+SECRET//SI//REL TO USA, FVEY
 
 CA Capabilities Planned for NCC-3 Test
+
 Events
 
- 
+Capability	DT/OA 2 (June 2012)		DT/OA 3  )	(June 2013
+	Defensive  Sensor	SIGINT  Sensor	Defensive  Sensor	SIGINT  Sensor
+CA Reinjection	No	DGO	TTENT	DGO
 
-DTIOA 2 (June 2012) DTIOA 3 (June 2013
+SECRET//SI//REL TO USA, FVEY
 
-
- 
-
-Capability 
-Defenswe SIGINT Defenswe SIGINT
-Sensor Sensor Sensor Sensor
-
- 
-
- 
-
-CA Reinjection No DGO TTENT DGO
-
- 
-
- 
-
- 
-
- 
-
- 
-
-T0 USA, FVEY
-
- 
-
-TO USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 Near-term Schedule
 
- 
+Capability	Date
+GW-R Gate 2	Done (15 Feb)
+GW-R Gate 3	Done (29 Feb)
+GW-R Gate 5	31 Mar
+GW-R Deploy to U sites	May
+ITx Dev Fabric at NetDef sites	29 Feb +
+CA Server ssh connectivity	Done via Bluebox
+Initial Live Dev Test TURTLEZOO	-May
+GW-R Core 4.0	May
+GW Core 4.0	May
+ITx Live Fabric	TBD
 
-Capability Date
+SECRET//SI//REL TO USA, FVEY
 
- 
-
- 
-
- 
-
-GW-R Gate 2
-
- 
-
-GW-R Gate 3
-
- 
-
-GW-R Gate 5
-
- 
-
-GW-R Deploy to sites
-
- 
-
-Dev Fabric at NetDef sites
-
- 
-
-CA Server connectivity
-
- 
-
-Initial Live Dev Test TURTLEZOO
-
- 
-
-GW-R Core 4.0
-
- 
-
-GW Core 4.0
-
- 
-
- 
-
-Live Fabric
-
- 
-
- 
-
-TO USA, FVEY
-
-TO USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 Players
 
- 
+BACKUP SUDES
 
-TO USA, FVEY
-
-BACKUP SLIDES
-
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
 CCA Capabilities Planned for NCC-3 Test
+
 Events
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-DTIOA 2 (June 2012) DTIOA 3 (June 2013)
-Capability Defensive SIGINT Defensive SIGINT
-Sensor Sensor Sensor Sensor
-NETFLOW Full Netflow Pr?tg?gSVOd Full Netflow Full Netflow
-BLUESNORT (updates) Yes No Yes Yes
-FULL SNORT Yes No (Core 4) Yes Yes
-POPQUIZ No No Yes Yes
-Performance Testing Yes No Yes Yes
-Wireless reinjection Yes Yes
-CA Reinjection No Yes Yes Yes
-Cyber Tasking Yes Partial Yes Partial
-Updated Cloudshield Interface Partial Yes Yes
-Metrics and Monitoring Yes No Yes Yes
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Capability	DT/OA 2 (June 2012)		DT/OA 3 (June 2013)	
+	Defensive  Sensor	SIGINT  Sensor	Defensive  Sensor	SIGINT  Sensor
+NETFLOW	Full Netflow	Pretty Good Netflow	Full Netflow	Full Netflow
+BLUESNORT (updates)	Yes	No	Yes	Yes
+FULL SNORT	Yes	No (Core 4)	Yes	Yes
+POPQUIZ	No	No	Yes	Yes
+Performance Testing	Yes	No	Yes	Yes
+Wireless reinjection	N/A	Yes	N/A	Yes
+CA Reinjection	No	Yes	Yes	Yes
+Cyber Tasking	Yes	Partial	Yes	Partial
+Updated Cloudshield Interface	Partial	N/A	Yes	Yes
+Metrics and Monitoring	Yes	No	Yes	Yes
 
 Orange items are being revisited. Requirements without explicit TML Core 4 dependency
-need mission documentation to justify not being covered in 2.
+need mission documentation to justify not being covered in DT/OA 2.
 
-T0 USA, FVEY
+SECRET//SI//REL TO USA, FVEY
 
-Dynamic Defense Logical Diagram
+(S//REL) Dynamic Defense Logical Diagram
 
- 
+CD
 
- 
+INTERNET
 
- 
+(S//REL)
 
- 
+Active Response
 
- 
+Block,
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-C22)
-INTE ET (SHRED
-Network Normalized
-A t, Interface TUMULT Packets DeteCt
-we esponse Stage 0
-EHock;
 Reroute,
-,Alber
-Comman Alert
-- COMMAND Action BUSINESS
-DISTRIBUTION LOGIC
+
+Alter
+
+Network
+
+Interface
+
+Normalized
+
+Packets
+
+Detect
+
+		?
+COMMAND	Action	BUSINESS
+DISTRIBUTION		LOGIC
+
+Alert
+
 Decide
+
+Protected Internal Network
+
 Legend:
 
-Protected Internal Network TUMULT
+TUMULT	TURMOIL	TUTELAGE	NTOC
+(T113)	(Til 2)	(Till)	(VSPO)
 
-(T113(EYSQQ 
+12
 
-RE USA, FVEY
+TOP SECRET//COMINT//REL TO
+---------JSAr:¥E* -
 
-  
+tRout
 
-gets updates, trigb??sl?lb?a?ErBets
-GW?TargetManager responds to loadTa rgets request
-from pulls the GW IP addresses from the
-Targeting database; issues control?flow messages
+Core SSC
+
+SessionFilte
+r
+
+(ApJjid)
+GW
+
+FragmentFilte
+r
+
+D FA Proxy
+
+
+
+(IOPort64)
+
+GW-MI
+
+(Metadatalnjecto
+
+TE-STAGE1-
+GALLANTWAVE.xxx
+
+GW-
+
+LoadManager
+
+I
+
+
+
+#{GALLANTWAV
+
+E-SERVICE}
+
+V
+
+CAServer
+
+X <EYSCO
+
+H>
+
+TargetManager
+
+/ I	_ 11 |
+
+\ I I	I I
+
+CoreSSC gets UTT updates, tri^{^AhiA©1Erl§ets |
+GW-TargetManager responds to IbâdTargets request
+from CoreSSC, pulls the GW IP addresses from the
+Targeting database; issues control-flow messages
 for each IP:Port combination and sends periodic
 updates for those.
 
-FCP responds to control?flow messages by
-promoting all packets to/from the targeted |P:port
+FCP responds to control-flow messages by
+promoting all packets to/from the targeted IP:port
 combinations, and PacketRouter ensures these
-packets are sent to for sessionization. 
-FIP outputs 'raw' SOTF session?fragments to the
-service on the same host.
+packets are sent to GW-FIP for sessionization. GW-
+FIP outputs 'raw' SOTF session-fragments to the
+TE-GW service on the same host.
 
-GW?SessionFilter identifies sessions containing
-target technology?of?interest by applying an
-appropriate appld tag to each session?fragment.
-GW?FragmentFilter removes session?fragments not
+GW-SessionFilter identifies sessions containing
+target technology-of-interest by applying an
+appropriate appld tag to each session-fragment.
+GW-FragmentFilter removes session-fragments not
 containing an appropriate appld for the target
-technology?of?interest. Additionally, as a work?
+technology-of-interest. Additionally, as a work-
 around for an issue in FIP 3.1.10, erroneous
-session?fragments missing a specific metadata
-filed are removed. applies SRI obtained
+session-fragments missing a specific metadata
+filed are removed. GW-MI applies SRI obtained
 from Dfid Allocator.
 
- 
+SECRET//COMINT//fRE(EWGMI applies SRI obtained from the DFID
+RE USA, FVEY	allocator.
 
- 
+SECRET//COMINT//REL TO USA, FVEY
 
-EGWQMI applies SRI obtained from the DFID
-
-allocator.
-
-f?lnl I -I 
-
-USA, FVEY
+CAServer
 
 Delivery to both XKEYSCORE and
 Stage 1 Prime Reinjection
 
- 
+GW-SessionMa nager
 
-TURMOIL  I
-Session Reinjection 
+GW-
 
- 
+SessionDistributor
 
-     
-    
+TURMOIL  SessionReinjection		i  i
+	D FA Proxy ,	
 
- 
+Desessioniz
 
-GW-SessionManager
+er
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-USA, FVEY
-
-TURMOIL
-Stage 1 Prime Reinjection
-
-   
-
-n.
-
-{Stage 1 Prime
-
- 
-
- 
-
- 
-
-flow
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-IP tasking file 1
-response - SSL
-
-IP tasking file 1
-
-response - SSL
-
- 
-
-USA, FVEY
-
-Proposed Tasking Flow
-
-for TUTE LAG 
-
- 
-
-IP tasking file 1
-response - SSL
-
-Capability
-
- 
-
-  
-  
-
-HIDDEN
-
-DNS Inspector
-SALAMAN DER
-
-NiFi local
-
- 
-
-BLUESNORT
-
- 
-
- 
-
-Key exchang? -
-
-GALLANTWAVE
-
-BLUESNORT
-
- 
-
- 
-       
-   
+Packet Injector
 
 Stage 1 Prime
 
- 
- 
+XKS-Sessions
 
-  
+XKSSessionlnterface
 
- 
 
+
+r>I XKEYSCORE
+
+SECRET//COMINT//REL TO USA, FVEY
+
+TURMOIL
+
+Stage 1 Prime Reinjection
+
+¡Stage 1 Prime
+
+Decrypted flow
+
+Reinjection
+
+BLUESNORT
+
+
+
+DNS
+Inspecto
+
+HiddenSalama ider
+
+etc ...
+
+Events
+
+Collect
+
+SECRET//COMINT//REL TO USA, FVEY

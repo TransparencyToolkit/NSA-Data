@@ -1,85 +1,81 @@
- 3" SI 3" New Contact-Chajning Procedures to Allow Better,
+﻿(S//SI//REL) New Contact-Chaining Procedures to Allow Better,
 Faster Analysis
 
-FROM: -
--
+FROM:
 
-Run Date: o1fo3f2o11
+Run Date: 01/03/2011
 
- 
-
-(UHFDUD) Editor?s note: A brie?ng will be held on 3? January from moo?1130
-in the Friedman Auditorium at NSAVF regarding the new procedures described
+(U//FOUO) Editor’s note: A briefing will be held on 7 January from 1000-1130
+in the Friedman Auditorium at NS AW regarding the new procedures described
 below. All SID employees are welcome to attend.
 
- 
-
-(SHEIHREIJ and Mission Managers: 011 29 November, 
-- signed 51]] Management Directive 424,, which changes
-procedures regarding metadata analysis. Speci?cally, these new procedures
-permit contact chainino, and other analysis, from and through
-any selector, irrespective ofnationa lity or location, in order to
-follow or discover nalitlforeign intelligence targets. [Formerly
-were required to determine whether or not selectors were associated
-with US oamrnunicants.)
-
- 
+(S//SI//REL) Analysts and Mission Managers: On 29 November. SIGINT
+I signed SID Management Directive fSMDi 424. which changes
+procedures regarding metadata analysis. Specifically, these new procedures
+permit contact chaining, and other analysis, from and through
+any selector, irrespective of nationality or location, in order to
+follow or discover valid foreign intelligence targets. (Formerly
+analysts were required to determine whether or not selectors w:ere associated
+with US communicants.)
 
 (U) The Impact
 
-(SHSIHREIJ These new procedures allow NBA to fully exploit
-communications metadata (which is strictly de?ned in the procedures), for
+(S//SI//KEL) These new procedures allow NS A to fully exploit
+communications metadata (which is strictly defined in the procedures), for
 foreign intelligence purposes, without the restrictions associated with selection
-of communications content. The impact of the new procedures is two?fold. In
-the ?rst place it allows NBA to discover and track connections between foreign
-intelligence targets and possible and Party or US communicants. In the second
-place it enables large?scale graph analysis on very large sets of
+of communications content. The impact of the new procedures is two-fold. In
+the first place it allows NSA to discover and track connections between foreign
+intelligence targets and possible 2nd Party or US communicants. I11 the second
+place it enables large-scale graph analysis on very large sets of
 communications metadata without having to check foreignness of every node
-or address in the graph. in 52 have used this to great bene?t over the
-past year and a half under a pilot program.
+or address in the graph. Analysts in S2 have used this to great benefit over the
+past year and a half under a pilot program,
 
 (U) Compliance Issues
 
-(SHSIHREIJ Management Directive 424 Development 
-Communications Metadata Analysis?) provides guidance on the NSAICSS
-implementation of the ?Department of Defense Supplemental Procedures
-Governing Conununications Metadata Analysis? as approved by the
-US. Attorney General and the Secretary of Defense. The SPCMA covers
-communications metadata collected under Executive |[irrder 12333 authorities.
+(S//SI//REL) SIGIIST Management Directive 424 (“SIGDJT Development --
+Communications Metadata Analysis"} provides guidance on the NSA/CSS
+implementation of the “Department of Defense Supplemental Procedures
+Governing Communications Metadata Analysis? (SPCMA), as approved by the
+U.S. Attorney General and the Secretary of Defense. The SPCMA covers
+communications metadata collected under Executive Order 12333 authorities.
 
-(SHSIHREIJ As does any new authority or capability, the Supplemental
-Procedures come with a cost in terms of additional care that we must
+(S//SI//REL) As does any new authority or capability, the Supplemental
+Procedures (SPCMA) come with a cost in terms of additional care that we must
 take with respect to compliance responsibilities and obligations. The
 primary new responsibility is the requirement:
 
-- to enter a foreign intelligence justi?cation for melting a query
+*	to enter a foreign intelligence (FI) justification for making a query
 or starting a chain,
 
 and
-- to perform spot-checks of user queries.
 
-Additionally, the analyst must remain cognizant of minimisation procedures
-associated with retention and dissemination of US person information.
+*	to perform spot-checks of user queries.
+
+Additionally, the analyst must remain cognizant of minimization procedures
+associated with retention and dissemination of US person information,
+
 SPCMA covers analytic procedures and does not affect existing procedures
-for collection, retention or dissemination of US person information.
+for collection, retention or disseminatio n of US person information,
 
-(SISIHREL) SPCMA obligations also include the need for additional training
-on what the procedures do and do not cover, advisory banners on 
+(S/SI//REL) SPCMA obligations also include the need for additional training
+on what the procedures do and do not cover, advisory banners on SPCMA
 enabled metadata databases, query auditing, and annual reports to the
 Department of Justice. Details on this implementation are included in
-
+SMD-424.
 
 (U) Next Steps
 
-(S 3" SI ,5 In order to take advantage of the Supplemental Procedures
-(SPCMA), will need to be identified for use of through their
-mission?management chain and complete the online informational brie?ng.
-This will be managed through GATEKEEPER and,Ir or the Account Admin
-processes. In addition to the required online informational brie?ng, a series of
-live information brie?ngs are being planned. The ?rst of these will be held in
-the Friedman Auditorinrn on January from moo?113D, and is open to all SID
+(S//SI//REL) In order to take advantage of the Supplemental Procedures
+(SPCMA), analysts will need to be identified for use of SPCMA through their
+miss ion-management chain and complete the online informational briefing.
+This will be managed through GATEKE EPER and/or the Account Admin
+processes. In addition to the required online informational briefing, a series of
+live information briefings are being planned. The first of these will be held in
+the Friedman Auditorium on 7 January from 1000-1130, and is open to all SID
 employees.
 
-(U,l Please consult with your local PEI-Cs above, or [in the absence of
-one}, you may contact -, for information.
-
+(C//REL) POCs: The A&P Product lines have identified the following
+individuals to be SPCMA POCs for their respective organizations. We
+anticipate that they will be conducting small group SPCMA sessions more
+tailored to their particular missions.

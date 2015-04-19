@@ -1,8 +1,7 @@
-CNE Access to BELGACOM GRX Operator: (GREEN) Following the successful
-NAC OP SOCIALIST to provide CNE access to the BELGACOM GRX
-Operator (MERION ZETAL the NAG have continued to provide assistance in
-mapping out the internal network and providing direction to the ONE operator on the
+﻿CNE Access to BELGACOM GRX Operator: (GREEN) Following the successful
+NAC MyNOC OP SOCIALIST to provide CNE access to the BELGACOM GRX
+Operator (MERION ZETA), the NAC have continued to provide assistance in
+mapping out the internal network and providing direction to the CNE operator on the
 best internal devices on which to have a presence. The end goal has been to enable
-access to internal GRX routers that can then be used as platforms for l?vlitl?vl
+access to internal GRX routers that can then be used as platforms for MitM
 operations against mobile handsets that are roaming.
-

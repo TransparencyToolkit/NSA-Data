@@ -1,22 +1,16 @@
-[edit] Hecate: Implanting the iPhene
+﻿[edit] (S) Rocoto: Implanting the iPhone
 
-Presenter: 
+(U) Presenter:
 
-In this tall;r we will discuss at tc create IE fer the iPhcne 313. We will present an
-analysis cf the and ?rmware en the device, including discussicn cf the challenges presented by
+(S) In this talk, we will discuss efforts at JHU/APL to create IC tools for the iPhone 3G. We will present an
+analysis of the software and firmware on the device, including discussion of the challenges presented by
+signature checks and the chain of trust. We will then share a summary of 'jailbreak' methods used in the
+iPhone community and how those capabilities can be leveraged by IC tools. We will conclude with a look
+ahead at future challenges presented by the iPhone 3GS and the upcoming iPad.
 
-signature checks and the chain cf trust. We will then share a summary cf ?jailbreak? used in the
+Retrieved from
+TOP SECRET//SI//NOFORN/ORCON
 
-iPhcne ccmmunity and these capabilities can be leveraged by We will with a lack
-
-ahead at future challenges presented by the iPhcne 365 and the upccming iPad.
-
-Retrieved 
-
-TGIF 
-
-Derived Frem: SI Classi?caticn Guide, Dated: 
-and 1?52; Dated: 
-
-Declassify 212132131133
-
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM 1-52, Dated: 20070108
+Declassify On: 20320108

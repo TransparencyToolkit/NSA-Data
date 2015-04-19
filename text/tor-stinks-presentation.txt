@@ -1,375 +1,394 @@
- 
+﻿TOP SECRET//COMINT// REL FVEY
 
 Stinks
 
-
-CT SIGDEV
-
- 
-
 JUN 2012
 
- 
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20370101
 
- 
+TOP SECRET//COMINT// REL FVEY
 
-82
+TOP SECRET//COMINT// REL FVEY
 
- 
+Tor Stinks...,u,
 
- 
-
-TorS?nksuu
-
-We will never be able to de-anonymize all Tor
+•	We will never be able to de-anonymize all Tor
 users all the time.
 
-With manual analysis we can de-anonymize a
+•	With manual analysis we can de-anonymize a
 very small fraction of Tor users, however, no
-
- 
-
- 
-
 success de-anonymizing a user in response to a
 TOPI request/on demand.
 
- 
 
- 
 
-TOP REL FVEY
+TOP SECRET//COMINT// REL FVEY
 
-REMATION II 
+TOP SECRET//COMINT// REL FVEY
+
+REMATION IU
 
 Joint NSA GCHQ counter-Tor workshop
-- Week one at MHS focus on analytics
+Week one at MHS focus on analytics
+Week two at GCHQ focus on exploitation
 
-- Week two at GCHQ focus on exploitation
+https://wiki.gchq/index.php?title=REMATION
 
+3
 
+TOP SECRET//COMINT// REL FVEY
 
-TOP REL FVEY
+TOP SECRET//COMINT// REL FVEY
 
- 
+Laundry List M
 
-TOP REL FVEY
+•	Analytics to de-anonymize users •
 
-Laundry List
+-	Circuit reconstruction (21)
 
-Analytics to de-anonymize users Exploitation
+-	Goes inta goes outta/low latency (2)
 
-Circuit reconstruction (21) QUANTUM attacks (1, 20, 22)
+-	Cookie leakage
 
-Goes inta goes outta/low latency (2) Existing options (8 11)
+-	Dumb users (EPICFAIL)
 
-Cookie leakage Shaping (9 16)
+-	Node Lifespan (17)
 
-Dumb users (EPICFAIL) Web server enabling (10)
+-	DNS
 
-Node Lifespan (17) Nodes (14)
+•	Technical Analysis/Research
 
-DNS Degrade user experience (13 18)
-Technical Analysis/Research Nodes
+-	Hidden services (4; 5, 6, 7)
 
-Hidden services (4, 5, 6, 7) Baseline our nodes (21)
+-	Timing pattern (3)
 
-Timing pattern (3) Tor node ?ooding
+-	Torservers.net/Amazon AWS
 
-Torservers.net/Amazon AWS
+Exploitation
 
-TOP REL FVEY
+-	QUANTUM attacks (1; 20; 22)
 
- 
+-	Existing options (8 + 11)
 
-TOP REL FVEY
+-	Shaping (9 + 16)
 
-Analytics: Circuit Reconstruction 
+-	Web server enabling (10)
+
+-	Nodes (14)
+
+-	Degrade user experience (13 + 18)
+
+Nodes
+
+-	Baseline our nodes (21)
+
+-	Tor node flooding
+
+A
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
+
+Analytics: Circuit Reconstruction ,w,
 
 Terrorist with
-Tor client Installed
 
-G) Tor relay node
-
-. Tor entry node
-
- 
-
-Internet site
-
-  
-  
-
-)Tor exit node 
-
-  
- 
-
-
-
-.r?rrmr) 
-
-   
-
-ANONYMIZER CLOUD
-
-Current: access to few nodes. Success rate negligible
+•	Current: access to very few nodes. Success rate negligible
 because all three Tor nodes in the circuit have to be in the set
 of nodes we have access to.
 
-Dif?cult to combine meaningfully with passive SIGINT.
+-	Difficult to combine meaningfully with passive SIGINT.
 
-Goal: expand number of nodes we have access to
-GCHQ runs Tor nodes under NEWTONS CRADLE (how many?)
-Other partners?
-Partial reconstruction (?rst hops or last hops)?
+•	Goal: expand number of nodes we have access to
 
-TOP REL FVEY
+-	GCHQ. runs Tor nodes under NEWTONS CRADLE (how many?)
+
+-	Other partners?
+
+-	Partial reconstruction (first hops or last hops)?
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
 
 Analytics:
 
-Goes lnta Goes Outta/Low Latenc 
-Find possible alternative accounts for a target: ook
+Goes Inta Goes Outta/Low Latency
 
-for connections to Tor, from the target? 5
-suspected country, near time of target? 5 activity.
-- Current: GCHQ has working version (QUICKANT). has
+Find possible alternative accounts for a target: look
+for connections to Tor, from the target’s
+suspected country, near time of target’s activity.
 
-alpha tested 5 version. 5 version produced no
+•	Current: GCHQ has working version (QUICKANT). R has
+alpha tested NSA’s version. NSA’s version produced no
 obvious candidate selectors.
 
-- Goal: Figure out if QUICKANT works, compare
-
+•	Goal: Figure out if QUICKANT works, compare
 methodologies. Gathering data for additional tests of
-5 version (consistent, random and heavy user)
+NSA’s version (consistent, random and heavy user)
 
-Analytics: Cookie Leakage
+3
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
+
+Analytics: Cookie Leakage ^
 
 Use cookies to identify Tor users when they are
 not using Tor
-- Current: preliminary analysis shows that some cookies
 
-?survive? Tor use. Depends on how target is using Tor
+•	Current: preliminary analysis shows that some cookies
+“survive” Tor use. Depends on how target is using Tor
 (Torbutton/Tor Browser Bundle clears out cookies).
 
-- Goal: test with cookies associated with CT targets
-Idea: what if we seeded cookies to a target?
+•	Goal: test with cookies associated with CT targets
 
- 
+-	Idea: what if we seeded cookies to a target?
 
-Investigate Evercookie persistence
+—	Investigate Evercookie persistence
 
-Analytics: Cookie Leakage
+7
 
-DoubleclickID seen on Tor and non-Tor 
+TOP SECRET//COMINT// REL FVEY
 
- 
+TOP SECRET//COMINT// REL FVEY
 
-Analytics: Dumb Users (EPICFAIL) 
+Analytics: Cookie Leakage ^
+
+• DoubleclickID seen on Tor and non-Tor IPs
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
+
+Analytics: Dumb Users (EPICFAIL)
 
 GCHQ QFD that looks for Tor users when they
 are not using Tor.
 
-Current: GCHQ has working QFD based on
+•	Current: GCHQ has working QFD based on
 hard selector (email, web forum, etc) but does
 not include cookies.
 
-Goal: NSA investigating own version (GREAT
+•	Goal: NSA investigating own version (GREAT
 EXPECTATIONS) that would include cookies.
 
-Analytics: Node Lifespan 
+TOP SECRET//COMINT// REL FVEY
+
+9
+
+TOP SECRET//COMINT// REL FVEY
+
+Analytics: Node Lifespan
 
 How do I know WHEN a particular IP was a Tor
 node as opposed to IF it was a Tor node?
 
-0 Current: detection done once an hour by NTOC.
-RONIN stores ?last seen? and nodes age off
+•	Current: detection done once an hour by NTOC.
+RONIN stores “last seen” and nodes age off
 slowly with no accurate lifespan.
 
-Goal: Working with RONIN to add more details
+•	Goal: Working with RONIN to add more details
 on node lifespan.
 
- 
+10
 
-Analytics: DNS 
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
+
+Analytics: DNS (TS//SI)
 
 How does Tor handle DNS requests? Are DNS
 requests going through Tor? Does this depend
 on how the target is using Tor?
 
-Current: Still investigating.
+• Current: Still investigating.
 
-TOP REL FVEY
+11
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
 
 Technical Analysis: Hidden Services
 
-
+(TS//SI)
 
 What do we know about Hidden Services?
 
-- Current: No effort by NSA, some DSD and
-GCHQ Work on ONIONBREATH.
+•	Current: No effort by NSA, some DSD and
+GCHQ work on ONIONBREATH.
 
-Goal:
-Harvest and enumerate .onion URLs
+•	Goal:
 
-Identify similar HS based on referrer ?elds
-Distinguish HS from normal Tor clients
+-	Harvest and enumerate .onion URLs
 
- 
+-	Identify similar HS based on referrer fields
+
+-	Distinguish HS from normal Tor clients
+
+12
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
 
 Technical Analysis: Timing Pattern
 
-
+(TS//SI)
 
 Send packets back to the client that are
-detectable by passive accesses to ?nd client
-for Tor users.
+detectable by passive accesses to find client
+IPs for Tor users.
 
-Current: GCHQ has research paper and
+•	Current: GCHQ has research paper and
 demonstrated capability in the lab.
 
-Goal: Can we expand to other owned nodes?
+•	Goal: Can we expand to other owned nodes?
 
- 
+13
 
-Exploitation: QUANTUM 
+TOP SECRET//COMINT// REL FVEY
+
+Technical Analysis: torservers.net«
+
+SI)
+
+Investigate the Amazon AWS cloud instances of
+Tor servers. How are IPs allocated and
+reassigned once bandwidth limit is reached?
+Impact on RONIN’s ability to detect nodes?
+
+• Current: GCHQ. set up Tor nodes on the AWS
+cloud during REMATION II.
+
+14
+
+TOP SECRET//COMINT// REL FVEY
+
+Exploitation: QUANTUM «
 
 QUANTUM to degrade/deny/disrupt Tor access?
 
-QUANTUMCOOKIE forces clients to divulge
+QUANTUMCOOKIE - forces clients to divulge
 stored cookies.
 
+Figure 4. A diagram of how the QUANTUM Survey / Cookie technique works
 
-I
-I 11?1! rlrar 
-I tnrr. m'm fer?c'le' ?awhorv70" pl?: 1/ 
-I A I
-. TOR Network Tlft?"?1c 1 lf??fn?C
+15
 
- 
+TOP SECRET//COMINT// REL FVEY
 
- 
+TOP SECRET//COMINT// REL FVEY
 
- 
-
-v? wane?: a '91 '9-.cen: it- .1 - 3C
-
-
-UllANllIn/l
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-I STAGE TOR Network I, 
-I
-I 
-. [unczec GU 32mLl:er I
-I can: L'ret. ?reY-CJuhe 
-L- 3 Dr. L. rehancl .
-c'b'gro I hC-u -Lr'vtj &uv" I?er? 
-
-
-
- 
-
-Exploitation: Existing Options
+Exploitation: Existing Options nv*,
 
 Test current CNE techniques (FA and SHORTSHEET)
 against Torbutton and TBB users.
 
-- Current: Torbutton and TBB prevent CNE success.
-Possible success against ?vanilla? Tor/Vidalia.
+•	Current: Torbutton and TBB prevent CNE success.
+Possible success against “vanilla” Tor/Vidalia.
 
-Goal: modi?cations to initial CNE surveys? Ignore
-user-agents from Torbutton or Improve
-browser ?ngerprinting? Using javascript instead
+•	Goal: modifications to initial CNE surveys? Ignore
+user-agents from Torbutton or TBB? Improve
+browser fingerprinting? Using javascript instead
 of Flash?
 
- 
+16
 
-Exploitation: Shaping
+TOP SECRET//COMINT// REL FVEY
 
-Given CNE access to a target computer can we
-shape their traf?c to ?friendly? exit nodes?
+TOP SECRET//COMINT// REL FVEY
 
-Route users to a separate ?private? Tor network?
-Stain their traf?c or user agent?
+Exploitation: Shaping (TS//SI)
 
-Instruct target computer to use a service that
-connects outside Tor and reveal true 
+•	Given CNE access to a target computer can we
+shape their traffic to “friendly” exit nodes?
 
-Current: Can stain user agent working on shaping.
+•	Route users to a separate “private” Tor network?
 
- 
+•	Stain their traffic or user agent?
+
+•	Instruct target computer to use a service that
+connects outside Tor and reveal true IP?
+
+•	Current: Can stain user agent working on shaping.
+
+TOP SECRET//COMINT// REL FVEY
+
+17
+
+TOP SECRET//COMINT// REL FVEY
 
 Exploitation: Web Server Enabling
 
-
+(TS//SI)
 
 Given CNE access to web server modify the server
-
-to enable a ?timing/counting? attack similar to
+to enable a “timing/counting” attack similar to
 timing pattern idea.
 
-Current: GCHQ has a research paper and
+• Current: GCHQ has a research paper and
 demonstrated the technique in the lab.
 
- 
+TOP SECRET//COMINT// REL FVEY
 
-Exploitation: Nodes
+18
+
+TOP SECRET//COMINT// REL FVEY
+
+Exploitation: Nodes (TS//SI)
 
 Can we exploit nodes?
+
 Probably not. Legal and technical challenges.
 
- 
+19
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
 
 Exploitation: Degrade Tor experience
 
-
+(TS//SI)
 
 Given CNE access to a web server make it
 painful for Tor users?
 
 Given CNE access to a network can we deny/
-degrade/disrupt Tor users? 
+degrade/disrupt Tor users’ ?
 
- 
+20
 
-Nodes: Baseline Our Nodes
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
+
+Nodes: Baseline Our Nodes nv*,
 
 How many nodes do we have cooperative or
 direct access to? Can we deploy similar code
 to these nodes to aid with circuit
-
 reconstruction?
+
 Can we do packet timing attacks using nodes?
-Can we use the nodes to shape traf?c ?ow?
+
+Can we use the nodes to shape traffic flow?
 
 Can we use the nodes to deny/degrade/disrupt
 comms to certain sites?
 
- 
+21
+
+TOP SECRET//COMINT// REL FVEY
+
+TOP SECRET//COMINT// REL FVEY
 
 Nodes: Tor Node Flooding
 
@@ -377,20 +396,26 @@ Could we set up a lot of really slow Tor nodes
 (advertised as high bandwidth) to degrade the
 overall stability of the network?
 
- 
+22
 
-Tor But it Could be Worse
+TOP SECRET//COMINT// REL FVEY
 
+TOP SECRET//COMINT// REL FVEY
 
+Tor Stinks... But it Could be Worse
 
-Critical mass of targets use Tor. Scaring them
+(S//SI)
+
+•	Critical mass of targets use Tor. Scaring them
 away from Tor might be counterproductive.
 
-We can increase our success rate and provide
-more client for individual Tor users.
+•	We can increase our success rate and provide
+more client IPs for individual Tor users.
 
-Will never get 100% but we don? need to
-
+•	Will never get 100% but we don’t need to
 provide true IPs for every target every time
 they use Tor.
 
+21
+
+TOP SECRET//COMINT// REL FVEY

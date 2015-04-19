@@ -1,110 +1,81 @@
- 
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-
-GALLANTWAVE volume
-
-Derived From: 1-52
-Dated: 20070108
-
-Declassify On: 20351201
-
- 
+GALLANTWAVE@scale
+GALLANTWAVE @ volume
 
 Requirements
 
 @Scale
 
-- Deploy more widely
+Deploy more widely
 - Leverage peering with partner
 
 @Volume
 
-- Increased system size: 106 406 1006
-- Increased target volumes: CORNERKICK 
-
- 
-
+Increased system size: 10G -> 40G -> 100G
+Increased target volumes: CORNERKICK ++
 
 @Scale
 
 Need
 
-Peer to forward ?missing? attack-events to to LONGHAUL, so
+§ Peer to forward “ ‘missing’ attack-events to LONGHAUL”, to LONGHAUL, so
 LONGHAUL can use them to complete single-sided processing.
 
-LONGHAUL to reciprocate.
+5 LONGHAUL to reciprocate.
+
 Approach
 
-LONGHAUL to become aware of which ?Events? are not pairing local to agency
+5 LONGHAUL to become aware of which ‘Events’ are not pairing local to agency
 and to request peer to send (copy) of such events to LONGHAUL
 
-Minimise bandwidth required to communicate requests
-Peering is a back-end (KPS LONGHAUL)
+§ Minimise bandwidth required to communicate requests
 
-Peers process independently
+§ Peering is a back-end (KPS <-> LONGHAUL)
 
- 
+§ Peers process independently
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-Single-sided using peering
+Single-sided A->B using peering
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-
-
-   
-
- 
-
- 
-
-
-
-I. VR
-
-  
-
- 
-
-
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
 Filtered pairing
 
- 
+event[B->A]
 
-    
+event[E->F]
 
-
-
-
-event[E-> 
-
-reques
-
- 
-
- 
-
- 
-
- 
+GW-2
 
 
 
- 
+requeA[B->A]
 
-event[A-> 
+eFound[B->A]
 
-rquest[A-> 
+need[A’->B’]
 
- 
+need[F’->E’]
 
- 
+need[B’->A]
 
+need[D’->C’]
 
+event[A->B]
 
- 
+event[C->D]
 
- 
+GW-l
 
+r> i—
+
+or
+
+responseFound[A->B]
+recjuest[A->B]
+
+ponseFound[A->B]

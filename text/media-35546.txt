@@ -1,183 +1,93 @@
-TOP SE 123
+﻿TOP SECRET//COMINT//20291123
 
 NATIONAL SECURITY AGENCY
 CENTRAL SECURITY SERVICE
 
-CLASSIFICATION GUIDE FOR
-2-12
+(U//FOUO) CLASSIFICATION GUIDE FOR
+CRYPTANALYSIS, 2-12
 
 Effective Date: 13 September 2005
 
-CLASSIFIED BY: Chief, CES
+CLASSIFIED BY:
 
-REASON FOR CLASSIFICATION: 1.4 
+I Chief, CES
+
+REASON FOR CLASSIFICATION: 1.4 (c)
 DECLASSIFY ON: 20291123
 
-ENDORSED Director of Policy
+ENDORSED BY:
 
-Derived From: 1?52
+Director of Policy
+
+Derived From: NSA/CSSM 1-52
 Dated: 20041123
 Declassify On: 20291123
+
 1
-TOP 
 
-TOP SE 123
+TOP SECRET//COMINT//20291123
 
-CLASSIFICATION GUIDE Guide 02- 12
-(U) PUBLICATION DATE: 13 September 2005
+TOP SECRET//COMINT//20291123
 
-(U) OFFICE OF ORIGIN: 8: Exploitation Services (831)
+(U//FOUO) CLASSIFICATION GUIDE TITLE/NUMBER:	CRYPTANALYSIS Guide 02-12
 
-POC: S3109
+(U) PUBLICATION DATE:	13 September 2005
+
+Cryptanalysis & Exploitation Services (S31)
+
+(U) OFFICE OF ORIGIN:
+(U//FOUO) POC:
+
+(U//FOUO) PHONE:
+
 S3109
 
-PHONE: 963-4871
+S3109
+
+I 963-4871
 963-5209
 
-(UHFOUO) ORIGINAL CLASSIFICATION AUTHORITY:
-8: Exploitation Services (831)
+(U//FOUO) ORIGINAL CLASSIFICATION AUTHORITY:
 
-Description of Information Classification/
+Chief/Cryptanalysis & Exploitation Services (S31)
 
- 
+Description of Information	Classification/  Markings	Reason	Declass	Remarks
+1. (U) The fact that NSA/CSS exploits  cryptographic information security devices and systems.	UNCLASSIFIED	N/A	N/A	
+2. (C) The fact that NSA/CSS works with Second Party partners on exploiting cryptographic information security devices and systems.	CONFIDENTIAL	1.4 (cj	20291123	
+3. (S) The fact that NSA/CSS works with unspecified Third Party partners on exploiting cryptographic information security devices and systems.	SECRET	1.4(c)	20291123	
+4. (U) The fact that NSA/CSS exploits  unintended cryptographic vulnerabilities in commercial or indigenous information security devices and systems, as long as neither the vulnerability nor the targeted device/ system is identified.	UNCLASSIFIED	N/A	N/A	
+5. (TS//SI) The fact that NSA/CSS makes cryptographic modifications to commercial or indigenous cryptographic information security devices or systems in order to make them exploitable.	TOP SECRET// COMINT at a minimum	1.4 (c)	20291123	(U) Specifying the specific system is protected by an ECL.
+6. (U) The fact that NSA/CSS has cryptanalytic techniques to exploit cryptographic components of commercial or indigenous information security devices or systems.	UNCLASSIFIED	N/A	N/A	(U) Additional details will raise the classification and may be protected by an ECL
+7. (C) The fact that NSA/CSS has the ability to recover cryptovariables used to exploit commercial or indigenous cryptographic information security devices or systems.	CONFIDENTIAL	1.4(c)	20291123	(C) Details of CV recovery are protected by an ECL  (C) Specifying a specific system for which we can recovery CVs is protected by an ECL
 
-Markings
-
-1. (U) The fact that exploits UNCLASSIFIED 
-information security devices
-and systems.
-
-2. (C) The fact that works with CONFIDENTIAL 1.4 20291123
-Second Party partners on exploiting
-information security devices
-and systems.
-
-3. (S) The fact that works with SECRET 1.4 20291123
-unspecified Third Party partners on
-exploiting information
-security devices and systems.
-
-4. (U) The fact that exploits UNCLASSIFIED 
-unintended vulnerabilities in
-commercial or indigenous information
-security devices and systems, as long as
-neither the vulnerability nor the targeted
-device! system is identified.
-
- 
-
- 
-
- 
-
- 
-
-5. (TSHSI) The fact that makes TOP 1.4 20291123 (U) Specifying the specific system
-modifications to commercial COMINT is protected by an ECI..
-or indigenous information at a minimum
-
-security devices or systems in order to
-make them exploitable.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-6. (U) The fact that has UNCLASSIFIED (U) Additional details will raise
-techniques to exploit the classification and may be
-components of commercial protected by an ECI.
-or indigenous information security devices
-or systems.
-
-7. (C) The fact that has the ability CONFIDENTIAL 1.4 20291123 (C) Details of CV recovery are
-to recover used to exploit protected by an ECI.
-commercial or indigenous 
-information security devices or systems. (C) Specifying a specific system
-
-for which we can recovery CVs is
-protected by an ECI.
 2
 
-TOP SE 123
+TOP SECRET//COMINT//20291123
 
-TOP 123
+TOP SECRET//COMINT//20291123
 
- 
+Description of Information	Classification/	Reason	Declass	Remarks
+	Markings			
+8. (U) The fact that NSA/CSS successfully exploits cryptographic components of commercial or indigenous cryptographic information security devices or systems without specifying the device or system.	UNCLASSIFIED	N/A	N/A	(U) Additional details will require the classification and may be protected by an ECI.
+9. (U//FOUO) The fact that NSA/CSS successfully exploits cryptographic components of commercial or indigenous cryptographic information security devices or systems when the device or system is specified.	TOP SECRET// COMINT at a minimum	1.4(c)	20291123	(U) Additional details may be protected by an ECI.
+10. (TS) The fact that NSA/CSS obtains cryptographic details of commercial cryptographic information security systems through industry relationships.	TOP SECRET at a minimum	1.4 (c)	20291123	(C) Identification of the system or company is protected as COMINT and ECI.
 
-Description of Information Classification/ Reason Declass Remarks
-Markings
-8. (U) The fact that successfully UNCLASSIFIED (U) Additional details will require
-exploits components of the classification and may be
-commercial or indigenous protected by an ECI.
+(Ut DEFINITIONS:
 
-information security devices or systems
-without specifying the device or system.
-
- 
-
-9. (UHFOUO) The fact that TOP 1.4 20291123 (U) Additional details may be
-successfully exploits COMINT protected by an ECI.
-components of commercial or indigenous at a minimum
-
-information security devices
-or systems when the device or system is
-
- 
-
-specified.
-
-10. (TS) The fact that obtains TOP SECRET 1.4 20291123 (C) Identification of the system or
-details of commercial at a minimum company is protected as COMINT
-information security systems and ECI.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-through industry relationships.
-
- 
-
-(U) DEFINITIONS:
-
-(UHFOUO) Information security device or system: A device or system that provides any of the following services for
+(U//FOUO) Information security device or system: A device or system that provides any of the following services for
 communications or information systems: confidentiality, data integrity, authentication and authorization.
 
-(UHFOUO) vulnerability: A flaw in the design, implementation or system integration of used in an
-information security device, or a flaw in the way that a information security device is used.
+(U//FOUO) Cryptanalytic vulnerability: A flaw in the design, implementation or system integration of cryptography used in an
+information security device, or a flaw in the way that a cryptographic information security device is used.
 
-(UHFOUO) Unintended vulnerability: Security is less than advertised by the manufacturer.
+(U//FOUO) Unintended cryptographic vulnerability: Security is less than advertised by the manufacturer.
 
-(UHFOUO) Indigenous: Non-commercial information security system or device developed by a SIGINT target.
+(U//FOUO) Indigenous: Non-commercial cryptographic information security system or device developed by a SIGINT target.
 
- 
+(U//FOUO) If you have any questions about the content of this page, contact
 
- 
-
-If you have any questions about the content of this page, contact? D032,
+DC32,
 
 3
-TOP 123
 
+TOP SECRET//COMINT//20291123

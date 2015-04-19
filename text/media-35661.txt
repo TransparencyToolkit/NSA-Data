@@ -1,601 +1,663 @@
-83285/InternProjects - WikiInfo
+﻿S3285/Intern Projects - Wiki Info
 
-The accredited security level of this system is: TOP 
-TO USA, FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
 
-TOP TO USA, FVEY
+TOP SECRET//SI//REL TO USA, FVEY
 
 (U) S3285/InternProjects
 
-TOP TO USA, FVEY
-From WikiInfo
+TOP SECRET//SI//REL TO USA, FVEY
+From Wikiinfo
 
+< S3285
 
+Jump to: navigation, search
 
-Jump to: 
-
-This page contains ideas about possible future projects for the
+(TS//SI//REL) This page contains ideas about possible future projects for the
 Persistence Division.
 
 Contents
 
-0
+•	1 (TS//SI//REL) CNA Team POLITERAIN
 
-00000000000
+o 1.1 (U) PASSIONATE POLKA
+o 1.2 (U) ARGYLEALIEN
+o 1.3 £U1 BARNFIRE
 
-000
+•	2 (U) Hard Drive Recovery
 
-000000
+•	3 fUl IRATE MONK
 
-10f13
+o 3.1 (TS//SI//REL) SSD Support
 
-83285/InternProjects - Wikilnfo
+o 3.2 fTS//SI//REL) Covert Storage Product
 
-5.7 TS SI REL LinuXA
-5.8 File Svstem Support
-I 5.8.1 
-I 5.8.2 LVM
-I 5.8.3 EXT4
-I 5.8.4 
-- 6 BERSERKR
-7 GOPHERRAGE
-8 Windows Tools
-0 8.1 WISTFULTOLL
-8.2 CENTRICDUD
-8.3 STYLISHCHAMP
-9 Network Infrastructure
+o 3.3 fU//FOUQl SADDLEBACK
 
-[edit] CNA Team
+o 3.4 IU//FOUO) ALTEREDCARBON Support
+
+o 3.5 1U//FOUO) FAKEDOUBT Support
+
+o 3.6 fU//FQUQl PLUCKHAGEN Support
+
+o 3.7 IU//FOUO) EASYKRAKEN Support
+
+o 3.8 fTS//SI//REL) USB Hard Drive Persistence
+
+o 3.9 (TS//SI//REL) IRATEMONK on Server/RAID Systems
+
+o 3.10 (U//FOUO') Enhancment of testing capabilities
+
+o 3.11 (TS//SI//REL) Self-Encrvpting-Drive (SEP) Persistence
+
+•	4 (TS//SI//REL1 OS Execution
+
+o 4.1 IU//FOUO) CASTLECRASHER
+
+o 4.2 fTS//SI//REL) Alternate Windows Execution Technique
+o 4.3 (TS//SI//REL1 Mac OSX Execution Technique
+
+•	5 fU) SIERRAMIST/TUMPDOLLAR
+
+o 5.1 (U) Extensibility Application
+o 5.2 fUl MOPNGO Application
+o 5.3 (TS//SI//REL) NTFSD DOS Driver
+o 5.4 fU) Full Featured Shell
+
+o 5.5 fTS//SI//REL) Windows Registry Read/Write Capability
+o 5.6 (TS//SI//REL) EFI Module
+
+1 of 13
+
+S3285/Intern Projects - Wiki Info
+
+o 5.7 (TS//SI//REL) Linux App
+o 5.8 (TS//SI//REL) File System Support
+
+■	5.8.1 (TS//SI//REL) BTRFS
+
+■	5.8.2 fTS//SI//RELj LVM
+
+■	5.8.3 (TS//SI//REL) EXT4
+
+■	5.8.4 (TS//SI//REL) UFS/ZFS
+
+•	6 (U//FOUO) BERSERKR
+
+•	7 fU//FOUO) GQPHERRAGE
+
+•	8 fU//FOUO) Windows Tools
+
+o 8.1 iU//FOlJOj WISTFULTOLL
+o 8.2 (U//FOUO) CENTRICDUD
+o 8.3 (U//FOUQ) STYLISHCHAMP
+
+•	9 (U//FOUO) Network Infrastructure
+
+[edit] (TS//SI//REL) CNA Team
 POLITERAIN
 
-FVEY) Persistence team is looking
+(TS//SI//REL FVEY) TAO/ATO Persistence POLITERAIN (CNA) team is looking
 for interns who want to break things. We are tasked to remotely degrade or
 destroy opponent computers, routers, servers and network enabled devices
-by attacking the hardware using low?level programming. It would be
+by attacking the hardware using low-level programming. It would be
 expected that our interns would learn to:
 
-Write drivers for LINUX, Windows, Solaris, or Apple OS.
+•	(U//FOUO) Write drivers for LINUX, Windows, Solaris, or Apple OS.
 
-0 Use SVN in a group environment.
+•	(U//FOUO) Use SVN in a group environment.
 
-0 Reverse engineer embedded systems
+•	(TS//SI//REL) Reverse engineer embedded systems
 
-0 Deliver code that conforms to Op?sec and deniability
+•	(TS//SI//REL) Deliver code that conforms to Op-sec and deniability
 requirements.
 
-0 Recover equipment that has been attacked.
+•	(TS//SI//REL) Recover equipment that has been attacked.
 
-Work with multiple to build something unique.
+•	(U//FOUO) Work with multiple SME's to build something unique.
 
-0 Developing an attacker's mind set.
+•	(TS//SI//REL) Developing an attacker's mind set.
 
-FVEY) POLITERAIN always has a backlog of smaller attacks
+(TS//SI//REL FVEY) POLITERAIN always has a backlog of smaller attacks
 than those listed below that need to be productized. We are also always open
-for ideas but our focus is on ?rmware, BIOS, BUS or driver level attacks. The
-projects below an intern could be expected to produce results in 4?6 months.
+for ideas but our focus is on firmware, BIOS, BUS or driver level attacks. The
+projects below an intern could be expected to produce results in 4-6 months.
 Most of the projects are unique enough to allow for results to be briefed or
-published in a classi?ed venue.
+published in a classified venue.
 
 [edit] (U) PASSIONATEPOLKA
 
-have discovered a way that may be able to remotely
+(TS//SI//REL FVEY)We have discovered a way that may be able to remotely
 brick network cards. We need someone to perform research and develop a
 deployable tool. Intern would have access to driver level developers, mentors
 
-20f13
+2 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-8: SMEs but would own the project and be responsible for it.
+& SMEs but would own the project and be responsible for it.
 
 [edit] (U) ARGYLEALIEN
 
-is a security feature built into many modern
-hard?drives that allows for zeroization. We want to use this feature to cause
+(TS//SI//REL FVEY)There is a security feature built into many modern
+hard-drives that allows for zeroization. We want to use this feature to cause
 the loss of data. Intern would be working closely with a POLITERAIN
 engineer to develop a solution that would work on multiple vendors
 leveraging Persistence divisions SMEs, investigating via experimentation.
-Intern would learn about hard?drive recovery, reverse engineering,
-hard?drive architecture and much more.
+Intern would learn about hard-drive recovery, reverse engineering,
+hard-drive architecture and much more.
 
 [edit] (U) BARNFIRE
 
-attack effort will erase the BIOS on a brand of
+(TS//SI//REL FVEY)This attack effort will erase the BIOS on a brand of
 servers that act as a backbone to many rival governments. An intern working
-on this project would need to be a *nix expert with experience with low?level
+on this project would need to be a *nix expert with experience with low-level
 development experience of multiple types and reverse engineering
 experience. Intern would be working and learning from SMEs during this
 development. First tour interns would not be considered for this project.
 
-[edit] (U) Hard Drive Recovery
+feditl (U) Hard Drive Recovery
 
-FVEY) When someone really needs the information off of a
+(TS//SI//REL FVEY) When someone really needs the information off of a
 damaged hard drive, they call Persistence. This would be a unique tour
-learning from a world?class expert how to ?x hardware and ?rmware
+learning from a world-class expert how to fix hardware and firmware
 problems. You would be working on targets, extracting data, troubleshooting
 hardware, rebuilding SCSI arrays, and using analytical engineering skill to
 produce real collection. Position requires good hearing for some of the
 troubleshooting. Intern should know how to solder.
 
-[edit] (U) IRATEMONK
-SSD Support
+feditl (U) IRATEMONK
 
-Integrate SSD research into IRATEMONK products. This will
+[editl (TS//SI//REL) SSD Support
+
+(TS//SI//REL) Integrate SSD research into IRATEMONK products. This will
 involve 4 different parts:
 
-I Leveraging research to create ARM?based SSD implant.
-This works involves reverse engineering SSD ?rmware and creating 
-and ARM assembly code to place inside of a ?rmware image to
+•	(TS//SI//REL) Leveraging research to create ARM-based SSD implant.
+This works involves reverse engineering SSD firmware and creating C
+and ARM assembly code to place inside of a firmware image to
 implement the IRATEMONK algorithm.
 
-0 Create version of the IMBIOS code that supports the SSD
-implant. This code runs on the x86 host and involves writing both and
+•	(TS//SI//REL) Create version of the IMBIOS code that supports the SSD
+implant. This code runs on the x86 host and involves writing both C and
 
-30f13
+3 of 13
 
-83285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-x86 assembly. This work will involve interacting with the ?rmware
-implant as well as the code that IMBIOS bootstraps (SIERRAMIST).
+x86 assembly. This work will involve interacting with the firmware
+implant as well as the code that IMBIQS bootstraps (SIERRAMIST).
 
-Add support for the SSD to WICKEDVICAR.
+•	(TS//SI//REL) Add support for the SSD to WICKEDVICAR.
 WICKEDVICAR is the remote tool used to perform remote survey and
-installation. This code is and will involve interacting with the
-?rmware implant from a Windows OS.
+installation. This code is C++ and will involve interacting with the
+firmware implant from a Windows OS.
 
-0 Add the SSD vendor support to the IRATEMONK ?rmware
+•	(TS//SI//REL) Add the SSD vendor support to the IRATEMONK firmware
 and implant database tool. This code is mostly python code that
 interacts with a drive via a Linux driver.
 
-The SSD support for IRATEMONK project currently offers the
+(TS//SI//REL) The SSD support for IRATEMONK project currently offers the
 greatest variety of new work that an intern might be able to do.
 
-[edit] Covert Storage Product
+[edit] (TS//SI//REL) Covert Storage Product
 
-Create a covert storage product that is enabled from a hard
-drive ?rmware modi?cation. The idea would be to modify the ?rmware of a
+(TS//SI//REL) Create a covert storage product that is enabled from a hard
+drive firmware modification. The idea would be to modify the firmware of a
 particular hard drive so that it normally only recognizes say half of its
 available space. It would report this size back to the operating system and
-not provide any way to access the additional space. The ?rmware would have
+not provide any way to access the additional space. The firmware would have
 a special hook inside of it that on receipt of some custom ATA command, it
 would "unlock" the rest of the drive on the next boot of the drive. When
 covert storage is locked, only 1 partition would be present on the drive.
-When unlocked, the ?rmware would ?x up the partition table to account for
+
+When unlocked, the firmware would fix up the partition table to account for
 the second hidden partition whose space is now available on the drive. When
-?nished with covert storage, a special command can be sent back to the
-drive that will lock the drive again. On the next boot, the ?rmware will hide
-the extra space and ?x up the partition table so only 1 partition exists.
+finished with covert storage, a special command can be sent back to the
+drive that will lock the drive again. On the next boot, the firmware will hide
+the extra space and fix up the partition table so only 1 partition exists.
 
-[edit] SADDLEBACK
+[edit] (U//FOUO) SADDLEBACK
 
-Utilizing a hard drive's serial port, create a ?rmware implant
+(TS//SI//REL) Utilizing a hard drive's serial port, create a firmware implant
 that has the ability to pass to and from an implant running in the operating
 system. In practice, the serial port will be connected to a short hop radio that
-can communicate with another radio in a system. Doing a ?rmware
-modi?cation eliminates the need to tap the SATA bus as was done on other
-versions of SADDLEBACK. Performing ?rmware modi?cation will allow for a
+can communicate with another radio in a system. Doing a firmware
+modification eliminates the need to tap the SATA bus as was done on other
+versions of SADDLEBACK. Performing firmware modification will allow for a
 smaller SADDLEBACK in the form of a laptop drive as opposed to the current
 version which only comes in a a 3.5 inch version.
 
-[edit] ALTEREDCARBON Support
+[edit] (U//FOUO) ALTEREDCARBON Support
 
-Develop IRATEMONK implants for the newest Seagate drives
+(TS//SI//REL) Develop IRATEMONK implants for the newest Seagate drives
 including their hybrid drive products. This work will primarily be a reverse
-engineering effort, but if successful will require updates to both IMBIOS (x86
-code, and assembly), WICKEDVICAR (x86, and SPITEFULANGEL
+engineering effort, but if successful will reguire updates to both IMBIOS (x86
+code, C and assembly), WICKEDVICAR (x86, C + +), and SPITEFULANGEL
 
-40f13
+4 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
 (python).
 
-[edit] FAKEDOUBT Support
+[edit] (U//FOUO) FAKEDOUBT Support
 
-Create an IRATEMONK implementation for ARM?based Hitachi
-drives. This includes a ?rmware implant, IMBIOS code, and WICKEDVICAR
+(TS//SI//REL) Create an IRATEMONK implementation for ARM-based Hitachi
+drives. This includes a firmware implant, IMBIOS code, and WICKEDVICAR
 and SPITEFULANGEL support.
 
-[edit] PLUCKHAGEN Support
+[edit] (U//FOUO) PLUCKHAGEN Support
 
-Create an IRATEMONK implementation for ARM?based Fujitsu
-drives. This includes a ?rmware implant, IMBIOS code, and WICKEDVICAR
+(TS//SI//REL) Create an IRATEMONK implementation for ARM-based Fujitsu
+drives. This includes a firmware implant, IMBIOS code, and WICKEDVICAR
 and SPITEFULANGEL support.
 
-[edit] EASYKRAKEN Support
+[edit] (U//FOUO) EASYKRAKEN Support
 
-Add more drive support for ARM?based Samsung drives.
+(TS//SI//REL) Add more drive support for ARM-based Samsung drives.
 
-[edit] USB Hard Drive
+[edit] (TS//SI//REL) USB Hard Drive
 Persistence
 
-Develop a capability to install a hard drive implant on a USB
+(TS//SI//REL) Develop a capability to install a hard drive implant on a USB
 hard drive. Since external hard drives are not normally boot from, the new
 implant will need to be an improved version of MADBISHOP so the hard
-drive implant will have the ability to manipulate the ?le system of the drive
-inside of the ?rmware itself. Development would consist of 3 main
+drive implant will have the ability to manipulate the file system of the drive
+inside of the firmware itself. Development would consist of 3 main
 development areas:
 
-I Reliable, robust, and portable NTFS code. Other ?le
+•	(TS//SI//REL) Reliable, robust, and portable NTFS C code. Other file
 systems could also be looked into such as FAT, EXT2, etc.
 
-Hard drive implant
+•	(TS//SI//REL) Hard drive implant
 
-I Remote installation over USB
+•	(TS//SI//REL) Remote installation over USB
 
-[ec?t] IRATEMONK on
+fftdit.l (TS//SI//REL) IRATEMONK on
 Server/RAID Systems
 
-Investigate the feasibility of developing a hard drive
+(TS//SI//REL) Investigate the feasibility of developing a hard drive
 persistence implant for Server/RAID systems. This will primarily involve
 investigating what ATA commands are allowed through various RAID
 controllers. Also, coming up with a scheme to handle different RAID
-con?gurations will be needed since the data on the drives will differ
+configurations will be needed since the data on the drives will differ
 depending on the the RAID setup. It will be important to examine how RAID
 controllers interact the drives and where data (especially the MBR) is stored.
-If feasible, this investigation could lead to the extension of 
+If feasible, this investigation could lead to the extension of IRATEMONK-type
 
-50f13
+5 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
 hard drive implants into server spaces which provide increased covert
 storage and the capability to keep persistence logs which currently aren't
 available on BIOS only techniques.
 
-[edit] Enhancment of testing
+[edit] (U//FOUO) Enhancment of testing
 capabilities
 
-IRATEMONK makes use of ROGUESAMURAI and actual
+(TS//SI//REL) IRATEMONK makes use of ROGUE SAMURAI and actual
 hardware to perform its testing. The downside of testing with actual
 hardware is that testing takes many hours/days to complete. Someone with
 the right level of test development experience can help to improve the
 current IRATEMONK testing strategy.
 
-[edit] 
+[edit] (TS//SI//REL) Self-Encrypting-Drive
 (SED) Persistence
 
-SED drives provide additional security measures which often
-thwart IRATEMONK developer efforts to modify the ?rmware on these
+(TS//SI//REL) SED drives provide additional security measures which often
+thwart IRATEMONK developer efforts to modify the firmware on these
 drives. I highly skilled intern with reverse engineering skills and
 understanding of security in computing systems would be invaluable in
-tackling one of the persistence divisions more dif?cult problems.
+tackling one of the persistence divisions more difficult problems.
 
-[edit] OS Execution
+feditl (TS//SI//REL) OS Execution
 
-While a lot of work in the Persistence Division involves
-modifying ?rmware, there is still a large need for OS kernel and user?mode
-expertise. The ?rmware modi?cation done at the lowest levels of hardware
+(TS//SI//REL) While a lot of work in the Persistence Division involves
+modifying firmware, there is still a large need for OS kernel and user-mode
+expertise. The firmware modification done at the lowest levels of hardware
 needs a way to obtain execution inside of a running OS so that a DNT
 payload can be either given execution or installed.
 
-[edit] CASTLECRASHER
+[edit] (U//FOUO) CASTLECRASHER
 
-CASTLECRASHER is the primary technique used in executing
-DNT Windows payloads from all payload persistence techniques 
+(TS//SI//REL) CASTLECRASHER is the primary technique used in executing
+DNT Windows payloads from all payload persistence techniques (i.e.
 IRATEMONK and SIERRAMISTFREE). It is all Windows native mode code
 built using Visual Studio. CASTLECRASHER has many advanced techniques
-in it including thread injection and anti?stack backtracing. In many cases,
+in it including thread injection and anti-stack backtracing. In many cases,
 CASTLECRASHER is closer to the DNT style kernel work than it is to
 traditional Persistence work. While the current version is quite robust, there
 are several features that need to be added:
 
-0 Currently, CASTLECRASHER doesn't work against
-systems with 360 Safe installed. We need to ?nd a way around this even
+(TS//SI//REL) Currently, CASTLECRASHER doesn't work against
+systems with 360 Safe installed. We need to find a way around this even
 if it involves using the older Windows service method of execution. This
 
-60f13
+6 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-will more than likely require a refactoring of how the con?guration data
+will more than likely require a refactoring of how the configuration data
 of CASTLECRASHER is stored.
 
-Develop an automated test suite using the Persistence
-Division's ROGUE SAMURAI test framework to provide more robust
+• (TS//SI//REL) Develop an automated test suite using the Persistence
+Division's ROGUESAMURAI test framework to provide more robust
 testing for this important project.
 
-[edit] Alternate Windows
+[edit] (TS//SI//REL) Alternate Windows
 Execution Technique
 
-Currently, CASTLECRASHER is the only production quality
+(TS//SI//REL) Currently CASTLECRASHER is the only production quality
 Windows execution technique that Payload Persistence techniques have.
-Another mechanism to execute DNT payloads is needed. Most pre?boot
-Persistence techniques only have the ability to in?uence an OS through
-modi?cations to the target ?le system. Work needs to be done to investigate
+Another mechanism to execute DNT payloads is needed. Most pre-boot
+Persistence techniques only have the ability to influence an OS through
+modifications to the target file system. Work needs to be done to investigate
 other ways to get execution inside of Windows. This work will start looking at
 other techniques that have been provided to the Persistence Division from
 other partners. The feasibility of these techniques should be assessed. If
 feasible, the technique should be productized into a deployable solution.
 
-[edit] Mac OSX Execution
+[edit] (TS//SI//REL) Mac OSX Execution
 Technique
 
-Research needs to be done to investigate different ways that a
-pre?boot Persistence technique that can modify the target ?le system can get
-execution inside of OSX. Maybe start?up scripts can be modi?ed or special
-?les can be added that will get executed. In order for Payload Persistence to
+(TS//SI//REL) Research needs to be done to investigate different ways that a
+pre-boot Persistence technique that can modify the target file system can get
+execution inside of OSX. Maybe start-up scripts can be modified or special
+files can be added that will get executed. In order for Payload Persistence to
 work against OSX, a execution technique is needed.
 
-[edit] (U)
+feditl (U)
 
+SIERRAMIST/JUMPDOLLAR
 
-[edit] (U) Extensibility Application
+Feditl (U) Extensibility Application
 
-Create a new extensibility application that checks for a ?le on
-the ?le system that it will run to update the SIERRAMIST partition. This
-application would replace the current one and would have list of con?gurable
-?le paths to check. This could be written for both SIERRAMIST and
-JUMPDOLLAR. Create a ROGUE SAMURAI test suite to test all aspects of this
+(TS//SI//REL) Create a new extensibility application that checks for a file on
+the file system that it will run to update the SIERRAMIST partition. This
+application would replace the current one and would have list of configurable
+file paths to check. This could be written for both SIERRAMIST and
+JUMPDOLLAR. Create a ROGUESAMURAI test suite to test all aspects of this
+app.
 
+Feditl (U) MOPNGO Application
 
+7 of 13
 
-[edit] (U) MOPNGO Application
+S3285/Intern Projects - Wiki Info
 
-70f13
-
-S3285/InternProjects - WikiInfo
-
-Update the MOPNGO application to remove the buffer over?ow
-issue it has when more than 512 characters are con?gured. Also, port this
+(TS//SI//REL) Update the MOPNGO application to remove the buffer overflow
+issue it has when more than 512 characters are configured. Also, port this
 application to JUMPDOLLAR. Create a ROGUESAMURAI test suite to test the
 application. Look into creating unit tests as well.
 
-[edit] DOS Driver
+[edit] (TS//SI//REL) NTFSD DOS Driver
 
-The MX team has requested an upgrade of their DOS
-driver for their DOS?based thumb drives used in interdiction deployments.
+(TS//SI//REL) The MX team has requested an upgrade of their NTFSD DOS
+driver for their DOS-based thumb drives used in interdiction deployments.
 The newest FSM should be compiled into a DOS driver for their use. This
-problem will be solved with the creation of a MKUSB utility for
+problem will he solved with the creation of a MKUSB utility for
 JUMPDOLLAR.
 
 [edit] (U) Full Featured Shell
 
-A full featured shell should be written (particularly for
-JUMPDOLLAR). The ability to run scripts and have some sort of ?ow control
+(TS//SI//REL) A full featured shell should be written (particularly for
+JUMPDOLLAR). The ability to run scripts and have some sort of flow control
 logic would be desirable. This could eventually be used by the MX team as a
 means to deploy implants. They have expressed a desire to have one
 environment that can work on a Mac, Linux, or a Windows machine. Provided
-we have the ?le system support, this could eventually provide them what
+we have the file system support, this could eventually provide them what
 they want.
 
-[edit] Windows Registry
-Read/\Nrite Capability
+[edit] (TS//SI//REL) Windows Registry
+Read/Write Capability
 
-Create the ability from to be able
+(TS//SI//REL) Create the ability from SIERRAMIST/JUMPDOLLAR to be able
 to read and write the Windows registry. This will provide new capability to
 apps to do a whole host of new things. It may be possible to install
 VALIDATOR manually instead of relying on its installers. This work may also
 allow some IT Geo applications as well if we can tweak some keys.
 
-[edit] EFI Module
+[edit] (TS//SI//REL) EFI Module
 
-Build an EFI module out of apps
+(TS//SI//REL) Build an EFI module out of SIERRAMIST/JUMPDOLLAR apps
 that can be loaded via normal EFI mechanisms including an EFI shell. This is
 similar to what Sandia can do with their MOUSETRAP implant. This work
 could provide a new mechanism to achieve persistence and might prove to be
 easier than current patching techniques.
 
-[94m] Linux App
+[edit] (TS//SI//REL) Linux App
 
-Rewrite the Linux App to be con?gurable and add logging into
+(TS//SI//REL) Rewrite the Linux App to be configurable and add logging into
 it for use with IRATEMONK. Integrate build into BORGERKING. Investigate
 
-80f13
+8 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-whether or not ROGUESAMURAI can be used to test.
+whether or not ROGUE SAMURAI can be used to test.
 
-[edit] File System Support
+[edit] (TS//SI//REL) File System Support
 
-The following ?le systems need support by
+(TS//SI//REL) The following file systems need support by
+SIERRAMIST/JUMPDOLLAR:
 
+[edit! (TS//SI//REL) BTRFS
 
-[edit] 
-This ?le system is slated to become the default in Fedora Core
+(TS//SI//REL) This file system is slated to become the default in Fedora Core
 17 or 18. Work can begin on supporting this now, however. This is applicable
-
 primarily for JUMPDOLLAR, but maybe SIERRAMIST as well.
 
-[edit] LVM
+[edit] (TS//SI//REL) LVM
 
- 
-
-Back port changes of the LVM code in JUMPDOLLAR's EXT4
+(TS//SI//REL) Back port changes of the LVM code in JUMPDOLLAR's EXT4
 FSM to SIERRAMIST's EXT3.
 
-[edit] EXT4
-Back port JUMPDOLLAR's EXT4 FSM to SIERRAMIST.
+[edit] (TS//SI//REL) EXT4
 
-[edit] 
+(TS//SI//REL) Back port JUMPDOLLAR's EXT4 FSM to SIERRAMIST.
 
- 
+[edit] (TS//SI//REL) UFS/ZFS
 
-Create UPS and ZFS FSMs 
+(TS//SI//REL) Create UFS and ZFS FSMs for JUMPDOLLAR.
 
-[edit] BERSERKR
+[edit] (U//FOUO) BERSERKR
 
-BERSERKR is a persistent backdoor that is implanted into the
+(TS//SI//REL) BERSERKR is a persistent backdoor that is implanted into the
 BIOS and runs from SMM. Although the core of the code is stable, there are
 always new requirements against which to develop. This includes new
 network interface card parasitic drivers as well as applications.
 
-Some notable applications that need development:
+(TS//SI//REL) Some notable applications that need development:
 
-0 KIRKBOMB Windows kernel examination to detect
+•	(TS//SI//REL) KIRKBOMB - Windows kernel examination to detect
 loaded drivers, running processes as well. There is a prototype which
 works on Windows 7, this needs to work on XP and 2008 including
-64?bit systems.
+64-bit systems.
 
-0 SODAPRESSED Linux application persistence. Given a
+•	(TS//SI//REL) SODAPRESSED - Linux application persistence. Given a
 running installation of Linux, install some application or inject
 something into memory which will. This currently works on certain
 versions of Linux without SELinux enabled.
 
-There may also be requirements in the near future for:
+(TS//SI//REL) There may also be requirements in the near future for:
 
-90f13
+9 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-BENTWHISTLE A collection tool that runs from
+• (TS//SI//REL) BENTWHISTLE - A collection tool that runs from
 BERSERKR.
 
-BERSERKR is often looking to expand its target support. A big
-way this is done is via adding network card support. Currently, BERSERKR
+(TS//SI//REL) BERSERKR is often looking to expand its target support. A big
+way this is done is via adding network card support. Currently BERSERKR
 does not support any wireless network cards.
 
-[edit] GOPHERRAGE
+feditl (U//FOUO) GOPHERRAGE
 
-GOPHERRAGE is a project that seeks to develop a hypervisor
+(TS//SI//REL) GOPHERRAGE is a project that seeks to develop a hypervisor
 implant that would leverage both AMD and Intel's virtualization technology
 in order to provide both DNT implant persistence capabilities and a
 persistent back door.
 
-Develop a hypervisor implant that would leverage both Intel's
+(TS//SI//REL) Develop a hypervisor implant that would leverage both Intel's
 and AMDs virtualization technology in order to provide both DNT implant
 persistence capabilities and a persistent back door access. The idea would be
 similar to what BERSERKR can do from SMM in that it should be able to use
 "the machine's network interface card (NIC) to communicate independently
-of the host operating system Also, this hypervisor implant should have
+of the host operating system (OS)". Also, this hypervisor implant should have
 full read/write access of host memory so it will be possible to change Host
 OS behavior in ways that could allow code execution, OS injection, system
-survye, VM break?in, etc.
+survye, VM break-in, etc.
 
-GOPHERRAGE is the Persistence Division's pilot program to
+(TS//SI//REL) GOPHERRAGE is the Persistence Division's pilot program to
 apply industry best practices and agile development processes to internal
 projects. To this end, the project is managed via the Scrum process. Test
 Driven Development (TDD) practices are used as well in an effort to reduce
 code defects. The project also is looking to incorporate ideas from DNT such
 as their SCube build environment.
 
-[edit] Windows Tools
-[edit] WISTFULTOLL
+[edit] (U//FOUO) Windows Tools
 
-WISTFULTOLL is the premiere target survey tool for Windows
+[edit] (U//FOUO) WISTFULTOLL
+
+(TS//SI//REL) WISTFULTOLL is the premiere target survey tool for Windows
 that runs on almost all targets automatically. It brings back information
 about the target system's machine and operating system that is invaluable
-for both the Persistence Division and enterprise wide. New features
-need to be added to WI STFULTOLL as well as it being refactored.
+for both the Persistence Division and analysts enterprise wide. New features
+need to be added to WISTFULTOLL as well as it being refactored.
 
-[edit] CENTRICDUD
+[edit! (U//FOUO) CENTRICDUD
 
-CENTRICDUD is a tool to read and writes bytes in the CMOS.
-
- 
+(TS//SI//REL) CENTRICDUD is a tool to read and writes bytes in the CMOS.
 
 10 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
 It needs to be rewritten and productized so that it can be incorporated into a
-proper UR plug?in. The driver associated with this tool also needs to be
-redone as it is being ?agged by PSPs for unknown reasons. This tool is used
+proper UR plug-in. The driver associated with this tool also needs to be
+redone as it is being flagged by PSPs for unknown reasons. This tool is used
 both by the BIOS team as well as the IT Geo team.
 
-[edit] STYLISHCHAMP
+[edit] (U//FOUO) STYLISHCHAMP
 
-STYLISHCHAMP is a tool that can create a HPA on a hard drive
+(TS//SI//REL) STYLISHCHAMP is a tool that can create a HPA on a hard drive
 and then provide raw reads and writes to this area. This tool should
 incorporate latest TWISTEDKILT code so that it can support SATA drives.
-This will allow SWAP to be used on newer systems. Currently, only IDE drives
+
+This will allow SWAP to be used on newer systems. Currently only IDE drives
 are used.
 
-[edit] Network
+feditl (U//FOUO) Network
 Infrastructure
 
-TORNSTEAK is a persistence solution for two ?rewall devices
+(TS//SI//REL) TORNSTEAK is a persistence solution for two firewall devices
 from a particular vendor. We need to port TORNSTEAK from the existing two
-?rewalls to several more from the same vendor. This persistence effort would
-use one's reverse engineering, computer architecture, programming and
+firewalls to several more from the same vendor. This persistence effort would
+use one's reverse engineering, computer architecture, "C" programming and
 assembly language coding skills.
 
-Retrieved from
+TOP SECRET//SI//REL TO USA, FVEY
 
-TOP TO USA, FVEY
-
-Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
-and 1?52, Dated: 20070108
-
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM 1-52, Dated: 20070108
 Declassify On: 20320108
 
 11 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-Read
-0 Edit
-0 View history
+•	Read
 
+•	Edit
+
+•	View history
 Actions
 
-0 Move
-- atch
-0 Tag this page
+•	Move
+
+•	Watch
+
+•	Tag this page
 
 Search
 
- 
-
- 
+Go
 
 Navigation
 
-0 Main Pa 
+•	Main Page
 
-Communitv portal
-0 Recent changes
+•	Community portal
 
-0 Random a 
+•	Recent changes
 
-Hel
+•	Random page
+
+•	Hein
 
 Toolbox
 
-What links here
-0 Related changes
-- Trackback
+•	What links here
 
-0 load ?le
+•	Related changes
 
-0 ecial a es
+•	Trackback
 
-- Printable version
-0 Permanent link
+•	Upload file
+
+•	Special pages
+
+•	Printable version
+
+•	Permanent link
 
 social software tools
 
-0 |ournalNSA
-Tapioca
+•	TournalNSA
 
-Connexions
-LINKUP
+•	Tapioca
 
-ace
+•	Connexions
 
-0 Round Table
-0 WikiInfo?NF
+•	LINKUP
+
+•	SpvSpace
+
+•	Round Table
+
+•	Wikilnfo-NF
 
 partner wikis
 
-Intelli edia
-CSEC wiki
+•	Intellipedia
 
-Go I Search
+•	CSEC wiki
+
+Search
 
 12 of 13
 
-S3285/InternProjects - WikiInfo
+S3285/Intern Projects - Wiki Info
 
-Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
-and 1?52, Dated: 20070108
+•	GCHQ wiki
+
+•	DSD wiki
+
+•	GCSB wiki
+
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+
+and NSA/CSSM 1-52, Dated: 20070108
+
 Declassify On: 20320108
 
-TOP TO USA, FVEY
-The accredited security level of this system is: TOP 
+TOP SECRET//SI//REL TO USA, FVEY
 
-TO USA, FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
 
 13 of 13
-

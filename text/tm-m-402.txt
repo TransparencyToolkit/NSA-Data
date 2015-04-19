@@ -1,0 +1,1081 @@
+﻿Bad guys are everywhere,
+good guys are somewhere!
+
+NSA/CSS Threat Operations Center (NTOC)
+NTOC Technology Development
+
+TS//SI//REL TO USA, FVEY
+
+(U) NTOC
+
+•	(U//FOUO) Operates under both SIGINT and
+Information Assurance authorities
+
+-	Leverage SIGINT, IA, OSINT
+
+•	(U//FOUO) Coordinates Integrated Cyber Operations
+
+-	V2: Analysis
+
+-	V3: Operations
+
+-	V4: Technology Development Support
+
+• V45: Technology Development Division
+
+/
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) V45 - Projects
+
+(U//FOUO) TREASUREMAP
+
+- Massive Internet mapping, exploration, and
+analysis engine
+
+(U//FOUO) PACKAGEDGOODS
+- Globally dispersed traceroute generators
+
+(U) Other Projects
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) What iS TREASUREMAP?
+
+(U//FOUO) Capability for building a near real-time, interactive
+map of the global internet.
+
+Map the entire Internet - Any device*, anywhere, all the time
+
+(U//FOUO) We enable a wide range of missions:
+
+*	Cyber Situational Awareness - your own network plus adversaries’
+
+*	Common Operation Pictures (COP)
+
+*	Computer Attack/Exploit Planning / Preparation of the Environment
+
+*	Network Reconnaissance
+
+*	Measures of Effectiveness (MOE)
+
+(* limited only by available data)
+
+
+
+
+
+TSj7SL7REL TO USA, FVEY
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TREASUREMAP
+
+i nr/
+
+•	(U//FOUO) Continual generation of global Internet
+map, IPv4 and IPv6 (limited)
+
+•	(U//FOUO) Focus on logical layers (router and
+autonomous system), but touches physical, data
+link, and application layers
+
+•	(U) Its Huge.
+
+/
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+TREASUREMAP as an Enabler
+
+------r^r.
+
+We
+
+enable
+
+»
+
+Our
+
+mission
+
+Persona Layer
+
+Cyber Persona Layer
+
+Physical Network Layer
+
+Geographical Layer
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+Current State
+
+*	(U//FOUO) Data Sources
+
+-	Open Source Intelligence (OS I NT) * & Academic
+
+-	Commercially Acquired
+
+-	SIGINT
+
+-	I nfo rmation Ass u ran ce
+
+*	(U//FOUO) Available on multiple networks to many user groups
+
+-	NSAnet - TREASUREMAP (TM)
+
+*	5-Eyes partners
+
+*	JWICS users - USG 1C
+
+-	SIPRNet - USG 1C /DoD - TREASURE MAP-SI PR (TM-S)
+
+*	(U) New capabilities delivered every 90 days
+
+*	(U) 30+ Gigabytes of additional data added and replaced per day
+
+(* OSINT - Open Source / Publicly available Internet Meta-Data)
+
+* v
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) Data Sources
+
+Feed the Machine
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+OSINT, Commercial & Academic
+
+7	i nr
+
+• (U//FOUO) BGP
+
+-	Gives the 300,000 foot view of the Internet
+
+-	Defines routing across Autonomous Systems (AS)
+
+-	Origination of IP address spaces (Prefixes) to AS
+
+-	How the Internet gets knowledge of itself (IP address space)
+
+-	Commericaly purchased Data Sources
+
+•	Akamai, SOCIALSTAMP, SEASIDEFERRY
+
+-	Open Source
+
+•	Public BGP, IXP (RIPE), APNIC, ROUTEVIEWS, CERNET
+
+TS//SL7REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) OSINT,
+
+& Academic r
+
+* (U//FOUO) Traceroutes
+
+-	Router -to- router links to targeted IP addresses
+
+-	Creates links between networking devices (routers)
+
+-	TM ingests approx. -16-18 million traceroutes daily
+
+-	Gives the 300 foot view, router-to-router infrastructure
+
+-	Data Sources
+
+*	ARK - CAIDA’s Archipelago Project *
+
+*	PACKAGEDGOODS *
+
+*	SOCIALSTAMP
+
+*	RUSTICBAGGAGE
+
+*	User Input
+
+/
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) OSINT,
+
+& Academie
+
+*	(U) Registries - Information on netblock and AS ownership
+
+*	(U) DNS - IP address to domain name matching
+
+*	(U) Operating System (OS) Fingerprints
+
+- Software and Operating System characteristics of networked
+devices
+
+----30-50 million unique IP addresses represented per day
+
+/
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U//FOUO) Traceroutes: PACKEGEDGOODS
+
+*	(U//FOUO) Collects "network measurement’1 data, on public internet
+
+*	(U) Random traceroutes and user requested
+
+*	(U//FOUO) PG-GTR
+
+-	Currently using -700 public traceroute sites to perform operations
+
+-	High target (full IP addresses)
+
+-	Capable of -4K IPv4 and IPv6 traceroutes daily
+
+*	(U//FOUO) PG-Server
+
+-	High volume: -6.5 million traceroutes per day
+
+-	Low targ etin g: I Pv4 /24 netbl ocks or h i gh er
+
+-	Can do whole ASes, Country, Netblocks
+
+-	13 covered servers in unwitting data centers around the globe
+
+•	Asia: Malaysia, Singapore, Taiwan, China (2), Indonesia, Thailand, India
+
+•	Europe & Russia: Poland, Russia, Germany, Ukraine, Latvia, Denmark
+
+•	Africa: South Africa
+
+•	South America: Argentina, Brazil
+
+/
+
+N
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) Coming Soon!
+
+• (U//FOUO) PG-Server 2.0
+
+-	Tasking of full IP address
+
+-	Choice of traceroute types:
+
+•	ICMP
+
+•	ICMP Paris
+
+•	TCP
+
+•	UDP
+
+-	Choice of PG-SVR (for source of traceroute)
+
+-	Auto-refresh
+
+TS//SL7REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+Traceroutes - CAIDA
+
+•	(U) University of California, San Diego
+
+-	Cooperative Association for Internet Data Analysis
+
+-	Archipelago measurement platform
+
+•	(U//FOUO) TM data source: ARK
+
+•	(U) High volume: -10 million traceroutes per day
+
+•	(U) Random targeting (/24 netblock, BGP advertised)
+
+•	(U) 44 Locations: Asia (5), Europe (15), Africa (2), North
+America (18), South America (2), Oceania (2)
+
+✓
+
+
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+Internal Sources (Protected
+
+-	(U//FOUO) PACKAGEDGOODS - NTOC
+
+*	(S) Clandestine traceroute and DNS processor
+
+-	(S//SI//REL) BLACKPEARL -
+
+*	SIGINT session 5-tupel, identified routers, routing protocols, SIGINT access points,
+(inferred SIGINT access points)
+
+-	(S//SI//REL) LEAKYFAUCET -
+
+*	Flow repository of 802.11 WiFi IP addresses and clients via STUN data
+
+-	(S//SI//REL) HYDRO CASTLE -	/
+
+*	802.11 configuration data extracted from CNE activity in specific locations
+
+*	(Requires HYDROCASTLE account)
+
+-	(S//SI//REL) MASTERSHAKE-
+
+*	FORNSAT and WiFi collection data
+
+-	(S//SI//REL) S-TRICKLER - NTOC
+
+*	IP address fingerprints and potential vulnerabilities from FORNSAT collection
+
+Source?)
+
+t r-nlivAP
+
+>-------
+
+TSjVSL7REL TO USA, FVEY
+
+
+
+TS//SI//REL TO USA, FVEY
+
+Internai Sources
+
+(Protected
+
+Source?)
+
+-	(S//SI//REL) TOYGRIPPE -
+
+*	Repository of VPN endpoints
+
+-	(S//SI//REL) DISCOROUTE— /GCHQ
+
+*	Router configuration files from CNE and passive SIGINT
+
+*	NACTs DISCOROUTE repository
+
+-	(TS//SI//REL) VITALAIR2 -
+
+*	Automated scaned IP addresses for TAO known vulnerabilities
+
+-	(U//FOUO) IPGeoTrap -
+
+*	Provides geo location services for IP addresses/ranges
+
+-	(TS//SI//REL) JOLLYROGER- /
+
+*	Provides metadata that describes the networking environment of TAO-
+implanted Windows PCs
+
+*	(Requires JOLLYROGER account)
+
+-	(U//FOUO) TUTELAGE - NTOC
+
+*	Specific aierts from intrusion detection sensors
+
+*	(not currently active)
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) The Whole is Greater
+than the Sum of the Parts
+
+
+
+
+
+
+
+v
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) Data Relationships
+
+BGP
+I Advertisements!
+
+IP
+
+Geolocation
+
+OS
+
+Fingerprints
+
+Traceroutes
+
+Router
+Configuration
+Files
+
+I Autonomous
+System
+
+IP Prefix
+
+Ex:
+
+Countn
+
+Ex: I
+
+IP Address
+
+Lx:
+
+Yellow links denotes direct relationships between data types.
+
+Router
+
+Ex:
+
+For example, we know which AS contains a router because we can relate a router to IP Addresses
+IP Addresses to IP Prefixes, then IP Prefixes to an AS.
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+IPv4 & IPv6
+Announcements
+
+19 additional peers
+
+2939e
+
+17557
+
+Potential Satellite Hops
+
+■■45595
+
+Graph simplified for presentation purpose
+
+Stub AS: Multi-homed & Single homed
+
+(U) Autonomous System Peering - BGP
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) ... and Registries
+
+13
+
+INTAL-ASH Intal Telecom
+
+TT1 TKOM-AT Telekom Austria
+17	AjuLoi lonousS |f stern
+
+JV
+
+IS
+
+
+
+urCT Unet Network, The
+
+IMeltier lauds
+
+Vi
+
+"xxX t /
+
+SUV AM At tL>n SciririUfl
+i ic
+
+Gl OBAI NFT-AS KC Gl OBftl NFT ,
+
+
+
+TTTJFTTTnpt Autonomous
+System
+
+l W .
+
+TfiOl
+
+PKTF1 TGOM-AS-tPK P^istim
+,-Teleuoi nr mili iuilior i Cu n'lpj 17
+
+/ I inLT' Tid	\
+
+
+
+MASKCOM-PK-AS-AP MaskaUya
+
+Gji rir rm liLalijr is (IL]
+
+ltd Gl
+
+/
+
+\
+
+'Ll
+
+\
+
+11/	RUNNET State ¿^tltute	HORLlUMz I NUKUUr¡6t
+
+of Infor mation I ctlmo logics
+
+and
+
+1
+
+LEVEL3 Level 3 Comminkatlons
+
+TREE-NET-AS TREEriet
+
+STNGTFI -AS-AP Singapore
+
+[45 595]]	Telecommunications Ltd
+
+TMNFT-AS-AP TM Net, Internet
+
+Service Provider riCTFI FCOM-AS-PK Pak istan
+
+Telecom Company Limited
+
+Graph simplified for presentation purpose
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+Internet “flow” to a “Network
+
+They’re color-coded by country. Big deal.
+
+
+
+
+
+
+
+TS//SIWREL TO USA, FVEY
+
+TS//SI//REL TO USA
+
+(U) With Trac
+
+Missing Hops
+
+RFC1918 Addresses
+(private IP address space)
+
+Graph simplified for presentation purpose
+
+TSWSif/REL TO USA
+
+, FVEY
+
+eroute...
+
+\_______________________________
+
+Correlation of IP Address with AS &
+Country
+
+174 [US)
+
+Network Bottlenecks
+
+, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) ... and DNS
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) IP Geolocation Data
+
+^Correlate IP addresses with country, latitude and longitude (via IPGeoTrap)
+
+________________- ■ ■ ■
+
+
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U) Seeing
+
+in the Water
+
+/
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(S//SI//REL) Bring the SIGINT (AS Level)
+
+I nr/-.-;: rnlt
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(S//SI//REL) Traceroute - overlaid with SIGINT
+
+and other
+
+nr/-.-;: rnli:
+
+TOYGRIPPE (VPN)
+
+
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(S//SI//REL) Known Devices
+
+(S//SI//REL) Sources: DISCOROUTE (NAC router configuration repository)
+
+(S//SI//REL) Display supporting infrastructure, as configured in router
+configuration files
+
+*	Where router accessed from
+(possible NOC?)
+
+*	servers configured for router
+(NTP, DNS, Radius, TACACS )
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(S//SI//REL) Known Devices
+
+-	(S//SI//REL) Sources: DISCOROUTE (NAC router configuration
+repository)
+
+-	(S//SI//REL) Router data in tables
+
+
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(S//SI//REL) Cisco Discovery Protocol (CDP^
+
+U DP Router Report	: ¿LtS-SJ-N-üWJl		
+1' at e :	Uh y U4; ZULL		
+DavicQ faaia :	SLB-SIH-SXTÜ1		
+Rodel:	C L S CO LUS - L '¿. 1 b U- ¿ 4T U - L		
+C ap al'i 1 it i a s :	Parformf la v a 12 2w i t c a i ngr 1 jRR /lag- S2t		
+Software 7arffion:	12 - 2>; 2 E) SBE2		
+R etuort P fétu es :	-		
+D vip lie at a I1 o r t s :	—		
+Jfhysica 1 fort	Address Protocol AS	U o tnt ry	Data ¿ources
+F fif t Et h c r si a 10 / G	£ 9. 2 E4 . eo IP TX/îl	uormY	EP_I.E L [ 0 F /O '3 ./ 2 310 2 0: 0 C : 3 0 ]
+
+
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U//FOUO) 802.11 WiFi Data
+
+: nr/:	r n
+
+-	(U//FOUO) Display and correlation of 802.11 wireless
+networks and RFC1918 clients
+
+-	(S//SI//REL) Sources
+
+xrsiCPr/jcoMirrOfeEL ~c FvEvA2D3:oj:8
+
+Wiielcji P.tpDitl
+
+zrigndlv =«m-atsdot Zf.WZlO at L2:22 L€~)
+
+I mr H-.-tri Kil Il'Mrtm? KAI PPi irWri-T K-'-li:
+
+:-q-s Nrr.-in-(• P'-r^	:.c. i
+
+(* HYDROCASTLE account required)
+
+TSWSif/REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+Communities
+
+- (S//SI//REL) Individual IP addresses related by a
+common attribute
+
+•	TOR router
+
+•	Servers (DNS, NTP, SNMP, TACACS, RADIUS)
+
+•	Hide IP NG Proxy Servers
+
+•	BYZANTINE HADES Infrastructure hosts/infected hosts
+
+- (S//SI//REL) Sources: (Varies)
+
+* Currently TOR router advertisements
+
+TSWSif/REL TO USA, FVEY
+
+EC
+
+TS//SI//REL TO USA, FVEY
+
+(U) Country (AS Presence)
+
+inr/-.-;: rnli:
+
+9 rimmi i
+
+I- h -il 7	I ■ • On if.v hh-|i
+
+■ U & y a Q i £j ■ ¡1	; lS O :jJ ! -f.' % J "/ ? 0
+
+K"
+
+* la r ©
+
+o^ioi. u=e oklv
+
+Created: 1/19/201013:11, Modified: 1/19/2010 13:11
+
+■'j-iL'-i ;i u.i^v---
+
+14 3 13: 31 '-A
+
+VMiS.r*:
+
+-1 :j 3L:y i 'L i ■:uft)
+
+ijJA I j.,' j'.3: I ■
+
+M72 ;i:i 77S'| -
+
+|'J4 A - 4 A I -
+
+r- ;
+
+jo	—
+
+Aii -sE;!!- as77:: ■ ask; 3
+
+'■l: 1 ¿t i: j	iVjti'ji r.^'icro
+
+.-ii-i-■ 11 ( i r-if.)
+---------:J44 i".'3 ■'.lii
+
+:7.::n ; i 45*-,;,
+
+-------1	;2.a%i
+
+r-C'fi
+
+J 1'3'J ' '¿A L ft, I
+
+AS:53f I
+
+:A:fA rx,)
+
+"—■------------^	; L:.t' 3 .-(■ i
+
+£.32-12''I | A33iOZt-	| Azof? '2 | | AS I of-11
+
+~agrai
+
+AS 17557 ■ A8I^'-
+
+I Tot al H r DDD£ii ASu: 1^7
+
+IJ .:r='4
+
+■■■.r.s. r.-1 h'v:
+j,3L'-> •JSC-Yri
+=:.IL=i.- - 2 CRt
+v. I * * I'M-
+i.p--:.. i; s«i.
+
+H-v. I II.II
+
+I'l'U'l'v,
+
+-laxjrxi 'j: F\ u tica. i.i-i c c hi v
+
+»-*■■ f):K n~ -
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U//FOUO) TREASUREMAP Workspace
+
+•	(U//FOUO) Toolbar: Offers access to a variety of commonly used
+functions
+
+•	(U//FOUO) Search Pane: Input search parameters
+
+•	(U//FOUO) Advanced Search Options: Preferences for searches
+
+•	(U//FOUO) Release my search to PG: Requesting traceroutes for
+target IP addresses
+
+•	(U//FOUO) Other Searches: Includes Router, DNS, Batch
+IP/MAC and JOLLYROGER
+
+•	(U//FOUO) Legend: Contains all of the icons and decorations as
+seen in an active graph
+
+•	(U//FOUO) Send Feedback: Provides a way to communicate
+questions, comments or problems to the TREASUREMAP team.
+
+✓
+
+
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U//FOUO) TREASUREMAP Search Items r
+
+1.	(U//FOUO) IP Address
+
+2.	(U//FOUO) Routers
+
+3.	(U//FOUO) DNS (FQN)
+
+4.	(U//FOUO) MAC address / 802.11 BSSID / 802.11 SSID
+
+5.	(U//FOUO) IP Prefix / Range (CIDR Notation)
+
+6.	(U//FOUO) Registry Netblock
+
+7.	(U//FOUO) S IG AD and/or Case Notation
+
+8.	(U//FOUO) Country / IP Country Code
+
+9.	(U//FOUO) Autonomous System (AS) Number
+
+10.	(U//FOUO) Free Text
+
+/	S
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+mny/\	Ti mh;iv|	mt(iy.	■.w.nn, Æ'Si	.
+
+- U	- U -_o
+
+O +n ?n
+
+^1\
+
+- »*■' ■ L—	■’Hi.”	f \ 1 '■H ;jr	*'.+■ 11 n;
+
+q --^q -y ^ô, -jr
+
+TS//SI//REL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(UFOUO) User Interface:
+
+
+
+TK£A-5uKZMÆf
+
+B uili F J! JJ g ii. ii. 'd 1*1 X b -.1 g I HrV- li- k i
+
+
+
+I r=T-.:-rfi-v-.F
+
+ÿniEY
+
+P.ïCKiCOtCODS
+
+iir"TOTi>| On Fr «b y, ifi FrV inn jHIH ■ I ^ini-irrmrlr I rinn 'EST. Tfi'T-'i SmFT.T.i.P Jqilipd xn .¿.1.. Hj-.É:n. ¥ i uni
+
+Trs.Mc] v-JlH Vj J-iLe" r.liijjri±'ki.II! s■ lJtip.- '¿vlnrr] iwLilhlium. ul’OrinvRWVELUh.	'.vniiri'ji 'Xi*Ln| lb.- '.'uuil ki
+
+■¡¡i:ihiriil iniiiTbi im|iVi:i: iania:l jinr mirai »ln iiHiralir .Tl malins: viih lh‘ ■ma:nim,^i:Vrl
+«nHbvL "iVuii. ÜnlLir rrJÜtjulLj'Jux 1 «mil will ïs j*.jx Jjiinij"üt*.'x-in l^4j.K- tu. kl Ütj vvm'll
+
+AU III L JLLUi UILUJAJ1
+
+i^VJiX: Ta« rJLL/i:Jl I-_UvL.'Ur' _:-j : vj J«-; ■?. r.-t-o.' .-¡¿I hm*. ucî.m Itvï ja\> tti^ i ¿J	li-y ttiiin.s ut ü:	Ai’Jii.
+
+c< " ~~i=L-:j?!, vlC_*ITr TiA J J-±' <ctc, i« ii'—VX. .-'l'J-L-'u--' ;7~.îai : rc n ?.	: rû;AA.w vj:^	cc iA::.c;t.
+
+in:ju<	jitrv.1::t'::r-t^rn.à':'~cr:àr.c; ? jJ_■ uc.’SA’.ch.re-:. v;!<■::?i utïüjÂsrjc* urirAirr-Xi :u<li j' <1’17. a;^xâî.
+
+p.-.Â.;. ckoilXA. XL-JL?!., . > 'JAI A ^ L, \i|/fcl U.L^ ;>,;lnilL, .-A.J L'iJL'-'- CïLïUICL Il:l .vJ.1..1 .-et L-.U I IA'_ Lil1.- LCII fl .J : J V.UAI ZJ= .-.'*.'ll:.
+ICUlUJi ^ L-J L-. L-JLC V'.'irLtJ CA 1: Atl'-’.CA lOVC jCaA Cli-J.-'.:, yj-UUi UJmI'.'IL.: U L' eL. 11.Cl'.'.-Cck Xl.-l'.'.i; LvC -i-JllUÜ7
+
+TEEASnîRlAP un Inlnli il. hilf i: it jt	i- >11 ■ ■ :h il r i-.' ->h< ru- : E ■'
+
+HEEi'ii'TUROiLTÏ un "EPH. • li.lpA/v.l..a>. jj^cmiat..|æv; iuu >aû nil"
+
+I JÜMK L LtLHÀT OIL- ‘-VLO-nr.:.
+
+L KJ_ÜÏ LUÜJJiiJ1 Lk tp UN JC
+
+r/-.rr nnlivAE
+
+On-line Heli
+
+Small text-based queries
+
+i-i
+
+•t; iTi
+
+brIP Adiiw5. lb brcfls.it* Ciinn?:
+
+DvniLuui TT£ià UKEHaF
+
+imjjiinK all NSA. Jrd Vi 11;. and TmrlinV 1\
+Ülb.rlmuJiriki. Ê	Ii^LiLX.
+
+ÏÜlV J 'J Ll LTJ-L
+
+I.:j_y..i. u.Y J.'jib L.-jja- L'.' y_k- uliuirx v_k j
+►V I.'.-L F*-tt-lLl "i i:i
+
+i: h.-.vl,. 'J.' Li-v .H .-j.1. U'l
+J.i-'.T I : J-'.-.T—v-v:'.L¿¿¡lLîLiü^
+
+:■ r-.vr L-T'-rf-r r .■!• T' imwl-
+
+■= >■ ia L T :H' n ir .........-
+
+! K.-.y I. f.ii'.ia. ■■ I ■■uii.i/ i vv. iuiv ¿auraitjucJ
+' J.j'.T I :	X.-V. '.v'lT-T . L.L»LT.L Ltb'iL
+
+:■ I ~i'jr L~ I'Hrt'-r r ■■ I ! ■-1 urJ'.r ^.:i	Hi'iH Y
+
+t-Y ia L T-u-.-ia F» -J >ix
+
+I. E-.-.'-iL I'. iX-'.'ic.'.* E'-x-n
+
+!■■■■■■ y i ■ Lllix 'J
+
+¡"1 ! Uk3Z>_■	■_J TRE.'iTJXC.I.Y? fel u.	L_:..
+
+Di.'i'jk Hy ia.t-'J.h ird t':U:■.■■■ lb nrjiKkoji:.
+
+Hu li : ijniiii *i ü -rr;- li : x:-tl | .liirü J
+
+■- i i II i J - Fihif r I J- .= Ji iH
+
+TTIAiHEEU.iJ- r.l J+xr. Fiilun
+
+*	i'-cc; CiJ ÎVUIA.3 .C	A.L-".ok iJI'dl'-iA- JJ,"]. ’IAA.
+
+Iri.CC •.'IJ.C JCIV —'■jl ■'C :J
+
+*	l- ec.- cjealilJ.: a- L-Ilv'^ J‘S ¿■'xhlovixJ- Dx.x Keeei -Ji=
+b-=.ai Pie r_;s. : c....uvi c.. De.aJi .m:-].
+
+*	t UsV [ijlieJLOIdJlY k-J'Ai AIJ EjLUeii’	Lj
+
+» K.xv ,:t:hOl7 :• -.W h-,:L	- : ::flfiJ r.-1
+
+Tran r- • j miiiii 1 j; ^
+
+» Kixv 11-, ü H]: ■ i i : ,y - rriUir li : 1 ::L-%E-n Vnwt Inabn
+
+» l-ViV Ùh4hr-:-: T>Tbh,r v:vj' T‘>“--:5-tV	^ .^'p'	' '^b,'
+
+¡ATbr,' ftrhftal ■ ■ p-r+'h
+» Trr'f:----“-V“-H -,-Ttifi.2	rti'A
+
+*	TVS ' VKk.rk f.-in-.h
+
+*	1-ViV à i;_ ¡riij.iv.Trc T..-"-i: à i.i “r.r. .--f t • ■ TTT..“ rTT.T:“''--''.““'
+
+<r- -.-i-r.
+
+*	1 "nv f.r.vrh f-j-i'.ti;.ri.i t/1.-> rr.ir-. • ■ t rr T“-'.?':'!-:H-,f AT
+’JJ; o.i i K#J_> ■: ■: cioriJi .v.'J i fL-J ’.vJii: y : e r.i-i- :
+
+-	l'-diiXi::d ■JJ:	î lUit:
+
+-	riiL.'i:JL I-'-'.-L-'dr' C ’J'r.ü’J-o.- a-;ej rt; it'
+
+[x;L*:
+
+-	«.v . I x'c /uALTiiij'j in ?i7£i:t jl I : ùtuy -ovc : : >xri iru Ji-
+
+TSf/SWREL TO USA, FVEY
+
+TS//SI//REL TO USA, FVEY
+
+(U//FOUO) TREASUREMAP Contact Infor
+
+* Customer Support Team
+
+* Email: DL
+
+TS//SI//REL TO USA, FVEY

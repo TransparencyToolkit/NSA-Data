@@ -1,162 +1,120 @@
-TOP 
+﻿TOP SECRET//SI/TK//NOFORN
 
 (U) COMPUTER NETWORK OPERATIONS
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 (U) GENIE
-This Exhibit is 
-1 FY 2012 Enacted FY 2013 Request FY 2012 FY 2013
-FY 2011 07
-Actual Base 0C0 Total Base 0C0 Total Change 0
-Change
-Funding 615.2 562.0 74.2 636.2 589.2 62.5 651.7 15.6 2
-Civilian FTE 1,1 10 1,238 1,238 1,231 1,231 -7 -1
-Civilian Positions 1,1 10 1,238 1,238 1,231 1,231 -7 -1
-Military Positions 456 572 572 639 639 67 12
-lIncludes enacted 0C0 funding. Totals may not add due to rounding.
 
- 
-
- 
-
- 
+This Exhibit is SECRET//NOFORN									
+	FY 20111  Actual	FY 2012 Enacted			FY 2013 Request			FY 2012 - FY 2013	
+		Base	OCO	Total	Base	OCO	Total	Change	%  Change
+Funding ($M)	615.2	562.0	74.2	636.2	589.2	62.5	651.7	15.6	2
+Civilian FTE	1,110	1,238	—	1,238	1,231	—	1,231	-7	-1
+Civilian Positions	1,110	1,238	—	1,238	1,231	—	1,231	-7	-1
+Military Positions	456	572	—	572	639	—	639	67	12
+'includes enacted OCO funding. Totals may not add due to rounding.									
 
 (U) Project Description
 
-The GENIE Project underpins Computer Network Operations (CNO) Endpoint
+(TS//SI//NF) The GENIE Project underpins NSA/CSS’ Computer Network Operations (CNO) Endpoint
 capabilities conducted by the Tailored Access Operations (TAO) Group. The GENIE Project plans, equips, and
 conducts Endpoint operations that actively compromise otherwise intractable targets and complement Midpoint
 programs that passively eavesdrop on communications links. GENIE Endpoint activities use surreptitious virtual
 or physical access to create and sustain a presence inside targeted systems or facilities. Targeted systems are
 compromised electronically, typically providing access to system functions as well as data. System logs and
-processes are modi?ed to cloak the intrusion, facilitate future access, and accomplish other operational goals. Data
-of interest is harvested directly or pushed (shaped) to Midpoint collectors (a form of active?passive integration)
-and can also assist HUMINT, law enforcement, and DOD Information Operation activities as authorized.
+processes are modified to cloak the intrusion, facilitate future access, and accomplish other operational goals. Data
+of interest is harvested directly or pushed (shaped) to Midpoint collectors (a form of active-passive integration)
+and can also assist HUMINT, law enforcement, and DoD Information Operation activities as authorized.
 
-TO USA, FVEY) To maximize agility and minimize risk and cost, a targeted system is usually
+(TS//SI//REL TO USA, FVEY) To maximize agility and minimize risk and cost, a targeted system is usually
 subverted remotely, via existing tools/implants and infrastructure. When remote access is not possible, field
-operations are undertaken usually with the aid of other or DOD activities to physically place hardware
-implants or software modifications into or near targeted systems, or, if absolutely necessary, to conduct short?
-range collection. Hardware and software engineering is required to upgrade capabilities, through anticipatory
+operations are undertaken - usually with the aid of other IC or DoD activities - to physically place hardware
+implants or software modifications into or near targeted systems, or, if absolutely necessary, to conduct short-
+range collection. Flardware and software engineering is required to upgrade capabilities, through anticipatory
 efforts against leading commercial products as well as more directed work to fill key gaps against specific targets.
 
-TO USA, FVEY) GENIE Endpoint activities support the Comprehensive National Cybersecurity
-Initiative (CNCI) and the IC's Next Generation Wireless (NGW) IC Wireless Implementation Plan (ICWIP)
+(S//REL TO USA, FVEY) GENIE Endpoint activities support the Comprehensive National Cybersecurity
+Initiative (CNC1) and the IC's Next Generation Wireless (NGW) IC Wireless Implementation Plan (ICWIP)
 aimed at preventing technological surprise by having the right NGW capabilities at the right time while achieving
-cost savings through cross?1C collaboration.
+cost savings through cross-IC collaboration.
 
-TO USA, FVEY) GENIE Endpoint capabilities are leveraged to support Title 10 CNO under
+(S//REL TO USA, FVEY) GENIE Endpoint capabilities are leveraged to support Title 10 CNO under
 USCYBERCOM direction and legal authority. Similarly, TAO uses MIP Intelligence Support to Information
 Operations resources to posture the Endpoint infrastructure and tools with sufficient diversity to conduct Title 10
 CNO. Additionally, GENIE Endpoint operations are conducted to detect foreign cyber operations to support
-dynamic defense of networks.
+dynamic defense of DoD networks.
 
-TO USA, FVEY) Exploitation of Endpoint devices personal computers, network servers
-and routers, computer?controlled cellular systems and infrastructures, mobile computing devices, etc.) contributes
-to hundreds of SIGINT reports each quarter, including CT?related and other SIGINT reports that address the
+(TS//SI//REL TO USA, FVEY) Exploitation of Endpoint devices (e.g., personal computers, network servers
+and routers, computer-controlled cellular systems and infrastructures, mobile computing devices, etc.) contributes
+to hundreds of SIGINT reports each quarter, including CT-related and other SIG1NT reports that address the
 highest priorities of the National Intelligence Priorities Framework (NIPF). GENIE Endpoint methods also
 provide law enforcement, the military, and other customers with geolocation, lead information, target access, and
 unique technical services. The broad range of GENIE activities requires continuous technical development to
 keep pace with the rapid, market driven evolution of IT products and technology, which includes tools/implants
 
-TOP 105
+TOP SECRET//SI/TK//NOFORN
 
-TOP 
+105
 
-remaining stealthy against ever vigilant personal security products anti?virus software and firewalls) that
+TOP SECRET//SI/TK//NOFORN
+
+remaining stealthy against ever vigilant personal security products (e.g. anti-virus software and firewalls) that
 could detect and thwart CNO.
 
-TO USA, FVEY) GENIE Endpoint operations are performed over foundational infrastructure
+(TS//SI//REL TO USA, FVEY) GENIE Endpoint operations are performed over foundational infrastructure
 capabilities, which must remain robust and defend against hostile intrusion. VALIANTEAGLE is a major
 system acquisition that will incrementally provide more efficient planning, management, and execution of CNO
 to support growing and diverse Computer Network Exploitation (CNE), Computer Network Defense (CND),
 and Computer Network Attack (CNA) mission requirements. This Project contains the GENIE Operations,
-Foundation Platforms, Point Solutions, Deployable Tools, and VALIANTEAGLE Sub?Projects.
+Foundation Platforms, Point Solutions, Deployable Tools, and VALIANTEAGLE Sub-Projects.
 
 (U) Base resources in this project are used to:
 
- 
+• (TS//SI//REL TO USA, FVEY) Develop tools and integrate mission management capabilities with partners
+across the IC in response to cyber security threats.
 
-106
-
-TO USA, FVEY) Develop tools and integrate mission management capabilities with partners
-across the in response to cyber security threats.
-
-TO USA, FVEY) Sustain covert domestic and overseas collection platforms listening
+•	(TS//SI//REL TO USA, FVEY) Sustain covert domestic and overseas collection platforms (i.e., listening
 posts) working in close collaboration with the FBI and the CIA.
 
-TO USA, FVEY) Defend the Endpoint operational infrastructure against increasing foreign
+•	(TS//SI//REL TO USA, FVEY) Defend the Endpoint operational infrastructure against increasing foreign
 and domestic cyber threats.
 
-TO USA, FVEY) Enhance GENIE's Endpoint mission management and processing
+•	(TS//SI//REL TO USA, FVEY) Enhance GENlE's Endpoint mission management and processing
 infrastructure to more efficiently and effectively plan, manage, and execute diverse sets of CNO operations.
-VALIANTEAGLE will integrate into the TURB ULENCE architecture and other corporate systems.
+VALIANTEAGLE will integrate into the TURBULENCE architecture and other corporate systems.
 
-TO USA, FVEY) Provide specialized training for an increased number of CNO target network
-and exploitation operators to support increased missions.
+•	(S//SI//REL TO USA, FVEY) Provide specialized training for an increased number of CNO target network
+analysts and exploitation operators to support increased missions.
 
-TO USA, FVEY) Develop and support Endpoint exploitation and collection tools for data
+•	(TS//SI//REL TO USA, FVEY) Develop and support Endpoint exploitation and collection tools for data
 and voice networks, computer hardware and software, specialized solutions for hard target exploitation,
 and geolocation capabilities. Develop and sustain software and hardware implants designed to circumvent
 security technologies used by targets.
 
-TO USA, FVEY) Develop NGW exploitation capabilities supporting the ICWIP.
+•	(TS//SI//REL TO USA, FVEY) Develop NGW exploitation capabilities supporting the ICWIP.
 
-TO USA, FVEY) Support the SIGINT exploitation of NGW, a collective investment.
-This request re?ects only the NIP portion of the program. Refer to MIP NSA volume for details on MIP
+•	(S//SI//REL TO USA, FVEY) Support the SIGINT exploitation of NGW, a MIP/NIP collective investment.
+This request reflects only the NIP portion of the program. Refer to MIP NSA volume for details on MIP
 related activities.
 
-TO USA, FVEY) Provide a covert data exfiltration, and command control infrastructure,
+•	(TS//SI//REL TO USA, FVEY) Provide a covert data exfiltration, and command & control infrastructure,
 for voice network exploitation and collection against targets that utilize Code Division Multiplexing
-Access 2000 and Universal Mobile Telecommunications Systems (UMTS) technologies.
-Deliver geolocation capabilities for commercially?employed NGW technologies UMTS
+Access 2000 (CDMA-2000) and Universal Mobile Telecommunications Systems (UMTS) technologies.
+Deliver geolocation capabilities for commercially-employed NGW technologies (e.g., CDMA-2000, UMTS
 including Long Term Evolution) to ensure continued operational success in locating high priority targets
 that use evolving wireless technology.
 
-TO USA, FVEY) Provide high quality voice collection by delivering implants that can identify
-select voice conversations of interest within a target network and exfiltrate select cuts back to 
+•	(TS//SF/REL TO USA, FVEY) Provide high quality voice collection by delivering implants that can identify
+select voice conversations of interest within a target network and exfiltrate select cuts back to NSA/CSS.
 
-TO USA, FVEY) Provide a diverse CNO toolset to allow for the prosecution of varied CNO
+•	(TS//SI//REL TO USA, FVEY) Provide a diverse CNO toolset to allow for the prosecution of varied CNO
 missions with increased operational security.
 
-TOP 
+106
 
-TOP 
+TOP SECRET//SI/TK//NOFORN
 
-Develop shaping capabilities to exfiltrate CNE through passive collection systems to more
+TOP SECRET//SI/TK//NOFORN
+
+• (TS//SI//NF) Develop shaping capabilities to exfiltrate CNE through passive collection systems to more
 effectively handle the increasing volumes of Endpoint derived data, and conversely minimize unnecessary
 exposure of the covert infrastructure. Further, shaping extends the reach of passive collection systems by
 ensuring network traffic of interest passes a passive sensor in order to be collected and processed.
@@ -165,610 +123,317 @@ ensuring network traffic of interest passes a passive sensor in order to be coll
 
 (U) OCO resources in this project are used to:
 
- 
+• (TS//SF/REL TO USA, FVEY) Develop, deploy, and sustain CNO access to the most sensitive of the
+Pakistan and Afghanistan government's leadership communications.
 
-TO USA, FVEY) Develop, deploy, and sustain CNO access to the most sensitive of the
-Pakistan and Afghanistan government?s leadership communications.
-
-TO USA, FVEY) Keep pace with terrorists? use of the latest in telecommunication and
+•	(TS//S1//REL TO USA, FVEY) Keep pace with terrorists’ use of the latest in telecommunication and
 information technology. It is imperative that GENIE lean as far forward as possible in developing CNO
-exploitation tools against new technologies Windows 8, 9). Unlike nation/ states that migrate in a more
+exploitation tools against new technologies (e.g., Windows 8, 9). Unlike nation/states that migrate in a more
 cost effective manner, terrorists often jump from technology to technology as a means of providing security
 for their communications. These funds enable Endpoint operations to be better positioned for these changes
 in order to maintain coverage on high value terrorist targets.
 
 (U) The CCP expects this Project to accomplish the following in FY 2013:
 
-TO USA, VEY) Develop and deploy CNO implants for routers, switches, and firewalls from
+•	(TS//S1//REL TO USA, FVEY) Develop and deploy CNO implants for routers, switches, and firewalls from
 multiple product vendor lines directed at satisfying Endpoint specific intelligence collection requirements.
 
-TO USA, FVEY) Enable automated and on?demand multi?hop operations to reduce the
+•	(TS//SI//REL TO USA, FVEY) Enable automated and on-demand multi-hop operations to reduce the
 number of manual interactive operations required and enable deeper penetration into target networks.
 
-TO USA, FVEY) Increase reliance on commercial products for hardware bridging implant
+•	(S//SI//REL TO USA, FVEY) Increase reliance on commercial products for hardware bridging implant
 concealments to improve cost and shorten development cycle.
 
-TO USA, VEY) Develop and deliver capabilities that will allow Endpoint implants to persist in
+•	(S//SI//REL TO USA, FVEY) Develop and deliver capabilities that will allow Endpoint implants to persist in
 target computers/servers through technology upgrades, and enable the development of new methodologies
 to persist and maintain presence within hard target networks. Due to the ever increasing capabilities of
 internet security technologies, an emphasis will be placed on developing persistent solutions that incorporate
 stealth techniques.
 
-TO USA, FVEY) Increase serialized reporting from Endpoint collection against hard targets
-to 55?60 percent, a 5 percent increase over the FY 2012 target level.
+•	(TS/./SF/REL TO USA, FVEY) Increase serialized reporting from Endpoint collection against hard targets
+to 55-60 percent, a 5 percent increase over the FY 2012 target level.
 
-TO USA, FVEY) Modernize the Endpoint infrastructure by executing the VALIANTEAGLE
+•	(S//SI//REL TO USA, FVEY) Modernize the Endpoint infrastructure by executing the VALIANTEAGLE
 acquisition. Verify that developed prototype capabilities satisfy requirements via the Developmental Test/
 Operational Assessment activity.
 
-TO USA, FVEY) Increase the number of Endpoint Points?of?Presence (PoPs) worldwide to
-a range of 85,000?96,000, a 13 percent increase over the FY 2012 target.
+•	(TS//SI//REL TO USA, FVEY) Increase the number of Endpoint Points-of-Presence (PoPs) worldwide to
+a range of 85,000-96,000, a 13 percent increase over the FY 2012 target.
 
-TO USA, FVEY) Increase Endpoint active accesses to 9,000?10,000, a 12 percent increase
+•	(TS//SI//REL TO USA, FVEY) Increase Endpoint active accesses to 9,000-10,000, a 12 percent increase
 over the FY 2012 target level.
 
-TOP 107
+TOP SECRET//SI/TK//NOFORN
 
-TOP 
+107
 
-- Deliver Endpoint implants capable of shaping high capacity target traffic of interest to
-passive collection platforms. Shaping is a key element in active?passive integration leveraging distinct
+TOP SECRET//SI/TK//NOFORN
+
+•	(TS//SI//NF) Deliver Endpoint implants capable of shaping high capacity target traffic of interest to
+passive collection platforms. Shaping is a key element in active-passive integration (i.e., leveraging distinct
 Endpoint and Midpoint collection capabilities in new innovative ways to increase efficiency).
 
-- TO USA, FVEY) Increase the number of Endpoint accesses which are cited in serialized
-SIGINT product reports to 750?800, a 25 percent increase over the FY 2012 target.
+•	(TS//S1//REL TO USA, FVEY) Increase the number of Endpoint accesses which are cited in serialized
+SIGINT product reports to 750-800, a 25 percent increase over the FY 2012 target.
+
 (U) Changes From FY 2012 to FY 2013:
-Deployable Tools: +$16.2 million Base, OCO), -10 civilian positions, 2 military
+
+(SI//NF) Deployable Tools: +$16,2 million {+$19.4 Base, -$3.2 OCO), -10 civilian positions, 2 military
 positions. The aggregate increase is the net result of:
 
-- (U) Increases:
+•	(U) Increases:
 
-$25.1 million provides, as part of the Community investment, resources to maintain and
+— (S//NF) $25.1 million provides, as part of the Community investment, resources to maintain and
 expand the Nation's CNE capability by additional covert purchases of software vulnerabilities in
-support of CNE too] diversification and improve the ability for CNE tools to persist on target systems.
+support of CNE tool diversification and improve the ability for CNE tools to persist on target systems.
 
-$4.9 million base which re?ects a FY 2012 Congressional Adjustments not sustained in
+—	(S//NF) $4.9 million base which reflects a FY 2012 Congressional Adjustments not sustained in
 FY 2013.
 
-$1.1 million in civilian pay and benefits.
+—	(S//NF) $1.1 million in civilian pay and benefits.
 
-Two military positions supports testing and evaluation of on?net too] requirements.
-- (U) Decreases:
+—	(S//NF) Two military positions supports testing and evaluation of on-net tool requirements.
 
-NF) $13.2 million in CT OCO) reduces the development of implants against wireless monitoring
+•	(U) Decreases:
+
+—	(S//NF) $13.2 million in CT OCO) reduces the development of implants against wireless monitoring
 systems.
 
-$5.2 million in support deficit reduction efforts.
-$4.0 million to support higher priority activities in the VALIANTEAGLE Sub?Project.
+— (S//NF) $5.2 million in support deficit reduction efforts.
 
-10 civilian positions re?ects reduced support to the analysis of hardware product
+— (S//NF) $4.0 million to support higher priority activities in the VALIANTEAGLE Sub-Project.
+
+—	(S//NF) 10 civilian positions reflects reduced support to the analysis of hardware product
 vulnerability and exploitation techniques and the development of tools necessary for adaptation to
 generational changes in Wireless Data Networking.
 
-- (U) Realignments:
+•	(U) Realignments:
 
-$2.5 million out to the GENIE Operations Sub?Project to properly align resources.
+—	(S//NF) $2.5 million out to the GENIE Operations Sub-Project to properly align resources.
 
-Foundation Platforms: -$11 million Base), 3 civilian positions, 4 military positions. The
-aggregate decrease is the net result of 
+(S//NF) Foundation Platforms: -$11 million (-$11 Base), 3 civilian positions, 4 military positions. The
 
-- (U) Increases:
+aggregate decrease is the net result of:
 
-$5.5 million for implant testing services to mitigate Personal Security Product threats prior
+•	(U) Increases:
+
+—	(S//NF) $5.5 million for implant testing services to mitigate Personal Security Product threats prior
 to deployment into target environments and maintains and expands the Nation's CNE capability.
 
-$3.0 million which re?ects a FY 2012 Congressional adjustment not sustained in FY 2013.
-$1.8 million in civilian pay and benefits.
+—	(S//NF) $3.0 million which reflects a FY 2012 Congressional adjustment not sustained in FY 2013.
 
-108 TOP 
+—	(S//NF) $1.8 million in civilian pay and benefits.
 
-TOP 
+108
 
-Three civilian positions re?ects centralization of mission responsibilities in support of
-Endpoint engineering, data ?ow management, next generation development, testing operations
-as well as support of remote operations, software capabilities and mission
-management infrastructure technologies at Texas.
+TOP SECRET//SI/TK//NOFORN
 
-Four military positions supports remote operations, software capabilities, and mission
-management infrastructure technologies at Texas.
-0 (U) Decreases:
-$13.7 million in contractor support to the mission infrastructure operations center due to
+TOP SECRET//SI/TK//NOFORN
+
+—	(S//NF) Three civilian positions reflects centralization of mission responsibilities in support of
+Endpoint engineering, data flow management, next generation development, testing & operations
+synchronization; as well as support of remote operations, software capabilities and mission
+management infrastructure technologies at NSA/CSS Texas.
+
+—	(S//NF) Four military positions supports remote operations, software capabilities, and mission
+management infrastructure technologies at NSA/CSS Texas.
+
+• (U) Decreases:
+
+—	(S//NF) $13.7 million in contractor support to the mission infrastructure operations center due to
 streamlining of operations.
-$6.4 million in support of deficit reduction.
-$1.2 million to the GENIE Operations Sub?Project for increased operations support.
 
-GENIE Operations: million Base, OCO), 1 civilian position, 61 military
+—	(S//NF) $6.4 million in support of deficit reduction.
+
+—	(S//NF) $1.2 million to the GENIE Operations Sub-Project for increased operations support.
+
+(S//NF) GENIE Operations: +$6.2 million (+$14.7 Base, -$8.4 OCO), 1 civilian position, 61 military
 positions. The aggregate increase is the net result of:
 
-0 (U) Increases:
-$14.4 million to integrate TURBULENCE capabilities into TAO Infrastructure, as part of
-the Community investment to maintain and expand the Nation's CNE capability.
-$2.6 million in civilian pay and benefits.
-$1.7 million which re?ects a FY 2012 Congressional adjustment not sustained in FY 2013.
+•	(U) Increases:
 
-One civilian and 61 military positions supports developing and managing domestic and
-overseas off?net physical access capabilities to deploy technology required to conduct Endpoint
+—	(S//NF) $14.4 million to integrate TURBULENCE capabilities into TAO Infrastructure, as part of
+the Community investment to maintain and expand the Nation's CNE capability.
+
+—	(S//NF) $2.6 million in civilian pay and benefits.
+
+—	(S//NF) $1.7 million which reflects a FY 2012 Congressional adjustment not sustained in FY 2013.
+
+—	(S//NF) One civilian and 61 military positions supports developing and managing domestic and
+overseas off-net physical access capabilities to deploy technology required to conduct Endpoint
 operations.
 
-0 (U) Decreases:
+•	(U) Decreases:
 
-$5.0 million of OCO re?ects the request for GSM location capability now being
+—	(TS//SI//NF) $5.0 million of OCO reflects the request for GSM location capability now being
 requested in the MidPoint RF Access EC, Tailored RF Solutions Project in the Tactical SIGINT
-Solutions Sub?Project.
+Solutions Sub-Project.
 
-$4.2 million to program management support.
+—	(S//NF) $4.2 million to program management support.
 
-$3.4 million of OCO re?ects the end of a one year supply chain effort to deliver
-implanted equipment destined for Al?Qaeda.
+—	(TS//SI//NF) $3.4 million of OCO reflects the end of a one year supply chain effort to deliver
+implanted equipment destined for Al-Qaeda.
 
-$1.7 million in support of deficit reduction.
-$1.8 million to off net enabling CNE activities.
+—	(S//NF) $1.7 million in support of deficit reduction.
 
-0 (U) Realignments:
+—	(S//NF) $1.8 million to off net enabling CNE activities.
 
-$2.5 million in from the Deployable Tools Sub?Project to support GENIE operator and
+•	(U) Realignments:
+
+—	(S//NF) $2.5 million in from the Deployable Tools Sub-Project to support GENIE operator and
 analyst unique training.
 
-$1.2 realignment in from the Foundation Platforms Sub?Project for increased operations
+—	(S//NF) $1.2 realignment in from the Foundation Platforms Sub-Project for increased operations
 support.
 
-TOP 109
+TOP SECRET//SI/TK//NOFORN
 
-TOP 
+109
 
-VALIANTEAGLE: million Base). Increase of $4.0 million re?ects realignment from the
+TOP SECRET//SI/TK//NOFORN
 
-Deployable Tools Sub?Project for improved program management and systems engineering activities.
+(S//NF) VALIANTEAGLE: +$4 million (+$4 Base). Increase of $4.0 million reflects realignment from the
+Deployable Tools Sub-Project for improved program management and systems engineering activities.
 
-Point Solutions: million Base), -1 civilian position. The aggregate increase is the net
+(S//NF) Point Solutions: +$0.2 million (+$0.2 Base), -1 civilian position. The aggregate increase is the net
 
 result of:
 
-0 (U) Increases:
+•	(U) Increases:
 
-$0.8 million increase which re?ects a FY 2012 Congressional adjustment not sustained in
-
+—	(S//NF) $0.8 million increase which reflects aFY 2012 Congressional adjustment not sustained in
 FY 2013.
 
-0 (U) Decreases:
+•	(U) Decreases:
 
-$0.6 million to contractor support for mission testing services.
+—	(S//NF) $0.6 million to contractor support for mission testing services.
 
-One civilian position reduces capability to support the requirements process within TAO,
+—	(S//NF) One civilian position reduces capability to support the requirements process within TAO,
 target network analysis, target development, and exploitation strategy development as well as
 developing procedures for and ensuring legal and policy adherence.
 
- 
-
-GENIE Project Budget Chart
-
-FY 2013 Budget Request by Appropriation Account
-This Exhibit is 
-
-Funds Dollars in N?llions
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Subproject Description Resourcing FY 2011 FY 2012 FY 2013
-
-Military Personnel, Air Force Positions 91 153 202
-Deployable Tools Positions 12 10 6
-Foundation Platforms Positions 2
-GENIE Operations Positions 78 142 193
-Point Solutions Positions 1 1 1
-Military Personnel, Army Positions 103 107 121
-Deployable Tools Positions 3 3 5
-GENIE Operations Positions 100 104 1 16
-Military Personnel, Marine Corps Positions 12 33 33
-Deployable Tools Positions 1 
-GENIE Operations Positions 1 1 33 33
-Military Personnel, Navy Positions 250 279 283
-Deployable Tools Positions 15 18 22
-Foundation Platforms Positions 2
-GENIE Operations Positions 235 261 259
-Operation and Maintenance, Air Force Funds 0? 79 0.09 0.19
-
-Positions 10 1 2
-GENIE Operations Pay and Benefits Base 0.79 0.09 0.19
-
-Positions 10 1 2
-
-110 TOP 
-
- 
-
-TOP 
-
- 
-
-GENIE Project Budget Chart
-FY 2013 Budget Request by Appropriation Account
-This Exhibit is 
-
-Funds Dollars in Millions
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Subproject Description Resourcing FY 2011 FY 2012 FY 2013
-Funds 341.75 312.18 343.74
-Operation and Maintenance, Defense-Wide
-Positions 914 1046 1229
-Communications and Utilities Base 0.7] 
-Contract Services Base 48.65 49.44 44.85
-Equipment Base 3.12 0.02
-Pay and Benefits Base 50.96 55.42 77.80
-Deployable Tools
-Rental Payments Base 1.00
-Supplies and Materials Base 0.02 
-Travel and Transportation Base 0.04 0.07 0.06
-Positions 374 408 554
-Communications and Utilities Base 0.04 
-Contract Services Base 17.90 26.39 23.56
-Base 3.79 0.24 0.22
-Equipment
-OCO 0.1 1 
-Foundation Platforms Pay and Benefits Base 13.49 19.23 25.52
-Printing and Reproduction Base <0.01 
-Supplies and Materials Base 0.13 0.13 0.12
-Travel and Transportation Base 0.1 1 
-Positions 106 148 184
-Base 3.30 
-Communications and Utilities
-OCO 1.98 
-Base 35.38 31.81 45.02
-Contract Services
-OCO 80.64 27.94 18.92
-Base 1.2] 2.20 1.84
-Equipment
-OCO 5.94 2.60
-Base 1.04 
-Land and Structures
-GENIE Operations OCO 0.30 
-Pay and Benefits Base 58.01 65.70 69.40
-Printing and Reproduction Base 0.0] <00] <00]
-Base 0.37 2.04 14.46
-Supplies and Materials
-OCO 0.05 
-Base 3.97 20.08 4.08
-Travel and Transportation
-OCO 0.06 
-Positions 431 488 490
-TOP 111
-
- 
-
-TOP 
-
- 
-
-GENIE Project Budget Chart
-
-FY 2013 Budget Request by Appropriation Account
-
-This Exhibit is 
-
-Funds Dollars in Millions
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Subproject Description Resourcing FY 2011 FY 2012 FY 2013
-Communications and Utilities Base 0.0] 
-Contract Services Base 9.86 9.57 1 1.99
-Equipment Base 1.66 1.49
-Point Solutions Pay and Benefits Base 0.4] 0.27 0.14
-Supplies and Materials Base 0.03 
-Travel and Transportation Base 0.13 
-Positions 3 2 1
-VALIANTEAG LE Contract Services Base 0.61
-Procurement, Defense-Wide Funds 5 .5 6
-VALIANTEAG LE Equipment Base 5.56
-Funds 272.64 323.90 302.25
-Research, Development, Test, and Evaluation, Defense-Wide
-Positions 186 191 
-Communications and Utilities Base 0.0] 
-Base 127.00 134.58 142.61
-Contract Services
-0C0 14.36 39.24 31.71
-Base 7.2] 7.26 17.06
-Equipment
-0C0 5.90 5.00 9.30
-Deployable Tools
-Pay and Benefits Base 22.85 21.27 
-Rental Payments Base 0.4] 4.00
-Supplies and Materials Base 0.10 0.10
-Travel and Transportation Base 0.28 0.10 0.10
-Positions 152 156 
-Contract Services Base 47.14 30.24 17.75
-Equipment Base 11.36 2.19 4.72
-Pay and Benefits Base 4.96 4.50 
-Foundation Platforms
-Supplies and Materials Base 0.10 0.10
-Travel and Transportation Base <0.01 0.10 0.10
-Positions 33 33 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+GENIE Project Budget Chart  FY 2013 Budget Request by Appropriation Account  This Exhibit is SECRET//NOFORN			Funds — Dollars in Millions		
+Subproject	Description	Resourcing	FY 2011	FY 2012	FY 2013
+Military Personnel, Air Force		Positions	91	153	202
+Deployable Tools		Positions	12	10	6
+Foundation Platforms		Positions	—	—	2
+GENIE Operations		Positions	78	142	193
+Point Solutions		Positions	1	1	1
+Military Personnel, Army		Positions	103	107	121
+Deployable Tools		Positions	3	3	5
+GENIE Operations		Positions	100	104	116
+Military Personnel, Marine Corps		Positions	12	33	33
+Deployable Tools		Positions	1	—	—
+GENIE Operations		Positions	11	33	33
+Military Personnel, Navy		Positions	250	279	283
+Deployable Tools		Positions	15	18	22
+Foundation Platforms		Positions	—	—	2
+GENIE Operations		Positions	235	261	259
+Operation and Maintenance, Air Force		Funds	0.79	0.09	0.19
+		Positions	10	1	2
+GENIE Operations	Pay and Benefits	Base	0.79	0.09	0.19
+		Positions	10	1	2
+
+110
+
+TOP SECRET//SI/TK//NOFORN
+
+TOP SECRET//SI/TK//NOFORN
+
+GENIE Project Budget Chart  FY 2013 Budget Request by Appropriation Account  This Exhibit is SECRET//NOFORN			Funds — Dollars in MiUions		
+Subproject	Description	Resourcing	FY 2011	FY 2012	FY 2013
+Operation and Maintenance, Defense-Wide		Funds	341.75	312.18	343.74
+		Positions	914	1046	1229
+Deployable Tools	Communications and Utilities	Base	0.71	—	—
+	Contract Services	Base	48.65	49.44	44.85
+	Equipment	Base	3.12	—	0.02
+	Pay and Benefits	Base	50.96	55.42	77.80
+	Rental Payments	Base	—	—	1.00
+	Supplies and Materials	Base	0.02	—	—
+	Travel and Transportation	Base	0.04	0.07	0.06
+		Positions	374	408	554
+Foundation Platforms	Communications and Utilities	Base	0.04	—	—
+	Contract Services	Base	17.90	26.39	23.56
+	Equipment	Base	3.79	0.24	0.22
+		OCO	0.11	—	—
+	Pay and Benefits	Base	13.49	19.23	25.52
+	Printing and Reproduction	Base	<0.01	—	—
+	Supplies and Materials	Base	0.13	0.13	0.12
+	Travel and Transportation	Base	0.11	—	—
+		Positions	106	148	184
+GENIE Operations	Communications and Utilities	Base	3.30	—	—
+		OCO	1.98	—	—
+	Contract Services	Base	35.38	31.81	45.02
+		OCO	80.64	27.94	18.92
+	Equipment	Base	1.21	2.20	1.84
+		OCO	5.94	—	2.60
+	Land and Structures	Base	1.04	—	—
+		OCO	0.30	—	—
+	Pay and Benefits	Base	58.01	65.70	69.40
+	Printing and Reproduction	Base	0.01	<0.01	<0.01
+	Supplies and Materials	Base	0.37	2.04	14.46
+		OCO	0.05	—	—
+	Travel and Transportation	Base	3.97	20.08	4.08
+		OCO	0.06	—	—
+		Positions	431	488	490
+
+TOP SECRET//SI/TK//NOFORN
+
+111
+
+TOP SECRET//SI/TK//NOFORN
+
+GENIE Project Budget Chart  FY 2013 Budget Request by Appropriation Account  This Exhibit is SECRET//NOFORN			Funds — Dollars in MiUions		
+Subproject	Description	Resourcing	FY 2011	FY 2012	FY 2013
+Point Solutions	Communications and Utilities	Base	0.01	—	—
+	Contract Services	Base	9.86	9.57	11.99
+	Equipment	Base	—	1.66	1.49
+	Pay and Benefits	Base	0.41	0.27	0.14
+	Supplies and Materials	Base	0.03	—	—
+	Travel and Transportation	Base	0.13	—	—
+		Positions	3	2	1
+VALIANTEAGLE	Contract Services	Base	—	—	0.61
+Procurement, Defense-Wide		Funds	—	—	5.56
+VALIANTEAGLE	Equipment	Base	—	—	5.56
+Research, Development, Test, and Evaluation, Defense-Wide		Funds	272.64	323.90	302.25
+		Positions	186	191	—
+Deployable Tools	Communications and Utilities	Base	0.01	—	—
+	Contract Services	Base	127.00	134.58	142.61
+		OCO	14.36	39.24	31.71
+	Equipment	Base	7.21	7.26	17.06
+		OCO	5.90	5.00	9.30
+	Pay and Benefits	Base	22.85	21.27	—
+	Rental Payments	Base	0.41	—	4.00
+	Supplies and Materials	Base	—	0.10	0.10
+	Travel and Transportation	Base	0.28	0.10	0.10
+		Positions	152	156	—
+Foundation Platforms	Contract Services	Base	47.14	30.24	17.75
+	Equipment	Base	11.36	2.19	4.72
+	Pay and Benefits	Base	4.96	4.50	—
+	Supplies and Materials	Base	—	0.10	0.10
+	Travel and Transportation	Base	<0.01	0.10	0.10
+		Positions	33	33	—
 
 112
 
-TOP 
+TOP SECRET//SI/TK//NOFORN
 
- 
+TOP SECRET//SI/TK//NOFORN
 
-TOP 
-
- 
-
-GENIE Project Budget Chart
-
-FY 2013 Budget Request by Appropriation Account
-
-This Exhibit is 
-
-Funds Dollars in Millions
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Subproject Description Resourcing FY 2011 FY 2012 FY 2013
-Base 0.10 1.55 4.95
-Contract Services
-OCO 4.00 2.00 
-Base 0.0] 1.56 
-GENIE Operations Equipment
-OCO 6.00 
-Pay and Benefits Base 0.15 0.27 
-Positions 1 2 
-Contract Services Base 19.88 27.37 26.41
-Point Solutions
-Equipment Base 1.03 1.47 0.48
-VALIANTEAG LE Contract Services Base 45.00 42.85
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+GENIE Project Budget Chart  FY 2013 Budget Request by Appropriation Account  This Exhibit is SECRET//NOFORN			Funds — Dollars in MiUions		
+Subproject	Description	Resourcing	FY 2011	FY 2012	FY 2013
+GENIE Operations	Contract Services	Base	0.10	1.55	4.95
+		OCO	4.00	2.00	—
+	Equipment	Base	0.01	1.56	—
+		OCO	6.00	—	—
+	Pay and Benefits	Base	0.15	0.27	—
+		Positions	1	2	—
+Point Solutions	Contract Services	Base	19.88	27.37	26.41
+	Equipment	Base	1.03	1.47	0.48
+VALIANTEAGLE	Contract Services	Base	—	45.00	42.85
 
 Totals may not add due to rounding.
 
- 
-
-TOP 
+TOP SECRET//SI/TK//NOFORN
 
 113
-
- 
-

@@ -1,285 +1,341 @@
-TOP SECRET STRAP1 
-The maximum classi?cation allowed on GCWiki is TOP SECRET COMINT. Click to report inappropriate content.
-ForGCWiki help contact: web|eam Supporl pa 1:
-
- 
+﻿TOP SECRET STRAP1 COMINT The maximum classification allowed or	i GCWiki is TOP SFf’RFT STR4P1 COMINT Click to report inappropriate content		
+			1 1 J _U	k-k-
 
 LOVELY HORSE
 
-From GCWiki
-Jump to: navigation, search
-LOVELY HORSEJPG
+From GC Wiki
 
-LOVELY HORSEZJPG
+Jump lo: navigalion, search
 
-LOVELY HORSE is a TCP Task Order 144 initiative as part of CD0 (formerly NDIST) and the Cyber Theme towards developing Open Source capabilim. So far, we have worked towards making structured datasets available on the high side for to use - this data is available within HAPPY TRIGGER. We are now looking
-towards making use ofmore unstructured information (blogs, forums, Twitter). LOVELY HORSE seeks to experiment with provision ofan indexed repository ofunstructured information that can be used to push content of interest to individual via a variety ofmechanisms.
+LOVELY HORSE2.JPG
 
-The initial LOVELY HORSE can be accessed from M. See below for more details.
+■
 
-See also 7 BIRD SEED
+LOVELY HORSE.JPG
+
+■
+
+LOVELY HORSE is a TCP Task Order 144 inilialive as pari of CDO (formerly NDIST) and Ihe Cyber Theme towards developing Oner Source capability. So far, we have worked towards making structured datasets available on the high side for analysts to use - this data is available within HAPPY TRIGGER. We are now looking
+towards making use of more unstructured information (blogs, forums, Twitter). LOVELY HORSE seeks to experiment with provision of an indexed repository of unstructured information that can be used to push content of interest to individual analysts via a variety of mechanisms.
+
+The initial LOVELY HORSE prototype can be accessed from here. See below for more details.
+
+See	also	BI
 
 Contents
 
-0 1 Problem statement
-0 2 Initial roto
-0 2.1 Current sources
-0 3 Future development concept
-0 3.1 Team
-0 3.2 ources
-0 3.3 Processing
-I 3.3.1 Content
-I 3 3 2 Memdpm
-3.3.3 Index
-I 3.3.3.1 How to generate a pot oftags?
-4 ni 
-0 3.5 Visualisation and Access
-0 4 Your Thoughts
+•	1 Problem statement
 
-[elm] Problem statement
+•	2 Initial prototype
 
-are potentially missing out on valuable open source information relating to cyber defence because ofan inability to easily keep up to date with specific blogs and Twitter sources. Accessing these resources involves using specific IEDI terminals, or reading up at home. We need to make this information available to on the
+o 2.1 Current sources
+
+•	3 Future development concept
+
+O 3.1 Team
+o 3.2 Sources
+o 3.3 Processing
+
+■	3.3.1 Content
+
+■	3.3.2 Metadata
+
+■	3.3.3 Index
+
+■ 3.3.3.1 How to generate a pot of tags?
+° 3.4 Feedback mechanism
+o 3.5 Visualisation and Access
+
+•	4 Your Thoughts
+
+[edit] Problem statement
+
+Analysts are potentially missing out on valuable open source information relating to cyber defence because of an inability to easily keep up to date with specific blogs and Twitter sources. Accessing these resources involves using specific JEDI terminals, or reading up at home. We need to make this information available to analysts on the
 high side at their normal terminals.
 
-However, there is a balance to be found - don't have the time to spend hours and hours reading through loads ofblogs. In addition, we don't want this repository to be yet another tool that have to access - this information needs to be incorporated into existing work?ows.
+However, there is a balance to be found - analysts don't have the time to spend hours and hours reading through loads of blogs. In addition, we don't want this repository to be yet another tool that analysts have to access - this information needs to be incorporated into existing workflows.
 
-We need to find away to index this information so that only get a relevant subset ofthis information pushed to them.
+We need to find a way to index this information so that analysts only get a relevant subset of this information pushed to them.
 
 [edit] Initial prototype
-We are working with TRIG to make use ofthe existing architecture for capturing tweets ?om Twitter. We are also working with CISA around techniques they are developing to capture blog content. Both of these obviously take time, and are slower burn objectives.
 
-In the meantime, we are running an initial protomje, where Twitter and (and subject to legal/security approval) blog content is manually scraped and uploaded to GCDesk. This content is accessible by way ofpersonalised RSS feeds. Individual users can choose their preferences, in terms ofwhich Twitter accounts and blogs they want to
+We are working with JTRIG to make use of the existing BIRDSTRIKE architecture for capturing tweets from Twitter. We are also working with CISA around techniques they are developing to capture blog content. Both of these obviously take time, and are slower burn objectives.
+
+In the meantime, we are running an initial prototype, where Twitter and (and subject to legal/security approval) blog content is manually scraped and uploaded to GCDesk. This content is accessible by way of personalised RSS feeds. Individual users can choose their preferences, in terms of which Twitter accounts and blogs they want to
 follow, and a personalised RSS feed is generated automatically for them to which they can subscribe.
 
-This can be used by anyone, and can be accessed from M. Your personal RSS is linked ?om the LOVELY HORSE website.
+This can be used by anyone, and can be accessed from here. Your personal RSS is linked from the LOVELY HORSE website.
 
-As stated previously, this is a manual update at the moment, and will initially be maintained on a best endeavours basis (hopefully roughly daily). Once the architecture comes on line, this will be updated in real time.
+As stated previously, this is a manual update at the moment, and will initially be maintained on a best endeavours basis (hopefully roughly daily). Once the BIRDSTRIKE architecture comes on line, this will be updated in real time.
+
 For any requests for new Twitter feeds you wish to be able to subscribe to, please get in touch.
 
-[in] Current sou rees
+[edit] Current sources
 
-Currently, we're bringing in the following list ofTwitter accounts. To request new ones, please submit your requests, with a briefjustification, via the suggestion box on LOVELY HORSE
+Currently, we're bringing in the following list of Twitter accounts. To request new ones, please submit your requests, with a brief justification, via the suggestion box on LOVELY HORSE
 
-Oxcharlie
-alexsotirov
-anonops
-anonymousirc
-anonicentral
-anonioperations
-bradarkin
+•	Oxcharlie
 
-danchodanchev
-daveaitel
-dinodaizovi
-diocyde
+•	alexsotirov
 
-equ?
+•	anonops
 
-halvar?ake
-hdmoore
-hemano
+•	anon_operations
 
-kevinmitnick
-lennyzeltser
-lulzsec
+•	bradarkin
 
-mdowd
+•	CeRTFi
 
-mikko
-ms?secresponse
-operationleaks
-owasp
+•	danchodanchev
 
-pusscat
-Shadowserver
-snow?Ow
-taosecurity
-taviso
+•	daveaitel
 
-thegrugq
-TheHackersNews
-tinman2k
+•	dinodaizovi
 
-WTFuzz
+•	egyp7
 
-[elm] Future development concept
+•	GoVCeRT_NL
 
-The rest ofthis page is constituted ?om ideas that we currently have about LOVELY HORSE.
+•	halvarflake
 
-[gLit] Team
+•	hdmoore
 
-It will be delivered by TCP's team.
+•	hernano
+
+•	JaNeTCSiRT
+
+•	kevinmitnick
+
+•	mikko
+
+•	msllsecresponse
+
+•	operationleaks
+
+•	Shadow-server
+
+•	snowllOw
+
+•	lhegrugq
+
+•	TheHackersNews
+
+•	linman2k
+
+•	VuPeN
+
+•	WTFuzz
+
+[edit] Future development concept
+
+The rest of this page is constituted from ideas that we currently have about LOVELY HORSE.
+
+[edit] Team
+
+It will be delivered by TCP's TO144 team.
 
 [edit] Sources
 
-Initially we need to identify a series of sources. We currently have a list ofaround 60 blog and Twitter sources that have been identified by CD0 and cyber defence experts from Detica, and most of these have been approved for collection by MP-LEG.
-Information will arrive in unstructured 'information articles'. In the context ofa blog, an article would be apost; on Twitter, an article would be a tweet.
+Initially we need to identity a series of sources. We currently have a list of around 60 blog and Twitter sources that have been identified by CDO analysts and cyber defence experts from Detica, and most of these have been approved for collection by MP-LEG.
+Information will arrive in unstructured 'information articles'. In the context of a blog, an article would be a post; on Twitter, an article would be a tweet.
 
 Blog sources:
 
-These sources have currently been approved by MP-LEG (see spre?sheet in OVER)
+These sources have currently been approved by MP-LEG (see approvals spreadsheet in DISCOVER!
 
-0 
+•	http://www.secureworks.com/research/blog/
 
-0 
+•	http://www.secureworks.com/media/blog/
 
-I 
-. .xml
+•	xs-sniper.com/blog
 
-0 intrepidusgroup/insight/feed
+•	bugix-security.blogspot.com/feeds/posts/default
 
-I 
-rdierooLorg/feed/
+•	carnal0wnage.attackresearch.com/rss.xml
 
-0 
+•	intrepidusgroup/insigh t/feed
 
-I imthezuk.blogspot.com
+•	www.offensivecomputing.net/,’q=node/feed
 
-dogber1.blogspot_com/
+•	rdist.root.org/feed/
 
-0 
+•	www.darknet.org.uk
 
-0 blog.mandiant.com
+•	imthezuk.blogspot.com
 
-0 
+•	dogber1.blogspot.com/
 
-0 
-0 
+•	www.rageslorm.netblogs/
 
-blogs.adobe.com/psirt/feed
+•	blog.mandiant.com
 
- 
+•	www.openrce.org
 
-These sources are currently not approved by MP-LEG
+•	feeds.trendmicro.com/.Anti-MalwareBlog
 
-0 
+•	blogs.technet.com/b/msrc/rss.aspx
 
-0 
+•	blogs.adobe.com/psirt/feed
 
-0 securityvulns.com
-
-0 
-
-targetedemailattacks.tublr.com
+These source	s are currently not approved by MP-LEG
+. www.	f-secure.com/weblog/weblog.rtf
+	f-secure.com/exclude/vdesc-xml/latest 50.rs
+feedsf	eedburner.com/GoogleOnlineSecurityBlog
+• securit	yvulns.com
+• feedsf	eedburner.com/infosecResources
+• targete	demailattacks.tublr.com
 
 Twitter sources:
 
-The advice from MP-LEG on this issue is that "provided the accounts you are selecting for acquisition meet the criteria as agreed in the approvals spreadsheet, i.e. those of?academics specialising in the identification and investigation ofvulnerabilities and malware", there is no need to seek authorisation for each individual Twitter account."
+The advice from MP-LEG on this issue is lhal "provided Ihe accourls you are selecting for acquisition meet the criteria as agreed in the approvals spreadsheet, i.e. those of "academics specialising in the identification and investigation of vulnerabilities and malware”, there is no need to seek authorisation for each individual Twitter account.”
 Our selection of Twitter sources is currently as listed above, but will undoubtedly increase over time.
 
-Further potential sources ofinterest are found at 
+Further potential sources of interest are found at Compute£_security_news_and_views
 
-[eLit] Processing
+[edit| Processing
 
 Initially, these articles get processed into three components:
+leditl Content
 
-[ml Content
+The content will be the full textual content of the article. This will be stored as some sort of CLOB in a database.
+leditl Metadata
 
-The content will be the full textual content ofthe article. This will be stored as some sort in a dambase.
-Metadata
+We would strip metadata from the article such as
 
-We would strip memdam from the article such as
+•	Author/Source
 
-Author/Source
-Datetime of submission
+•	Datetime of submission
 
 and used this to update a Source Directory - information about the individual sources. For example:
-Author
-I Number ofarticles in LOVELY HORSE
-Average usefulness rating - see feedback mechanism
-Tags ofsubject matter linked with this source? - see indexing
-Index
+
+•	Number of articles in LOVELY HORSE
+
+•	Average usefulness rating - see feedback mechanism
+
+•	Tags of subject matter linked with this source? - see indexing
+
+leditl Index
+
 This is the important bit. The aim is to index the unstructured information so that it can be linked back to
 
-I An analyst?s particular interest
-As enrichment to an existing investigation
+•	An analyst's particular interest
 
-The proposed idea is to make use of mgging (defining 'indexing' as 'identifying keywords'). Each article would be mgged with information that had been extracted from it. These could be IP addresses, domains, or any text string from within the content ofthe article. Effectively these are the output ofentity extraction, and this list of
+•	As enrichment to an existing investigation
+
+The proposed idea is to make use of tagging (defining 'indexing' as 'identifying keywords'). Each article would be tagged with information that had been extracted from it. These tags could be IP addresses, domains, or any text string from within the content of the article. Effectively these tags are the output of entity extraction, and this list of
 tags would then be associated with that article.
 
-Similarly, lists of are associated with individual to define their specific interest set.
-[em Horn to generate a pmoimgs?
-We would need a pot of that becomes our entity set which we're extracting from new articles coming in. How to generate this pot oftags?
-Simple idea would be to regex for IP addresses and domains to start offwith.
-Could index every capimlised word in a blog title.
-Could get to provide a list of keywords they are specifically interested in.
-Could we extract keywords from existing analyst toolsets - for instance, do mg investigations within Palantir?
-should be encouraged to mg articles they read
-There is potential to link this entity extraction initiative in with corporate entity extraction tools that may provide more sophisticated matching.
-Could try and analytically identify tags. Whole articles could be tokenized and aword count generated. Ifaparticular term appeared, say, 4 or 5 times in the current week, but not last week, then maybe that's a new trend? In which case we should add this term to the pot ofmgs.
-[eLit] Feedback mechanism
-Important to allow easy ability to appraise usefulness ofinformation. should be able to like content from whichever interface they're accessing the content. Ifan analyst likes a particular article, tags from that article are automatically added to their personal mg list.
+Similarly, lists of tags are associated with individual analysts, to define their specific interest set.
 
-Articles can have a usefulness rating assigned to them - generate some metric on the lines of (number of'likes'/number ofviews). Articles that have a usefulness rating over a specific threshold could be pushed to all An average ofthe usefulness ratings across all articles from one source can be used to appraise different sources -
+We would need a pot of tags that becomes our entity set which we're extracting from new articles coming in. How to generate this pot of tags?
+
+•	Simple idea would be to regex for IP addresses and domains to start off with.
+
+•	Could index every capitalised word in a blog title.
+
+•	Could get analysts to provide a list of keywords they are specifically interested in.
+
+•	Could we extract keywords from existing analyst toolsets - for instance, do analysts tag investigations within Palantir?
+
+•	Analysts should be encouraged to tag articles they read
+
+There is potential to link this entity extraction initiative in with corporate entity extraction tools that may provide more sophisticated matching.
+
+• Could try and analytically identify tags. Whole articles could be tokenized and a word count generated. If a particular term appeared, say, 4 or 5 times in the current week, but not last week, then maybe that's a new trend? In which case we should add this term to the pot of tags.
+
+[edit| Feedback mechanism
+
+Important to allow analysts easy ability to appraise usefulness of information. Analysts should be able to 'like' content from whichever interface they're accessing the content. If an analyst likes a particular article, tags from that article are automatically added to their personal tag list.
+
+Articles can have a usefulness rating assigned to them - generate some metric on the lines of (number of 'likes'/number of views). Articles that have a usefulness rating over a specific threshold could be pushed to all analysts. An average of the usefulness ratings across all articles from one source can be used to appraise different sources -
 almost becomes a crude 'confidence factor' in the information - should I trust/act upon this information?
 
-edit] Visualisation and Access
-Need to be different ways access and view this content.
-Palantir - as enrichment to existing investigations. Similarly to the current enrichment helper, any articles that had which are entities within the investigation are ?agged up. The content should then be viewable in a human readable format within Palantir.
-Alerts - should be alerted when a new article is tagged with a tag from their interest set. How should this alerting happen? Email? RSS feed?
-I General search, there should be LOVELY HORSE front end that can be used for to search across the whole repository. Would want to investigate tools that can provide Google-like searching (need to investigate MERA PEAK, NSA's LEXHOUND).
+[edit| Visualisation and Access
 
-May need to be a timeframe element in the enrichment, content that is 2 years old may not be relevant.
+Need to be different ways analysts access and view this content.
 
-POC: (mail 
-[elm] Your Thoughts
+•	Palantir - as enrichment to existing investigations. Similarly to the current enrichment helper, any articles that had tags which are entities within the investigation	are	flagged up. The content should then be viewable	in a human	readable	format within	Palantir.
 
-Ifyou've got any thoughts on this initiative, please get in touch either directly to or feel free to edit this section and add them below:
-a
+•	Alerts - analysts should be alerted when a new article is tagged with a tag from their interest set. How should this alerting happen? Email? RSS feed?
 
-0
+•	General search, there should be LOVELY HORSE front end that can be used for analysts to search across the whole repository. Would want to investigate	tools	that can provide	Google-like searching	(need to investigate	MERA	PEAK,	NSA's LEXHOUND).
 
-Retrieved from 
+•	May need to be a timeframe element in the enrichment, content that is 2 years old may not be relevant.
 
-Views
+POC: [REDACTED]^ (null IZi
 
- 
+[edit] Your Thoughts
 
-Additional mtistics
-Personal tools
+If you've got any thoughts on this initiative, please get in touch either directly to |RED.ACTED |, or feel free to edit this section and add them below
 
-Navigation
+Retrieved from "|REDACTED|"
 
-Main Page
+. Page
 
-Help Pages
+•	Discussion
 
-I WikipediaMirror
-Ask out..
-Random page
+•	Edit
 
-I Recentchanges
+•	History
 
-Repb?aPrleem
-Contacts
+•	Delete
 
-0 
+•	Move
 
-Search
+•	Watch
+
+•	Additional Statistics
+
+
+
+•	Main Page
+
+•	Help Pages
+
+•	Wikipedia Mirror
+» Ask Me About...
+
+•	Random page
+
+•	Recent changes
+
+•	Report a Problem
+
+•	Contacts
+
+•	GCWeb
+
+
 
 Toolbox
 
-What links here
-Related changes
-pload ?le
-SW
-Prinmble version
+•	What links here
 
-Permanent link
+•	Related changes
 
-This page was last modified on 6 February 2012, at 09:40.
+•	Upload file
 
-This page has been accessed 538 times.
+•	Special pages
 
-All material is UK 7 Crown Coovrightl 2008 or is held under licence from third parties. This information is exempt under the Freedom oflnformation Act 2000 (FOIA) and mav be exempt under otherUK information legislation. Refer anv FOIA queries to
-GCHO on 01242 221491x30306 or a i 
+•	Printable version
 
-Privagy policy
+•	Permanent link
 
-About GCWiki
+m
 
-Disclaimers
+•	This page was last modified on 6 February 2012, at 09:40.
 
-TOP SECRET STRAP1 
-The maximum classi?cation allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report inappropriate content.
+•	This page has been accessed 538 times.
 
+•	All material is UK Ihttp: w ww .gchq organisation ck opensource polic strategy/copyright/ Crown Convrightl © 2008 or is held under licence from third parties. This information is exempt under the Freedom of Information Act 2000 iFOI.A) and may be exempt under other UK information legislation. Refer any FOIA queries to
+GCHQ on 01242 221491 x30306 or infoleg@gchq.gsi.gov.uk
+
+•	Privacy policy
+
+•	About GCWiki
+
+•	Disclai mers
+
+TOP SECRET STRAP1 COMINT
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report inappropriate content.

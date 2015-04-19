@@ -1,362 +1,178 @@
-TOP CAN, AUS, GBR, NZL, USA
-
-  
-
- 
-
- 
-
- 
+﻿TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 LEVITATION and
-the FFU 
+the FFU Hypothesis
 
- 
+cse-cst.gc.ca
 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
+What is LEVITATION?
 
-TOP CAN, AUS, GBR, NZL, USA
+A behaviour-based target discovery project
+Multi-disciplinary team
 
-    
+Prototyping and delivering advances in:
 
- 
+•	Behavioural tradecraft
 
- 
+•	Hypothesis tradecraft
 
- 
+•	Tradecraft automation
 
-What is 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
-- A behaviour-based target discovery project
-0 Multi-disciplinaryteam
+Current
 
-0 Prototyping and delivering advances in:
-Behavioural tradecraft
-- Hypothesis tradecraft
-Tradecraft automation
+Active
 
-   
+FFU
 
-TOP CAN, AUS, GBR, NZL, USA
+Sequential numbers
+Obvious selector names
+Web search terms
 
- 
+^■	—
 
- 
-
- 
-
- 
-
-Current Hypotheses
+Hypotheses
 
 In Development
+
 GPS waypoints
 Devices close to places
-
- 
-
-   
- 
-
 Telephony gaps
-S.vedue?ntial numbers Targets ofiforeign SIGINT
-Obvious selectOr names agenCies
 
-Web search terms calls
+Targets of foreign SIGINT
+agencies
 
-TOP CAN, AUS, GBR, NZL, USA
+Missed calls
 
-  
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 FFU Hypothesis
 
 Extremists use Free File
-
 Upload (FFU) sites
 differently than the general
 public.
 
-AI-Qaida uses FFU sites to
+Al-Qaida uses FFU sites to
 distribute Jihadist propaganda
-
- 
 
 Extremists use FFU sites to
 distribute training materials
 
- 
+lJjuU.Qju cl>\Luu
 
- 
-
- 
-
-
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 What do we need?
 
 A list of suspect documents
-
 A list of FFU URLs referring to those documents
 A list of IPs downloading those URLs
 
 New documents are found by CWOC (CSEC Web
 Operations Centre) retrieval from URLs, so
-that?s the easy part.
+that's the easy part.
 
-TOP CAN, AUS, GBR, NZL, USA
-
-  
-
- 
-
-
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 New URLs
 
-web forums team Previous Correlations
+CSEC's web forums team
 
-2nol Party reports alerts 
+2nd Party reports & alerts
 
-Machine Learning tech techniques to
-figure out what else that
-
-user was up to at the
-same time
+Machine Learning
 
 Learning the textual
 context for the URLs in
+web forums
 
-web forums 
-e.g. Google analytics
-
-  cookies
+HTTP Referrers
 
 Follow URL referrers back
 to the originating site
 
- 
+Previous Correlations
+analysis
 
- 
+Using tech techniques to
+figure out what else that
+user was up to at the
+same time
 
- 
+e.g. Google analytics
+cookies
 
- 
 
- 
 
-Get STALKER Hostnames goperations Build SDLfor STALKER Referers Dummyl Query FFU for STALKER Referers nit
+5
 
+iü
 
+¥
 
- 
+J Get STALKER Hostnames Sytng operations Build SQL for STALKER Referers Dummy 1	Query FFU for STALKER Referers	T Oil nit
 
- 
+FT
 
- 
+	wf	t	♦ c=3	f	ax
+	ÄJrTi  U		1“		X
 
- 
+Sort rows
 
- 
+Select values 2
 
- 
+SelectMalues IP Geo and Network Info
 
- 
+GÎ
 
- 
+Add constants
 
- 
+i FFU Requests Master List Remove spaces
 
- 
+Stream lookup
 
- 
+TC Init 2
 
- 
+Output duplicated URLs Format Date
 
- 
+E
 
- 
+Mail New URLs
 
- 
+Get Variables
 
- 
+GÎ
 
- 
+Mail Configs
 
- 
 
- 
 
- 
+\		ax
+J	a  X
 
- 
+Blocking Step
 
- 
+New URLs File
 
- 
+SeiectftfeJues A
 
-   
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-    
- 
-  
-
-dim? -
-.ij any Rows  I. I. IS I. a 
-Calc lator Build SOLfor referers count Filter out image Memory Group by Sort rows Selectvalues 2
-4 a .-
-zi: I 
-Filter out hiters Dummyr 3 Query ref rers count Dummy 2 Select alues lP Geo and etwork Info
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-r2  
-. ?11  
-Dummy 4 Dummy 5 ?lter out Referer count i Pr
-3
-I 
-
-. FFU Requests Master List Remove spaces Stream lockup TC lnit 2 Output duplicated URLs
-
-Mail New URLs Get Variables Mail Configs Blocking Step New URLs File
+I
 
 Output new URLs
-
-TOP CAN, AUS, GBR, NZL, USA
-
-     
-
- 
-
-a.
-
- 
-
- 
 
 FFU Events Collection
 
 ATOMIC BANJO (Special Source) is collecting HTTP
 metadata for 102 known FFU sites.
 
- 
-
- 
-
- 
-
 We see about 10-15 million FFU events per day
 All the FFU Events are available thru OLYMPIA
 
-TOP CAN, AUS, GBR, NZL, USA
-
-:5
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Looking for a few good documents
 
@@ -364,740 +180,468 @@ We only care about the 2,200 URLs
 that point to documents of
 interest.
 
- 
-
- 
-
- 
-
- 
-
 e.g. How to make a gas bomb
-I, 
-Every day we sort through the 10?
+
+www.sendspace.com/file
+
+Every day we sort through the 10-
 15M events for the interesting
-ones
+ones.
 
-We?re ?nding about 350 interesting
+We're finding about 350 interesting
 download events per month.
-
- 
-
-TOP CAN, AUS, GBR, NZL, USA
-
-  
-
- 
-
-:5
-
-Chloroform in a Lowes bucket Bajadin Explosives Manual
-
- 
-
- 
 
 Documents vary
 
-    
+Chloroform in a Lowes bucket
 
-- . . 
+Bajadin Explosives Manual
 
- 
+And lots of pictures of cars on fire
 
-And lots of pictures of cars on ?re
-
- 
-  
-
-Cre ate HTTF
-
- 
-
- 
-
- 
-
- 
-
-Master List Extremist DMU 3
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
-
-3" 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-SOL
-
-Dummyl Query 
-
- 
-
- 
-
- 
-
-1.1.14
-[Jag
-v.14 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Length
-
-Convert tring [F?s
-
- 
-
- 
-
- 
-
-a
-
- 
+Filtering out Glee Episodes
 
 
 
- 
 
- 
 
- 
+Ik
 
- 
+Create HTTFLRLINE SQL	Dummy 1	Query HT 'P_RLINE /TCInit
 
- 
+Master List Extremist Documents URLs
 
- 
+Sort b/time
 
- 
 
-Create SOL Dummy 2 Query 
+
+Get URL Length
+
+C3X
+
+*
+
+X
+
+Convert String IPs Master FFU Hits Add constants	»m lookup
+
+A
+
+Create HTTP_LOCATION SQL Dummy 2 Query HTTP_LOCATION
 
 Processed FFU records
 
-Master FFU Hits
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-WE. . a:
-3+1:
-C1
-
-TClnit Geo Sortb time
-
- 
-
-Cr tie Uthe
-. 
-l. 
-
-St am lockup
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Add constants
-
-
-
-LI
-a
-
 New FFU records
 
- 
-
-IQ 
-
- 
-
- 
-
- 
-
- 
-
-mmh?  
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Resulting events
 
- . Computer shares Share} Levitation FFU FFU Hits 
+Computer ▼ shares (Wcorp) (R:) ▼ Share_l » Levitation ▼ FFU ▼ FFU Hits
 
-Eile Edit ?iew Iools Help
+i Search FFU Hits
 
-Organhe 3 Open Newfolder
+File Edit View Tools Help
+Organize ▼ Open New folder
 
-Favorites
-I Desktop
-Downloads
+■ Favorites
+H Desktop
+4 Downloads
+V, Recent Places
 
- Recent Places
+■ Desktop
+^ Libraries
+* Documents
+^ Music
+Su! Pictures
+H Videos
 
-I Desktop
-:4 Libraries
-5' Documents
-
-Music
-
-Pictures
-
-I Videos
-
-3?
 Computer
+^ Windows (C)
 
-Windows to)
+^ DVD Drive (D:)
 
-DVD Drive 
+j.'	'.corp\users’ :;ec_u;-er; (H:)
 
+shares (\\corp) (R:)
 
+[g> Reserved
+fg. Share_l
+Share_2
+[g Share_3
+{g. Share_4
+QB. Share_5
+[g Share_6
+[g, Tempshare
 
-:3 sharu ('t'tcorp) (it)
-
-Reserved
-Share_1
-. Share_2
-
-Share}
-Share}
-Share)
-Shareu?
-Tempshere
-
-it? Inn?- ii.
-
-ii
-
-hi ti
-
-Lf apps 
+apps (\\corp\groups\sigint) (S:)
 Network
- Control Panel
- Recycle Bin
-DM Extension
+
+!SP Control Panel
+£ Recycle Bin
+¡3] CERRID DM Extension
 SQL Developer
-XMin
-sqldeveloper-Slm32
+i. XMind
 
-01'20?2012 FFU Hi1 Selecto
-A 0 File fnlri'r
+^5 sqldeveloper-31.06.82
 
- 
+- a •
 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
+■ 01-20-2012 FFU Hit Selecto
 
-Date modi?ed: 10:27 AM Of?ine status Online
+I T>'PC
 
-(Wino weilahilitv? NM marital?:
+01-20-2012 FFU Hit Selector!
 
-Name 4  Date modified Type
-I 01-29-2012 FFU Hit Selects. 0610320121017  File folder
-01-20-2012 FFU Hit Select 0630352012 8:32 AM File folder
-01-20-2012 FFU Hit Selecto . udi Arabia 0102/2012 12:15  File folder
-01-21-2012 FFU Hit Select I 1910312012 11:47  File folder
-01-21-2012 FFU Hit Select ccupied Palestian Territory 08,1031?2012 10:36  File folder
-01-21-2012 FFU Hit Select . . udi Arabia 1030272012 1:41 PM File folder
-01 -?-2012 FFU Hit Selecto Occupied Palestinian Territory 07103-9012 12:15  File folder
-01-2-2012 FFU Hit Selecto 09332-2012 10:41  File foider
-01-25-2012 FFU Hit Selecto 0630312012 12:20  File folder
-01-27-2012 FFU Hit Selecto [$2035le 1238  File folder
-01-38-2012 FFU Hit Selecto Occupied Palestinian Territory 0902/2012 10:54  ?le folder
-01-31-2012 FFU Hit Selecto 05r'03/2012 10:26  File folder
-02?01-2012 FFU Hit Select 05/03/2012 10:36  File folder
-02?02-2012 FFU Hit Selecto 07/02/2012 12:17  File folder
-02426-2012 FFU Hit Selecto 08/03/2012 9:35 AM File folder
-02-13-2012 FFU Hit Select 23/03/2012 10:02  File folder
-0243:2012 FFU Hit Select 9:52 AM File folder
-02-14-2012 FFU Hit Select 05/03/2012 10:57  File folder
-02-15-2012 FFU Hit Selecto 211032012 12:25  File folder
-02-17-2012 FFU Hit Select brain 09/03/2012 8:57 AM File folder
-02-18?2012 FFU Hit Selecto anadian 0510352012 1:16 PM File folder
-02?20?2012 FFU Hit Select 0910312012 355 AM File folder
-Hit Selecto WIDE-2012 854 AM Fite folder
-02-24-2012 FFU Hit Select emen 0910312012 9:50 AM File folder
-02-23-2012 FFU Hi1 Select 09/033012 2:26 PM Fiie folder
-02-28-2012 FFU Hit Select 2050312012 933 AM File folder
-02-28?2012 FFU Hit Select 2010352012 9:53 AM File folder
-03?01?2012 FFU Hit Select 2103-2012 12:45  File folder
-03?03?2012 FFU Hit Select 2230312012 1:18 PM File folder
-. 03012012 FFU Hit Select 27,4331'2012 10:59  File folder
-. 03?04'2012 FFU Hit Selecto anadian Anonymizer 1:29 PM File folder
-03?07-2012 FFU Hit Select - 27/03/2012 12:58  File folder
-03-07-2012 FFU Hit Select - 11:07  File folder
-034072012 FFU Hit Select 281030012 11:13  File folder
-03-16-2012 FFU Hi1 Select 1:09 PM File folder
-03-20-2012 FFU Hit Select orocco 810352012 1118  File folder
-m1 FFU From Mathieu 09/03f2012 3:02 PM Microsoft Excel 
+Flip fnloW
 
- 
+01-20-2012 FFU Hit Select.
 
- 
+01-20-2012 FFU Hit Select.
 
-Search FFU Hits
+01-21-2012 FFU Hit Select.
 
- 
+01-21-2012 FFU Hit Select.
 
+01-21-2012 FFU Hit Select.
 
+01-22-2012 FFU Hit Select.
 
-   
+01-23-2012 FFU Hit Select.
 
-TOP CAN, AUS, GBR, NZL, USA
+01-25-2012 FFU Hit Select.
 
- 
+01-27-2012 FFU Hit Select.
 
- 
+01-2S-2012 FFU Hit Select.
 
- 
+01-	31-2012 FFU Hit Select.
+
+02-	01-2012 FFU Hit Select.
+
+02-02-2012 FFU Hit Select.
+
+02-06-2012 FFU Hit Select.
+
+02-13-2012 FFU Hit Select.
+
+02-13-2012 FFU Hit Select.
+
+02-14-2012 FFU Hit Select.
+
+02-15-2012 FFU Hit Select.
+
+02-17-2012 FFU Hit Select.
+
+02-18-2012 FFU Hit Select.
+
+02-20-2012 FFU Hit Select.
+
+. 02-22-2012FFU Hit Select.
+
+02-24-2012 FFU Hit Select.
+
+02-28-2012 FFU Hit Select.
+
+02-28-2012 FFU Hit Select.
+
+02-	28-2012 FFU Hit Select.
+
+03-	01-2012 FFU Hit Select.
+
+03-03-2012 FFU Hit Select.
+
+03-03-2012 FFU Hit Select.
+
+03-04-2012 FFU Hit Select.
+
+03-07-2012 FFU Hit Select.
+
+03-07-2012 FFU Hit Sel
+03-10-2012 FFU Hit Select.
+
+03-16-2012 FFU Hit Select.
+
+03-20-2012 FFU Hit Select.
+
+[j FFU From Mathieu
+
+Date modified: 06/03/2012 10:27
+
+Offline avaiUhilHv Not ilahle
+
+Iraq
+
+udi Arabia
+emen
+
+:cupied Palestinian Territory
+iudi Arabia
+
+Occupied Palestinian Territory
+
+Occupied Palestinian Territory
+
+06'03/2012 10:27...
+
+06/03/2012 8-32 AM
+07/02/2012 12:15...
+19/03/201211:47...
+08/03/201210-36...
+10/02/20121:41 PM
+07/02/2012 12:15...
+09/02/2012 10:41...
+06/03/20121220...
+06/03/20121238...
+09/02/2012 10:54...
+05/03/20121026...
+05/03/2012 10:36...
+07/02/20121217...
+08/03/2012 935 AM
+23/03/20121002...
+08/03/2012 932 AM
+05/03/2012 10:57...
+22/03/20121225...
+09,03/2012 8:57 AM
+0503/20121:16 PM
+0903/2012 855 AM
+0903/2012 854 AM
+0903/2012 9:50 AM
+0903/2012 2:26 PM
+2003/2012 933 AM
+2003/2012 953 AM
+2203/201212:45...
+2203/2012118 PM
+2703/20121059...
+2203/20121:29 PM
+27/03/20121258...
+28/03/201211.-07...
+2803/20121113...
+2803/20121.-09 PM
+2903/20121118...
+0903/2012 3:02 PM
+
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+File folder
+Microsoft Excel W...
+
+Offline status: Online
+
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Start analysis with event info
 
- 
+FFU hit from selector	on
 
- FFU hit from selector ?on
+7/03/2012 7:46:51 geolocated to Kenya,
 
-7/03/2012 7:46:51 geOlocated to Kenya,
 accessing The Explosives Course through
 FFU site sendspace.com with HTTP user
-agent Mozilla/5.0 (Ubuntu; Linux
+agent Mozilla/5.0 (Ubuntu; Xll; Linux
 x86_64; rv:9.0.1) Gecko/20100101 Firefox/
 9.0.1
 
- 
-
-  
-
- 
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Correlating other selectors with the IP
 
- FFU hit from selector-on
+FFU hit from selector^^^Hion
 7/03/2012 7:46:51 geolocated to Kenya,
-
-i accessing The Explosives Course through
-
+accessing The Explosives Course through
 FFU site sendspace.com with HTTP user
-agent Mozilla/S.0 (Ubuntu; Linux
-x86_64; rv:9.0.l) Gecko/20100101 Firefox/
+agent Mozilla/5.0 (Ubuntu; Xll; Linux
+x86_64; rv:9.0.1) Gecko/20100101 Firefox/
 9.0.1
 
- 
+	
+	
+'f Can we correlate any other selectors with this IP address?	
+	- Mutant Broth query on IPm^^or 5 hours on either side of 7/03/2012 7:46:51
+	
 
- 
+682 events including 77 with an exact match of the user agent above yielding
+a Facebook ID HMHa Google Prefid CookieH^^H^Han
+MAdnxsUuid2Cooki^^^^^HH||HIH an MQuantserve Me Cookie
 
- 
+| - r-	BH9HHHI
 
-Mutant Broth query on lP_for5 hours on either side 01?7/03/2012 7346151}
+			
+-			
+- FFU Hit Selector: 1			!			March 7,2012. Mutant Broth query..xlsx 1]
 
- 
-
- 
-
-682 events including 77 with an exact match of the user agent above yielding 
-
-a Facebook _a Google Pre?d Cookie?an
-
-?3 M_Adnxs Uu1d2 Cooki an M,Quantserve Mc Cookie
-i ndaGooglePrefid Cookie?
-
-  
- 
-
- 
-
- 
-
- Trtu Hit Selector-?larch 7, 2912. Mutant Broth g1
-
- 
-
-  
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Correlating Facebook cookie
 
-FFU hit from selector?on
-7/03/2012 7:46:51 geolocated to Kenya.
-
+FFU hit from selector|||H|on
+7/03/2012 7:46:51 geolocated to Kenya,
 accessing The Explosives Course through
-FFU site sendspacecom with HTTP user
-
- 
+FFU site sendspace.com with HTTP user
+agent Mozilla/5.0 (Ubuntu; Xll; Linux
+x86_64; rv;9.0.1) Gecko/20100101 Firefox/
+9.0.1
 
 Open Source research indicates
+that the user of Facebook ID
+Bs based in Dubai,
+United Arab Emirates i
 
-agent Malina/5.0 (Ubuntu; Linux mam useromcebook 
-x86_64; rv:9.0.1) Gecko/20100101 Firefox/  based in Dubai,
-9 0 1 i United Arab Emirates 
+A—?-----------------
 
- 
+; Marina Profile Query on Facebook User Cookie|
 
- 
+[observed in Mutant Broth Query above
 
- 
+- Lots of events includingregistration email addifssHBgmail.com and Facebook namel
 
- 
 
- - Marina Profile Query on Facebook User Cookie-observed in Mutant Broth Query above 
 
- 
+! I Can we correlate any other selectors with this Facebook ID Cookie?
 
-Lots of events including'iegistratiOn email address?gmailcom and Facebook name-
+U FFU Hit Selector
 
- 
+larch 7,2012. Marina Profile Query on Facebook Id
 
- 
+sxÇ
 
-  
+Lj Mutant Broth Sub-Query on Facebook User Cookie I
 
-Hit Selector-larch 7. 2012, Marina Pro?le Query on Facebook ll-tlsx 
+bbserved in Mutant Broth Query above
 
- 
+946 events with 893 matching exactly the user agent above
 
- 
+- FFU Hit Selector HHHMarch 7.2012. Mutant Broth Sub-Query on Facebook IDIHHvsx 1]
 
-.1 Mutant Broth Sub-Query on Facebook User Cookie _Jbserved in Mutant Broth Query above 
-
- 
-
- 
-
-946 events with 893 matching exactly the user agent above 
-
- 
-
- 
-
- 
-
-FFU Hit Selector ?March 2012, Mutant Broth Sub-Query on Facebook 
-
- 
-
-TOP CAN, AUS, GBR, NZL, USA
-
-   
-
- 
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 IP Correlation
 
- 
+FHJ Hits Analysis.kjb	íí MUTANTBROTHTDIs.ktr g		
+| ► li ■	Üy «b ^ IS, S too1*	V	
 
-wmmx? mmom mam 
-II I I: 5* gy?gt;  290% 
+rar
+
+¡Hide the execution results pone ¡
+
+Get rowsiom result
 
 
- 
 
- 
+fit
 
- 
+f
 
- 
+Multi-Threads Cut justification to 150 chars	MUTANXBROTH Filter Emoty Result MB Raw Results Sort by Sequence Group TDIs/User-Agents
 
- 
+TAr^
 
- 
+I
 
- 
 
- 
 
- 
+Error Handling Ignore Empty Result
 
- 
+Calc Co ifidence
 
- 
+MB TDIs
 
- 
+Sort by Confidence Filter on User-Agent Different U.-A.
 
- 
+DocumentJJnk	Document_Titie/Description	EVENTJTMESTAMP	ACTIVITY DATE	Confidence_Number	ACTIVE USER
+archive. org /almapl. mp4	German hostage video	Wed Mar 28 18:32:32 GMT 2012	2012-03-28T18:18:00Z	1.0	
+archive. org/almapl. mp4	German hostage video	Wed Mar 28 18:32:32 GMT 2012	2012-03-28T18:18:00Z	1.0	
+archive. ora/aimapl. mp4	German hostage video	Wed Mar 28 18:32:32 GMT 2012	2012-03-2ETT18:18:17Z	1.0	
+archive. org/almapl. mp4	German hostage video	Wed Mar 23 18:32:32 GMT 2012	2012-03-28T18:18:17Z	1.0	
+archive. org .’almapl. mp4	German hostage video	Wed Mar 28 18:23:42 GMT 2012	2012-03-28T18:09:27Z	0.5	■■■■■■■■■
+archive .org/almapl. mp4	German hostage video	Wed Mar 28 18:23:42 GMT 2012	2012-03-28T18:09:27Z	0.5	■■h^HMUüüI
+archive. org/almapl. mp4	German hostaoe video	Wed Mar 28 18:23:42 GMT 2012	2012-03-28T18:18:00Z	0.5	■H
+archive.org /almapl.mp4	German hostage video	Wed Mar 28 18:23:42 GMT 2012	2012-03-2ST18:18:00Z	0.5	
+archive. org/almapl .mp4	German hostage video	Wed Mar 28 18:23:42 GMT 2012	2012-03-2ST18:18:00Z	0.5	
+archive. org/almapl. mp4	German hostage video	Wed Mar 28 18:23:42 GMT 2012	2012-03-28T18:18:17Z	0.5	
 
- 
+Q Mozilla/4.0 (compatible; MSŒ 6.0; Wit
+1(2)
+rs)
 
- 
+) (compatible; MSIE 8.0; Wir
+|(5)
 
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
- 
+Automated analysis documentation
 
- 
+S3 Workbook 1 S3*20120120000848 188.51.88.22saudi arabia.xmnd
 
- 
+jCreate a relationship (Ctrl-H.fl
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-     
-
-?3 ?1 
-We ea? 2: 
-Multi?Threads Cut justi?cation to 150 chars Filter Result MB Raw Resutts Sort by Sequence Group TDlSI?Jser-Agents
-yr
-Error Handling Ignore Empty Result Calc Co ?dence
-:1 ?5
-
-l: WISE  
-MB Sort by Con?dence Filter on User-Agent Different 
-GRIDS . I mud: muj?t?emesabwt   DATE
-27] ardiveorgy?ainamm? German hostage video Wed Mar 28 1662325941" 2012 2212?0343118: :5sz
-if 27) ardanfeorgtahrnaplnw Gem-an hostage soron Wed Mar 25 18: 32:32 GIT 2012 18:002
- _54) Weargfaimapimn?r Gamer: hostage '13on Wed Mar 28 18:32: 32M 2012 2012-03-2ET18218117Z
-ardWeorgy?ainradxm?  hostage woeo Wed Mar 28 16:32:32szi? 2012 
-.2 I I I ardivetaglam?amm German hostage video Wed Mar 26 2312 
-Mala,?  6'0' ard'uvextgfa'tmadam-e German hostage  Wed Mar 26 16:23:42m 20:2 
-?(21 Gertnan hostage vnen Wed Mar 28 18:23:42 QIIT 2612 
-.5) ?Huang/Mme German hostage video Wed Ma 23 15:23:42 our 201.2 
-Moz?al'a? (more; MSE 8.0; W: ardMagrat-nadme Germ image video Wed Mar 25 2912 
-arciive.ocg.tamadmp-4  "hostage video Wed Mar 28 16:23:42 GMT 2012 2012-0318718: 18: 172
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
-
- 
-
-Automated analysis documentation 2:2'
-grandam? I cs I?Qema H. I. . El
-
-4?
-
- 
-
- 
-
-FFU hit from selector ?on
-201201200008480006MT geolocated to
+FFU hit from selector
+20120120000848000GMT geolocated to
 SA, accessing Inexhaustible weapons
-part 2 through FFU site GET [download]
+part 2 through FFU site GET /download/
+sela7_la_yndb_02/part24.mp4 HTTP/
+1.1 with HTTP user agent Mozilla/5.0
+(SymbianOS/9.3; U; Series60/3.2
+NokiaN79-l/11.049; Profile/MIDP-2.1
+Configuration/CLDC-1.1 ) AppleWebKit/
+413 (KHTML, like Gecko) Safari/413
 
-1.1 with HTTP user agent MozilIa/5.0
-(SymbianOS/9.3; Series60/3.2
+f	..-	■	.....•■■■	<i
 
-AppleWebKit/
-413 like Gecko) Safari/413
+Can we correlate any other selectors with this IP address?
 
- 
+I *..............................................................................j
 
- 
+Mutant Broth query on IP |
 
-Mutant Broth Query on IP ?for heurs on either side of 
+• 5 hours on either side of 20120120000848000GMT
 
-cvan with only
-MUTANTBROTH MATCHING EVENT COUNT ]mar.ching exactly the us
-
-agent 
-  
-Marina Activity query on IP _for ttours on either side of 20120120000848000ch
-?3 anaemic mam
+4
 
 
-1 
 
- 
+1(_MUTANTBROTH_EVENT_COUNT_) events with only
+{_ MUTANTBROTH MATCHING EVENT COUNT ) matching exactly the us
+agent above.
 
- 
+(_MARINA ACTTVrTY_EVENT_COUNT_) events with possible correlation
+(_MARINaZaCT[V[TY_P05SIBLE_CORRELATIONS_)____________
 
- 
-
- 
-
- 
-
-TOP CAN, AUS, GBR, NZL, USA
-
- 
- 
-
- 
-
- 
-
- 
-
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 What happens then?
-
- 
 
 Compare control and experimental groups to
 show statistical differences
@@ -1112,45 +656,28 @@ power of the hypothesis behaviors they show
 
 Deliver an ordered list of suspects to OCT
 
-TOP CAN, AUS, GBR, NZL, USA
+Personae
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Scoreboard
 
- 
-
 Hypotheses
-FFU - -  Totals
-Weights 0.6 0.55 0.52 0.48
 
-    
+FFU
 
-aeuosaad
+Totals
 
- 
+Weights	0.6	0.55	0.52	0.48				
+PI	4	2	0	4			5.42	
+P2	4	4	0	1			5.08	
+P3	4	1	0	4			4.87	
+P4	3	4	4	0			3.14	
+...								
+								
+	Known	New						
 
-TOP CAN, AUS, GBR, NZL, USA
-
- 
-
- 
-
- 
-
- 
-
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
 Successes
 
@@ -1158,26 +685,24 @@ An HTTP-referred URL gave us a German
 hostage video from a previously unknown
 target.
 
-An upload event gave us an
+An	upload event gave us an
 
-hostage strategy. The resulting report
+AQIM's hostage strategy. The resulting report
 was disseminated widely including by the CIA
-
 to their counterparts overseas.
 
- 
+TOP SECRET//SI//REL CAN, AUS, GBR, NZL, USA
 
- 
+The End
 
- 
+Team
 
- 
+(^^^^B@cse-cst.gc.ca)
 
- 
+Tech Lead:
 
- 
+(^^M@cse-cst.gc.ca)
 
- 
+(
 
- 
-
+pcse-cst.gc.ca)

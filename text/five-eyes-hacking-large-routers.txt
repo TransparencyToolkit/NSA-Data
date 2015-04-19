@@ -1,16 +1,15 @@
-Ifl'Si'i'Slii'HEL} Happy Friday my esteemed anI:l yaluep Intelligence Epmmunity eelleagues! There has been a tepie pf eenyersatipn that has started tp rumhle beneath the
-surface pfthe Cyper?seene lately. it?s apputrputer past. I'm net talking apputypurhpme ADSL rputer. I?m talking apput higger rputers. such as Cisepsi'Junipers
-iHuaweis used by ISF's fertheir infrastructure}. Haeking rputers has been business fer us and pur E-eyes partners fer same time new. but it is rnere apparent
-that ether natipn states are hpning their skillaandjpining the scene. Elefpre I get intp it mueh. let's gp pyer same pfthe things that semepne eeulp pp ifthey hack a rputer:
+﻿(TS//SI//REL) Happy Friday my esteemed and valued Intelligence Community colleagues! There has been a topic of conversation that has started to rumble beneath the
+surface of the Cyber-scene lately, it's about router hacking(for this post. I'm not talking about your home ADSL router. I'm talking about bigger routers, such as Ciscos/Junipers
+/Huaweis used by ISPs for their infrastructure). Hacking routers has been good business for us and our 5-eyes partners for some time now, but it is becoming more apparent
+that other nation states 3re honing their skillz 3nd joining the scene. Before I get into it too much, let s go over some of the things that someone could do if they h3ck a router:
 
-t?pu eeulp app erepentials. allpwing yeurselftp leg in any time ypu ehepse
+*	You could add credentials, allowing yourself to log in anytime you choose
 
-?1?pu eeulp apprehange rputing rules
+*	You could add/change routing rules
 
-?i?pu eeulp set up a packet eapture running Wireshark an an infrastrueture a lpeal listening pestfer any erepentials being passed eyerthe
+*	You could setup a packet capture capability...imagine running Wiresh3rkon an ISP’s infrastructure router...like a local listening post for any credentials being passed over the
+wire(!)
 
+*	You could weaken any VPN encryption capabilities on the router, forcing it to create easily decryptable tunnels
 
-?i?pu eeulp weaken any 1uiF'hl eneryptipn eapahilities en the rputer, fpreing it tp ereate easily peeryptahle tunnels
-
-?i?pu eeulp install a parked yersipn pfthe Ciperating System with whateyerfunetienality ypu want pre-huilt in
-
+*	You could install a dorked version of the Operating System with whatever functionality you want pre-built in

@@ -1,172 +1,205 @@
-XKeyscere-Tahs XKS Develepment
+﻿XKeyscoreTabs XKS Development
 
-lump l0:  
+Jump to: navigation. search
 
- 
+N BWS
 
-Getting
+Getting __ .
 
-mung . . . News
-aw _si'llr g? .
-3 ?m ?g?eure ?mm Development eenieets ??mmenm erehwe
+I Using
+an	---- „
 
- 
+XKevscure
 
- 
+Account
 
- 
+Training
 
- 
+XKS
 
- 
+Development
 
- 
+XKS
 
- 
+Cuntacts
 
- 
+Requirements
 
- 
+News
 
- 
+Archive
 
- 
+Contents
 
- 
+*	1 XKS Ungrades
 
- 
+*	2 Guidance un micropluuins
 
- 
+*	3 Types of XKEYSCQRE
 
- 
+o 3.1 Traditional
+o 3.2 Staua 2
+o 3.3 Deep Dive
 
- 
+*	4 Skinny XKS
+
+[edit] XKS Upgrades
+
+XKS is upgraded fortnightly un Thursday
+mumings between OfJOO-1100. If you can't Lug
+un or use the tool during this period, its
+because of this.
+
+[edit] Guidance on
+microplugins
+
+As you know, you can create microplugins to do
+different things: some perform advanced detection
+techniques to find types of traffic which can't he
+detected by keywords or regular expressions alone.
+Others identify and extract data fields into XKS's
+metadata table.
 
 Quick Links
-I Main Page
-Cuntents I: 1K5 at scale en 55E
-I Getting Streng-Selected Centth Lute 151KB
-I Getting an 151KB 
-- Using 
-I 2. Guidance un mlurupluulns I Training
-3 TWEE 0? - Development
-'3 . Centacts
-*3 _s_3.1 Sta 3 - News Archive
-0 3.3 Deep Dive In 311KB R?uirements
-I 4 Skinny KKS I: 1K5 Searches user guide
-I 1K5 Results user guide
-I 1K5 Annreval 
-I I in 1K5
-   ades I Premetlen t'ren'i 151KB
-I Autematle Premetlen t'ren'i 151KB
-XKE is upgraded on Thursday . 3K5 [int- ENE
-mornings between 0900-1100. If yen can't leg - NBA 33:5 fm- ENE
-an or use the ten] during this period, its - sass Tech Dictionaries
-because of this.
-[edit] Guidance en Useful Links
-I Mastering The Internet
-I: Transferming Analysis
-AS ycu lincw. ycu can create tc dc - 11ml
-different things: scme advanced detecticn 
-techniques tc ?nd types cf traf?c which can't be i 
-detected by cr regular expressicns alcne. 1? I I 
-Others identify and extract data ?elds in tc KKS's 
 
-metadata table-
+•	XKEYSCQRE Main Page
 
-In the latter case. the extracted ccntent fragments are stcred in the metadata table 30 days.
-It will depend en the precisicn and nature cf the search criteria ycu have used as tc 
-cr wealdy selected that ccntent will be-
+*	XKS (ffl scale on SSE
 
-If ycu are gcing tc use search criteria that will extract data abcut pecple and stcre that in the
-metadata table. please ccnsult DPPLEG befcre dcing sc. They will wish in understand the nature
-and sccpe cf any data being red in case it includes at least the names cf indiyid uals and the
-majcrity cf the data is net believed tc relate in prcbable intelligence targets- This wculd make
-this data particularly sensitive-
+*	Getting Strong-Selected Content Into XKS
 
- 
+•	Getting an XKS Account
 
- 
+•	Using XKEYSCQRE
 
-In additicn. a quarterly check is new being made cn all new which add data tc the
+■	XKEYSCQRE Training
 
-1ef4
+*	XKEYSCDRE Development
+. XKEYSCQRE Contacts
 
- 
+■	XKS News Archive
 
-metadata table te ensure they meet UK legal and pelicy requirements-
+•	XKS Requirements
 
-Please alse be aware that usually are autematically shared with atleast NSA and
-may alse get depleyed in ether 2P I-IKS- By mid-2011 a new versien ef I-IKS sheuld have been
-depleyed where individual will still be depleyed in every KKS- but they can be
-tagged net te run en certain I-IKS- The enly exceptien is where yeu depley a micreplugin enly te
-GTE's I-IKS ?eet: these will net be visible te 2P partners.
+•	XKS Searches user guide
 
-[edit] Types. nf 
+■	XKS Results user guide
 
-There are currently three different types ef I-IKS:
+*	XKS Annrovnl nrocess
+. NFV in XKS
 
-- deitiena]
-I Stage 2
-a Deep Dive
+■	Fmmndnn from XKS
 
-They differ principally en where in the precessing chain they sit whether the data they receive
-has already been sessienised er net and whether they ingest all ef the data they receive er
-whether they apply rules te enly ingest seme data.
+*	Auto made Promotion from XKS
 
-[edit] "firaditienal
+*	XKS for CINE
 
-1ill-rhen I-IKS was ?rst develeped it was used te receive data frem lew data rate signals being
-precessed threugh WC sessienised all the data en the link and
-presented it all te I-IKS- data was ingested inte I-IKS-
+■	NSAXKovscoro Using XKS tor CNE
 
-GCHQ has traditienal I-IKS at many ef eur sites- including all ef eur Cemsat. Terrestrial and SMD
-sites. The ?163 is alse a traditienal KKS- theugh in that case data has been sefily selected
-at the implant and sessienisatien takes place in TEE-RAIN. rather than WC-
+•	XKS Tech Dicdonarics
 
-Stage 3
+Useful Links
 
-Fer higher data rates. a ?Stage 2" ?163 was develeped te ingest data frem TURMDIL- 
-passes 5% cf the packets te I-IKS which I-IKS then sessienises. decides which 5% cf
-packets te pass based en the fellewing criteria:
+•	Mastering The Internet
 
-streng selectien
+•	T ra nsform ino An a Iv si s
+■ TINT
 
-subnet premetien
+•	GTE
 
-technelegy premetien
+•	SD Heme
 
-e-mail demains
+v ■ d ■ ç
 
-persena sessien premetien [where if a streng selecter is seen- IEII minutes? er MB ef data
-is cellected}
+In the latter case, the extracted content fragments are stored in the metadata table for 30 days.
 
-I persena sessien eellectien [where the data is cellected and ferwarded te PINWALE
-but is alse passed te the 
+It wiJJ depend on the precision and nature of the search criteria you have used as to how strongly
+- or weakly - selected that content will be.
 
-This data is then sent in the Stage 2 I-IKS- ether data is lest-
+If you are going to use search criteria that will extract data about people and store that in the
+metadata table, please consult QPPLEG before doing so. They will wish to understand the nature
+and scope of any data being stored in case it includes at least the names of individuals and the
+majority of the data is not believed to relate to probable intelligence targets. This would make
+this data particularly sensitive.
 
-at GCHQ uses a Stage 2 XKS-
-[edit] Deep Dive
+In addition, a quarterly check is now being made on all new microplugins which add data to the
 
-Deep Dive was develeped te preve that sessienisatien at IBIS data rates was pessible. First it
-sessienises all data en a link- Then it premetes data using the GENESIS selectien language te
-identify data types where we assess there is petential intelligence value and ingests these. The
-premetien precess can make ene ef three decisiens:
+1 of 4
 
-I Sleek data that is legally net allewed in be in the system ie traf?c
-I data that is knewn te he wanted threugh use ef premetien rules
-I And then te drep any data that deesn't meet either ef these
+metadata table to ensure they meet UK legal and policy requirements.
 
-?ne ef the experiments in TINT is seeking te identify where the best balance lies between what
-is kept and what is net. facterin deciding hew much data te keep is the scale ef sterage
-capacity that can be previded-
+Please also he aware that usually micro plugins are automatically shared with at least NSA and
+may also get deployed to other 2P XKS. By mid-2OIL a new version of XKS should have heen
+deployed where individual microplugins will still he deployed to every XKS, hut they can he
+tagged not to run on certain XKS. The only exception is where you deploy a micro plug in only to
+GTE's XKS fleet: these will not he visible to 2P partners.
 
-GCHQ already eperates a number ef Deep Dive I-IKS:
+[edit] Types of XKEYSCORE
 
- 
+There are currently three different types of XKS:
 
-2ef4
+*	Traditional
 
-Sef-s
+*	Stage 2
 
+*	Deep Dive
+
+They differ principally on where in the processing chain they sit, whether the data they receive
+has already heen sessionised or not and whether they ingest all of the data they receive or
+whether they apply rules to only ingest some data.
+
+fedill Traditional
+
+When XKS was first developed it was used to receive data from low data rate signals being
+processed through WEALTHYCLUSTER (WC). WC session ised all the data on the Jink and
+presented it all to XKS. All data was ingested into XKS.
+
+GCHQ has traditional XKS aL many of our sites, including all of our Comsat, Terrestrial and SMO
+sites. The EREPO XKS is also a traditional XKS, though in that case data has heen softly selected
+at the implant and sessionisation takes place in TERRAIN, rather than WC.
+
+fedill Singe 2
+
+For higher data rates, a "Stage 2“ XKS was developed to ingest data from TURMOIL. TURMOIL
+passes 5% of the packets to XKS which XKS then sessionizes. TURMOIL decides which 5% of
+packets to pass based on the following criteria:
+
+*	strong selection
+
+*	subnet promotion
+
+*	technology promotion
+
+*	e-mail domains
+
+*	persona session promotion (where if a strong selector is seen, 10 minutes'or 10 MB of data
+is collected)
+
+*	persona session collection (where the data is collected and forwarded to NSA's PIN WALE
+but is also passed to the XKS)
+
+This data is then sent to the Stage 2 XKS. All other data is lost.
+
+Only JPC (MUSCULAR) at GCHQ uses a Stage 2 XKS.
+
+fedill Deep Dive
+
+Deep Dive XKS was developed to prove that sessionisation at 10G data rates was possible. First it
+sessionises all data on a link. Then it promotes data using the GENESIS selection language to
+identify data types where we assess there is potential intelligence value and ingests those. The
+promotion process can make one of three decisions:
+
+*	Block data that is legally not allowed to he in the system - ie UK-UK traffic
+■ Allow data that is known to he wanted through use of promotion rules
+
+*	And then to drop any data that doesn't meet either of these
+
+One of the experiments in TINT is seeking to identify where the best balance lies between what
+is kept and what is not. A factor in deciding how much data to keep is the scale of storage
+capacity that can he provided.
+
+GCHQ already operates a number of Deep Dive XKS:
+
+2 of 4
+
+3 of 4

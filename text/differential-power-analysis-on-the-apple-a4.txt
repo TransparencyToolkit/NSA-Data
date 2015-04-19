@@ -1,28 +1,28 @@
-[edit] Presentation Abstracts - Tuesday, 15
+﻿[edit] Presentation Abstracts - Tuesday, 15
 March
 
-[edit] (SHNF) Differential iner Analysis an the Apple A4
-Precessnr
+[edit] (S//NF) Differential Power Analysis on the Apple A4
+Processor
 
-Presenters: and (U) The Apple A4 prccesscr ccntains an
-cn-bcard, AES key called the Glcbal ID that is believed tc be shared all current
-"iEIevices". This GID key is used tc un?wrap the keys that the ?rmware ccde
-stared in system ncn-vclatile memcry. Currently, the cnly way tc examine ccde is tc gain
-executic-n thrcugh an ewlcitable security ?aw. I-Icwever, Apple is quick tc address these ?aws
-with each new release cf ?rmware and hardware.
+(U) Presenters:	(U) The Apple A4 processor contains an
 
-The Inte?igence Ccmmunity is highly dependent an a very sma]l number cf security ?aws,
-many cf which are public, which Apple eventually patches. The presentaticn will discuss a
-methcd tc ncninvasively extract the GID key the A4 siliccn. If successful, it wculd enable 
-and analysis cf the beat ?rmware far vulnerabilities, and develcpment cf asscciated explcits the
-entire Ari?based prcduct?line, which includes the iPhcne? A, the iPcd tcuch? and the iPath.
+on-board, AES cryptographic key called the Global ID (GID) that is believed to be shared across all current
+“¿Devices". This GID key is used to un-wrap the keys that decrypt the corresponding boot firmware code
+stored in system non-volatile memory. Currently the only way to examine unencrypted boot code is to gain
+execution through an exploitable software security flaw. However, Apple is quick to address these flaws
+with each new release of firmware and hardware.
 
-Pcwer analysis techniques have prcven effective in extracting hardware resident 
-such as keys, secure ncninvasively thrcugh side?channel
-We have wcrked tc develcp an envircnment within the iPhcne 4 that assists in
-differential pcwer analysis attacks against the A4 prccesscr while preserving the
-?lncticnality cf the device. We have studied emissicns that during AES
-cperaticns with the intent cf extracting abcut the cn?chip AES keys. We will discuss the
-used tc acquire varicus measurements the system and the we?ve made in
-attempting tc extract the GID key the devices.
+(S//NF) The Intelligence Community (IC) is highly dependent on a very small number of security flaws,
+many of which are public, which Apple eventually patches. The following presentation will discuss a
+method to noninvasively extract the GID key from the A4 silicon. If successful, it would enable decryption
+and analysis of the boot firmware for vulnerabilities, and development of associated exploits across the
+entire A4-based product-line, which includes the iPhone® 4, the iPod touch® and the iPad®.
 
+(S//NF) Power analysis techniques have proven effective in extracting hardware resident cryptographic
+information, such as cryptographic keys, from secure processors noninvasively through side-channel
+methods. We have worked to develop an environment within the iPhone 4 that assists analysts in
+performing differential power analysis (DPA) attacks against the A4 processor while preserving the
+functionality of the device. We have studied electromagnetic (EM) emissions that occur during AES
+operations with the intent of extracting information about the on-chip AES keys. We will discuss the
+methods used to acquire various measurements from the system and the progress we've made in
+attempting to extract the GID key from the devices.

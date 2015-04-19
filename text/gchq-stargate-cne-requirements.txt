@@ -1,232 +1,172 @@
-SECRET COMINT
-The maximum classification allowed on GCWiki is TOP SECRET COMINT. Click to report
+﻿SECRET STRAP1 COMINT
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report
 inappropriate content.
 
- 
+For GCWiki help contact: webteam
 
-For GCWiki help contact: webteam Support page
+Support page
 
 STARGATE CNE Requirements
 
 From GCWiki
+
 (Redirected from OPCCNE Prototyping STARGATE CNE Requirements)
-
- 
-
 Jump to: navigation, search
 
-OPCCNE Prototyping Team (team leader?
+OPCCNE Prototyping Team (team leader^^^^^^^^l
 
- 
-
- 
-
-HOME . MAD . KITCHEN SINK . MARVAL ICE . IRONING BOARD . TIN REVERIE . SORCERER .
-
- 
-
+HOME .MAD . KITCHEN SINK . MARVAL ICE . IRONING BOARD . TIN REVERIE . SORCERER .
 FEDEX
+
 Agile . Admin . Andromeda . Data Characterisation . Desks . Discussion . Forensics . Index . Links . Notes
-
- 
-
 . Storyboards . Team . Training . Planning . Priorities . Unification Workshop . Infrastructure .
-
- 
-
 Development Process
 
- 
-
-This page is for staff to add requirements
+This page is for OPH-CNE staff to add requirements
 for STARGATE. You should start by reading the
 Endpoint Initiative Requirements. Your requirement
-
- 
-
 may have already been captured.
 
-Some headings have been added to get you 
+Some headings have been added to get you started....
 
 Contents
 
-1 How should the file system be rendered?
+•	1 How should the file system be rendered?
 
-2 How do you want to search the file system?
-3 How do you want to get tasked by
+•	2 How do you want to search the file system?
+
+•	3 How do you want to get tasked by
 customers?
 
-4 What should appear on the summary pages?
+•	4 What should appear on the summary pages?
 What about summary pages for a Project or
 Implant?
 
-5 Embedded Comments
+•	5 Embedded Comments
 
-6 What would CNE need from Network
+•	6 What would CNE need from Network
 diagrams?
 
-7 What input is most important
+•	7 What input is most important
+(ipconfig/netstat/dns/arps/....) ?
 
+•	8 Scripts
 
-8 Scri ts
+•	9 Visualising non-DareDevil logs
 
-9 Visualising non?DareDevil logs
+•	10 Add a new section here!
 
-10 Add a new section here!
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[in] How should the file system be
+[edit] How should the file system be
 rendered?
 
-0 I would like to be able to use STARGATE to
-
-view the files directly from the drive. GCHQ
+• I would like to be able to use STARGATE to
+view the files directly from the S drive. GCHQ
 
 STARGATE
 
-User Guide
+•	User Guide
 
-Bugs Feedback
+•	Bugs & Feedback
 
-Deployments
-CNE Requirements
+•	Deployments
 
+•	CNE Requirements
 
+•	Surgery
 
-
-(D
-SH
-
+•	Support
 
 Administration
 
-User Management tool
+•	User Management tool
 
-
- 
-
-
-c:
-B.
+•	Plugins
 
 VORPAL SWORD
 
- 
+•	User Guide
 
-User Guide
+•	Bugs & Feedback
 
-Bugs Feedback
-Development
-Mr
+•	Development
 
+•	Version history
 
+CLOTHO 2
 
-Interface from ROYAL MANTLE
-
- 
+•	Interface from ROYAL MANTLE
 
 Architecture
 
-My
-ERIDANUS
+•	Connectivity
 
-CHEYENNE MOUNTAIN
-CHEYENNE MOUNTAIN2
+•	ERIDANUS
 
- 
+•	CHEYENNE MOUNTAIN
 
- 
+•	CHEYENNE MOUNTAIN2
 
-has a site wide license for OutsideIn 0 Ag 
-(QuickView uses this behind the scenes). You 0 CNE on the BIG BUS
-
- 
-
+has a site wide license for OutsideIn
+(QuickView uses this behind the scenes). You
 can convert around ~350 document formats
-into HTML for viewing safely. This is not 
+into HTML for viewing safely. This is not
 meant to replace udaq but would be a convinent
-and safe halfway?house to view files quickly
+and safe halfway-house to view files quickly
 for tactical operational reasons.
 
-
-
-Iteration 7 Feedback
-Iteration 6 Feedback
-Iteration 5 Feedback
-
- 
-
- 
-
- 
-
-Dev Team
-
-[in] How do you want to search the file
+[editl How do you want to search the file
 system?
 
-[in] How do you want to get tasked by
+[editl How do you want to get tasked by
 customers?
 
-[in] What should appear on the summary
+[editl What should appear on the summary
 pages? What about summary pages for a
 Project or Implant?
 
- 
-
-[in] Embedded Comments
+[editl Embedded Comments
 
 What form should they take? Do you want to be able to add attachments or hyperlinks. Do you want to be
 alerted when a comment is added to your project?
 
-[in] What would CNE need from Network diagrams?
+•	AQUILA
 
-[in] What input is most important 
-[git] Scripts
+•	CNE on the BIG BUS
+
+Iterations
+
+•	Iteration 7 Feedback
+
+•	Iteration 6 Feedback
+
+•	Iteration 5 Feedback
+
+Dev Team
+
+[editl What would CNE need from Network diagrams?
+
+[editl What input is most important (ipconfig/netstat/dns/arps/....) ?
+[editl Scripts
 
 Incorporate scripts detailed in the TDE wiki into STARGATE, eg;
 
-0 Email project lead (or interested party) when a volume manager event occurs. User?
+•	Email project lead (or interested party) when a volume manager event occurs. User
 
-0 Please add more ideas!
+•	Please add more ideas!
 
-[git] Visualising non-DareDevil logs
+[editl Visualising non-DareDevil logs
 
-0 I need to be able to view logs from unix ops 
-0 I need to be able to view logs from masquerades (directory listings from FTP servers)
+•	I need to be able to view logs from unix ops
 
-User?
+•	I need to be able to view logs from masquerades (directory listings from FTP servers)
+User
 
-0 I need to be able to view logs from ops where i exploit on to the box and just use legspin
+•	I need to be able to view logs from ops where i exploit on to the box and just use legspin
+(THICKISH ALPHA) User:
 
-(THICKISH ALPHA) User:?
+[editl Add a new section here!
 
-[iit] Add a new section here!
+Retrieved from "https://
 
-Retrieved from 
-
-Categories: STARGATE CNE Prototyping Team
-
- 
-
+Categories: STARGATE | CNE Prototyping Team

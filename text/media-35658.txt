@@ -1,1117 +1,742 @@
-TOP USA, FVEY
+﻿TOP SECRET//COMINT//REL USA, FVEY
 
 Case Studies of Integrated Cyber
 Operation Techniques
 
- 
+NSA/CSS Threat Operations Center
 
-Threat Operations Center
 VS
 
-TOP USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
-(U FOU ic
+(U//FOUO) TUiT0t.EÄ,©iE^//,0yn,aFmic
 
- 
-
-Inbound ThreatsNeutered
-Interactive Threa?Gontrolled
-Outbound Threat?imrupted
+Inbound ThreafesNeutered
 
 Adversary
 
- 
-  
-      
- 
- 
-   
- 
-
- 
-
- 
-
- 
-
 Neuter
 
- 
-
-Exfiltrate
-
- 
-
- 
+Ull
 
 Corrupt
 
- 
+S
 
-I . I II. 
+ß
 
- 
+edirect
+
+Interactive Threatsontrolled
+Outbound ThreatCorrupted
+
+i
+
+Exfiltrate j j
+Data
 
 Victim
 
-      
- 
+NIPRNET
 
-
-
- Adversary
+Adversary
 Web Server
 
- 
+NSA Web
+Server
 
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
-. 
-I PRN ET  
+TOP SECRET//COMINT//REL USA, FVEY
 
+(S//REL) Foreign Intelligence in Support of Dynamic Defei
 
-serVer
-
-   
-
- 
-
-TOP USA, FVEY
-
-TOP USA, FVEY
-
-Foreign Intelligence in Support of Dynamic Defe
-
- 
+u.s.
 
 Foreign Intelligence
 
+*	Attribution
 
+►
 
-
- 
- 
-
- 
-
-Attribution
-
-0 Access to their tools
+*	Access to their tools
 - so that we can
 
-dm? other U.S.
+other U.S.
 
-victims
+victims	/
 
- 
+TOP SECRET//COMINT//REL USA, FVEY
 
-TOP USA, FVEY
+(U//FOUO) Ccrante/p©N,&:u^apport to
 
- 
+5//REL) Use CNE to penetrate the operations of foreign cyber actors
+LJ) Two major classes of CNE techniques
 
-Use CNE to penetrate the operations of foreign cyber actors
-U) Two major classes of CNE techniques
+•	(U) Man-in-the-middle
 
-(U) Man-in-the-middle
+•	(U) Man-on-the-side
 
-(U) Man-on-the-side
-Steal their tools, tradecraft, targets and take
-
-  
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+U//FOUO) Steal their tools, tradecraft, targets and take
 
 Adversary
 Penetrated
 Foreign Host
 
- 
-
 Adversary Penetrated
+Foreign Infrastructure
 
-Foreign Infrastructure Adversary Home
+Adversary Home
 
--
+TOP SECRET//COMINT//REL USA, FVEY
 
- 
-
-TOP USA, FVEY
-
- 
-
-(U) 
-
- 
+(U) Ma n-in-the^MiiîfëHe^aS'Multi pie
 
 Active Exploitation
 
- 
- 
-
-
-
-WWI
+AnySite.co
 
 Implant
+
+ed
+
+Router
+
+Target
+
+TOP SECRET//COMINT//REL USA, FVEY
+
+Router
+
+CLOUDSHIE
+
+TUTELAGE
+
+(U//FOUO) Using TUTELAGE to enable active exploitation is integrated
+____________________________cyber operations.____________________________
+
+Active Exploitation
+
+m
+
+S//REL) TUTELAGE is a man-in-the-middle technique
+
+Network Defense
+
+PANDORASMAYH
+
+TURMOI
+
+Good Guys
+
+Implant
+
 ed
 
 AnySite.co
 
- 
+Bad Guy
 
-TOP USA, FVEY
+Target
 
- 
+(S//REL) QUANTUMTfí¥^T^§™^h^iFdírActive
+Exploitation
 
-(U) 
+TARGET
 
- 
+¡STINAT1QN.
 
-Active Exploitation Network Defense
+l'ÍCl'Ki'r.
 
- 
+Response
 
-Good Guys
+© SiGINT
 
- 
+Concerted Use of both Passive +
+Active SIGINT
 
- 
-
-PAN DORAS MAYH
-
-AnySite.co TU RMOI
-
- 
-
- 
-
- 
-
-TUTELAGE
-
-TUTELAGE is a man-in-the-middle technique
-
-Using TUTELAGE to enable active exploitation is integrated
-
- 
-
-cyber operations.
-
- 
-
-  
- 
- 
-    
- 
-     
-  
-  
- 
-  
-  
-
-Concerted Use of both Passive 
-Active SIGINT 5 .
-
-Implant targets based on 'selectors? and/or 
+•	Implant targets based on 'selectors' and/or
 behavior
 
-e.g. users of al?Mehrab ISP (Mosul)
-who visit al?Hezbah extremist website
-0 Requires target webserver responses be visible
+- e.g. users of al-Mehrab ISP (Mosul)
+who visit al-Hezbah extremist website
+
+•	Requires target Webserver responses be visible
 to passive SIGINT
-- Requires sufficient delay in target web
+
+•	Requires sufficient delay in target web
 connection for the hook to "beat" the response
-back to the target (typically means at least one  
+back to the target (typically means at least one
+satellite hop) *
 
-1 Target web connection/
-request via SATCOM or Fibe
+•	Requires target's client to be vulnerable ta^ertJr*
 
-satellite hop) MHS 
-ReqUires targe?t's client to be vulnerable a 
-DESTINATION
+Target web connection/
+request via SATCOM or Fiber
 
- 
-  
-     
+..............
 
-. . 
-In. - . 
-9 Insert hook in
+Cycle ©O must get to the target before © ...
 
-addition to requeste 
-Hf -.
-
- 
-  
-
- 
-
-9 SIGINT
-
- 
-
-  
-  
-
-- Cycle 90 must get to the target before 2
 occurs
 
-0 Once 'hooked,? the target is exploited
+Dnro * r\ r\ \s ts r\ r	T rT i r~ a v r\ I i	nrs
+
+Once 'hooked,' the target is exploited with no
 time constraints
 
-- Different QUANTUM effects have differ
+Different QUANTUM effects have different time
 
-rnncI-rninI-c:
-VVI Ighl 
+© Hook calls to Covert Listening Post
 
-   
- 
+(LP):	_________________
 
-     
+upload robust Implant for sustained
+access
 
-I: 6 Hook calls to Covert Listening Post
-(LP):
-I. I  ne
+TOP SECRET//COMINT//REL USA, FVEY
 
-3
+TOP SECRET//COMINT//REL USA, FVEY
 
- 
-  
+(U//FOUO) BOXINGRUMBLE Case Stud
 
- 
+(S//REL) DNS requests
+entering NIPRnet domain
 
-TOP USA, FVEY
+-	(S//REL) Destination IP not a
+NIPRnet DNS server
 
-TOP USA, FVEY
+-	(S//REL) Domain name not
+within NIPRnet
 
-BOXINGRUMBLE Case Stud
-
- 
-
-DNS requests
-entering domain
-
-Destination IP not a
-DNS server
-
-Domain name not
-within 
-
-- DNS behavior of host is
+(S//REL) DNS behavior of host is
 suspicious but not dangerous
 
-TAO uses
+(TS//SI//REL) TAG uses
 QUANTUMDNS to redirect the
 requesting host
 
-INTERNET
+NSA and
 
-.11
-e,
+TAO
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-NSA and 
-Q. a9 TAO
 Covert
+
 Infrastructu
-NIPRNET re
 
-(9 1
+re
 
-TOP USA, FVEY 8
+TOP SECRET//COMINT//REL USA, FVEY
 
-TOP USA, FVEY
+8
 
-QUANTUMDNS: An Integrated Cyber Oer
+Where's
 
- 
+Anysite.mil?
 
- 
+TAO Server
 
- 
+mirrors Anysite.mil
 
- 
+Where's
 
- 
-     
- 
+nysite.mi
 
- 
+,ecSárv%PrVpa||< to this DN
 
- 
+Server
 
- 
-      
- 
+Conn'
 
- 
+Anysite.mi
 
-. Root 
-DNS IP is 1.2.3.4
-SDNS Where's serVe   
-ewe Anysite mil? i
-  Where's Server
-Wh Root DNS Server, . N. mirrors Anysitemil
+t know how to get,
+to Anysite.mil V
 
-ere's tam l'n - 
-DNS quer nys'te'm I ConneCS??/?wulearlk to this serVe'
+DNS
 
- 
+Serve Bf IF
 
-. Talk to the root Server 2:
-Anysitemil? DNS Server 
-Local
-I don?t know 5 DNS I 
-Serve now ow to get 
-I ll ask. to Anysitemil Where?s 
-. - 
-DNS Anys'te m" d] TAO Shooter
+TAO Shooter
 
- 
+TARGET SPACE
 
- 
-
-DNS query--
 NIPRNET
-Anysitemil?
 
-NSA
+Anysite.mil?
 
-   
+Blocked
 
 If DNS
 
+Server
+
+Found
+
+NIPRNET
+
+Anysite.mi
+I Server
+
+TOP SECRET//COMINT//REL USA, FVEY
+
+(S//REL) QUANTUMDNS: An Integrated Cyber Oper
+
+NSA
+
+Command Sent
+
+Implan
+
+Implant
+Comman
+d &
+
+Control
+
+TOP SECRET//COMINT//REL USA, FVEY
+
+Connect
+
+DNS query
+NIPRNET
+Anysite.mil?
+
+TAO Shooter
+
+TARGET SPACE
+
 Blocked
-Server
 
-DNS Found
-Serve
+NIPRNET
 
+Anysite.mi
+I Server
 
+TOP SECRET//COMINT//REL USA, FVEY
 
-PR ET C9
-Anysite.m|]     
-Server Implant
+(S//REL) QUANTUMDNS: As Used Against BOXING
 
-6)
+NSA
 
- 
+Command Sent
 
+Implan
 
-Control
+Implant
+Comman
+d &
 
-I TOP USA, FVEY
+	■ IP is 1.2.3.4
+■IS  le	TAO C2  mirrorsAnysite.mil C2
+	
 
-   
+TOP SECRET//COMINT//REL USA, FVEY
 
-TOP USA, FVEY
+TOP SECRET//COMINT//REL USA, FVEY
 
-QUANTUMDNS: As Used Against BOXING
+(U//FOUO) BOXINGRUMBLE Case Stud
 
-    
-  
- 
+I
 
-  IP is 1.2.3.4
+(TS//SI//REL) TAO establishes itself
+as a trusted C2 node
 
-j.  TAO c2
-. mirrors Anysitemil C2
+/ \ \
 
- 
-
- 
-
- 
-
-    
-   
-  
-
- 
-
-43;? DNS query
-NIPRNET DNS answer A
-
-Anysitemil? and it's [p is 1
-
-Connect to server 1.2.3.4
-. 
-
-
-
-
-nYSite.Com 
-234 Ound
-
- 
-
- 
-
-NIPRNET 
-
-
-.  
-
-I I I
-t' ?3.22"
-
-
-Control
-
-TOP USA, FVEY
-
- 
-
-TOP USA, FVEY
-
-BOXINGRUMBLE Case Stud
-
-   
-
- 
-
- 
-
- TAO c2
-Server
+(U//FOUO) Captured traffic indicates
+the existence of a bot net
 
 Open Web
 Proxies
 
- 
+Victims (Bots
+)
 
-TAO establishes itself
-as a trusted CZ node
+TAO C2
 
-Captured traffic indicates
-the existence of a bot net
+Server
 
-Command and control split
+-	(S//REL) Command and control split
 into two layers (C2 and C4)
 
-C2 layer has a peer-to-peer
+-	(S//REL) C2 layer has a peer-to-peer
 mesh network topology with direct
 connection to a C4 node
 
-CZ nodes connect directly
+• (S//REL) C2 nodes connect directly
 to victims as well as through open
 web proxies
 
-   
-  
+NSA and ^
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-NSA and 
 TAO
+
 Covert
+
 Infrastructu
+
 re
 
+V
 
 
- 
 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TOP TO USA, AUS, CAN, GBR, NZL
+TOP SECRET//COMINT//REL USA, FVEY
 
-   
+(U//FOUO) BOXINGRUMBLE Case Stud
 
-TOP USA, FVEY
+ÜS
 
-BOXINGRUMBLE Case Stud
+feu
 
- 
+JËÈ
 
 Bot
+
 Commander
 
- 
+	m  ï W>h«v<vi	(«n | Trusted C4 (ÉsJ Nodes MM, 2-3 Nodes	
+	/T^>	C X	V J  \ s
 
-  
-   
-
-Nodes
-
-Trusted C4
-2-3 Nodes
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TAO C2
-Server
-
- 
- 
- 
-  
- 
-  
-  
-  
-
- 
-
- Open Web 
- Proxies
-
-
-Victims (BotsN
-
- 
-
- 
-
- 
-
-  
-
-
-200k Max
-
- 
-
- 
-
- 
-
- 
-
-C2 server can
+(TS//SI//REL)TAO C2 server can
 see all bot tasking
 
-TAO C2 server can
+(TS//SI//REL) TAO C2 server can
 push tasking
 
-BOXINGRUMBLE bots
-45% Vietnamese dissidents
-~45% Chinese dissidents
-~10% Other
+(S//REL) BOXINGRUMBLE bots
 
-Adding
+-	(S//REL) - 45% Vietnamese dissidents
+
+-	(S//REL) -45% Chinese dissidents
+
+-	(S//REL) -10% Other
+
+(TS//SI//REL) Adding
 BOXINGRUMBLE bots to
 DEFIANTWARRIOR
 
- 
+»mm **
 
- 
+NSA and
 
- 
-
-
-
-NSA and 
 TAO
 
 Covert
-Infrastructu
 
-  
+Infrastructu
 
 re
 
- 
+^EFIANTWARRIOR Implant
 
-WFIANTWARRIOR Implant
+TOP SECRET//COMINT//REL USA, FVEY
 
- 
+(U) There is	to
 
-TOP USA, FVEY
+Name	Description	Inceptio  n  Date	Status	Operational  Success
+CNE				
+QUANTUM INSERT	•	Man-on-the-Side technique  •	Briefly hi-jacks connections to a terrorist website  •	Re-directs the target to a TAO server (FOXACID) for implantation	2005	Operatio  nal	Highly Successful  (In 2010, 300 TAO implants were deployed via QUANTUMINSERT to targets that were un-exploitable by any other means)
+QUANTUMBOT	•	Takes control of idle IRC bots  •	Finds computers belonging to botnets, and hijacks the command and control channel	Aug 2007	Operatio  nal	Highly Successful  (over 140,000 bots co-opted)
+QUANTUM BISCUIT	•	Enhances QUANTUMINSERT's man-on-the-side technique of exploitation  •	Motivated by the need to Ql targets that are behind large proxies, lack predictable source addresses, and have insufficient unique web activity.	Dec 2007	Operatio  nal	Limited success at NSAW due to high latency on passive access  (GCHQ uses technique for 80% of CNE accesses)
+QUANTUMDNS	•	DNS injection/redirection based off of A Record queries.  •	Targets single hosts or caching name servers.	Dec 2008	Operatio  nal	Successful  (High priority CCI target exploited)
+QUANTUMHAND	Exploits the computer of a target who uses Facebook	Oct 2010	Operatio  nal	Successful
+QUANTUMPHANTO  M	Hijacks any IP on QUANTUMable passive coverage to use as covert infrastructure.	Oct 2010	Live  Tested	N/A
+CNA				
+QUANTUMSKY	Denies access to a webpage through RST packet spoofing.	2004	Operatio  nal	Successful  TS//SI//REL
+| QUANTUMCOPPER	File download/upload disruption and corruption.	Dec 2008	Live	N/A
 
-  
+TOP SECRET//COMINT
 
-QUANTUMINSERT
+(U//FOUO) QUANTUMÍ
 
-QUANTUMBOT
+Internet
 
-QUANTUMBISCUIT
-
-QUANTUMDNS
-
-QUANTUMHAND
-
-QUANTUMPHANTO
-
-
-QUANTUMSKY
-
-I QUANTUMCOPPER
-
-Description
-
-CNE
-
-- Man-on-the-Side technique
-- Briefly hi-jacks connections to a terrorist
-website
-
-- Re-directs the target to a TAO server (FOXACID)
-
-for implantation
-
-- Takes control of idle IRC bots
-- Finds computers belonging to botnets, and
-hijacks the command and control channel
-
-- Enhances QUANTUMINSERT's man-on-the-side
-technique of exploitation
-
-- Motivated by the need to Ql targets that are
-behind large proxies, lack predictable source
-addresses, and have insufficient unique web
-activity.
-
-- DNS injection/redirection based off of A Record
-queries.
-- Targets single hosts or caching name servers.
-
-Exploits the computer of a target who uses
-Facebook
-
-Hijacks any IP on passive coverage to
-use as covert infrastructure.
-
-CNA
-
-Denies access to a webpage through RST packet
-spoo?ng.
-
-File download/upload disruption and corruption.
-
-lnceptio
-
-Date
-
-2005
-
-Aug2007
-
-Dec 2007
-
-Dec 2008
-
-Oct 2010
-
-Oct 2010
-
-2004
-
-Dec 2008
-
-Status
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Live
-Tested
-
-Operatio
-nal
-
-Live
-
-Operational
-Success
-
- 
- 
-
-Highly Successful
-(In 2010, 300 TAO implants
-were deployed via
-QUANTUMINSERT to targets that
-were un-exploitable by any
-other means)
-
-Highly Successful
-
-(over 140,000 bots co-opted)
-
-Limited success at
-NSAW due to high
-
-latency on passive
-
-access
-(GCHQ uses technique for 80%
-of CNE accesses)
-
-Successful
-(High priority CCI target
-exploited)
-
-Successful
-
-
-
-Successful
-
-
-
-TOP USA, FVEY
-
-QUANTUMSMACKDOW
-
- 
-
- 
-
-       
- 
- 
-
- 
-
-Defensi
-ve
-
- 
-
-NSA Spac
-
-
-
- 
-
- 
-
- 
-
- 
- 
-
-
-
- 
-
-
-
-
-
-   
-
-NIPRNET
-
- 
-
- 
-
- 
-
-REPOSITORY
-
-A client requests connection to malicious server.
-
-Request is detected by TURMOIL. CLOUDSHIELD
-terminates client-side connection.
-
-A The malicious server?s response is blocked by
-
-CLOUDSHIELD.
-
-TURMOIL tips TURBINE, which then tasks a shooter to
-
-send the acknowledgement to the malicious server.
-
-Malicious server assumes connection and forwards
-
-TOP USA, FVEY
-
- 
-
-TOP USA, FVEY
-
-Future Capability: QUANTUMSAND
-
- 
-
-    
-   
- 
-  
-
-Take 
-
-execut?igi      
-enviro  ..  
-
-- Allow  
-
- 
-
-   
- 
-  
-
-    
-    
-
-    
-
- 
+TOP SECRET//COMINT
 
 NSA Space
 
-   
+/REL USA, FVEY
 
- 
+;mackdow
 
- 
+OOlCi.: 71 {? it ¡7 20 5)
+OOiCfc: 65 6; 74 69 ir 6E
+003 Oh: 01- 01 75 ’3 <9 6E
+oo«h: sr « to tr ti 65
 
- 
+OOSifc: 76 75 69 it <7 2J
+OOiCb. Si 22 00 OJL 12 72
+00706: 2C 44 7Z U T7 H
+00806! 20 S! 79 73 14 65
+«Wife: 71 «6 it CJ 20 S3
+90106! 6F 77 73 it 46 6F
+OOBOfc: 67 20 40 6» O 73
+OOCOh: 4f 77 73 1P if *i
+OODOfc: 73 7J 51 74 65 6f
+00106: 49 69 S3 77 <F 73
+OOFOb; 0> 01 »5 7J <s «
+01006: 0“ Si »1 08 CF 72
 
- 
+OllOfc: 6E f' 20 S3 79 73
+01206: 72 6$ SE 67 20 S3
+0130bi 76 72 S3 6S 7J 3»
+0140b.- 72 71 65 «. JE 52
+0150b: 65 72 6F 70 53 65
+■jliOfc: 7} 6$ 6E 57 20 S3
+01706: Ot> O* OB 01 3F 2F
 
- 
+79 71 74 «5 «0 21 43 SF
+7} 21 17 65 6E «5 72 SO
+67 2C 53 79 73 76 «5 it
+ez 74 41- tr 64 65 6C 38
+S3 7* 73 74 6S 21 44
+SF St «7 20 53 7» 73 74
+6E 6'. >8 00 01 75 73 69
+60 21 54 «5 76 74 3» 0®
+79 73 74 45 60 21 S' S4
+72 6C 73 IB 00 01 7S 73
+«r 73 »r « ti :t r ss
+49 4< 65 it 43 6r 6E 61
+6E 38 OP 0* 75 73 69 6E
+67 «4 74 !F 47 *9 6t 33
+67 20 53 ”9 73 74 65 6t
+74 69 63 •’» 36 OP 0» 75
 
-TOP USA, FVEY
+74	65 SP 2t 49 1F 3» 3t
+79 71 74 65 <P 21 52 6!
+OP 01 ?S 7» 69 4E 61 20
 
-TOP USA, FVEY
+75	6E 71 69 SB 65 2E 49
+72 74 69 63 65 73 31 01
+79 73 71 65 iP 2E 58 61
+)a «4 « i! 73 45 28 6«
+
+tc 60	*»*9 5Y»««*.Coll
+
+63 38 ections.Generic;
+:z O ..using S/BtBB.C
+05 01 o»coaen:H<xie ..
+61 ’4 wins St*t«»-Pm
+«5 <P a. -. mug Syst:»
+
+»1 ti .L-ra»ing:. .usine
+01’5 Syb:«b>.T*xc:-.t
+it 64 .i>m 3yi-.-n.eiiu:
+
+<E 64 y Biu-iu.utt.BmC
+6S i~ ottsaoBi.e.ccatcc
+67 20 utstton;..
+
+32 3B »irtOMd till!:
+•E 14	5FS*e»-i
+
+73 69 lagr.oit :tr»; ..usi
+
+01 ’5 oa SF«» JO; .. v
+73 6F BIBO SyitBB.iBBC
+S3 79	«re**;-«*in» 5y
+
+6E 74 ittb. tuirun. Ini
+DAIS etepaervirsa;..u
+6C 38	81*3 5?itsi».)0el{
+
+73 20	....// There in
+
+00	00	00	00	00	00	F0	3F	80	00	eo	eo	00	DO	20	40		■?	6
+00	01	88	46	75	:d	R7	3F	M	86	9fl	5F	15	EF	C3	3E	. ,Fu=.7.
+F3	04	35	3F	00	E0	03	03	ae	00	oo	eo	00	ae	00	OO	.5?	
+65	23	39	38	30	00	00	03	ae	00	00	C0	7E	31	50	41	e-tt»	 --
+00	03	09	88	FF	FF	37	41	4?	73	50	72	6F	53	65	73		5CIsProces
+73	6F	72	■46	65	61	74	73	72	65	50	72	G5	73	65	GC	surf eaturePresen
+74	03	09	00	4B	45	52	4-	45	4C	33	52	86	30	00	00	t.. .KE9EL32....
+31	23	31	4E	41	•sE	03	03	31	23	49	•'E	46	ae	00	60	ISQNfiN. .liINF.. .
+31	23	49	4E	44	00	00	33	31	23	53	-E	41	4E	00	00	1I1HD.. .HSHflH. .
+52	53	44	53	91	82	FE	94	2S	AB	E5	<2	fl6	53	10	Ho	RSDS. .. .). ,B S. .
+02	04	69	98	10	ee	00	33	86	3fl	SC	41	7S	72	6F	72	i	WiTn
+61	5r	53	72	63	5C	41	75	72	6F	72	61	56	4E	43	5C	
+631	7n	63	sc	5?	FA	6C	FA	51	73	5S	SC	4!	Sfi	d3	2F	
+70	64	62	00	94	4D	03	13	ae	OC	00	CO	OO	00	00	00	S12- ti	
+FF	FF	FF	FF	30	00	00	00	at	»3	30	to	54	21	03	10	
+00	03	03	00	30	30	00	00	ae	ee	00	60	e:	ae	00	00	
+
+1.	A client requests connection to malicious server.
+Request is detected by TURMOIL. CLOUDSHIELD
+terminates client-side connection.
+
+2.	The malicious server's response is blocked by
+CLOUDSHIELD.
+
+3.	TURMOIL tips TURBINE, which then tasks a shooter to
+send the acknowledgement to the malicious server.
+
+4.	Malicious server assumes connection and forwards
+
+/REL USA, FVEY
+
+Internet
+N5A Space
+
+COMINT//REL USA, FVEY
+
+lity: QUANTUM SAN DiyL
+
+Take captured-malware and
+
+0020» 65 «I 78 69 6F 6E 73 il 17 «5 ÍE 65 72 t>? »;) IB fleiiDXlB,
+
+execute in controlled
+
+■	iJQGOa: Si it OB DA 7S 73 8? 8E 6'
+
+environment. 4 . :■ , :
+
+sr 77 71 II *
+
+!ï««o. tel 1
+teuerjc;
+
+2E lî ..usina Syjten.C
+
+Oti Ot rni>on*n']lod*! .
+
+lî 8t 61 78 -veina O/SÏ-ÏI».
+iO 33 79 7: 7* 83 SP . .usiaq Syate»
+OD OA 7S 73 6í «i 57 .Dravsn?:. usine
+65 78 78 ïî û» OA 75 SyscsŒ.Teït:.. u
+■ 3 7» 7) 78 «6 (8 SK S7 69 «t : 4 iln.f SyH**. 0>iw»
+
+73 >P DD OA 75 1
+
+69 5E
+
+Allow llitft jjflg i i i ggf IBM lüfêF“
+quanti|n§ $esjjfô |ïièl mïh ipyè®
+
+world
+
+ailOh: 6E 67 20 53 7J 73 78 6S	ff 39 03 OA
+
+PlJObl	73	SP	SE	67	JO	S3	7D	7\^f	VWss	*5	71
+
+D130E:	75	7J	6:	SS	73	JB	OP	«	67	¡0	51
+
+0180hl	73	78	65	61	2E	Í2	75	6Ï	78jHrjP	S5	2S	89	6t	7
+
+0350h;	65	71	er	70	53	< 5	72	ÎS	03	OA	7
+
+«lag *y.*«».P«*o
+
+iirceo;. .Wim Sr
+*ctn.Ru95Uw.Iní
+PB36ED1
+
+Will béablëto:'5^H^l^íñg,':gJet:
+later s
+-dis-info]
+
+,,g toa ye 20 ^0
+
+Or J- »S EF C: -E
+
+..57............
+
+c*ran.......
+
+ire Malware Test Environ
+
+» E5 42 AS 53 ie 08 RSDS.
+
+\ W> !.. .K0JHEL32....
+>00 14QNRH. • 1#I1F...
+JOB 1IIN3...lOSMHh..
+
+C2 04 63 98
+61 5F 53 72
+¿1 76 63 SC
+70 64 62 00
+FF FF F= FF
+60 00 03 00
+
+i© 00 00 eo
+63 5C 41 75
+52 65 6C 65
+94 4D 03 10
+00 m «Pl Ffl
+00 00 00 60
+
+66 30 5C 41
+72 5F 72 61
+61 73 SE SC
+00 00 30 60
+00 00 * 00
+00 08 30 00
+
+75 72 6F 72
+55 4E 43 5C
+41 56 43 2E
+00 00 00 00
+54 21 03 1«
+01 00 00 00
+
+Victim
+
+OMINT//REL USA, FVEY
+
+TOP SECRET//COMINT//REL USA, FVEY
 
 (U) Future Work
 
- 
+•	(U//FOUO) Develop lower latency guards
 
-Develop lower latency guards
+•	(S//REL) Use TUTELAGE inline devices as our
+“shooter”
 
-Use TUTELAGE inline devices as our
-?shooter?
+•	(U//FOUO) Push decision logic to the edge
 
-Push decision logic to the edge
+•	(U//FOUO) Identify more mission opportunities
 
-Identify more mission opportunities
-
-- Continue developing and deploying
+•	(U//FOUO) Continue developing and deploying
 additional QUANTUM capabilities
 
-TOP USA, FVEY 16
+TOP SECRET//COMINT//REL USA, FVEY
 
-   
+16
 
-(U) There is More Than One Way to
+(U) There is	to
 
-TS/lSl/l
-Name
+Name	Description	Inceptio  n  Date	Status	Operational  Success
+CNE				
+QUANTUM INSERT	•	Man-on-the-Side technique  •	Briefly hi-jacks connections to a terrorist website  •	Re-directs the target to a TAO server (FOXACID) for implantation	2005	Operatio  nal	Highly Successful  (In 2010, 300 TAO implants were deployed via QUANTUMINSERT to targets that were un-exploitable by any other means)
+QUANTUMBOT	•	Takes control of idle IRC bots  •	Finds computers belonging to botnets, and hijacks the command and control channel	Aug 2007	Operatio  nal	Highly Successful  (over 140,000 bots co-opted)
+QUANTUM BISCUIT	•	Enhances QUANTUMINSERT's man-on-the-side technique of exploitation  •	Motivated by the need to Ql targets that are behind large proxies, lack predictable source addresses, and have insufficient unique web activity.	Dec 2007	Operatio  nal	Limited success at NSAW due to high latency on passive access  (GCHQ uses technique for 80% of CNE accesses)
+QUANTUMDNS	•	DNS injection/redirection based off of A Record queries.  •	Targets single hosts or caching name servers.	Dec 2008	Operatio  nal	Successful  (High priority CCI target exploited)
+QUANTUMHAND	Exploits the computer of a target who uses Facebook	Oct 2010	Operatio  nal	Successful
+QUANTUMPHANTO  M	Hijacks any IP on QUANTUMable passive coverage to use as covert infrastructure.	Oct 2010	Live  Tested	N/A
+CNA				
+QUANTUMSKY	Denies access to a webpage through RST packet spoofing.	2004	Operatio  nal	Successful  TS//SI//REL
+| QUANTUMCOPPER	File download/upload disruption and corruption.	Dec 2008	Live	N/A
 
-QUANTUM
-
-Description
-
-Inceptio
-
-Date
-
-Status
-
- 
-
-Operational
-Success
-
-QUANTUMINSERT
-
-QUANTUMBOT
-
-QUANTUMBISCUIT
-
-QUANTUMDNS
-
-QUANTUMHAND
-
-QUANTUMPHANTO
-
-
-- Man-on-the-Side technique
-
-- Briefly hi-jacks connections to a terrorist
-website
-
-- Re-directs the target to a TAO server (FOXACID)
-for implantation
-
-- Takes control of idle IRC bots
-- Finds computers belonging to botnets, and
-hijacks the command and control channel
-
-- Enhances QUANTUMINSERT's man-on-the-side
-technique of exploitation
-
-- Motivated by the need to Ql targets that are
-behind large proxies, lack predictable source
-addresses, and have insufficient unique web
-activity.
-
-- DNS injection/redirection based off ofA Record
-queries.
-- Targets single hosts or caching name servers.
-
-Exploits the computer of a target who uses
-Facebook
-
-Hijacks any IP on passive coverage to
-use as covert infrastructure.
-
-2005
-
-Aug 2007
-
-Dec 2007
-
-Dec 2008
-
-Oct 2010
-
-Oct 2010
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Operatio
-nal
-
-Live
-Tested
-
-Highly Successful
-(In 2010, 300 TAO implants
-were deployed via
-QUANTUMINSERT to targets that
-were un-exploitable by any
-other means)
-
-Highly Successful
-
-(over 140,000 bots co-opted)
-
-Limited success at
-NSAW due to high
-
-latency on passive
-
-access
-(GCHQ uses technique for 80%
-of CNE accesses)
-
-Successful
-(High priority CCI target
-exploited)
-
-Successful
-
-
-
-QUANTUMSKY
-
-I QUANTUMCOPPER
-
-Denies access to a webpage through RST packet
-spoo?ng.
-
-File download/upload disruption and corruption.
-
-2004
-
-Dec 2008
-
-Operatio
-nal
-
-Live
-
-Successful
-
-
-
-TOP USA, FVEY
-
- 
-
- 
-
-(U) 
+(U) QUESTIONS?
 
 For more information, please contact:
 
-- TUTELAGE VS 
+TUTELAGE -
+QUANTUM -
+TURBINE -
+BOXINGRUMBLE -
 
-- QUANTUM - s32x 
+VS
 
-- TURBINE T1412 
+I, S32X (I
 
-- BOXINGRUMBLE F22 
+L T1412
 
-TOP USA, FVEY 18
+, F22 (I
 
-     
+TOP SECRET//COMINT//REL USA, FVEY
 
+18

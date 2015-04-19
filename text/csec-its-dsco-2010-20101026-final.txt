@@ -1,1281 +1,1018 @@
-TOP SECRET
+﻿TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
-     
-  
-
- 
-
-     
-
-CSEC ITSINZE
+CSEC ITS/N2E
 Cyber Threat Discovery
-
- 
-
-DISCOCON 2010
-A CND Perspective
-
- 
-
-Safeguarding Canada?s security through information superiority dl??
-Pr?server la s?curit? du Canada par la sup?riorit? do I ?information  a
-
-X. .
-
-TOP SECRET
-
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-N2E Cyber Threat Discovery
-
-Discovery: Context Sitrep
-- Current Capabilities
-- CND Metadata Analysis at Scale
-
-Safeguarding Canada?s security through information superiority Cr"
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
-  
-
-TOP SECRET
-
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
- 
-
- - - 
-
-    
-
- 
-
-N2E Context
-
-Within CND operations concentrated in N2
-- Core: incident response team (alerts analysis mitigation advice)
-
-Malware/RE VR teams
-
-0 Discovery has always been a required activity within N2
-IR often takes precedence
-
-N2E established to focus effort on discovery
-Hunting vs. firefighting: new threats, techniques, tradecraft
-
-Iterations of hypothesis based research/analysis
-What evidence is there in the data of compromised systems?
-- What new threats or techniques can we find operating against us?
-Development of effective anomaly detection/heuristic techniques
-- How can we better detect these new threats in the future?
-Shape capability development priorities
-
-Safeguarding Canada?s security through information superiority  dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
-3
-?45 
-
-TOP SECRET
-
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
- 
-
- 
-
- ?Sitrep
-
-    
-
- 
-
-.s.
-.
-
-Team formally established earlier this year
-Growing to 7; hiring underway, strong candidates in pipeline
-- Excellent access to full take data
-- Analytical environment improving
-- Progress on policy support
-
-Use of intercepted private communications
-Sharing mechanisms
-
-Safeguarding Canada?s security through information superiority - 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information a
-
-s: -
-
-$3
 
 I
 
-53?
+
+
+DISCOCON 2010
+
+
+
+m/4
+
+A CND Perspective
+
+# *1
+I
+
+
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ * ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+N2E Cyber Threat Discovery
 
- 
+•	CSEC/ITS Discovery: Context & Sitrep
 
-   
+•	Current Capabilities
 
- 
+•	CND Metadata Analysis at Scale
 
- 
+Safeguarding Canada’s security through information superiority
 
-Our Haystack
+Préserver la sécurité du Canada par la supériorité de l’information
 
-- Three individual clients
-
-10?s - low 1000?s of signature based alerts each day
-(majority false positive)
-
-Soon: ?official? Internet gc.ca aggregation point
-
- 
-
-- Full pcaps (retention: days to months)
-1?s - 10?s TB of passively tapped network traffic each day
-
-- Metadata (retention: months to years)
-10?s - 100?s GB of non?indexed, textual, network metadata/ day (descrip
-
-  
-
-Safeguarding Canada?s security through information superiority dl?"
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
-  
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+N2E Context
 
- 
+•	Within CSEC/ITS, CND operations concentrated in N2
 
- 
+-	Core: incident response team (alerts -> analysis -> mitigation advice)
 
- 
-   
+-	Malware/RE & VR teams
 
- 
+•	Discovery has always been a required activity within N2
 
-Toolset
+-	IR often takes precedence
 
-- Homemade wrappers for heuristic detection tools
-- Popquiz/Slipstream for metadata
+•	N2E established to focus effort on discovery
 
+-	Hunting vs. firefighting: new threats, techniques, tradecraft
 
- 
+-	Iterations of hypothesis based research/analysis
 
-find xargs grep sed 
-out awk sort uniq ?c 
-perl python
+•	What evidence is there in the data of compromised systems?
 
-Safeguarding Canada?s security through information superiority
+•	What new threats or techniques can we find operating against us?
 
-IOI
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information 
+-	Development of effective anomaly detection/heuristic techniques
 
- 
- 
+•	How can we better detect these new threats in the future?
 
-TOP SECRET
+•	Shape capability development priorities
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
- 
-
-  
-
- 
-
-HomemadeWrappers:
-SMTP processing
-
-BBall wrapper to process all email attachments
-
-Cuts and re-rebuilds SMTP session from full packet captures
-- Extracts and logs metadata from SMTP and RFC822
-- Extracts attachments and sends it to a cluster of BBall services
-
-Wrapper able to manage other deep scan tools AV)
-Aggregates results from scans 
-
-Generates alerts for to look at with full SMTP pcap
-- Catches new implants or first stage delivered using attachments
-
-Safeguarding Canada?s security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a.
-
-
-5:2, 
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
-Homemade Wrappers; Stripsearch
+I . I Establishment Canada des télécommunications Canada
 
-Automated binary analysis
+N2E Sitrep
 
-Recursiver runs binary through the following tools:
+•	Team formally established earlier this year
 
- 
+-	Growing to 7; hiring underway, strong candidates in pipeline
 
-Correlation with file repository and reports
-Future: greater degree of automation
+•	Excellent access to full take data
 
-n;c?
+•	Analytical environment improving
 
+•	Progress on policy support
 
-h.
+-	Use of intercepted private communications
 
-lum-  r? A JrbanaCc Liw ?L?Hii?i inf??nraffgi? 
+-	Sharing mechanisms
 
-.. 
-
-. 
-
-1,SGCUHTE Cm -7. 35:5; 530.! 5a de 1? inTOiffratiu .  a
-.. .
-
-3" it(I)
-
-
-
-TOP SECRET
-
-Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
- 
-
- 
-
-Safeguarding Canada?s security through information superiority
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information?
-
-1
-
-
- 
-
- 
-
-a; .
-
-
-  
-
- 
-
-Metadata
-
-I Standard Flows (with protocol guessing)
-- DNS
-
-Queries Answers and beaconing
-SMTP
-
-RFC 788 (SMTP), RFC 822 (2822, 5322) Internet Message
-Format
-
-HTTP
-All server-side headers
-User-Agent summary
-List of POST without a GET, URLs and PE downloads
-
-IOI
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
 Canada
 
 
-TOP SECRET
 
-Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
 
-    -
-
-Canad'a'
-
-10
-
- 
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
+Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
-m, .
 
- 
 
- 
+Our Haystack
 
--
+
+
+Three individual clients
+
+- 10’s - low 1000’s of signature based alerts each day
+(majority false positive)
+
+Soon: “official" Internet gc.ca aggregation point
+
+Full pcaps (retention: days to months)
+
+-	l’s - 10’s TB of passively tapped network traffic each day
+
+Metadata (retention: months to years)
+
+-	10’s - 100’s GB of non-indexed, textual, network metadata / day (descrip
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+Toolset
+
+•	Homemade wrappers for heuristic detection tools
+
+•	Popquiz/Slipstream for metadata
+
+•	And...
+
+$ find | xargs | grep | sed |
+cut | awk | sort | uniq -c |
+perl | python
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+■ ^ ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+	
+^ I	
+
+Homemade Wrappers: PonyExpress
+
+SMTP processing
+
+8Ball wrapper to process all email attachments
+
+•	Cuts and re-rebuilds SMTP session from full packet captures
+
+•	Extracts and logs metadata from SMTP and RFC822
+
+•	Extracts attachments and sends it to a cluster of 8Ball services
+
+-	Wrapper able to manage other deep scan tools (e.g. AV)
+
+-	Aggregates results from scans asynchronously
+
+•	Generates alerts for analysts to look at with full SMTP pcap
+
+•	Catches new implants or first stage delivered using attachments
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+_____
+
+Homemade Wrappers: Stripsearch
+
+Automated binary analysis
+
+• Recursively runs binary through the following tools:
+
+•	Correlation with file repository and reports
+
+•	Future: greater degree of automation
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+■ ^ ■ Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+Metadata
+
+•	Standard Flows (with protocol guessing)
+
+•	DNS
+
+-	Queries / Answers and beaconing
+
+•	SMTP
+
+-	RFC 788 (SMTP), RFC 822 (2822, 5322) Internet Message
+Format
+
+•	HTTP
+
+-	All server-side headers
+
+-	User-Agent summary
+
+-	List of POST without a GET, URLs and PE downloads
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+Metadata: ¡findmask
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+l+l
+
+Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 Noteworthy Catches
 
 WMI-based implant
 
-- Trend Micro has a good report this type of implant
+•	Trend Micro has a good report this type of implant
+
+http://us.trendmicro.com/imperial/md/content/us/trendwatch/researchanda
+
+•	Uses WMI for persistence instead of Registry or Boot sector
+
+-	Reside in ActiveScriptEventConsumer
+
+-	First seen in September 2009
+
+See RFI_20091023_280_1 and IXR_20100909_732_1
+
+-	Caught with Pony Express
+
+-	Stripsearch fuzzy correlation linked it with previous reports
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 
-- Uses WMI for persistence instead of Registry or Boot sector
-Reside in ActiveScriptEventConsumer
 
-First seen in September 2009
-See and 
+il
 
-Caught with Pony Express
-Stripsearch fuzzy correlation linked it with previous reports
 
-Safeguarding Canada ?5 security through information superiority (1WI
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
- 
- 
 
 TOP SECRET
 
-Establishment Canada des telecommunications Canada
+■ ^ H Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+■i
 
- 
-
-2:137.  f} .. .
-
- 
-
-I  Communications Security Centre de la s?curit?
-
-     
-
-Noteworthy Catch 3
+Noteworthy Catches
 
 Google IP addresses used as a sleep command
 
-From DNS metadata
+• From DNS metadata
 
-When call back domain was queried, a Google IP was used as a sleep
-command. Searching for Google IPs In DNS metadata revealed new
+- When call back domain was queried, a Google IP was used as a sleep
+command. Searching for Google IPs in DNS metadata revealed new
 TROPPUSNU domains and infected workstations.
 
 Suspicious RDP and TOR sessions
 
-- From Flow metadata we identified:
+• From Flow metadata we identified:
 
 RDP
-Incoming RDP sessions from various locations to the RDP service (uses
+
+-	Incoming RDP sessions from various locations to the RDP service (uses
 the same certificate)
 
-Still under investigation
-
+-	Still under investigation
 TOR
 
-Was picked-up as a suspicious burst of outgoing SSL connections going to
-several locations from a smgle source
+-	Was picked-up as a suspicious burst of outgoing SSL connections going to
+several locations from a single source
 
-Safeguarding Canada?s security through information superiority a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information
+Canada
 
-  
+
+
+
+
+
+
+12
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de ia sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+Noteworthy Catches: TOR...
 
- 
+•	Most likely a breach of Internet usage policy
 
-a .
-i
-- .v
+•	All SSL CERTS were:
 
-Noteworthy Catches: 
+-	Self-signed
 
-  
-
- 
-
- 
-
- 
-
-- Most likely a breach of Internet usage policy
-
-- All SSL CERTS were:
-Self-signed
-Certificate has a validity window of just 2 hours 101017152421Z
+-	Certificate has a validity window of just 2 hours (e.g. 101017152421Z
 to 101017172421Z)
 
-Issuer name appears to be a randomly generated fully qualified
-domain name (FQDN), unique for each destination IP 
+-	Issuer name appears to be a randomly generated fully qualified
+domain name (FQDN), unique for each destination IP (e.g.
+www. b2wwzd u vdc5jyty3s7 .net)
 
+-	Common Name (CN) field appears to be a randomly generated FQDN
+unique for each session (e.g. www.xehzhl3cip.net)
 
-Common Name (CN) field appears to be a randomly generated FQDN
-unique for each session 
+Safeguarding Canada’s security through information superiority
 
-Safeguarding Canada ?5 security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a.
+Préserver la sécurité du Canada par la supériorité de l’information
 
-
-
-.
-..
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
-
-      
-
-- 
-
- 
+Noteworthy Catches: TOR
 
 
 
-- All sessions for October 17 extracted from pcap using the following
+
+
+All sessions for October 17 extracted from pcap using the following
 ngrep HEX string:
 
-ngrep pcap ?tq ?x@1700313031303?
+$ ngrep -I pcap -tq -X/^<5A170D313031303i:
 
- 
+T 2010/10/17 15:49:00.699087
+(...
 
- 
+vdc5jyty3s7. net0(...x...)
 
-  
- 
+.X.X.43:61469 [AP]
 
-2010/10/17 15:49:00.699087 
+..10101715242ÜZ..10101^172421Z0%1#0!..U....WWW.b2wwzdu
 
-. 
-vdc5jyty357 . 
-
-The string is the end of validity period (Date Only)
+- The string is the end of validity period (Date only)
 
 Snort signature could be generated for looking at CERTS with
 validity period starting/ending same day
 
-Safeguarding Canada?s security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information an a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-It .
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
-  
-
-
-
-
-   
-
- 
-
- 
+^^—'11II' '	^—EZZ  - -.
 
 CND Metadata Analysis at Scale
+
 Selected SAWUNEH Results
 
- 
-      
-
-  
-
-Congratulations,
-it only fuck you
-65199 seconds
+www jolyon.co.uk
 
 
 
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a.
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
+Canada
 
-_n
+15
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
-  
+General Problem: Information Overload
 
- 
+•	What is ‘at scale’ for CSEC CND?
 
-    
-   
+•	Problem: too much data
 
+- Acquired, retained, summarized, analyzed, presented to analysts
 
- a i_
+•	Opportunities at all tiers of system. Selected SAWUNEH topics
+help in one or more of these areas
 
-Problem: Information Overload
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
-General
-
-- What is ?at scale? for CSEC 
-
-Problem: too much data
-Acquired, retained, summarized, analyzed, presented to 
-
-Opportunities at all tiers of system. Selected SAWUNEH topics
-. help in one or more of these areas
-
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
- 
- 
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
-What is 
+Establishment Canada des télécommunications Canada
 
- 
+What is SAWUNEH?
 
- 
+•	Literally: ‘Summer Analytic Workshop Up North EH’
 
- 
+-	Annual data analysis workshop hosted at CSEC by crypt-math shop
 
-   
+-	2010 thrust was CND
 
- 
+-	Reps from each of the 5 eyes + cleared researchers
 
-Literally: ?Summer Analytic Workshop Up North 
-Annual data analysis workshop hosted at CSEC by shop
-2010 thrust was CND
-Reps from each of the 5 eyes cleared researchers
+•	Helps fill the (sparsely inhabited) plane that often exists between
+OpsDev and R&D
 
-- Helps fill the (sparsely inhabited) plane that often exists between
-OpsDev and 
+•	Special Assets: Netezza, Cray XMT
 
-Special Assets: Netezza, Cray XMT
+Safeguarding Canada’s security through information superiority
 
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I 'information  a
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 
-   
-   
+•	E-mail based content delivery attacks against GC *very* common
 
-
-3i .
-
-Topic 1: Correlating ?E-Mail, Web, Flow? Metadata
-
- 
-
-E-mail based content delivery attacks against GC *very* common
-
-- CND capability rapidly developed deployed; heavily relies on attachment
+•	CND capability rapidly developed & deployed; heavily relies on attachment
 scanning
 
-The inevitable evasion
+•	The inevitable evasion
 
-Attacks now commonly use email as inducement to URL visit, instead of direct
-content delivery. .
+-	Attacks now commonly use email as inducement to URL visit, instead of direct
+content delivery.
 
-- Too many benign hyperlinks delivered over email
-Need to reduce metadata presented to front line 
+•	Too many benign hyperlinks delivered over email
 
-Safeguarding Canada ?5 security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a.
+-	Need to reduce metadata presented to front line analysts
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
-.5133?
+Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 
-       
+Reducing Email URL metadata volume delivered to front line analysts
 
- 
-
- 
-
-Topic 1: Correlating ?E?Mail, Web, Flow? Metadata
-
-Reducing Email URL metadata volume delivered to front line 
-
-Select highly suspicious subset of Email URL metadata based on
+•	Select highly suspicious subset of Email URL metadata based on
 correlation
 
-- Only present ?Email metadata if:
-Email was inbound
-Contained one or more hyperlinks
-Hyperlink nominated as suspicious
-Hyperlink was actually visited by a recipient.
-Provide flow and metadata for resulting HTTP session
+•	Only present ‘Email URL’ metadata if:
 
-Safeguarding Canada?s security through information superiority dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information a
+-	Email was inbound
 
-  
+-	Contained one or more hyperlinks
+
+-	Hyperlink nominated as suspicious
+
+-	Hyperlink was actually visited by a recipient.
+
+-	Provide flow and http metadata for resulting HTTP session
+
+Safeguarding Canada’s security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 
- 
-
-,1
-
- 
-
-     
-
- 71
-
-Topic 1: Correlating ?E-Mail, Web, Fl
 SAWUNEH approach
 
-Metad ata
-
-- Import EMAIL, URL, FLOW metadata into separate tables on the
+• Import EMAIL, URL, FLOW metadata into separate tables on the
 NETEZZA appliance (distributed db)
 
-- Single SQL Query to fill requirement:
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-    
-
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
- 
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+Establishment Canada des télécommunications Canada
 
- 
-
-      
-
- 
- 
-   
-
-. .
- . . v.
-?Arc xvi: - . - i
-
-. .s. 
-
-mail Web? attack detection
+‘Email + Web’ attack detection
 SAWUNEH Style
 
 
 
 Findings:
 
-50% of the unique results were malicious
-- Significantly lower false positive rates compared to URL inspection only
-- Result provides anomaly tip but also context at fingertips for analyst
+•	50% of the unique results were malicious
+
+•	Significantly lower false positive rates compared to URL inspection only
+
+•	Result provides anomaly tip but also context at fingertips for analyst
 
 Next Steps:
 
-- Better definition of ?suspicious? URL
-Automate extraction of web content from session for 
+•	Better definition of ‘suspicious’ URL
 
-Automate feeding of web payloads into content scanning system 2 partial mitigation
+•	Automate extraction of web content from session for analysts
+
+•	Automate feeding of web payloads into content scanning system = partial mitigation
 of the original evasion. Higher analyst productivity
 
-Safeguarding Canada?s security through information superiority a
+Safeguarding Canada’s security through information superiority
 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information
+Préserver la sécurité du Canada par la supériorité de l’information
 
-
-y. -
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
- 
- 
+Communications Security Centre de la sécurité
 
-   
+Establishment Canada des télécommunications Canada
 
- 
-
- 
-
- 
-  
-
- 
- 
-
-z? 7? 
+■
 
 Topic 2: Malicious Attachment Prediction
 
 Problem:
 
-- Our current email scanning system fully processes every email it sees in a modular
+•	Our current email scanning system fully processes every email it sees in a modular
 fashion
 
-- Works very well today, but we can?t afford to scale this approach ?as?is? to meet
+•	Works very well today, but we can’t afford to scale this approach ‘as-is’ to meet
 future requirements.
 
-- Large proportion of time spent in *Iate* stages of processing. especially deep scan
+•	Large proportion of time spent in *late* stages of processing., especially deep scan
 
 Possible Approach:
 
-- Can we predict which emails will score in the deep scan based only on metadata
+•	Can we predict which emails will score in the deep scan based only on metadata
 extracted during earlier processing phases?
 
-If so, can we drop those that have low probability of deep scan success?
+•	If so, can we drop those that have low probability of deep scan success?
 
-Safeguarding Canada?s security through information superiority dl?"
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information  a
+Safeguarding Canada’s security through information superiority
 
-. 
-4 r. .
-.
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
- 
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
+Communications Security Centre de la sécurité
 
- 
-
-   
-
-
+Establishment Canada des télécommunications Canada
 
 Malicious Attachment Prediction
 
- 
-
-- Given metadata from each processing phase, build a predictive model to selectively
-promote emails with high probably of non-zero scoring in 8?ball based on features
+•	Given metadata from each processing phase, build a predictive model to selectively
+promote emails with high probably of non-zero scoring in 8-ball based on features
 extracted early in processing
 
-- Choice of Predictive Model
-Random Forests: decision tree based classifier (Brleman 2001)
+•	Choice of Predictive Model
 
-- Take a feature set Xp) and a corpus of training samples with *known*
+- Random Forests: decision tree based classifier (Brieman 2001)
 
+•	Take a feature set (Xr... Xp) and a corpus of training samples with *known*
 classification as input. Generate Random Forest of decision trees to be used to
 prediction classification
 
-New samples pass through previously trained forest which yields probability that
+•	New samples pass through previously trained forest which yields probability that
 deepscan will be nonzero
 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information
+Safeguarding Canada’s security through information superiority
 
+Préserver la sécurité du Canada par la supériorité de l’information
 
-
-
-Safeguarding Canada?s security through information superiority  
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
-
-       
-   
-
- 
-
-    
-
- 
-
- 
+Establishment Canada des télécommunications Canada
 
 Malicious Attachment Prediction
-Data Reduction vs. ?lnteresting? Data Loss
+Data Reduction vs. ‘Interesting’ Data Loss
 
- 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-
-Ail Features
-- Meta Features
-Random
-Safeguarding Canada?s security through information superiority dl??
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
-
-
-3.
-
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
+Communications Security Centre de la sécurité
 
- 
-
-   
-   
- 
-
-.tw'
-
- 
-
- 
+Establishment Canada des télécommunications Canada
 
 Malicious Attachment Prediction
 
 Result:
 
-85% data reduction with 1-3% loss of ?interesting? emails
-Can discard majority of emails with minimal loss in positive hits
-- Prediction with model is relatively cheap (10,0005 features per second)
+•	85% data reduction with 1-3% loss of ‘interesting’ emails
+
+- Can discard majority of emails with minimal loss in positive hits
+
+•	Prediction with model is relatively cheap (10,000s features per second)
 
 Next steps:
 
-0 Extract those features which contribute most to prediction and incorporate
+•	Extract those features which contribute most to prediction and incorporate
 appropriate filters in each stage of email processing system with aim to discard
 early and often
 
-There are likely a few simple features contributing disproportionally to predictive
+•	There are likely a few simple features contributing disproportionally to predictive
 power: flow size, attachment size, attachment type etc
 
-Safeguarding Canada?s security through information superiority . dl?
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a.
+Safeguarding Canada’s security through information superiority
 
- 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
- 
-
- 
-
- 
-   
- 
-
-a? it? i mas:
-
- 
-
- 
+Establishment Canada des télécommunications Canada
 
 (Mini) Topic 3: PE Masquerade Detection
 
-Multiple threat actors observed masquerading Windows PE downloads using
-?benign? filename extensions (jpg, gif, etc)
+•	Multiple threat actors observed masquerading Windows PE downloads using
+‘benign’ filename extensions (jpg, gif, htm etc)
 
-We log metadata on HTTP sessions containing a PE header in content of first
+•	We log metadata on HTTP sessions containing a PE header in content of first
 packet (modules available in both SLIPSTREAM and POPQUIZ)
 
-Exclude entries with suffixes common to PE downloads (exe, bin, php, asp)
-Provide contextual metadata 1 click access to payloads
+-	Exclude entries with suffixes common to PE downloads (exe, bin, php, asp)
 
-- Easy to see entries that jumped out: file extensions such as .jpg, .gif highly
+-	Provide analysts contextual metadata & 1 click access to payloads
+
+•	Easy to see entries that jumped out: file extensions such as .jpg, .gif highly
 suspicious, often malicious
 
-- Also filter by ?uniqueness? over time to eliminate AV OS updates
+•	Also filter by ‘uniqueness’ over time to eliminate AV / OS updates
 
-- Next Step: automate extraction of pe masquerades and push through content
+•	Next Step: automate extraction of pe masquerades and push through content
 scanning system
 
-Safeguarding Canada?s security through information superiority 
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
- 
-
-TOP SECRET
-
-Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
-
-Safeguarding Canada?s security through information superiority
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information
-
-3..
-
- 
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
-- . . my a;
+Establishment Canada des télécommunications Canada
 
-Safeguarding Canada?s security through information superiority
-Pr?server la s?curit? du Canada par la sup?riorit? de I ?information
+Safeguarding Canada’s security through information superiority
 
--.
-IO.
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
+Canada
 
 TOP SECRET
 
-I  Communications Security Centre de la s?curit?
-Establishment Canada des t?i?communications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
-    
- 
-   
- 
+Establishment Canada des télécommunications Canada
 
- 
 
- 
 
-      
- 
 
- 
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
 
 Final Notes
 
 SAWUNEH outcomes made a few things clearer to us
-Our days of plain old grep as primary search tool are nearing an end
 
-- Relational provide us with a few key benefits:
-Simple indexing of existing metadata (sub second searches)
-ability to correlate easily across ?prlmary? metadata outputs
-significantly faster hypothesis testing
+•	Our days of plain old grep as primary search tool are nearing an end
 
-Depending on scale, DB over head may be too costly
-In such cases, still very useful tool for discovery work on finite snapshots
+•	Relational DB’s provide us with a few key benefits:
 
-Case be used .to test correlation hypothesis on finite data sets before spending significantly more cycles
-implementing a streaming on-line version.
+-	Simple indexing of existing metadata (sub second searches)
+ability to correlate easily across ‘primary’ metadata outputs
 
-Simple correlation techniques can provide high yield metadata to 
+-	significantly faster hypothesis testing
+
+•	Depending on scale, DB over head may be too costly
+
+-	In such cases, still very useful tool for discovery work on finite snapshots
+
+-	Case be used to test correlation hypothesis on finite data sets before spending significantly more cycles
+implementing a streaming / on-line version.
+
+•	Simple correlation techniques can provide high yield metadata to analysts
+
 Islands of primary metadata are becoming unwieldy
 
-Post processing of primary metadata (correlation, newness, uniqueness, reduction techniques etc)
-becoming a requurement to mitigate Information overload.
+-	Post processing of primary metadata (correlation, newness, uniqueness, reduction techniques etc)
+becoming a requirement to mitigate information overload.
 
-Safeguarding Canada?s security through information superiority (1WI
-Pr?server la s?curit? du Canada par la sup?riorit? de I?information  a
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-"it i
-?1
-J.
+Canada
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
- 
-
- 
-
-   
- 
-
- 
+Establishment Canada des télécommunications Canada
 
 Thanks
 
- 
- 
+cse-cst.gc.ca
 
-an;
+|@cse-cst.gc.ca
 
+cse-cst.gc.ca
 
+Safeguarding Canada’s security through information superiority
 
- 
+Préserver la sécurité du Canada par la supériorité de l’information
 
- 
-
-
-
- 
-
-
-
- 
-
-Safeguarding Canada?s security through information superiority It!
-Pr?server la s?curit? du Canada par la sup?riorit? de l?information 
-
-a?
-. 
-.z
+Canada
 
 TOP SECRET
 
-I I Communlmiinns Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security
+■ T ■ Establishment Canada
 
- 
+Centre de la sécurité
 
-CSEC 
- Cyber Threat Discovery
+des télécommunications Canada
 
-DISCOCON 2010
-A CND Perspective
+CSEC ITS/N2E
+Cyber Threat Discovery
 
- 
+s'	DISCOCON 2010
+	A CND Perspective
+M&S/V - M ii	
+E' *	
+W s •	
+\ 1	
+Safeguarding Canada's security through information superiority n J1*1 Préserver /a sécurité du Canada par la supériorité de ¡'information V-^di Idvld	
 
-Safeguarding Canada?s senmily through information superimin 
-Presenter in securile du Canada pm in supermme do I'miornmiiun  (l
-
-TOP SECRET
-
-I I Communications Security Centre 66 la s?curit?
-Establishment Canada des telecommunications Canada
-
-  
-
-     
-
-N2E  Threat Discovery
-
-- Discovery: Context Sitrep -
-Current Capabilities
-- CND Metadata Analysis at Scale
-
-Safeguarding Canada?s security through information superiority (ii:I
-Pr?server la s?curit? (ill Canada par ta sup?riorit? de i?infutmrition  
+i
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada dos telecommunications Canada
+■ ^ ■ Communications Secunty Centre de la sécurité
+|t| Establishment Canada des télécommunications Canada
 
+N2E Cyber Threat Discovery
 
+•	CSEC/ITS Discovery: Context & Sitrep
 
-            
-   
+•	Current Capabilities
 
-NZE Context
+•	CND Metadata Analysis at Scale
 
-- Within CND operations concentrated in N2
-Core: incident response team (alerts analysis mitigation advice)
-Malware/RE VR teams
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
 
-Discovery has always been a required activity within N2
-lR often takes precedence
+Canada
 
-- N2E established to focus effort on discovery
-Hunting vs. firefighting: new threats, techniques, tradecraft
-Iterations of hypothesis based research/analysis
-
-- What evidence is there in the data of compromised systems?
-
-What new threats or techniques can we find operating against us?
-Development of effective anomaly detection/heuristic techniques
-
-- How can we better detect these new threats in the future?
-
-- Shape capability development priorities
-
-Safeguarding Canada's security through infornmtion superiority C, 
-Pr?server in s?curit? du Canada par In sup?riorit? rte 
+2
 
 TOP SECRET
 
-I I Communications Security Centre do la s?curit?
-Establishment Canada des telecommunications Canada
+■	^ ■ Communications Security Centre de la sécurité
 
- 
-  
+■	” ■ Establishment Canada des télécommunications Canada
 
-   
+N2E Context
+
+•	Within CSEC/ITS, CND operations concentrated in N2
+
+-	Core: incident response team (alerts -> analysis -> mitigation advice)
+
+-	Malware/RE & VR teams
+
+•	Discovery has always been a required activity within N2
+
+-	IR often takes precedence
+
+•	N2E established to focus effort on discovery
+
+-	Hunting vs. firefighting: new threats, techniques, tradecraft
+
+-	Iterations of hypothesis based research/analysis
+
+•	What evidence is there in the data of compromised systems?
+
+•	What new threats or techniques can we find operating against us?
+
+-	Development of effective anomaly detection/heuristic techniques
+
+•	How can we better detect these new threats in the future?
+
+•	Shape capability development priorities
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+3
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+■ t ■ Establishment Canada des télécommunications Canada
+
+~ ......
 
 N2E Sitrep
 
-Team formally established earlier this year
-Growing to 7; hiring undenivay, strong candidates in pipeline
-- Excellent access to full take data
-- Analytical environment improving
-Progress on policy support
-Use of intercepted private communications
-Sharing mechanisms
+•	Team formally established earlier this year
 
-Safeguarding Canada's security through information superiority Er] 
-Pr?server la s?curit? du Canada par la sup?riorit? de t'infommtion 3. a
+-	Growing to 7; hiring underway, strong candidates in pipeline
+
+•	Excellent access to full take data
+
+•	Analytical environment improving
+
+•	Progress on policy support
+
+-	Use of intercepted private communications
+
+-	Sharing mechanisms
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
 
 TOP SECRET
 
-I I Communications Security Centre (in la s?curit?
-Establishment Canada des telecommunications Canada
+hi
 
 Our Haystack
 
 Three individual clients
-10?s - low 1000?s of signature based alerts each day
-(majority false positive)
-0 Soon: ?official? Internet gc.ca aggregation point
 
- 
+- 10’s - low 1000’s of signature based alerts each day
+(majority false positive)
+
+Soon: “official" Internet gc.ca aggregation point
 
 Full pcaps (retention: days to months)
-1's - 10's TB of passively tapped network traffic each day
 
+-	l’s - 10’s TB of passively tapped network traffic each day
 Metadata (retention: months to years)
 
-  
+-	10's - 100’s GB of non-indexed, textual, network metadata / day (descrip
 
-10's - 100?s GB of non-indexed, textual. network metadata/ day (descrip e)
-Safeguarding Canada's security through information superiority 
-Pr?server la securite du Canada par in sup?riorit? de i'rnlonnation 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
 
-- 
+Canada
+
+
 
 Notes on gc.ca:
-'System capacity at 400TB per month
 
-?Expected to start at 150TB per month (68 departments) but expected to
+•System capacity at 400TB per month
+
+•Expected to start at 150TB per month (68 departments) but expected to
 grow to capacity the next 2 years (>100 departments)
+
+5
 
 TOP SECRET
 
-I I Communicall?on? Secunly Centre (19 la s?curit?
-Establishmanl Canada des telecommunications Canada
+Communications Security Centre de la sécurité
 
-Toolset 
- 
+Establishment Canada des télécommunications Canada
 
-- Homemade wrappers for heuristic detection tools
-- Popquiz/Slipstream for metadata
-- 
 
- 
 
- 
+•	Homemade wrappers for heuristic detection tools
 
-find xargs grep sed I
-out awk sort I uniq ?c 
-perl python
+•	Popquiz/Slipstream for metadata
 
-Safeguarding Canada's security through information superiority
+•	And...
 
-Iol
-I I 
-Preserver la securite rlu Canada par la superiorii? do I?ml'ormntion 
+Toolset
+
+$ find | xargs | grep | sed
+cut | awk | sort | uniq -c |
+perl | python
 
 We have a bunch of heuristic tools which are good at detecting unknown
 malware. They are mainly wrappers around tools like 8Ball and metadata
@@ -1284,271 +1021,277 @@ produced out of raw network traffic.
 Detection from wrappers handled through alert management system but
 metadata analyzed manually.
 
-Using good old unix text 
+Using good old unix text filters!!!
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+6
 
 TOP SECRET
 
-Communications Security Cemre de la s?curit?
-Establishment Canada das telecommunications Canada
+■	^ ■ Communications Security Centre de la sécurité
 
- 
+■	t ■ Establishment Canada des télécommunications Canada
 
 Homemade Wrappers: PonyExpress
 SMTP processing
 
- 
- 
+8Ball wrapper to process all email attachments
 
-wrapper to process all email attachments
+•	Cuts and re-rebuilds SMTP session from full packet captures
 
-- Cuts and re-rebuilds SMTP session from full packet captures
+•	Extracts and logs metadata from SMTP and RFC822
 
-- Extracts and logs metadata from SMTP and RFC822 
+•	Extracts attachments and sends it to a cluster of 8Ball services
 
-- Extracts attachments and sends it to a cluster of 8Bal| services
-Wrapper able to manage other deep scan tools AV)
-Aggregates results from scans 
+-	Wrapper able to manage other deep scan tools (e.g. AV)
 
-- Generates alerts for to look at with full SMTP pcap
+-	Aggregates results from scans asynchronously
 
-- Catches new implants or first stage delivered using attachments
+•	Generates alerts for analysts to look at with full SMTP pcap
 
-Safeguarding Canada's security through infornmrion superiority (jr 
-Pr?server Ia socurr?re cl?u Canada par la superiorite do I?inl?ormatinn  a
+•	Catches new implants or first stage delivered using attachments
 
-'Currently processes 400,000 emails per day
+Safeguarding Canada’s security through information superiority
+Preserver la sécurité du Canada par la supériorité de l’information
 
-'These are all emails that were previously filtered by Anti-
+Canada
+
+•Currently processes 400,000 emails per day
+
+•These are all emails that were previously filtered by Anti-SPAM, Anti-
 Virus softwares
 
-?Out of these, 400 gets promoted to the alert system
+•Out of these, 400 gets promoted to the alert system
 
-of these alerts are worthy of reporting to client
+•1% of these alerts are worthy of reporting to client
 
-'With gc.ca coming
+•With gc.ca coming
 
-'PonyExpress will be in front of Anti?Virus, due to
+•PonyExpress will be in front of Anti-Virus, Anti-SPAM due to
 location of collection points.
 
-'Looking at deploying appliances in front of PonyExpress
+•Looking at deploying appliances in front of PonyExpress
 
 TOP SECRET
 
-Communications Security Centre de la s?curit?
-Establishment Canada des telecommumcalions Canada
+1^1 Communications Security Centre de la sécurité
 
- T, 
+■ t ■ Establishment Canada des télécommunications Canada
+
+•J-.,.;:::-':-;;" 'i'tfwi'ihmmmm———	...........____________________;___shhmh
+
 Homemade Wrappers: Stripsearch
-
- 
 
 Automated binary analysis
 
-Recursiver runs binary through the following tools:
+• Recursively runs binary through the following tools:
 
-    
+•	Correlation with file repository and reports
 
-- Correlation with file repository and reports
-Future: greater degree of automation
+•	Future: greater degree of automation
 
-Safeguarding Canada?s security through superiority C, 
-Preserver ta s?curite (In Canada par la sup?riorit? (1
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
-'Modules are run in parallel and some sequentially: Filters are run first to
+Canada
+
+•Modules are run in parallel and some sequentially: Filters are run first to
 exclude known good
 
-'Each module can be selectively disabled or enabled
+•Each module can be selectively disabled or enabled
 
-'Recursive means when 8Ball finds an embedded file, it extracts it and runs it
+•Recursive means when 8Ball finds an embedded file, it extracts it and runs it
 through stripsearch independently
 
-'Currently processes our malware repository (~1500 samples) in lh30 minutes.
-
-'Capable of processing folders and subfolders
+•Currently processes our malware repository (~1500 samples) in lh30 minutes.
+•Capable of processing folders and subfolders
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des l?l?communicalions Canada
+■ ^ ■ Communications Secunty Centre de la sécurité
 
-    
- 
+I t| Establishment Canada des télécommunications Canada
 
 Metadata
 
-Standard Flows (with protocol guessing)
-DNS
+•	Standard Flows (with protocol guessing)
 
-Queries Answers and beaconing
-SMTP
+•	DNS
 
-RFC 788 (SMTP), RFC 822 (2822, 5322) Internet Message
+-	Queries / Answers and beaconing
+
+•	SMTP
+
+-	RFC 788 (SMTP), RFC 822 (2822, 5322) Internet Message
 Format
 
-HTTP
-All server-side headers
-User-Agent summary
-List of POST without a GET, URLs and PE downloads
+•	HTTP
 
-Canada's security tltrougir superiority C, d5"
-Preserve: [it s?curit? du Canada par In superiorite tie 
+-	All server-side headers
+
+-	User-Agent summary
+
+-	List of POST without a GET, URLs and PE downloads
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+■!	WÊÊÊÊiÊÊiÊÊÊmmÊm■
 
 SMTP comes from PonyExpress
 All others from popquiz
 
-HTTP server headers and User?Agent summary are based on the first payload
+Canada
+
+HTTP server headers and User-Agent summary are based on the first payload
 packet so when headers are using more than one packet data gets truncated.
-Sorting yelds strange side effects like showing nice staircase?like output
+Sorting yelds strange side effects like showing nice staircase-like output
 
-User?Agent: 
-User?Agent: bla
+User-Agent: b
+User-Agent: bla
 User-Agent: blab
-User?Agent: blabl
-User?Agent: blabla
+User-Agent: blabl
+User-Agent: blabla
 
-Found some SQL injection attempts in Server String: TABLE
-servertypes; 
+Found some SQL injection attempts in Server String: ‘DROP TABLE
+servertypes; —
+
+9
 
 TOP SECRET
 
-I Communications: Security Centre de la s?curit?
-Establishment Canada (195 telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
-.   . . 
+|t| Establishment Canada des télécommunications Canada
 
-Metadata::findmask
+Metadata: :findmask
 
- 
+ËSSBNÜ
 
-m" 
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
- 
+Canada
 
-Safeguarding Canada's security through superiority C, 
-Preserve-r la socur'ite (in Canada par la superior-ire (l
-
-.3-
-
-When we have more than 7 10 unique known strings in the same flow its
+When we have more than 7-10 unique known strings in the same flow its
 usually worth investigating. Anything less is most likely a false positive.
 
-Looks for strings such as:
-'Windows API calls
-'Part of Registry keys
+Looks for XORed strings such as:
+•Windows API calls
+•Part of Registry keys
 
 10
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité	,
 
-   
- 
+I" | Establishment Canada des télécommunications Canada
+
+'' ........
 
 Noteworthy Catches
 
 WMI-based implant
 
-- Trend Micro has a good report this type of implant
+• Trend Micro has a good report this type of implant
 
+http://us.trendmicro.com/imperial/md/content/us/trendwatch/researchanda
 
-- Uses WMI for persistence instead of Registry or Boot sector
-Reside in ActiveScriptEventConsumer
+• Uses WMI for persistence instead of Registry or Boot sector
 
-First seen in September 2009
-See and 
+-	Reside in ActiveScriptEventConsumer
 
-Caught with Pony Express
-Stripsearch fuzzy correlation linked it with previous reports
+-	First seen in September 2009
 
-Sa feyuarriing Canada's security through information superiority :1 d3"
-Pr?server la s?curit? rtu Canada par la sup?riorit? rte I'infornrarion  a
+See RFI_20091023_280_1 and IXR_20100909_732_1
 
--
+-	Caught with Pony Express
+
+-	Stripsearch fuzzy correlation linked it with previous reports
+
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada parla supériorité de l'information
+
+mm
+
+Canada
 
 Since first version, we saw increase in sophistication
 
 At first WMI event created through a script run by
-CSCRIPTEXE
+CSCRIPT.EXE
 
 Now, is able to create the WMI event from the binary
 
- 
- 
-
-ll
-
 TOP SECRET
 
-I I Communications Centre de la s?curit?
-Establishment Canada dos telecommunications Canada
+■	^ ■ Communications Security Centre de la sécurité
 
- 
-
- 
+■	t ■ Establishment Canada des télécommunications Canada
 
 Noteworthy Catches
 
 Google IP addresses used as a sleep command
 
-- From DNS metadata
+• From DNS metadata
 
-When call back domain was queried, a Goo Ie IP was used as a sleep
-command. Searching for Goo le in DN metadata revealed new
-TROPPUSNU domains and in ected workstations.
+- When call back domain was queried, a Google IP was used as a sleep
+command. Searching for Google IPs in DNS metadata revealed new
+TROPPUSNU domains and infected workstations.
 
 Suspicious RDP and TOR sessions
-- From Flow metadata we identified:
+
+• From Flow metadata we identified:
+
 RDP
-Incoming RDP sessions from various locations to the RDP service (uses
+
+-	Incoming RDP sessions from various locations to the RDP service (uses
 the same certificate)
-Still under investigation
+
+-	Still under investigation
 TOR
 
-Was picked-up as a suspicious burst of outgoing SSL connections going to
+-	Was picked-up as a suspicious burst of outgoing SSL connections going to
 several locations from a single source
 
-Safeguarding Canada's security through information superiority :1 
-Pr?server fa securite (in Canada par la suporrorite rte l?infonnation  d.
+Safeguarding Canada's security through information superiority
+Preserver la sécurité du Canada par la supériorité de l'information
 
-      
-      
+Canada
 
 12
 
 TOP SECRET
 
-I I Communications Security Cenlre de la securll?
+■ ^ ■ Communications Security Centre de la sécurité
 
-Establishmanl Canada des telecommunications Canada
+|t| Establishment Canada des télécommunications Canada
 
-Noteworthy Catches: 
+Noteworthy Catches: TOR...
 
-- Most likely a breach of Internet usage policy
-All SSL CERTS were:
+•	Most likely a breach of Internet usage policy
 
-Self-signed
+•	All SSL CERTS were:
 
- 
-   
+-	Self-signed
 
-Certificate has a validity window of just 2 hours 1010171524212
+-	Certificate has a validity window of just 2 hours (e.g. 101017152421Z
+to 101017172421Z)
 
-to 101017172421Z) 
+-	Issuer name appears to be a randomly generated fully qualified
+domain name (FQDN), unique for each destination IP (e.g.
+www.b2wwzduvdc5jyty3s7.net)
 
-Issuer name appears to be a randomly generated fully qualified
-domain name (FQDN), unique for each destination lP 
+-	Common Name (CN) field appears to be a randomly generated FQDN
+unique for each session (e.g. www.xehzhl3cip.net)
 
-
-Common Name (CN) field appears to be a randomly generated FQDN
-
-unique for each session 
-
-Safeguarding Canada?s security through information superiority
-Pr?server la sec-write du Canada par la sup?riorit? rte l'infmmarion
-
-IOI
+Safeguarding Canada’s security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
 Canada
 
@@ -1556,313 +1299,330 @@ Canada
 
 TOP SECRET
 
-I Communimlions Security Centre de la s?curit?
-Eslablishment Canada des telecommunrcations Canada
+■	^ ■ Communications Secunty
 
+■	T I Establishment Canada
 
+Centre de la sécurité
 
-   
+des télécommunications Canada
 
+Noteworthy Catches: TOR...
 
-
-?Noteworthy Catches: 
-
-- All sessions for October 17 extracted from pcap using the following
+• All sessions for October 17 extracted from pcap using the following
 ngrep HEX string:
 
-EB ngrep pcap ?tq 
+vdc5jyty3S7. net0(...x„.)
 
-2010/10/17 15:49:00.699087 - 
+- The string is the end of validity period (Date only)
 
-.10101715242 172421zo%1#0! . . . b2wwzdu
-
-
-The string is the end of validity period (Date only)
-- Snort signature could be generated for looking at CERTS with
+• Snort signature could be generated for looking at CERTS with
 validity period starting/ending same day
-
- 
-
-Safeguarding Canada's security through infounariun SlipmlOIiEy C, 
-Preserve-r la securiie (in Canada pa: in supeliorite (Ia (1
 
 The easiest signature would be to have snort look at starting end ending in the
 same month. However, the signature will have to be changed every month.
 
-A search for October only looking at CERTS ending in October (1010) resulted
+A search for October only looking at CERTs ending in October (1010) resulted
 in a lot of false positives but easily managed by greping start date of October.
 Only one false positive left.
+
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+14
 
 14
 
 TOP SECRET
 
-Communications Security Centre da la s?curit?
+■ ^ ■ Communications Security Centre de la sécurité
 
-Establishment Canada des telecommunications Canada
+I t ■ Establishment Canada des télécommunications Canada
 
- 
+i ; 'i-'. ~T~~ Ï
 
 CND Metadata Analysis at Scale
+
 Selected SAWUNEH Results
 
- 
-      
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l’information
 
-  
+Canada
 
-Conscaiulnfinns.
-it chi, fuck you
-65199 
-
--i
-
-Safeguarding Canada's security through information supra-limity C, 
-Preserve! in securite du Canada par/.1 sup?riorite do i'mformnrion  d.
+15
 
 15
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■	^ ■ Communications Security Centre de la sécurité
 
-    
+■	T I Establishment Canada des télécommunications Canada
 
-.General Problem: Information Overload
+General Problem: Information Overload
 
-What is ?at scale' for CSEC 
+•	What is ‘at scale’ for CSEC CND?
 
-Problem: too much data
-Acquired, retained, summarized, analyzed, presented to 
+•	Problem: too much data
 
-Opportunities at all tiers of system. Selected SAWUNEH topics
+- Acquired, retained, summarized, analyzed, presented to analysts
+
+•	Opportunities at all tiers of system. Selected SAWUNEH topics
 help in one or more of these areas
 
-Safeguarding Canada's security through information superiority C, dl,"
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
 
-Preserver fa s?curit? rfu Canada par la sup?riorit? de i'infomiation  (1
-Today
-I
+Canada
 
-l?lO?s TB pcap retained each day
-10?s?100?s GB of metadata retained each day
+Today:
+
+1-10’s TB pcap retained each day
+
+10’s-100’s GB of metadata retained each day
 
 Future:
-metadata continues to increase linearly with new access points
 
+metadata continues to increase linearly with new access points
 attempt to hold pcap steady at current rates through smarter retention policies
 
 Tiers:
 
-l6
+16
 
 TOP SECRET
 
-I. I Communications Security Centre de la s?curit?
-Estabiishment Canada des telecommunications Canada
+1^1 Communications Secunty
+I t ■ Establishment Canada
 
-What is 
+Centre de la sécurité
 
-   
-   
+des télécommunications Canada
 
-Literally: ?Summer Analytic Workshop Up North 
-Annual data analysis workshop hosted at CSEC by shop
+What is SAWUNEH?
 
-2010 thrust was CND
-Reps from each of the 5 eyes cleared researchers
+•	Literally: ‘Summer Analytic Workshop Up North EH’
 
-- Helps fill the (sparsely inhabited) plane that often exists between
-OpsDev and 
+-	Annual data analysis workshop hosted at CSEC by crypt-math shop
 
-- Special Assets: Netezza, Cray XMT
+-	2010 thrust was CND
 
-Safeguarding Canada?s security through information superiority :1 
-Pr?server fa s?curit? du Canada par la sup?riorit? do f?in formation  3.
+-	Reps from each of the 5 eyes + cleared researchers
 
-Many researchers but focus is ?applied?
+•	Helps fill the (sparsely inhabited) plane that often exists between
+OpsDev and R&D
+
+•	Special Assets: Netezza, Cray XMT
+
+Many researchers but focus is ‘applied’
 
 Netezza: distributed data appliance made available to facilitate workshop
+OpsDev vs R&D rather than Ops vs R&D
 
-OpsDev vs rather than Ops vs 
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
-l7
+Canada
+
+■■■■■■■■■■■
+
+17
+
+17
 
 TOP SECRET
 
-Communications Security Centre de la s?curit?
-Establishment Canada das telecommunications Canada
+■	^ ■ Communications Security
 
-  
- 
+■	t ■ Establishment Canada
 
-    
-   
+Centre de la sécurité
 
-Topic 1: Correlating ?E-Mail, Web, Flow? Metadata
+des télécommunications Canada
 
-- E-mail based content delivery attacks against GC *very* common
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 
-- CND capability rapidly developed deployed; heavily relies on attachment
+•	E-mail based content delivery attacks against GC *very* common
+
+•	CND capability rapidly developed & deployed; heavily relies on attachment
 scanning
 
-- The inevitable evasion
-Attacks now commonly use email as inducement to URL visit, instead of direct
+•	The inevitable evasion
+
+-	Attacks now commonly use email as Inducement to URL visit, instead of direct
 content delivery.
 
-- Too many benign hyperlinks delivered over email
-Need to reduce metadata presented to front line 
+•	Too many benign hyperlinks delivered over email
 
-Safeguarding Canada's security through information superiority 
-Presenter la s?curit? du Canada par la sup?riorit? rte i'i?iiformair'on  a
+-	Need to reduce metadata presented to front line analysts
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
 
 PonyExpress:
-Yields many detections with low false positive rates
 
+Yields many detections with low false positive rates
 Commercial sector has responded in similar fashion
 
 Email as inducement
 
-Delivery of HTTP URL over E?mail, exploit is delivered via
+Delivery of HTTP URL over E-mail, exploit is delivered via
 HTTP
 
 18
 
 TOP SECRET
 
-. I Communications Security Centre de la s?curit?
-Eslablishrnenl Canada des l?l?col?nl?nunlcalions Canada
+1^1 Communications Security Centre de la sécurité
 
-  
+■ t ■ Establishment Canada des télécommunications Canada
 
-Topic 1: Correlating ?E-Mail, Web, Flow? Metadata
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 
-Reducing Email URL metadata volume delivered to front line 
+Reducing Email URL metadata volume delivered to front line analysts
 
-- Select highly suspicious subset of Email URL metadata based on
+•	Select highly suspicious subset of Email URL metadata based on
 correlation
 
-- Only present ?Email metadata if:
-Email was inbound
-Contained one or more hyperlinks
-Hyperlink nominated as suspicious
-Hyperlink was actually visited by a recipient.
-Provide flow and metadata for resulting HTTP session
+•	Only present ‘Email URL’ metadata if:
 
-Safeguarding Canada's security through information superiority C, 
-Pr?server la socun?te? (In Canada par la sup?riorit? rte l'informnrion  a.
+-	Email was inbound
 
-Initial definition of ?suspicious? was naive: suffix dictionary
-Have actual Visit helps by:
+-	Contained one or more hyperlinks
+
+-	Hyperlink nominated as suspicious
+
+-	Hyperlink was actually visited by a recipient.
+
+-	Provide flow and http metadata for resulting HTTP session
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+Initial definition of ‘suspicious’ was naive: suffix dictionary
+Have actual visit helps by:
 more likely to be successful attack
 
 means analyst likely has access to related web traffic to assist with triage
-
-   
-    
 
 19
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?.
-Establishment Canada des telecommunications Canada
-7"  
-_r - - 
+■	^ ■ Communications Security Centre de la sécurité
 
-Topic 1: Correlating ?E-Mail, Web, Flow? Metadata
+■	T ■ Establishment Canada des télécommunications Canada
+
+.............IP.........	I	........ 'I'Pi'n'i
+
+Topic 1: Correlating ‘E-Mail, Web, Flow’ Metadata
 SAWUNEH approach
 
-Import URL, FLOW metadata into separate tables on the
+• Import EMAIL, URL, FLOW metadata Into separate tables on the
 NETEZZA appliance (distributed db)
 
-Single SQL Query to fill requirement:
+• Single SQL Query to fill requirement:
 
-    
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l’information
 
-Safeguarding Canada?s security through Information superiority 
+Canada
 
-Pr?server In s?curire rlu Canada par In sup?riorit? (te l?infurnmriun
+I
 
 20
 
 TOP SECRET
 
-I I Communications Security Centre de la s?curit?
-Establishment Canada dos telecommunications Canada
+■ ^ ■ Communications Security
 
-     
-   
+■ t ■	Establishment Canada
 
-?Email Web? attack detection
+Centre de la sécurité
+
+des télécommunications Canada
+
+Email + Web’ attack detection
 SAWUNEH Style
 
 Findings:
 
-- 50% of the unique results were malicious
-Significantly lower false positive rates compared to URL inspection only
-- Result provides anomaly tip but also context at fingertips for analyst
+•	50% of the unique results were malicious
+
+•	Significantly lower false positive rates compared to URL inspection only
+
+•	Result provides anomaly tip but also context at fingertips for analyst
 
 Next Steps:
 
-- Better definition of ?suspicious' URL
-- Automate extraction of web content from session for 
+•	Better definition of 'suspicious' URL
 
-- Automate feeding of web payloads into content scanning system partial mitigation
+•	Automate extraction of web content from session for analysts
+
+•	Automate feeding of web payloads into content scanning system = partial mitigation
 of the original evasion. Higher analyst productivity
 
-Safeguarding Canada's security through information superiority C, 
-Pr?server Ia sectrrite du Canada par la superiorito dc i?information  d.
+Possible ‘suspicious’ definitions: URLs tagged with ‘ObfJavaScript, FlashContent, LedToDownload’ etc
 
-Possible ?suspicious? definitions: URLs tagged with ?ObeavaScript, FlashContent, LedToDownload? etc
+Correlated on URL ‘trees’ not isolated URLS (otherwise redirects, remote hrefs etc defeat scanning)..
 
-Correlated on URL ?trees? not isolated URLS (otherwise redirects, remote hrefs etc defeat scanning)..
-But somewhat expensive (not sure if this is solved in feasible way 
+But somewhat expensive (not sure if this is solved in feasible way ?)
 
-primary metadata sources too large for need value-add reductions
-
-reduced ?working sets? of metadata higher yield for analyst time.
+primary metadata sources too large for discovery... need value-add reductions
+reduced ‘working sets’ of metadata = higher yield for analyst time.
 
 They evade by moving payload delivery to different session. We follow them and (attempt) to close evasion.
+
+Safeguarding Canada's security through information superiority
+Preserver la sécurité du Canada par la supériorité de l'information
+
+Canada
+
+21
 
 21
 
 TOP SECRET
 
-I Communications Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
-   
+It| Establishment Canada des télécommunications Canada
 
 Topic 2: Malicious Attachment Prediction
 
 Problem:
 
-- Our current email scanning system fully processes every email it sees in a modular
+•	Our current email scanning system fully processes every email it sees in a modular
 fashion
 
-- Works very well today, but we can't afford to scale this approach ?as-is' to meet
+•	Works very well today, but we can’t afford to scale this approach ‘as-is’ to meet
 future requirements.
 
-- Large proportion of time spent in *late* stages of processing. especially deep scan
+•	Large proportion of time spent in *late* stages of processing., especially deep scan
 
 Possible Approach:
 
-- Can we predict which emails will score in the deep scan based only on metadata
+•	Can we predict which emails will score in the deep scan based only on metadata
 extracted during earlier processing phases?
-- If so. can we drop those that have low probability of deep scan success?
 
+•	If so, can we drop those that have low probability of deep scan success?
 
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
-Safeguarding Canada's security through information superiority 
+ö
 
-Pr?server ta securite (in Canada par in sup?riorit? tie l'inforntation
+Canada
 
-
-
-Fully process sessionize, smtp, rf0822, mime, deep
-scan(8Ball) of all attach. . .etc
+Fully process = sessionize, smtp, rfc822, mime, deep
+scan(8Ball) of all attach...etc
 
 Optimization axiom: find your hotspot
 
@@ -1870,135 +1630,99 @@ Optimization axiom: find your hotspot
 
 TOP SECRET
 
-I I Communications Security Centre do la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
- 
+■ T ■ Establishment Canada	des télécommunications Canada
+
 Malicious Attachment Prediction
 
-Given metadata from each processing phase, build a predictive model to selectively
-promote emails with high probably of non-zero scoring in 8~ba|| based on features
+•	Given metadata from each processing phase, build a predictive model to selectively
+promote emails with high probably of non-zero scoring in 8-ball based on features
 extracted early in processing
 
-Choice of Predictive Model
-Random Forests: decision tree based classifier (Brieman 2001)
+•	Choice of Predictive Model
 
-- Take a feature set X) and a corpus of training samples with *known*
+- Random Forests: decision tree based classifier (Brieman 2001)
+
+•	Take a feature set (X,.... Xp) and a corpus of training samples with *known*
 classification as input. Generate Random Forest of decision trees to be used to
 prediction classification
 
-- New samples pass through previously trained forest which yields probability that
+•	New samples pass through previously trained forest which yields probability that
 deepscan will be nonzero
 
-Safeguarding Canada's security through information C, dl?l
-Presenter fa s?curit? du Canada par la srrporimir? (to l'rnforrnatron  a.
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
-Phases: (ip, tcp, smtp, rf0822, mime etc)
+Canada
+
+Phases: (ip, tcp, smtp, rfc822, mime etc)
 
 Classifier:
 
-Based on probability of scoring non?zero in deep scan -
+Based on probability of scoring non-zero in deep scan
 
-Exam le features include:
-
- 
-
-In our case: email metadata types 10000
+In our case: email metadata types + > 10000
 previously scanned samples with full metadata
 including overall scan score used to build the Forest
 
 Note: Only build/train forest once. Subsequently you
 are just passing metadata through and getting an
-P(email scores non?zero)
+P(email scores non-zero)
 
 23
 
 TOP SECRET
 
-    
- 
+■	^ ■ Communications Security Centre de la sécurité
 
-  
- 
-
-Communications Security Centre de la s?curil?
-Establishment Canada das l?l?communicalions Canada
-
- 
-
-
+■	▼ ■ Establishment Canada des télécommunications Canada
 
 Malicious Attachment Prediction
-Data Reduction vs. ?Interesting? Data Loss
+Data Reduction vs. ‘Interesting’ Data Loss
 
-  
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
 
- 
+Canada
 
- 
-
-Dd.- Remaan
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-9- i
-
-
-i ?l MFeatures
-a I I, #chatures
-
-
-I 
-60 30
-
- 
-
-
-
-0 2O 40
-Safeguarding Canada's security through inrormarr?on superiomy Can 
-Pr?server la s?curit? du Canada par la sup?riorit? de i'r?nfommrion a. a
-
-
+24
 
 TOP SECRET
 
-Communications Security Centre de la s?curit?
-Establishment Canada des l?l?COmmumCaiiOnS Canada
+l+l
 
-   
-   
+Communications Security Centre de la sécurité
+
+Establishment Canada des télécommunications Canada
+
+m
+
+
 
 Malicious Attachment Prediction
 
 Result:
 
-- 85% data reduction with 1?3% loss of ?interesting' emails
-Can discard majority of emails with minimal loss in positive hits
-- Prediction with model is relatively cheap (10,0005 features per second)
+•	85% data reduction with 1-3% loss of ‘interesting’ emails
+
+- Can discard majority of emails with minimal loss in positive hits
+
+•	Prediction with model is relatively cheap (10,000s features per second)
 
 Next steps:
 
-- Extract those features which contribute most to prediction and incorporate
+•	Extract those features which contribute most to prediction and incorporate
 appropriate filters in each stage of email processing system with aim to discard
 early and often
 
-- There are likely a few simple features contributing disproportionally to predictive
+•	There are likely a few simple features contributing disproportionally to predictive
 power: flow size, attachment size, attachment type etc
 
-Safeguarding Canada?s security through information superiority Cf dl,"
-Pr?server la s?curit? du Canada par la sup?riorit? (Ie I'r'nformnt?ion  
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
+
+Canada
 
 Could be used either permanently, or simply as a learning tool to find which
 features you might want to filter on.
@@ -2010,119 +1734,132 @@ header rather than MIME content etc)
 
 TOP SECRET
 
-I  Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+l+l
 
- 
- 
-   
+Communications Security
+Establishment Canada
+
+Centre de la sécurité
+
+des télécommunications Canada
+
+WÊBi
+
+■HSSe-“”
 
 (Mini) Topic 3: PE Masquerade Detection
 
-- Multiple threat actors observed masquerading Windows PE downloads using
-'benign' filename extensions (jpg, gif. etc)
+•	Multiple threat actors observed masquerading Windows PE downloads using
+‘benign’ filename extensions (jpg, gif, htm etc)
 
-- We log metadata on HTTP sessions containing a PE header in content of first
-packet (modules available in both SLIPSTREAM and POPQUIZ)
+•	We log metadata on HTTP sessions containing a PE header In content of first
+packet (modules available In both SLIPSTREAM and POPQUIZ)
 
-Exclude entries with suffixes common to PE downloads (exe, bin. php, asp)
-Provide contextual metadata 1 click access to payloads
+-	Exclude entries with suffixes common to PE downloads (exe, bin, php, asp)
 
-- Easy to see entries that jumped out: file extensions such as .jpg, .gif highly
-suspicious. often malicious
+-	Provide analysts contextual metadata & 1 click access to payloads •
 
-- Also filter by ?uniqueness? over time to eliminate AV OS updates
+•	Easy to see entries that jumped out: file extensions such as .jpg, .gif highly
+suspicious, often malicious
 
-- Next Step: automate extraction of pe masquerades and push through content
+•	Also filter by ‘uniqueness’ over time to eliminate AV / OS updates
+
+•	Next Step: automate extraction of pe masquerades and push through content
 scanning system
 
-Safeguarding Canada's security through information superiority C, dl'l
-Pr?server In s?curite du Canada par la sup?riorit? rte l?informatron  a
+Safeguarding Canada's security through information superiority
+Préseiver la sécurité du Canada par la supériorité de l'information
 
-TOP SECRET
-I I Communications Security Centre de la s?curit?
+Canada
 
- 
-
-Estab'ishnleril Canada des telecornrr ications Canada
-. . 4 
-m1; 
-
- 
-
-Safeguarding Canada '5 security through information superiority C, 
-in rirr tiarrarirt par In tit.- i'iril'urrtr.ttiurr  
-
-
-
-27
+26
 
 TOP SECRET
 
-l* Communications. Security Centre tie la s?curit?
-Canada ties telecommunications Canada
-5' 
+1^1 Communications Security Centre de la sécurité
 
- 
+■ t ■ Establishment Canada des télécommunications Canada
 
-Safeguarding Canada ?5 security through superiority dliol
-Pr?server in securite du Canada par la superiority tie r'r'nformntiun  
+Safeguarding Canada's security through information superiority
+
+Préseiver la sécurité du Canada par la supériorité de l’information
+
+Canada
+
+
+
+
+
+TOP SECRET
+
+1^1 Communications Security Centre de la sécurité
+
+It | Establishment Canada des télécommunications Canada
+
+
+
+Safeguarding Canada's security through information superiority
+
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
 
 28
 
 TOP SECRET
 
-I Communications Security Centre de la s?curit?
-Establishment Canada des telecommunications Canada
+1^1 Communications Security Centre de la sécurité
 
-   
- 
+■ t I Establishment Canada des télécommunications Canada
 
 Final Notes
 
 SAWUNEH outcomes made a few things clearer to us
-- Our days of plain old grep as primary search tool are nearing an end
 
-- Relational DB's provide us with a few key benefits:
-Simple indexing of existing metadata (sub second searches)
-ability to correlate easily across 'primary' metadata outputs
-significantly faster hypothesis testing
+•	Our days of plain old grep as primary search tool are nearing an end
 
-- Depending on scale. DB over head may be too costly
-In such cases. still very useful tool for discovery work on finite snapshots
+•	Relational DB’s provide us with a few key benefits:
 
-Case be used to test correlation hypothesis on finite data sets before spending significantly more cycles
-implementing a streaming I on-Iine version.
+-	Simple indexing of existing metadata (sub second searches)
 
-- Simple correlation techniques can provide high yield metadata to 
-islands of primary metadata are becoming unwieldy
+-	ability to correlate easily across ‘primary’ metadata outputs
 
-Post processing of primary metadata (fcorrelation. newness. uniqueness. reduction techniques etc)
-becoming a requirement to mitigate in ormation overload.
+-	significantly faster hypothesis testing
 
-Safeguarding Canada?s security through information superiority C, 
-Pr?server la s?curit? du Canada par in sup?riorit? cte i?ini?ornration  
+•	Depending on scale, DB over head may be too costly
 
-29
+-	In such cases, still very useful tool for discovery work on finite snapshots
+
+-	Case be used to test correlation hypothesis on finite data sets before spending significantly more cycles
+implementing a streaming / on-line version.
+
+•	Simple correlation techniques can provide high yield metadata to analysts
+
+-	Islands of primary metadata are becoming unwieldy
+
+-	Post processing of primary metadata (correlation, newness, uniqueness, reduction techniques etc)
+becoming a requirement to mitigate information overload.
+
+Safeguarding Canada's security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
+
+Canada
 
 TOP SECRET
 
-I I Communicalions Secunly Cemre de la s?curil?
-Establishmenl Canada lal?cammunxca?ons Canada
+■ ^ ■ Communications Security Centre de la sécurité
 
-      
- 
+It | Establishment Canada des télécommunications Canada
 
 Thanks
 
- 
+cse-cst.gc.ca
 
-    
+^m@cse-cst.gc.ca
 
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada par la supériorité de l'information
 
-
-Safeguarding Canada?s security through information superiority Cf dl'll
-la semnire du Canada par la sup?nmim de i?iniommiion  
+Canada
 
 30
-

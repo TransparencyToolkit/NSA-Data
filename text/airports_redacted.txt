@@ -1,207 +1,154 @@
- 
+﻿TOP SECRET
+
+■	■ Communications Security
+
+Establishment Canada
+
+IP Profiling Analytics
+& Mission Impacts
+
+Tradecraft Developer
+
+CSEC - Network Analysis Centre
+
+May 10, 2012
+
+SIGINT
+
+Canada
 
 TOP SECRET
-
- 
-
- 
-
- 
-
- 
 
 Example IP Profile Problem
 
 Target appears on IP address, wish to understand
 network context more fully
 
-Example Quova look-up response for 
+Example Quova look-up & response for
 
 Lat. 60.00 Long: -95.00 (in frozen tundra W. of Hudson Bay)
-City: unknown
 
+City: unknown
 Country: Canada,
+
 Operator: Bell Canada, Sympatico
 
 Issues with IP look-up data:
+
 is it actually revealing, or is it opaque
-is the data even current, or is it out-of?date
+is the data even current, or is it out-of-date
 was the data ever accurate in the first place
 
-
-
-   
-
- 
-
 TOP SECRET
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Objectives
 
 Develop new analytics to provide richer contextual
 data about a network address
 
-Apply analytics against Tipping Cueing objectives
+Apply analytics against Tipping & Cueing objectives
 
 Build upon artefact of techniques to develop new
-needle-in-a-haystack analytic contact chaining
+needle-in-a-haystack analytic - contact chaining
 across air-gaps
-
- 
 
 TOP SECRET
 
-
-Analytic Concept Start with Travel Node
-
- 
-
- 
-
- 
-
- 
+Analytic Concept - Start with Travel Node
 
 Begin with single seed Wi-Fi IP address of intl. airport
 
-
+/
 
 Assemble set of user IDs seen on network address
 over two weeks
 
-   
-
 TOP SECRET
 
-- 
-Profiling Travel Nodes Next Step
+Profiling Travel Nodes - Next Step
 
- 
+Follow IDs backward and forward in recent time
 
- 
+Earlier IP clusters of:
 
- 
+-	local hotels
 
- 
+-	domestic airports
 
-Followle backward and forward in recent time
+-	local transportation hubs
 
-Earlier clusters of: Later clusters of:
-- local hotels - other intl. airports
-- domestic airports - domestic airports
-- local transportation hubs - majorintl. hotels
-- local internet cafes - etc.
+-	local internet cafes
 
--etc. 0\ 
-ON 
+- etc.
 
+Later IP clusters of:
 
-\o
+-	other intl. airports
 
-   
+-	domestic airports
+
+-	major intl. hotels
+
+-	etc.
 
 TOP SECRET
-
 
 IP Hopping Forward in Time
 
 Follow IDs forward in time to
-next note delta time
+next IP & note delta time
 
- 
+Next IP sorted	1 Hr.
 
- 
+by most popular:
 
- 
+2 Hr.
 
- 
+I
 
- 
+3 Hr.
 
- 
+_____I
 
-Next sorted time
-
-by most popular: 
+4 Hr.	5 Hr. A time
 
 Many clusters will resolve to other Airports!
 
 Can then take seeds from these airports and
 repeat to cover whole world
 
- 
-
 Ditto for going backward in time, can uncover
-roaming Infrastructureoof host CIty: hotels,
-conference centers, WI-FI hotspots etc.
-
-
-
- 
-
- 
+roaming infrastructure of host city: hotels,
+conference centers, Wi-Fi hotspots etc.
 
 TOP SECRET
 
-
 Data Reality
-
- 
-
- 
-
- 
-
- 
 
 The analytic produced excellent profiles, but was more
 complex than initial concept suggests
 
-Data had limited aperture Canadian Special Source
+Data had limited aperture - Canadian Special Source
+
 major CDN ISPs team with US email majors, losing travel coverage
 
 Behaviour at airports
+
 little lingering on arrival; arrivals using phones, not WiFi
 still, some Wi-Fi use when waiting for connecting flight/baggage
 different terminals: domestic/international; also private lounges
 
 Very many airports and hotels served by large Boingo
 private network
+
 not seen in aperture; traffic seems to return via local Akamai node
-
-
-
-     
 
 TOP SECRET
 
-- -
 Tradecraft Development Data Set
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Have two weeks worth of ID-IP data from Canadian Special
-Source 
+Source -
 
 Had program access to Quova dataset connecting into Atlas
 database
@@ -209,347 +156,428 @@ database
 Had seed knowledge of a single Canadian Airport WiFi IP
 address
 
-   
+8
 
 TOP SECRET
 
-
-Hop Geo Profile From CDN Airport lntl. Terminal
-
- 
-
- 
-
- 
-
- 
-
- 
+Hop Geo Profile From CDN Airport Intl. Terminal
 
 Long Longitude scale is non-linear
-most far-flung sites are wireless gateways
 
-awith many other wireless gateways in set a
+a
 
+t
 
-Profiled/seed IP location: Square geographic location
+û
 
-Hopped-to IP location: height numbers of unique hopped-to IPs at location
+A
 
-Plot of where else IDs seen at seed have been seen in two weeks
-Plot shows most hopped to are nearby - confirming reported seed geo data
+J
 
+I
 
+. í i
 
- 
+H " most far-flung sites are wireless gateways
+with many other wireless gateways in set
 
- 
+Profiled/seed IP location: Square = geographic location
+
+Hopped-to IP location: Line height = numbers of unique hopped-to IPs at location
+
+Plot of where else IDs seen at seed IP have been seen in two weeks
+
+Plot shows most hopped to IPs are nearby - confirming reported seed geo data
 
 TOP SECRET
-
 
 Effect of Invalid Geo Information
 
- 
+Long Longitude scale is non-linear
 
- 
+a
 
- 
+t
 
- 
-
-Long Longitude scale is non-linear 
-a Geo Incongruence:
-
-
-displacem of seed location
-
-from distri ution center
-
-strongly su gests data error
-
- 
-
-  
-
- 
-
-Profiled/seed IP location: ISquare geographic location
-
-Hopped-to IP location: ririne height numbers of unique hopped-to IPs at location
-
-Effect of invalid seed geo informationbreadily apparent
+Geo incongruence:
+displacement of seed location
+from distribution center
+strongly suggests data error
 
 
 
-   
+11
+
+- &
+
+Profiled/seed IP location: [Square = geographic location
+
+Hopped-to IP location: Line height = numbers of unique hopped-to IPs at location
+
+u
+
+Effect of invalid seed geo information readily apparent
+
+10
 
 TOP SECRET
-
- 
-
- 
-
- 
-
- 
 
 Hop-Out Destinations Seen
 
 Other domestic airports
+
 Other terminals, lounges, transport hubs
+
 Hotels in many cities
 
 Mobile gateways in many cities
 
 Etc.
 
-   
-
 TOP SECRET
 
-
-?Discovered? Other CDN Airport IP
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
+"Discovered" Other CDN Airport IP
 
 Domestic terminal
+
 Closeness of majority of hopped-to IPs confirms geo data
-
-But, domestic airport can also look like a busy hotel 
-
-
-
-     
-
-TOP SECRET
-
-IDs Presence Profile at ?Discovered? Airport
-
-
-
-
- 
-
- 
-
- 
-
- 
-
--
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Time/days 9
-
-Dominant pattern is each ID is seen briefly, just once as expected
-
-
+But, domestic airport can also look like a busy hotel...
 
 Each horizontal line shows presence pattern of one ID, sorted by order of appearance
 
-   
+TOP SECRET
+
+IDs Presence Profile at "Discovered" Airport
+
+Time/days ->
+
+Dominant pattern is each ID is seen briefly, just once - as expected
 
 TOP SECRET
 
-
 Profiles of Discovered Hotel
-
- 
-
- 
-
- 
-
- 
-
- 
-
-39LMany IDs present over a few days .
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-I 
-
-Timp/dayc 
-
-
-
- 
-
-     
 
 TOP SECRET
 
 Profiles of Discovered Enterprise
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-15 
-.  122? . V?doTime/days 9
+Time/days ->
 
 Regular temporal presence (M-F) with local geographic span
 Contrasts well against travel/roaming nodes
 
-   
-
-
-
 TOP SECRET
-
 
 Discovered Coffee Shop, Library
 
- 
+		1  Coffee shop		
+1 1 ■ 1	■ %.	] H '	• -	• - .
 
- 
+Time/days ->
 
- 
-
- 
-
- 
-
-I.
-Coffee shop
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Time/days 9
 Library
-- -
-.
-. 
-Time/days 9
 
-Similar patterns of mixed temporal local geographic presence
+'V.				•		•		. . .
+				• — .	_ •	-		
+				%	\	"">* .7		■ Vv
 
-   
+Time/days ->
 
- 
+Similar patterns of mixed temporal & local geographic presence
 
- 
+TOP SECRET
 
- 
+TOP SECRET
 
- 
+Partial Range Profile of Wireless Gateway
 
- 
+Individual IP number in range of 8
 
- 
+□	ID Total on IP
 
- 
+□	Common IDs
 
- 
+For wireless gateway, range behaviour is revealing
 
- 
+Most IDs seen on an IP are also scattered across entire range
 
- 
+ID totals & traffic across full range is very high
 
- 
+18
 
- 
+TOP SECRET
 
- 
+Mission Impact of IP Profiling
 
+Tipping and Cueing Task Force (TCTF)
+
+a 5-Eyes effort to enable the SIGINT system to provide real-time alerts of
+events of interest
+
+alert to: target country location changes, webmail logins with time-limited
+cookies etc.
+
+Targets/Enemies still target air travel and hotels
+
+airlines: shoe/underwear/printer bombs ...
+
+hotels: Mumbai, Kabul, Jakarta, Amman, Islamabad, Egyptian Sinai ...
+
+Analytic can hop-sweep through IP address space to identify
+set of IP addresses for hotels and airports
+
+detecting target presence within set will trigger an urgent alert
+aim to productize analytics to reliably produce set of IPs for alerting
+
+TOP SECRET
+
+IP Profiling Summary
+
+Different categories of IP ownership/use show distinct
+characteristics
+
+airports, hotels, coffee shops, enterprises, wireless gateways etc.
+clear characteristics enable formal modeling developments
+
+clear identification of hotels and airports enables critical Tipping & Cueing
+tradecraft
+
+Geo-hop profile can confirm/refute IP geo look-up
+information
+
+later could fold-in time deltas for enhanced modeling
+
+Can "sweep" a region/city for roaming access points to IP
+networks
+
+leads to a new needle-in-a-haystack analytic...
+
+20
+
+TOP SECRET
+
+Tradecraft Problem Statement
+
+A kidnapper based in a rural area travels to an urban area to
+make ransom calls
+
+can't risk bringing attention to low-population rural area
+won't use phone for any other comms (or uses payphones ...)
+
+Assumption: He has another device that accesses IP
+networks from public access points
+
+having a device isn't necessary, could use internet cafes, libraries etc.
+he is also assumed to use IP access around the time of ransom calls
+
+Question: Knowing the time of the ransom calls can we
+discover the kidnapper's IP ID/device
+
+"contact chain" across air-gap (not a correlation of selectors)
+
+TOP SECRET
+
+Solution Outline
+
+With earlier IP profiling analytics, we can "sweep" a
+city/region to discover and determine public accesses
+
+We can then select which IP network IDs are seen as active
+in all times surrounding the known ransom calls
+
+reduce set to a shortlist
+
+Then we examine the reduced set of IP network IDs and
+eliminate baseline heavy users in the area that fall into the
+set intersection just because they are always active
+
+that is, eliminate those that are highly active outside the times of the ransom
+calls
+
+hopefully leaves only the one needle from the haystack
+
+TOP SECRET
+
+First Proof-of-Concept
+
+Swept a modest size city and discovered two high traffic
+public access ranges with >300,000 active IDs over 2 weeks
+
+used for initial expediency due to computational intensity
+
+Presumed that there were 3 ransom calls, each 50 hours
+apart during daytime, looked for IDs within 1 Hr of calls
+
+reduce large set to a shortlist of just 19 IP network IDs
+
+Examined activity level of 19 IP network IDs - how many
+presences each had in 1 Hr slots over two weeks
+
+main worry as the computation was running: there would be a lot of IDs that
+showed just a handful of appearances: e.g. 3, 4, 5 instances
+
+(ajai|l sbm 3L| ¿i) jaddeupi>| aqj jsnf §u¡Aea| '||B aiBinunia p|noo sni|i
+¡sjo|s-jnoq oi7 u¡ saDUBJBaddB peq qi 9A|pb isb9| :j|nsaj ÁddBH
+
+<- sio|s-jnoLj/aiu|i
+
+10§jei/j0ddeupi>| p 0DU0S0jd p0}e|rnsod
+
+I
+
+■i
+
+iiiiiiiiiimiiiiiiiiiiiijiiiiimiii
+iiiiiiii	ijm
+
+i mili	i iiiiiiii i
+
+iiiiiiiiii 1111111111111111 iiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ii
+imimimiimimimimiimimmiimiimimm mimiimimimi
+mili ii ii i	i n i i	i i	i
+
+ii ii ii	ii i	iii ii	ii
+
+mmmmmi i	n n i i mm mmmmmmmmmmmi
+
+iiiiiiii	ijm	m
+
+mi i iiiiiiii niiiiiiiii iiiiiiiiiiiiiiinii	iiimimi n n i
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiimimm mmmmmmmmmm
+
+iiimi
+
+ii m mm
+
+mi ii
+
+n
+
+mm mi
+
+mmmmmmmmmmmimmmmmmmmmmmmmmmmúm
+m	mi	mmm m	miijm
+
+n mu	i iiiiiiim m n ii i	mi mi mi
+
+iiiiiiiiiiiiiiiimimm iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimimm
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiimimm mmmmmmmmi
+ni m	ii mi ii	mi i ii
+
+i> i i	i m m i	mu ii
+
+ii'iiiiiiiiiiiiiiiiiiimimm iiiiiiiiiiiiiiiiiiiiiiiiimimm
+lili	mmi i m	imiim	i
+
+ii	ii	i ii
+
+iiimmmmmmmmmmmmmmmmimi
+
+i m i mm ii m iiiiiiii mm mi
+
+1 III		i i 1		i i	ii	ii	1 Ii
+II 1	III	mmm m	ii				mili
+		i i mili		mi	mi	iiiiiiii	iiiiiiii
+1 III		i i i		i i	ii	ii	1 i
+II 1	III	mmm m	ii				mil
+1 1		ii m		m		ii	m i
+
+ii i i
+
+ii mmm u mmi n i i mi
+ii i ii
+ii	m ii
+
+ii ii i imi mi i
+
+ii
+
+mmi
+
+ii
+
+ii
+
+■i
+
+i mi
+
+m ii
+
+ii
+
+i m
+
+mm
+iiiiiiii
+i ii
+
+mm
+
+i
+
+I
+I
+I
+
+II
+
+II
+
+sio|s-jnoi|/0iup J0AO qi p 0DU0S0jd smol|s 0iu| |epozuoi| ipeg
+
+)Sj|)JOl|S P 93U9S9Jd Q|
+
+TOP SECRET
+
+Big-Data Computational Challenge
+
+All the previous analytics, while successful experimentally,
+ran much too slowly to allow for practical productization
+
+CARE: Collaborative Analytics Research Environment
+
+a big-data system being trialed at CSEC (with NSA launch assist)
+non-extraordinary hardware
+
+minimal impedance between memory, storage and processors
+highly optimized, in-memory database capabilities
+columnar storage, high performance vector functional runtime
+powerful but challenging programming language (derived from APL)
+
+Result of first experiments with CARE: game-changing
+
+run-time for hop-profiles reduced from 2+ Hrs to several seconds
+allows for tradecraft to be profitably productized
+
+TOP SECRET
+
+Overall Summary
+
+IP profiling showing terrific value
+
+significant analytic asset for IP networks and target mobility
+enables critical capability within Tipping & Cueing Task force
+working to productize on powerful new computational platform
+broader SSO accesses/apertures coming online at CSEC
+look to formalize models & fold-in timing deltas
+
+A new needle-in-a-haystack analytic is viable: contact
+chaining across air-gaps
+
+enabled by sweep capability of IP profiling
+
+should test further to understand robustness with respect to loosening
+assumptions of target behaviour
+
+beyond kidnapping, tradecraft could also be used for any target that makes
+occasional forays into other cities/regions
+
+26
+
+TOP SECRET
+
+Tradecraft Studio Example
+
+Possible route for productizing analytics

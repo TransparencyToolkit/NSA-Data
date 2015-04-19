@@ -1,1698 +1,899 @@
- 
+﻿TURMOIL VPN PROCESSING
 
 27 October 2009
 
- 
-
 The overall classification for this brief is:
-TO USA, 
+[TOPSECRET//COMINT//REL TO USA, FVEY]
 
-TOP TO USA FVEY
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
+Agenda
 
-VPN Technology Overview
-- Dataflows and Interfaces
+•	VPN Technology Overview
 
-- LPT Implementation
+•	Dataflows and Interfaces
 
-- Metrics
+•	LPT Implementation
 
-TOP Tr) FVFY
+•	Metrics
 
-   
+TOP SF<~RFT//mMINT//RFI TO I ISA FVFY
 
-TOP TO USA FVEY
+TOP SECRET//COMINT//REL TO USA FVEY
 
-. Overview VPN Mission Opportunity
+Overview - VPN Mission Opportunity
 
-Exploit Virtual Private Network (VPN) communications that use IP Security (IPsec) algorithms
-and protocols:
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
 
-(U) ISAKMP Internet Security Association and Key Management Protocol (RFC2407, RFC2408)
-provides an authentication and key exchange framework.
+TOP SECRET//COMINT//REL TO USA FVEY
 
-(U) IKE Internet Key Exchange (RFC2409) provides authentication and key exchange mechanisms.
+IKE-ISAKMP Protocol
 
-(U) ESP - Encapsulating Security Payload (RFC2406) provides traffic confidentiality and
-optional integrity protection.
+UNCLASSIFIED
 
-(U) AH ?Authentication Header (RFC2402) provides integrity protection that includes IP Header.
-Sometimes AH is used to wrap ESP for additional integrity.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-  Phase 1 Phasef 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-ISAKMPEIKE Phase 2 Handshake; Phase 2 
-
-ISAKMP SA. an.
-
-    
-  
-    
-
-
-Security
-Asaociatiun
-Database
-
-ESP ESP 
-
-  
- 
-
-Security
-Association
-Database
-
-     
-   
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-JP Source IP IZJIestinatithI
-.J
-
- 
-
- 
-
- 
-
-TOP TO FVFY
-
-TOP TO USA FVEY
-
- 
-
- 
-
-UNCLASSIFIED 5?
-
-Internet Key Exchange RFC 2409)
+Internet Key Exchange (IKE - RFC 2409)
 Internet Security Association and Key Management
-Protocol (I3AKMP RFC 2403)
+Protocol (ISAKMP - RFC 2408)
 
- 
+0	1	2	3
 
- 
+01234567890123456789012345678901
 
- 
+Version
 
-1 2 3
+IHL
 
-Versionl IHL I Type of Service Total Length
-Identification Flags I Fragment Offset IF
-Time to Live Protocol 1? Header Cheeksum Header
+Type of Service
 
- 
+Identification
 
- 
+Tims lo Live
+
+Protocoi = 17
+
+Tola Length
+
+Flags
+
+Fragment Oftset
+
+Header Checksum
 
 Source Address
 
- 
-
 Destination Address
 
- 
+Source Port= 500
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Source Port 5011 Destination Port 500 UDFI
-Length Checkgum Header
-Initiator Cookie
-Initiator Cookie
-Responder Cookie ME I
-Responder Cookie ISAKMP
-Next Payload Ver Mn ver Exchange Type Flags Header
-Message ID
 Length
 
- 
+Destination Port = 500
 
- 
+Checksum
 
-Key Management Data 
+Initiator Cookie
 
- 
+initiator Cookie
 
- 
+Responder Cookie
 
- 
+Responder Cookie
 
- 
+Next Payload
 
- 
+Mj Ver
 
- 
+Mn Ver
 
- 
+Exchange Type
 
-UNCLASSIFIED J.
+Flags
 
-TOP Tr) liRA FVFY
+Message ID
 
-TOP TO USA FVEY
+Length
 
- 
-
- 
-
-?f UNCLASSIFIED 
-Encapsulating Security Payload (ESP - RFC 2405) 
-
-1 2 3
-
-Versionl IHL ITyoe of Service Total Length
-
- 
-
- 
-
- 
-
-Identification Flags I Fragment O?set
-
- 
+Key Management Data
 
 IP
 
-Time 10 Live I Fratn?u| 5-D Header CITECKSLIITI Headef
+Header
 
- 
+UDP
 
- 
+Header
 
-Source Address
+IKE /
 
- 
+Y ISAKMP
+Header
 
-Destination Address
+UNCLASSIFIED
 
- 
+TOP CF(~BFT//rnMINT//RFI TD I IRA FVFY
 
- 
+ESP Protocol
 
- 
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
+			UNCLASSIFIED				
+f?	Encapsulating Security Payload (ESP - RFC 2406)						
+	0		1		2 3		
+	01 2345678901 2345670901 2345678901						
+	version	IHL	Type of Service	Total Length			
+	Identification			Flags	F ragm enl Offset		, 'P  Header
+	Time to Live		Protocol = 50	Header Checksum			
+	Source Address						
+	Destination Address						
+	Security Parameter Index (SPI)					1	ESP
+	Sequence Number					J	Header
+	Encrypted Data						
+								J
+UNCLASSIFIED							
 
- 
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
 
- 
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
+AH-ESP Protocol
 
- 
+UNCLASSIFIED
 
- 
+Authentication Header (AH - RFC 2402)
+Encapsulating Security Payload (ESP - RFC 2406)
 
- 
+0	12	3
 
- 
+01234567890123456789012345678901
 
-Security Parameter Index ESP
-Sequence Number Header
-Data 
-is 
-a UNCLASSIFIED 
+Version IHL	Type of Service	Total Length	>
+Identification		Flag s Frag me nt Offset	
+Time to Live	Protocol = 51	Header Checksum	
+Source Address			
+Destination Address			
+Next Header=5C	Header Length	Reserved	>
+Security Parameter Index (SPt)			
+Sequence Number			
+Integrity Check Value (ICV) ¡Variable length]			
+Security Parameter Index ($P|)			}
+Sequence Number			
+Encrypted Data			
 
- 
+iP
 
-TOP Tr) IIRA FVFY
+Header
 
-TOP TO USA FVEY
+AH
 
- 
+Header
 
- 
+ESP
 
- 
+Header
 
- 
+UNCLASSIFIED
 
- 
+TOP FF(~RFT//rnMINT//RFI TD I IF!A FVFY
 
- 
+Overview
 
- 
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
+VPN IPsec Collection
 
- 
+oo:oa
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-r? UNCLASSIFIED 
-{If Authentication Header (AH RFC 2402} 
-Encapsulating Security Payload (ESP - RFC 2406}
-
-0 1 2 3
-
-yersienI IHL I Type of Sennee Total Length
-Identification Flags I Fragment Offset
-Time to Live I Protocol =51 Header Checksum Herder
-Source Address
-Destination Address
-Next Header=5tl I Header Length Reserved
-Security Parameter Index (SPI)
-Sequence Number Hezzer
-Integrity Check Value [Variable length]
-Security Parameter Index (SPI) 
-Sequenoe Number Header
-Data
-
-UNCLASSIFIED 
-
- 
-
-TOP TO IIRA PVFY
-
-TOP TO USA FVEY
-
-. Overview VPN lPsec Collection
-
-  
-
- 
-
-00:00
 Hours
 
+*
 
+L
 
- 
+r
 
-IK IKE IKE IKE IKE
-Phase 2 Phase 2 Phase 2 Phase 2
+Interna!
 
-Internal
 IP Addresses
-to 10.161211 12)
 
-A 1
+(10.160.0.84 tc 10.131.27.ltd )
 
-Internal
+_______A__________
+
+1 r
+
+I dismal
 IP Addresses
-(10.160334 to 1016121111)
 
-A
+(10.16O.0.B41O 10,161.27.111 )
 
-Internal
+_____________A,
+
+"Y
+
+r
+
+Interna
 IP Addresses
-{10.160.0.84lo1016121111I
-A 
 
-24:00
+(10.160.0.76 to 10.101.27 112 )
 
-Home
+_______A________
 
-Tunneled IP Sessions Tunneled IP Sessions Tunneled IP Sessions
+1
+
+Tunneled IP Sessions
+
+Tunneled IP Sessions
 
 IKE
 
+Phase 2
 
+Tunneled IP Sessions
+AHÆSP
 
+24:00
 
+Hours
 
-VPN Tunnel External Addresses I: 172.3.1053 l0 192.168.100.86}
+IKE
 
- 
+Phase
 
-Collection requires dwell time to capture IKE associated with ESP
+, p.',k,e.	•>
 
-Collection requires link diversity to capture IKE associated with ESP
-There is no guarantee that IKE and ESP will use the same link.
+V
 
-Collection requires multiple selectors to target external and tunneled sessions
-VPN Tunnel External IP Addresses To Target 
-Strong Selectors on Internal IP Links To Target VPN Content
+vpn Tonnsi External ip Addresses ( 172.3.105.3 to 192,i6B.ioo.ee )
 
-TOP TO IIRA FVFY
+■	(TS//SI//REL) Collection requires dwell time to capture IKE associated with ESP
 
- 
+■	(TS//SI//REL) Collection requires link diversity to capture IKE associated with ESP
+
+(S//SI//REL) There is no guarantee that IKE and ESP will use the same link.
+
+■	(S//SI//REL) Collection requires multiple selectors to target external and tunneled sessions
+
+(S//SI//REL) VPN Tunnel External IP Addresses - To Target Decryption
+(S//SI//REL) Strong Selectors on Internal IP Links - To Target VPN Content
+
+TOP FF(~BFT//rnMINT//RFI TD I IRA FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Overview
+
+Customer Needs
 
 Customer
 
-SIGINT Analyst
-
-
-Network Analysis Center
-(NAC)
-
-Office of Target Pursuit
-
--Target and Analyze Traffic
--Report SIGINT
-
--Identify target IKE and ESP Metadata
--Report VPN Target IDs and Links
-
-Search and survey for of interest
-
-Func?ons
-
-TOP TO USA FVEY
+Functions
 
 Needs
 
-~Target IDs, Target Links, Target Value
-Targeted Traffic
-
--VPN IKE and ESP Metadata
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(OTP) -Report VPN Traffic Intelligence Value Surveys
--VPN Surveys
-Systems Analysis Office -Identify VPN Technologies -VPN IKE and ESP Metadata
-(SAO) -Identify VPN Vulnerabilities Surveys
--Support VPN Exploitation Quality
-if DTP o?rF 
-TOPI TUPI TOPI
-A. A A
-00:00 r? r? ?t mm
-Tunnelecl IP Sessions Tunneled IP Sessions Tunneled IP Sessions Home,
-i 
-Phase 2 Phase 2 Phase 2% Phase 2
-to a? to t; 
-
-HAC- CITP NAG OTP NAG DTP HACIIRA FVFY
-
-TOP TO USA FVEY
-
- 
-
- 
-
-Target Protocol
-IP Security (lPsec)l
-
-Internet Key Exchange (IKE) 
-Internet Security Association Key Management Protocol Pmducts Data??ws
-
-I I lulPN metadata with full-take IKE and sampled ESP
-(Metadata Dataflow}
-
- 
-
-Tar et?Protocol Selected application sessions recovered from
-Security o?b VPN sessions selected for and re-injection
-EncapSUlating Seourity Payload (ESP) (Transform datarlow)
-
-i I TU REUPLNENCE I sessions selected for deeryption and SUrvey
-
-Survey dataflow)
-
-5 VPN sessions selected for analysis
-(AnglE Dataflgw)
-
-Target Protocol
-
- 
-
- 
-
- 
-
- 
-
- 
-
-IP Security (lPsec)! VPN sessions selected for 
-Authentication Header that fail to using provided key
-Encapsulating Security Payload (ESP) (TransformCIA Dalaflovv)
-I
-0
-IP Address Selector Actions
-Transform
-
-Transform NoTransfoerA
-Transform 3: Survey
-Transform it Survey 8: NoTransfoerA
-Analyze
-Transform Analyze
-Transform it Analyze 8t NoTransfoerA
-Transform 8t Analyze 8: Survey
-Transform Analyze 3t NoTranSformCtA 3: Survey
-
- 
-
- 
-
-TOP TO IIRA PVFY
-
- 
-
-Customer
-
 SIGINT Analyst
+(TOPI)
 
+•Target and Analyze Traffic
+•Report SIGINT
+
+•Target IDs, Target Links, Target Value
+•Unencrypted Targeted Traffic
 
 Network Analysis Center
 (NAC)
+
+•Identify target VPN’s
+
+•Report VPN Target IDs and Links
 
 Office of Target Pursuit
 (OTP)
 
-Systems Analysic Office
+•Search and survey for VPN’s of interest
+•Report VPN Traffic Intelligence Value
+
+Systems Analysis Office
+(SAO)
+
+•Identify VPN Technologies
+•Identify VPN Vulnerabilities
+•Support VPN Exploitation
+
+•VPN IKE and ESP Metadata
+
+•VPN IKE and ESP Metadata
+•VPN Encrypted Surveys
+•VPN Unencrypted Surveys
+
+•VPN IKE and ESP Metadata
+•VPN Encrypted Surveys
+•VPN Decryption Quality
+
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Overview
+
+VPN Products
+
+f
+
+Target Protocol
+
+IP Security (IPsec)/
+
+Internet Key Exchange (IKE) /
+
+Internet Security Association Key Management Protocol (ISAKMP)
+
+\
+
+Products I Dataflows
+
+I
+
+t_____________
+
+Target Protocol
+
+IP Security (IPsec) /
+Encapsulating Security Payload (ESP)
+
+9_________________
+
+6
+
+Target Protocol
+
+IP Security (IPsec)/
+Authentication Header (AH) /
+Encapsulating Security Payload (ESP)
+
+*
+
+*
+
+i	>	►
+i	»	►
+TURBULENCE	
+VPN	
+i	> ►
+i	»	►
+
+VPN metadata with full-take IKE and sampled ESP
+(Metadata Dataflow)
+
+Selected application sessions recovered from
+VPN sessions selected for decryption and re-injection
+(Transform dataflow t
+
+VPN sessions selected for decryption and survey
+(Survey dataflow^
+
+Encrypted VPN sessions selected for analysis
+(Analyze Dataflow)
+
+Encrypted VPN sessions selected for decryption
+that fail to decrypt using VAO provided key
+(TransformQA Dataflow!
+
+*
+
+•
+
+IP Address Selector Actions
+
+Transform
+
+Transform & NcTransformQA
+Transform & Survey
+Transform & Survey & NoTransfomiQA
+Analyze
+
+Transform & Analyze
+Transform & Analyze & NoTransformQA
+Transform & Analyze & Survey
+Transform & Analyze & NoTransformQA & Survey
+
+____________________________________________________________________________________/
+
+TOP RF<~RFT//mMINT//RFI TD I IRA FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Overview
+
+Needs and Products
+
+Customer
 
 Needs
 
-~Target IDs, Target Links, Target Value
-Targeted Traffic
-
-IKE and ESP Metadata
-
--VPN IKE and ESP Metadata
-
-Surveys
-
--VPN Surveys
-IKE and ESP Metadata
-
-TOP TO USA FVEY
-
 Products
 
-~Transform Dataflow
+SIGINT Analyst
+(TOPI)
 
-~Metadata Dataflow IKE Fulltake
-~Metadata Dataflow ESP Samples
-Metadata Dataflow IKE Fulltake
-~Metadata Dataflow ESP Samples
--Analysis Dataflow
+•Target IDs, Target Links, Target Value -Transform Dataflow
+•Unencrypted Targeted Traffic
 
--Survey Dataflow
+Network Analysis Center -VPN IKE and ESP Metadata
+(NAC)
 
-~Metadata Dataflow IKE Fulltake
+Office of Target Pursuit	-VPN IKE and ESP Metadata
 
- 
+(OTP)
 
- 
-  
+•VPN Encrypted Surveys
 
- 
+•Metadata Dataflow - IKE Fulltake
+•Metadata Dataflow - ESP Samples
+•Metadata Dataflow - IKE Fulltake
+•Metadata Dataflow - ESP Samples
+•Analysis Dataflow
 
- 
-
- 
-
- 
- 
-
-  
-
-   
-
- 
-
- 
-
- 
-
+Systems Analysic Office
 (SAO)
-~Metadata Dataflow ESP Samples
-Surveys -Analysis Dataflow
-If -VPN Quality -TranefnerA Dataflow 
-Transform Survey 
-Dataflow Dataflow
-A A A
-""100 if \t at 24:00
-Hm? Tunneled IF Sessions Tunneled IP Sessions Tunnelecl IP Sessions Hours
-IK IKE IKE IKE  IKE
-Phase 2 Phase 2 Phase 2 Phase 2
-- to 
-OTP DTP
-DTP DTP 5A0
-3A0 SAD
 
- 
+•VPN Unencrypted Surveys
+•VPN IKE and ESP Metadata
 
-Metadata
-Dataflow
+•VPN Encrypted Surveys
 
-  
+•Survey Dataflow
+•Metadata Dataflow - IKE Fulltake
+•Metadata Dataflow - ESP Samples
+•Analysis Dataflow
 
-Metadata
-Dataflow
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
 
-TOP TO IIRA FVFY
+TOP SECRET//COMINT//REL TO USA FVEY
 
-      
-
-Metad ata
-Dataflow
-
- 
-
- 
-
- 
-
-  
-
-Analysis
-Dataflow
-
-  
- 
-
-    
-
-Analysis
-Dataflow
-
-  
-
-TransfoerA
-Dataflow
-
-TOP TO USA FVEY
+Dataflows and Interfaces - Metadata
 
 (Classic)
 
- 
+■	(S//SI//REL) VPN IKE/ISAKMP Metadata in TOYGRIPPE is full-take
 
- 
+■	(S//SI//REL) VPN ESP Metadata Sessions in PRESSUREWAVE is sampled (l/16th)
 
- 
+■	(S//SI//REL) VPN AH/ESP Metadata Sessions in PRESSUREWAVE is sampled (l/16th)
 
- 
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
 
-   
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
+Dataflows and Interfaces - IKE Metadata
+_____________(New and Improved!)_____________________________________
 
- 
+SECRET//COMINT//REL TO USA, FVEY
 
- 
+Internet Key Exchange (IKE) / Internet Security Association Key Management Protocol (ISAKMP)
 
- 
+VS-IKE-MD2
 
- 
+T: MAILORDER	|
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Internet Key Exchange Internet Security Association Key Management Protocol (ISAKM P)
-Authentication Header (AH) i Encapsulating Security Payload (ESP)
-
-T: Socket Connection 
-c: c: Records 
-F: SDTF TUBE F: son: TURMOIL C: Content
-EXOPUMP 4? a F'F?fmai
-vFNto 
-T: ITK (JMS) T: lTl-t T: MAILORDER
-I c: Records IKE Records METROTUBE c: IKE Seseiene 
-so F: soTF . F: TGIF 
-PRESSURE 
-WAVE TOYGRIPPE
-
-
- 
-
-VPN Metadata In TOYGRIPPE is full-take
-VPN ESP Metadata Sessions in PRESSUREWAVE is sampled (1/16t?)
-VPN Metadata Sessions in PRESSUREWAVE is sampled (1/16th)
-
-TOP TO IIRA PVFY
-
-TOP TO USA FVEY
-
-Dataflows and Interfaces IKE Metadata
-(New and Improved!)
-
- 
-
- 
-
-    
-     
-   
- 
-
-   
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-T0 USA, FVEY 
-Internet Key Exchange (IKE) Internet Security Association Key Management Protocol (ISAKMP)
-vS-IKE-lvlm
-Socket Connection 
-C: lPsecr'lKE Records Transport
-F. SDTF Content
-F: Format
-T: 
-C: lPsecr'lKE h-Ietacata I
-F: ASDF 
-T: 
-C: lPsecr'lKE Metadata 
-3 
-FALLOUT 
-TOYGRIPPE
-
-
- 
-
-VPN Metadata in TOYGRIPPE is full-take
-VPN ESP Metadata Sessions in PRESSUREWAVE is sampled (1/16t?)
-VPN Metadata Sessions in PRESSUREWAVE is sampled (1/16t?)
-
-TOP TO IIRA FVFY
-
-TOP TO USA FVEY
-
- 
-
- 
-
-SECRETHCOMIN TO USA, FVEY
-Authentication Header Encapsulating Security Payload (ESP)
-
-   
-    
- 
-
-
-T: Sccl-tet Connection
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-C: Etadata BundiES inter-ENE" 
-F: AsoF In SOTF Transport
-TUB TURMOIL Content
-i Form at
-c: lPsecrESP Metadata I 
-FIASDF T: MAILORDER
-C: lPsecr'ESP Metadata
+C: P sec/IKE Metadata ,
 F: ASDF
 
+______ TUBE
 
- 
+VS-IKE-MD1
 
- 
+T Socket Connection
+C: Psec/IKE Records
+F: SOTF
 
- 
+TURMOIL
 
- 
+Interface Key
+T - Transport
+C = Content
+F - Format
 
- 
 
- 
 
-TOP TO IIRA PVFY
+FALLOUT
 
-     
- 
+VS-IKE-MP3
 
-TOP TO USA FVEY
+T: MAILORDER
+C: IPsec/IKE Metadata
+F: ASDF
 
-I Dataflows and Interfaces - Analyze
+TOYGRIPPE
 
- 
+■	(S//SI//REL) VPN IKE/ISAKMP Metadata in TOYGRIPPE is full-take
 
- 
+■	(S//SI//REL) VPN ESP Metadata Sessions in PRESSUREWAVE is sampled (l/16th)
 
- 
+■	(S//SI//REL) VPN AH/ESP Metadata Sessions in PRESSUREWAVE is sampled (l/16th)
+
+TOP RF<~BFT//mMINT//RFI TD I IRA FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Dataflows and Interfaces - ESP Metadata
+
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Dataflows and Interfaces - Analyze
+
+Internet Key Exchange (IKE) ! Internet Security Association Key Management Protocol (ISAKMP)
+
+< • »
+
+VPN6
 
 T: Socket Connection
 
- 
+C: IKE & ESP Sessions selected for Analysis
 
- 
-
- 
-
- 
-
- 
-
-EXOPUMP
-
- 
-
- 
-
- 
-
- 
-
- 
+TUBE
 
 Encapsulating Security Payload (ESP)
 
+J1-. SOTF
+
 VPN1
+
 T: Socket Connection
+C1 Selector Hit Qcery/Response
 
- 
+■ TURMOIL	..............► KEYCARD
 
- 
+VPN9
 
- 
+T: MAILORDER
 
- 
+C: IKE & ESP Sessions Selected for Analysis
+F: SOTF
 
- 
+EXOPUMP
 
- 
+VPN11
 
- 
+T: JTx (JMS)
 
- 
-
-C: IKE 8. ESP Sessions selected for Analysis C: Selector Hit Queryi?esponse
-F: . -
-TUBE ..- TURMQIL KEYCARD
-
-T: MAILORDER 
-C: IKE i5: ESP Sessions Selected for Analysis IT JMS
-F- SOTF "i i
-C: IKE ESP Sessions Selected for Analysis
-
-F: 
-
-   
- 
-
+Or IKE & ESP Sessions Selected tor Analysis
+F: XMLiSOTF
 
 PRESSURE-
-vavE
-
- 
-
-KEYCARD IP Target Action must be ANAL YZE
-Full-take of Sessions.
-No Analytic at this time
-
-TOP TO PVFY
-
- 
-
-  
-    
- 
-
- 
-
- 
+WAVE
 
 Interface Key
-Transport
-Content
-F=mem
+T “ Transport
+C = Content
+F = Format
 
- 
+■	(U//FOUO) KEYCARD IP Target Action must be ANALYZE
 
- 
+■	(U//FOUO) Full-take of IKE/ESP Sessions.
 
-TOP TO USA FVEY
+■	(U//FOUO) No Analytic at this time
 
- 
+TOP CF<~BFT//rnMINT//RFI TO I IRA FVFY
 
- 
+TOP SECRET//COMINT//REL TO USA FVEY
 
- 
-     
+Dataflows and Interfaces - Survey
 
-    
+□
 
-       
+◄-
 
- 
+TOP SECRET//COMIIMT//REL TO USA, FVEY
 
- 
+Internet Key Exchange (IKE) / Internet Security Association Key Management Protocol
 
- 
+Authentication Header (AH) / Encapsulating Security Payload (ESP)
 
- 
+VPN7
 
- 
+T: Socket Connection
+C: Encrypted and Decrypted
+Application Sessions
+F: SQTF
 
- 
+XKEYSCORE
 
- 
+(ISAKIVP)^
 
- 
+VPN1
 
- 
+T: Socket Connection
+C Selector H it Query/Response
+F: Binary.................
 
- 
+VPN1B
 
- 
+T: Secure Socket (SSL)
 
- 
+C: PIQ Blade Management
+F: WebSA
 
- 
+KEYCARD
 
- 
+Interface Key
+T = Transport
+C = Content
+F _ Format
 
- 
+DOC/CES
 
- 
+		
+VPN4  T: IT*	03  i	(t3
+C: IKE Messages	a:	£
+F IH(SOAP)	O	(]>  l_
+	_i	LL
+VPNS	5	to
+T: ITx	X	LU
+C: ESP Key Req/Res F: IH(SOAP)	ír.)  LU  O	o
+		
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP TO USA, FVEY 13
-Internet Key Exch ge (IKE) i Internet Security Association Key Management Protocol (ISAKNE)
-Authentication Header AH I?Enca sulatin Securit Pa load ESP
-vFNi
-TI 
-TU Ci Selector Hit Oueryr'Respo'tse
-. . Itri 
-.E-?lljart? KEYCARD 
-Content
-T: Secure Sochet (SSL) me at
-C: Plo Slade Management 
-SDCKEII  
-C: and Res?u was
-A at' 
-Ion - Grid
-$5 Resource I
-Allocation
-.. 
-PIQ :13. or Manager
-B|ade IKE Messages :5 a GRAM
-i I
-xKEvscer LE 3 
-
-LIJ to to 
-ESF'Itcy-FteorFtes KEYCARD IP Target Action must be TRANSFORM SURVEY
-Candidate Sessions for include BME:
-
-vpnID 
-Sessions include BME:
-
-vpnID i 
-
-TOP TO PVFY
-
-  
-
-TOP TO USA FVEY
-
- Dataflows and Interfaces - Transform
-
- 
-
- 
-
-   
-
- 
-
- 
-
- 
-
- 
-
-TOP TO USA, FVEY
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Internet Ke Exchan IKE nternet Securit Association Ks Marla ement Protocol ISAKMP
-Authentication Header AH Erica sulatin Securit Pa load ESP
-
-VPNE TI SOCKET CONNECTION
-T: Socket Connection C: Selector Hit OueryiResponse Interface KB
-T=Transpon
-TUBE  2 Content
-. C: PIO Blade Management
-Note F: 
-5 *Selected Application Sessions DOC r' CES
-5 are Identi?ed and selected item PC
-the pacKets extracted - RSSCU 
-I from the VPN tunnel and inserted Grid
-I intothe input stream. 
-5 WM Resource
-VPNAI 3 
-PIQ to
-. C. Selected Application Seasons We -I- Manager
-it F: soTF Services IKE Messages (GRAM)
-_l LILESP Key Reg-Res a CI 
--- IHtsoAFi 
-T: (JMS) PRESSURE- 4. I- 
-C: Selected Appl Sessions? WAVE EL 0
-F: 
-'s A
-
-     
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-  
-
-  
-   
-   
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
-
- 
-
-PIQ Blade provides PIQ-Services, PICARESQUE ECI Compartmented
-Transform is Sanitization of 
-VPN AHIESP Session Transform capability is not available in Spin 12
-
-KEYCARD IP Target Action must be TRANSFORM
-
-sessions have BME vpnID :5 
-
-TOP TO PVFY
-
- 
-
-TOP TO USA FVEY
-
-VPN on Dell LPT
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-  
-     
-
- 
-
-  
- 
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
- 
-
-   
- 
-
-     
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-TOP SE CR TO SA, FVEY
-ENDACE 2
-
-I
-pl Stage 1 I
-I 
-If line-lay.l FCP I
-TBUS I
-packers 1 
-I
-Stage 1 VPN I
--ir VPN TE SessI?Uns I
-I
-I Diner SESSIONS
-I pprUenfS  Metad Metadata
-(Metadata) Processor
-Stage 0 
-
-
-
-
-PIG I
-- IKE Sessions VFW I
-- ESP Reqf?esp Sessr?uns Sessr?enSI
-POISON a 
-NUT   Services Packets ?1 
-
-I .I .
-
-MBUS 
-?Eggs I ppI'EIrenIs  I. Metad ata Metadata I
-(Mara-data)  pmessm 
-x? 
-
-2'
-
- 
-
-TOP Tr) FVFY
-
-TOP TO USA FVEY
-
-VPN on Dell LPT
-
- 
-
- 
-
- 
-
- 
-
-     
-
- 
-
-      
- 
- 
- 
- 
-
- 
-
- 
-
- 
-
- 
- 
-   
-    
- 
-     
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-TOP SECRETHCOMINTHREL T0 USA, FVEY
-ENDACE Stage 1 TE Sessr?ensTBUS Router OlherTE's I 
-Packers ENDACE 1 
-WI. I
 VPN
-?l Stage Stage 0 
+
+Metrics
+
+i—  D		o	
+Z		"5	
+Z	o  03	«	O
+o		CD	<
+to  o  Cl	<	JZ  c  1—  O	
+
+Grid
+
+Resource
+
+Allocation
+
+Manager
+
+(GRAM)
+
+HIPC
+
+Resources
+
+Cryptovariables
+
+CORAL
+
+REEF
+
+■	(U//FOUO) KEYCARD IP Target Action must be TRANSFORM & SURVEY
+
+■	(TS//SI//REL) Candidate Sessions for Decryption include BME:
+
+vpnID = “08000000-0000-0000-0000-000000000001”
+
+■	(TS//SI//REL) Decrypted Sessions include BME:
+
+vpnID * “08000000-0000-0000-0000-000000000001”
+
+TOP SF<~BFT//mMINT//RFI TD I ISA FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Dataflows and Interfaces - Transform
+
+◄-
+
+TOP SECRET//CQMINT//REL TO USA, FVEY
+
+internet Key Exchange (IKEU internet SecurityAssociation Key Management Protocol (ISAKMP1
+
+TUBE
+
+VPN6
+
+T: Socket Connector
+C Selected Application Sessions'
+F SOTF
+
+Note
+
+* Selected Application Sessions
+are identified and selected from
+the decrypted packets extracted
+Irom Ihe VPN tunnel and inserted
+into the TURMOIL input stream
+
+VPNS
+
+T: MAILORDER
+
+C: Selected Application Bessons’
+Ft SOTF
+
+EXOPUMP
+
+VPN11
+
+T: ITx (JMS)
+
+C: Selected Appl Sessions’
+F XMUSOTF
+
+PRESSURE-
+WAVE „
+
+AutHentication Header (AH) / Encapsulating SecurityPayload [ESP),
+
+VPN1
+
+T Socket Connection
+C: Selector Hit Query/Response
+F: Binaiy
+
+VPN18
+
+T: Secure Socket (SSL)
+
+C: PIQ Blade Management
+F: WeOSA
+
+KEYCARD
+
+Interface Key
+T = Transport
+C s Content
+F = Format
+
+DOC/CES
+
+VPN4
+
+T: ITx (JMS)
+
+C: IKE Messages
+___F HfSQAP)_________
+
+VPNS
+
+T: ITx (JMS)
+
+C: ESP Key Req/Res
+F: IH(SOAP)
+
+>1	
+CB	
+$		
+<D	CO
+	
+o	0  i_
+—1	L_
+2	(O
+X	LU
+CO	O
+LU	
+o	
+
+Grid
+
+Resource
+
+Allocation
+
+Manager
+
+(GRAM)
+
+H PC
+
+Resources
+
+Cryptovariables
+
+CORAL
+
+REEF
+
+■	(TS//SI//REL) PIQ Blade provides PIQ-Services, PICARESQUE ECI Compartmented
+
+■	(TS//SI//REL) Transform is Sanitization of Decrypt
+
+■	(S//SI//REL) VPN AH/ESP Session Transform capability is not available in Spin 12
+
+■	(U//FOUO) KEYCARD IP Target Action must be TRANSFORM
+
+■	(TS//SI//REL) Decrypted sessions have BME vpnID t “08000000-0000-0000-0000-000000000001”
+
+TOP FFFBFT//mMINT//RFI TD I IF A FVFY
+
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
+
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+Sample stats : 14-22 Oct 2009
+
+System	KeyRequests	KeyResponses	KeyNotRecovered	Packets Decrypted
+MHS_DEV	8076	0	0	0
+MHS_LIVE	26501	12200	0	8041883
+MHS_LPT	1725	0	0	0
+SMK6	43087	4755	0	1413532
+
+TOP FF<~RFT//rnMINT//RFI TD I IF!A FVFY
+
+TOP SECRET//COMINT//REL TO USA FVEY
+
+IKE Metadata Sequence
+
+TOP SECRET//COMINT//REL TO FVEY
+
+Stags Q
+
+FSPr
+
+IKE Packets
+
+-0
 
 
 
-Sew-m3 nsrma?ed mi")
-Reqf?esp essr?ens VPN TE Sessr'OnSI
-POISON erypted [gig?"4 I I
-NUT -.. jackets I Other TE's 
+Matched IKE packets
 
-I
-
-Packers 
-(SGTF) I
-
-
-2'
-
- 
-
-TOP Tr) FVFY
-
-TOP TO USA FVEY
-
-Sample stats 14-22 Oct 2009
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-System KeyRequests KeyResponses KeyNotRecovered Packets 
-8076 0 0 0
-
-26501 12200 0 8041883
-1725 0 0 0
-
-SM K6 43087 4755 0 1413532
-
- 
-
- 
-
- 
-
- 
-
-TOP Tr) FVFY
-
-
-
-
-TOYGRIPPE
-
- 
-
- 
-
-FALLG UT
-
-
-
- 
-
- 
-
-
-
- 
-
- 
-
-ASDF Flap-utter
-
- 
-
- 
-
- 
-
-IKE SMG
-
- 
-
- 
-
-IKE 
-
- 
-
-IKE Mme-dale SeseIOns
-
-e5
-I
-I
-
-IKE Metadata Bundl
-
- 
-
- 
-
-DFID Allanamr
-
-5m .3. 
-
-IKE Metadata
-
- 
-
- 
+----------t>
 
 AEG
 
- 
+Keyword
 
- 
+ppf ^ents
 
- 
+ASQF events
 
-FIB-PF
+SOTF
 
-SDTF
-ASDF
+A5DF
 
- 
+DFID AI ocator
 
- 
+IKE EvoniTcBME
 
- 
+IKE SMG
 
- 
+ASDF Recruiter
 
-Biage?
+IKE Metadata
 
-IICE Packets
-.-
 
-events
-ASDF events
 
- 
+I
 
- 
+SRI & Application M/D
 
-TOP TO PVFY
+------------------->
 
+I	I
+
+I
+
+IKE Metadata Bundles
+
+IKE Mdslata Sasetoh;
+
+>' o
+
+TUBE
+
+ASDF Bundles
+
+FALLOUT
+
+TQVGRtPPE
+
+ASDF Bundles
+
+IKE ASDF Metadata
+
+4>
+
+TDP FF(~RFT//rnMINT//RFI TD I IF!A FVFY

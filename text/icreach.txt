@@ -1,48 +1,49 @@
- 
+﻿Page 132
 
-Page 132
+SECRET//COraNT//NOFORN//20320108
 
- 
+Communications Metadata Fields in
 
+ICREACH
 
+(S//NF) NSA populates these fields in PROTON:
 
+• Called & calling numbers, date, time & duration of call
 
+(S//SI//REL) ICREACH users will see telephony metadata* in the following fields:
 
-Comm ue?i?ea?tia re" M'?t?d?ta" Fields in"   
-ICREACH 
+DATE & TIME
 
-(SHN F) NSA populates these ?elds in PROTON:
-- Called 8r calling numbersI date, time duration of call
+DURATION - Length of Call
+CALLED NUMBER
+CALLING NUMBER
 
-   
+CALLED FAX (CSI) - Called Subscriber
+ID
 
-ICREACH users will see telephony metadata* in the following ?elds:
+TRANSMITTING FAX (TSI) -
+Transmitting Subscriber ID
 
-DATE 8: TIME IMEI International Mobile Equipment
+IMS! - International Mobile Subscriber
+Identifier
 
-DURATION Length of Call Identi?er
+TMSI - Temporary Mobile Subscriber
+Identifier
 
-CALLED NUMBER MSISDN Mobile Subscriber Integrated
+IMEI - International Mobile Equipment
+Identifier
 
-CALLING NUMBER Services Digital Network
+MSISDN - Mobile Subscriber Integrated
+Services Digital Network
+MDN - Mobile Dialed Number
+CLI - Call Line Identifier (Caller ID)
 
-CALLED FAX (CSI) Called Subscriber MDN Mobile Dialed Number
-ID CLI Call Line Identifier (Caller ID)
+DSME - Destination Short Message
+Entity
 
-FAX DSME Destination Short Message
-Transmitting Subscriber ID Entity
+OSME - Originating Short Message
+Entity
 
-IMSI International Mobile Subscriber DSME originating Short Message
-Identi?er Entity
+VLR - Visitor Location Register
 
-TMSI Temporary Mobile Subscriber VLR Visitor Location Register
-Iden??er
-
-
-
- 
-
- 
-
- 
-
+SECRET//COMINT//INOFORN//20320108

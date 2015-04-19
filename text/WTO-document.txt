@@ -1,0 +1,61 @@
+﻿Classification:
+5-eyes releasable
+Top Secret
+COMINT
+
+Last modified: 2013-05-06
+
+NOTE WELL that the contents of this file are managed by the GUI.
+
+Any manual updates to this file will be overwritten the next time
+the GUI generates this file.
+
+/
+
+// START_DEFINITION
+
+/*
+
+Narrower version of original fingerprint sigdev/2013_wto_project to used to sort traffic by
+priority. this version is the same but the keywords appear in the email_body as apposed to
+communication_body
+
+*/
+
+$WTOE = 'WTO 'c or 'WTO?'c or 'WTO.'c or 'WTO,'c or 'WTO'"c or 'WTO:'c or 'WTO;'c or
+'WTO\)'c or 'WTO\''c or ' WTO'c or 'OMC 'c or 'OMC?'c or 'OMC.'c or 'OMC,'c or 'OMC"'c or
+'OMC:'c or 'OMC;'c or 'OMC\)'c or 'OMC\''c or ' OMC'c;
+
+$CandidacyE = 'candidate' or 'candidacy' or 'candidature' or 'candidatura' or 'director general';
+$NZE = 'zealand' or 'zelande' or 'zelandia';
+
+$other_candidatesE = 'KYEREMATEN' or 'MOHAMED' or 'GONZALEZ' or 'BLANCO' or
+'AZEVEDO' or 'PANGESTU' or 'HINDAWI' or 'BARK';
+
+fingerprint('sigdev/2013_wto_project_email_body') = email_body(('Grosser' or 'Groser') and
+($WTOE or $CandidacyE)) or email_body($WTOE and $CandidacyE) or email_body($WTOE
+and $other_candidatesE);
+
+// END_DEFINITION
+// START_DEFINITION
+/*
+
+SigDev support to GCSB Trade team- WTO DG Candidacy issues - focus on Indoesian candidate
+Responsible sid ^^^|-gcsb
+
+*/
+
+$WTO_P = 'WTO 'c or 'WTO?'c or 'WTO.'c or 'WTO,'c or 'WTO"'c or 'WTO:'c or 'WTO;'c or
+'WTO\)'c or 'WTO\''c or ' WTO'c or 'OMC 'c or 'OMC?'c or 'OMC.'c or 'OMC,'c or 'OMC"'c or
+'OMC:'c or 'OMC;'c or 'OMC\)'c or 'OMC\''c or ' OMC'c;
+
+$Candidacy_P = 'candidate' or 'candidacy' or 'candidature' or 'candidatura' or 'director general';
+$other_candidates_P = 'KYEREMATEN' or 'MOHAMED' or 'GONZALEZ' or 'BLANCO' or
+'AZEVEDO' or 'HINDAWI' or 'BARK';
+
+fingerprint('sigdev/2013_wto_project_Pangestu') = communication_body('Pangestu' and
+
+($WTO_P or $Candidacy_P or $other_candidates_P)) or communication_body('Indonesia' and
+$WTO_P and $Candidacy_P);
+
+// END DEFINITION

@@ -1,70 +1,47 @@
-1. If you know the particular website the target Visits. For this example, I?m looking
-for eveiyone in Sweden that visits a particular extremist web forum.
+﻿1. If you know the particular website the target visits. For this example. I’m looking
+for everyone in Sweden that visits a particular extremist web forum.
 
 Search: HTTP Activity
 
-Query Name: 
+Query Name:
 
- 
+HTTP in Sweden
 
- 
+Justification:	|SwedishExtremist website visitors
 
-Justification: 
+Additional Justification:
 
- 
+Miranda Number:
 
- 
 
- 
 
- 
+Datetime:
 
-Additional Justification: 
+HTTP Type:
 
-The website URL (aka ?host) is
+1 Week ^
+
+V	Start:	2009-01-20 (1	
+
+Host:
+
+com
+
+Scroll down to enter a country code (Sweden is sej
+
+Country:	SE
+
+Country:
+
+—					"-—¡pEJ	
+	V		To	V
+
+The website URL (aka “host) is
 entered in with a wildcard to
-account for and ?mail?
+account for “www” and “maif’
 other hosts.
 
- 
-
-Miranda Number: i
-
-Datatime: iiWeek Start: 2009-01-20 13 0c
-
- 
-
-Type: 
-
- 
-
-To comply with US 1 8 you
-(Host: 30"? 2 must AND that with some
-
-Scroll down to enter a country code (Sweden is so other information like an IP or
-
-@050 SE 3 country
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
-Country: i"  To  
-
+To comply with USSID-18 you
+must AND that with some
+other information like an IP or
+country

@@ -1,90 +1,103 @@
-QUANTUM Shooter SBZ Notes - WikiInfo
+﻿QUANTUM Shooter SBZ Notes - Wikiinfo
 
-The accredited security level of this system is: TOP 
-TO USA, FVEY 
-TOP TO USA, FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
+
+TOP SECRET//SI//REL TO USA, FVEY
 
 (U) QUANTUM Shooter SBZ Notes
 
-From WikiInfo
+From Wikiinfo
 
 Contents
 
-I 1 (U) Overview
-I 2 (U) Infrastructure Components
-I 2.1 FREEFLOW
-I 2.2 CHIMNEYPOOL and Comms
-I 2.3 (U) Diodes
-I 2.4 (U) NCC
-I 2.5 Gateway 
-I 2.6 TURBINE
-I 3 (U) How To
-3.1 Connecting to the QUANTUM NCC
-3.2 Getting a DND from the NCC
-3.3 Getting a DND from /targets for an upgrade
-3.4 Updating a DND from the NCC for
-FE LONYCROWBAR
-3.5 Getting Link Info and Modifying Links
-I 3.5.1 I have a FRZ address. How do I get a
-linkEndId?
-I 3.5.2 How do I get/change the link state?
-I 3.5.3 How do I modify the IP address or port of
+■	1 (U) Overview
+
+■	2 (U) Infrastructure Components
+
+■	2.1 FREEFLOW
+
+■	2.2 (TS//SI,OC//REL) CHIMNEYPOOL and Comms
+
+■	2.3 (U) Diodes
+
+■	2.4 (U) NCC
+
+■	2.5 (S//SI//REL) Gateway ("ROC LOW")
+
+■	2.6 (S//SI//REL) TURBINE
+
+■	3 (U) How To
+
+■	3.1 (TS//SI//REL) Connecting to the QUANTUM NCC
+
+■	3.2 (TS//SI//REL) Getting a DND from the NCC
+
+■	3.3 (TS//SI//REL) Getting a DND from /targets for an upgrade
+
+■	3.4 (TS//SI//REL) Updating a DND from the NCC for
+FELONYCROWBAR
+
+■	3.5 (S//SI//REL) Getting Link Info and Modifying Links
+
+■	3.5.1 (S//SI//REL) I have a FRZ address. How do I get a
+linkEndld?
+
+■	3.5.2 (S//SI//REL) How do I get/change the link state?
+
+■	3.5.3 (S//SI//REL) How do I modify the IP address or port of
 the link?
-I 4 (U) Other notes
-I 4.1 (U) MHS
-I 5 References
+
+■	4 (U) Other notes
+
+■	4.1 (U) MHS
+
+■	5 References
 
 (U) Overview
 
-For an overview of QUANTUM and how shooters ?t into the
+(TS//SI//REL) For an overview of QUANTUM and how shooters fit into the
 greater QUANTUM infrastructure, see QUANTUM Operational Design
 
-Im lementation
-on the ROC Wiki.
+(TS//SI//REL) A QUANTUM shooter is a host computer on the internet that has
+been implanted with a STRAITBIZARRE (SBZ) configured to receive commands
+from TURBINE, via SURPLUSHANGAR/HANGARSURPLUS diodes, and the
 
-A QUANTUM shooter is a host computer on the internet that has
-been implanted with a STRAITBIZARRE (SBZ) con?gured to receive commands
-from TURBINE, via diodes, and the
+1 of 6
 
-lof6
+QUANTUM Shooter SBZ Notes - Wikiinfo
 
-QUANTUM Shooter SBZ Notes - Wikilnfo
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
 
-TO USA, FVEY 
-
-Once a box has been identi?ed for use as a QUANTUM shooter, an SBZ is
-con?gured using FELONYCROWBAR along with a Deployed Node Document
-(DND), an XML con?g ?le. The FELONYCROWBAR GUI and build scripts
-handle some aspects of con?guration, such as which SBZ modules to include,
-but it also needs the DND to con?gure most aspects of the communications
-links. For an upgrade, an old DND can be modi?ed by hand, but for a new
+Once a box has been identified for use as a QUANTUM shooter, an SBZ is
+configured using FELONYCROWBAR along with a Deployed Node Document
+(DND), an XML config file. The FELONYCROWBAR GUI and build scripts
+handle some aspects of configuration, such as which SBZ modules to include,
+but it also needs the DND to configure most aspects of the communications
+links. For an upgrade, an old DND can be modified by hand, but for a new
 build, a new DND will need to be generated in the NCC (with some changes by
-hand). Once the core and "bin" customization SBZ ?les are generated (usually
-a zip ?le output from FELONYCROWBAR), an interactive operator can deploy
+hand). Once the core and "bin" customization SBZ files are generated (usually
+a zip file output from FELONYCROWBAR), an interactive operator can deploy
 these to the shooter box.
 
 (U) Infrastructure Components
-FREEFLOW
 
- 
- 
+(TS//SI//REL) There are four operational FREEFLOW threads (plus one for
+PAS SAGE HILL testing):
 
-There are four operational FREEFLOW threads (plus one for
-PAS SAGEHILL testing):
+■	Thread A, the original FREEFLOW thread (early 2008), associated with
+the old ROC/MIT covert infrastructure (FORESTPLACE/FUSSYKEEL).
 
-I Thread A, the original FREEFLOW thread (early 2008), associated with
-the old covert infrastructure 
+■	Thread B, the QUANTUM thread
 
-I Thread B, the QUANTUM thread
+■	Thread C, FINGERGNOME high-to-low transfer
 
-I Thread C, FINGERGNOME high?to?low transfer
-
-I Thread D, the new FREEFLOW 2.0 thread, associated with new covert
+■	Thread D, the new FREEFLOW 2.0 thread, associated with new covert
 infrastructure (FROZENEARTH).
 
-The FREEFLOW Con?uence page 
-has a good overview picture, especially showing the
-differences between the old FREEFLOW (1.0, the purplish?gray area) and the
+The FREEFLOW Confluence page (https://confluence-nf.tao.nsa/display
+/ROC/F REE FLOW) has a good overview picture, especially showing the
+differences between the old FREEFLOW (1.0, the purplish-gray area) and the
 new FREEFLOW (2.0, the yellow area). The QUANTUM thread is 1.0 for now,
 but will eventually be upgraded and this whole process will change.
 
@@ -92,217 +105,219 @@ FREEFLOW components important for understanding QUANTUM shooters are
 described below as they apply to the shooter build process, and a good
 overview of the QUANTUM infrastructure can be found here
 
-CHIMNEYPOOL
+(TS//SI,OC//REL) CHIMNEYPOOL
 
- 
+2 of 6
 
-20f6
+QUANTUM Shooter SBZ Notes - Wikiinfo
 
-QUANTUM Shooter SBZ Notes - WikiInfo
+(TS//SI,OC//REL) CHIMNEYPOOL uses its own version of RPC (CHM RPC) for
+communications, which ride on the FRIEZERAMP Network Stack
 
-CHIMNEYPOOL uses its own version of RPC (CHM RPC) for
+. CHIMNEYPOOL-
 
-communications, which ride on the ERIEZERAMP Network Stack
-. 
-
-compliant nodes are referred to by their four?byte EREIZERAMP (ERZ)
+compliant nodes are referred to by their four-byte FREIZERAMP (FRZ)
 addresses, which are usually represented in hex.
 
-Links are half?duplex comms paths that need to be con?gured
-for two CHM nodes to be able to talk. These can be or 
+(TS//SI//REL) Links are half-duplex comms paths that need to be configured
+for two CHM nodes to be able to talk. These can be encrypted or unencrypted
 and are usually spit out correctly by the NCC DND, along with the Security
 Associations that allow them to communicate with the NCC (keys are
 generated by the NCC). To communicate with TURBINE, the SBZ also needs to
-have two additional Security Associations con?gured one to communicate
+have two additional Security Associations configured -- one to communicate
 with SURPLUSHANGAR and one for HANGARSURPLUS.
 
-MIT) usually con?gures the side, which generates the keys. You'll need
-to con?gure SAs to match -keys, which can be done either by modifying
-the DND, or post?deployment via commands directly to the SBZ via NCC (see
-
+MIT) usually configures the HS/SH side, which generates the keys. You'll need
+to configure SAs to match ^^^|keys, which can be done either by modifying
+the DND, or post-deployment via commands directly to the SBZ via NCC (see
 Dave).
 
-More details on the comms
-can be found here 
+(TS//SI,OC//REL) More details on the CHIMNEYPOOL/FRIEZERAMP comms
 
-(U) Diodes 
+SURPLUSHANGAR I|
 
+to-Low), and HANGARSURPLUS^^^^^^^^^^^^^^^^^^^B
+^^^^^^^^^^^^^^^^f(Low-to-High), which each have three parts:
 
-SURPLUSHANGAR
-to?Low), and HANGARSURPLUS
+■	Higl^roxy^onnect^cMSLANDTRANSPORT
 
-which each have three parts:
-- Hi Prox connects to ISLANDTRANSPORT 
 and converts to CHIMNEYPOOL messages.
 
-I Packager (high?to?low only)
-I Low Proxy: talks 
+■	Packager (high-to-low only)
+
+■	Low Proxy: talks CHM/FRZ.
 
 (U) NCC
 
-The GENIE Network Con?guration Center (NCC) manages
+(TS//SI//REL) The GENIE Network Configuration Center (NCC) manages
 CHIMNEYPOOL comms links for all STRAITBIZARRE implants, via
 MIDDLEMAN. Information on the NCC is often out of date (the "new" NCC will
-be on the high side and will hopefully be easier to updategenerate a DND if you can't modify an old con?g, either from?
-or from /targets/zombiearmy to ?nd the one the operator put on ox. ou
+be on the high side and will hopefully be easier to update), so onl^is^h^NCC
+to generate a DND if you can't modify an old config, either from
+or from /targets/zombiearmy to find the one the operator put on m^oxAouTT
 also need the NCC to manage the links.
 
-Gateway 
+(S//SI//REL) Gateway (MROC_LOW")
 
- 
+(TS//SI//REL) Web Sniper Gateways (WSGs) sit between MIDDLEMAN and the
 
-Web Sniper Gateways (WSGs) sit between MIDDLEMAN and the
+3 of 6
 
-30f6
+QUANTUM Shooter SBZ Notes - Wikiinfo
 
-QUANTUM Shooter SBZ Notes - WikiInfo
+QUANTUM shooters. Information about these is NOFORN and is found in a
+spreadsheet updated	You'll need to configure the shooter to
 
-QUANTUM shooters. Information about these is NOEORN and is found in a
-spreadsheet updated by? You'll need to con?gure the shooter to
-send comms via the nearest gateway choose the gateway that has the lowest
+send comms via the nearest gateway - choose the gateway that has the lowest
 latency to the shooter, based on the results of latency tests (which are not
-expected to change frequently).
+expected to change freguently).
 
-TURBINE
-The Con?uence TURBINE 
+(S//SI//REL) TURBINE
 
+Th^Confluence TURBINE
 
 page describes what happens when an SBZ calls back.
 
 (U) How To
 
-Connecting to the QUANTUM NCC
+(TS//SI//REL) Connecting to the QUANTUM NCC
 
-I Your WAITAUTO box needs to be able to talk to the QUANTUM NCC
-. You may need an ticket to get the ?rewall to allow
+■	Your WAITAUTO box needs to be able to talk to the QUANTUM NCC
+
+You may need an MITHelp ticket to get the firewall to allow
 this connection.
-I Use Putty to SSH to the NCC box (username: ncc_user; email 
-- for password) with the following options:
-I Connection SSH check box to "Enable X11 forwarding"
-I Connection SSH display location: set this to <Your
-WAITAUTO IP address>=0
-I cd /opt/ncc/ and run User name (either user1 or user2)
-depends on who else is using the box check with the POCs above.
 
-Getting a DND from the NCC
+■	Use Putty to SSH to the NCC box (username: ncc_user; email
 
-I Follow instructions in the document in References, or con?rm that the
+for password) with the following options:
+
+■	Connection -> SSH -> check box to "Enable XI1 forwarding"
+
+■	Connection -> SSH -> X display location: set this to <Your
+WAITAUTO IP address>:0
+
+■	cd /opt/ncc/ and run ./start gui.sh. User name (either userl or user2)
+depends on who else is using the box - check with the POCs above.
+
+(TS//SI//REL) Getting a DND from the NCC
+
+■	Follow instructions in the document in References, or confirm that the
 settings are correct.
 
-I Once your changes have been saved, in the terminal window, run the
+■	Once your changes have been saved, in the terminal window, run the
 following:
 
-kd /opt/ncc/uti1
+cd /opt/ncc/util	■
 
-WebSnipe <your node cover term> Iocalhost (where "WebSnipe" is the target cover td
+./build sbz bin.sh WebSnipe <your node cover term> localhost (where "WebSnipe" is the target cover te!
 
-I The resulting DND will be in /tmp (WebSnipe_<node cover
-Copy this to a thumb drive and upload to
-RS S.
+■	The resulting DND will be in /tmp (WebSnipe cnode cover
+term>_DeployedNode#.xml). Copy this to a thumb drive and upload to
+RSS.
 
-Getting a DND from [targets for an upgrade
-I Check either EELONYCROWBAR or /targets/ZOMBIEARMY/<node>
+(TS//SI//REL) Getting a DND from /targets for an upgrade
 
-date>/techdata if they have it there from a previous op. This doesn't
+■	Check either FELONYCROWBAR or /targets/ZOMBIEARMY/<node>
+/ops/<date>/techdata if they have it there from a previous op. This doesn't
 contain the DND, but it contains an XML which can be used to back out
 
-4of6
+4 of 6
 
-QUANTUM Shooter SBZ Notes - WikiInfo
+QUANTUM Shooter SBZ Notes - Wikiinfo
 
 the DND.
 
-I Send zip ?le to? to be run through the Fiptrix tool to
-generate a DND XML ?le.
+■	Send zip file to	to be run through the Fiptrix tool to
 
-Updating a DND from the NCC for
+generate a DND XML file.
+
+(TS//SI//REL) Updating a DND from the NCC for
 FELONYCROWBAR
 
-I L) Add "implantId" element as the ?rst child node, and
+■	(TS//SI//REL) Add "implantld" element as the first child node, and
 "implantUuid" as the last
 
-I Add "<sbzX?lCon?g>
+■	(TS//SI//REL) Add "<sbzXfilConfig>
 
+<defaultDestAddr>00100005 </defaultDestAddrx/sbzXfilConfig>"
 
-I L) Add Security Associations for HANGARSURPLUS (00 for
+■	(TS//SI//REL) Add Security Associations for HANGARSURPLUS (00 for
 send) and SURPLUSHANGAR (02 for receive)
 
-I You are now ready to upload to EELONYCROWBAR for your SBZ build.
+■	You are now ready to upload to FELONYCROWBAR for your SBZ build.
 
-Getting Link Info and Modifying Links
+(S//SI//REL) Getting Link Info and Modifying Links
 
-This is mostly done using the Wrench/Screwdriver tab ("Rudy") in
+(TS//SI//REL) This is mostly done using the Wrench/Screwdriver tab ("Rudy") in
+
 the NCC.
 
-I have a FRZ address. How do I get a linkEndId?
+(S//SI//REL) I have a FRZ address. How do I get a linkEndld?
 
+r---------------------------------------------------------------
 
-I
+■Choose the appropriate send and receive nodes for your link.
 
-:Choose the appropriate send and receive nodes for your link, "Interface Provider?:Cidr, "Proceduresget/change the link state?
+Interface Provider" :Cidr,
 
+"Procedures" :i
 
-:getLinkState to check state. indicate the link is off; indicate the link is on. Use linkd
-I I
+(S//SI//REL) How do I get/change the link state?
 
-I 
+■getLinkState to check state. (1,2} indicate the link is off; (3,4) indicate the link is on. Use linkO
 
-How do I modify the IP address or port of the link?
+(S//SI//REL) How do I modify the IP address or port of the link?
 
+■To change an IP address or port, choose "Interface Provider" :LinkMgr and "Procedures":getLinkParamete
+■getLinkState to check state. If it's on, turn it off (linkOff, stopLink).
 
+¡setLinkParameter: enter linkEndld and parameterld, same as above (should return success}	1
 
-I
+'startLink, linkOn to bring link back up (should return success}.	i
 
-To change an IP address or port, choose "Interface and ?Procedures?:getLinkParametd
-
-IgetLinkState to check state. If it's on, turn it off (linkOff, stopLink). 
-
-:setLinkParameter: enter linkEndId and parameterId, same as above (should return success) 
-
-:startLink, linkOn to bring link back up (should return success). I
-
-:getLinkState to check state (should be on) 
-I
+■getLinkState to check state (should be on)
 
 (U) Other notes
+
 (U) MHS
 
-There is no HANGARSURPLUS in the MHS case. GCHQ basically does
+(S//REL) There is no HANGARSURPLUS in the MHS case. GCHQ basically does
 not want it to call back. They have their own method of determining shooter
 health.
 
-5of6
+5 of 6
 
-QUANTUM Shooter SBZ Notes - WikiInfo
+QUANTUM Shooter SBZ Notes - Wikiinfo
 
-I Disable the CCEP since it requires the node to ack back through the
-HANGARSURPLUS (which doesn't exist in the MHS con?guration).
+■	Disable the CCFP since it requires the node to ack hack through the
+HANGARSURPLUS (which doesn't exist in the MHS configuration).
 
-I For good measure, con?gure only the receive Security Associations and
+■	For good measure, configure only the receive Security Associations and
 UDP link (Low Proxy to SBZ), and none of the send SAs/links.
 
-I Con?gure BonjourMod to not send heartbeats.
+■	Configure BonjourMod to not send heartbeats.
 
-I Con?gure szLogMod to not ex?l logs.
+■	Configure SbzLogMod to not exfil logs.
 
-I Do not include szX?lMod if possible, or set Min Priority To Ex?l to 16.
+■	Do not include SbzXfilMod if possible, or set Min Priority To Exfil to 16.
 
-I Do not include any of the default modules (SiphonCauseway, ShinyObject,
+■	Do not include any of the default modules (SiphonCauseway, ShinyObject,
 etc.).
 
-(U) Look into testing using CHIMNEYPOOL Python script to issue
+(U) Look into testing using CHIMNEYPOOL Python script ("chim.py"?) to issue
 commands.
 
 References
 
-Con?guring SBZ from scratch using the NCC -
+Configuring SBZ from scratch using the NCC •
 
-Retr1eved from
-Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
-and NSAICSSM 1?52, Dated: 20070108
-Declassify 0n: 20320108
+Retrieved from
 
-TOP TO USA, FVEY
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM 1-52, Dated: 20070108
 
-6of6
+Declassify On: 20320108
 
+TOP SECRET//SI//REL TO USA, FVEY
+
+6 of 6

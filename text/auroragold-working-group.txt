@@ -1,0 +1,477 @@
+﻿SECRET//SI//REL TO FVEY
+
+(U//FOUO) AURORAGOLD
+Working Group
+
+(S//SI//REL) Shaping understanding of
+the global GSm/uMTS/LTE landscape
+
+SIGDEV Conference - 6 June 2012
+
+This briefing is classified: TOP SECRET//SI//REL TO FVEY	Derived From: NSA/CSSM 1-52 Dated: 20070108 Declassify On: 20370501	
+SECRET//SI//REL TO FVEY		
+
+SECRET//SI//REL TO FVEY
+
+Agenda
+
+__________________________(U)
+
+•	(U//FOUO) What is AURORAGOLD?
+
+•	(U) Why come to us?
+
+•	(U) Our value proposition...
+
+—	(S//SI//REL) Primary source mobile network information
+
+-	(S//SI//REL) First-hand insight into industry changes
+
+•	(U//FOUO) Targeting efforts
+
+•	(U) Notable successes
+
+•	(U) Future plans
+
+•	(U) Discussion!
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+What is AURORAGOLD?
+
+(U//FOUO)
+
+(U) Team of analysts, developers, and wireless SMEs working on:
+
+• (S//SI//REL) Database of
+Mobile Network Operators
+(MNOs), networks, and
+PWIDs from collected
+GSM/UMTS/LTE roaming
+documents (IR.21s)
+
+• (S//SI//REL) Target
+
+development effort against
+MNOs, roaming hubs, and
+working groups
+
+• (U) Fusion of open source, commercial data
+with SIGINT to answer wireless needs
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Why come to us?
+
+______________________________________(U)_
+
+•	(S//SI//REL) Extensive, global IR.21 data vetted by
+SSG4 analysts:
+
+-	701 networks of estimated 985 (as of 15 May 2012)
+
+-	First-hand SIGINT information direct from MNOs
+
+•	(S//SI//REL) Most comprehensive set of IR.21-related
+email selectors and keyword-based tasking:
+
+-	1201 actively managed email selectors (as of 15 May 2012)
+
+•	(U//FOUO) Foundation for worldwide mobile wireless
+network trending and forecasting
+
+-	Includes visibility into changing industry standards and practices
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+How can we help you?
+
+(u)
+
+(S//SI//REL) Example: “AFRICOM IKD-
+OPS requires information concerning
+the SMS Gateway domains for:
+Libyana mobile (libyana.ly) and Al
+Madar Al Jadid (almadar.ly). We
+believe these are the only two mobile
+providers in Libya but if you have
+information to the contrary please let
+us know.”
+
+3 March 2011
+
+Submit
+
+Global Tip
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+We've done the research
+
+___________________________________(U)
+
+•	(S//SI//REL) Quickly identified collected IR.21s
+
+•	(U//FOUO) Pushed information out to
+customer through product reporting
+
+DOCN 000028528
+ZNY ZNY MMIVX
+ZKZK ZKZK RR SOL DE
+PDTG R 162037Z MAR 11
+FM FM DIRNSA
+
+CLAS T O P S E C R E T UMBRA US/UK/CAN/AUS/NZ EYES ONLY QQQQ
+XXMM XXMMENP01FOO11075
+
+SERI SERIAL:	3/OO/506998-11
+
+TAGS TAGS:	LIC CCOM CLOG COEF CORG CPER CTEC CTPH LI
+
+SUBJ SUBJ:	Libya/Telecommunications: Two Libyan Mobile Phone Companies
+
+Provide Updated Network Information, June and December 2010
+(S//SI//REL TO USA, FVEY)
+
+SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+SIGINT Value -Al Madar IR.21
+
+(S//SI//REL)
+
+Extracted from 3/OO/506998-11
+
+TOP SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+SIGINT Value -Al Madar IR.21
+
+(S//SI//REL)
+
+Extracted from 3/OO/506998-11
+
+TOP SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+IR.21s in AURORAGOLD
+
+(S//SI//REL)
+
+Extracted from 3/OO/506998-11
+
+TOP SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+We monitor the industry
+
+__________________________________(S//SI//REL)
+
+•	(S//SI//REL) Visibility into changing standards
+and practices for:
+
+—	Roaming
+
+-	Signaling
+
+—	Billing
+
+-	Interoperability
+
+•	GSM Association (GSMA), a Swiss association
+that drives the GSM/UMTS/LTE space
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Roaming Agreement EXchange (RAEX)
+
+____________________________________(S//SI//REL)
+
+•	(U) Next-generation roaming exchange process
+
+•	(U) Well-defined XML schemas instead of
+semi-structured data in multiple formats
+
+•	(U) Email likely gives way to SSL sessions with
+central server(s)
+
+(S//SI//REL)	SIGINT Access	SIGINT Value	Automated Analytics
+Old IR.21s	Easy	Great	Nearly impossible
+RAEX IR.21s	Difficult	Even greater!	Easy!
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Targeting Efforts
+
+____________________________(U//FOUO)
+
+•	(S//SI//REL) MNO roaming coordinators, hubs,
+GSMA working groups, ROAMSYS
+
+•	(S//SI//REL) ~100% of MNOs in WPMO's Top 20
+
+Category	Contains...
+4002	IR21 senders/receivers
+3918	GSMA and SIGDEV
+
+Tag	Contains.
+AGIR21	IR21 senders/receivers
+AG_USER	Individual (usually sender)
+AG_ALIAS	Alias (usually receiver)
+MCC/MNC [###][###]	IR21 s/r for given network
+AGRAEX	RAEX working groups
+roaming hub	Roaming hub contacts
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Email Address Selectors
+
+(S//SI//REL)
+
+Selector Information
+
+SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+Notable Successes
+
+_____________________________________(U)
+
+•	(TS//SI//REL) Characterization of IR.21 collection from 67
+high-priority networks (DSD)
+
+•	(TS//SI//REL) Most recent IR.21s from Egypt (S2E)
+
+•	(S//SI//REL) Assessment of IR.21 collection related to a
+possible new Chinese network (S2B)
+
+•	(S//REL) Sole source of IR.21 collection, ingest, and
+processing for RONIN; >200% improvement (NAC)
+
+•	(S//SI//REL) Working toward enterprise sharing of
+licensed, commercial data
+
+- Today: WiMAX data with JUBILEECORONA (S3516)
+
+•	(TS//SI//REL) Reporting on GSMA standards and practices
+
+TOP SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Future Plans
+
+______________________________(U)
+
+•	(S//SI//REL) RAEX IR.21 collection and ingest
+providing more query possibilities including:
+
+-	LTE information
+
+-	Technologies/Equipment
+
+-	Frequencies
+
+•	(S//SI//REL) AURORAGOLD user interface enabling
+SIGINT production chain access for querying and
+trending
+
+•	(S//SI//REL) NKB partnership
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Discussion
+
+__________________________(U)
+
+•	(S//SI//REL) What are your ideas, suggestions,
+and analytic needs with respect to:
+
+•	roaming and network information discovery and
+development?
+
+•	GSMA's standards setting activities?
+
+•	(S//SI//REL) What are we missing? Are there
+data elements we should seek out to help
+meet your needs?
+
+SECRET//SI//REL TO FVEY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+Work with us!
+
+(U)
+
+• (U//FOUO) To contact the AURORAGOLD team
+with an RFI, please use GLOBAL TIPPER
+
+"go GT"
+
+
+
+
+
+(U//FOUO) WikiInfo:
+(U//FOUO) Email:
+
+"wi AURORAGOLD"
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(U//FOUO) AURORAGOLD
+
+(U) BACKUP SLIDES
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+SECRET//SI//REL TO FVEY
+
+AG/GSMA Reporting
+
+(S//SI//REL)
+
+Serial	Topic
+3/OO/506998-11  3/OO/556211-11	(S//SI//REL) Libyan MNO information (S//SI//REL) Launch of RAEX; ROAMSYS and GSMA
+3/OO/515656-12	(S//SI//REL) GSMA standards releases/changes for 2012 (RAEX IR.21 and others)
+2/OO/502330-12	(S//SI//REL) GSMA database of Type Allocation Codes (TACs)
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+GSMA Working Groups
+
+(S//SI//REL)
+
+SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+IR.21 Data Extraction
+
+(S//SI//REL)
+
+(U) Content				(U) Metadata/SRI		
+Field	AG	R		Field	AG	R
+MCC/MNC	x	x		SIGAD	x	x
+Operator name	x	x		Case notation	x	x
+Operator country	x	x		PWID	x	x
+Email addresses	x			PINWALE Date Time Group	x	x
+Access point information	x			PINWALE category & keywords	x	
+Autonomous system number	x			Email "From" & date	x	
+DNS names & IPs	x			Source & destination IP	x	
+Inter PLMN backbone IPs	x			Filename	x	
+GPRS Roaming Exchange (GRX)	x			PDDG		x
+
+TOP SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Metrics: Network Discovery
+
+(S//SI//REL)
+
+(S//SI//REL) GSM/UMTS/LTE Networks Discovered in SIGINT
+
+800
+
+□	New Networks
+
+□	Confirmed Networks
+
+SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Metrics: Network Discovery
+
+(S//SI//REL)
+
+(S//SI//REL) GSM/UMTS/LTE Network
+Coverage
+
+(S//SI//REL)
+
+-	701 confirmed
+
+-	985 estimated
+
+-	71%
+
+(as of 15 May 2012)
+
+SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+SECRET//SI//REL TO FVEY
+
+Metrics: Tasking
+
+(S//SI//REL)
+
+(S//SI//REL) Strong Selector Targeting
+
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+
+-200
+
+-400	2011-11	2011-12	2012-01	2012-02	2012-03	2012-04
+□ Net change in tasking	363	1	782	206	2	-143
+□ Total tasked	363	364	1146	1352	1354	1211
+□ Extracted from IR.21s	564	1040	527	517	785	711
+
+SECRET//SI//REL TO FVEY
+
+TOP SECRET//SI//REL TO FVEY
+
+RAEX Adoption in SIGINT
+
+(S//SI//REL)
+
+(S//SI//REL) What we've seen so far...
+
+(S//SI//REL) 36/699 networks
+
+(Apr 2012; AURORAGOLD)
+
+(TS//SI//REL) What we expect...
+
+(TS//SI//REL) 202/985 networks
+
+(19 Apr 2012; 3/OO/515656-12)
+
+TOP SECRET//SI//REL TO FVEY

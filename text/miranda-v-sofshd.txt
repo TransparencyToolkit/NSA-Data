@@ -1,0 +1,1782 @@
+﻿Case No: CO/11732/2013
+
+Neutral Citation Number: T20141 EWHC 255
+
+TN THE HTGH COURT OF JUSTICE
+DIVISIONAL COURT
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+Date: 19/02/2014
+
+Before :
+
+LORD JUSTICE LAWS
+MR JUSTICE OUSELEY
+MR JUSTICE OPENSHAW
+
+Between:
+
+David Miranda
+
+-	and -
+
+The Secretary of State for the Home Department
+The Commissioner of the Police of the Metropolis
+
+-	and -
+(1) Liberty
+
+(2)	English Pen, Article 19 & Media Legal Defence
+
+Initiative
+
+(3)	Coalition of Media & Free Speech Organisations
+
+Claimant
+
+1st Defendant
+2nd Defendant
+
+Interveners
+
+Mr Matthew Ryder QC, Mr Edward Craven and Mr Raj Desai (instructed by Bindmans LLP) for the
+
+Claimant
+
+Mr Steven Kovats QC and Mr Julian Blake (instructed by The Treasury Solicitor) for the 1st Defendant The
+
+Secretary of State
+
+Mr Jason Beer QC, Mr Ben Brandon and Mr Ben Watson (instructed by The Directorate of Legal Services)
+for the 2nd Defendant The Commissioner of the Police of the Metropolis
+(1) Mr Alex Bailin QC and Ms Alison Macdonald, (2) Mr Can Yeginsu and Mr Anthony Jones and (3) Mr
+Guy Vassall-Adams and Mr Tim Cooke-Hurle for the Interveners
+
+Hearing dates: 6 & 7 November 2013
+
+Approved Judgment
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+LORD JUSTICE LAWS:
+
+INTRODUCTION
+
+1. This case arises from the detention of the claimant by officers of the Metropolitan
+Police at Heathrow Airport on 18 August 2013, purportedly under paragraph 2(1) of
+Schedule 7 to the Terrorism Act 2000. He was questioned and items in his
+possession, notably encrypted storage devices, were taken from him. He says that all
+this was done without any legal authority.
+
+2. The claim raises three questions. The first is whether, on the facts of the case, the
+power conferred by paragraph 2(1) of Schedule 7 to the Terrorism Act 2000 to stop
+and question a person at a port or border area for the purpose of determining whether
+he appears to be “concerned in the commission, preparation or instigation of acts of
+terrorism” allowed the police to stop the claimant on 18 August. The second is
+whether, if it did, the use of the power was nevertheless disproportionate to any
+legitimate aim. The third is whether upon its true construction the paragraph 2(1)
+power is repugnant to the right of freedom of expression guaranteed by Article 10 of
+the European Convention on Human Rights and Fundamental Freedoms (ECHR).
+
+THE TERRORISM ACT 2000
+
+3.	S.1 of the Act of 2000 provides in part:
+
+“(1) In this Act ‘terrorism’ means the use or threat of action
+where—
+
+(a)	the action falls within subsection (2),
+
+(b)	the use or threat is designed to influence the
+government or an international governmental
+organisation or to intimidate the public or a section of
+the public, and
+
+(c)	the use or threat is made for the purpose of
+advancing a political, religious, racial or ideological
+cause.
+
+(2) Action falls within this subsection if it—
+
+(a)	involves serious violence against a person,
+
+(b)	involves serious damage to property,
+
+(c)	endangers a person’s life, other than that of the
+person committing the action,
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+(d)	creates a serious risk to the health or safety of the
+public or a section of the public, or
+
+(e)	is designed seriously to interfere with or seriously
+to disrupt an electronic system.”
+
+S.1(4) shows that neither the action, any victim, the public or the government are
+confined to events in connection with the United Kingdom.
+
+4.	S.40(1)(b):
+
+“(1) In this Part ‘terrorist’ means a person who—
+
+(b)	is or has been concerned in the commission,
+preparation or instigation of acts of terrorism.”
+
+5.	Schedule 5 is material to the argument on proportionality. It is given effect by s.37,
+which appears in Part IV of the Act, cross-headed “Terrorist Investigations”. It
+provides in part:
+
+“1(1) A constable may apply to a justice of the peace for the
+issue of a warrant under this paragraph for the purposes of a
+terrorist investigation.
+
+(2) A warrant under this paragraph shall authorise any
+constable—
+
+(a)	to enter premises mentioned in sub-paragraph (2A)
+
+[whose details are not material],
+
+(b)	to search the premises and any person found there,
+and
+
+(c)	to seize and retain any relevant material which is
+found on a search under paragraph (b).
+
+5(1) A constable may apply to a Circuit judge or a District
+Judge (Magistrates’ Courts) for an order under this paragraph
+for the purposes of a terrorist investigation.
+
+(2)	An application for an order shall relate to particular
+material, or material of a particular description, which consists
+of or includes excluded material or special procedure material.
+
+(3)	An order under this paragraph may require a specified
+person—
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+(a) to produce to a constable within a specified period
+for seizure and retention any material which he has in
+his possession, custody or power and to which the
+application relates...
+
+(4)	For the purposes of this paragraph—
+
+(a) an order may specify a person only if he appears to
+the Circuit judge or the District Judge (Magistrates’
+Courts) to have in his possession, custody or power
+any of the material to which the application relates...
+
+6(1) A Circuit judge or a District Judge (Magistrates’ Courts)
+may grant an application under paragraph 5 if satisfied—
+
+(a) that the material to which the application relates
+consists of or includes excluded material or special
+procedure material...
+
+(c)	that the conditions in sub-paragraphs (2) and (3) are
+satisfied in respect of that material.
+
+(2) The first condition is that—
+
+(a)	the order is sought for the purposes of a terrorist
+investigation, and
+
+(b)	there are reasonable grounds for believing that the
+material is likely to be of substantial value, whether by
+itself or together with other material, to a terrorist
+investigation...
+
+10(1) An order of a Circuit judge or a District Judge
+(Magistrates’ Courts) under paragraph 5 shall have effect as if
+it were an order of the Crown Court...
+
+13(1) A constable may apply to a Circuit judge or a District
+Judge (Magistrates’ Courts) for an order under this paragraph
+requiring any person specified in the order to provide an
+explanation of any material—
+
+(b) produced or made available to a constable under
+paragraph 5.”
+
+By paragraph 4 of Schedule 5 “excluded material” has the meaning given by s.11, and
+“special procedure material” has the meaning given by s.14 of the Police and Criminal
+Evidence Act 1984. Thus “excluded material” includes “journalistic material” (viz.
+“material acquired or created for the purposes of journalism”) held in confidence
+(s.11(1)(c) read with s.13(1)). “Special procedure material” includes “journalistic
+material, other than excluded material” (s.14(1)(b)).
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+6.	Schedule 7 is given effect by s.53, which appears in Part V of the Act, cross-headed
+“Counter-terrorist Powers”. It provides in part:
+
+“1 In this Schedule ‘examining officer’ means any of the
+following—
+
+(a) a constable...
+
+2(1) An examining officer may question a person to whom this
+paragraph applies for the purpose of determining whether he
+appears to be a person falling within section 40(1)(b).
+
+(2) This paragraph applies to a person if—
+
+(a)	he is at a port or in the border area, and
+
+(b)	the examining officer believes that the person’s
+presence at the port or in the area is connected with his
+entering or leaving Great Britain or Northern Ireland...
+
+(4)	An examining officer may exercise his powers under this
+paragraph whether or not he has grounds for suspecting that a
+person falls within section 40(1)(b).
+
+(5)	A person who is questioned under paragraph 2... must—
+
+(a)	give the examining officer any information in his
+possession which the officer requests;
+
+(b)	give the examining officer on request either a valid
+passport which includes a photograph or another
+document which establishes his identity;
+
+(c)	declare whether he has with him documents of a
+kind specified by the examining officer;
+
+(d)	give the examining officer on request any
+document which he has with him and which is of a
+kind specified by the officer.”
+
+Paragraph 6 empowers an examining officer to detain a person subject to examination
+under paragraph 2 for up to 9 hours. Paragraph 7 provides:
+
+“For the purpose of satisfying himself whether there are any
+persons whom he may wish to question under paragraph 2 an
+examining officer may [carry out various searches].”
+
+Paragraph 8 confers further powers of search upon “[a]n examining officer who
+questions a person under paragraph 2... for the purpose of determining whether he
+falls within section 40(1)(b)”. Paragraph 9(1) provides:
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+“An examining officer may examine goods to which this
+paragraph applies for the purpose of determining whether they
+have been used in the commission, preparation or instigation of
+acts of terrorism.”
+
+Paragraph 10(1):
+
+“An examining officer may authorise a person to carry out on
+his behalf a search or examination under any of paragraphs 7 to
+9.”
+
+Paragraph 11 enables an officer to retain any item found on such a search for up to 7
+days. Paragraph 18 criminalises wilful failure to comply with any obligation imposed
+by Schedule 7 on a person questioned under paragraph 2(1).
+
+FACTS
+
+7.	I shall have to introduce some further details when I come to address the grounds of
+challenge, but the following narrative will suffice to set the scene.
+
+8.	The claimant is a Brazilian citizen and the spouse of Mr Glenn Greenwald, a
+journalist who at the material time was working for the Guardian newspaper. Some
+months after an initial contact made in late 2012 Mr Greenwald and another
+journalist, Laura Poitras, met Mr Edward Snowden. He provided them with
+encrypted data which had been stolen from the National Security Agency (NSA) of
+the United States. The data included UK intelligence material. Some of it formed the
+basis of articles in the Guardian on 6 and 7 June 2013 and on later dates. On 12
+August 2013 the claimant travelled from Rio de Janeiro to Berlin in order to meet
+Laura Poitras. He was carrying encrypted material derived from the data obtained by
+Mr Snowden. He was to collect computer drives containing further such material. He
+was doing it in order to assist in the journalistic activity of Mr Greenwald. He was
+stopped at 0805 on Sunday 18 August 2013 at Heathrow where he was in transit on
+his way back to Rio de Janeiro.
+
+9.	The Security Service (for which the first defendant Secretary of State is responsible
+by statute) had undertaken an operation relating to Mr Snowden. They became aware
+of the claimant’s movements. At 0830 on Thursday 15 August 2013 they briefed
+Detective Superintendent Stokley of SO15, the Counter-Terrorism Command in the
+Metropolitan Police, the second defendant. On Friday 16 August a Port Circulation
+Sheet (PCS), a form of document used to provide information to counter-terrorism
+police officers, was issued by the Security Service to the Metropolitan Police and
+received at the National Ports Office at 2159. On page 2, against a box asking for
+confirmation “that the purpose of an examination will be to assist in making a
+determination about whether the person appears to be someone who is or has been
+concerned in the Commission, Preparation or Instigation of acts of terrorism (CPI)”,
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+the Security Service had entered the words “Not Applicable”. On the same page this
+was stated:
+
+“Intelligence indicates that MIRANDA is likely to be involved
+in espionage activity which has the potential to act against the
+interests of UK national security. We therefore wish to
+establish the nature of MIRANDA’s activity, assess the risk
+that MIRANDA poses to UK national security and mitigate as
+appropriate. We are requesting that you exercise your powers
+to carry out a ports stop against MIRANDA.”
+
+This first PCS was not actively considered when it was received. A second PCS was
+received at the National Ports Office on Saturday 17 August at 1247. This too
+contained the “Not Applicable” entry, and also the invitation to the police to carry out
+a port stop (plainly a reference to Schedule 7). Another section, headed “Guidance
+for Port Officers”, was considerably expanded, setting out a series of questions which
+the Security Service desired should be asked of the claimant.
+
+10.	Acting DI Woodford was the Ports Duty Officer for Heathrow over the weekend 17 -
+18 August. He viewed the second PCS at the behest of PS Holmes, who had received
+it. He “immediately saw that the PCS did not give sufficient information to provide
+police with the assurance that the use of Schedule 7 would be appropriate and lawful”
+(witness statement, paragraph 11). He considered that the “Not Applicable” entry was
+in conflict with the invitation to the police to carry out a port stop under the Schedule.
+He agreed with PS Holmes that the PCS should be returned to the Security Service for
+confirmation that any examination of the claimant following a port stop would be for
+the statutory purpose given by Schedule 7 (paragraph 13).
+
+11.	Meanwhile on Friday 16 August 2013 the Security Service had sent a note to D/Supt
+Stokley headed “National Security Justification for proposed operational action
+around David MIRANDA”. The redacted text includes this:
+
+“2... We strongly assess that MIRANDA is carrying items
+which will assist in GREENWALD releasing more of the NSA
+and GCHQ material we judge to be in GREENWALD’s
+possession. Open source research details the relationship
+between POITRAS, GREENWALD and SNOWDEN which
+corroborates our assessment as to the likelihood that
+GREENWALD has access to the protectively marked material
+SNOWDEN possesses. Our main objectives against David
+MIRANDA are to understand the nature of any material he is
+carrying, mitigate the risks to national security that this material
+poses...”
+
+3.	We are requesting that you exercise your powers to carry
+out a ports stop against David MIRANDA...
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+4.	We judge that a ports stop of David MIRANDA is the only
+way of mitigating the risks posed by David MIRANDA to UK
+national security... Additionally there is a substantial risk that
+David MIRANDA holds material which would be severely
+damaging to UK national security interests. SNOWDEN holds
+a large volume of GCHQ material which, if released, would
+have serious consequences for GCHQ’s collection capabilities,
+as well as broader SIA operational activities, going forwards...”
+
+12.	At 1719 on Saturday 17 August a final PCS was delivered to the police from the
+Security Service. It had some text in common with earlier versions (“Intelligence
+indicates... ports stop against MIRANDA”), but also this:
+
+“We assess that MIRANDA is knowingly carrying material, the
+release of which would endanger people’s lives. Additionally
+the disclosure, or threat of disclosure, is designed to influence a
+government, and is made for the purpose of promoting a
+political or ideological cause. This therefore falls within the
+definition of terrorism and as such we request that the subject is
+examined under Schedule 7.”
+
+On his own account DI Woodford did not see the final PCS on the Saturday, but was
+told what it contained over the telephone. Accordingly he “indicated that [he] was
+satisfied that the use of Schedule 7 was appropriate” (statement paragraph 14).
+Meantime at about 1730 that day another officer, DS Bird, head of the Ports Team,
+told D/Supt Stokley that following “dialogue” between the Security Service and the
+Ports Team he (DS Bird) “was now satisfied that there was a justification for the
+Schedule 7 stop”. D/Supt Stokley was given to understand that this was reflected in
+the PCS, which however he did not see (“it is not my role to approve them”: witness
+statement of 30 October 2013, paragraph 38).
+
+13.	DI Woodford saw the final PCS early in the morning of Sunday 18 August at
+Heathrow. He “did not know at the time what ‘the material’ referred to in the PCS
+consisted of’ (paragraph 16). However “[w]ith regard to the PCS forms, if [he] had
+not been satisfied that the MPS would be acting lawfully in undertaking a Schedule 7
+stop based on the information received, [he] would not have agreed to the
+examination” (paragraph 19). And so the stop went ahead, as I have said at 0805 on
+18 August. It was executed by two SO15 officers, PC 206005 and PC 206610. They
+detained the claimant (for nine hours, the maximum permitted period - Schedule 7
+paragraph 6) and questioned him. DI Woodford was with them to meet the aircraft at
+the gate. The claimant’s hand luggage was examined, and items retained which as I
+have said included encrypted storage devices. Mr Oliver Robbins, Deputy National
+Security Adviser for Intelligence, Security and Resilience in the Cabinet Office,
+indicates in his first witness statement (paragraph 6) that the encrypted data contained
+in the external hard drive taken from the claimant contains approximately 58,000
+highly classified UK intelligence documents. Many are classified SECRET or TOP
+SECRET. Mr Robbins states that release or compromise of such data would be likely
+to cause very great damage to security interests and possible loss of life.
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+THE PROCEEDINGS
+
+14.	Judicial review papers were lodged and served on 21 August 2013, naming the
+Secretary of State and the Metropolitan Police Commissioner as prospective
+defendants. There have been a number of interlocutory directions. On 22 August
+Beatson LJ and Kenneth Parker J heard an urgent application for interim relief. They
+gave judgment the next day, making limited orders: because the matter had come into
+court so quickly, there was by then no evidence from the Secretary of State or the
+police. It was contemplated that a full hearing of the application would take place on
+30 August, and the case was restored on that day before Kenneth Parker J and myself.
+We made an agreed order for interim relief and adjourned the case for a full hearing
+of the application for permission, with the substantive judicial review to follow if
+permission were granted. On 9 October 2013 I granted permission to Liberty, the
+Coalition of Media and Free Speech Organisations, and three other parties acting
+together (Article 19, English Pen and the Media Legal Defence Initiative) to intervene
+in the proceedings by written submissions. I will refer to them collectively as the
+interveners. On 30 October my Lords and I heard and granted an application by the
+Secretary of State to withhold disclosure of certain documents or classes of
+documents on public interest grounds. We declined applications by the claimant for
+further disclosure, leave to cross-examine defence witnesses, and the joinder of Mr
+Greenwald as a co-claimant. At length the substantive application - the rolled-up
+hearing which the court had directed on 30 August - came before us on 6 November.
+
+15.	The issues which the claim raises are of substantial importance. I would grant
+permission to seek judicial review.
+
+16.	The claimant submits that the use of the Schedule 7 powers against him on 18 August
+2013 was unlawful for the three reasons I have already outlined: (1) because the
+powers were exercised for an improper purpose, that is a purpose not permitted by the
+statute; (2) because their use constituted a disproportionate interference with his right
+to freedom of expression; and (3) because the powers are incompatible with the rights
+guaranteed by ECHR Article 10. There has also been some reference to Articles 5
+and 8, but the substance of the claimant’s case on the Convention is focussed on
+Article 10. The interveners’ written submissions are directed to the right of free
+expression. I turn first to the issue of improper purpose.
+
+IMPROPER PURPOSE
+
+17.	For convenience I repeat paragraph 2(1) of Schedule 7:
+
+“An examining officer may question a person to whom this
+paragraph applies for the purpose of determining whether he
+appears to be a person falling within section 40(1)(b).”
+
+Under this head I shall have to consider the true construction of the Schedule 7
+powers. But first I will decide what was the purpose for which the powers were used
+in fact. This question is to be answered bearing in mind the correct approach in law to
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+the nature of a relevant actor’s purpose in a statutory setting such as that of Schedule
+7. In R v Southwark Crown Court ex p. Bowles [1998] AC 641, [1998] UKHL 16,
+which was concerned with a production order granted under s.93H of the Criminal
+Justice Act 1988, the House of Lords approved a test of dominant purpose, citing
+Wade and Forsyth, Administrative Law, 7th edn. p. 436:
+
+“Sometimes an act may serve two or more purposes, some
+authorised and some not, and it may be a question whether the
+public authority may kill two birds with one stone. The general
+rule is that its action will be lawful provided that the permitted
+purpose is the true and dominant purpose behind the act, even
+though some secondary or incidental advantage may be gained
+for some purpose which is outside the authority’s powers.
+
+There is a clear distinction between this situation and its
+opposite, where the permitted purpose is a mere pretext and a
+dominant purpose is ultra vires'"
+
+As I will show, Mr Ryder QC for the claimant submits that this test is not met in the
+present case.
+
+THE PURPOSE IN FACT
+
+18.	The purpose to be considered is, of course, the purpose for which the “examining
+officers” executed the stop. It seems to me plain on the evidence that the examining
+officers were PCs 206005 and 206610. They stopped the claimant and questioned
+him. (In fact PC 206610 says that “PC 206005 exercised his powers of examination
+under Schedule 7”.) However the only information these officers had was what was
+in the PCS. DS Stokley tells us at paragraph 39 that this was “standard practice for
+such stops. The examining officers are not told and do not know anything about the
+intelligence behind the stop, so as to introduce a firewall between the intelligence case
+and the examination, to prevent any unwitting disclosures to the subject of the
+examination”. How, then, should the court approach the ascertainment of the purpose
+for which the stop was executed under Schedule 7?
+
+19.	Mr Ryder submitted that the purpose in question is the purpose in the mind of the
+examining officers. He cited the judgment of Collins J in CC v Commissioner of
+Police of the Metropolis [2012] 1 WLR 1913: “all will depend on what the officers
+knew and why they decided to use their powers” (paragraph 32). But PCs 206005 and
+206610 apparently knew very little - as I have said, no more than was set out in the
+PCS. Mr Ryder points out that they have not given evidence of the state of their
+knowledge or the nature of their purpose in effecting the stop. Accordingly, so it is
+argued, taken on its own such evidence as there is of the officers’ state of mind cannot
+of itself establish that they acted for the purpose allowed by Schedule 7.
+
+20.	Mr Ryder submits that if the purpose of the stop is looked at more broadly, through
+the prism of D/Supt Stokley’s evidence, two purposes can be discerned: (1) to assist
+the Security Service in obtaining access to the material in the claimant’s possession,
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+and (2) to determine whether the claimant appeared to be a person “concerned in the
+commission, preparation or instigation of acts of terrorism” - the statutory purpose.
+Mr Ryder accepts that the police entertained purpose (2). His case is that the
+dominant purpose of the stop - see Ex p. Bowles above - was purpose (1); but that
+was not a purpose for which the Act of 2000 authorised the use of the Schedule 7
+power. He points to the terms of the first two PCSs, which on their face repudiated
+the statutory purpose (“Not Applicable”). He submits that “the entire background and
+context in which the Schedule 7 powers were exercised was prompted and driven by
+the Security Service request to obtain information for their national security/OSA
+operation” (skeleton argument, paragraph 78(1)).
+
+21.	The Schedule 7 purpose - “determining whether [the subject] appears to be a person
+falling within section 40(1)(b)” - must of course be the purpose for which the officers
+execute the stop if it is to be lawful. So much is common ground. But in deciding
+whether the statutory purpose is made out I do not think the court is limited to a
+consideration of the examining officers’ subjective state of mind. Given the context -
+the possible apprehension of terrorism - Parliament must have enacted Schedule 7 in
+the knowledge that there might be very good reasons why the examining officers
+(who might, as here, be junior in rank) should not be privy to the whole story. This is
+of a piece with D/Supt Stokley’s reference at paragraph 39 of his witness statement to
+“a firewall between the intelligence case and the examination, to prevent any
+unwitting disclosures to the subject of the examination”. It is noteworthy that by
+force of paragraph 2(4) of Schedule 7 an examining officer is not required to have any
+“grounds for suspecting that a person falls within section 40(1)(b)”. Nor does
+Schedule 7 provide that an examining officer must be the one to determine whether
+the subject appears to fall within that subsection. It may well be someone else, to
+whom the results of the stop are referred.
+
+22.	In a case like this the primary evidence for the determination of the stop’s purpose is
+likely to be the terms of the instructions given to the examining officers: here, in
+effect, the last PCS. Making the modest assumption that the officers will have
+executed their instructions in good faith, that ought to provide the essential, even if
+not the whole, rationale for the decision to carry out the stop. But I readily
+acknowledge that the PCS taken on its own might not merit the court’s full confidence
+as a reliable indicator of the purpose of the exercise. The PCS is, with good cause, the
+tip of what may be a very large iceberg. It may give - in the worst case deliberately,
+in the best case unwittingly - a false or at least a distorted picture of the true reasons
+for the stop. It is important that the court should have some evidence of the hierarchy
+of decision-making behind and above the PCS; and there may be cases where there is
+no PCS.
+
+23.	Here there were (as Mr Kovats QC for the Secretary of State put it at paragraph 15 of
+his note of 7 November 2013) two levels of authorisation. The first level was
+provided by D/Supt Stokley, the second by DI Woodford. It is clear from D/Supt
+Stokley’s October witness statement, and also his “Decision Log” of which we have a
+redacted copy, that he was closely involved in the judgments to be made by SO15 in
+response to the Security Service request for a Schedule 7 stop. He was the first point
+of contact with the Security Service, which as I have said briefed him at 0830 on
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+Thursday 15 August 2013. He was “mindful of the Security Service priorities”, but
+also concerned to establish whether any criminal offence had been committed
+(statement paragraph 12). He liaised with the police Ports Team and with the Security
+Service, which disclosed relevant sensitive material to him. His evidence at
+paragraphs 12 - 38 and 47 - 48 shows in summary that he was throughout concerned,
+in light of the information he had, to see that a Schedule 7 stop was “appropriate and
+justified in accordance with MPS policy and training”. Thus D/Supt Stokley’s level
+of authorisation may be said to have acted as a filter between the Security Service and
+the police, seeking to ensure that a request from the former would not go forward
+unless it yielded a proper basis for the latter to act under the Schedule.
+
+24.	D/Supt Stokley’s acquiescence in the stop was influenced by his apprehension, given
+the connection with Mr Snowden and the latter’s movements, that the claimant might
+have been concerned in acts falling within the definition of terrorism in s.1 of the
+2000 Act which might be carried out by Russia and designed to influence the British
+government. Paragraphs 31 - 38 of his October witness statement show that he took
+that view. His particular focus was “the property that we thought might be found in
+[the claimant’s] possession” (paragraph 32). The National Security Justification,
+though it made no mention of Russia, “reinforced [his] view... reached
+independent[ly] of the case made by the Security Service for the stop, that the value of
+the material that [the claimant] might be carrying to a hostile state... was enormous
+and its disclosure to agents of a hostile state... or a terrorist organisation... would be
+catastrophic” (paragraph 36). In his view this justified the use of the Schedule 7
+powers.
+
+25.	It was DI Woodford, at the second level of authorisation, who made the actual
+decision to conduct the stop: see paragraphs 14, 15 and 19 of his witness statement,
+which I have cited. There is no evidence that D/Supt Stokley’s apprehension of a
+conspiracy involving the Russians was communicated to DI Woodford. He went by
+the terms of the final PCS: he “satisfied [himself] that sufficient information had been
+provided to allow a lawful Schedule 7 examination to take place” (statement
+paragraph 15).
+
+26.	Given these successive levels of authorisation, the purpose of the stop may in my
+judgment confidently be gleaned from the final PCS considered in light of the
+National Security Justification. DI Woodford acted directly on the former, and
+D/Supt Stokley’s acquiescence was reinforced by the latter. I repeat these passages
+from those two documents:
+
+“We assess that MIRANDA is knowingly carrying material, the
+release of which would endanger people’s lives. Additionally
+the disclosure, or threat of disclosure, is designed to influence a
+government, and is made for the purpose of promoting a
+political or ideological cause.” (the PCS)
+
+“Our main objectives against David MIRANDA are to
+understand the nature of any material he is carrying, mitigate
+the risks to national security that this material poses... We judge
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+that a ports stop of David MIRANDA is the only way of
+mitigating the risks posed by David MIRANDA to UK national
+security... Additionally there is a substantial risk that David
+MIRANDA holds material which would be severely damaging
+to UK national security interests.” (the National Security
+Justification)
+
+27.	The purpose of the stop thus disclosed may be simply expressed. It was to ascertain
+the nature of the material which the claimant was carrying and if on examination it
+proved to be as was feared, to neutralise the effects of its release (or further release) or
+dissemination. Was this within the meaning of paragraph 2(1) of Schedule 7,
+“determining whether he appears to be a person falling within section 40(1)(b)”? I
+turn to the construction of Schedule 7 and associated provisions contained within the
+Act of 2000.
+
+THE PURPOSE IN LA W
+
+28.	The task of interpretation particularly concerns the words in paragraph 2(1) of
+Schedule 7 “whether he appears to be...”, the formulation in s.40(1)(b) “concernedin
+the commission, preparation or instigation of acts of terrorism” (my emphasis) and the
+definition of terrorism in s.1. All of these features suggest that the potential reach of
+paragraph 2(1) is very wide. As regards s.1, in R v Gul [2013] 3 WLR 1207, [2013]
+UKSC 64 Lord Neuberger and Lord Judge said this:
+
+“29... [T]he definition of terrorism in section 1 in the 2000 Act
+is, at least if read in its natural sense, very far reaching indeed...
+[38]... For the reasons given by Lord Lloyd, Lord Carlile and
+Mr Anderson [the latter two were successive Independent
+Reviewers of the legislation appointed under s.36 of the
+Terrorism Act 2006], the definition of ‘terrorism’ was indeed
+intended to be very wide... [41]... [W]e conclude that, unless
+the appellant’s argument based on international law dictates a
+different conclusion, the definition of terrorism as in section 1
+of the 2000 Act is indeed as wide as it appears to be.”
+
+The argument based on international law (which did not concern the ECHR) was
+unsuccessful.
+
+29.	With great respect, the bare proposition that the definition of terrorism in s.1 is very
+wide or far reaching does not of itself instruct us very deeply in the proper use of
+Schedule 7. There are however particular aspects which seem to me to be important
+for the ascertainment of the reach of the Schedule. First, s.1 does not create a
+criminal offence. The Act creates a separate regime of criminal offences: ss.54 ff.
+That being so, we should not assume that foundational concepts of the criminal law,
+such as intention and recklessness, are to be read into provisions such as s.1(2)(c)
+(“endangers a person’s life”) or 1(2)(d) (“creates a serious risk to the health or safety
+of the public”). S.1(2) is concerned only to define the categories of “action” whose
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+use or threat may constitute terrorism: not to impose any accompanying mental
+element. Similarly, the expression “concerned in” in s.40(1)(b) is not to be taken to
+import the criteria for guilt as a secondary party which the criminal law requires in a
+case of joint enterprise.
+
+30.	Next, as I have noted, the proper exercise of the Schedule 7 power does not require
+that the examining officer have any grounds whatever “for suspecting that a person
+falls within section 40(1)(b)” (Schedule 7 paragraph 2(4)); and the Schedule 7
+purpose is not to determine whether the subject is, but only whether he “appears to
+be” a terrorist.
+
+31.	At the same time there are important constraints on the use of the Schedule 7 power.
+First, although the examining officer need not have grounds for suspecting that the
+subject falls within s.40(1)(b), the general law of course requires that the power be
+exercised upon some reasoned basis, proportionately (as to which see paragraphs 39 -
+46 below) and in good faith. Secondly, there is a limitation upon the meaning of
+terrorism given by reference to the mental or purposive elements prescribed by
+s.1(1)(b) (“designed to influence... or to intimidate...”) and 1(1)(c) (“for the purpose
+of advancing a political, religious, racial or ideological cause”). Thirdly, the power
+may only be used where the subject is “at a port or in the border area” (Schedule 7
+paragraph 2(2)(a)) intending (in the examining officer’s belief) to enter or leave Great
+Britain or Northern Ireland (2(2)(b)). Fourthly, the examining officers’ power of
+detention is limited to 9 hours (Schedule 7 paragraph 6).
+
+32.	Putting all these features together, it appears to me that the Schedule 7 power is given
+in order to provide a reasonable but limited opportunity for the ascertainment of a
+possibility: the possibility that a traveller at a port may be involved (“concerned” -
+s.40(1)(b)), directly or indirectly, in any of a range of activities enumerated in s.1(2).
+If the possibility is established, the statute prescribes no particular consequence.
+What happens will depend, plainly, on the outcome of the Schedule 7 examination
+including any searches where those have been carried out. There may be a
+prosecution for an offence under the Act, or indeed some other offence; materials in
+the subject’s possession may be retained if the general law allows it; the subject may
+be released with no further action.
+
+33.	The fact that the outcome of a Schedule 7 examination is open-ended is I think of
+some importance. It supports the submission of Mr Beer QC for the Commissioner
+that there is no principled distinction, for the purpose of a proper understanding of the
+power, between an interest in the person examined and an interest in what may be
+found in his possession. Specifically, as Mr Kovats submitted (skeleton argument,
+paragraph 59), the s.1 definition is “capable of covering the publication or threatened
+publication [for the purpose of advancing a political, religious, racial or ideological
+cause] of stolen classified information which, if published, would reveal personal
+details of members of the armed forces or security and intelligence agencies, thereby
+endangering their lives, where that publication or threatened publication is designed to
+influence government policy on the activities of the security and intelligence
+agencies”: s.1(1)(b) and (c), and (2)(c).
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+34.	It is worth repeating that the examining officers were not required, as a condition of
+the power’s lawful use, to have concluded before they executed the stop that the
+claimant “[appeared] to be a person falling within section 40(1)(b)”. I note that the
+Article 19 Interveners submit (paragraph 37) that “...the use of the Schedule 7 powers
+with respect to [the claimant] can only be lawful if the Second Defendant is able to
+demonstrate that [the claimant] at the material time ‘appear[ed] to be a person falling
+within section 40(1)(b)...”. This is a mistaken view of the statute’s construction. The
+power’s very purpose is to ascertain whether the subject so appeared.
+
+35.	The Article 19 Interveners also submit (paragraph 39) that “a reading of s.40(1)(b)
+which permits the type of activity carried out by [the claimant] to fall within the
+definition [set out in the subsection] is overbroad and inconsistent with well-
+recognised international principles that media reporting on terrorism ought not to be
+considered equivalent to assisting terrorists”. They cite a number of materials,
+including a declaration of the Committee of Ministers of the Council of Europe
+adopted in 2005, calling upon Member States to “refrain from adopting measures
+equating media reporting on terrorism with support for terrorism”. This
+mischaracterises the defendants’ case. There is no suggestion that media reporting on
+terrorism ought per se to be considered equivalent to assisting terrorists. The
+construction advanced allows as I have said for the ascertainment of the possibility
+that a traveller at a port may be involved, directly or indirectly, in any of a range of
+activities enumerated in s.1(2) of the Act. Not least given the requirement that the
+power must be exercised upon some reasoned basis, proportionately and in good faith,
+I cannot conclude that any of the international materials relied on points towards a
+different construction.
+
+36.	In all the circumstances, given the facts stated in the last PCS and the National
+Security Justification, I conclude that the purpose of the stop - to ascertain the nature
+of the material which the claimant was carrying and if on examination it proved to be
+as was feared, to neutralise the effects of its release (or further release) or
+dissemination - fell properly within Schedule 7 of the 2000 Act on the latter’s true
+construction.
+
+PROPORTIONALITY
+
+D/Supt Stokley
+
+37.	D/Supt Stokley expressly considered whether the stop would be a proportionate
+exercise of power before he authorised it: October statement, paragraphs 47 - 52. The
+whole passage repays attention; I will just give these short extracts:
+
+“50. It appeared to me on the basis of what I knew about the
+stolen material, that it could be used to endanger life and cause
+harm to members of the public... [51] It was very clear in my
+mind that this action was not being executed as a means to
+prevent political embarrassment in the UK... [52]... I believed
+that the information in [the claimant’s] possession could
+potentially compromise the UK’s ability to monitor terrorist
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+networks, posing a threat to the safety of the public... In
+particular, I considered that the release of information about
+PRISM technology into the public domain was of use to
+terrorists. My understanding of the technology from material in
+the public domain is that it enables security and intelligence
+services to monitor email traffic. Accordingly, I considered
+that if nothing was done to try to prevent further damaging
+disclosures which could directly benefit terrorists, the MPS and
+I personally would be failing in our obligation to prevent the
+loss of life, safeguard the public to [sic] prevent and detect
+crime. For all these reasons I considered that the use of a
+Schedule 7 stop was proportionate.”
+
+38.	I see no reason to doubt this evidence as a true description of DS Stokley’s state of
+mind. But it uses the term “proportionate” in isolation; that is to say, there is no
+explanation of relevant competing interests between which a proportionate balance
+fell to be struck. However at paragraph 58 he says this:
+
+“I did not address my mind at the time to applying to a circuit
+judge for a Schedule 5... production order as I considered that
+Schedule 7 represented the best and only method of achieving
+the dual objective of establishing what material [the claimant]
+may have had in his possession and questioning him about it.”
+
+The Proportionality Principle
+
+39.	Schedule 5 plays a significant part in Mr Ryder’s argument, and I must return to that.
+His overall submission is that the use of Schedule 7 powers against his client was an
+unjustified and disproportionate interference with his right to freedom of expression.
+He refers to the recent restatement of the proportionality principle by Lord Sumption
+in Bank Mellat v Her Majesty’s Treasury (No 2) 3 WLR 170, [2013] UKSC 39 at
+paragraph 20:
+
+“... [T]he question depends on an exacting analysis of the
+factual case advanced in defence of the measure, in order to
+determine (i) whether its objective is sufficiently important to
+justify the limitation of a fundamental right; (ii) whether it is
+rationally connected to that objective; (iii) whether a less
+intrusive measure could have been used; and (iv) whether,
+having regard to these matters and the severity of the
+consequences, a fair balance has been struck between the rights
+of the individual and the interests of the community.”
+
+Lord Sumption indicated that these four points summarised the way in which later
+cases “had adapted and applied” the classic statement of the proportionality principle
+by the Privy Council in De Freitas v Permanent Secretary of Ministry of Agriculture,
+Fisheries, Lands and Housing [1999] 1 AC 69 at 80. There Lord Clyde said that the
+court should ask itself:
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+“whether: (i) the legislative objective is sufficiently important
+to justify limiting a fundamental right; (ii) the measures
+designed to meet the legislative objective are rationally
+connected to it; and (iii) the means used to impair the right or
+freedom are no more than is necessary to accomplish the
+objective.”
+
+40.	Lord Sumption’s formulation adds (iv): “whether... a fair balance has been struck
+between the rights of the individual and the interests of the community”. This
+requirement appears to have been introduced into our law in Razgar [2004] 2 AC 368
+(paragraph 20) and Huang [2007] 2 AC 167 (paragraphs 19 and 20), drawing on what
+was said by Dickson CJ in R v Oakes [1986] 1 SCR 103. I think it needs to be
+approached with some care. It appears to require the court, in a case where the
+impugned measure passes muster on points (i) - (iii), to decide whether the measure,
+though it has a justified purpose and is no more intrusive than necessary, is
+nevertheless offensive because it fails to strike the right balance between private right
+and public interest; and the court is the judge of where the balance should lie. I think
+there is real difficulty in distinguishing this from a political question to be decided by
+the elected arm of government. If it is properly within the judicial sphere, it must be
+on the footing that there is a plain case. I shall have more to say about point (iv) in
+discussing free expression and journalism.
+
+Free Speech and the Protection of Journalistic Expression
+
+41.	Mr Ryder says that the Schedule 7 stop was a disproportionate interference with his
+client’s right to “the protection of journalistic expression”. I agree with his
+submission (skeleton argument, paragraph 91) that this ideal has received much
+emphasis in the law of England. I do not therefore think it necessary, on this part of
+the case, to place any reliance on the jurisprudence of the European Court of Human
+Rights; the common law is a sufficient arena for the debate. Dealing generally with
+the right of free expression, in Attorney General v Guardian Newspapers (No 2)
+[1990] 1 AC 109 Lord Goff said this at 283-4:
+
+“I can see no inconsistency between English law on this subject
+and article 10 of the European Convention on Human Rights.
+This is scarcely surprising, since we may pride ourselves on the
+fact that freedom of speech has existed in this country perhaps
+as long as, if not longer than, it has existed in any other country
+in the world. The only difference is that, whereas article 10 of
+the Convention, in accordance with its avowed purpose,
+proceeds to state a fundamental right and then to qualify it, we
+in this country (where everybody is free to do anything, subject
+only to the provisions of the law) proceed rather upon an
+assumption of freedom of speech, and turn to our law to
+discover the established exceptions to it.”
+
+More tersely, in Verrall v Great Yarmouth Borough Council [1981] 1 QB 202
+Watkins J stated:
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+“I am concerned with the fundamental freedom which this
+country has prided itself on maintaining, and for which much
+blood has been spilt over the centuries, namely freedom of
+speech.”
+
+42.	It is clear from the cases that the protection of journalistic expression is an important
+sub-class of the law’s more general care for free speech. Mr Ryder relies on R v The
+Central Criminal Court ex p. The Guardian, The Observer and Bright [2001] 1 WLR
+662 in which Judge LJ as he then was cited the celebrated authority of Entick v
+Carrington (1765) 19 State Trials 1029, and continued at paragraph 98:
+
+“Inconvenient or embarrassing revelations, whether for the
+Security Services, or for public authorities, should not be
+suppressed. Legal proceedings directed towards the seizure of
+the working papers of an individual journalist, or the premises
+of the newspaper or television programme publishing his or her
+reports, or the threat of such proceedings, tends to inhibit
+discussion. When a genuine investigation into possible corrupt
+or reprehensible activities by a public authority is being
+investigated by the media, compelling evidence is normally
+needed to demonstrate that the public interest would be served
+by such proceedings. Otherwise, to the public disadvantage,
+legitimate enquiry and discussion, and ‘the safety valve of
+effective investigative journalism’, the phrase used in a
+different context by Lord Steyn in R v Secretary of State for the
+Home Department ex parte Simms [1999] 3 WLR 328 at 341,
+would be discouraged, perhaps stifled.”
+
+43.	Before I leave the general legal position there is a point to be made about the
+justification of free expression as a fundamental value. I think it noteworthy that
+many of the leading dicta seem to treat free speech as an imperative because it is an
+ally of democratic government. Thus Lord Steyn in Ex p. Simms [2000] 2 AC 115,
+126F-G: “freedom of speech is the lifeblood of democracy”. In Shayler [2003] 1 AC
+247 Lord Bingham said (paragraph 21):
+
+“The reasons why the right to free expression is regarded as
+fundamental are familiar, but merit brief restatement in the
+present context. Modern democratic government means
+government of the people by the people for the people. But
+there can be no government by the people if they are ignorant
+of the issues to be resolved, the arguments for and against
+different solutions and the facts underlying those arguments...
+[T]here can be no assurance that government is carried out for
+the people unless the facts are made known, the issues publicly
+ventilated.”
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+44.	The same theme appears in this passage from Lord Bingham’s speech in McCartan
+Turkington Breen v Times Newspapers Ltd [2001] 2 AC 277, which introduces the
+particular importance of free expression for the media:
+
+“In a modern, developed society it is only a small minority of
+citizens who can participate directly in the discussions and
+decisions which shape the public life of that society. The
+majority can participate only indirectly, by exercising their
+rights as citizens to vote, express their opinions, make
+representations to the authorities, form pressure groups and so
+on. But the majority cannot participate in the public life of their
+society in these ways if they are not alerted to and informed
+about matters which call or may call for consideration and
+action. It is very largely through the media, including of course
+the press, that they will be so alerted and informed. The proper
+functioning of a modern participatory democracy requires that
+the media be free, active, professional and enquiring. For this
+reason the courts, here and elsewhere, have recognised the
+cardinal importance of press freedom and the need for any
+restriction on that freedom to be proportionate and no more
+than is necessary to promote the legitimate object of the
+restriction.”
+
+45.	Freedom of speech may indeed be “the lifeblood of democracy”; but the idea that the
+essential justification of free expression as a fundamental value is the promotion or
+betterment of democratic government (if that is what is suggested, not least in
+Shayler) seems to me, with respect, to be false. It has quite a pedigree in the
+literature: the American philosopher Alexander Meiklejohn was a leading proponent
+of the view that the free speech principle is a collective, not an individual, interest
+(see The First Amendment is an Absolute, [1961] Supreme Court Review 245). The
+perception of free expression as a servant of democracy, however, would tend to
+devalue non-political speech and justify the prohibition or abridgement of speech
+advocating undemocratic government, as Eric Barendt has pointed out (Freedom of
+Speech, Oxford 1985, 21). This would fuel what is anyway one of exuberant
+democracy’s weaknesses, namely the intolerance of minorities. Everyone, even
+democracy’s enemy, must surely be allowed his say provided he advocates no crime
+nor violates the rights of others. The reason is that free thought, which is a condition
+of every man’s flourishing, needs free expression; and this is every person’s
+birthright, in whatever polity he has to live. There are of course undemocratic
+societies in which free speech is an idle hope. But free speech is not a creature of
+democracy; if anything, the converse. The critics of democracy may keep democracy
+on its toes.
+
+46.	I introduce these reflections first because, it seems to me, they make the ideal of free
+speech larger not smaller. But more particularly, this approach exposes an important
+difference between the general justification of free expression and the particular
+justification of its sub-class, journalistic expression. The former is a right which
+belongs to every individual for his own sake. But the latter is given to serve the
+public at large; it is here, rather than with free speech generally, that Lord Bingham’s
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+strictures on democracy - “[t]he proper functioning of a modern participatory
+democracy requires that the media be free, active, professional and enquiring” -
+surely have their proper place. It follows that so far as Mr Ryder claims a heightened
+protection for his client (or the material his client was carrying) on account of his
+association with the journalist Mr Greenwald, the application of requirement (iv) in
+the toll of proportionality - “whether... a fair balance has been struck between the
+rights of the individual and the interests of the community” - needs at least to be
+modified. The contrast is not between private right and public interest. The journalist
+enjoys no heightened protection for his own sake, but only for the sake of his readers
+or his audience. If there is a balance to be struck, it is between two aspects of the
+public interest.
+
+47.	I shall have more to say about the protection of journalistic expression when I come to
+consider the proportionality principle in relation to the facts of the case.
+
+Further Points on the Law
+
+48.	There are some other more specific preliminary points to be made. First, much of the
+learning on the particular claims of journalism is directed to the need to protect
+journalists’ sources. In a passage which chimes with common law authority (such as
+Ashworth Hospital Authority v MGNLtd [2001] 1 WLR 515: see paragraph 101) the
+Strasbourg court repeated in Financial Times v UK (2010) 50 EHRR 46 what it had
+said in Goodwin v UK (1996) 22 EHRR 123 at paragraph 39: “protection of
+journalistic sources is one of the basic conditions for press freedom”. But no such
+issue arises here. The source is no secret: Mr Snowden stole the material, and the
+claimant (however indirectly) got it from Mr Snowden.
+
+49.	Secondly, it may be necessary to protect journalistic material even where it has been
+stolen: see for example Secretary of State for Defence v Guardian Newspapers [1985]
+AC 339; compare Ashworth Hospital Authority v MGN Ltd [2001] 1 WLR 515,
+paragraph 101. I do not think this position is materially affected by the planning case
+of Welwyn HatfieldBC [2011] 2 AC 304, to which the Secretary of State refers.
+
+50.	Thirdly, I accept Mr Ryder’s submission that the protection of journalistic material is
+not in principle limited to cases where the complainant works as a journalist: see for
+example Nagla v Latvia [2013] ECHR 688, paragraph 81. The submission of the
+Coalition Interveners (paragraph 27) that journalism is a “collaborative activity” has
+obvious force. Non-journalists (cameramen, interpreters, administrative assistants)
+may be directly or indirectly involved. Everything will depend upon the particular
+facts, by reference to which the need to vindicate “the protection of journalistic
+expression” may vary very greatly.
+
+This Case - the Facts
+
+51.	I have already briefly summarised the claimant’s relevant activity. Though not a
+journalist, he has worked very closely with Mr Greenwald, who is. As I have said, his
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+visit to Berlin in August 2013 to meet Laura Poitras was undertaken to assist Mr
+Greenwald. The Guardian made his travel reservations and paid for the trip. He
+states that the material he was carrying when he was stopped was very heavily
+encrypted - he was unable to open it himself (statement paragraph 18(2)(a)). It
+included but was not limited to material from Mr Snowden, not all of which was “raw
+data” (paragraph 24). He says:
+
+“18(3) I was aware that this material was extremely important
+to Glenn for the continued public interest exposure of the
+NSA/GCHQ mass surveillance programme and that was why I
+was bringing it to him.”
+
+52.	The starting-point for any consideration of proportionality’s application to this case
+must be the purpose of the Schedule 7 stop. It was, as I have held, to ascertain the
+nature of the material which the claimant was carrying and if on examination it
+proved to be as was feared, to neutralise the effects of its release (or further release) or
+dissemination. For the reasons I have given Schedule 7 authorised a stop for this
+purpose. To that extent the stop was lawful; it was also, on the evidence, a pressing
+imperative in the interests of national security. I have already referred to the
+statement of Mr Robbins, Deputy National Security Adviser for Intelligence, Security
+and Resilience in the Cabinet Office, that release or compromise of such data would
+be likely to cause very great damage to security interests and possible loss of life. As
+I have indicated the external hard drive taken from the claimant contains
+approximately 58,000 highly classified UK intelligence documents. It is plainly to be
+inferred that in describing the actual or potential damaging effects of the
+dissemination of this material Mr Robbins has been as specific as open evidence
+allows. It is necessary to cite some of his testimony, taken from his second witness
+statement of 24 September 2013:
+
+“15. Since my first witness statement, there have been further
+damaging reports based on stolen classified material. It is
+obviously not possible in an open statement to go into detail
+about the real and serious damage already caused by the
+disclosures based on Mr Snowden’s misappropriations, nor
+about what further damage may follow. However, given the
+volume of media reporting published over the past three
+months, and public statements from the UK and US
+Governments, I can say with confidence that the material seized
+is highly likely to describe techniques that have been crucial in
+life-saving counter-terrorism operations, the prevention and
+detection of serious crime, and other intelligence activities vital
+to the security of the UK. The compromise of these methods
+would do serious damage to UK national security, and
+ultimately put lives at risk. Following the article jointly
+published by the Guardian, New York Times and ProPublica on
+5 September, for example, the US Office of the Director of
+National Intelligence said on the following day that the article
+revealed ‘specific and classified details about how we [ie, the
+US] conduct this critical activity’, and that it provided a
+‘roadmap to our adversaries’ about surveillance issues.”
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+There are other important passages in Mr Robbins’ evidence, which should be read as
+a whole; a comprehensive account would unduly lengthen this judgment. As regards
+risk to life, I would note one particular sentence in paragraph 19 of his first statement:
+“It is known that contained in the seized material are [sic] personal information that
+would allow staff to be identified, including those deployed overseas”.
+
+53.	Detective Superintendent Caroline Goode of the Metropolitan Police, attached to
+
+SO15, has also described the concerns arising from the theft of the 58,000 documents.
+
+At paragraph 15 of her statement of 27 August 2013 she says:
+
+“The material needs to be examined as a matter of urgency to
+identify the nature of the material stolen in order to enable the
+MPS to mitigate the risks posed by the theft, the unlawful
+possession and disclosure of this material. For example, should
+the identity of individuals working for HMG be revealed their
+lives and the lives of their families could be directly at risk.
+
+Similarly should details of ongoing/historic operations and/or
+methodology be revealed the operation itself could be rendered
+ineffective. This will consequently put the lives of the general
+public at risk as we would be less able to counter the threat
+from terrorism. If the MPS was able to identify what identities
+and information are contained within the material we would be
+able to mitigate the risk posed to those individuals, those
+operations and the general public at large by putting
+appropriate measures in place.”
+
+54.	Is this evidence qualified or put in doubt by anything said for the claimant? The
+claimant’s own statement is dated 23 October 2013, so he will have read the
+statements of Mr Robbins and D/Supt Goode. He says:
+
+“61(2)... I strongly challenge the suggestion that there was a
+genuine belief in a risk that my activity could endanger life or
+facilitate terrorist attacks...
+
+62... [H]aving now seen the defendants’ attempts to explain the
+action against me it is my belief that my detention and
+questioning was not genuinely based on the need to question
+me in relation to the commission, instigation and preparation of
+acts of terrorism. It was an effort to obtain journalistic material
+from me and the Schedule 7 powers were misused.”
+
+55.	Mr Greenwald’s witness statement of 23 October 2013 contains a similar theme at
+paragraph 9:
+
+“I believe the evidence will show that the defendants were well
+aware that the claimant’s possession [sc. of the material seized]
+was in connection with journalism, not terrorism.”
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+Mr Greenwald’s account of the practice of “responsible journalism” has a didactic
+quality:
+
+“31. It is my view that there will be times when the publication
+of sensitive material, even national security material, is
+appropriate, provided the journalist and those working with him
+or her take great care and act responsibly.
+
+32.	But not to publish material simply because a government
+official has said such publication may be damaging to national
+security is antithetical to the most important traditions of
+responsible journalism. That approach is also deeply unhealthy
+for any democracy. It would have prevented some of the most
+important information in world current affairs ever coming to
+light. Publication of information contrary to the wishes of a
+government is, at times, both the role and the duty of the
+‘Fourth Estate’. The key is not for journalists to simply defer
+to the government view, but to act as responsibly and carefully
+as they can to determine if and when it is in the public interest
+to publish sensitive material. That is what we have done.
+
+33.	From my experience I can indicate that there are many
+ingredients to the sensible reporting of very sensitive
+information. They include, but are not limited to, the
+following:
+
+(1)	If possible, one should seek to use the skills and
+judgment of highly experienced journalists and legal experts.
+This is the most appropriate and safest way to decide
+whether to publish information and how much of it to
+disclose. That collective experience enables a careful
+judgment of both the public interest and any risks or dangers
+that may arise on publication.
+
+(2)	Experienced editors and reporters are able to consider
+what, if anything, may be published without endangering
+innocent life. They cannot always, of course, do so with
+complete perfection. But the history of investigative
+journalism leaves no doubt that such judgments can be, and
+almost always are, made with great responsibility.
+
+(3)	Editors and other journalists not only have experience,
+but they also have established methods through which to
+communicate with government officials in relation to
+publication. These can be both formal and informal. These
+procedures enable journalists to determine which stories may
+be sensitive because they pose a real danger to persons if
+there is publication; and which stories are sensitive,
+awkward, embarrassing for the government, or which the
+government feels may be undesirable to be made public.”
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+The nearest Mr Greenwald gets to an engagement with the defendants’ evidence as to
+the actual or potential damaging effects of the dissemination of material seized from
+the claimant is at paragraphs 51 - 52:
+
+“51. It is absurd to suggest that because the material, if it ever
+fell into the hands of terrorists could in theory be used for
+terrorist purposes, then there is a justification for using counter-
+terrorist measures to take that material from responsible
+journalists publishing material through respected international
+media organisations. (original emphasis)
+
+52. Nowhere in their evidence do the defendants’ witnesses
+positively indicate that any disclosure has actually threatened or
+endangered life or any specific operation. In my view, this is
+not surprising, given the care we took not to create such a risk.”
+
+56.	I am afraid I have found much of this evidence unhelpful. First, the claimant and Mr
+Greenwald both appear prepared to accuse the defendants of bad faith. The claimant
+at paragraphs 61(2) and 62, and Mr Greenwald at paragraph 9, suggest that the
+defendants deployed the Schedule 7 powers for what they - the defendants - believed
+was an improper purpose. It is true that the premise of these observations in their
+evidence is that the identification and neutralisation of the material which the claimant
+was carrying was not a permitted purpose; and I have held the contrary. But the sting
+(especially that of paragraph 61(2) of the claimant’s statement) is that the defendants
+did not believe that the claimant’s possession of the material presented any real
+danger to national security or risk of loss of life. I bear in mind the limits of evidence
+not cross-examined; but there is no perceptible foundation for such a suggestion.
+
+57.	Secondly, the evidence for the claimant simply does not engage with the defendants’
+testimony as to the substance of the threat posed by the theft of the security material
+and its possession by the claimant. Mr Greenwald’s statement at paragraph 32 that
+“not to publish material simply because a government official has said such
+publication may be damaging to national security is antithetical to the most important
+traditions of responsible journalism” is true but trivial. Of course a bare, wholly
+unqualified assertion by government will not be enough. But that is not this case; the
+defendants’ evidence plainly goes much further.
+
+58.	Thirdly, Mr Greenwald’s account (paragraph 33) of the “many ingredients to the
+sensible reporting of very sensitive information” is insubstantial; or rather, mysterious
+- the reader is left in the dark as to how it is that “highly experienced journalists and
+legal experts” (paragraph 33(1)) or “[experienced editors and reporters” (33(2)) are
+able to know what may and what may not be published without endangering life or
+security. There may no doubt be obvious cases, where the information on its face is a
+gift to the terrorist. But in other instances the journalist may not understand the
+intrinsic significance of material in his hands; more particularly, the consequences of
+revealing this or that fact will depend upon knowledge of the whole “jigsaw” (a term
+used in the course of argument) of disparate pieces of intelligence, to which the
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+classes of persons referred to by Mr Greenwald will not have access. At paragraph 26
+of his first statement Mr Robbins says this:
+
+“Indeed it is impossible for a journalist alone to form a proper
+judgment about what disclosure of protectively marked
+intelligence does or does not damage national security... The
+fragmentary nature of intelligence means that even a seemingly
+innocuous piece of information can provide important clues to
+individuals involved in extremism or terrorism.”
+
+59.	In the result, I conclude that nothing said for the claimant qualifies or puts in doubt
+the evidence of Mr Robbins and DS Goode as to the dangers inherent in the release
+(or further release) or dissemination of the material in the claimant’s possession.
+Neither the claimant nor Mr Greenwald is in a position to form an accurate judgment
+on the matter.
+
+This Case - the Nature of the Argument
+(1) Schedule 5
+
+60.	As I have said, Mr Ryder submits that the use of the Schedule 7 powers against his
+client was an unjustified and disproportionate interference with his right to freedom of
+expression. There were a number of strands to his argument. One was that any
+pursuit of the claimant to gain access to what he was carrying should have been
+effected by means of Schedule 5 of the Act of 2000, and application made to a circuit
+judge for an order under paragraph 5(3)(a) that the claimant “produce to a constable
+within a specified period for seizure and retention any material which he has in his
+possession, custody or power and to which the application relates”. That, it is said,
+would have been a proportionate response to such exigency as arose (or was
+perceived to arise) in the events which had happened.
+
+61.	This submission lacks all practicality. I will assume that the defendants (rather the
+second defendant: the application is made by “a constable” - paragraph 5(1)) could
+have got before a judge before the claimant left Heathrow for Brazil. But there are
+other insuperable difficulties. (1) Paragraph 5(4)(a) could not have been satisfied.
+The application must relate to “particular material, or material of a particular
+description, which consists of or includes excluded material or special procedure
+material” (paragraph 5(2)), and the order may only specify an individual if “he
+appears to the [judge] to have in his possession, custody or power any of the material
+to which the application relates” (5(4)(a)). But the police did not know what the
+claimant was carrying: neither the National Security Justification nor the final PCS
+contained particulars remotely sufficient for the Schedule 5 process. (2) Paragraph
+6(1)(a) could not have been met. The police could not have satisfied the judge “that
+the material to which the application relates consists of or includes excluded material
+or special procedure material”. (3) The claimant would not have been obliged to
+answer any questions about what he was carrying: the power in paragraph 13 to
+require an explanation only relates to material already produced or made available.
+
+(4)	It appears that the only sanction for disobedience to any order that might be
+obtained would have been contempt proceedings after the event: paragraph 10
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+provides that a judge’s order “under paragraph 5 shall have effect as if it were an
+order of the Crown Court”.
+
+62.	Given all these difficulties, an application under Schedule 5 would have been
+pointless and ineffective.
+
+(2) No Fair Balance in any Event
+
+63.	The premise of Mr Ryder’s submission on paragraph 5 is, of course, that the claimant
+was carrying “journalistic material”, whether “excluded material” or “special
+procedure material”. By force of that premise he would also submit that even if
+Schedule 5 was in practice unavailable for reasons I have given, still it was
+disproportionate and therefore unlawful for the defendants to deploy Schedule 7: the
+terms of Schedule 5 (and Schedule 1 of the Police and Criminal Evidence Act 1984)
+“reflect Parliament’s recognition of the need for all interferences with journalistic
+material to be authorised by an independent judge giving full weight to the important
+freedom of expression rights engaged” (skeleton argument, paragraph 97). I did not
+understand this to amount to a suggestion that Schedule 5 (and Schedule 1 of PACE)
+excluded the application of Schedule 7 to the case as a matter of statutory
+construction; simply that it was necessarily disproportionate for the State to perpetrate
+such an interference with journalistic freedom without the safeguard of judicial
+authorisation.
+
+64.	Mr Ryder submitted in terms that the whole of the material carried by the claimant fell
+to be treated as “journalistic material”. Some of it, I accept, was documentation
+created or worked on for journalistic purposes: the claimant refers (statement
+paragraph 24(2)) to a “file containing an index and a summary that had been created
+after the material had been provided by Mr Snowden”. There were also some
+personal items.	But the 58,000 highly classified UK intelligence documents
+
+constituted raw data stolen from GCHQ. Mr Kovats did not accept that this amounted
+to “journalistic material”. I think this is right, notwithstanding the wide words of
+s.13(1) of the Police and Criminal Evidence Act (“‘journalistic material’ means
+material acquired or created for the purposes of journalism”): taken literally, the
+s.13(1) definition would potentially embrace instances of the plainest turpitude,
+provided only there was some journalistic purpose. But the point is not
+straightforward, given the proposition (which I have accepted) that there are cases
+where the law should protect stolen journalistic material.
+
+65.	In my judgment, however, Mr Ryder’s broader argument on proportionality - that the
+use of Schedule 7 is in any event unjustified - does not in truth depend on the
+categorisation of the GCHQ documents as journalistic material. The heart of the point
+is that the claimant was assisting in the conduct of responsible journalism, and the
+law’s duty to protect that activity means that interference with it by the summary and
+unsupervised process of Schedule 7 was disproportionate and unlawful whether or not
+any intercepted documents strictly fell within the statutory definition of “journalistic
+material”: no “fair balance [was] struck between the rights of the individual and the
+interests of the community” - requirement (iv) in the restatement of the
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+proportionality principle in Bank Mellat: though, as I have held (paragraph 45), where
+journalistic freedom is involved the balance is not between private right and public
+interest, but between two aspects of the public interest.
+
+66.	This submission on proportionality placed much emphasis on “responsible
+journalism”. In response to an invitation from the court Mr Ryder has since the
+hearing helpfully produced a note containing some references in the learning to this
+concept. However they arose in the context of defamation claims; thus in Bonnick v
+Morris [2003] 1 AC 300 Lord Nicholls stated at paragraph 23 that “responsible
+journalism is the point at which a fair balance is held between freedom of expression
+on matters of public concern and the reputations of individuals”.
+
+67.	That does not assist us here; and in any event given the substantial, often insuperable,
+difficulty a journalist faces in seeking to determine what classified material may be
+safely published and what may not (paragraph 58 above), the notion of “responsible
+journalism” throws little light on the proportionality issue. However Mr Ryder’s note
+also draws attention to passages in the defendants’ skeleton arguments (Secretary of
+State, paragraph 46; the Commissioner, paragraph 42) which refer to a supposed risk
+that all the material carried by the claimant might be released, and it is then submitted
+that there is no evidence that such a risk might materialise: the evidence was that there
+had been very limited publication to date.
+
+68.	Notwithstanding those references in the defendants’ skeletons, the danger sought to be
+averted by the Schedule 7 stop was by no means limited to the “worst case scenario”
+of total publication. Mr Robbins (second statement, paragraphs 2, 13 - 15) makes
+plain the Secretary of State’s apprehension of the damage to national security caused
+by the publications to date. Neither the National Security Justification, nor the final
+PCS, nor the witness statements filed for the defendants, can sensibly be read as
+suggesting that damage would only ensue if all the material were released.
+
+69.	However, what I have called the heart of the point in Mr Ryder’s argument does not, I
+think, depend on any such proposition. His submission in reply was broader: he said
+that there was no evidence of the degree of danger posed by the claimant’s possession
+of the material. The suggestion is that risk to security - or to life - must be
+demonstrated to some higher standard than was done here if State interference with
+journalistic freedom (at least by such means as Schedule 7) is to be justified, if it can
+be justified at all. The implication appears to be that such risks as the defendants’
+witnesses describe, not being more precisely specified, must by law be accepted for
+the sake of journalistic freedom’s integrity.
+
+70.	It is not immediately clear why that should be so. But Mr Ryder’s case was to my
+mind illuminated by three propositions which he articulated in reply. The first was
+that journalists, “like judges”, have a role in a democratic State to scrutinise action by
+government. The second was that the function of the free press is inhibited by an
+insistence that anything (in the security field) which the journalist seeks to publish
+must be stifled because it may be part of the “jigsaw” from which a knowing terrorist
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+may draw harmful inferences. The third was that there is a balance to be struck, again
+in the security field, between the responsibility of government and the responsibility
+of journalists.
+
+71.	Inmy judgment, taken at their height these propositions would confer on the
+journalists’ profession a constitutional status which it does not possess. They suggest,
+as Mr Greenwald’s evidence suggested, that journalists share with government the
+responsibility of measuring what is required by way of withholding publication for the
+protection of national security. Journalists have no such constitutional responsibility.
+They have, of course, a professional responsibility to take care so far as they are able
+to see that the public interest, including the security of the State and the lives of other
+people, is not endangered by what they publish. But that is not an adequate safeguard
+for lives and security, because of the “jigsaw” quality of intelligence information, and
+because the journalist will have his own take or focus on what serves the public
+interest, for which he is not answerable to the public through Parliament. The
+constitutional responsibility for the protection of national security lies with elected
+government: see, amongst much other authority, Binyam Mohamed [2011] QB 218
+per Lord Neuberger MR at paragraph 131. The authorities I have cited on the
+importance of press freedom nowhere ascribe such a responsibility to the journalists’
+profession. Their effect, rather, is to acknowledge the high public interest inherent in
+press freedom, and to stipulate accordingly that any interference with it stands in need
+of substantial objective justification. Of that the courts are the judge; and they will
+require “compelling evidence” (per Judge LJ in Exp. Bright) before they will validate
+the interference.
+
+Conclusions on Proportionality
+
+72.	How do these considerations bear on the present case? The claimant was not a
+journalist; the stolen GCHQ intelligence material he was carrying was not
+“journalistic material”, or if it was, only in the weakest sense. But he was acting in
+support of Mr Greenwald’s activities as a journalist. I accept that the Schedule 7 stop
+constituted an indirect interference with press freedom, though no such interference
+was asserted by the claimant at the time. In my judgment, however, it is shown by
+compelling evidence to have been justified. I have described the testimony of Mr
+Robbins and DS Goode (and DS Stokley). There is no reason to doubt any of it. In
+contrast, (1) the evidence of the claimant and Mr Greenwald is unhelpful, to the extent
+I have explained. (2) There is no question of a source being revealed; though I accept
+there is some force in the Article 19 Interveners’ submission (paragraph 17) as to “the
+potential discouragement of future journalistic sources who may not elect to waive
+their anonymity”. (3) The fact that the material was stolen, though it does not exclude
+the law’s intervention to protect free speech, goes in the scales in favour of the
+defendants.
+
+73.	In my judgment the Schedule 7 stop was a proportionate measure in the
+circumstances. Its objective was not only legitimate, but very pressing. The demands
+of journalistic free expression were qualified in the ways I have explained. In a press
+freedom case, the fourth requirement in the catalogue of proportionality involves as I
+have said the striking of a balance between two aspects of the public interest: press
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+freedom itself on one hand, and on the other whatever is sought to justify the
+interference: here national security. On the facts of this case, the balance is plainly in
+favour of the latter.
+
+ARTICLE 10
+
+74.	As is well known ECHR Article 10 provides:
+
+“1. Everyone has the right to freedom of expression. This right
+shall include freedom to hold opinions and to receive and
+impart information and ideas without interference by public
+authority and regardless of frontiers...
+
+2. The exercise of these freedoms, since it carries with it duties
+and responsibilities, may be subject to such formalities,
+conditions, restrictions or penalties as are prescribed by law and
+are necessary in a democratic society, in the interests of
+national security, territorial integrity or public safety, for the
+prevention of disorder or crime, for the protection of health or
+morals, for the protection of the reputation or rights of others,
+for preventing the disclosure of information received in
+confidence, or for maintaining the authority and impartiality of
+the judiciary.”
+
+75.	My conclusions on proportionality mean at least that the Schedule 7 power is capable,
+depending on the facts, of being deployed so as to interfere with journalistic freedom
+without violating the principle of proportionality: it was not violated in this case. But
+that is not the whole of the argument on Article 10. The Interveners submit that
+Schedule 7 does not meet the requirement of Article 10(2) that a restriction of free
+expression must be “prescribed by law”. It is said to be over-broad and arbitrary, and
+to lack effective safeguards against misuse, and in particular express protections for
+confidential journalistic sources or materials (see for example Liberty’s submissions,
+paragraph 1(8)). I will first address the argument that the Schedule 7 power is over-
+broad and arbitrary.
+
+Legal Certainty
+
+76.	The Coalition Interveners cite the well known Sunday Times case ((1996) 22 EHRR
+1234): “49... [A] norm cannot be regarded as a ‘law’ unless it is formulated with
+sufficient precision to enable the citizen to regulate his conduct.” The claimant and
+all the Interveners rely on Gillan and Quinton v UK (2010) 50 EHRR 45, in which the
+Strasbourg court found that the stop and search powers contained in s.44 of the 2000
+Act were repugnant to ECHR Article 8 because they were not sufficiently
+circumscribed and lacked adequate legal safeguards.
+
+77.	In Gillan the court repeated (paragraph 76) its well known formulation of the standard
+of legality (imposed in Article 8 by the words “in accordance with the law”), that it
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+“require[s] the impugned measure both to have some basis in domestic law and to be
+compatible with the rule of law”, and continued at paragraph 77:
+
+“For domestic law to meet these requirements it must afford a
+measure of legal protection against arbitrary interferences by
+public authorities with the rights safeguarded by the
+Convention. In matters affecting fundamental rights it would be
+contrary to the rule of law, one of the basic principles of a
+democratic society enshrined in the Convention, for a legal
+discretion granted to the executive to be expressed in terms of
+an unfettered power. Consequently, the law must indicate with
+sufficient clarity the scope of any such discretion conferred on
+the competent authorities and the manner of its exercise ... The
+level of precision required of domestic legislation - which
+cannot in any case provide for every eventuality - depends to a
+considerable degree on the content of the instrument in
+question, the field it is designed to cover and the number and
+status of those to whom it is addressed.”
+
+78.	This line of authority goes to legal certainty; the principle is very familiar. The power
+to stop and search which may be authorised under s.44 of the 2000 Act is very lightly
+circumscribed: the person giving the authorisation must consider it “expedient for the
+prevention of acts of terrorism” (s.44(3)), and the power “may be exercised only for
+the purpose of searching for articles of a kind which could be used in connection with
+terrorism” (s.45(1)(a)). There is no requirement of reasonable suspicion (s.45(1)(b)).
+
+79.	In Beghal [2014] 2 WLR 150, [2013] EWHC 2573 (in which the claimant has leave to
+appeal to the Supreme Court) this court held that Schedule 7 is compatible with
+ECHR Article 8. It was submitted (as it happens by Mr Ryder) “that the reasoning of
+Gillan (Strasbourg) applied to the present case in that there was no distinction to be
+drawn between s.44 and the provisions of Schedule 7” (paragraph 25). However the
+court concluded, having regard to Kay v Lambeth LBC [2006] 2 AC 465, that if it
+found the case before it indistinguishable from Gillan it would be bound by the
+decision of the House of Lords in the same case (Gillan [2006] 2 AC 307) which in
+contrast to the later judgment of the Strasbourg court had held that s.44 of the 2000
+Act was compatible with the Convention: see paragraph 71 of Beghal.
+
+80.	The court decided that the case was distinguishable from Gillan. Giving the judgment
+of the court Gross LJ said this:
+
+“91. [I]n our view crucially, the distinction between this case
+and Gillan is one of substance, turning on the starkly different
+context of the powers in issue. In our judgment port and border
+control is very different from a power to stop and search,
+potentially exercisable anywhere in the jurisdiction.
+
+Conclusions as to the arbitrariness of the latter do not readily,
+still less necessarily, translate into conclusions as to the former.
+
+As Schedule 7, para. 2 makes clear, the relevant powers apply
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+only to a limited category of people - namely those ‘at a port or
+in the border area’, where ‘the examining officer believes that
+the person’s presence.... is connected with his entering or
+leaving...’ the country and also to a person on a ship or aircraft
+which has arrived at any place in Great Britain or Northern
+Ireland. That the category of persons to whom Schedule 7
+powers are applicable may itself be numerically large is neither
+here nor there; port and border controls cannot be simplistically
+assimilated with generalised powers of stop and search
+exercisable anywhere in any circumstances. Although it could
+not be said that the references in Gillan (HL) (at [9] and [28])
+to the Schedule 7 powers and searches at airports, or the like
+reference to airports in Gillan (Strasbourg) (at [64]), of
+themselves make good the distinction, they certainly point to a
+significant contextual difference. As has been shown by
+reference to both Lord Lloyd’s Report [‘Inquiry into
+Legislation Against Terrorism’, Command Paper No. 3420 of
+1996] and the views of the Independent Reviewer [The
+Independent Reviewer of Terrorism Legislation, David
+Anderson QC: 2012 Report] the Schedule 7 powers have a long
+history. At least in significant part, they plainly reflect that this
+country, as ‘an island nation’ concentrates controls at its
+national frontiers. We venture the view that the Strasbourg
+Court would accord a wide margin of appreciation for
+individual states in respect of port and border controls.”
+
+81.	The court in Beghal proceeded to consider whether, given that the House of Lords’
+decision in Gillan did not conclude the Schedule 7 issue against the appellant, Mr
+Ryder’s submission that Schedule 7 was repugnant to Article 8 was good on its
+merits. It held that it was not. Amongst other reasons the court indicated (paragraph
+94) that “the arguments which serve to distinguish Gillan serve likewise to emphasise
+the important and particular position of port and border controls”; “the Schedule 7
+powers are applicable only to a limited category of people, as explained earlier:
+namely, travellers in confined geographical areas” (paragraph 95) and (paragraph 96)
+only for the purpose specified in paragraph 2(1) of the Schedule; “the Schedule 7
+powers, though principally exercised by police officers, are an aspect of port and
+border control rather than of a criminal investigation” (paragraph 97); and (paragraph
+98) “the exercise of Schedule 7 powers is subject to cumulative statutory limitations”.
+
+82.	The Divisional Court is not bound by the law of precedent to follow an earlier
+decision of another Divisional Court, but will do so it unless convinced that it is
+wrong: R v Greater Manchester Coroner ex p. Tal [1985] QB 67. Far from being so
+convinced, I am with respect entirely clear that the reasoning in Beghal is correct. In
+those circumstances I would reject the submission that the Schedule 7 power is over-
+broad or arbitrary, and for that reason not “prescribed by law”.
+
+83.	Before leaving this aspect of the Article 10 issue, however, there is a more general
+point to make. As I have shown the Strasbourg court in Gillan stated (paragraph 77)
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+that “[i]n matters affecting fundamental rights it would be contrary to the rule of
+law... for a legal discretion granted to the executive to be expressed in terms of an
+unfettered power”. Schedule 7 is plainly not so expressed; but it is in any case worth
+having in mind that in English law the executive never enjoys unfettered power. All
+State power has legal limits, for it is conferred on trust to be exercised reasonably, in
+good faith, and for the purpose for which it was given by statute; and where a
+discretionary power touches a fundamental right, its use must fulfil the proportionality
+principle. It is always for the court to ascertain the statute’s purpose as a matter of
+construction. It is not a general, certainly not an absolute, requirement of the law of
+human rights in England that the Act of Parliament must spell out the constraints upon
+the power which it confers. That is not to say that the disciplines of the common law
+will always save a statute couched in seemingly unfettered terms; I recognize of
+course that “[t]he exercise of power by public officials, as it affects members of the
+public, must be governed by clear and publicly-accessible rules of law” (Gillan (UK)
+per Lord Bingham at paragraph 34). But the position in this jurisdiction is with
+respect more nuanced than the Strasbourg court would appear to acknowledge in the
+passage cited.
+
+Effective Safeguards
+
+84.	Here the essence of the claimant’s argument is that, at least vis-a-vis cases touching
+journalistic freedom, Article 10 is violated for want of any provision for prior judicial
+scrutiny in Schedule 7. Beghal was not, of course, concerned with the public interest
+in journalistic free expression.
+
+85.	Reliance is placed (see for example Liberty’s submissions, paragraph 8) on the
+contrast with Schedule 5 and its requirement for application to a judge. A number of
+Strasbourg authorities are cited, not least Sanoma Utigevers BV v Netherlands (2010)
+51 EHRR 31, in which the Grand Chamber held that a Dutch law authorizing the
+compulsory surrender of material to the police for use in a criminal investigation was
+repugnant to Article 10. It is to be noted that the judgment at paragraph 82 contains
+the same statement as appears in Gillan at paragraph 77: “[i]n matters affecting
+fundamental rights it would be contrary to the rule of law. for a legal discretion
+granted to the executive to be expressed in terms of an unfettered power”. Later the
+court said this:
+
+“89. The Court notes that orders to disclose sources potentially
+have a detrimental impact, not only on the source, whose
+identity may be revealed, but also on the newspaper or other
+publication against which the order is directed, whose
+reputation may be negatively affected in the eyes of future
+potential sources by the disclosure, and on members of the
+public, who have an interest in receiving information imparted
+through anonymous sources.
+
+90. First and foremost among these safeguards is the guarantee
+of review by a judge or other independent and impartial
+decision-making body.
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+92. Given the preventive nature of such review the judge or
+other independent and impartial body must thus be in a position
+to carry out this weighing of the potential risks and respective
+interests prior to any disclosure and with reference to the
+material that it is sought to have disclosed so that the arguments
+of the authorities seeking the disclosure can be properly
+assessed.”
+
+86.	Telegraaf Media Nederland Landelijke Media BV v Netherlands (2012) 34 BHRC
+193 concerned the targeted surveillance of journalists with a view to obtaining
+knowledge of their sources. There was no prior review by an independent body; post
+factum review could not “restore the confidentiality of journalistic sources once it is
+destroyed” (paragraph 101). “The Court thus finds that the law did not provide
+safeguards appropriate to the use of powers of surveillance against journalists with a
+view to discovering their journalistic sources. There has therefore been a violation of
+Articles 8 and 10 of the Convention” (paragraph 102).
+
+87.	Nagla v Latvia [2013] ECHR 688 concerned the execution of a search warrant at a
+journalist’s home; the search warrant was retrospectively approved by an
+investigating judge. At paragraph 90 the court stated:
+
+“The Court notes that unlike in the Sanoma Uitgevers case, the
+investigating judge has the authority under Latvian law to
+revoke the search warrant and to declare such evidence
+inadmissible... Moreover... the investigating judge also has
+the power to withhold the disclosure of the identity of
+journalistic sources. The Court considers that the last two
+elements pertaining to the investigating judge’s involvement in
+an immediate post factum review are sufficient to differentiate
+this case from the above-mentioned Sanoma Uitgevers case
+(see also Telegraaf Media... where a similar distinction was
+made). The Court, therefore, does not deem it necessary to
+examine the Government’s submissions concerning the role of
+the supervising prosecutor in authorising searches under the
+urgent procedure.”
+
+The Coalition Interveners lay emphasis on the fact that the judge reviewing the case
+“under the urgent procedure on the day following the search” (paragraph 89) was in a
+position to prevent disclosure of the journalist’s source before any use was made of it.
+
+88.	Mr Kovats submits that the Strasbourg court has not developed an absolute rule of
+prior judicial scrutiny for cases involving State interference with journalistic freedom.
+In my judgment that is right. Although the court’s reasoning is sometimes expressed
+in very general terms (see in particular paragraphs 90 and 92 of Sanoma), in this area
+as in others its method and its practice is to concentrate on the facts of the particular
+case. And the Strasbourg court would itself acknowledge that the protections against
+excess of power by State agents, and the limitations which the law imposes on the
+
+Judgment Approved by the court for handing down.
+
+Miranda v SofS Home Dept
+
+power they enjoy, vary greatly from State to State: such differences illustrate the
+importance of the well known doctrine of the margin of appreciation. As I have
+indicated at paragraph 30, there are important constraints upon the use of the Schedule
+7 power. The discipline of the proportionality principle is one of the foremost
+safeguards: its role in this case, I think, demonstrates as much.
+
+89.	In the result I conclude that Schedule 7 of the 2000 Act does not offend Article 10.
+No complaint relating to Article 5 or 8 can survive my agreement with the court’s
+judgment in Beghal.
+
+CONCLUSION
+
+90.	I would dismiss the application for judicial review.
+
+MR JUSTICE OUSELEY:
+
+91.	I agree. Paragraph 34 makes an important point about the construction of the Act, in
+the light of which paragraphs 31 and 35 need to be read. The very reason for the stop
+is to see if someone appears to fall within s40(1)(b). The reason for the stop will
+therefore be yet less firmly grounded than the mere appearance that someone falls
+within the section. An officer must act in good faith, for the purposes of the Act and
+he should be able to explain why he acted as he did. He cannot act on a merely
+arbitrary basis, but he can act on for example, no more than hunch or intuition,
+especially given the speed with which he may have to act. This is not a power of last
+resort.
+
+MR JUSTICE OPENSHAW:
+
+92.	I agree with both judgments.

@@ -1,2126 +1,1308 @@
- 
+﻿The overall classification for this brief is:
+TOPSECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
-Fielded Capability: End-to-End VPN
 SPIN 9 Design Review
 
-The overall classification for this brief is:
-USA, AUS, CAN, GBR, 
-
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U) Current Fielded Capability		
+■ (TS//SI//REL) All current TURMOIL Virtual Private Network (VPN) capabilities		
+are fielded as	Spin 6 Red Architecture software running on Red Architecture	
+hardware.		
+	VPN Metadata	VPN Decryption
+	Red	Red
+TEC	No capability after Blue transition	No capability after Blue transition
+	on 17-Sep	on 17-Sep
+YRS	No capability	No capability
+SSO	No capability	No capability
+MHS Live	Red	Red
+MHS Dev	No capability	No capability
 
-(U) Current Fielded Capability
+top FiFr.RFT//r;OMiMT//RFi I ira ai JR (ram (RRR M7i //?n3?mna
 
-All current TURMOIL Virtual Private Network (VPN) capabilities
-are fielded as Spin 6 Red Architecture software running on Red Architecture
+2
 
-hardware.
-VPN Metadata VPN 
-Red Red
-TEC No capability after Blue transition No capability after Blue transition
-on 17-Sep on 17-Sep
-YRS No capability No capability
-$80 No capability No capability
-MHS Live Red Red
-MHS Dev No capability No capability
-
-TOP llgA Allg CAN GRR [00270108 2
-
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) Spin 9 Objectives
 
-The Spin 9 Objective for the TURBULENCE (TU) VPN Private
+■	(S//SI//REL) The Spin 9 Objective for the TURBULENCE (TU) VPN Private
 capability is to transition to the Blue Architecture.
 
-Spin 9 VPN will implement a redesign of the flow that
+■	(S//SI//REL) Spin 9 VPN will implement a redesign of the decryption flow that
 reallocates some functionality between TURMOIL, the VPN Attack Orchestrator
 (VAO), and the VPN Metrics service.
 
-(U) Deliver all capabilities as deployable at the end of Spin 9.
+■	(U) Deliver all capabilities as deployable at the end of Spin 9.
 
-TOP AIIR CAN GRR [00270108 3
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+3
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) Capabilities
 
-The TU VPN capability will implement an operational capability to
-detect and selected communications that are using IP security
-
-(lPsec) algorithms and protocols. It will fonNard the content to follow-
+■	(TS//SI//REL) The TU VPN capability will implement an operational capability to
+detect and decrypt selected communications that are encrypted using IP security
+(iPsec) algorithms and protocols. It will forward the unencrypted content to follow-
 on processing systems.
 
-The TU VPN capability will collect metadata about IPsec Internet
-Key Exchange events and forward the metadata to follow-on SIGINT
+■	(TS//SI//REL) The TU VPN capability will collect metadata about IPsec Internet
+Key Exchange (IKE) events and forward the metadata to follow-on SIGINT
 Development (SIGDEV) systems.
 
-TOP AIIR CAN ORR [[70270108 4
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+4
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U//FOUO) Exploited Protocols
 
-(UIIFOUO) Exploited Protocols
-
-lPsec automatic key management protocols establish security
+(TS//SI//REL) IPsec automatic key management protocols establish security
 associations between communicants. A security association (SA) is a relationship
 between a source and a destination that includes a session key and other
 parameters. The VPN capability exploits the following key management protocols:
 
-(U) ISAKMP Internet Security Association and Key Management Protocol
+■	(U) ISAKMP - Internet Security Association and Key Management Protocol
 (RFC2407, RFC2408) provides the authentication and key exchange framework.
 
-(U) IKE Internet Key Exchange (RFC2409) provides the authentication and
+■	(U) IKE - Internet Key Exchange (RFC2409) provides the authentication and
 key exchange mechanisms.
 
-TOP AIIR CAN ORR [[70270108 5
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+5
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U//FOUO) Exploited Protocols (continued)
 
-(UIIFOUO) Exploited Protocols (continued)
-
-lPsec security protocols provide integrity, confidentiality, and
-authentication for higher layer IP protocols. lPsec security protocols use security
+(TS//SI//REL) IPsec security protocols provide integrity, confidentiality, and
+authentication for higher layer IP protocols. IPsec security protocols use security
 associations previously established either manually or by automatic key
-management protocols (IKE). The VPN capability targets that are established
+management protocols (IKE). The VPN capability targets SA’s that are established
 by IKE. The VPN capability exploits the following security protocol:
 
-(U) ESP - Encapsulating Security Payload (RFC2406) provides traffic
-confidentiality (via and optionally provides authentication and
+■ (U) ESP - Encapsulating Security Payload (RFC2406) provides traffic
+confidentiality (via encryption) and optionally provides authentication and
 integrity protection.
 
-TOP AIIR CAN ORR [[70270108 6
+TOP SFr.RFT//mMINT//RFI USA Al JR HAM f,RR N7I //?n3?mna
 
-TOP USA, AUS, CAN, GBR, NZLII20320108
+6
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
-   
- 
+(U) IPsec Operation (Alices Bob)
 
-. 
-.. 
-,1
+■	(U) An SA is identified by a 4-tuple <SrclP, DstIP, SPI, SecurityProtocol>, where
+the SPI (Security Parameter Index) is chosen by DstIP for SA uniqueness.
 
- 
-
- 
-
- 
-
-(U) lPsec Operation (Alice=:> Bob)
-
-
- 
-
- 
-
-Phasel Handshake Phasel
-
-'g'gMP Phase2
--
-
--
-Security Security
-
-Association ESP SA ESP SA Association
-Database Database
-
-Alice ESP Cleartext Bob 
-Source
-
-IP Destination 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Phase2 Sgt?
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(U) An SA is identified by a 4-tuple SPI, SecurityProtocol>, where
-the SPI (Security Parameter Index) is chosen by for SA uniqueness.
-
-(U) The Bi-directional ISAKMP SA is negotiated in Phasel and protects the ESP
+■	(U) The Bi-directional ISAKMP SA is negotiated in Phasel and protects the ESP
 key negotiations in Phase2.
 
-(U) A Uni-directional ESP SA is negotiated in Phase2 and is used to protect the
-user?s cleartext.
+■	(U) A Uni-directional ESP SA is negotiated in Phase2 and is used to protect the
+user’s cleartext.
 
-(U) Reverse communication (Bob Alice) requires a separate ESP SA and is
-negotiated using the same ISAKMP SA as used for (Alice Bob).
+■	(U) Reverse communication (Bob ■=> Alice) requires a separate ESP SA and is
+negotiated using the same ISAKMP SA as used for (Alice ■=> Bob).
 
-TOP AIIR CAN ORR [[70270108 7
+TOP FiFr.RFT//r;OMIMT//RFI I IRA AI JR (RAM (RRR N71//?n.3?ninR
 
-TOP USA, AUS, CAN, GBR, 
+7
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
-     
+(U) IPsec Modes
 
-(U) lPsec Modes
+IP Hdr: Src=A, Dst=B	ESP Header	Encrypted Data	ESP Trailer
 
-Internet
-?"Hdr: Src=A, Dst=B ESP Header 
 (U) Transport Mode
-(U) Original IP Header is preserved
-(U) ESP Header and Trailer encapsulate and remaining IP Packet
-Internet
 
-JImFli=cI?te 
+■	(U) Original IP Header is preserved
 
-
-IP Hdr: ESP Header ESP Trailer
+■	(U) ESP Header and Trailer encapsulate and encrypt remaining IP Packet
 
 (U) Tunnel Mode
 
- 
+■	(U) Security Gateway at source encapsulates, encrypts, and adds new IP Header
+to original packet,
 
- 
+■	(U) Security Gateway at destination recovers and forwards original packet.
 
- 
+■	(U) Identities of traffic source and destination is concealed
 
- 
+■	(U) Extra padding also may be added to hide packet size
 
- 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
- 
+8
 
- 
-
- 
-
-   
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(U) Security Gateway at source encapsulates, and adds new IP Header
-to original packet.
-
-(U) Security Gateway at destination recovers and forwards original packet.
-(U) Identities of traffic source and destination is concealed
-(U) Extra padding also may be added to hide packet size
-
-TOP AIIR CAN ORR [[70270108 8
-
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(S//SI//REL) TU VPN Products
 
-TU VPN Products
+X (TS//SI//REL) Bundled decrypt are the decrypted packets from an ESP Security
+Association prior to any session or application processing.
 
-
-Sessionized packets are the packets that
+■	(TS//SI//REL) Sessionized decrypted packets are the decrypted packets that
 have been recursively processed by the TURMOIL Stage 1 sessionizer for
-SIG DEV.
+SIGDEV.
 
-Selected application sessions are the recursed TURMOIL
+■	(S//SI//REL) Selected application sessions are the recursed TURMOIL
 sessions that have been selected by KEYCARD strong selection and
 subsequently processed by TURMOIL Stage 2 application processing.
 
-lPsec metadata are derived from IKE events for VPN SIGDEV.
+■	(S//SI//REL) IPsec metadata are derived from IKE events for VPN SIGDEV.
 
-VPN metrics are produced by CES CA components for internal use.
+■	(S//SI//REL) VPN metrics are produced by CES CA components for internal use.
 
-TOP AIIR CAN ORR [[70270108 9
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+9
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(S//SI//REL) TU VPN Product Dataflows
 
-TU VPN Product Dataflows
+X (TS//SI//REL) Bundled decrypt are delivered directly to WEALTHYCLUSTER
+2.0 (WC2.0) via TUBE from TURMOIL as packets for application processing that
+is not available in TURMOIL.
 
-
-Sessionized packets are delivered without selection
+■	(TS//SI//REL) Sessionized decrypted packets are delivered without selection
 (full-take) to XKEYSCORE from TURMOIL for target SIGDEV.
 
-Selected application sessions are delivered to PRESSUREWAVE
+■	(S//SI//REL) Selected application sessions are delivered to PRESSUREWAVE
 via TUBE format conversion and EXOPUMP where data and metadata object are
 created and inserted into PWV for legacy analytics and analysis tools.
 
-lPsec metadata are delivered to TOYGRIPPE via PWV where an
-analytic converts lPsec metadata to TGIF format and pushes it to TOYGRIPPE.
+■	(S//SI//REL) IPsec metadata are delivered to TOYGRIPPE via PWV where an
+analytic converts IPsec metadata to TGIF format and pushes it to TOYGRIPPE.
 
-VPN metrics are delivered to CA Resources by the TURMOIL PIQ
+■	(S//SI//REL) VPN metrics are delivered to CA Resources by the TURMOIL PIQ
 blade via CES firewall.
-
- 
-
- 
-
- 
 
 Reference: VPN Spin 9 Dataflows
 
- 
+TOP SFP.RFT//rnMIMT//RFI I ISA AUS HAM (SRR N7I //?nS?mna
 
-TOP AIIR CAN ORR [[70270108 
+10
 
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(S//SI//REL) TU VPN Product Retrieval Mechanisms
 
-TU VPN Product Retrieval Mechanisms
+x (S//SI//REL) WC2.0
 
+■ An analyst uses the AGILITY interface on WC2.0 to view selected traffic as
+the intended recipient would see it.
 
-PRESSUREWAVE
+■	(S//SI//REL) PRESSUREWAVE
 
-The PRESSUREWAVE analytic and standing query pulls, reformats, and
+■	The PRESSUREWAVE analytic and standing query pulls, reformats, and
 pushes metadata objects to TOYGRIPPE.
 
-TOYGRIPPE
+■	(S//SI//REL) TOYGRIPPE
 
-A SIGDEV analyst uses the TOYGRIPPE query interface to pull VPN
+■	A SIGDEV analyst uses the TOYGRIPPE query interface to pull VPN
 metadata.
 
-TOP AIIR CAN ORR [[70270108 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA AI JR (RAM (RRR N71//?n.3?ninR
 
-TOP USA, AUS, CAN, GBR, 
+11
 
-VPN Spin 9 Fielded Capability Upgrade
-
- 
-
-(UIIFOUO) Selection Mechanisms
-Protocol Selection - Identify VPN traffic in IP traffic
-IKE: version=4, 0x055herenSOxff, srcPort=500, dstPort=500
-ESP: version=4, heren=5, 
-Session Selection - Identify session packets in VPN traffic
-IKE: srcIP, dstIP, srcPort, desPort, (5-tuple)
-ESP: srcIP, dstIP, SPI
-Target Selection Identify, select, and task target in VPN sessions
-KEYCARD performs target selection lookup with IP selectors
-KEYCARD lookup result determines tasking disposition:
-Not TRANSFORM (no action)
-TRANSFORM 
-(decrvot and send to XKEYSCORE)
-- no action
-
-and send to XKEYX I)
-
-TOP AIIR CAN ORR [[70270108 
-
-TOP USA, AUS, CAN, GBR, NZLII20320108
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U//FOUO) Selection Mechanisms
 
-(U) Design Constraints
+■	(S//SI//REL) Protocol Selection - Identify VPN traffic in IP traffic
 
-Spin 9 VPN will use the following components:
+■	IKE: version=4, 0x05<hdrl_en<0xff, nxtProtocol=17, srcPort=500, dstPort=500
 
-Capability Component Function Developer
+■	ESP: version=4, hdrl_en=5, nxtProtocol=50
 
-Extends the CES enclave to TURMOIL
-PIQ?Blade for and other CA processing 
+■	(S//SI//REL) Session Selection - Identify session packets in VPN traffic
 
-VPN
+■	IKE: srclP, dstIP, srcPort, desPort, nxtProtocol (5-tuple)
 
-Identification 
-and
-Provides IKE ESP matching
-functionality. It communicates with the 
-(VAO) PIQ-Blade and is located behind the 
-CES Firewall.
-VPN Receives VPN SOTF Metadata via
-Metadata PRESSUREWAVE 
+■	ESP: srclP, dstIP, SPI
 
-TOP AIIR CAN ORR [[70270108 
+■	(TS//SI//REL) Target Selection - Identify, select, and task target in VPN sessions
 
-TOP USA, AUS, CAN, GBR, NZLII20320108
+■	KEYCARD performs target selection lookup with IP selectors
+
+■	KEYCARD lookup result determines tasking disposition:
+
+■	Not TRANSFORM (no action)
+
+■	TRANSFORM (decrypt)
+
+■	TRANSFORM+SURVEY (decrvot and send to XKEYSCORE)
+
+■	TRANSFORM+FORWAR^deaBSttHmi send to WC2.0)
+
+■	TRANSFORM+SURVEY+FORWARD (decrypt and send to XKEY !£ WC2.0)
+
+TOP FlFr.RFT//r;OMIMT//RFI IJRA Al JR HAM <3RR W7I 7/20320108
+
+12
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U) Design Constraints			
+(TS//SI//REL) Spin 9 VPN will use the following components:			
+Capability	Component	Function	Developer
+	PIQ-Blade	Extends the CES enclave to TURMOIL for decryption and other CA processing	CES/ESO
+VPN  Identification	X WC2.0	Receive bundled decrypt for application processing	TU
+and  Decryption	VPN Attack Orchestrator (VAO)	Provides IKE / ESP matching functionality. It communicates with the PIQ-Blade and is located behind the CES Firewall.	CES/SAO/  Txx
+VPN  Metadata	TOYGRIPPE	Receives VPN SOTF Metadata via PRESSUREWAVE	CES/ESO
+
+top FiFr.RFT//r;OMiMT//RFi I Ira Ai JR (ram (RRR M7i //?n3?mna
+
+13
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Spin 9 Fielded Capability Upgrade
 
 (U) Delivery Constraints
 
-Spin 9 VPN will use the following delivery mechanisms:
+(TS//SI//REL) Spin 9 VPN will use the following delivery mechanisms:
 
-Capability Product Format Mechanism
-VPN 
-Sessionized packets
-from TU RMOIL Data Store to SOTF Socket
-XKEYSCORE
-VPN IKE setup metadata SOTF Socket via TUBE
-VPN for PRESSUREWAVE and EXOPUMP
-Metadata 
-VPN IKE setup metadata for TGIF MAILORDER Via
-TOYGRIPPE VPN Analytic
+Capability	Product	Format	Mechanism
+VPN	XBundled decrypt for WC2.0	SOTF	MAILORDER
+Identification  and	Sessionized decrypted packets		
+Ctl 1 u  Decryption	from TURMOIL Data Store to XKEYSCORE	SOTF	Socket
+	VPN IKE setup metadata	SOTF	Socket via TUBE
+VPN	for PRESSUREWAVE		and EXOPUMP
+Metadata	VPN IKE setup metadata for	TGIF	MAILORDER via
+	TOYGRIPPE		VPN Analytic
 
-TOP AIIR CAN ORR [[70270108 
+TOP SFPRFT//PPIMINT//RFI I ISA AI IS PAM PRR N7I 7/20320108
 
-TOP USA, AUS, CAN, GBR, 
+14
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) Management Constraints
 
-All VPN deployments must be approved by Chief CES.
+■ (S//SI//REL) All VPN deployments must be approved by Chief CES.
 
-TOP AIIR CAN ORR [[70270108 
+TOP RFPRFT//POMINT//RFI I IRA Al JR PAM PRR N7I //?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+15
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) Second and Third Party Constraints
 
-Spin 9 VPN identification and capability will not deploy
+■	(TS//SI//REL) Spin 9 VPN identification and decryption capability will not deploy
 to Third Party TU Sites.
 
-Spin 9 VPN metadata capability will deploy to all TU sites.
+■	(U//FOUO) Spin 9 VPN metadata capability will deploy to all TU sites.
 
-TOP AIIR CAN ORR [[70270108 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-TOP USA, AUS, CAN, GBR, 
+16
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
-
 (U) What Spin 9 VPN will do
-Packet Detection
-Detect IKE exchanges
-Detect ESP packets
-lPsec Metadata Flow
 
-Bundle all detected IKE with SRI and send to PWV
+■	(S//SI//REL) Packet Detection
 
- 
+■	Detect IKE exchanges
 
- 
+■	Detect ESP packets
 
- 
+■	(S//SI//REL) IPsec Metadata Flow
+
+■ Bundle all detected IKE with SRI and send to PWV
 
 Reference: VPN Spin 9 Sequence Diagram
 
- 
+TOP FiFr.RFT//r:OMIMT//RFI I IRA AI JR (RAM (RRR N71//?n.3?ninR
 
-TOP AIIR CAN ORR [[70270108 
+17
 
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) What Spin 9 VPN will do (continued)
 
-ESP Flow
+■ (TS//SI//REL) ESP Decryption Flow
 
-When IKE exchange is observed, lookup IP addresses in KEYCARD. If
-tasked for collection, fonNard to VAO.
+■	When IKE exchange is observed, lookup IP addresses in KEYCARD. If
+tasked for collection, forward to VAO.
 
-When ESP is observed, lookup IP addresses in KEYCARD. If tasked for
+■	When ESP is observed, lookup IP addresses in KEYCARD. If tasked for
 collection, request key from VAO.
 
-If key is provided by VAO, ESP packet.
-Send VPN metrics to CES VPN Metrics Service in CA Enclave.
-Recurse packets to find identifiers tasked for TURMOL processing.
-Send selected sessions to PWV via TUBE and EXOPUMP.
-Sessionize all packets and pass to XKEYSCORE for SIGDEV.
-Forward all packets to WC2.0 for additional application processing.
+■	If decrypt key is provided by VAO, decrypt ESP packet.
 
-Process only Tunnel mode ESP packets.
+■	Send VPN decrypt metrics to CES VPN Metrics Service in CA Enclave.
 
-TOP AIIR CAN ORR [[70270108 
+■	Recurse decrypted packets to find identifiers tasked for TURMOL processing.
 
-TOP USA, AUS, CAN, GBR, 
+■	Send selected sessions to PWV via TUBE and EXOPUMP.
 
-VPN Spin 9 Fielded Capability Upgrade
+■	Sessionize all decrypted packets and pass to XKEYSCORE for SIGDEV.
 
- 
+x- Forward all decrypted packets to WC2.0 for additional application processing.
 
-(U) What Spin 9 VPN will n_ot do
+■	Process only Tunnel mode ESP packets.
 
-Will not process lPsec in other protocol implementations
-Will not perform pattern-based IKE ESP detection.
-Will not process or implementations.
-Will not process (RFC4306).
+TOP SFr.RFT//mMINT//RFI USA Al JR HAM f,RR N7I //?n3?mna
 
-Will not process non-lPsec based VPNs
-TU VPN capability will only process lPsec based VPNs.
+18
 
-TOP AIIR CAN ORR [[70270108 
-
-TOP USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
+(U) What Spin 9 VPN will not do
+
+■	(S//SI//REL) Will not process IPsec in other protocol implementations
+
+■	Will not perform pattern-based IKE / ESP detection.
+
+■	Will not process TCP/500, UDP/4500, or TCP/4500 implementations.
+
+■	Will not process IKEv2 (RFC4306).
+
+■	(S//SI//REL) Will not process non-IPsec based VPNs
+
+■	TU VPN capability will only process IPsec based VPNs.
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA AI JR (RAM (RRR N7I//?n3?DinR
+
+19
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Spin 9 Fielded Capability Upgrade
 
 (U) End-to-end test
 
-IKE and ESP test packets must use coordinated security
+■	(TS//SI//REL) IKE and ESP test packets must use coordinated security
 associations
 
-Use both (lab generated) and live collect test data
+■	(S//SI//REL) Use both synthetic (lab generated) and live collect test data
 
-Live test data may only be processed through PIQ blade
+■	(S//SI//REL) Live test data may only be processed through PIQ blade
 
-Test data characterization must include:
-5-tuples (sourceIP, destinationIP, protocol, sourcePort, destinationPort)
-Number of IKE packets
-Number of ESP packets
-ESP payload content
+■	(TS//SI//REL) Test data characterization must include:
 
-TOP AIIR CAN ORR [[70270108 
+■	5-tuples (sourcelP, destinationIP, protocol, sourcePort, destinationPort)
 
-TOP USA, AUS, CAN, GBR, 
+■	Number of IKE packets
+
+■	Number of ESP packets
+
+■	Unencrypted ESP payload content
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
+
+20
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
-
- 
 
 (U) Test Scenarios
 
-?Sunny Day" Scenarios. Single VPN with all packets
+■(S//SI//REL) “Sunny Day” Scenarios. Single VPN with all IKE/ESP packets
 available and VPN Match. Exercise KEYCARD tasking option combinations.
 
-Transform to IKE to TOYGRIPPE
+■	(TS//SI//REL) Transform - Decrypt to PRESSUREWAVE; IKE to TOYGRIPPE
 
-Transform Survey to PRESSUREWAVE 
-IKE to TOYGRIPPE
+■	(TS//SI//REL) Transform & Survey - Decrypt to PRESSUREWAVE &
+XKEYSCORE; IKE to TOYGRIPPE
 
-Transform Forward to PRESSUREWAVE 
-2.0; IKE to TOYGRIPPE
+■	(TS//SI//REL) Transform & Forward - Decrypt to PRESSUREWAVE &
 
-Transform Survey FonNard - to PRESSUREWAVE,
-XKEYSCORE, 2.0; IKE to TOYGRIPPE
+XWEALTHYCLUSTER 2.0; IKE to TOYGRIPPE
 
-Not Transform IKE to TOYGRIPPE
+■	(TS//SI//REL) Transform & Survey & Forward - Decrypt to PRESSUREWAVE,
+XKEYSCORE, XWEALTHYCLUSTER 2.0; IKE to TOYGRIPPE
 
-TOP AIIR CAN ORR [[70270108 
+■	(S//SI//REL) Not Transform - IKE to TOYGRIPPE
 
-TOP USA, AUS, CAN, GBR, 
+TOP SFP.RFT//rnMIMT//RFI I IRA Al JR (RAM GRR N7I 7/20320108
+
+21
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
-
 (U) Test Scenarios (continued)
 
-(U) Failure Scenarios.
-ESP fails because bad key is returned by VAO.
-VAO responds with no key recovered.
-VAO key response timeout.
+■ (U) Failure Scenarios.
 
-VAO key response received after response timeout.
+■	(TS//SI//REL) ESP Decryption fails because bad key is returned by VAO.
 
-VAO response received after TDS hold time expires and ESP is
+■	(S//SI//REL) VAO responds with no key recovered.
+
+■	(S//SI//REL) VAO key response timeout.
+
+■	(S//SI//REL) VAO key response received after response timeout.
+
+■	(S//SI//REL) VAO response received after TDS hold time expires and ESP is
 not available.
 
-Phase 1 and Phase 2 IKE is complete, but no ESP is collected.
-ESP is collected, but no IKE is collected.
+■	(S//SI//REL) Phase 1 and Phase 2 IKE is complete, but no ESP is collected.
 
-TOP AIIR CAN ORR [[70270108 
+■	(S//SI//REL) ESP is collected, but no IKE is collected.
 
-TOP USA, AUS, CAN, GBR, 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
+
+22
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Spin 9 Fielded Capability Upgrade
 
- 
-
 (U) Test Scenarios (continued)
 
-Miscellaneous Scenarios.
+■ (S//SI//REL) Miscellaneous Scenarios.
 
-Multiple, rapid 30 second) Phase 2 re-keys for same initiator/
+■	(S//SI//REL) Multiple, rapid (< 30 second) Phase 2 re-keys for same initiator/
 responder pair.
 
-Two VPN sessions collected concurrently for same IP source.
-flow can be disabled.
-IKE Metadata flow can be disabled.
+■	(S//SI//REL) Two VPN sessions collected concurrently for same IP source.
 
-TOP AIIR CAN ORR [[70270108 
+■	(TS//SI//REL) Decryption flow can be disabled.
 
- 9 -TOP AUS, CAN, GBR, 
-Development lnteg ration es
+■	(S//SI//REL) IKE Metadata flow can be disabled.
 
-i II
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
 
-Sub?ow: ESP Sessions to TDS FIOW
+23
 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
-
-Sub?ow: Blade processing
-
- 
-
- 
-
- 
-
- 
-
- 
+VPN Spin 9
+Development & Integration Activities
 
 Metadata Flow
 
- 
+Decryption Subflow: IKE & ESP Sessions to TDS	Decryption FlOW
 
-   
+TDS (TML)
 
- 
+top SFnRFT//mMiNT//RFi I ira ai JR (ram (RRR M7i //?n3?mna ¡Bridge (TML)
 
-ML APP) TU 
+TMI IÄT fTMl + APP1
 
- 
+24
 
-etadata Flow (APP) 21 Sep
+TOP SECRET//COMINT//20320108
 
- 
+VPN SPIN 9 Dataflows
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Sub?ow: process and recurse packets
-
- 
-
- 
-
-LegethML APP
-
-a VPN Analytic rum-m  
-
-TML A 
-
-(APP) 19 Oct 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-VAO  PPF App (APP) Sessionize nr (I ,1
-VPN Metrics (CES)
-
-
-TOP AIIs CAN ORR iBridge(TML) TMI IRIT (TMI  
-
- 
-
- 
-
- 
+o
 
 XKEYSCORE
 
-I VPN7
-
-T: Socket Connection
-
-C: Sessionized Packets
-
- 
-
- 
+Internet Key Exchange (IKE)
 
 TUBE
 
+_VPN7
+
+T: Socket Connection
+C: Sessionized Decrypted Packets
 F: SOTF
 
-VPN5
-
+_VPN5	_____ _______
 
 T: Socket Connection
 C: IKE Records
 F: SOTF
 
-VPN6
+VPNS
+
+pa
+
 T: Socket Connection
+C: Selected Application Sessions*
+F: SOTF
 
- 
-
-i F: SOTF
-
-VPNQ
+VPN9
 
 T: MAILORDER
 
 C: Selected Application Sessons*
+
 F: SOTF
 
-C: Selected Application Sessions*
+VPN8
 
-TOP SECRETIICOMINTII20320108
+T: MAILORDER
+C: IKE Records
+F: SOTF
 
-VPN SPIN 9 Dataflows
+4
 
- 
+t
 
- 
+EXOPUMP
 
- 
+Note
 
- 
-
- 
-
- 
-
-VPNB Note
-2;  Selected Application Sessions
-SOTF I are identified and selected from
-the packets extracted
+* Selected Application Sessions
+are identified and selected from
+the decrypted packets extracted
 from the VPN tunnel and inserted
 into the TURMOIL input stream.
-EXOPUMP 
-I
-I 0- VPN11 
 
-C: Selected Appl Sessions"
-I F: 
-T: (JMS)
+~r
 
-C: IKE Records
+Encapsulating Security Payload (ESP)1
 
 TURMOIL
 
- 
-
-PIQ
-Blade
-
- 
-
- 
-
- 
-
-WAVE
-
-PRESSURE-
-
-
-
-
-
-Internet Key Exchange 
-Encapsulating Security Payload 
-
-
-
- 
-
-  
-   
-
- 
-
- 
-
-  
+KEYCARD
 
 Interface Key
-KEYCARD Transport
-Content
-. Format
 
+T = Transport
+C = Content
+F = Format
+
+VPN1
 
 T: Socket Connection
 C: Selector Hit Query/Response
 F: Binary
 
- 
-
 Dataflow Key
+
 Selector Lookup
-- VPN Metrics
-- PIQ Blade Monitoring
-- ESP Key Request/Response
-IKE Messages
--- Selected Application Sessions
-IKE Records
-Sessionized Packets
 
- 
-
- 
-
- 
-
- 
-
-T: Secure Socket (SSL)
-C: VPN Metrics
-F: SOAP
-
-VPN18 
-T: Secure Socket (SSL)
-C: PIQ Blade Monitoring
-F: 
-
-.VPN3
-
-T: Secure Socket (SSL)
-
-C: ESP Key Requet/Response
-F: SOAP
-
-
-
-)0
-
- 
-
-Secure Socket (SSL)
-C: IKE Messages
-F: SOAP
-
-3:15:
-
- 
-
-CES Watch
-
-CES XML Gateway
-CES Firewall
-
-VAO
-
- 
-
- 
-
- 
-
- 
-
-VPN12
-
-T: (JMS)
-
-C: IKE Records
-F: SOTF
-
- 
-
- 
-
-TOP SECRETIICOMINTII20320108
-
-METROTUBE
-VPN Analytic 
-
-Emma
-VPN1 3
-
-T: MAILORDER
-C: IKE Records
-F: TGIF
-
- 
-
-25
-
-TUBE
-
- 
-
-
-
-VPNB
-
-T: MAILORDER
-C: IKE Records
-F: SOTF
-
-EXOPU MP
-
-
-
-T: (JMS)
-C: IKE Records
-F: 
-
-VPN5
-4-
-
-TOP SECRETIICOMINTII20320108
-
-VPN SPIN 9 Metadata Dataflows
-
-Internet Key Exchange .m
-
-TURMOIL
-
- 
-  
-
-
-
- 
-
-
-
- 
-
-T: Socket Connection
-C: IKE Records
-F: SOTF
-
- 
-
-VPN12 
-PRESSURE- ?x (JMS)
-- - WAVE C: IKE Records
- I, F: SOTF
-
-TOP SECRETIICOMINTII20320108
-
-Interface Key
-Transport
-
-Format
-
-  
-    
-
-Content
-
- 
-
-Dataflow Key
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-IKE Records
-1: 
-METROTUBE 
-7 VPN13 I
-.VPN Analyt'c T: MAILORDER
-C: IKE Records
-F: TGIF
-
- 
-
-XKEYSCORE
-
-tern -
-
-TOP SECRETIICOMINTII20320108
-
-VPN SPIN 9 Dataflows
-Internet Key Exchange E1
-
-Encapsulating Security Payload 
-
- 
-
-Interface Key
-
-  
-   
-
-KEYCARD rt Dataflow Ke
-ranSpo Selector Looku
-TU RMOIL Content VPN Matrics 
-
-Format
-
- 
-
-  
+VPN Metrics
 
 PIQ Blade Monitoring
 
 ESP Key Request/Response
+
 IKE Messages
 
-- - Selected Application Sessions
-
-VPN1
-T: Socket Connection
-
-T: Socket Connection
-C: Sessionized Packets
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TUBE F: SOTF C: Selector Hit Querleesponse
-F: B'nary Sessionized Packets
-VPN2 I 
--T: Secure Socket N?etrics
-.VPNB c: VPN Metrics ?as ex
-T: Socket Connection F: SOAP 
-C: Selected Application Sessions" VPN18 
-F: SOTF - 
-vag' T: Secure Socket (SSL) CES watCh
-PIQ C: PIQ Blade Monitoring (9 
-C: Selected Application Sessons" Blade Fl WBDSA 3' 
-F: SOTF VPN3 Secure Socket (SSL) Lu
-. Selected Application Sessions C: ESP Key Requet/Response VAO
-are identified and selected from F: SOAP
-I the packets extracted
-from the VPN tunnel and inserted c, CVPN4 a .7, 
-into the TURMOIL Input stream. T: Secure Socket (SSL) 
-I C: IKE Messages
-
-EXOPUMP
-
-F: SOAP
-- - Sig?:1}
-T: (JMS) 
-C: Selected Appl Sessions" 
-F: PRESSURE
-WAVE
-
-TOP SECRETIICOMINTII20320108 27
-
- 
-
- 
-
- 
-
-TOP 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-
- 
-
-
-
-
-
-Application Session
-
-Selected
-
-
-
-
-
-VPN Metrics (SOAP)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-I
-
-I
-I
-if (TRANSFORM an SURVEY) Recursion for Sessionization
-
-
-SessionIzed Packets?P
-I
-
-Selected
-
-Application Sessions
-
-
-
-I 
-if (TRANSFORM) Recursion for Tunnel Selection and Application Processing
-I
-
-Selected
-
- 
-
- 
-
- 
-
- 
-
-Stage 0 TU RMOIL KEYCARD TUBE XKEYSCORE EXOPUMP VAO PWV VPN Metrics VPN Analytic CES Watch TOYGRIPPE
-IKE Packet AggreglateISeSSIonIzeI Metadata?oSelect? I Metadata?In I I I
-I I Query I I I I Metadata?bi I I
-TRANSFORM Se'ec?? I I I I riff?IKE Metadata?H
-(TRANSFORM 1 I Response I I I I  I I
-SURVEY Aggregate IKE Message, I DI I 9 Socket
-ESP (Ii,   VPN Metrics (SOAPI I   I It; MAILORDER
-- I SP Select ISLANDTRANSPORT (JMS)
-Query I I I I I
-I 
-TRANSFORM . - 89mg I I I I  Secure Socket Layer 
-(TRANSFORM . I Response Aggregate (Hf, ESP Key Request (H) VPN Metrics ESP Key Response I (H) I
-Recovered rein??
-
-
-gr.
-I
-
-
-
-
-
-
-PIQ Blade Monitoring
-I I
-
-Application Sessions
-
- 
-
-TOP 
-
-
-
-
-
-28
-
- 
-
-TOP USA, AUS, CAN, GBR, 
-
-VPN Spin 9 Metadata Design Details
-
- 
-
-?ew} Fenarmlitm Mammal:
-
- 
-
-PPF Eueni
-Fitter
-
- 
-
- 
-
- 
-
-3? ?entfe
-:aetf: HOME
-[via socket]
-
-     
-   
-
-Stage 
-DFID Allenater
-
-Packet Data Campanth
-Hewnrd Management 
-
-WI: "It External Service
-
-TOP AIIR CAN GRR [00270108 
-
- 
-
-TOP USA, AUS, CAN, GBR, 
-
-VPN Spin 9 Design Details
-
-Stage 
-
-DFID 
-
-    
-
- 
-
- 
-  
- 
-
-   
-
-
-
- 
-
- 
-
- 
-
-    
- 
-
- 
-
- 
-
-
-r? Selection
-validatiunr 
-Er? g:
-51%  
-in?; net-2153'
-hail-3 ?3
-3% 
-I
-i
-iEridge I
-
- 
-
- 
-
- 
-
-rf
-l'
-rr
-
-I
-I
-
- 
-
- 
-
- 
-
-SIGD 
-
-HHS
-
-    
-  
-
- 
-
- 
-
-
-
-Packet Data Cempenent
-Hewurd Management 
-
-?Ii: Quay?. External Service
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP AIIR CAN GRR [00270108
-
- 
-
-VPN1
-
-VPNZ
-
-VPN3
-
-VPN4
-
-VPN5
-
-VPN6
-
-VPN7
-
-VPNB
-
-VPN9
-
-VPN 10
+Selected Application Sessions
+IKE Records
+
+Sessionized Decrypted Packets
+
+	VPN2		
+	*T: Secure Socket (SSL)™		
+	C: VPN Metrics		
+	F: SOAP		
+		CO	
+	VPN 18		=
+	T: Secure Socket (SSL)	-t—'  C\3	(Ü
+PIQ	C: PIQ Blade Monitoring	o	£
+Blade	F: WebSA	_i	LL  w
+	^ VPN 3  m i • m	X co	LU  • • O
+	T: Secure Socket (SSL)	LLI	
+	C: ESP Key Requet/Response	O	
+	F: SOAP		
+	VPN4		
+	T: Secure Socket (SSL)		
+
+VPN Metrics
+
+CES Watch
+
+VAO
 
 VPN11
 
-VPN 12
+"T: ITx (JMS)
 
-VPN 13
+C: Selected Appl Sessions*
+F: XMUSOTF
 
-VPN 14
+_VPN10
 
-TURMOIL
-PIQ Blade
+T: ITx (JMS)
 
-PIQ Blade
-PIQ Blade
+C: IKE Records
 
-TML Home
+PRESSURE-
 
-TML Home
+WAVE
 
-TML Home
+F: SOAP
 
-TUBE
+VPN12
 
-TUBE
+T: ITx (JMS)
 
-EXOPUMP
+C: IKE Records
+F: SOTF
 
-EXOPUMP
+METROTUBE
 
-PWV
-
-VPN Analytic
-
-TML Home
-
-KEYCARD
-CES
-
-CES VAO
-
-CES VAO
-
-TUBE
-
-TUBE
-
-XKEYSCORE
-
-EXOPUMP
-
-EXOPUMP
-
-PWV
-
-PWV
+P
 
 VPN Analytic
 
 TOYGRIPPE
 
-TEC WC2.0
+VPN13
 
-Selector Querleesponse
+T: MAILORDER
+C: IKE Records
+F: TGIF
 
-VPN Metrics
+TOP SECRET//COMINT//20320108
 
-ESP 
-Req uestl Res ponse
+25
 
-IKE Message
+TOP SECRET//COMINT//20320108
 
-IKE DataJMetadata
+VPN SPIN 9 Metadata Dataflows
 
-Selected Session, 
+o
 
-Recursively Processed
+Internet Key Exchange (IKE)
 
-Session
+VPN8
 
-IKE DataJMetadata
+T: MAILORDER
+C: IKE Records
+F: SOTF
 
-Selected Session, 
-
-Recursively Processed
-
-IKE DataJMetadata
-
-Selected Session, 
-
-Recursively Processed
-
-IKE DataJMetadata
-
-IKE DataJMetadata
-
-Bundled 
-
-TOP AIIS CAN ORR [00270108
-
-TOP USA, AUS, CAN, GBR, 
-
-VPN Spin 9 Interfaces
-
-Binary
-
-
-
-
-
-SOTF
-
-SOTF
-
-SOTF
-
-SOTF
-
-SOTF
-
-SOTF
-
-SOTF
-
-SOTF
-
-TGIF
-
-SOTF
-
-cns.xsd
-
-VPNMetrics.xsd
-
-
-
-
-DataBundIeOutput.xsd
-VPN DataBund Ie.xsd
-
-
-VPN 
-
-
-VPN 
-
-DataBundIeOutput.xsd
-VPN DataBund Ie.xsd
-
-
-VPN 
-
-DataBundIeOutput.xsd
-VPN DataBund Ie.xsd
-PWV Schema
-
-
-VPN 
-PWV Schema
-
-DataBundIeOutput.xsd
-VPN DataBund Ie.xsd
-PWV Schema
-
-TGIF ICD
-
-
-VPN 
-
-Yes
-
-Socket
-Socket (SSL)
-
-Socket (SSL)
-Socket (SSL)
-
-Socket
-
-Socket
-
-Socket
-MAILORDER
-
-MAILORDER
-
-
-
-
-
-
-
-MAILORDER
-
-MAILORDER
-
-31
-
- 
-
-
-
-protocolNamespace
-
-keyExchange
-
-espspi
-
-nextProtocoI
-
-applD
-
-ikeCookie
-
-ikePaonad
-
-survey
-
-protocol
-
-900791
-
-900667
-
-600533
-
-55002
-
-37007
-
-114000
-
-900683
-
-900682
-
-900790
-
-2001
-
-string
-
-string
-
-string
-
-uint32
-
-uint8
-
-string
-
-string
-
-string
-
-string
-
-String
-
-
-
-
-
-?ipseclike?
-
-
-
-
-
-
-
-?vpnlesp?
-
-8 chars
-
-68 chars
-
-?vpnlesp?
-
-?vpnlesp?
-
-TOP AIIS CAN ORR [00270108
-
-TOP USA, AUS, CAN, GBR, 
-
-VPN Specific BME
-
-- Recursed packets
-
-- XKEYSCORE session
-
-- WC2.0 
-
-- PWV Metadata
-
-- PWV Metadata
-
-- XKEYSCORE session
-
-- WC2.0 
-
-- XKEYSCORE session
-
-- WC2.0 
-
-- XKEYSCORE session
-
-- WC2.0 
-
-- PWV Metadata
-
-- PWV Metadata
-
-- XKEYSCORE session
-
-- Recursed packets
-
-- XKEYSCORE session
-
-- WC2.0 
-
-16?byte Universally Unique ID that associates
-lPsec packets in processing history
-
-Identify lPsec as transport protocol layer
-
-Flags lPsec IKE event
-
-4-byte SPI from ESP packet
-
-Identifies IP Tunnel in processing history
-Identifies VPNIESP in XKEYSCORE Session
-Destination cookie from IKE packet
-
-Raw payload extracted from IKE packet
-
-Identifies VPNIESP in protocol history as weakly
-selected indicating session should not be
-forwarded to PRESSUREWAVE.
-
-Identifies VPN in processing history
-
-32
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
- 
-
-Questions?
-
-TOP AIIR CAN ORR  
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
- 
-
-Background
-
-TOP AIIR CAN ORR  
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
-KEYCARD
-
- 
-
-(U) Inputs
-(U) Application ID: VPN
-- Raw Selectors: IP addresses of sessions carrying the IKE exchange
-
-- (U) Context: Packet IP addresses both source and destination (properly identified)
-with realm derived from network universe
-
-(U) Processing
-Lookup raw selectors and report hit/no-hit results.
-- Return tasking for hits.
-
-(U) Outputs
-
-- Evaluated Selectors:
-- Hit or No-Hit indicators
-- Target match data if necessary
-
-TOP AIIR CAN ORR {(20220108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
-TURMOIL VPN Metadata Processing
-
- 
-
-(U) Inputs
-- (U) Raw packets
-(U) Processing
-
-Detect IKE exchanges at UDP source and destination ports 500
-
-Extract IP addresses, responder cookie, message ID, ISAKMP
-payload
-
-- Bundle all IKE detect messages with SRI
-
-(U) Outputs
-SOTF object containing metadata and IKE packets
-
-TOP AIIR CAN ORR {(20220108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
-TURMOIL VPN Processing
-
- 
-
-- (U) Raw packets
-- (U) Selection results from KEYCARD
-
-(U) Processing
-
-- Detect ESP packets and extract IP addresses and SPI
-
-- Match tasked IKE exchange packets with an ESP packet stream
-
-- Generate UUID and assign to VPNID for unique exchange ID
-
-- Send Request returned, the ESP packets
-
-- Send metrics to the CES VPN Metrics service
-
-- Recurse all packets from the VPN.
-
-- Sessionize all packets, pass sessions to XKEYSCORE
-
-Forward all packets to a WC2.0 for application processing.
-
-(U) Outputs
-
-packets to a WC2.0
-
-- metrics to VAO
-
-- Sessionized packets to XKEYSCORE
-Selected application SOTF
-
-TOP AIIR CAN ORR {(20220108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
-XKEYSCORE
-
- 
-
-(U) Inputs
-Sessionized collect in SOTF format.
-(U) Processing
-
-Recovers and archives session content. Databases metadata for
-query by XKEYSCORE can also perform keyword scanning and optionally
-forward selected data back to PINWALE. Presence tips can also be sent to
-TRAFFICTHIEF.
-
-TOP AIIR CAN ORR {(20220108 
-
- 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
-TUBE (ID and 
-
-(U) SOTF objects.
-
-(U) Processing
-
-Defragments fragmented sessions, creating an SOTF object with the
-complete session.
-
-Examines the BME to determine if the session should go to PWV.
-Creates a new SOTF object, placing the received or defragged
-SOTF object into the data section. The BME of the newly created object contains
-classification metadata", as well as certain fields such as sessionID and
-
-signaIUpTime replicated from the BME of the original received SOTF object.
-NOTE: Classification metadata needs more discussion to determine appropriate
-origination. TURMOIL may assume some responsibilities.
-
-(U) Determines appropriate routing (MAILORDER FDI) and forwards the new
-SOTF object to EXOPUMP via MAILORDER.
-
-(U) Optionally (configurable) wrap multiple objects destined for 
-into one MAILORDER file to reduce the number of individual files transmitted.
-
-(U) Outputs
-
-TOP AIIR CAN ORR {(90290108
-
-(U) SOTF objects.
-39
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
- 
-
-- (U) SOTF objects.
-
-(U) Processing
-
-- Examines the BME to determine if the session should go to PWV.
-
-- (U) Determines appropriate routing (MAILORDER FDI) and forwards the new
-SOTF object to EXOPUMP via MAILORDER.
-
-- (U) Optionally (configurable) wrap multiple objects destined for 
-into one MAILORDER file to reduce the number of individual files transmitted.
-
-(U) Outputs
-(U) SOTF objects.
-
-TOP AIIR CAN ORR {(20220108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
+L
 
 EXOPUMP
 
- 
+TURMOIL
+
+Interface Key
+
+T = Transport
+C = Content
+F = Format
+
+Dataflow Key
+
+IKE Records
+
+VPN10
+
+T: ITx (JMS)
+
+C: IKE Records
+F: XML/SOTF
+
+PRESSURE^
+
+WAVE
+
+METROTUBE
+
+VPN12
+
+T: ITx (JMS)
+
+C: IKE Records
+F: SOTF
+
+VPN Analytic
+
+TOYGRIPPE,
+
+VPN13
+
+T: MAILORDER
+C: IKE Records
+F: TGIF
+
+TOP SECRET//COMINT//20320108
+
+26
+
+TOP SECRET//COMINT//20320108
+
+VPN SPIN 9 Decrypt Dataflows
+
+Internet Key Exchange (IKE)
+Encapsulating Security Payload (ESP)1
+
+XKEYSCORE
+
+_VPN7
+
+T: Socket Connection
+C: Sessionized Decrypted Packets
+F: SOTF
+
+VPN6
+
+1 T: Socket Connection
+
+C: Selected Application Sessions’'
+F: SOTF
+
+VPN9
+
+T: MAILORDER
+
+C: Selected Application Sessons*
+
+F: SOTF
+
+Note
+
+* Selected Application Sessions
+are identified and selected from
+the decrypted packets extracted
+from the VPN tunnel and inserted
+into the TURMOiL Input stream.
+
+EXOPUMP
+
+i
+
+i
+
+KEYCARD
+
+£
+
+Interface Key
+T = Transport
+C = Content
+F = Format
+
+VPN1
+
+T: Socket Connection
+C: Selector Hit Query/Response
+F: Binary
+
+Dataflow Key
+
+Selector Lookup
+
+VPN Metrics
+
+PIQ Blade Monitoring
+
+ESP Key Request/Response
+
+IKE Messages
+
+Selected Application Sessions
+Sessionized Decrypted Packets
+
+	VPN2			
+	"T: Secure Socket (SSL)			
+	C: VPN Metrics			
+	F: SOAP			
+		CO		
+	VPN18	5  0  -t—'  CD		=
+	T: Secure Socket (SSL)			CD  5
+PIQ	C: PIQ Blade Monitoring	CD		o
+Blade	F: WebSA	_j  2		u_  w
+	^ VPN3  •qM • a • im •	X  CO	•	LU  o
+	T: Secure Socket (SSL)	LU		
+	C: ESP Key Requet/Response F: SOAP	o		
+	VPN4			
+	T: Secure Socket (SSL)			
+
+VPN Metrics
+
+CES Watch
+
+F: SOAP
+
+VPN11
+
+T: ITx (JMS)
+
+C: Selected Appl Sessions*
+F: XML/SOTF
+
+PRESSURE-
+
+WAVE
+
+TOP SECRET//COMINT//20320108
+
+27
+
+TOP SECRET//COMINT//20320108
+
+TOP SECRET//COMINT//20320108
+
+28
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Spin 9 Metadata Design Details
+
+top FiFr.RFT//r;OMiMT//RFi i Ira ai jr (ram (RRR M7i //?n3?mna
+
+29
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Spin 9 Decryption Design Details
+
+top FiFr.RFT//r;OMiMT//RFi i Ira Ai jr (ram (RRR M7i //?n3?mna
+
+30
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Spin 9 Interfaces
+
+l/F	Source	Destination	Content	Format	Schema / ICD	Changes	Transport
+VPN1	TURMOIL	KEYCARD	Selector Query/Response	Binary	cns.xsd	No	Socket
+VPN2	PIQ Blade	CES	VPN Metrics	SOAP/HTTPS	VPNMetrics.xsd	Yes	Socket (SSL)
+VPN3	PIQ Blade	CES VAO	ESP Crypto-variable Request/Response	SOAP/HTTPS	VAOESP.xsd	Yes	Socket (SSL)
+VPN4	PIQ Blade	CES VAO	IKE Message	SOAP/HTTPS	VAOIKE.xsd	Yes	Socket (SSL)
+VPN5	TMLHome	TUBE	IKE Data/Metadata	SOTF	DataBundleOutput.xsd  VPNDataBundle.xsd	Yes	Socket
+VPN6	TML Home	TUBE	Selected Session, Decrypted & Recursively Processed	SOTF	TURMOIL/core  VPNDecrypt.xsd	Yes	Socket
+VPN 7	TMLHome	XKEYSCORE	Decrypted Session	SOTF	TURMOIL/core  VPNDecrypt.xsd	Yes	Socket
+VPN8	TUBE	EXOPUMP	IKE Data/Metadata	SOTF	DataBundleOutput.xsd  VPNDataBundle.xsd	Yes	MAILORDER
+VPN9	TUBE	EXOPUMP	Selected Session, Decrypted & Recursively Processed	SOTF	TURMOIL/core  VPNDecrypt.xsd	Yes	MAILORDER
+VPN 10	EXOPUMP	PWV	IKE Data/Metadata	SOTF	DataBundleOutput.xsd  VPNDataBundle.xsd  PWV Schema	Yes	ITx
+VPN11	EXOPUMP	PWV	Selected Session, Decrypted & Recursively Processed	SOTF	TURMOIL/core  VPNDecrypt.xsd  PWV Schema	Yes	ITx
+VPN12	PWV	VPN Analytic	IKE Data/Metadata	SOTF	DataBundleOutput.xsd  VPNDataBundle.xsd  PWV Schema	Yes	ITx
+VPN13	VPN Analytic	TOYGRIPPE	IKE Data/Metadata	TGIF	TGIF ICD	No	MAILORDER
+VPN 14	TML Home	TEC WC2.0	Bundled Decrypt	SOTF	TURMOIL/core  VPNDecrypt.xsd	Yes	MAILORDER
+
+31
+
+TOP RFr.RFT//r.DMIMT//RFI IJRA Al JR HAM GRR N7I //?n3?mnR
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+VPN Specific BME
+
+Tag	ID	Type	Value	Context	Description
+vpnlD	900791	string	xxxxxxxx-xxxx-  xxxx-xxxx-  xxxxxxxxxxxx	• Recursed packets ■ XKEYSCORE session • WC2.0 decrypt	16-byte Universally Unique ID that associates IPsec packets in processing history
+protocolNamespace	900667	string	‘ipsec/ike’	• PWV Metadata	Identify IPsec as transport protocol layer
+keyExchange	600533	string	‘IKE’	• PWV Metadata	Flags IPsec IKE event
+espspi	55002	uint32	xxxxxxxx	■ XKEYSCORE session • WC2.0 decrypt	4-byte SPI from ESP packet
+nextProtocol	37007	uintS	IPTUNNEL=4	■ XKEYSCORE session • WC2.0 decrypt	Identifies IP Tunnel in processing history
+appID	114000	string	‘vpn/esp’	■ XKEYSCORE session • WC2.0 decrypt	Identifies VPN/ESP in XKEYSCORE Session
+ikeCookie	900683	string	8 chars	• PWV Metadata	Destination cookie from IKE packet
+ike Pay load	900682	string	68 chars	• PWV Metadata	Raw payload extracted from IKE packet
+survey	900790	string	‘vpn/esp’	■ XKEYSCORE session	Identifies VPN/ESP in protocol history as weakly selected indicating session should not be forwarded to PRESSUREWAVE.
+protocol	2001	String	‘vpn/esp’	• Recursed packets ■ XKEYSCORE session • WC2.0 decrypt	Identifies VPN in processing history
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR M7I 7/30320108
+
+32
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+Questions?
+
+top FiFr.RFT//r;OMiMT//RFi i ira ai jr (ram (RRR M7i //?n3?mna
+
+33
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+Background
+
+top FiFr.RFT//r;OMiMT//RFi i Ira Ai jr (ram (RRR M7i //?n3?mna
+
+34
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+KEYCARD
 
 (U) Inputs
 
-- (U) SOTF object from TUBE via MAILORDER.
+•	(U) Application ID: VPN
+
+•	(U//FOUO) Raw Selectors: IP addresses of sessions carrying the IKE exchange
+
+•	(U) Context: Packet IP addresses both source and destination (properly identified)
+with realm derived from network universe
 
 (U) Processing
 
-- (U) Extracts metadata from SOTF records for PWV XML metadata.
-- (U) Inserts SOTF objects and XML metadata into PWV.
+•	(S//SI//REL) Lookup raw selectors and report hit/no-hit results.
+
+•	(S//SI//REL) Return tasking for hits.
 
 (U) Outputs
 
-- (U) PRESSUREWAVE metadata object.
+•	(U//FOUO) Evaluated Selectors:
 
-TOP AIIR CAN ORR {(20220108 
+•	Hit or No-Hit indicators
 
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
+•	Target match data if necessary
 
-PRESSUREWAVE
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
- 
+35
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+TURMOIL VPN Metadata Processing
 
 (U) Inputs
 
-VPN metadata including IKE payload objects with associated
+•	(U) Raw packets
+
+(U) Processing
+
+•	(S//SI//REL) Detect IKE exchanges at UDP source and destination ports 500
+
+•	(S//SI//REL) Extract IP addresses, responder cookie, message ID, ISAKMP
+payload
+
+•	(S//SI//REL) Bundle all IKE detect messages with SRI
+
+(U) Outputs
+
+•	(S//SI//REL) SOTF object containing metadata and IKE packets
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N7I//?n3?DinR
+
+36
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+TURMOIL VPN Decrypt Processing
+
+(U) Inputs
+
+•	(U) Raw packets
+
+•	(U) Selection results from KEYCARD
+
+(U) Processing
+
+•	(S//SI//REL) Detect ESP packets and extract IP addresses and SPI
+
+•	(S//SI//REL) Match tasked IKE exchange packets with an ESP packet stream
+
+•	(S//SI//REL) Generate UUID and assign to VPNID for unique exchange ID
+
+•	(S//SI//REL) Send Crypto-variable Request to the CES VAO
+
+•	(TS//SI//REL) If the key is returned, decrypt the ESP packets
+
+•	(TS//SI//REL) Send decrypt metrics to the CES VPN Metrics service
+
+•	(TS//SI//REL) Recurse all decrypted packets from the VPN.
+
+•	(TS//SI//REL) Sessionize all decrypted packets, pass sessions to XKEYSCORE
+
+X (TS//SI//REL) Forward all decrypted packets to a WC2.0 for application processing.
+
+(U) Outputs
+
+X (TS//SI//REL) Decrypted packets to a WC2.0
+
+•	(TS//SI//REL) Decrypt metrics to VAO
+
+•	(TS//SI//REL) Sessionized decrypted packets to XKEYSCORE
+
+•	(S//SI//REL) Selected application SOTF
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
+
+37
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+XKEYSCORE
+
+(U) Inputs
+
+•	(S//SI//REL) Sessionized collect in SOTF format.
+
+(U) Processing
+
+•	(S//SI//REL) Recovers and archives session content. Databases metadata for
+query by analysts. XKEYSCORE can also perform keyword scanning and optionally
+forward selected data back to PINWALE. Presence tips can also be sent to
+TRAFFICTHIEF.
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
+
+38
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+TUBE (ID and Decryption)
+
+(U) Inputs
+
+•	(U) SOTF objects.
+
+(U) Processing
+
+•	(C//SI//REL) Defragments fragmented sessions, creating an SOTF object with the
+complete session.
+
+•	(C//SI//REL) Examines the BME to determine if the session should go to PWV.
+
+•	(C//SI//REL) Creates a new SOTF object, placing the received or defragged
+SOTF object into the data section. The BME of the newly created object contains
+classification metadata*, as well as certain fields such as sessionID and
+signalllpTime replicated from the BME of the original received SOTF object.
+
+* NOTE: Classification metadata needs more discussion to determine appropriate
+origination. TURMOIL may assume some responsibilities.
+
+•	(U) Determines appropriate routing (MAILORDER FDI) and forwards the new
+SOTF object to EXOPUMP via MAILORDER.
+
+•	(U) Optionally (configurable) wrap multiple objects destined for EXOPUMP/PWV
+into one MAILORDER file to reduce the number of individual files transmitted.
+
+(U) Outputs
+
+•	(U) SOTF objects.
+
+TOP SFr.RFT//mMINT//RFI USA Al JR HAM f,RR N7I //?n3?mnR
+
+39
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+TUBE (Metadata)
+
+(U) Inputs
+
+• (U) SOTF objects.
+
+(U) Processing
+
+•	(C//SI//REL) Examines the BME to determine if the session should go to PWV.
+
+•	(U) Determines appropriate routing (MAILORDER FDI) and forwards the new
+SOTF object to EXOPUMP via MAILORDER.
+
+•	(U) Optionally (configurable) wrap multiple objects destined for EXOPUMP/PWV
+into one MAILORDER file to reduce the number of individual files transmitted.
+
+(U) Outputs
+
+•	(U) SOTF objects.
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
+
+40
+
+EXOPUMP
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+(U) Inputs
+
+•	(U) SOTF object from TUBE via MAILORDER.
+
+(U) Processing
+
+•	(U) Extracts metadata from SOTF records for PWV XML metadata.
+
+•	(U) Inserts SOTF objects and XML metadata into PWV.
+
+(U) Outputs
+
+•	(U) PRESSUREWAVE metadata object.
+
+TOP SFPRFT//POMINT//RFI I ISA AIJS PAM PRR N7I //?n3?mnfi
+
+41
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
+
+PRESSUREWAVE
+
+(U) Inputs
+
+•	(S//SI//REL) VPN metadata including IKE payload objects with associated
 metadata represented in XML.
 
-- Selected application data objects with associated metadata
+•	(U//FOUO) Selected application data objects with associated metadata
 represented in xml.
 
 (U) Processing
 
-- PWV hosts a persistent (or standing) query created by the VPN
+•	(S//SI//REL) PWV hosts a persistent (or standing) query created by the VPN
 analytic. When new metadata arrives that matches the query, the VPN analytic
 is notified and pulls the associated metadata and IKE packets for further
 processing.
 
-- PWV serves as data store for TU analytics
+•	(U//FOUO) PWV serves as data store for TU analytics
 
 (U) Outputs
 
-The metadata and IKE packets are forwarded to VPN analytic via
-(JMS messaging service).
+•	(S//SI//REL) The metadata and IKE packets are forwarded to VPN analytic via
+ITx (JMS messaging service).
 
-TOP AIIR CAN ORR {(20220108 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
+42
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 VPN Analytic
 
- 
-
 (U) Inputs
 
-- Persistent query to detect VPN metadata/IKE packets in
+•	(S//SI//REL) Persistent query to detect VPN metadata/IKE packets in
 PRESSUREWAVE
-- SOTF files containing IKE packets
+
+•	(S//SI//REL) SOTF files containing IKE packets
 
 (U) Processing
-- Convert SOTF to TGIF records
+
+•	(U//FOUO) Convert SOTF to TGIF records
+
 (U) Outputs
 
-MAILORDER files with TGIF records containing intercepted IKE
+•	(S//SI//REL) MAILORDER files with TGIF records containing intercepted IKE
 packets
 
-TOP AIIR CAN ORR {(20220108 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
+43
+
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 TOYGRIPPE
 
- 
-
 (U) Inputs
-- TGIF (?The Grand Input Format?) records based on TML collected
+
+•	(U//FOUO) TGIF (“The Grand Input Format”) records based on TML collected
 metadata.
 
 (U) Processing
 
-- TOYGRIPPE 3.2 system accepts TGIF files sent by MAILORDER as
-bundled ?tar? files.
+•	(U//FOUO) TOYGRIPPE 3.2 system accepts TGIF files sent by MAILORDER as
+bundled “tar” files.
 
-- TOYGRIPPE unbundles, validates, and stores the VPN metadata
-from the TGIF files into a database for later access by primarily through a
+•	(TS//SI//REL) TOYGRIPPE unbundles, validates, and stores the VPN metadata
+from the TGIF files into a database for later access by Analysts primarily through a
 web browser interface. TOYGRIPPE supports data processing and storage for
-PPTP and VPN metadata records.
+PPTP and IPSec VPN metadata records.
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
 44
 
-TOP AIIR CAN ORR {(90290108
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, 
-
- 
+VAO
 
 (U) Inputs
 
-IKE packets
-- ESP (CV) Requests
+•	(S//SI//REL) IKE packets
+
+•	(S//SI//REL) ESP Crypto-variable (CV) Requests
 
 (U) Processing
 
-Generates ESP SA from IKE packets
+•	(S//SI//REL) Generates ESP SA CV’s from IKE packets
 
-Matches ESP SA CV requests with generated 
-Responds to ESP SA CV requests
+•	(S//SI//REL) Matches ESP SA CV requests with generated CV’s
 
+•	(S//SI//REL) Responds to ESP SA CV requests
 (U) Outputs*
 
-ESP Response
+•	(S//SI//REL) ESP Crypto-variable Response
 
- 
+* Note: VAO requests that multiple ESP packets also be sent for each session
 
- 
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n.3?ninR
 
- 
-
-Note: VAO requests that multiple ESP packets also be sent for each session
-
- 
-
-TOP AIIR CAN ORR {(20220108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, NZLII20320108
+45
 
 VPN Metrics
 
- 
-
-(U) Inputs
-PIQ Blade VPN Processing Metrics
-(U) Processing
-
-- Internal to Enclave
-
-TOP AIIR CAN ORR [[90270108 
-
-TOP SECRETIICOMINTIIREL USA, AUS, CAN, GBR, NZLII20320108
-
- 2.0
-
- 
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
 (U) Inputs
 
-Bundled packets in SOTF format via MAILORDER.
+• (S//SI//REL) PIQ Blade VPN Processing Metrics
+
 (U) Processing
 
-- (U) Signal identification
+• (S//SI//REL) Internal to CES/CA Enclave
 
-- Protocol recognition, processing and sessionization
-- Application identification and processing
+top p;Fr.RFT//r;OMiMT//RFi iira aijr HAM nRR N7i //?n3?nina
 
-- Link characterization aggregation
+46
 
-- Filtering, selection, and forwarding
+TOP SECRET//COMINT//REL USA, AUS, CAN, GBR, NZL//20320108
 
-Strong selection
+WEALTHYCLUSTER 2.0
 
-Persona session association
+(U) Inputs
 
-Session association
+•	(S//SI//REL) Bundled decrypted packets in SOTF format via MAILORDER.
 
-IP Decompression
+(U) Processing
 
-Contact chaining
+•	(U) Signal identification
 
-TOP AIIR CAN ORR [[90270108 
+•	(S//SI//REL) Protocol recognition, processing and sessionization
 
+•	(C//SI//REL) Application identification and processing
+
+•	(C//SI//REL) Link characterization aggregation
+
+•	(U//FOUO) Filtering, selection, and forwarding
+
+•	(U//FOUO) Strong selection
+
+•	(S//SI//REL) Persona session association
+
+•	(S//SI//REL) Session association
+
+•	(S//SI//REL) IP Decompression
+
+•	(S//SI//REL) Contact chaining
+
+TOP FiFr.RFT//r;OMIMT//RFI I IRA Al JR (RAM (RRR N71//?n3?mnR
+
+47

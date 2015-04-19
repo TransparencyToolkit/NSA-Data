@@ -1,0 +1,1823 @@
+﻿1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Eric D. Miller, Bar No. 218416
+
+EMiller@perkinscoie.com
+
+Michael A. Sussmann, D.C. Bar No. 433100
+
+(pro hac vice to follow)
+
+MSussmann@perkinscoie.com
+
+James G. Snell, Bar No. 173070
+
+JSnell@perkinscoie.com
+
+Hayley L. Berlin, D.C. Bar No. 1011549
+
+(pro hac vice to follow)
+
+HBerlin@perkinscoie.com
+
+PERKINS COIE LLP
+
+3150 Porter Drive
+
+Palo Alto, CA 94304-1212
+
+Tel: 650-838-4300
+
+Fax: 650-838-4350
+
+Attorneys for Plaintiff
+Twitter, Inc.
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+
+TWITTER, INC.,
+
+Plaintiff,
+
+v.
+
+ERIC HOLDER, Attorney General of the
+United States,
+
+THE UNITED STATES DEPARTMENT
+OF JUSTICE,
+
+JAMES COMEY, Director of the Federal
+Bureau of Investigation, and
+
+THE FEDERAL BUREAU OF
+INVESTIGATION,
+
+Case No. 14-cv-4480
+
+COMPLAINT FOR DECLARATORY
+JUDGMENT, 28 U.S.C. §§ 2201 and 2202
+
+Defendants.
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+I.
+
+NATURE OF THE ACTION
+
+1.	Twitter brings this action for declaratory judgment pursuant to 28 U.S.C. §§ 2201
+and 2202, requesting relief from prohibitions on its speech in violation of the First Amendment.
+
+2.	The U.S. government engages in extensive but incomplete speech about the scope
+of its national security surveillance activities as they pertain to U.S. communications providers,
+while at the same time prohibiting service providers such as Twitter from providing their own
+informed perspective as potential recipients of various national security-related requests.
+
+3.	Twitter seeks to lawfully publish information contained in a draft Transparency
+Report submitted to the Defendants on or about April 1, 2014. After five months, Defendants
+informed Twitter on September 9, 2014 that “information contained in the [transparency] report is
+classified and cannot be publicly released” because it does not comply with their framework for
+reporting data about government requests under the Foreign Intelligence Surveillance Act
+(“FISA”) and the National Security Letter statutes. This framework was set forth in a January 27,
+2014 letter from Deputy Attorney General James M. Cole to five Internet companies (not
+including Twitter) in settlement of prior claims brought by those companies (also not including
+Twitter) (the “DAG Letter”).
+
+4.	The Defendants’ position forces Twitter either to engage in speech that has been
+preapproved by government officials or else to refrain from speaking altogether. Defendants
+provided no authority for their ability to establish the preapproved disclosure formats or to
+impose those speech restrictions on other service providers that were not party to the lawsuit or
+settlement.
+
+5.	Twitter’s ability to respond to government statements about national security
+surveillance activities and to discuss the actual surveillance of Twitter users is being
+unconstitutionally restricted by statutes that prohibit and even criminalize a service provider’s
+disclosure of the number of national security letters (“NSLs”) and court orders issued pursuant to
+FISA that it has received, if any. In fact, the U.S. government has taken the position that service
+
+-1-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+providers like Twitter are even prohibited from saying that they have received zero national
+security requests, or zero of a particular type of national security request.
+
+6.	These restrictions constitute an unconstitutional prior restraint and content-based
+restriction on, and government viewpoint discrimination against, Twitter’s right to speak about
+information of national and global public concern. Twitter is entitled under the First Amendment
+to respond to its users’ concerns and to the statements of U.S. government officials by providing
+more complete information about the limited scope of U.S. government surveillance of Twitter
+user accounts—including what types of legal process have not been received by Twitter—and the
+DAG Letter is not a lawful means by which Defendants can seek to enforce their unconstitutional
+speech restrictions.
+
+II.	PARTIES
+
+7.	Plaintiff Twitter, Inc. (“Twitter”) is a corporation with its principal place of
+business located at 1355 Market Street, Suite 900, San Francisco, California. Twitter is a global
+information sharing and distribution network serving over 271 million monthly active users
+around the world. People using Twitter write short messages, called “Tweets,” of 140 characters
+or less, which are public by default and may be viewed all around the world instantly. As such,
+Twitter gives a public voice to anyone in the world—people who inform and educate others, who
+express their individuality, who engage in all manner of political speech, and who seek positive
+change.
+
+8.	Defendant Eric Holder is the Attorney General of the United States and heads the
+United States Department of Justice (“DOJ”). He is sued in his official capacity only.
+
+9.	Defendant DOJ is an agency of the United States. Its headquarters are located at
+950 Pennsylvania Avenue, NW, Washington, D.C.
+
+10.	Defendant James Comey is the Director of the Federal Bureau of Investigation
+(“FBI”). He is sued in his official capacity only.
+
+-2-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+11.	Defendant FBI is an agency of the United States. Its headquarters are located at
+
+935 Pennsylvania Avenue, NW, Washington, D.C.
+
+III.	JURISDICTION
+
+12.	This Court has original subject matter jurisdiction under 28 U.S.C. § 1331, as this
+matter arises under the Constitution, laws, or treaties of the United States. More specifically, this
+Court is authorized to provide declaratory relief under the Declaratory Judgment Act, 28 U.S.C.
+§§ 2201-2202, relating to, among other things, Twitter’s contention that certain nondisclosure
+requirements and related penalties concerning the receipt of NSLs and court orders issued under
+FISA, as described below, are unconstitutionally restrictive of Twitter’s First Amendment rights,
+either on their face or as applied to Twitter, and Twitter’s contention that Defendants’ conduct
+violates the Administrative Procedure Act, 5 U.S.C. § 551, et seq.
+
+IV.	VENUE
+
+13.	Venue is proper in this Court under 28 U.S.C. § 1391(b) because a substantial part
+of the events giving rise to the action occurred in this judicial district, Twitter resides in this
+district, Twitter’s speech is being unconstitutionally restricted in this district, and the Defendants
+are officers and employees of the United States or its agencies operating under the color of law.
+
+V.	FACTUAL BACKGROUND
+
+A.	NSL and FISA Provisions Include Nondisclosure Obligations
+
+i. The NSL Statute
+
+14.	Section 2709 of the federal Stored Communications Act authorizes the FBI to
+issue NSLs to electronic communication service (“ECS”) providers, such as Twitter, compelling
+them to disclose “subscriber information and toll billing records information” upon a certification
+by the FBI that the information sought is “relevant to an authorized investigation to protect
+against international terrorism or clandestine intelligence activities.” 18 U.S.C. § 2709(a), (b).
+
+-3-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+15.	Section 2709(c)(1) provides that, following certification by the FBI, the recipient
+
+of the NSL shall not disclose “to any person (other than those to whom such disclosure is
+necessary to comply with the request or an attorney to obtain legal advice or legal assistance with
+respect to the request) that the Federal Bureau of Investigation has sought or obtained access to
+information or records.” 18 U.S.C. § 2709(c)(1). This nondisclosure obligation is imposed upon
+an ECS by the FBI unilaterally, without prior judicial review. At least two United States district
+courts have found the nondisclosure provision of § 2709 unconstitutional under the First
+Amendment. In re Nat’lSec. Letter, 930 F. Supp. 2d 1064 (N.D. Cal. 2013); Doe v. Gonzales,
+500 F. Supp. 2d 379 (S.D.N.Y. 2007), affirmed in part, reversed in part, and remanded by Doe,
+Inc. v. Mukasey, 549 F.3d 861 (2d Cir. 2008).
+
+16.	Any person or entity that violates a NSL nondisclosure order may be subject to
+criminal penalties. 18 U.S.C. §§ 793, 1510(e).
+
+ii.	The Foreign Intelligence Surveillance Act
+
+17.	Five subsections (“Titles”) of FISA permit the government to seek court-ordered
+real-time surveillance or disclosure of stored records from an ECS: Title I (electronic surveillance
+of the content of communications and all communications metadata); Title III (disclosure of
+stored content and noncontent records); Title IV (provisioning of pen register and trap and trace
+devices to obtain dialing, routing, addressing and signaling information); Title V (disclosure of
+“business records”) (also referred to as “Section 215 of the USA Patriot Act”); and Title VII
+(surveillance of non-U.S. persons located beyond U.S. borders).
+
+18.	A number of authorities restrict the recipient of a FISA order from disclosing
+information about that order. These include requirements in FISA that recipients of court orders
+provide the government with “all information, facilities, or technical assistance necessary to
+accomplish the electronic surveillance in such a manner as will protect its secrecy,” 50 U.S.C. §
+1805(c)(2)(B); the Espionage Act, 18 U.S.C. § 793 (criminalizing unauthorized disclosures of
+
+-4-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+national defense information under certain circumstances); nondisclosure agreements signed by
+representatives of communications providers who receive FISA orders; and court-imposed
+nondisclosure obligations in FISA court orders themselves.
+
+B.	The Government’s Restrictions on Other Communication Providers’ Ability to
+
+Discuss Their Receipt of National Security Legal Process
+
+19.	On June 5, 2013, the British newspaper The Guardian reported the first of several
+“leaks” of classified material from Edward Snowden, a former government contractor, which
+have revealed—and continue to reveal—multiple U.S. government intelligence collection and
+surveillance programs.
+
+20.	The Snowden disclosures have deepened public concern regarding the scope of
+governmental national security surveillance. This concern is shared by members of Congress,
+industry leaders, world leaders, and the media. In response to this concern, a number of executive
+branch officials have made public statements about the Snowden disclosures and revealed select
+details regarding specific U.S. surveillance programs. For example, the Director of National
+Intelligence has selectively declassified and publicly released information about U.S. government
+surveillance programs.
+
+21.	While engaging in their own carefully crafted speech on the issue of U.S.
+government surveillance, U.S. government officials have relied on statutory and other authorities
+to preclude communication providers from responding to leaks, inaccurate information reported
+in the media, statements of public officials, and related public concerns regarding the providers’
+involvement with and exposure to U.S. surveillance efforts. These authorities—and the
+government’s interpretation of and reliance on them—constitute facial and as-applied violations
+of the First Amendment right to engage in speech regarding a matter of extensively debated and
+significant public concern.
+
+-5-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+22.	In response to these restrictions on speech, on June 18, 2013, Google filed in the
+Foreign Intelligence Surveillance Court (“FISC”) a Motion for Declaratory Judgment of Google’s
+First Amendment Right to Publish Aggregate Data About FISA Orders. Google then filed an
+Amended Motion on September 9, 2013. Google’s Amended Motion sought a declaratory
+judgment that it had a right under the First Amendment to publish, and that no applicable law or
+regulation prohibited it from publishing, two aggregate unclassified numbers: (1) the total number
+of requests it receives under various national security authorities, if any, and (2) the total number
+of users or accounts encompassed within such requests. Similar motions were subsequently filed
+by four other U.S. communications providers: Microsoft (June 19, 2013), Facebook (September
+9, 2013), Yahoo! (September 9, 2013), and LinkedIn (September 17, 2013). Apple also
+submitted an amicus brief in support of the motions (November 5, 2013).
+
+23.	In January 2014, the DOJ and the five petitioner companies reached an agreement
+that the companies would dismiss the FISC actions without prejudice in return for the DOJ’s
+agreement that the companies could publish information about U.S. government surveillance of
+their networks in one of two preapproved disclosure formats. President Obama previewed this
+agreement in a public speech that he delivered at the DOJ on January 17, 2014, saying, “We will
+also enable communications providers to make public more information than ever before about
+the orders that they have received to provide data to the government.” President Barack Obama,
+Remarks by the President on Review of Signals Intelligence, The White House Blog (Jan. 17,
+2014, 11:15 AM), available at http://www.whitehouse.gov/the-press-office/2014/01/17/remarks-
+president-review-signals-intelligence.
+
+24.	The two preapproved disclosure formats were set forth in a letter dated January 27,
+2014, from Deputy Attorney General James M. Cole to the General Counsels for Facebook,
+Google, LinkedIn, Microsoft and Yahoo!. A copy of the DAG Letter is attached hereto as Exhibit
+1. Under Option One in the DAG Letter,
+
+-6-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+A provider may report aggregate data in the following separate categories:
+
+1.	Criminal process, subject to no restrictions.
+
+2.	The number of NSLs received, reported in bands of 1000 starting
+with 0-999.
+
+3.	The number of customer accounts affected by NSLs, reported in
+bands of 1000 starting with 0-999.
+
+4.	The number of FISA orders for content, reported in bands of 1000
+starting with 0-999.
+
+5.	The number of customer selectors targeted under FISA content
+orders, in bands of 1000 starting with 0-999.
+
+6.	The number of FISA orders for non-content, reported in bands of
+1000 starting with 0-999.
+
+7.	The number of customer selectors targeted under FISA non-
+content orders, in bands of 1000 starting with 0-999.
+
+Exhibit 1 at 2.
+
+25.	For FISA-related information, the DOJ imposed a six-month delay between the
+publication date and the period covered by the report. In addition, it imposed
+
+a delay of two years for data relating to the first order that is served on a company
+for a platform, product, or service (whether developed or acquired) for which the
+company has not previously received such an order, and that is designated by the
+government as a “New Capability Order” because disclosing it would reveal that
+the platform, product, or service is subject to previously undisclosed collection
+through FISA orders.
+
+Id. at 3.
+
+26.	Under Option Two,
+
+[A] provider may report aggregate data in the following separate categories:
+
+1.	Criminal process, subject to no restrictions.
+
+2.	The total number of all national security process received,
+including all NSLs and FISA orders, reported as a single number in
+the following bands: 0-249 and thereafter in bands of 250.
+
+3.	The total number of customer selectors targeted under all national
+security process, including all NSLs and FISA orders, reported as a
+
+-7-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Id.
+
+single number in the following bands, 0-249, and thereafter in
+bands of 250.”
+
+27.	Under either option, since the permitted ranges begin with zero, service providers
+who have never received an NSL or FISA order apparently are prohibited from reporting that
+fact. Likewise, a communications provider that, for example, has received FISA orders under
+Titles I, III, V and VII of FISA, but not under Title IV, may not reveal that it has never received a
+Title IV FISC order.
+
+28.	The DAG Letter cites to no authority for these restrictions on service providers’
+
+speech.
+
+29.	In a Notice filed with the FISC simultaneously with transmission of the DAG
+Letter, the DOJ informed the court of the agreement, the new disclosure options detailed in the
+DAG Letter, and the stipulated dismissal of the FISC action by all parties. A copy of the Notice
+is attached hereto as Exhibit 2. The Notice concluded by stating: “It is the Government’s position
+that the terms outlined in the Deputy Attorney General’s letter define the limits of permissible
+reporting for the parties and other similarly situated companies.” Exhibit 2 at 2 (emphasis
+added). In other words, according to the DOJ, the negotiated agreement reached to end litigation
+by five petitioner companies is not limited to the five petitioner companies as a settlement of
+private litigation, but instead serves as a disclosure format imposed on a much broader—yet
+undefined—group of companies. No further guidance has been offered by the DOJ regarding
+what it considers to be a “similarly situated” company. Further, the Notice cites no authority for
+extending these restrictions on speech to companies that were not party to the negotiated
+agreement.
+
+30.	Notwithstanding the fact that the DAG Letter purportedly prohibits a provider
+from disclosing that it has received “zero” NSLs or FISA orders, or “zero” of a certain kind of
+
+-8-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+FISA order, subsequent to January 27, 2014, certain communications providers have publicly
+disclosed either that they have never received any FISA orders or NSLs, or any of a certain kind
+of FISA order.
+
+C.	The DOJ and FBI Deny Twitter’s Request to Be More Transparent
+
+31.	Twitter is a unique service built on trust and transparency. Twitter users are
+permitted to post under their real names or pseudonymously. Twitter is used by world leaders,
+political activists, journalists, and millions of other people to disseminate information and ideas,
+engage in public debate about matters of national and global concern, seek justice, and reveal
+government corruption and other wrongdoing. The ability of Twitter users to share information
+depends, in part, on their ability to do so without undue fear of government surveillance.
+
+32.	Twitter is an ECS as that term is defined at 18 U.S.C. § 2510(15) since it provides
+its users the ability to send and receive electronic communications. As an ECS and, more
+generally, as a third-party provider of communications to the public, Twitter is subject to the
+receipt of civil, criminal, and national security legal process, including administrative, grand jury,
+and trial subpoenas; NSLs; court orders under the federal Wiretap Act, Stored Communications
+Act, Pen Register and Trap and Trace Act, and FISA; and search warrants. Compliance with such
+legal process can be compelled through the aid of a court.
+
+33.	The ability to engage in speech concerning the nature and extent of government
+surveillance of Twitter users’ activities is critical to Twitter. In July 2012, Twitter released its
+first Transparency Report. Release of this Transparency Report was motivated by Twitter’s
+recognition that citizens must “hold governments accountable, especially on behalf of those who
+may not have a chance to do so themselves.” Jeremy Kessel, Twitter Transparency Report,
+Twitter Blog (July 2, 2012 20:17 UTC), https://blog.twitter.com/2012/twitter-transparency-report.
+This Transparency Report listed the number of civil and criminal government requests for
+account information and content removal, broken down by country, and takedown notices
+
+-9-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+pursuant to the Digital Millennium Copyright Act received from third parties. The report also
+provided information about how Twitter responded to these requests. The report did not contain
+information regarding government national security requests Twitter may have received.
+Subsequent biennial transparency reports have been released since then, including the most recent
+on July 31, 2014.
+
+34.	In January 2014, Twitter requested to meet with DOJ and FBI officials to discuss
+Twitter’s desire to provide greater transparency into the extent of U.S. government surveillance of
+Twitter’s users through NSLs and court orders issued under FISA.
+
+35.	On January 29, 2014, representatives of the DOJ, FBI, and Twitter met at the
+Department of Justice. At the meeting, Twitter explained why its services are unique and distinct
+from the services provided by the companies who were recipients of the DAG Letter and why the
+DAG Letter should not apply to Twitter, which was not a party to the proceedings that resulted in
+the DAG Letter. Twitter also sought confirmation that it is not “similarly situated” to those
+companies and that the limits imposed in the DAG Letter should not apply to Twitter. In
+response, the DOJ and FBI told Twitter that the DAG Letter sets forth the limits of permissible
+transparency-related speech for Twitter and that the letter would not be amended or supplemented
+with additional options of preapproved speech.
+
+36.	In February 2014, Twitter released its Transparency Report for the second half of
+2013, which included two years of data covering global government requests for account
+information. In light of the government’s admonition regarding more expansive transparency
+reporting than that set forth in the DAG Letter, Twitter’s February 2014 Transparency Report did
+not include information about U.S. government national security requests at the level of
+granularity Twitter wished to disclose.
+
+37.	In a blog post, Twitter explained the importance of reporting more specific
+information to users about government surveillance. Twitter also explained how the U.S.
+
+-10-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+government was unconstitutionally prohibiting Twitter from providing a meaningful level of
+detail regarding U.S. government national security requests Twitter had or may have received:
+
+We think the government’s restriction on our speech not only unfairly
+impacts our users’ privacy, but also violates our First Amendment right to
+free expression and open discussion of government affairs. We believe
+there are far less restrictive ways to permit discussion in this area while
+also respecting national security concerns. Therefore, we have pressed the
+U.S. Department of Justice to allow greater transparency, and proposed
+future disclosures concerning national security requests that would be
+more meaningful to Twitter’s users.
+
+Jeremy Kessel, Fighting for more transparency, Twitter Blog (Feb. 6, 2014 14:58
+UTC), https://blog.twitter.com/2014/fighting-for-more-transparency.
+
+38.	On or about April 1, 2014, Twitter submitted a draft July 2014 Transparency
+Report to the FBI, seeking prepublication review. In its transmittal letter to the FBI, Twitter
+explained:
+
+We are sending this to you so that Twitter may receive a
+determination as to exactly which, if any, parts of its Transparency
+Report are classified or, in the Department’s view, otherwise may
+not lawfully be published online.
+
+A copy of Twitter’s letter dated April 1, 2014 is attached as Exhibit 3. Twitter’s draft
+Transparency Report, which will be submitted separately, is Exhibit 4.
+
+39.	Through its draft Transparency Report, Twitter seeks to disclose certain categories
+of information to its users, for the period July 1 to December 31, 2013, including:
+
+a.	The number of NSLs and FISA orders Twitter received, if any, in actual
+aggregate numbers (including “zero,” to the extent that that number was
+applicable to an aggregate number of NSLs or FISA orders, or to specific
+kinds of FISA orders that Twitter may have received);
+
+b.	The number of NSLs and FISA orders received, if any, reported
+separately, in ranges of one hundred, beginning with 1-99;
+
+c.	The combined number of NSLs and FISA orders received, if any, in
+ranges of twenty-five, beginning with 1-24;
+
+-11-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+d.	A comparison of Twitter’s proposed (i.e., smaller) ranges with those
+authorized by the DAG Letter;
+
+e.	A comparison of the aggregate numbers of NSLs and FISA orders
+received, if any, by Twitter and the five providers to whom the DAG
+Letter was addressed; and
+
+f.	A descriptive statement about Twitter’s exposure to national security
+surveillance, if any, to express the overall degree of government
+surveillance it is or may be subject to.
+
+40.	For five months, the FBI considered Twitter’s written request for review of the
+draft Transparency Report. By letter dated September 9, 2014, the FBI denied Twitter’s request.
+A copy of the FBI’s letter dated September 9, 2014 is attached as Exhibit 5. The FBI’s letter did
+not, as requested, identify exactly which parts of the draft Transparency Report may not lawfully
+be published. Instead, the letter stated vaguely that “information contained in the report” cannot
+be publicly released; it provided examples of such information in the draft Transparency Report;
+and it relied on a general assertion of national security classification and on the pronouncements
+in the DAG Letter as its bases for denying publication:
+
+We have carefully reviewed Twitter’s proposed transparency report
+and have concluded that information contained in the report is
+classified and cannot be publicly released.
+
+. . . Twitter’s proposed transparency report seeks to publish data . . .
+in ways that would reveal classified details about [government
+surveillance] that go beyond what the government has permitted
+other companies to report. . . . This is inconsistent with the January
+27th framework [set forth in the DAG Letter] and discloses
+properly classified information.
+
+Exhibit 5 at 1. The FBI reiterated that Twitter could engage only in speech that did not exceed
+
+the preapproved speech set forth in the DAG Letter. It noted, for example, that Twitter could
+
+explain that only an infinitesimally small percentage of its total
+number of active users was affected by [government surveillance
+by] highlighting that less than 250 accounts were subject to all
+combined national security legal process. . . . That would allow
+Twitter to explain that all national security legal process received
+from the United States affected, at maximum, only 0.0000919
+percent (calculated by dividing 249 by 271 million) of Twitter’s
+
+-12-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+total users. In other words, Twitter is permitted to qualify its
+description of the total number of accounts affected by all national
+security legal process it has received but it cannot quantify that
+description with the specific detail that goes well beyond what is
+allowed under the January 27th framework and that discloses
+properly classified information.
+
+Id. at 1-2.
+
+41.	Since the FBI’s response does not identify the exact information in the draft
+Transparency Report that can and cannot be published, Twitter cannot at this time publish any
+part of the report. When the government intrudes on speech, the First Amendment requires that it
+do so in the most limited way possible. The government has failed to meet this obligation.
+Instead, Defendants simply impose the DAG Letter framework upon Twitter as Twitter’s sole
+means of communicating with the public about national security surveillance.
+
+COUNT I
+
+(Request for Declaratory Judgment under 28 U.S.C. §§ 2201 and 2202 and Injunctive Relief)
+
+42.	Twitter incorporates the allegations contained in paragraphs 1 through 41, above.
+
+43.	Defendants have impermissibly infringed upon Twitter’s right to publish
+
+information contained in Twitter’s draft Transparency Report, and Twitter therefore seeks a
+
+declaration that Defendants have violated Twitter’s First Amendment rights. A case of actual
+
+controversy exists regarding Twitter’s right to engage in First Amendment protected speech
+
+following Defendants’ refusal to allow Twitter to publish information about its exposure to
+
+national security surveillance that does not conform to either of the two preapproved formats set
+
+forth in the DAG Letter. The fact that Defendants have prohibited Twitter from publishing facts
+
+that reveal whether and the extent to which it may have received either one or more NSLs or
+
+court orders pursuant to FISA, along with the other facts alleged herein, establish that a
+
+substantial controversy exists between the adverse parties of sufficient immediacy and reality as
+
+to warrant a declaratory judgment in Twitter’s favor. Twitter has suffered actual adverse and
+
+harmful effects, including but not limited to, a prohibition on publishing information in the draft
+
+-13-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Transparency Report to make it available to the public and Twitter’s users, the chilling effect
+from Defendants’ failure to address specific content, and the threat of possible civil or criminal
+penalties for publication.
+
+44.	The imposition of the requirements of the DAG Letter on Twitter violates the
+Administrative Procedure Act because the DAG Letter represents a final agency action not in
+accordance with law; the imposition of the DAG Letter on Twitter is contrary to Twitter’s
+constitutional rights (namely the First Amendment) as alleged more specifically herein; the
+imposition of the DAG Letter on Twitter is in excess of statutory jurisdiction, authority, or
+limitations as alleged more specifically herein; and the requirements set forth in the DAG Letter
+were imposed on Twitter without the observance of procedure required by law. Twitter is not
+“similarly situated” to the parties addressed in the DAG Letter.
+
+45.	Upon information and belief, the restrictions in the DAG letter are based in part
+upon the nondisclosure provision of 18 U.S.C. § 2709; FISA secrecy provisions, such as 50
+U.S.C. § 1805(c)(2)(B); the Espionage Act, 18 U.S.C. § 793; nondisclosure agreements signed by
+Twitter representatives, if any; and nondisclosure provisions in FISA court orders issued to
+Twitter, if any.
+
+46.	The nondisclosure and judicial review provisions of 18 U.S.C. § 2709(c) are
+facially unconstitutional under the First Amendment, including for at least the following reasons:
+the nondisclosure orders authorized by § 2709(c) constitute a prior restraint and content-based
+restriction on speech in violation of Twitter’s First Amendment right to speak about truthful
+matters of public concern (e.g., the existence of and numbers of NSLs received); the
+nondisclosure orders authorized by § 2709(c) are not narrowly tailored to serve a compelling
+governmental interest, including because they apply not only to the content of the request but to
+the fact of receiving an NSL and additionally are unlimited in duration; and the NSL
+nondisclosure provisions are facially unconstitutional because the judicial review procedures do
+
+-14-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+not meet procedural safeguards required by the First Amendment because they place the burden
+of seeking to modify or set aside a nondisclosure order on the recipient of an NSL, do not
+guarantee that nondisclosure orders imposed prior to judicial review are limited to a specified
+brief period, do not guarantee expeditious review of a request to modify or set aside a
+nondisclosure order, and require the reviewing court to apply a level of deference that conflicts
+with strict scrutiny.
+
+47.	The nondisclosure provisions of 18 U.S.C. § 2709(c) are also unconstitutional as
+applied to Twitter, including because Defendants’ interpretation of the nondisclosure provision of
+18 U.S.C. § 2709(c), and their application of the same to Twitter via the DAG Letter, is an
+unconstitutional prior restraint, content-based restriction, and viewpoint discrimination in
+violation of Twitter’s right to speak about truthful matters of public concern. This prohibition on
+Twitter’s speech is not narrowly tailored to serve a compelling governmental interest, and no such
+interest exists that justifies prohibiting Twitter from disclosing its receipt (or non-receipt) of an
+NSL or the unlimited duration or scope of the prohibition.
+
+48.	Section 2709 is also unconstitutional because 18 U.S.C. § 3511, which sets forth
+the standard of review for seeking to modify or set aside a nondisclosure order under 18 U.S.C. §
+2709, restricts a court’s power to review the necessity of a nondisclosure provision in violation of
+separation of powers principles. The statute expressly limits a court’s ability to set aside or
+modify a nondisclosure provision unless the court finds that “there is no reason to believe that
+disclosure may endanger . . . national security.” 18 U.S.C. § 3511(b)(2), (3). This restriction
+impermissibly requires the reviewing court to apply a level of deference to the government’s
+nondisclosure decisions that conflicts with the constitutionally mandated level of review, which is
+strict scrutiny.
+
+49.	The FISA statute, the Espionage Act, and other nondisclosure authorities do not
+prohibit service providers like Twitter from disclosing aggregate information about the number of
+
+-15-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+FISA orders they receive. Instead, these authorities protect the secrecy of particular targets and
+ongoing investigations, and do not impose an obligation on service providers such as Twitter to
+remain silent about the receipt or non-receipt of FISA orders generally, nor do they impose an
+obligation on service providers not to disclose the aggregate numbers of specific ranges of FISA
+orders received. To the extent that the Defendants read FISA secrecy provisions, such as 50
+U.S.C. § 1805(c)(2)(B), as prohibiting Twitter from publishing information about the aggregate
+number of FISA orders it receives, however, the FISA secrecy provisions are unconstitutional
+including because they constitute a prior restraint and content-based restriction on speech in
+violation of Twitter’s First Amendment right to speak about truthful matters of public concern.
+Moreover, this restriction on Twitter’s speech is not narrowly tailored to serve a compelling
+governmental interest, and no such interest exists that justifies prohibiting Twitter from disclosing
+its receipt (or non-receipt) of a FISA order.
+
+50.	The FISA secrecy provisions are also unconstitutional as applied to Twitter,
+including because Defendants’ interpretation of the FISA secrecy provisions and their application
+with respect to Twitter is an unconstitutional prior restraint, content-based restriction, and
+viewpoint discrimination in violation of Twitter’s right to speak about truthful matters of public
+concern. Moreover, this prohibition imposed by Defendants on Twitter’s speech is not narrowly
+tailored to serve a compelling governmental interest.
+
+PRAYER FOR RELIEF
+WHEREFORE, Twitter prays for the following relief:
+
+A.	A declaratory judgment that:
+
+i.	The draft Transparency Report that Twitter submitted to the FBI may be
+lawfully published in its entirety or, alternatively, certain identified
+portions may be lawfully published;
+
+ii.	Imposition of the requirements set forth in the DAG Letter on Twitter
+violate the Administrative Procedure Act;
+
+iii.	The nondisclosure provisions of 18 U.S.C. § 2709 and the review
+mechanisms of 18 U.S.C. § 3511 are facially unconstitutional under the
+First Amendment;
+
+-16-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+iv.	The nondisclosure provisions of 18 U.S.C. § 2709 are unconstitutional
+under the First Amendment as applied to Twitter;
+
+v.	The review mechanisms established under 18 U.S.C. § 3511 are facially
+unconstitutional because they violate separation of powers principles;
+
+vi.	The FISA secrecy provisions are facially unconstitutional under the First
+Amendment;
+
+vii.	The FISA secrecy provisions are unconstitutional under the First
+Amendment as applied to Twitter;
+
+viii.	The DAG Letter’s prohibition on reporting receipt of zero of a particular
+kind of national security process is unconstitutional under the First
+Amendment;
+
+ix.	The DAG Letter’s prohibition on reporting receipt of zero aggregate NSLs
+or FISA orders is unconstitutional under the First Amendment; and
+
+x.	The DAG Letter’s restrictions on reporting ranges of national security
+process received are unconstitutional under the First Amendment.
+
+B.	A preliminary and permanent injunction prohibiting Defendants, their affiliates,
+agents, employees, and attorneys, and any and all other persons in active concert or participation
+with them, from seeking to enforce the terms contained in the DAG Letter on Twitter, or to
+prosecute or otherwise seek redress from Twitter for transparency reporting that is inconsistent
+with the terms contained in the DAG Letter.
+
+C.	An award of attorneys’ fees and costs to Twitter to the extent permitted by law.
+
+D.	Such further and other relief as this Court deems just and proper.
+
+-17-
+
+COMPLAINT FOR DECLARATORY JUDGMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+DATED: October 7, 2014
+
+PERKINS COIE LLP
+
+By: /s/ Eric D. Miller__________________
+
+Eric D. Miller, Bar No. 218416
+EMiller@perkinscoie.com
+Michael A. Sussmann, D.C. Bar No.
+433100
+
+(pro hac vice to follow)
+
+MSussmann@perkinscoie.com
+
+James Snell, Bar No. 173070
+
+JSnell@perkinscoie.com
+
+Hayley L. Berlin, D.C. Bar No. 1011549
+
+(pro hac vice to follow)
+
+HBerlin@perkinscoie.com
+
+PERKINS COIE LLP
+
+3150 Porter Drive
+
+Palo Alto, CA 94304-1212
+
+Telephone: 650.838.4300
+
+Facsimile: 650.838.4350
+
+Attorneys for Plaintiff
+Twitter, Inc.
+
+-18-
+
+COMPLAINT FOR DECLARATORY JUDGMENT

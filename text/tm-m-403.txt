@@ -1,0 +1,131 @@
+﻿SIDToday- TREASURE MAP Announces a New Release
+
+DYNAMIC PAGE - HI CHE ST POSSIBLE CLASSIFICATION IS
+TOP SECRET// SI / TK// REL TO USAAUS CAN CBR NZL
+
+(U//FOUO) TREASURE MAP Announces a New Release
+
+FROM: NTOC, Office of Technology Development (V45)
+
+1 of 4
+
+SIDToday- TREASURE MAP Announces a New Release
+
+Run Date: 01/11/2011
+
+(S//REL) On 10 January the Office of Technology Development (V45) released, a
+new version of TREASURE MAR the global IP net work-mapping and -exploration
+system.
+
+*	TREASURE MAP on NSANet: https:// web .treasuremap. pro j. nsa .ic. gov: 7002
+/treasuremap/web/guest/1
+
+*	TREASURE MAP on JWICS: https://gateways.malLnsa.ic.gov/treasuremap/
+
+*	TREASURE MAP on SIPR: http://web.treasuremap.proj.nsa.smil.mil/
+
+(S//REL) The TREASURE MAP system provides a near real-time, interactive map of
+the global Internet "It shows you the public Internet, everywhere, as it is today."
+
+0 TREASURE MAP logo
+
+(S//REL) This release of TREASUREMAP on NSANet and JWICS includes many new
+features:
+
+*	Reorganized search pane for increased networking analysis
+
+*	Export router configurations as OPNET File( .ma); ability to export all router
+configurations at once*
+
+*	Increased trace route guery speed
+
+2 of 4
+
+SIDToday- TREASURE MAP Announces a New Release
+
+*	Router Telnet access list records now available for routers with configuration
+files*
+
+*	You now have the ability to identify IPv4 tunneling through IPv6 tunnels (new
+icons)*
+
+*	Improved identification and selection enhancements, such as:
+
+o Select contained routers directly from registered netblock nodes and
+prefix nodes to determine which IP's are within the specified range
+o Copy and paste from summary pane which provides detailed information
+on selected nodes in a graph
+
+o Enhanced graph find menu options to easier identify targets on a graph
+o Data source information more easily accessible on the fly in the Help
+menu (Ctrl+Alt+S)
+
+o Improvements made to the Graph Compare tool to more easily identify
+changes with the Highlight Layers feature
+o With one click in the outline view you are able to find any node or link in
+your graph
+
+o New watermarks will indicate if it is an Analytic Capable Graph*
+
+*	New double-click functionality
+
+o Double-click a network interface, router interface, network, netblock,
+prefix or switch to graph public routers
+o Double-click a wireless access point to show wireless reports
+o Double-click a cluster to expand
+
+*	Double click on a saved TREASURE MAP file to automatically launch the
+TREASURE MAP application to more easily view your graphs and tables
+
+*	Enhanced clustering options
+
+o New Automated Cluster options which allow you to create clusters by
+various attributes including AS, Range of IPs, Country and more
+o Ability to drag and drop nodes into clusters and you can now add and
+attach notes to clusters
+
+*	New option to Show MAC Summaries*
+
+*	Enhanced website functionality
+
+o Query and view Tracer outes from the TREASURE MAP website's
+Advanced Query tab
+
+o Parse IP and MAC addresses from text with the IP MAC Parser now on
+the TREASURE MAP website's Tools tab.
+
+* (U//FQUO) NSANet users only.
+
+(U//FQUO) Everyone with access to NSANet or Intelink with a valid PKI certificate
+can access the system. Type "go TREASUREMAP" in your browser and download
+the new system today!
+
+(U//FQUO) If you or your office would like to see a demonstration, please contact
+
+call our TREASU RE MAP Help Desk at
+
+SIDToday- TREASURE MAP Announces a New Release
+
+or send, an email to
+
+"(U//FOUO) SIDtoday
+articles may not be
+republished or
+reposted outside
+NSANet without the
+consent of S0121
+fDL sid commsl."
+
+DYNAMIC page -
+HIGHEST POSSIBLE
+CLASSIFICATION IS
+TOP SECRET// SI/TK
+// RELTO USA AUS
+CAN CBR NZL
+DERIVED FROM:
+NSA/CSSM 1-52,
+DATED 08 JAN 2007
+DECLASSIFY ON:
+20320108
+
+4 of 4

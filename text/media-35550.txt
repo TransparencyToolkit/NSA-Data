@@ -1,166 +1,143 @@
-TOP TO USA, AUS, CAN, CBR, 
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
- 
+September 2008 Edition
 
-NATIONAL
+■ (U) Message from the NIARL Director:
 
-INFORMATION 
-
-National Information Assurance Research Laboratory (NIARL)
-
-5 A Science,Technology, and Personnel Highlights
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(U) Message from the NIARL Director:
-
-Welcome to the September 2008 edition of the National
+(U//FOUO) Welcome to the September 2008 edition of the National
 Information Assurance Research Laboratory (NIARL) newsletter. The
-NIARL is designated as the R2 organization within the NSA Research
-Directorate. is responsible for conducting and sponsoring
+NIARL is designated as the R2 organization within the NS A Research
+Directorate. NIARL/R2 is responsible for conducting and sponsoring
 research in technologies and techniques needed to secure America's
 future information systems. While breaking new ground is certainly
 rewarding, the overall goal for this research and exploration is to
 identify concepts and solutions to reduce the Information Assurance
-(IA) risks facing our nation?s critical information systems.
+(IA) risks facing our nation’s critical information systems.
 
- 
-
-Within R2?s general IA research thrusts of IA Engineering, and
-Defensive Computing, there are specific ?Focus Areas? dedicated to existing and/or
+(U//FOUO) Within R2’s general IA research thrusts of Crypto-Math, IA Engineering, and
+Defensive Computing, there are specific "Focus Areas” dedicated to existing and/or
 anticipated critical challenges and technical IA risks. Focus Areas encompass topics such as
 Research Integration, High Confidence Software and Systems, Secure Wireless Multimedia,
 and Security Enhanced Operating Environments. For a complete listing of R2 Focus Areas
-please refer to the R2 website at
+refer
 
-In this issue of The EDGE we examine the Research Integration Focus Area and
+(U//FOUO) In this issue of The EDGE we examine the Research Integration Focus Area and
 the associated IA research challenges of bringing research concepts together, providing
 relevant mission context, and presenting IA approaches to customers and stakeholders. R223
 leads the Research Integration Focus Area and is charged with shepherding IA concepts and
-innovations into the research prototype and demonstration stage. Please see the article 
+innovations into the research prototype and demonstration stage. Please see the article “The
+Research Journey from Passion to Prototype” for a detailed discussion of this topic.
 
-for a detailed discussion of this topic.
+(U//FOUO) I am sincerelWnterestecHn your feedback and suggestions, and I ask that you
+email your comments	R2 Office Manager,	We look
 
-I am sincereli interested in your feedback and suggestions, and I ask that you
-
-email your comments to R2 Office Manager, a_ We look
 forward to hearing from you!
 
-  
-
-Derived From: 1?52
+Derived From: NSA/CSSM 1-52
 Dated: 20070108
 Declassify On: 20320108
-TOP TO USA, AUS, CAN, GBR, 
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
 (U) Contents
-(UIIFOUO) Information Sharinq Roadmap Initiative
-(U) Summer Mathematics, R21, and the Director?s Summer Proqram
-(UIIFOUO) Support for I54 Code Review
-(UIIFOUO) Key Manaqement Modelinq Research
-(U) The Research Journey from Passion to Prototype
-
-(U) R222 Photonic Loqic Proqram Review at Sandia National
-Laboratories
-
-(UIIFOUO) Sandia Trip Hithiqhts R225?s Anti-Tamper Research Proqress
-
-(UIIFOUO) R225IDepartment of Enerqy Enqaqement Yields Idaho
-National Labs Research
-
-(UIIFOUO) CLARIFYMIND Wireless Pilot Technical Exchanqe with
-Canadian Representative
-
-(UIIFOUO) R22 Continues Collaboration with NSA CTOITS via Secure
-Tokens Talk
-
-(U) R23 Supports Graduate Math Proqram Larqe Graph Research
-
-(U) OpenSolarislTM) FMAC: Brinqinq the Flask Mandatory Access Control
-Architecture to OpenSolaris
-
-(UIIFOUO) R23 Contributes Behavioral Anomaly Detection to IDAICCS
-DISTILLERY SCAMP
-
- 
-
-(UIIFOUO) HAIRBALL Deploys GraphViz for POPEYESEAR: Visualization
-Techniques for Computer Network Defense
-
-(UIIFOUO) Personnel News
-
-TOP TO USA, AUS, CAN, CBR, 
-
-TOP TO USA, AUS, CAN, GBR, 
-
-
-
-(U) From the NIARL Technical Director?s Desk:
 
 (UIIFOUO) Information Sharing Roadmap Initiative
 
-I Recently, I was asked to lead a small team, with
+(U) Summer Mathematics. R21, and the Director’s Summer Program
+
+(U//FOUO) Support for 154 Code Review
+
+(U//FOUO) Key Management Modeling Research
+
+(U) The Research Journey from Passion to Prototype
+
+(U) R222 Photonic Logic Program Review at Sandia National
+Laboratories
+
+(U//FOUO) Sandia Trip Highlights R225’s Anti-Tamper Research Progress
+
+(U//FOUO) R225/Department of Energy Engagement Yields Idaho
+National Labs Research
+
+(U//FOUO) CLARIFYMIND Wireless Pilot Technical Exchange with
+Canadian Representative
+
+(U//FOUO) R22 Continues Collaboration with NSA CTO/TS via Secure
+Tokens Talk
+
+(U) R23 Supports Graduate Math Program Large Graph Research
+
+(U) OpenSolaris(TM) FMAC: Bringing the Flask Mandatory Access Control
+Architecture to OpenSolaris
+
+(U//FOUO) R23 Contributes Behavioral Anomaly Detection to IDA/CCS
+DISTILLERY SCAMP
+
+(U//FQUO) HAIRBALL Deploys GraphViz for POPEYESEAR: Visualization
+Techniques for Computer Network Defense
+
+(U//FOUO) Personnel News
+
+2
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+(U) From the NIARL Technical Director’s Desk:
+
+■ (U//FOUO) Information Sharing Roadmap Initiative
+
+(U//FOUO) Recently, I was asked to lead a small team, with
 representation from across the Information Assurance Directorate (IAD),
-the Commercial Solutions Center (NCSC), and the Research
+the NSA/CSS Commercial Solutions Center (NCSC), and the Research
 Directorate, to develop an IAD roadmap for information sharing.
 Obviously, this is not the first time an Agency or organization has
 developed a roadmap on this topic. For example, community roadmaps
 were developed by the Program Manager for Information Sharing
-Environment at the Office of the Director of National Intelligence (Information
+Environment (PM-ISE) at the Office of the Director of National Intelligence (Information
 Sharing Environment Implementation Plan) and the Global Information Grid (GIG)
 Information Assurance Portfolio (GIAP) management office (System Technology Evolution
 Plan (STEP) for the Secure Information Exchange (SIE) thread of the GIG Information
 Assurance Architecture). Unlike previous community efforts, this activity is focused on
 developing an internal IAD information sharing roadmap.
 
-   
-
-I.
-
-So why is an internal IAD information sharing roadmap needed? While there are
+(U//FOUO) So why is an internal IAD information sharing roadmap needed? While there are
 many reasons, the primary reasons are to provide a long term IAD vision for information
-sharing that is common across the corporation, to provide a shared context a corporate
+sharing that is common across the corporation, to provide a shared context (e.g. a corporate
 description of information sharing and the necessary activities to achieve information
-sharing), and to provide a tool to and anticipate individual IAD, NCSC and
+sharing), and to provide a tool to synchronize and anticipate individual IAD, NCSC and
 Research activities related to information sharing. In a nutshell, this roadmap is intended to be
 a starting point for harmonizing all IAD activities related to information sharing over an
-extended timeframe 5?7 years). Our goal is not to create a roadmap that competes with
-existing community roadmaps. Our approach will be to existing community
+extended timeframe (e.g. 5-7 years). Our goal is not to create a roadmap that competes with
+existing community roadmaps. Our approach will be to synthesize existing community
 roadmaps into an internal roadmap that drives IAD investments in information sharing.
+
 Lastly, our roadmap will be a living document and will be revised as the timeline moves to
 the right, or as IAD learns more about information sharing requirements.
 
+(U//FOUO) POC:
+
+echnical Director/R2,
 
 
-(U) Corner:
 
-For general information Research?s capabilities and
-current efforts, please visit the R2 web site or the R21
-homepage at link:
+(U) Crypto-Math Corner:
 
-TOP TO USA, AUS, CAN, CBR, 
+(U//FOUO) For general information on R21 Cryptographic IA Research’s capabilities and
+current efforts, please visit the R2 web	the R21
 
-  
- 
+homepage at
 
-TOP TO USA, AUS, CAN, GBR, 
+3
 
-(U) Summer Mathematics, R21, and the Director?s Summer Program
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+(U) Summer Mathematics, R21, and the Director’s Summer Program
 
 (U) The Director's Summer Program (DSP) is the agency's premier summer program for
 mathematics undergraduates. Since its inception in 1990, the mission of the DSP has not been
@@ -170,86 +147,90 @@ aimed at attracting the best mathematics students from around the country, educa
 about mathematics at NSA, and thus establishing ties with the future leaders of the outside
 mathematics community.
 
-While the DSP is hosted by the Mathematics Research Group, the technical
-directors come from across the Agency. In 2008 the technical directors were 
-and This year?s 22 participants were
+(U//FOUO) While the DSP is hosted by the Mathematics Research Group, the technical
+directors come from across the Agency. In 2008 the technical directors were
+
+^^^^M(R21), and	(S31223). This year’s 22 participants were
+
 culled from 260 applicants. Over 12 weeks, students worked in small teams with NSA
 mathematicians to develop real-world solutions to classified, operational problems.
 
-Over the years, R21 personnel have supported the DSP both as project mentors,
+(U//FOUO) Over the years, R21 personnel have supported the DSP both as project mentors,
 who propose a project and guide a small group of students (usually a 12-week, half-time
 commitment), and as technical directors of the program, who select and interview the
 students, find projects and mentors, and serve as general technical and administrative support
 full-time during the summer (usually a 2-year, half-time commitment).
 
-This year, in addition to presenting their results to both the Director and De ut
-Director of NSA, the DSP was invited to give classified presentations to 
-
+(U//FOUO) This year, in addition to presenting their results to both the Director and Deputy
+Director of NSA, the DSP was invited to give classified presentations
 a professional staffer on the Senate Select Committee on Intelligence (SSCI) as well as two
 members of the SSCI Technical Advisory Group.
 
-Projects from DSP 2008 of possible interest to R2 include: RANDOMIZERS, a
+(S//SI/REL) Projects from DSP 2008 of possible interest to R2 include: RANDOMIZERS, a
 study of open source randomizers, TUNDRA, research of a new statistic for codebook
 analysis, and CLOUD, implementing graph algorithms in a cloud computing environment.
 Short summaries follow.
 
-RANDOMIZERS -- Because of their use in the generation of keying material,
-randomizers play a critical role in modern systems. The RANDOMIZERS
+(S//SI//REL) RANDOMIZERS — Because of their use in the generation of keying material,
+randomizers play a critical role in modern cryptographic systems. The RANDOMIZERS
 project focused on two popular commercial software randomizers: Open SSL's randomizer
 and /dev/random. The DSP students researched the quality of these randomizers by
-measuring entropy and by considering attacks Forward Security). The
+measuring entropy and by considering cryptanalytic attacks (e.g., Forward Security). The
 students confirmed an outside attack on /dev/random, but they also showed that this attack is
 not as strong as the outside paper claimed. They found no obvious weaknesses in Open SSL's
 randomizer. Finally, the students examined a mixing component consisting of a shift register
-with a contribution from an entropy source (modeled as Bernoulli--p bits). They determined a
-theoretical bound on the number of register steps needed to reach full entropy given and the
+with a contribution from an entropy source (modeled as Bernoulli—p bits). They determined a
+theoretical bound on the number of register steps needed to reach full entropy given p and the
+polynomial driving the shift register. This project was supported by^^^^^^^^^^^|and
+of 1735.
 
-ol nomial driving the shift register. This project was supported by?and
-of I73 5.
+4
 
-TOP TO USA, AUS, CAN, CBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TUNDRA Electronic codebooks, such as the Advanced 
-Standard, are both widely used and difficult to attack NSA has only a
-handful of in?house techniques. The TUNDRA project investigated a potentially new
-technique the Tau statistic to determine its usefulness in codebook analysis. This project
-was supported by?of R21.
+(TS//SI//REL) TUNDRA — Electronic codebooks, such as the Advanced Encryption
+Standard, are both widely used and difficult to attack cryptanalytically. NSA has only a
+handful of in-house techniques. The TUNDRA project investigated a potentially new
+technique — the Tau statistic — to determine its usefulness in codebook analysis. This project
+was supported	R21.
 
-CLOUD Cloud computing is a paradigm to perform massive computations in
-parallel on a cluster of computers via a ?map?reduce? model. The DSP students researched
+(S//SI//REL) CLOUD — Cloud computing is a paradigm to perform massive computations in
+parallel on a cluster of computers via a "map-reduce" model. The DSP students researched
 how amenable cloud computing is to various graph algorithms. The team successfully
-implemented the graph algorithms k?cores and k?trusses as well as two Agency contact
-chaining algorithms, STARFIRE (developed by DSP 1999) and CARPAT, in the map??reduce
+implemented the graph algorithms k-cores and k-trusses as well as two Agency contact
+chaining algorithms, STARFIRE (developed by DSP 1999) and CARPAT, in the map—reduce
 framework. Their research suggests most graph algorithms fit naturally in the framework.
+Further, this framework supports the ability to process larger data sets. This project was
+supported by^^^^^^^^of Rl.
 
-Further, this framework su orts the ability to process larger data sets. This project was
-supported bydof R1.
+(U//FOUO) This summer the students made good progress on these and five other projects. A
+report detailing all of the work done will be published by Rl in the fall of 2008.
 
-This summer the students made good progress on these and five other projects. A
-report detailing all of the work done will be published by R1 in the fall of 2008.
+(U//FOUO) POC: Dr.	R211,
 
-POC: Dr. R211, 
+(U//FOUO) Support for 154 Code Review
 
-(UIIFOUO) Support for I54 Code Review
+(U//FOUO) Earlier this yeai^^^^^^l Chief of 154, solicited volunteers to support a
+PIRNS A and Director of IAD chartered review of approximately 100,000 lines of Ada 83
+code.	forward deployed from R21 and serving as 1542 Technical Director,
 
-Earlier this yea_ Chief of 154, solicited volunteers to support a
-DIRNSA and Director of IAD chartered review of approximately 100,000 lines of Ada 83
-code. _forward deployed from R21 and serving as 1542 Technical Director,
 enlisted R213 to provide support with automated software analysis tools.
 
-R213, led the automated analysis effort using the tool PolySpace
-for Ada to analyze the code. PolySpace for Ada employs ?abstract interpretation? to analyze
+(TS//REL)^^^H R213, led the automated analysis effort using the tool PolySpace
+for Ada to analyze the code. PolySpace for Ada employs “abstract interpretation” to analyze
 code for a variety of errors such as uninitialized variables, integer overflow, et cetera. The
-initial automated analysis identified some non?standard software features requiring more
-extensive examination. then teamed with? R213, to assist
-with the analysis and provide results to 1543. As noted by Mr. - the
-automated code analysis discoveries provided ?valuable? results, and complemented a parallel
+initial automated analysis identified some non-standard software features requiring more
+extensive examination.	then teamed with^^^^^^^^^^l R213, to assist
+
+with the analysis and provide results to	1543. As noted by Mr.	the
+
+automated code analysis discoveries provided “valuable” results, and complemented a parallel
 154 manual code analysis effort by highlighting several items undiscovered by the manual
 analysis team.
 
-Analyzing and debugging software code on fielded systems is a time?consuming,
+(TS//REL) Analyzing and debugging software code on fielded systems is a time-consuming,
 expensive operation. Using automated techniques to identify coding abnormalities and bugs
 in system software prior to fielding reduces the overall cost of fixing software errors by an
 order of magnitude and significantly increased the quality of the deployed software. To this
@@ -257,25 +238,29 @@ end, R213 continues to research the development of software environments and sof
 languages focused on integrating automated analysis within the design and development
 stages of the software development lifecycle.
 
-POCs: R213, (301?
-R213,
+(U//FQUQ) PQCs:
+R213
 
-TOP TO USA, AUS, CAN, CBR, 
+R213, (301
 
-TOP TO USA, AUS, CAN, GBR, 
+5
 
-(UIIFOUO) Key Management Modeling Research
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-R21 is approaching two significant milestones in Key Management Modeling
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+(U//FOUO) Key Management Modeling Research
+
+(U//FOUO) R21 is approaching two significant milestones in Key Management Modeling
 (KMM) research. First, the researchers appear to have found a proof and analysis technology
 that is robust enough to do meaningful formal analysis of real key management systems.
-KMM is now making use of the Protocol Shapes Analyzer (CPSA) developed
-under contract to R213. CPSA was designed to analyze protocols so KMM is
+KMM is now making use of the Cryptographic Protocol Shapes Analyzer (CPSA) developed
+under contract to R213. CPSA was designed to analyze cryptographic protocols so KMM is
 now expressing key management systems as high-level protocols in order to apply CPSA.
 The KMM researchers have been working with Mitre, and changes to CPSA have already
 been made to enable it to be applied to KMM more directly.
 
-Additionally, KMM is being used for the first time to model a real-world key
+(C//REL) Additionally, KMM is being used for the first time to model a real-world key
 management system. The United Kingdom (UK) is designing a new key management
 architecture as part of its Secure Management Infrastructure (SMI) effort. The initial UK
 architecture is simple enough to make it a good candidate for modeling while still allowing
@@ -285,205 +270,239 @@ invaluable input to KMM. A draft model is currently under development, and if su
 progress is achieved, R21 will be presenting the results at the 5-Eyes Key Management
 Strategy Group (KMSG) in Ottawa in October 2008.
 
+(U//FOUO) POC:
+
+R212,
+
+
 
 (U) IA Engineering Exchange:
 
-For general information on R22 1A Engineering Research?s capabilities and
+(U//FOUO) For general information on R22 IA Engineering Research’s capabilities and
+current efforts, please visit the R2 web	or use the R22
 
-current efforts, please visit the R2 web sit_ or use the R22
-wiki link 
+wiki link:
 
 (U) The Research Journey from Passion to Prototype
 
-As noted in the NIARL Director?s introduction, Research Integration (R223) is
-the NIARL Focus Area responsible for taking 1A discoveries into the research prototype and
+(U//FOUO) As noted in the NIARL Director’s introduction, Research Integration (R223) is
+the NIARL Focus Area responsible for taking IA discoveries into the research prototype and
 demonstration stage. Along the way, the team explores and addresses critical assurance
 challenges facing our current information infrastructure, as well as those emerging against our
 future systems.
 
-To explore the goals of Research Integration, let?s follow some distinct research
-
+(U//FOUO) To explore the goals of Research Integration, let’s follow some distinct research
 efforts from their origins toward the integrated prototype and demonstration stage. For this
-example, we?ll use a well-understood assurance problem given our current operational
+example, we’ll use a well-understood assurance problem given our current operational
 
-TOP TO USA, AUS, CAN, CBR, 
+6
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-environment of multiple networks at various security levels namely, the need for users to
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+environment of multiple networks at various security levels - namely, the need for users to
 access multiple systems (also known as domains) in a secure way.
 
-The central purpose of most research is to explore what?s ?next.? Instead of a
-known desired end-state, this process often begins with a question, such as ?are there better
-approaches to secure software?? - many ideas are then tested to try to find the answer. That
+(U//FOUO) The central purpose of most research is to explore what’s "next.” Instead of a
+known desired end-state, this process often begins with a question, such as "are there better
+approaches to secure software?” - many ideas are then tested to try to find the answer. That
 particular question remains central to R213 High Confidence Software and Systems (HCSS)
 Focus Area research into how Formal Methods and mathematical proofs could ensure the
-?correctness? of software design. In this example, the HCSS team explored possible solutions
+“correctness” of software design. In this example, the HCSS team explored possible solutions
 and eventually developed a small-scale, Java-based proof-of-concept.
 
-Meanwhile, in other areas of NIARL, another question was being asked within
-the Authentication team, ?how can commercial smart card technologies be leveraged to
-provide assured identity for access to sensitive systems?? Over the years, smart cards (and
+(U//FOUO) Meanwhile, in other areas of NIARL, another question was being asked within
+the Authentication team, “how can commercial smart card technologies be leveraged to
+provide assured identity for access to sensitive systems?” Over the years, smart cards (and
 smart card chipsets) rapidly progressed from their origins storing monetary value for
 European pay phones, to then becoming unique identifiers for mobile phones, and ultimately
-finding use as personal identification (and even user authentication for unclassified
-systems). As the technology evolved, 1A research explored approaches to leverage these
-technologies toward our goals. But that sparked other questions, such as ?what do we do
-about software from unknown or risky sources??
+finding use as personal identification (and even DoD user authentication for unclassified
+systems). As the technology evolved, IA research explored approaches to leverage these
+technologies toward our goals. But that sparked other questions, such as “what do we do
+about software from unknown or risky sources?”
 
-The moment came from a convergence of these two problem sets
+(U//FOUO) The “a-ha!” moment came from a convergence of these two problem sets
 courtesy of the Java Card standard for smart cards. Could Formal Methods lead to a proven
 Java-based operating system and provide assurance for commercially-based smart cards? In
 partnership with HCSS, Research Integration took the Formal Methods proof-of-concept
 approach and applied it to the real-world smart card problem. The lofty goal? Assured (and
 unclassified) multi-domain tokens for community identity and authentication.
 
-The resulting Tokens Assurance Software research within Research Integration
+(U//FOUO) The resulting Tokens Assurance Software research within Research Integration
 just completed the prototype of a functional and mathematically proven Java Card operating
 system. In addition, these software assurance techniques were expanded to develop tools to
 create assured applets to run on the cards. We will also soon complete some advanced
 hardware prototypes featuring physical protection concepts which will further demonstrate the
-?integrated? potential for how to provide strong authentication for access to critical systems.
+“integrated” potential for how to provide strong authentication for access to critical systems.
 
-To extend the concept, Research Integration will leverage additional NIARL
-exploration into yet another pressing 1A research question, ?how can virtualization
-technologies provide the foundation for future trusted computing platforms?? In partnership
+(U//FOUO) To extend the concept, Research Integration will leverage additional NIARL
+exploration into yet another pressing IA research question, “how can virtualization
+technologies provide the foundation for future trusted computing platforms?” In partnership
 with fellow Focus Areas, Research Integration is prototyping early versions of these
 approaches to investigate how they could enable assured information sharing, authentication
 and access control, as well as mobility for users. In this way, the initial breakthroughs of
 software assurance, secure tokens, and platform trust could start to create answers to real
-operational questions, such as ?How can we transform the way user identity is protected to
-enable cross-community collaboration??
+operational questions, such as “How can we transform the way user identity is protected to
+enable cross-community collaboration?”
 
-TOP TO USA, AUS, CAN, CBR, 
+7
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-So while ?passion? for 1A discovery is not unique to Research Integration, our
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+(U//FOUO) So while “passion” for IA discovery is not unique to Research Integration, our
 objective is to put these advanced technologies into a form that highlights their potential to
 address significant assurance questions. No matter the origin, the potential technology
-solutions that emerge from 1A research are designed for significant breakthrough. However, a
+solutions that emerge from IA research are designed for significant breakthrough. However, a
 particular innovation, in and of itself, provides limited benefit unless it can advance the
 science, solve a problem, and ultimately reach customers. The aim of the R223 Research
 Integration team is to reach those customers and showcase the potential for NIARL research
 to become a decisive advantage against network adversaries. Please contact us if you would
 like to learn more about our research efforts and see our latest creations.
 
-(U/mouo) Poe: ?chief R223, 
+(U//FOUO) POC:
+
+Chief R223,
 
 (U) R222 Photonic Logic Program Review at Sandia National
 Laboratories
 
-From 19?21 August 2008?and _of R22, and 
+(U//FQUQ) From 19-21 August 2Q08,^^^^Band^^^^^Mof R22, and
 
-all of R222, attended an annual
+all
+
 review at Sandia National Laboratories to assess progress and provide direction to Sandia on
-two multi?year photonic logic projects aimed at performing all?optical Boolean logic at
-100Gbps clock cycles or faster.
+two multi-year photonic logic R&D projects aimed at performing all-optical Boolean logic at
+lOOGbps clock cycles or faster.
 
-The first photonic logic technology is based on a Photodiode Electro?Absorption
-Modulator Recent accomplishments include the design and fabrication of an
-optical AND gate, prediction via detailed models of switching speeds,
-demonstration of a proof of concept multi?element AND gate at frequencies, and
-demonstration of low contrast, optical modulation of a pair. A near?term
-challenge is the demonstration of an optical logic gate operating at switching.
+(U//FOUO) The first photonic logic technology is based on a Photodiode Electro-Absorption
+Modulator (PD-EAM). Recent accomplishments include the design and fabrication of an
+optical AND gate, prediction via detailed models of >100GHz switching speeds,
+demonstration of a proof of concept multi-element AND gate at MHz frequencies, and
+demonstration of low contrast, >20GHz optical modulation of a PD-EAM pair. A near-term
+challenge is the demonstration of an optical logic gate operating at 10+GHz switching.
 
-The second effort is the Extremely Shallow Quantum Well Symmetric Self
-Electro?Optic Effect Device (E or SEED). Sandia has successfully fabricated
+(U//FOUO) The second effort is the Extremely Shallow Quantum Well Symmetric Self
+Electro-Optic Effect Device (ESQW-S-SEED, or SEED). Sandia has successfully fabricated
 and tested a SEED interconnect, fabricated by diamond turning a moldable plastic. This
-interconnect, with anti?reflection coatings, is predicted to attain close to 95% throughput. A
+interconnect, with anti-reflection coatings, is predicted to attain close to 95% throughput. A
 40Gb/s SEED toggle was also reported, but not yet cascaded. A physical model for SEED
 switching was devised and initial results suggest that the optical power for reliable cascade
-may be 2?5x higher than anticipated.
+may be 2-5x higher than anticipated,
 
-The critical milestone (2Q FY10) for these technologies is the successful
-demonstration of a 3?bit 40Gb/s Linear Feedback Shift Register (LFSR) research prototype.
-This demonstration of Small?Scale Integration (SS1) should provide sufficient data to enable
+(U//FOUO) The critical milestone (2Q FY10) for these technologies is the successful
+demonstration of a 3-bit 40Gb/s Linear Feedback Shift Register (LFSR) research prototype.
+This demonstration of Small-Scale Integration (SSI) should provide sufficient data to enable
 an assessment of the scalability and ultimate clock rate of the technologies. The majority of
 this work is performed in Sandia's Microsystems and Engineering Science Applications
 (MESA) facility, expected to gain certification soon by the Trusted Access Program Office
 (TAPO).
 
-TOP TO USA, AUS, CAN, CBR, 
+8
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-POC: R222, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-(UIIFOUO) Sandia Trip Highlights R225?s Anti-Tamper Research Progress
+(U//FOUO) POC:
 
-Use of commercial components in a high assurance solution for national security
+(U//FOUO) SandiaTrip Highlights R225’s Anti-Tamper Research Progress
+
+(S//REL) Use of commercial components in a high assurance solution for national security
 applications will require physical protection mechanisms. In the past, with government built
-solutions, anti?tamper was part of the design and manufacture process. Today, use of COTS
-will require the government to apply these protections after production. R225?s Intelligent
-Reaction Anti?Tamper (AT) research program showcased the ability to provide these physical
+solutions, anti-tamper was part of the design and manufacture process. Today, use of COTS
+will require the government to apply these protections after production. R225’s Intelligent
+Reaction Anti-Tamper (AT) research program showcased the ability to provide these physical
 protection mechanisms at a recent program review at Sandia National Laboratories.
 
-Several key technologies were demonstrated:
-- Multi?layer conformal AT on printed circuit boards with integrated control logic;
-- iPhones with hard aftermarket device encapsulation; and
-0 Chip packages retrofitted with active anti?tamper capability, including internal power.
+(S//REL) Several key technologies were demonstrated:
 
-Remaining FY08 research into conformal AT technology will support R223?s
-secure token effort. Starting in FY09, 1823 will assume full responsibility for further
-development of this AT technology as a part of R225?s partnerships forged to realize a full
+•	Multi-layer conformal AT on printed circuit boards with integrated control logic;
+
+•	iPhones with hard aftermarket device encapsulation; and
+
+•	Chip packages retrofitted with active anti-tamper capability, including internal power,
+
+(S//REL) Remaining FY08 research into conformal AT technology will support R223’s
+secure token effort. Starting in FY09,1823 will assume full responsibility for further
+development of this AT technology as a part of R225’s partnerships forged to realize a full
 life cycle: from research through implementation. R225 and 1823 are working together to
 advance the aftermarket device encapsulation technology to the same level of technical
-readiness, with NUCLEARWINTER team as a potential initial customer. R225 will
+readiness, with SID’s NUCLEARWINTER team as a potential initial customer. R225 will
 continue research on the modified chip packaging technology in FY09, and will work with
-IAD to identify potential end?users.
+IAD to identify potential end-users.
 
-2 ?111 
-POC R225
+(U//FOUO) POC:
 
-(UIIFOUO) R225IDepartment of Energy Engagement Yields Idaho
+I and |
+
+R225,
+
+(U//FOUO) R225/Department of Energy Engagement Yields Idaho
 National Labs Research
 
-Researchers from Idaho National Labs (1NL) visited NSA on 26 August 2008 to
-demonstrate 1NL progress on research into secure erasure for commercial memory modules.
-1NL is moving towards a method of retrofit zeroization capability for dynamic
+(S//REL) Researchers from Idaho National Labs (INL) visited NSA on 26 August 2008 to
+demonstrate INL progress on research into secure erasure for commercial memory modules.
+INL is moving towards a method of retrofit zeroization capability for synchronous dynamic
 random access memory (SDRAM) in commercial desktops, with an initial prototype expected
-by the end of FY08. This work is similar to R225?s Adaptive Zeroization research, but trades
-greatly reduced applicability and scope for lower risk. Personnel from R225, 
-Microelectronics Anti?Tamper Solutions Branch (18231), and Engines,
+by the end of FY08. This work is similar to R225’s Adaptive Zeroization research, but trades
+greatly reduced applicability and scope for lower risk. Personnel from R225, IAD’s
+Microelectronics Anti-Tamper Solutions Branch (18231), and IAD’s Cryptographic Engines,
 Modules, and Tokens Division (1853) participated in the discussion. This research was
-sponsored by R225, and funded by the Department of Energy?s 2008 Applied Technologies
+sponsored by R225, and funded by the Department of Energy’s 2008 Applied Technologies
 Program. R225 is beginning discussions with its IAD partners to determine the best way to
-move forward with integrating work into future anti?tamper mission.
+move forward with integrating INL’s work into NSA’s future anti-tamper mission.
 
-POC: 
+(U//FOUO) POC:
 
-TOP TO USA, AUS, CAN, CBR, 
+R225,|
 
-TOP TO USA, AUS, CAN, GBR, 
+9
 
-(UIIFOUO) CLARIFYMIND Wireless Pilot Technical Exchange with
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+(U//FOUO) CLARIFYMIND Wireless Pilot Technical Exchange with
 Canadian Representative
 
-and-of the R224
-CLARIFYMIND Wireless Pilot Team met with of Canadian Security
+(U//FOUO) I
+CLARIFYMIND Wireless Pilot Team met with!
+
+andl
+
+of the R224
+
+of Canadian Security
 
 Establishment Canada (CSEC) who is currently assigned to the Canadian Liaison Office at
-NSA. The meeting was a follow up to May 2008 CLARIFYMIND presentation
-to the 5 Eyes Information Assurance Research Conference at NSA. _described the new
-CSEC building under construction, the need for wireless communications in the facility, and
-the CSEC efforts underway to consider various wireless solutions. The R224 team briefed
 
-on the CLARIFYMIND wireless pilot, current research efforts, and planned future
-activities-was very interested in considering CLARIFYMIND as a potential pilot
+NS A. The meeting was a follow up to
+
+May 2008 CLARIFYMIND presentation
+
+to the 5 Eyes Information Assurance Research Conference at NSA. described the new
+CSEC building under construction, the need for wireless communications in the facility, and
+theCSEC efforts underway to consider various wireless solutions. The R224 team briefed
+^^|on the CLARIFYMIND wireless pilot, current research efforts, and planned future
+activities.^^^was very interested in considering CLARIFYMIND as a potential pilot
 application. He plans to share the CLARIFYMIND potential pilot partner information with
-CSEC decision?makers and then schedule a follow?up technical exchange with the R224
+CSEC decision-makers and then schedule a follow-up technical exchange with the R224
 Team.
 
-R224, 
+(U//FOUO) POC:
 
-(UIIFOUO) R22 Continues Collaboration with NSA CTOITS via Secure
+R224,
+
+(U//FOUO) R22 Continues Collaboration with NSA CTO/TS via Secure
 Tokens Talk
 
-The Information Assurance Engineering Research Office (R22) is continuing a
-collaboration initiative with the Chief Information Security Officer (CISO) and
-Chief Information Officer (CIO) Staff (TS) through an exchange of ideas via TS?sponsored
-technical talks. R22?s objective is to assist TS with improving the security of critical IT
+(U//FOUO) The Information Assurance Engineering Research Office (R22) is continuing a
+collaboration initiative with the NSA/CTO Chief Information Security Officer (CISO) and
+Chief Information Officer (CIO) Staff (TS) through an exchange of ideas via TS-sponsored
+technical talks. R22’s objective is to assist TS with improving the security of critical IT
 systems as well as obtaining feedback and information on emerging hard problems to consider
 for future research. In addition, the regular exchange with TS helps connect R22 researchers
 to a potential new base of customers and partners.
@@ -498,90 +517,85 @@ and productization challenges. While there were different implementation issues 
 variety of customer sets, the common end vision is an assured identity token in a smartcard
 format. The R223 token research program is in line with this vision and all capabilities will
 be compatible and can be transferred onto a smartcard format. Both DOD and IC customer
-needs are addressed as a part of the R223?led research strategy.
+needs are addressed as a part of the R223-led research strategy.
 
-22,?
+22,
 
 10
 
-POC:
+(U//FOUO)
 
- 
- 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, CBR, 
-
-TOP TO USA, AUS, CAN, GBR, 
-
-
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
 (U) Defense Computing Bytes:
 
-For general information on R23 Defense Com
-capabilities and current efforts
-
- 
- 
- 
+(U//FOUO) For general information on R23 Defense Comj
+capabilities and current efforts, please visit the R2 web sitel
+use the R23 homepage
 
 (U) R23 Supports Graduate Math Program Large Graph Research
 
-For 12 weeks over the summer of 2008 the Graduate Math Program 
+(U//FOUO) For 12 weeks over the summer of 2008 the Graduate Math Program (GMP)1
 participants wrestled, wrangled, quantified and processed more than 200GB of network traffic
-metadata generated by R23?s FLOWBEE project. FLOWBEE is a spin-off of the POPQUIZ
+metadata generated by R23’s FLOWBEE project. FLOWBEE is a spin-off of the POPQUIZ
 project, which collects network metadata on high bandwidth protocols such as HTTP, SMTP,
 and DNS. FLOWBEE uses novel techniques to efficiently recognize and discard duplicate
 relations, significantly reducing the volume of saved data. This data reduction, in
 combination with the highly efficient POPQUIZ2 processing framework, allows FLOWBEE
 to collect metadata for every session on high-speed links.
 
-This rich and varied dataset provided fertile ground for their explorations in large
+(U//FOUO) This rich and varied dataset provided fertile ground for their explorations in large
 graph analysis and characterization. Led by Technical Directors from R1 and R6, participants
 focused on finding malicious activity in the data, modeling graphs produced by the
 FLOWBEE data, and investigating high-performance computing architectures to determine
 their applicability to processing FLOWBEE data and related large graph problems.
 
-As the problem supporters for GMP, R23?s D10 team provided data, loaded and
-indexed the data in a database, and installed the FLOWBEE Surf web interface in the
-lab. R23 also provided training and consulting on the FLOWBEE data and associated
+(U//FOUO) As the problem supporters for GMP, R23’s DIO team provided data, loaded and
+indexed the data in a MySQL database, and installed the FLOWBEE Surf web interface in the
+GMP’s lab. R23 also provided training and consulting on the FLOWBEE data and associated
 processing tools, presented findings from prior research, and participated in workshop and
 brainstorming sessions during the course of the summer. On 31 July 2008, the GMP and R2
-D10 team members presented their findings to DIRNSA and 
+DIO team members presented their findings to DIRNSA and D/DIRNSA.
 
-This summer?s GMP work resulted in numerous improved capabilities that have
+(U//FOUO) This summer’s GMP work resulted in numerous improved capabilities that have
 been incorporated into existing R23 technology. The big wins from this activity were:
-I A new algorithm for detecting web spam, which found confirmed new malicious hosts
-0 An improved BadRank algorithm for rating the badness of a host based on its
+
+•	A new algorithm for detecting web spam, which found confirmed new malicious hosts
+
+•	An improved BadRank algorithm for rating the badness of a host based on its
 connections
 
- 
-
-GMP is a competitive 12-week summer program run by R1. It provides an opportunity for
+1	(U//FOUO) GMP is a competitive 12-week summer program run by Rl. It provides an opportunity for
 exceptional mathematics graduate students to work directly with NSA mathematicians on mission-critical
 problems and experience the excitement of the NSA mathematics community.
 
-2 See July 2008 EDGE Newsletter for additional information on POPQUIZ.
+2	(U//FOUO) See July 2008 EDGE Newsletter for additional information on POPQUIZ.
+
 11
 
-TOP TO USA, AUS, CAN, CBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-- An improved random forest classifier to detect malicious hosts, which found
+•	An improved random forest classifier to detect malicious hosts, which found
 confirmed new malicious hosts
 
-0 An implementation of BadRank for the Gray XMT
+•	An implementation of BadRank for the Cray XMT
 
-- A Hadoop MapReduce implementation of PageRank
+•	A Hadoop MapReduce implementation of PageRank
 
-- New insights into the weaknesses, and scalability of the KronFit graph
+•	New insights into the strengths, weaknesses, and scalability of the KronFit graph
 generation algorithm, including new proofs of several properties
 
-(U) OpenSolarislTM) FMAC: Bringing the Flask Mandatory Access
+(U//FOUO) POC:^^^|R23,
+
+(U) OpenSolaris{TM) FMAC: Bringing the Flask Mandatory Access
 Controls Architecture to OpenSolaris
 
-(U) Flexible Mandatory Access Control (FMAC) for OpenSolarisUM] is a joint NSA and Sun
-Microsystems Inc. project to add the Flask architecture to the OpenSolaris operating system.
+(U) Flexible Mandatory Access Control (FMAC) for OpenSolaris'™^ is a joint NSA and Sun
+Microsystems Inc, project to add the Flask architecture to the OpenSolaris operating system.
 The Flask architecture provides flexible support for a wide range of security policies, enabling
 integration of different policy engines and the configuration of the security policy to meet the
 specific security goals for a variety of computing environments. The flexible mandatory
@@ -594,7 +608,8 @@ systems (PostgreSQL).
 
 (U) The initial FMAC code base was contributed by the NSA to OpenSolaris based on a
 version of the Flask code that predated any involvement by the Linux community. This code
-was then integrated into the OpenSolaris code and adapted by_ a Sun engineer
+was then integrated into the OpenSolaris code and adapted	a Sun engineer
+
 who is the co-lead of the FMAC project. This code was first released publicly on the FMAC
 project web site in May 2008. When built, it produced a policy compiler and a kernel capable
 of loading the resulting policy into the security server.
@@ -609,28 +624,28 @@ domain transitions and permission checks on process and file operations. This wi
 base capability that can be used both to demonstrate the benefits of Flask and to further
 develop the remaining support for object labeling and mandatory controls.
 
-Poe:?
+(U//FOUO) POC:
 
 12
 
-TOP TO USA, AUS, CAN, CBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-(UIIFOUO) R23 Contributes Behavioral Anomaly Detection to IDAICCS
+(U//FOUO) R23 Contributes Behavioral Anomaly Detection to IDA/CCS
 DISTILLERY SCAMP
 
-The 2008 Summer Conference on Applied Mathematical Problems (SCAMP)
-was hosted this summer in Bowie, MD at the This SCAMP focused on a specific
-category of attacks and intrusions targeted against US. critical national infrastructure.
-Commonly known in the community as the BYZANTINE HADES (BH) attacks, these
-intrusions are believed to originate from the People?s Republic of China. The main goals of
+(TS//SI//REL) The 2008 Summer Conference on Applied Mathematical Problems (SCAMP)
+was hosted this summer in Bowie, MD at the IDA/CCS. This SCAMP focused on a specific
+category of attacks and intrusions targeted against U.S. critical national infrastructure.
+Commonly known in the DoD community as the BYZANTINE HADES (BH) attacks, these
+intrusions are believed to originate from the People’s Republic of China. The main goals of
 the SCAMP were to define and implement novel behavioral-based techniques that could
-better detect and respond to the wide array of BH attacks. R23?s POPQUIZ framework
+better detect and respond to the wide array of BH attacks. R23’s POPQUIZ framework
 provided the analytical applications to identify behavioral anomalies while DISTILLERY
 provided the stream-based platform from which to execute these applications.
 
-A key factor to the success of the SCAMP was the availability of the SPADE
+(U//FOUO) A key factor to the success of the SCAMP was the availability of the SPADE
 programming language. Developed by IBM, SPADE enables the rapid development and
 prototyping of distributed stream-processing applications. Utilizing this language requires
 little programming expertise, as applications are described using high-level stream-centric
@@ -640,101 +655,105 @@ DISTILLERY applications, were able to quickly compose unique and complex applica
 By not having to expend time learning a new low-level API, participants were able to focus
 their efforts on defining and implementing new detection techniques and methodologies.
 
-(wt/Pom) 1300? R23, 
+(U//FOUO) POC:
 
-(UIIFOUO) HAIRBALL Deploys GraphViz for POPEYESEAR: Visualization
+(U//FOUO) HAIRBALL Deploys GraphViz for POPEYESEAR: Visualization
 Techniques for Computer Network Defense
 
-On 12 August 2008 the R23 HAIRBALL project deployed its GraphViz v1.0
+(U//FOUO) On 12 August 2008 the R23 HAIRBALL project deployed its GraphViz vl.O
 visualization tool to the NTOC floor as an addition to the POPEYESEAR interface.
+
 Following the deployment of TreeViz in Nov 2007, GraphViz is the second visualization tool
 deployed for operational use. The achievement reflects the ongoing research investment in
 new visualization techniques uniquely designed to support exploration and analysis of
 Computer Network Defense (CND) data.
 
-GraphViz displays relationships from POPEYESEAR data as an interactive graph
-with dynamic, analyst-directed navigation. The dynamic navigation empowers to
+(U//FOUO) GraphViz displays relationships from POPEYESEAR data as an interactive graph
+with dynamic, analyst-directed navigation. The dynamic navigation empowers analysts to
 locate subsets of the large POPEYESEAR database that are most relevant to their analysis.
-The graph-based display enables to more easily perceive the connections existing in
+The graph-based display enables analysts to more easily perceive the connections existing in
 the data.
 
-GraphViz has been built with an towards usability and rapid response. The
+(U//FOUO) GraphViz has been built with an eye towards usability and rapid response. The
 interface provides Google-like search syntax and intuitive point-and-click control. Under the
 hood, the use of data preprocessing and indexing enables GraphViz to return results with
 
 13
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
 minimal wait time for the analyst. GraphViz is a Java application and uses Renoir as its
+
 graphing engine. As an added component of the POPEYESEAR interface, GraphViz is
-accessible to all NTOC operational via the network.
+accessible to all NTOC operational analysts via the GROUPDIVE/BLUESASH network.
 
-Poo?R23?
-
-Personnel News
-
-Visiting Researchers in R21:
-
-0 Recent arrivals in R21 include?of the 
-Mathematician Program, who will be conducting research in Elliptic Curves, an
-of the Applied Mathematics Program, who will be conducting research in
-Quantum Computing. In addition, _Topielec of the 
 Development Program will be arriving soon to begin conducting research in
-Hash Functions.
+Cryptographic Hash Functions.
 
-0 At any given time, R21 typically hosts between 5 and 10 visiting
+• (U//FOUO) At any given time, R21 typically hosts between 5 and 10 visiting
 researchers, mostly participants in the various math development programs at the
 Agency. These 6 to 9 month tours are a staple of the development program experience,
-and are coordinated through the R21 ?intern czar?_ Persons interested in
-learning more about tour opportunities in R21 should contact-directly to get an
-overview of the office and to learn about currently available projects. (POC: 
-
-
-
-Hail to R22 Newcomers:
-
-- SNIP (System and Network Interdisciplinary Program)-
+and are coordinated through the R21 "intern czar"^^^^^^^^| Persons interested in
+learning more about tour opportunities in R21 should contact^^^lirectly to get an
+overview of the office and to learn about currently available projects. (POC:
 
 of 2011, will join R224: Secure Wireless Multimedia Focus Area, for a tour, starting
-Sept 15. Justin will be working on specifically looking at
+Sept 15. Justin will be working on CLARIFYMIND-TS, specifically looking at
 available entropy sources, plus how to gather and provide them to the Random
-Number Generator within the architecture. R21?s draft paper entitled A
+Number Generator within the CM-TS architecture. R21’s draft paper entitled A
 Preliminary Architecture for a Software Randomizer for CM-TS will provide the
+for^^Hwork.
 
-basis for-work 
+•	(U//FOUO)^^^^^^^Brecently joined R222 as a Lead Researcher after completing
 
-recently joined R222 as a Lead Researcher after completing
-a PCS at GCHQ. A mathematician from the GMP class of 2000,-brings a wide
+a PCS at GCHQ. A mathematician from the CMP class of 2000,^Ht>rings a wide
 variety of relevant hardware and software experience across a range of projects,
 encompassing Field Programmable Gate Array (FPGA) design, error correcting codes,
-high speed techniques and protocols to name a few. Throughout his
-career, .has won high regard as a leader and a mentor. -is a member of the
+high speed synchronization techniques and protocols to name a few. Throughout his
+career, has won high regard as a leader and a mentor. ^|is a member of the
 High Speed Electronics team, where his initial focus will be on emerging
+(POC:
 
-technologie- 
+(U//FOUO) Visiting Researchers in R23:
 
-Visiting Researchers in R23:
+(U//FOUO) POC:
+
+R23
+
+(U//FOUO) Personnel News
+
+(U//FOUO) Visiting Researchers in R21:
+
+• (U//FOUO) Recent arrivals in R21 include of the Cryptologic
+
+Mathematician Program, who will be conducting research in Elliptic Curves, ani
+
+¡¡¡¡¡¡¡¡jof the Applied Mathematics Program, who will be conducting research in
+Quantum Computing. In addition, Topielec of the Cryptanalysis
+
+R213,
+
+(U//FOUO) Hail to R22 Newcomers:
+
+• (U//FOUO
+
+SNIP (System and Network Interdisciplinary Program’
+
 14
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-TOP TO USA, AUS, CAN, GBR, 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
 
-  
- 
+(U//FOUO)^^^^^^^^|an 1DA/CCS Contractor and^^^^^^bod^MP interns
+will be joining the DIO team, beginning 2 September	will be
 
-Contractor an both SNIP interns
-will be joining the D10 team, beginning 2 September 2008. will be
 focused on developing new characterizations and methods for POPQUIZ. Both were
 recently part of the DISTILLERY SCAMP and plan on a 6 to 9 month tour to learn
-
-and to contribute to the D10 mission. (POC: 
--)
-
-TOP TO USA, AUS, CAN, GBR, 
+and to contribute to the DIO mission. (POC:
 
 15
 
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108

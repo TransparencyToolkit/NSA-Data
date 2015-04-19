@@ -1,1304 +1,780 @@
-VALIANTSURF - WikiInfO
+﻿VALIANTSURF - Wikiinfo
 
-The accredited security level of this system is: TOP SEC RETHSI-GAMMAJTALENT KEYHO LEHO RC ONIPROPINIRELIDOIREL TO USA, FVEY 
-TOP SECRETHSIHORCONIREL TO USA, FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
+
+TOP SECRET1/SI/10RCON1REL TO USA, FVEY
 
 (U) VALIANTSURF
 
-From WikiInfo
+From Wikiinfo
 
-(TSHSIHREL) VALIANTSURF is the coverterm for the development of Data Network Cipher (DNC)
+(TS//SI//REL) VALIANTSURF is the coverterm for the development of Data Network Cipher (DNC)
 exploitation capabilities in TURMOIL for integration into the TURBULENCE DNC thread. VALIANTSURF is
 the preferred reference for all TURBULENCE DNC exploitation capabilities since the fact that NSA does
-work with DNC's is classi?ed The TURBULENCE DNC capability exploits communications
-with DNC Internet Protocols.
+work with DNC's is classified "S//REL". The TURBULENCE DNC capability exploits communications
+encrypted with DNC Internet Protocols.
 
 Contents
 
-I 1 (U) Data Network Cipher (DNC) Classi?cation
-I 1.1 (U) Of?cial CES Classi?cation Guide
-I 1.2 (U) Guidelines
-I 2 (U) DNC Protocols
-I 2.1 (U) IPsec
-I 2.2 (U) PPTP
-I 2.3 (U) HOOKED
-I 2.4 (U) CINDER
-I 2.5 (U) DNSC
-I 3 (U) TU DNC Products
-I 3.1 (SHSIHREL) DNC Products
-I 3.1.1 (U) Spin History
-I 3.1.2 (SHSIHREL) DNC Metadata Flow
-I 3.1.3 (TSHSIHORCONHREL) DNC Flow
-I 3.1.4 (TSHSIHREL) DNC Survey Flow
-I 3.1.5 (SHSIHREL) DNC Analyze Flow
-I 4 (U) Requirements, Planning, and Reviews
-I 5 (U) Design Details
-I 5.1 (SHSIHREL) Architectural Taxonomy
-5.2 (UHFOUO) Current DNC Design Documents
-5.3 (U) Design Reviews and Technical Exchanges
-5.4 (U) Technical Documents
-5.5 (U) DNC Enterprise Messaging Fabric
-5.6 (SHSIHREL) DNC IKE SMG (Replaced Ike Analytic)
-I 5.7 (SHSIHREL) DNC IKE Analytic
-I 6 (U) CIET Tasking
-I 7 (U) Test
-7.1 (SHSIHREL) DNC Metadata
-7.2 (TSHSIHREL) DNC 
-7.3 (UHFOUO) LONGHAUL Test
-7.4 (UHFOUO) One CA Server Toggled among Multiple TURMOILs
-I 7.4.1 For more information, Contact one of these POCs
-I 8 (U) Deployments
-I 8.1 (UHFOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
-I 8.2 (UHFOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
-I 8.3 (UHFOUO) Live Data?ow
-I 8.4 (UHFOUO) TURMOIL Installations
-I 8.5 (UHFOUO) Metadata Routing
-I 8.6 (UHFOUO) Metadata Routing FALLOUT to TOYGRIPPE
-I 8.7 (SHSIHREL) VAO STATUS
-I 8.8 (UHFOUO) Deployments and Development systems
-I 8.9 (UHFOUO) CIET Deployments
-I 8.10 (UHFOUO) Monitoring
-I 9 (U) Governance
-I 9.1 (U) DNC Thread Schedules
-I 9.2 (U) VALIANTSURF Thread Status Weekly Meetings 2012
-I 9.2.1 (UHFOUO) VALIANTSURF Activity Leads Status Review
-I 9.3 (U) Team Members
-I 9.4 (U) Stakeholders
-I 10 (U) VALIANTSURF Historical 
-I 10.1 (UHFOUO) Deployment Documents
-I 10.2 (U) Design Reviews and Technical Exchanges
-I 10.3 (UHFOUO) VALIANTSURF Activity Leads Status Review
-I 10.4 (U) VPN Thread Schedules
-I 11 (U) Pages of Interest
+■	1 (U) Data Network Cipher (DNC) Classification
 
-(U) Data Network Cipher (DNC) Classi?cation
+■	1.1 (U) Official CES Classification Guide
 
- 
+■	1.2 (U) Guidelines
 
-10f13
+■	2 (U) DNC Protocols
 
-VALIANTSURF - WikiInfO
+■	2.1 (U) IPsec
 
-(U) Of?cial CES Classi?cation Guide
+■	2.2 (U) PPTP
 
-- (Unrouo) CPS 02?1 2 r?
-. (ITHFOUO) mum: FOR ECI PICARESQUE (PIQ) 02?10 
+■	2.3 (U) HOOKED
+
+■	2.4 (U) CINDER
+
+■	2.5 (U) DNSC
+
+■	3 (U) TU DNC Products
+
+■	3.1 (S//SI//REL) IPSec DNC Products
+
+■	3.1.1 (U) Spin History
+
+■	3.1.2 (S//SI//REL) DNC Metadata Flow
+
+■	3.1.3 (TS//SI//ORCON//REL) DNC Decryption Flow
+
+■	3.1.4 (TS//S1//REL) DNC Survey Flow
+
+■	3.1.5 (S//SI//REL) DNC Analyze Flow
+
+■	4 (U) Requirements, Planning, and Reviews
+
+■	5 (U) Design Details
+
+■	5.1 (S//SI//REL) Architectural Taxonomy
+
+■	5.2 (U//FOUO) Current DNC Design Documents
+
+■	5.3 (U) Design Reviews and Technical Exchanges
+
+■	5.4 (U) Technical Documents
+
+■	5.5 (U) DNC Enterprise Messaging Fabric
+
+■	5.6 (S//SI//REL) DNC IKE SMG (Replaced Ike Analytic)
+
+■	5.7 (S//SI//REL) DNC IKE Analytic
+
+■	6 (U) C1ET Tasking
+
+■	7 (U) Test
+
+■	7.1 (S//SI//REL) DNC Metadata
+
+■	7.2 (TS//SI//REL) DNC Decrypt
+
+■	7.3 (U//FOUO) LONGHAULTest
+
+■	7.4 (U//FOUO) One CA Server Toggled among Multiple TURMOILS
+
+■	7.4.1 For more information. Contact one of these POCs
+
+■	8 (U) Deployments
+
+■ 8.1 (U//FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
+
+■ 8.2 (U//FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
+
+■	8.3 (U//FOUO) Live Dataflow
+
+■	8.4 (U//FOUO) TURMOIL Installations
+
+■	8.5 (U//FOUO) IPsec/lKE Metadata Routing
+
+■	8.6 (U//FOUO) IPsec/ESP Metadata Routing FALLOUT to TOYGRIPPE
+
+■	8.7 (S//SI//REL) VAO STATUS
+
+■	8.8 (U//FOUO) Deployments and Development systems
+
+■	8.9 (U//FOUO) C1ET Deployments
+
+■	8.10 (U//FOUO) Monitoring
+
+■	9 (U) Governance
+
+■	9.1 (U) DNC Thread Schedules
+
+■	9.2 (U) VALIANTSURF Thread Status Weekly Meetings 2012
+
+■	9.2.1 (U//FOUO) VALIANTSURF Activity Leads Status Review
+
+■	9.3 (U) Team Members
+
+■	9.4 (U) Stakeholders
+
+■	10 (U) VALIANTSURF Historical -
+
+■	10.1 (U//FOUO) Deployment Documents
+
+■	10.2 (U) Design Reviews and Technical Exchanges
+
+■	10.3 (U//FOUO) VALIANTSURF Activity Leads Status Review
+
+■	10.4 (U) VPN Thread Schedules
+
+■	11 (U) Pages of Interest
+
+(U) Data Network Cipher (DNC) Classification
+
+1 of 13
+
+VALIANTSURF - Wikiinfo
+
+(U) Official CES Classification Guide
+
+■	(U//FOUO) CES CRYPTANAT YSTS 02-12
+
+■	im/FOUm CLASSIFICATION G1T1DF FOR ECI PICARESQUE (P1Q) 02-10 (I
 
 (U) Guidelines
 
-I (UHFOUO) The fact that NSA is interested in DNC is UHFOUO.
-I (SHREL) Just the fact that NSA does work with DNC is classi?ed.
-I (SHREL) If the only information given is that you are a DNC expert or you work on DNCs, then the classi?cation is
-SHREL
-I (TSHSIHORCONIREL) If the information given is that you DNCs, the classi?cation is, at a minimum TSHSI
-HORCONHREL
-I (TSHSIHORCONIREL) If the fact of DNC exploitation is mentioned or inferred (with or without mention of a speci?c
-target or person), the classi?cation is TSHSIHORCONHREL
-I (TSHSIHORCONIREL) The results are classi?ed, at a minimum, TSHSIHREL
+■	(U//FOUO) The fact that NSA is interested in DNC is U//FOUO.
 
-(TSHSIHORCONIREL) The classi?cations above are the minimum classi?cations. A higher classi?cation may be required
-depending on the rest of the content. For example, mentioning you work on DNCs is SECRETHREL but if you mention you work
-on DNCs and are in CES, the classi?cation should be TSHSIHORCONHREL since CES deals with exploitation.
+■	(S//REL) Just the fact that NSA does work with DNC is classified.
+
+■	(S//REL) If the only information given is that you are a DNC expert or you work on DNCs, then the classification is
+S//REL
+
+■	(TS//S1//ORCON/REL) If the information given is that you decrypt DNCs, the classification is, at a minimum TS//SI
+//ORCON//REL
+
+■	(TS//S1//ORCON/REL) If the fact of DNC exploitation is mentioned or inferred (with or without mention of a specific
+target or person), the classification is TS//SI//ORCON//REL
+
+■	(TS//S1//ORCON/REL) The decryption results are classified, at a minimum, TS//SI//REL
+
+(TS//SI//ORCON/REL) The classifications above are the minimum classifications. A higher classification may be required
+depending on the rest of the content. For example, mentioning you work on DNCs is SECRET//REL but if you mention you work
+on DNCs and are in CES, the classification should be TS//SI//ORCON//REL since CES deals with exploitation.
 
 (U) DNC Protocols
 
 (U) IPsec
 
-(U) The IPsec DNC protocol suite comprises the following protocols: 
-IPSEC
+(U) The IPsec DNC protocol suite comprises the following protocols:
 
-- (U) ISAKMP Internet Security Association and Key Management Protocol (RFC 240 7, RFC 2408) Operation-1139
-provides an authentication and key exchange framework. (U) 113590 DNC
-I (U) IKE Internet Key Exchange v1 (RFC 2409) and 4306) provide an authentication and Operatlon
+■	(U) ISAKMP - Internet Security Association and Key Management Protocol (RFC 2407, RFC 2408)
+provides an authentication and key exchange framework.
 
+■	(U) IKE - Internet Key Exchange vl(RFC 2409) and v2(RFC 4306) provide an authentication and
 key exchange mechanism.
 
-I (U) ESP Encapsulating Security Payload (RFC 2406) provides traf?c con?dentiality (via and optionally
+■	(U) ESP - Encapsulating Security Payload (RFC 2406) provides traffic confidentiality (via encryption)
 provides authentication and integrity protection.
 
-I (U) AH Authentication Header (RFC 2402) provides integrity and authentication protection the includes immutable IP
-header ?elds. This differs from ESP integrity protection that does not include the IP header.
+■	(U) AH - Authentication Header (RFC 2402) provides integrity and authentication protection the includes immutable IP
+header fields. This differs from ESP integrity protection that does not include the IP header.
 
 (U) PPTP
 
-(U) The Point?to?Point Tunneling Protocol (PPTP) was developed in 1996 by the PPTP Forum, comprised of Ascend
-Communications, US. Robotics, 3Com, Copper Mountain Networks, ECI Telematics, and lead by Microsoft.
+(U) The Point-to-Point Tunneling Protocol (PPTP) was developed in 1996 by the PPTP Forum, comprised of Ascend
+Communications, U.S. Robotics, 3Com, Copper Mountain Networks, ECI Telematics, and lead by Microsoft.
 
-(U) The Microsoft implementation of PPTP (RFC 2637) permits the data link layer protocol, Point?to?Point Protocol (see
-to be tunneled through an IP network, encapsulated within an enhancedfmodi?ed Generic Routing Encapsulation
-(GRE) transport protocol (IP Next Protocol 47). The contents of the data is normally IP network protocol packets for a
-private network, but can also carry any other Local Area Network (LAN) protocol, like Microsoft or Novell IPXISPX.
-(U) Microsoft PPTP permits the encapsulated data to be authenticated using either version 1 (RFC 2433) or
-version 2 (RFC 2759) of the Microsoft extensions to the Challenge Handshake Authentication Protocol (CHAP) (RFC 1994),
+(U) The Microsoft implementation of PPTP (RFC 2637) permits the data link layer protocol, Point-to-Point Protocol (PPP) (see
+STD-0051), to be tunneled through an IP network, encapsulated within an enhanced/modified Generic Routing Encapsulation
+(GRE) transport protocol (IP Next Protocol 4 7). The contents of the PPP data is normally IP network protocol packets for a
+private network, but can also carry any other Local Area Network (LAN) protocol, like Microsoft NetBEUI or Novell IPX/SPX.
 
-and to be using RC4 with key of 40, 56, or 128 bits (RFC 3078, RFC 3079). The mode of the is
-negotiated and key are exchanged using the Compression Control Protocol (CCP) (RFC 1962).
+(U) Microsoft PPTP (MS-PPTP) permits the encapsulated PPP data to be authenticated using either version 1 (RFC 2433) or
+version 2 (RFC 2759) of the Microsoft extensions to the PPP Challenge Handshake Authentication Protocol (CHAP) (RFC 1994),
+and to be encrypted using RC4 with key lengths of 40, 56, or 128 bits (RFC 3078, RFC 3079). The mode of the encryption is
+negotiated and key lengths are exchanged using the PPP Compression Control Protocol (CCP) (RFC 1962).
 
 (U) HOOKED
 
-(TSHSIHREL) HOOKED HAND is a DNC protocol used in a commercial DNC product.
+(TS//SI//REL) HOOKED HAND is a DNC protocol used in a commercial DNC product.
 
 (U) CINDER
 
-(TSHSIHREL) CINDERASHITRACK are ESP?like protocols that use non?RFC de?ned ?elds.
+(TS//SI//REL) CINDERASH/TRACK are ESP-like protocols that use non-RFC defined fields.
+
 (U) DNSC
 
-(TSHSIHREL) DNSC is 
+(TS//SI//REL) DNSC is ...
 
-SCARLETFEVER SS Brief
+SCARLETFEVER SSL Brief
 
 (U) TU DNC Products
 
-DNC Products
+(S//SI//REL) IPSec DNC Products
 
-(SHSIHREL) The TU DNC products are the outputs of four processing data ?ows:
+(S//SI//REL) The TU DNC products are the outputs of four processing data flows:
 
-I (SHSIHREL) The TU DNC Metadata ?ow collects metadata about IPsec (IKEIISAKMP and ESP) events then forwards the
-metadata to follow?on SIG INT Development (SIG DEV) systems.
-
-I (TSHSIHREL) The TU DNC ?ow detects IPsec communications, selects by IP?Address, the traf?c
-selected for and re?injects the encapsulated (cleartext) content into TURMOIL for processing.
-
-20f13
-
-VALIANTSURF - WikiInfo
-
-[Mr-mudVPN muons whacked lot anon-m
-. .
-(U) 51"? Hist?? meme: 
-trimming scan-(y Fat-mad Its-Pi I. (W
-(TSHSILIREL) Spin 9 efforts transitioned ?elded DNC software 3
-from the Red TURMOIL (TML) architecture to the Blue and Twaime
-
-implemented a redesign of the ?ow that reallocates
-
-some functionality between TURMOIL and the DNC Attack 1 
-Orchestrator (VAO). imam 
-
-(TSHSILIREL) Spin 10 efforts started development of a
-capability that can be deployed to SMK, improved
-
- 
-
-I (TSHSIHREL) The TU DNC Survey ?ow forwards to
-
- 
-
-XKEYSCORE all encapsulated (cleartext) sessions that are em, I
-selected by IP-Address for by the TU DNC 
-?ow that are also marked for SIGDEV. 9 
-
- 
-
-Solved nadir-11:06 satin-Is rot:va l-urn
-l? Sect-"Pr (Finis)ll o?b VPN ion-um gallium In! decry-Mon em memlm
-impairing swig P.1th (ESP) I I
-
-TIJRBULENCEI I VPN Ins-om a:de Inf dec?flun my
-
-I (SHSIHREL) The DNC Analyze ?ow selects by IP-Address
-IKEIISAKMP and ESP packets that are then sessionized
-and forwarded to PRESSUREWAVE for analysis.
-
- 
-
- 
-
- 
-
-Sun-ny-
-?tlmteml 5. My It NoTranslormDA
-Ar
-
-Trail-I711 I Alums 5 Sunny
-"natal-n I Analyze It frqu
-
- 
-
- 
-
- 
-
-TU VPN Products
-
-DNC detection and processing capabilities, and developed the
-DNC Analyze ?ow.
-
-(SHSIHREL) DNC Metadata Flow
-
-I (TSHSIHORCONHREL) The DNC Metadata Flow collects metadata about IKEIISAKMP and AHIESP events and forwards the
+■	(S//SI//REL) The TU DNC Metadata flow collects metadata about IPsec (IKE/ISAKMP and ESP) events then forwards the
 metadata to follow-on SIGINT Development (SIGDEV) systems.
 
-I (TSHSIHORCONHREL) All IKEIISAKMP packets seen in the incoming data are collected, bundled and then sessionized
+■	(TS//SI//REL) The TU DNC Decryption flow detects IPsec communications, selects by IP-Address, decrypts the traffic
+selected for decryption, and re-injects the encapsulated (cleartext) content into TUFIMOIL for processing.
+
+File: DNC IPSEC
+Operation.jpg
+(U) IPsec DNC
+Operation
+
+and optionally
+
+2 of 13
+
+VAL IANT S URF - Wikiinfo
+
+■	(TS//SI//REL) The TU DNC Survey flow forwards to
+XKEYSCORE all encapsulated (cleartext) sessions that are
+selected by IP-Address for decryption by the TU DNC
+Decryption flow that are also marked for SIGDEV.
+
+■	(S//SI//REL) The DNC Analyze flow selects by IP-Address
+IKE/1SAKMP and ESP packets that are then sessionized
+and forwarded to PRESSUREWAVE for analysis.
+
+(U) Spin History
+
+(TS//SI//REL) Spin 9 efforts transitioned fielded DNC software
+from the Red TURMOIL (TML) architecture to the Blue and
+implemented a redesign of the decryption flow that reallocates
+some functionality between TURMOIL and the DNC Attack
+Orchestrator (VAO).
+
+(TS//SI//REL) Spin 10 efforts started development of a
+decryption capability that can be deployed to SMK, improved
+DNC detection and processing capabilities, and developed the
+DNC Analyze flow.
+
+(S//SI//REL) DNC Metadata Flow
+
+■	(TS//SI//ORCON//REL) The DNC Metadata Flow collects metadata about IKE/ISAKMP and AH/ESP events and forwards the
+metadata to follow-on SIGINT Development (SIGDEV) systems.
+
+■	(TS//SI//ORCON//REL) All IKE/ISAKMP packets seen in the incoming data are collected, bundled and then sessionized
 within TURMOIL. Then the metadata is extracted, converted to ASDF and then sent to the ASDFReporter component within
 TURMOIL. The ASDFReporter gathers all ASDF generated within TURMOIL and sends the bundles to FALLOUT via TUBE.
-FALLOUT delivers the metadata records to the appropriate destinations. The IKE metadata all goes to TOYGRIPPE via
-MAILORDER. TOYGRIPPE is a DNC analytic database in CES used by the in conjunction with a vulnerability
+FALLOUT delivers the metadata records to the appropriate destinations. The IPSec IKE metadata all goes to TOYGRIPPE via
+MAILORDER. TOYGRIPPE is a DNC analytic database in CES used by the cryptanalysts in conjunction with a vulnerability
 database to determine exploitability.
 
-I (TSHSIHORCONHREL) Sampled AHIESP packets seen in the incoming data are collected, metadata is extracted per session,
-and the metadata is converted to ASDF and sent to the AS DFReporter within TURMOIL. The ASDF records follow the same
+■ (TS//SI//ORCON//REL) Sampled AH/ESP packets seen in the incoming data are collected, metadata is extracted per session,
+and the metadata is converted to ASDF and sent to the ASDFReporter within TURMOIL. The ASDF records follow the same
 paths as the IKE Metadata above.
 
- 
+S'
 
- 
+SECRET//COMINT//REL TO USA, FVEY
+Internet Key Exchange (IKE)/ Internet Security Association Key Management Protocol (ISAKMP)
 
- 
+VSIKE-M02
 
- 
+T. MAILORDER	|
 
- 
+C IPsec/lkE Metadata .
+F ASDF	1
 
- 
+_____t
 
- 
+_____ TUBE
 
- 
+VSHKE-M01
 
- 
+T Socket Connection
+C iPsecflKE Records
+F SOTF
 
- 
+^	T - Transport	|
 
- 
+—	C = Content
 
- 
+TURMOIL	F = Format	|
 
- 
+FALLOUT
 
- 
+V*4KE-MP3
 
- 
+T MAILORDER
+C: ip seen KE Metadata
+F ASDF
 
- 
+(TS//SI//ORCON//REL) VPN IKE Metadata Dataflow
 
- 
+Q
 
-SEC RETNCOMINTHREL TO USA. FVEY
-A Internet Key Exchange lntemet Security Associatlon Key Management Protocol 
+SECRET//COMINT//REL TO USA, FVEY
+^AuthenticatiorUteade^AH^^ncapsulat^
 
-1" Socket Connection 
-IPsecan Records 6:33:33"
-?mm, TU BE F3012 TURMOIL a: Format
-1. MAILORDER 
-Metadata I
-ASDF 1831161421
-LINLORDER
-c. Metadata -
+VS-ESP-MP1
 
-FALLOUT ?50: \H?i
-TOYGRIPPE
+T Socket Connection
+C IPsec (ESP Metadata Bundles
+F ASDF in SOTF
 
-VPN IKE Metadata Data?ow
-SECRETHCOMIN TIIREL TO USA, FVEY 
-Authentication Header (AH) I Encapsulating Security Payload (ESP) 
-m;
-Smkethr?ecuw
-IPsecIESPI'Aetadata Bundles Intertace Kg
-ASDF ll'l SOTF Tr rt
-wear-MD: TUBE - TURMOIL c: 0311:?
-nAltonoER Format
-0 I vs-esP-um
-ASDF MAILORDER
-Metadata -
+VS-E9P-MD2
 
-FALLOUT xvi
-TOYGRIPPE
+T MAILORDER
+C IPsec'ESP Metadata
+' ASOF
 
+___TUBE
 
- 
+I
+I
 
- 
+FALLOUT
 
- 
+VS-Æ5P.MJS
 
-VPN ESP Metadata Data?ow
+T: MAILORDER
+C. IPsecÆSP Metadata
+F: ASDF
 
-(TSHSIHORCONHREL) DNC Flow
+(TS//SI//ORCON//REL) VPN ESP Metadata Dataflow
 
-I (TSHSIHORCONHREL) The DNC Flow detects and selected communications that are using
-IPsec then reinjects the packets back into TURMOIL Stage 1. TURMOIL Stage 1 applications process the
-packets into sessions and when appropriate forwards the content to follow-on processing systems. The DNC
-eventing (PPF) components in TURMOIL detect all IKEIISAKMP and ESP packets and queries KEYCARD for each unique
+(TS//SI//ORCON//REL) DNC Decryption Flow
+
+■ (TS//SI//ORCON//REL) The DNC Decryption Flow detects and decrypts selected communications that are encrypted using
+IPsec then reinjects the unencrypted packets back into TURMOIL Stage 1. TURMOIL Stage 1 applications process the
+packets into sessions and when appropriate forwards the unencrypted content to follow-on processing systems. The DNC
+eventing (PPF) components in TURMOIL detect all IKE/ISAKMP and ESP packets and queries KEYCARD for each unique
 IKE exchange session and each unique ESP session to determine if the link should be selected for processing. Selection is
-based on IP address. is attempted if either the source or the destination IP address is targeted for in
-KEYCARD (the KEYCARD tasking action is labeled so as not to use the term If KEYCARD returns
+based on IP address. Decryption is attempted if either the source or the destination IP address is targeted for decryption in
+KEYCARD (the KEYCARD tasking action is labeled "TRANSFORM" so as not to use the term "decrypt"). If KEYCARD returns
 a hit for an IKE packet, then the IKE packet is sent to LONGHAUL where is is used to recover keys. If KEYCARD returns a
-hit for an ESP packet, a key request is sent to LONGHAUL. The IPsec Security Parameter Index (SPI) correlates IKE
+hit for an ESP packet, a key request is sent to LONGHAUL. The IPsec Security Parameter index (SP1) correlates IKE
 
-30f13
+3 of 13
 
-VALIANTSURF - WikiInfo
-
-
+VALIANTSURF - Wikiinfo
 
 sessions with ESP sessions. A LONGHAUL response message will either return the key or indicate that a key could not be
+recovered. If a key is recovered, the ESP packets are decrypted and re-injected into TURMOIL for further processing.
 
-recovered. If a key is recovered, the ESP packets are and re-injected into TURMOIL for further processing.
-
-I (TSHSIHORCONHREL) All DNC functions and communications with LONGHAUL, speci?cally POISONNUT, the
-
-Attack Orchestrator (and a DNC Metrics service via POISONNUT) are hosted on a specially con?gured and dedicated
-
+■ (TS//SI//ORCON//REL) All DNC Decryption functions and communications with LONGHAUL, specifically POISONNUT, the
+Attack Orchestrator (and a DNC Metrics service via POISONNUT) are hosted on a specially configured and dedicated
 TURMOIL processing host called a CA Server. All CA Service blade software is loaded and administered by CES approved
-and CA Services authorized administrators. The CA server is ?rewalled and effectively functions as an extension of the CES
+and CA Services authorized administrators. The CA server is firewalled and effectively functions as an extension of the CES
 enclave. In the future all communications between the CA Server and the CES services (LONGHAUL, DNC Metrics) will be
+a secure JMS messaging service based on the ISLANDTRANSPORT / 1SLANDHIDEAWAY infrastructure.
 
-a secure JMS messaging service based on the ISLANDTRANSPORT I ISLANDHIDEAWAY infrastructure.
+Q
 
-Internet Ke Excha IKE nternet Sec
-Authen
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-urtty Association
-?cation Header
+_Jnterne{J<a^xchangejM<E^Jrterne^Seçurt^AssoaaliofTj<0^
 
-
-socket come:
-
-
-Key Management Protocol (ISAKMP) 
-AH IEnca sulatl Secu?t Pa load SP 
-tIon
-mam
-
-
-Sui? 
-
-TOP SECRETNCOMINTHREL TO USA, FVEY
-
-SetottedepplmatmnSessm?
-I TUBE 
-
- 
-
-
-selected Applcaaon Sassoon:
-are uemrtieo and selected from
-the packets extracted
-from the VPN tunnel and Inserted
-IMO the TU RM OIL Input stream
-
- 
-
- 
-
- 
+TUBE
 
 VPNS
 
- 
+T socket conn«»on
+C Selected Application Sessions*
+. F SOTF
 
- 
+note
 
-MAILORDER
+' Selected Application Sessions
+are oenufied and selected from
+tlte decry pied packets extracted
+from the VPN tunnel and inserted
+into the TU RMOtL input stream
 
- 
+T MAILORDER
 
-$017
-I EXOPUMP I
-mmi ..
+C Selected Application Sessons*
 
+T F SOTF
 
-Selected Sessions'
-XMUSOTF
+EXOPUMP
 
- 
+VPM11______
 
+T ITx (JMS)
 
+C Selected Appt Sessions*
+F XMUSOTF
 
-Seated Sessorls'
+PRESSURE-
+__WAVE____.
 
+î
 
+Authenticatlor^eadenAH^^ncagsulatin^Securrt^a^lDac^ESP^
 
- 
+TURMOIL
 
- 
+VPN1
 
- 
+T Socket Connection
+C Selector H1 QueryfResponse
 
- 
+^ r Binary...................
 
- 
+~ VPNI8
 
- 
+T Secure socket (SSL)
 
- 
+C PIO Blade Management
 
- 
+KEYCARD
 
- 
+---------------►! DQC /CES
 
- 
+			
+		Q	
+PIQ	VPtW  T ITS (JMS)	2	ça
+Services	C ike Messages		
+	F IH(SOAP)		
+			W
+	T ITx (JMS)		UJ
+	C ESP Key Req/Res		
+	F IH(SOAP)	o	
 
- 
+(TS//SI//ORCON//REL) VPN Decryption Dataflow
 
- 
+(TS//SI//ORCON//REL) Simple VALIANTSURF Dataflow
 
- 
+4 of 13
 
- 
+VALIANTSURF - Wikiinfo
 
- 
+DEPRECATED
 
- 
+TOP SECRETtfCOMINTOREL TO USA, FVEV
 
- 
+(TS//SI//ORCON//REL) VPN Decryption Sequence
 
-   
+5 of 13
 
- 
+VALIANTSURF - Wikiinfo
 
- 
-
- 
-
- 
-
- 
-
- SEEM HI Ouarymesmnse
-  KEYCARD 
-=Con|ent
-Secure Socket (SSL) Format
-PIC: Blane 
-
-. - . Resources
-?in: Grid 1
-a Resource
-PIQ WM 5 - Manes Allocation
-I mints; .. Manager
-Sewlces IKE r-Iessaaes (GRAMq_T
-seq-Res .5 A .. CORA
-
- 2 5  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(TSHSIHORCONHREL) VPN Data?ow
-
- 
-
- 
-
-
-
- 
-
-TOP SECRETIICOMINTIIREL TO USA, FVEY
-
-   
-   
-  
-
-(TSHSIHORCONHREL) Simple VALIANTSURF Data?ow
-
-my?? TURMOIL
-on
-pm? Stage 1 Payload Deoomp
-
-DNC Packets
-
- 
-
-
-TUMULT DNC IP Address
-   
-DNCPocket?s 
--
-DNC VS?CAServer
-Stage 1 Sessions
-
-I
-DNC Key'Recovery
-
-
-
-i
-
-
-
-LON HAUL
-
-a. POISON NUT
-'5
-
-I
-Strong
-Selected 
-Sessms
-Metadata
-. Strong
-Selected DNI
-- SOSSIOHS
-DNC DNC
-Metadata. - FALLOUT -Metedata-
-o' (ASDF) (ASDF)
-VALIANTSURF Spin 22
-December 7. 2010
-
-Selected Packets Survey Sessons
-from DNC from DNC
-
-XKEYSCORE
-Stage 2 FE
-Selected Sessrons Survey 
-from DNC from DNC
-
-
-Stage 2 BE
-
-Strong SeIected
-Sessions
-
- 
-
- 
-
-40f13
-
-VALIANTSURF - WikiInfO
-
- 
-
- 
-
-Tunnel Tatgellng$
-0 DNC IPAoorees Selectors 
-. umwm Strong Selectors 3'3
-
-    
-      
- 
- 
-  
- 
- 
- 
-         
-
-DNC 'r DNC Ker LONGHAUL 
-Metadet Sebcled VOJP
-POISON NUT Sessions
-
-
-
-a
-
-Sessions
-
-
-   
-  
- 
-
-Undean Strong Selectors
-
-Undedymg Strong
-store
-
-    
-
-   
-
-CAT:
-CASH 5 DNC not
-WM
-
-
-
-
-I
-DAG
-Files with
-Shows Sum}
-DNISeaerans sewers
-
-
-DAG '1
-91:; ?ws DNI 865810!? 505m, TU RTLEPCI 
-
-Sessions IMP-R TP
-DNI Seaman: S?ssm
-mums) 
-
-DNI Seams
-
-December 13. 2010
-
-
-(mm, 
-
-VALIANTSURF Spin 22
-
-WDM 
-TURTLEPOWER Sessions 
-
-TOP SECRETHCOMINTHREL TO USA, FVEY
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-(TSHSIHORCONHRE L) Complex VALIANTSURF Data?ow
-DE PRECATE 
-TOP SECRETHCOMINTHREL TO USA. FVEY 
-Analyst  mo rues Pm 000 I
-I I
-i_lpmesst Atrial Target QueryTarget New . I i 
-TRANSFORM Sesston'lzelKE II-Session-.331,?? m9? owy?v? I I 6 Socket
-. - SP Response?? I
-TRANSFORM WLORDER
-I Scum-ISLANDHDEAWAY
--v I
-I Sesswn Esp Key i Secure Socket 
-Key Recovered recover encapsulated wickets Q?vpu Items (SOAPI I I
-ssxomze. I 
-ed I I owned recovered packets I I I
-we! I l?Ap'pIcaII'on Session I 
-pad? I 3 is Selected??suecled Applcatm Sesame??1' Seiected 59590"? selected 
-Application I
-ltd/I Bede . 
-A
-
- 
-
- 
-
-VPN Sequence
-
-50f13
-
-VALIANTSURF - WikiInfO
-
-TOP OMIN T0 FVEY
-
- 
-
- 
-
- 
-
- 
-
-Alta-In:
-0-. nee-Io mum urnurn-emu I I I I
-Month-Immw-muvma Imf . A 
-I I . 
-.?nIs-I ?um min?ptwp?q
- mu? qum?.
-I
-
-?1 Anna - mum 
-
-Am- n?ilm Il?f' ., Fem" 
-nun: 
-
-II mum-r I  
-vo?IG whims?pl .
-n, I F?xn? nun?p. 
-
-dd.?
-
-I Il??hiiF?b?" I
-
-I #4
-
-
-non?um-mumlg? - Eu.? ?In? .1 1 
-"hr-c? I - I .
-mum-was i 
-"MunchMum??- . InnHINDI-OM
-I u? omn?uu no no: - Iumv. mama-p" . mom
-mm *nm_ i -
-mono 
-
-ewm-mn 
-
-have
-
-I com-r I I
-
-- I llama?mop.?
-
-luamq Diurnxwumnurm nut-Calum- Rm 
-
-burnt-um 
-3?
-I
-
-name-mm?" I .
-
-I
-
-Inn-m _D?nw?
-
-
-
- 
-
-(TSHSIHORCONHREL) Detailed Turmoil DNC Sequence Diagram
-
-(TSHSIHREL) DNC Survey Flow
-
-I The DNC Survey Flow detects, selected communications that are using IPsec; then
-sessionizes the packets and sends the sessions to XKEYSCORE. The DNC eventing (PPF) components in
-TURMOIL detects all and ESP packets and queries KEYCARD for each unique IKE exchange session and each
-unique ESP session to determine if the link should be selected for processing. Tasking is based on IP address. is
-attempted if either the source or the destination IP address is tasked for in KEYCARD (the KEYCARD tasking
-action is labelled so as not to use the term If KEYCARD returns a hit for an IKE packet, then the
-IKE packet is sent to the Attack Orchestration) Service. If KEYCARD returns a hit for an ESP packet, a
+TOP SECRET/iCOMtNT'fREL TO FVEV													
+A«**"	.« ono ci F» Mom» M*»			FF W ' «IGSIG I«--		F I OFCE I KEVCARO F  'H 1			an-	V HU	1 tfUL I T «0 »  VAN		
+			■ mean'  FaMr*W										
+													
+					« ^								
+	-F.a.tn.			KACHA* TfUMSFOAM L			* IMluf 								
+					n kc coMmnm i								
+													
+			s»	rt Aceon- 7eiHIFC*til;- ...									
+					*l| (IF C»		(	F 	^	■ IF				
+											KtfFHMU		
+											* o* f ip	k*i **#*••* i  —JL»; „ it	 r		
+» SWKtDxiVirr, V													
+													
+					bOOCV t/~"	e'ïîïïf--							
+	—CetnpedFKim		"DFID	»J	TUiMCWi PM HI CTOMJrfi) «*{«>• n(rt<5Crtromiw 1									
+		'		• » IMS										
+					FI ***» OF© Cortrertc- I-'.'"								
+													
+(TS//SI//ORCON//REL) Detailed Turmoil DNC Decryption Sequence Diagram													
+
+(TS//SI//REL) DNC Survey Flow
+
+■	(TS//SI//REL) The DNC Survey Flow detects, decrypts selected communications that are encrypted using IPsec; then
+sessionizes the unencrypted packets and sends the sessions to XKEYSCORE. The DNC eventing (PPF) components in
+TURMOIL detects all IKE/ISAKMP and ESP packets and queries KEYCARD for each unique IKE exchange session and each
+unique ESP session to determine if the link should be selected for processing. Tasking is based on IP address. Decryption is
+attempted if either the source or the destination IP address is tasked for decryption in KEYCARD (the KEYCARD tasking
+action is labelled "TRANSFORM" so as not to use the term "decrypt"). If KEYCARD returns a hit for an IKE packet, then the
+IKE packet is sent to the POISONNUT(DNC Attack Orchestration) Service. If KEYCARD returns a hit for an ESP packet, a
 key request is sent to POISONNUT. A POISONNUT response message will either return the key or indicate that a key could
-not be recovered. If a key is recovered, the ESP packets are and re-injected into TURMOIL for sessionization. If
-KEYCARD also associated a action with the DNC Tunnel IP-Address the encapsulated sessions are sent to
-XKEYSCORE. The DNC Survey ?ow requires that both and actions are assigned to a targeted
+not be recovered. If a key is recovered, the ESP packets are decrypted and re-injected into TURMOIL for sessionization. If
+KEYCARD also associated a "SURVEY" action with the DNC Tunnel IP-Address the encapsulated sessions are sent to
+XKEYSCORE. The DNC Survey flow requires that both "TRANSFORM" and "SURVEY" actions are assigned to a targeted
 IP-Address.
 
-All DNC functions and communications with a DNC Metrics service) are hosted
-on a specially con?gured TURMOIL processor called a CA Server. All CA Server software is loaded and administered by CES
-approved and CA Server authorized administrators. The CA Server is ?rewalled and effectively functions as an extension of
-the CES enclave. In the future all communications between the CA Server and the CES services (POISONNUT, DNC
-Metrics) will use a secure JMS messaging service based on the ISLANDHIDEAWAY infrastructure.
+■	(TS//SI//REL) All DNC Decryption functions and communications with POISONNUTfand a DNC Metrics service) are hosted
+on a specially configured TURMOIL processor called a CA Server. All CA Server software is loaded and administered by CES
+approved and CA Server authorized administrators. The CA Server is firewalled and effectively functions as an extension of
+the CES enclave. In the future all communications between the CA Server and the CES services (POISONNUT DNC
+Metrics) will use a secure JMS messaging service based on the ISLANDTRANSPORT/ ISLANDH1DEAWAY infrastructure.
 
- 
+6 of 13
 
- 
+VALIANTSURF - Wikiinfo
 
- 
+TOP S EC R ETOCO MIN TOREL TO USA, FVEY
 
- 
+V
 
- 
+(TS//SI//REL) VPN Survey Sequence
 
- 
+(S//SI//REL) DNC Analyze Flow
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(I TOP SECRETHCOMINTHREL TO USA, FVEY 
-Alrrtemet Key Exch (IKE) lntemet Security Association Key Management Protocol (I 
-Authentication Header Encaesulatina Seem-1t] Pa?oad 
-vem
-Socket Connechnn
-Selector HI1 GueryIRBponse
-Interface Ke
- KEYCARD mat-)1?
-Center!
-1. secure Socket I551.) Formal
-0- FIG Blade Management
-W?SocketConnecbon DOC I CES 
-and Resources
-at 
-rm esslons ., Grid
-3 Resource
-VPM 
-  s= 
-B|ade IKE Messages ?5 
-(D (GRAM)
-3; -?b3 ?5
-VPNwry??Hi
-Has (.0 
-8 9 CORAL
-. . . . . . . . . . . . . . . . - 8  
-K. 
-
- 
-
- 
-
- 
-
- 
-
-VPN Survey Data?ow
-
-60f13
-
-VALIANTSURF - WikiInfO
-
- 
-
-TOP SECRETMCOMIN TIIREL TO USA. FVEY
-
- 
-
-IAnelyst  sumo lmsconsl VAO 
-I I I
-
- 
-
-. 
-l?lpmossl Mum TRANSFORM 8. 
-IKE I
-?Met?q I 
-9am Target cum?p I
-- TergellRespon 
-i
-Session-I?SesSIm-?i .. I ..
-I 
-ESP 
-eckeI-? 
-I 
-Target Query?"1.4?15' SP Targci Hesperus?Q 
-TRANSFORM - ??wn Metrics 
-Ce?: ReInIearecovered mwmulated Indie?
-Recwe ed . . 
-Packets IFI SUIRVEY i
-.
-
-mun 
-
-enema"
-
- 
-
-
-
-(TSIISIHREL) VPN Survey Sequence
-
-(SHSIHREL) DNC Analyze Flow
-
-I (TSHSIHREL) The DNC Analyze Flow selectively collects packets and raw, ESP packets that are
+■ (TS//SI//REL) The DNC Analyze Flow selectively collects IKE/1SAKMP packets and raw, encryted ESP packets that are
 sessionized and forwarded to PRESSUREWAVE for analysis. The DNC eventing (PPF) components in TURMOIL detect all
-and ESP packets and queries KEYCARD for each unique IKE exchange and each unique ESP session to
-determine if the link should be selected for analysis. Tasking is based on IP address. If KEYCARD returns an 
+IKE/1SAKMP and ESP packets and queries KEYCARD for each unique IKE exchange and each unique ESP session to
+determine if the link should be selected for analysis. Tasking is based on IP address. If KEYCARD returns an "ANALYZE"
 action for any IPsec packet hit, then the IPsec packet is sessionized and sent to PRESSUREWAVE.
 
- 
+7 of 13
 
-6 Socket
+VALIANTSURF - Wikiinfo
 
- 
+SECRET//COMINT//REL TO USA, FVEY
 
-MAILORDER
+Stage 0	TURMOIL	KEYCARD	TUBE
 
-ISLANDHDEAWAY
+EH
 
-Secure Socket 
+IKE _
+Packet”
 
- 
+01KE Select^
+Query
 
- 
+IF[ ANALYZE ) *
 
+IF[ ANALYZE ;
 
+Eh
 
- 
+ESP _
+Packet™
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-SECRETNCOMINTHREL TO USA. FVEY 
-
-Internet Key Exchange (IKE) Internet Security Association Key Management Protocol (ISAKMPI
-A Encapsulating Security Payload (ESP) 
-vr-m 7
-Socket Connection Socket Coan
-6-. IPsec Packets Selected Ior C: sebum QueryIResponse
-TUBE TURMOIL  KEYCARD
-Meringue:
-ems transpon
-T: MAILORDER Contenl
-c: IPsec Padrets Selected Io: Analysis 31:1? 5] Format
-c: IPsec Pedals Selectoc tor Maire-s
-F: xuusorr 
-EXOPUMP PRESSURE-
-WAVE
-A
-SECRETHCOMINTNREL TO USA. FVEY 
-
- 
-
-(TSIISIHREL) VPN Analyze Data?ow
-
- 
-
-70f13
-
-VALIANTSURF - WikiInfO
-
- 
-
-SECRETIICOMINTHREL TO USA, FVEY 
-
-513960 TURMOIL IKEYCARD TUBE 
-
-IKE 
-Packet I
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-I 
-
-IKE Select I
-Query I.I
-
-IKE Select?
-40*
-ANALYZE 1 Respmse
-I
-
+Like SelectÀ
+** * Response^J
 
 I
+
 I
-I
 
- 
-
-9 Socket
-
-MAILORDER
-ISLANDTRANSPORT (JMS)
-Secure Socket Layer 
-
-
-
- 
-
- 
+9—
 
 Sessionize IKE
 
+IF[ ANALYZE )
 
+IF[ ANALYZE )
 
-I
-I 0' 
-ANALYZE 
+IKE Session«
 
-See.sz
-I KE Session?v
-I
-ESP I Session?b
+¿^SP Select j
+W Query “
+jTESP Select^
+" i Responsevr
 
+-IKE Session«
 
-Peeket SP Select?I
-Query 
-I 
+EXOPUMP
 
-Responseg
+PWv
 
- 
+0 Socket
+(J) MAILORDER
+Q ISLANDTRANSPORT (JMS)
+(R) Secure Socket Layer (HTTPS)
 
-I
-I I
-I
-I ESP
-ANALYZE :o 
+-----ESP Sessio
 
-Seesion?pI
-I Session?bl
-Session?pi
-TO USA. FVEY
+r	T
 
-(TSIISIHREL) VPN Analyze Sequence
+SECRET//COMINT//REL TO USA, FVEY
+
+*ESP Session—
+
+(TS//SI//REL) VPN Analyze Sequence
 
 (U) Requirements, Planning, and Reviews
-
 (U) Design Details
-Architectural Taxonomy
 
-I DNCA (Digital Network Applications) branch
-I ROMULANALE Name of project within DNCA that develops capabilities for the CAServer
-I GALLANTWAVE DNSC project *and* thread on ?elded systems, including TURMOIL and XKS (DeepDive)
-I GW Mission App legacy capability on CAServer for DN SC 
-I ROMULANGAWK ROMULANALE provided capability on CAServer for DNSC in software
-I ROMULANGOWL ROMULANALE provided capability on CAServer for DNSC in hardware (pending)
+(S//SI//REL) Architectural Taxonomy
 
-I VALIANTSURF DNC project *and* thread on ?elded systems, currently including only TURMOIL
-I MALIBU DNC processing architecture for VALIANTSURF on TURMOIL using session based processing
-I PIQServices capability on CAServer for DNC under MALIBU
-I WAIMEA DNC processing architecture for VALIANTSURF on TURMOIL using packet stream based processing. This
-covers all con?gurations of the architecture (software and hardware)
-I WAIMEAVISAGE DNC WAIMEA processing architecture with performed in software
-I ROMULANVISAGE ROMULANALE provided capability on CAServer for WAIMEAVISAGE
-I WAIMEAVISE DNC WAIMEA processing architecture with performed in hardware
-I ROMULANVISE ROMULANALE provided capability on CAServer for DNC WAIMEAVI SE
+■	DNCA (Digital Network Crypt Applications) - branch
 
-Current DNC Design Documents
+■	ROMULANALE - Name of project within DNCA that develops capabilities for the CAServer
 
-I MALIBU Architecture
-I WAIMEA Architecture
+■	GALLANTWAVE - DNSC project *and* thread on fielded systems, including TURMOIL and XKS (DeepDive)
+
+■	GW Mission App - legacy capability on CAServer for DNSC decryption
+
+■ ROMULANGAWK - ROMULANALE provided capability on CAServer for DNSC decryption in software
+
+■ ROMULANGOWL - ROMULANALE provided capability on CAServer for DNSC decryption in hardware (pending)
+
+■	VALIANTSURF - DNC project *and* thread on fielded systems, currently including only TURMOIL
+
+■	MALIBU - DNC processing architecture for VALIANTSURF on TURMOIL using session based processing
+
+■	PIQServices - capability on CAServer for DNC decryption under MALIBU
+
+■	WAIMEA - DNC processing architecture for VALIANTSURF on TURMOIL using packet stream based processing. This
+covers all configurations of the architecture (software and hardware)
+
+■	WA1MEAVISAGE - DNC WAIMEA processing architecture with decryption performed in software
+
+- ROMULANV1SAGE - ROMULANALE provided capability on CAServer for WA1MEAV1SAGE
+
+■	WA1MEAVISE - DNC WAIMEA processing architecture with decryption performed in hardware
+
+■ ROMULANV1SE - ROMULANALE provided capability on CAServer for DNC WAIMEAVISE
+
+(U//FOUO) Current DNC Design Documents
+
+■	MALIBU Architecture
+
+■	WAIMEA Architecture
 
 (U) Design Reviews and Technical Exchanges
-
 (U) Technical Documents
 
-I (SHSIHREL) IPsec Sessionization 
+■	(S//SI//REL) IPsec Sessionization
 
-- (SHSIHREL) HOOKED Sessionization
+■	(S//SI//REL) HOOKED Sessionization
 
-I (SHSIHREL) CINDER Sessionization
+■	(S//SI//REL) CINDER Sessionization
 
-- (SHSIHREL) PPTP Sessionization
+■	(S//SI//REL) PPTP Sessionization
 
-- (SHSIHREL) New Protocol Speci?cation 
-I (TSHSIHREL) Turmoil Analysis for Increment 3
+■	(S//SI//REL) New Protocol (IPsecESP,PPTP,HOOKED,CINDER) Specification
 
-I VPN IKE ASDF data flow 
+■	(TS//SI//REL) Turmoil Analysis for Increment 3
 
-I (TSHSIHREL) VPN IKE ASDF Sequence Diagram 
+■	(TS//SI//REL) VPN IKE ASDF data flow ^
 
-I APEXWPN Data Flow i'
+■	(TS//SI//REL) VPN IKE ASDF Sequence Diagram m
 
-I (TSHSIHREL) APEXWPN Sequence Diagram 
+■	(TS//SI//REL) APEXWPN Data Flow —
 
-80f13
+■	(TS//SI//REL) APEXWPN Sequence Diagram —
 
-VALIANTSURF - WikiInfO
+8 of 13
 
-I (TSHSIHREL) Turmoil VPN Sequence Diagram
+VALIANTSURF - Wikiinfo
 
-
-
+■ (TS//SI//REL) Turmoil VPN Decrypt Sequence Diagram
 
 
-I SPIN 15 VPN Storyl 
 
-I Spin 15 TURMOIL Model 
-I 831322 Branch VPN Brief
-I VS Monitoring
+■	(TS//SI//REL) SPIN 15 VPN Story 1 •
+
+■	(TS//SI//REL) Spin 15 TURMOIL Model ■
+
+■	(TS//SI//REL) S31322 Branch VPN Brief*.
+
+■	(TS//SI//REL) VS Monitoring
 
 (U) DNC Enterprise Messaging Fabric
-I (SHSIHREL) VPN AMF(ITx)Fabric Diagram
-DNC IKE SMG (Replaced Ike Analytic)
 
-I (S) Description The IKE SMG (Sesionized Metadata Generator) inherited the internal business logic of the IKE Analytic,
+■	(S//SI//REL) VPN AMF(lTx)Fabric Diagram
+
+(S//SI//REL) DNC IKE SMG (Replaced Ike Analytic)
+
+■	(S) Description - The IKE SMG (Sesionized Metadata Generator) inherited the internal business logic of the IKE Analytic,
 but was re-hosted as an iBridge service. There is no longer any connection to PRESSUREWAVE or METROTUBE. The
-IKESMG runs as a CCM graph with input from via IOPort.
+IKESMG runs as a CCM graph IPSECJKE MDATA with input from IPSEC EVENT TO BME via IOPort.
 
-I (S) Spin 17 No Release. Initial version developed but not delivered to TURMOIL
+■	(S) Spin 17 - No Release. Initial version developed but not delivered to TURMOIL
 
-I (S) Spin 18 Initial Release. Patched Version had verbose logging.
+■	(S) Spin 18 - Initial Release. Patched Version had verbose logging.
 
-I (S) Core 3.1 Part of ValiantSurf Shark feather. APEX processing removed. Sessionization by Exchange introduced.
+■	(S) Core 3.1- Part of ValiantSurf Shark feather. APEX processing removed. Sessionization by Exchange introduced.
 
-I (S) Core 4.x Future release compliant with Schema version 8.
+■	(S) Core 4.x - Future release compliant with Schema version 8.
 
-DNC IKE Analytic
+(S//SI//REL) DNC IKE Analytic
 
-I (S) Spin 15 No Release. Veri?ed Spin 14 VIAS runs successfully on Metrotube 2.3.1 (Metrotube Spin 15 version).
-I (U) Other Wiki Links:
+■	(S) Spin 15 - No Release. Verified Spin 14 V1AS runs successfully on Metrotube 2.3.1 (Metrotube Spin 15 version).
 
-I Analytic Developer
+■	(U) OtherWikiLinks:
 
-I (S) VALIANTSURF Wiki
+■	(U^^^^^^^Pj31321(CON) Analytic Developer
 
-I (S) VPN Metadata Flow diagram
+■	(S) VALIANTSURF Wiki
 
-I (S) 
+■	(S) VPN Metadata Flow diagram
 
-I (S) Spin 14 Upgraded Spagic workflow to follow the robust PWV Retriever Pattern.
-I (S) Pattern Comprises separate service assemblies for Listener, Metadata Retriever, DataRetriever, Throttler, and DNC
+■	(S) VpnlpsecVpnLargeDataCharacterization
+
+■	(S) Spin 14 - Upgraded Spagic workflow to follow the robust PWV Retriever Pattern.
+
+■	(S) Pattern Comprises separate service assemblies for Listener, Metadata Retriever, DataRetriever, Throttler, and DNC
 wrapper.
-I (S) Error handling and VIAS logging capabilities added.
 
-I (S) APEX (DEMO) Modi?ed SOTF Parser and TGIF Record Factory to process Apex metadata.
+■	(S) Error handling and VIAS logging capabilities added.
 
-I (S) Spin 13 Upgraded Spagic workflow to match Metrotube 2.1.
-I (S) Numerous bug ?xes relating to Toygrippe content including Exchanges Types, Message Types, Phase2-Only,
+■	(S) APEX (DEMO) - Modified SOTF Parser and TGIF Record Factory to process Apex metadata.
+
+■	(S) Spin 13 - Upgraded Spagic workflow to match Metrotube 2.1.
+
+■	(S) Numerous bug fixes relating to Toygrippe content including Exchanges Types, Message Types, Phase2-Only,
 missing transforms(see MadForge DNC-analytic project for details).
-I (S) Added capability to process Toygrippe ?le classi?cation determined by DNC Metadata.
 
-I (S) Spin 12 The VPN Analytic has been re-named as the VIAS (VPN IKE Analytic Service). In this spin, there were 2 major
+■	(S) Added capability to process Toygrippe file classification determined by DNC Metadata.
+
+■	(S) Spin 12 - The VPN Analytic has been re-named as the VIAS (VPN IKE Analytic Service). In this spin, there were 2 major
 changes.
-I (S) First, the analytic was converted to run in the Metrotube 2 framework, as aJSorcerer Service on the Metrotube
+
+■	(S) First, the analytic was converted to run in the Metrotube 2 framework, as a JSorcerer Service on the Metrotube
 Service Bus.
-I (S) Second, the VIAS is now released by the ValiantSurf (DNC) team directly to Turbulence, where Spin 11 and earlier
+
+■	(S) Second, the VIAS is now released by the ValiantSurf (DNC) team directly to Turbulence, where Spin 11 and earlier
 versions were packaged by the DNC team, delivered informally to Metrotube Services who performed the software
 release to Turbulence.
 
-I (S) Spin 11 and prior VPN Analytic runs as a Metrotube 1 service.
-I (S) An improvement to the IkeSessionizer algorithm correctly matched up the initiator and responder by waiting for the
+■	(S) Spin 11 and prior - VPN Analytic runs as a Metrotube 1 service.
+
+■	(S) An improvement to the IkeSessionizer algorithm correctly matched up the initiator and responder by waiting for the
 responder to return a non-ZRC (Zero Responder Cookie).
 
 (U) CIET Tasking
 
-I (SHSIHREL) Tasking for 
+■	(S//SI//REL) Tasking for TEC/MHS/CROSSCUT
 
 (U) Test
 
+VALlANTSURF/TestData
 
+■	(S//SI//REL) RFCs Reguired forTML 18.1 and earlier releases «
 
-I (SHSIHREL) RFCs Required for TML 18.1 and earlier releases
-I (SHSIHREL) VALIANTSURF RFCs
+■	(S//SI//REL) VALIANTSURF RFCs
 
-DNC Metadata
-I (SHSIHREL) Spin14 VPN IKE Metadata Test Document -
+(S//SI//REL) DNC Metadata
 
-I (SHSIHREL) Spin13 VPN IKE Metadata Test Document -
-I (SHSIHREL) Spin12 VPN IKE Metadata Test Document -
+■	(S//SI//REL) Spinl4 VPN IKE Metadata Test Document •
 
-90f13
+■	(S//SI//REL) Spinl3 VPN IKE Metadata Test Document ■
 
-VALIANTSURF - Wikilnfo
+■	(S//SI//REL) Spinl2 VPN IKE Metadata Test Document ■
 
-DNC 
+9 of 13
 
-I (TSHSIHREL) Spin12 VPN Test Document -
+VALIANTSURF - Wikiinfo
 
-LONGHAUL Test
+(TS//SI//REL) DNC Decrypt
 
-LONG Test Documentation Page
+■ (TS//SI//REL) Spin 12 VPN Decrypt Test Document ■
 
-One CA Server Toggled among Multiple TURMOILs
+(U//FOUO) LONGHAUL Test
 
-(UIIFOUO) This section describes a network design to have one CA server serve multiple TURMOILs. Note that a CA Server can
+LONGHAUL Test Documentation Page
+
+(U//FOUO) One CA Server Toggled among Multiple TURMOILS
+
+(U//FOUO) This section describes a network design to have one CA server serve multiple TURMOILS. Note that a CA Server can
 only communicate to one TURMOIL at a time.
 
 Motivation:
 
-I-P-LOMH
+1.	Power/space/cooling limitations
 
-. Powerfspacefcooling limitations
+2.	Long lead time to gain approval to add CA Services servers
 
-. Long lead time to gain approval to add CA Services servers
-. Hardware cost
-. Limits on public IP address space at some sites
+3.	Hardware cost
 
+4.	Limits on public IP address space at some sites
 Click for details on the CA Server Bank.
 
-For more information, Contact one of these POCs
+For more information. Contact one of these POCs
 
- 
-
-ML Network Engineer
+rML Network Engineer
 CA Services Developer
 TML Integration and Test
 TURMOIL Lab Manager
@@ -1306,425 +782,269 @@ T1 VS Thread Lead
 
 (U) Deployments
 
-VALIANTSURF Deployment Roles 8; Responsibilities
+VALIANTSURF Deployment Roles & Responsibilities
+
 (U) CIET Deployment Overview
+
 (U) VALIANTSURF Levels of Success
 
-VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
+(U//FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
+(U//FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
 
-VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
+■ (TS//SI//ORCON/REL) RFC DR Needs TURMOILBaselines •
 
-I RFC DR Needs TURMOILBaselines
+(U//FOUO) Live Dataflow
 
-Live Data?ow
+TU FLE VPN Metadata Beacons
 
-TURMOIL Installations
+(U//FOUO) TURMOIL Installations
 
-I
-RPM Log
-Config 
 
-Metadata Routing
 
-I
+(U//FOUO) IPsec/IKE Metadata Routing
 
- 
-
-TUBE
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TUBE TUBE 
-Site SIGAD MAILORDER MAILORDER stem System Route MAILORDER MA:
-PDDG Trigraph PDDG Trig
-Digraph
-via
-AH HXN 51 MHSIJVEJIG NSNN 00 TYG
-via
-MHSLATHCE I??qsg KY EXM 52 MHSIENTIG NSNN 00 TYG
-via
-NIA NA NA Site KY TYG
-Store
-USIWEA AH HXN 51 Egmw 00 TYG
+Site	SIGAD	TUBE  MAILORDER  PDDG	TUBE  MAILORDER  Trigraph	TUBE  MAILORDER  System  Digraph	System	Route	METROTUBE  MAILORDER  PDDG	ME'  ma:  Trig
+MHS LATTICE	USJ-759	AH	HXN	51	MHS-L1VE-T16	via  NSAW	00	TYG
+		KY	EXM	52	MHS-DEV-T16	via  NSAW	oo	TYG
+		N/A	N/A	N/A	MHS-DEV-T16	via  Site  Store	KY	TYG
+MHS-STARQUAKE	USJ-759A	AH	HXN	51	MHS-L1VE-T16	via  NSAW	00	TYG
 
 10 of 13
 
-VALIANTSURF - WikiInfO
+VAL IANT S URF - Wikiinfo
 
- 
+		KY	EXM	52	MHS-DEV-T16	via  NSAW	oo	TYG
+		KY	TYG	QX	MHS-DEV-T16	via  Site  Store	N/A	N/A
+	US-3150	RU	EXN	51	G1-T16	via  NSAW	00	TYG
+			DVN	52	G2-DEV-T16	via  NSAW	oo	TYG
+			LPN	53	G3-LPT	via  NSAW	00	TYG
+			LPN	54	G4-LPT	via  NSAW	00	TYG
+			LPN	55	G5-LPT	via  NSAW	oo	TYG
+			DVN	56	G6-DEV-LPT	via  NSAW	oo	TYG
+TEC	USD-1001TEC	BL	EXM	51	TEC-T16	via  NSAW	oo	TYG
+YRS	USF-787	MH	EXM	51	YRS3-LPT	via  NSAW	00	TYG
 
- 
+(U//FOUO) IPsec/ESP Metadata Routing FALLOUT to TOYGRIPPE
 
- 
+FALLOUT Processing & Dataflow
+FALLOUT Dataflow Statistics
 
- 
+Site	SIGAD	FALLOUT  MAILORDER  PDDG	FALLOUT  MAILORDER  Trigraph	TOYGRIPPE  MAILORDER  Trigraph	FALLOUT  MAILORDER  System  Digraph	TUBE  Upstream  Source  System  Digraph  (Source  System  Atom)	Upstream  Source  System
+MHS-LATTICE	USJ-759	AH	KLG	TYF	D0,D9	51	MHS-L1VE-T16
+				TYF	D0,D9	52	MHS-DEV-T16
+MHS-STARQUAKE	USJ-759A	KY	KLG	TYF	D0,D9	51	MHS-L1VE-T16
+				TYF	D0,D9	51	MHS-DEV-T16
+	US-3150	RU	KLG	TYF	D0,D9	51	G1-T16
+				TYF	D0,D9	52	G2-T16
+				TYF	D0,D9	53	G3-LPT
+				TYF	D0,D9	54	G4-LPT
+				TYF	D0,D9	55	G5-LPT
+				TYF	D0,D9	56	G6-LPT
+TEC	USDY001TEC	BL	KLG	TYF	D0,D9	51	TEC-T16
+CROSSCUT	US-3301	U6	KLG	TYF			
+SARATOGA	US-3167	IL	KLG	TYF			
+MUSCULAR	DS-200B	C4	KLG	TYF			
+YRS	USF-787	MH	KLG	TYF	D0,D9	51	YRS 1-LPT
+				TYF	D0,D9	52	YRS2-LPT
+				TYF	D0,D9	53	YRS3-LPT
 
- 
+(S//SI//REL) VAO STATUS
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-via
-KY EXM 52 MHS-DEV-T16 NSAW 00 TYG
-via
-KY TYG OX MHS-DEV-T16 Site NA NA
-Store
-via
-EXN 51 G1-T16 NSAW 00 TYG
-via
-DVN 52 G2-DEV-T16 NSAW 00 TYG
-via
-LPN 53 G3-LPT NSAW 00 TYG
-US-3150 RU 
-Via
-LPN 54 G4-LPT NSAW 00 TYG
-via
-LPN 55 NSAW 00 TYG
-via
-DVN 56 G6-DEV-LPT NSAW 00 TYG
-via
-TEC USD-IOOITEC BL EXM 51 TEC-T16 NSAW 00 TYG
-via
-YRS USE-787 MH EXM 51 NSAW 00 TYG
-Metadata Routing FALLOUT to TOYGRIPPE
-FALLOUT Processing Data?ow
-FALLOUT Data?ow Statistics 
-TUBE
-Upstream
-FALLOUT FALLOUT TOYGRIPPE Upstream
-Site SIGAD MAILORDER MAILORDER MAILORDER Source
-PDDG Tri ra Tri ra System D'graph tem
-Digraph (Source ys
-System
-Atom)
-TYF 51 MHS-LIVE-T16
-MHS-LATTICE AH KLG
-TYF 52 MHS-DEV-T16
-TYF 51 MHS-LIVE-T16
-MHS-STARQUAKE KY KLG
-TYF 51 MHS-DEV-T16
-TYF 51 G1-T16
-TYF 52 G2-T16
-TYF 53 G3-LPT
-US-3150 RU KLG
-TYF 54 G4-LPT
-TYF 55 GS-LPT
-TYF 56 G6-LPT
-TEC USD-IOOITEC BL KLG TYF 51 TEC-T16
-CROSSCUT US-3301 U6 KLG TYF
-SARATOGA US-3167 IL KLG TYF
-MUSCULAR DS-200B c4 KLG TYF
-TYF 51 YRSI-LPT
-YRS USE-787 MH KLG TYF 52 YRS2-LPT
-TYF 53 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-VAO STATUS
 POISONNUT Wiki
 
-I Last Updated Wed Mar 5 20:36:00 GMT 2008
-I RUNNING
+■	Last Updated Wed Mar 5 20:36:00 GMT 2008
 
-11 0f 13
+■	RUNNING
 
-VALIANTSURF - Wikilnfo
+11 of 13
 
-Deployments and Development systems
+VALIANTSURF - Wikiinfo
 
-(UIIFOUO) VALIANTSURF TURMOIL components are deployed directly to the TURMOIL systems.
+(U//FOUO) Deployments and Development systems
 
-(UIIFOUO) The VALIANTSURF mission?application is deployed on the CAServer platform. See CAServer#Deployments for site
-speci?c con?guration.
+(U//FOUO) VALIANTSURF TURMOIL components are deployed directly to the TURMOIL systems.
 
-CIET Deployments
+(U//FOUO) The VALIANTSURF mission-application is deployed on the CAServer platform. See CAServer#Deployments for site
+specific configuration.
 
- 
+(U//FOUO) CIET Deployments
 
- 
+Site	Type	Current TURMOIL	Next TURMOIL	Hardware	CA Server	Comment
+JCE	Dev	Unknown	Core 3.0.10	1-BCH	none	none
+MHS ESO	Dev	Unknown	TBD	TBD	none	none
+SMKG2	Dev	18.1.5	Core 3.0.10	TBD	TBD	none
+SARATOGA	Live	17.1	Core 3.0.10	TBD	TBD	none
+MUSCULAR	Live	18.1.1	18.1.5	TBD	TBD	none
+SMK	Live	17.1	Core 3.0.10	TBD	TBD	none
+CROSSCUT	Live	15.6.1	Core 3.0.10	TBD	TBD	none
+MHS	Live	15.6.1	Core 3.0.10	TBD	TBD	none
+TEC	Live	15.6.1	15.6.1	TBD	TBD	none
 
- 
+(U//FOUO) Monitoring
 
- 
+■	(U//FOUO) CA servers are monitored by the T3332 Data Operations Center (DOC)as part of their TU monitoring_
 
- 
+ÎS^ÇKKEYU)0^^1açkKe^iomeDag^^ççes^h^bDVie^^^R^J)O^^^^^^^^^^^^^^^^^J
 
- 
+■	(U//FOUO) The VALIANTSURF SOP used by the DOC VALIANT SURF Tab Special Instructions
 
- 
+■	(U//FOUO) During business hours, the DOC uses the following contact list: DOC business hours POC list#VAL!ANTSURF
 
- 
+■	(U//FOUO) DOC After Hours Call-in Procedures
 
- 
+■	(U//FOUO) VALIANTSURF CA Server Troubleshooting Guide
 
- 
-
-Site [Type [Current TURMOIL [Next TURMOIL [Hardware Server [Comment
-[Dev [Unknown [Core 3.0.10 [none [none
-ESO [Dev [Unknown [none [none
-[Dev [18.1.5 [Core3.0.10 [none
-[Live [17.1 [Core 3.0.10 [none
-[18.1.1 [18.1.5 [none
-[Live [17.1 [Core 3.0.10 [none
-[Live [15.6.1 [Core 3.0.10 [none
-[Live [15.6.1 [Core 3.0.10 [none
-[Live [15.6.1 [15.6.1 [none
-
- 
-
- 
-
-Monitoring
-
-I (UIIFOUO) CA servers are monitored by the T3332 Data Operations Center part of their TU monitoring
-SLACKKEY DOC TU SlackKe Home a e. To access the To View TU RC DOC
-
-    
- 
-
-I (UHFOUO) The VALIANTSURF SOP used by the DOC VALIANT SURF Tab Special Instructions
-I (UIIFOUO) During business hours, the DOC uses the following contact list: DOC business hours POC 
-I (UIIFOUO) DOC After Hours Call?in Procedures
-
-I (UHFOUO) VALIANTSURF CA Server Troubleshooting Guide
 (U) Governance
+
 (U) DNC Thread Schedules
+
 (U) VALIANTSURF Thread Status Weekly Meetings 2012
 
-(UHFOUO) VALIANTSURF Activity Leads Status Review
+(U//FOUO) VALIANTSURF Activity Leads Status Review
 
-The VALIANTSURF Leads Meeting reviews are held weekly on Mondays. The purpose of this review is to discuss the
+(S//SI//REL) The VALIANTSURF Leads Meeting reviews are held weekly on Mondays. The purpose of this review is to discuss the
 major goals and status of activities taking place. Any roadblocks that would cause a failure in meeting the established goals
 should be discussed at this time.
 
 (U) Team Members
 
-831322 Thread Lead
+■	(U)^^^^^HS31322 Thread Lead
 
-I (U) Architecture Lead
-S31322(Integree) Architecture Team
-{831322 Architecture Team
+■	(U)^^^^^B/Rl,IDA/CCS(CON) Architecture Lead
 
-Systems Engineer
+■	(U)^^^^^^^^»S31322(Integree) Architecture Team
 
-31322 Systems Engineer
+■	(U)^^^^^^^/S31322 Architecture Team
 
-S31322 Systems Engineer
+■	(U)
 
-{831322 SW Developer
+■	(U)
 
-S31322 SW Developer
+■	(U)
 
-S31322 SW Developer
+■	(U)
 
-S31322 SW Developer
+■	(U)
 
-SW Developer
+■	(U)
 
-SW Developer
+■	(U)
 
-{831322 SW Developer
+■	(U)
 
-CAS Deployment
-Integration 8; Test Lead
-Integration 8; Test Engineer
-Integration 8; Test Engineer
-Integration 8; Test Engineer
+■	(U)
 
-   
-    
- 
- 
- 
-   
-   
- 
- 
- 
- 
-   
- 
- 
- 
- 
-  
+■	(U)
+
+■	(U)
+
+■	(U)
+
+■	(U)
+
+■	(U)
+
+■	(U)
+
+|S31322(CON) Systems Engineer
+331322 Systems Engineer
+I/S31322 Systems Engineer
+I/S31322 SW Developer
+31322 SW Developer
+(S31322 SW Developer
+|S31322 SW Developer
+[/S31322(CON) SW Developer
+IS313221CON1 SW Developer
+31322 SW Developer
+l/S31322(CON) CAS Deployment
+|i/S31322(CON) Integration & Test Lead
+IS31322(CON) Integration & Test Engineer
+f/S31322(CON) Integration & Test Engineer
+|/S31322(CON) Integration &Test Engineer
 
 12 of 13
 
-VALIANTSURF - Wikilnfo
+VALIANTSURF - Wikiinfo
 
-- Integration 6; Test Engineer
-Team Alias: DL Valiantsurf (mailto:?
+S31322(CON) Integration & Test Engineer
+
+Team Alias: DL Valiantsurf (mailto:
 
 (U) Stakeholders
 
- 
+weekly
 
 (U) VALIANTSURF Historical -
 
-Deployment Documents
+(U//FOUO) Deployment Documents
 
-I Spin 11I12 Metadata Flow management
+■	(S//SI//REL) Spin 11/12 Metadata Flow management ■
 
-I (U) Spin 9 VPN PIQ Blade Version Description Document (VDD) for YRS, TEC
-I (U) Spin 9 PIQ Blade Baseline Change Request
+■	(U) Spin 9 VPN PIQ Blade Version Description Document (VDD) for MHS, YRS, TEC ■
 
-I (U) Spin 8 VPN TML Test Checklist 20070416
+■	(U) Spin 9 MHS PIQ Blade Baseline Change Request
 
-I (U) Spin 8 VPN Checklist 20070416
+■	(U) Spin 8 VPN TML Test Checklist 20070416 ■
+
+■	(U) Spin 8 VPN MHS Checklist 20070416 ■
 
 (U) Design Reviews and Technical Exchanges
 
-I VPN TU IT meeting minutes 1 May 2009
+■	(S//SI//REL) VPN TU IT meeting minutes 1 May 2009 -
 
-I VPNITUMMS requirements meeting minutes 23 April 2009
+■	(S//SI//REL) VPN/TUMMS requirements meeting minutes 23 April 2009 ■
 
-I VPN TUBE Metadata Bundle Classi?cation meeting minutes 3 April 2009
+■	(S//SI//REL) VPN TUBE Metadata Bundle Classification meeting minutes 3 April 2009 •
 
-I Brief to YRS during TDY 17?21 Nov 2008 -
+■	(S//SI//REL) Brief to YRS during TDY 17-21 Nov 2008
 
-I Spin 12 TURBULENCE VPN Technical Review 
+■	(S//SI//REL) Spin 12 TURBULENCE VPN Technical Review
 
-I Spin 10 TURBULENCE VPN Technical Review Minutes
+■	(S//SI//REL) Spin 10 TURBULENCE VPN Technical Review Minutes •
 
-I Spin 10 TURBULENCE VPN Technical Review -
+■	(S//SI//REL) Spin 10 TURBULENCE VPN Technical Review
 
-I Spin 10 VPN I ISLANDTRANSPORT I ISLANDI-IIDEAWAY Technical Exchange 20080124 Meeting Minutes
-I Spin 10 VPN I ISLANDTRANSPORT I ISLANDI-IIDEAWAY Technical Exchange 20080124 Meeting Agenda -
-I Spin 9 TURBULENCE VPN Design Review 
+■	(S//SI//REL) Spin 10 VPN / ISLANDTRANSPORT / ISLANDH1DEAWAY Technical Exchange 20080124
 
-I Spin 9 TURMOIL VPN Design Review Minutes 
+■	(S//SI//REL) Spin 10 VPN / ISLANDTRANSPORT / ISLANDH1DEAWAY Technical Exchange 20080124
 
-I Spin 9 TURBULENCE VPN Design Review Minutes
+■	(S//SI//REL) Spin 9 TURBULENCE VPN Design Review
 
-VALIANTSURF Activity Leads Status Review
-The VALIANTSURF Activity Leads Status reviews are held bi?weekly on Mondays throughout the Spin. The purpose
+■	(S//SI//REL) Spin 9 TURMOIL VPN Design Review Minutes
 
+■	(S//SI//REL) Spin 9 TURBULENCE VPN Design Review Minutes ' .
+
+Meeting Minutes |
+Meeting Agenda
+
+(U//FOUO) VALIANTSURF Activity Leads Status Review
+
+(S//SI//REL) The VALIANTSURF Activity Leads Status reviews are held bi-weekly on Mondays throughout the Spin. The purpose
 of this review is to discuss the major goals and status of activities taking place. Any roadblocks that would cause a failure in
 meeting the established goals should be discussed at this time.
 
 (U) VPN Thread Schedules
 
-I (UIIFOUO) Spin 11 VPN Sprint Schedule 
-I (UIIFOUO) Spin 10 VPN Sprint Schedule 
+■	(U//FOUO) Spin 11 VPN Sprint Schedule ■
+
+■	(U//FOUO) Spin 10 VPN Sprint Schedule •
 
 (U) Pages of Interest
 
-I (UIIFOUO) TURMOIL VALIANTSURF
-I (UIIFOUO) TURMOIL GALLANTWAVE
+■	(U//FOUO)
 
+■	(U//FOUO)
+
+Retrieved from
 Category: VPN
-Derived From: SI Classi?cation Guide. 02-01. Dated: 20060711
 
-and 1-52. Dated: 20070108
-Declassiiy 0n: 20320108
+TURMOIL VALIANTSURF
+TURMOIL GALLANTWAVE
 
-TOP SECRETHSIHORCONIREL TO USA, FVEY
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM l-52: Dated: 20070108
+__________________________________________Declassify Qn: 2032Q1Q8
+
+TOP SECRET//SI/JORCON/REL TO USA, FVEY
 
 13 of 13
-

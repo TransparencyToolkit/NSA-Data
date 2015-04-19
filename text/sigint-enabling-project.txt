@@ -1,275 +1,168 @@
-TOP 
+﻿TOP SECRET//SI/TK//NOFORN
 
 (U) COMPUTER NETWORK OPERATIONS
 (U) SIGINT ENABLING
 
- 
-
-This Exhibit is 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-1 FY 2012 Enacted FY 2013 Request FY 2012 FY 2013
-FY 2011 
-Actual Base 0C0 Total Base Total Change 0
-Change
-Funding 298.6 2754 275.4 254.9 254.9 0.0.4 -7
-Civilian FTE I44 143 143 141 MI -2 ?l
-Civilian Positions 144 143 143 141 341 -2 a]
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Military Positions 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-iincludes enacted OCO funding. Totals may not add due to rounding.
-
- 
-
- 
+This Exhibit is SECRET//NOFORN									
+	FY20111  Actual	FY 2012 Enacted			FY 2013 Request			FY 2012 - FY 2013	
+		Base	OCO	Total	Base	OCO	Total	Change	%  Change
+Funding ($M)	298.6	275.4	-	275.4	254.9	-	254.9	-20.4	-7
+Civilian FTE	144	143	-	143	141	-	141	-2	-1
+Civilian Positions	144	143	-	143	141	-	141	-2	-1
+Military Positions	-		-	-	-	-	-	-	-
+'includes enacted OCO funding. Totals may not add due to rounding.									
 
 (U) Project Description
 
-The SIGINT Enabling Project actively engages the US and foreign IT industries to covertiy
-influence and/or overtly leverage their commercial products? designs. These design changes make the systems
-in question exploitable through collection (cg, Endpoint, MidPoint. etc.) with foreknowledge of the
-modification. To the consumer and other adversaries, however, the systems? security remains intact. in this
+(TS//SI//NF) The SIGINT Enabling Project actively engages the US and foreign IT industries to covertly
+influence and/or overtly leverage their commercial products’ designs. These design changes make the systems
+in question exploitable through SIGINT collection (e.g., Endpoint, MidPoint, etc.) with foreknowledge of the
+modification. To the consumer and other adversaries, however, the systems' security remains intact. In this
 way, the SIGINT Enabling approach uses commercial technology and insight to manage the increasing cost and
-technical challenges ofdiscovering and successfully exploiting systems of interest within the ever~rnorc integrated
-and security?focused global communications environment.
+technical challenges of discovering and successfully exploiting systems of interest within the ever-morc integrated
+and security-focused global communications environment.
 
-TO USA, This Project supports the Comprehensive National Cybersecurity
-Initiative by investing in corporate partnerships and providing new access to intelligence sources,
+(TS//SI//REL TO USA, FVEY) This Project supports the Comprehensive National Cybersecurity
+Initiative (CNCI) by investing in corporate partnerships and providing new access to intelligence sources,
 reducing collection and exploitation costs of existing sources', and enabling expanded network operation and
 intelligence exploitation to support network defense and cyber situational awareness. This Project contains the
+SIGINT Enabling Sub-Project.
 
-SIGINT Enabling Sub~ProjecL
 (U) Base resources in this project are used to:
-- TO USA, FVEY) insert vulnerabilities into commercial systems, IT systems,
+
+•	(TS//SI//REL TO USA, FVEY) Insert vulnerabilities into commercial encryption systems, IT systems,
 networks, and endpoint communications devices used by targets.
 
-TO USA, FVEY) Collect target network data and metadata via cooperative network carriers
-and/or increased control OVer core networks.
+•	(TS//SI//REL TO USA, FVEY) Collect target network data and metadata via cooperative network carriers
+and/or increased control over core networks.
 
-TO US A, FVEY) Leverage commercial capabilities to remotely deliver or receive information
+•	(TS//SI//RELTO USA, FVEY) Leverage commercial capabilities to remotely deliver or receive information
 to and from target endpoints.
 
-- TO USA, FVEY) Exploit foreign trusted computing platforms and technologies.
+•	(TS//SI//REL TO USA, FVEY) Exploit foreign trusted computing platforms and technologies.
 
-- TO USA, FVEY) Influence policies, standards and specification for commercial public key
+•	(TS//SI//REL TO USA, FVEY) Influence policies, standards and specification for commercial public key
 technologies.
 
-9 TO USA, FVEY) Make specific and aggressive investments to facilitate the development of
-a robust exploitation capability against Next?Generation Wireless (NOW) communications.
+•	(TS//SI//REL TO USA, FVEY) Make specific and aggressive investments to facilitate the development of
+a robust exploitation capability against Next-Generation Wireless (NGW) communications.
 
-- Maintain understanding of commercial business and technology trends.
+•	(U//FOUO) Maintain understanding of commercial business and technology trends.
 
-- Procure products for internal evaluation.
+•	(U//FOUO) Procure products for internal evaluation,
 
-(UNFOUO) Partner with industry and/or government agencies in developing technologies of strategic
-interest to 
+» (U//FOUO) Partner with industry and/or government agencies in developing technologies of strategic
+interest to NSA/CSS.
 
-TOP 115
+TOP SECRET//SI/TK//NOFORN
 
-TOP 
+115
 
-TO USA, FVEY) Support the SIGINT exploitation of NGW, a collective
+TOP SECRET//SI/TK//NOFORN
+
+•	(TS//SI//REL TO USA, FVEY) Support the SIGINT exploitation of NGW, a MIP/NIP collective
 investment. This request reflects only the NIP portion of the program. Refer to MIP NSA volume for details
-
 on MIP related activities.
 
-TO USA, FVEY) Provide for continued partnerships with major telecommunications carriers
-to shape the global network to benefit other collection accesses and allow the continuation ofpartnering with
+•	(TS//SI//REL TO USA, FVEY) Provide for continued partnerships with major telecommunications carriers
+to shape the global network to benefit other collection accesses and allow the continuation of partnering with
 commercial Managed Security Service Providers and threat researchers, doing threat/vulnerability analysis.
 
-TO USA, FVEY) Continue relationships with commercial IT artners and ca italize on new
-opportunities, including the enabling of used by the 
-governments; enable the being used in a high interest satellite signal, which allows access to the
+•	(TS//SI//REL TO USA, FVEY) Continue relationships with commercialCTpartnersan^
+opportunities, including the enabling of cryptography used by the |
+
+governments; enable the encryption being used in a high interest satellite signal, which allows access to the
 communications being carried on a commercial satellite provider.
 
 (U) There are no new activities in this Project for FY 2013.
 
-(U) The CCP expects this Project to accomplish the following in FY Bill 3:
+(U) The CCP expects this Project to accomplish the following in FY 2013;
 
-Reach an initial operating capability for access to data flowing through a commercial
-Arabic language/Middle East~oriented anonymous internet service. 
+•	(TS//SI//NF) Reach an initial operating capability for SIGINT access to data flowing through a commercial
+Arabic language/Middle East-oriented anonymous internet service, [CCP_00009]
 
-(TSHSIHREL TO USA, FVEY) Reach full operating capability for SIGINT access to data flowing through
+•	(TS//SI//REL TO USA, FVEY) Reach full operating capability for SIGINT access to data flowing through
 a hub for a major commercial communications provider and assess its long term benefits.
 
-TO USA, FVEY) Reach full operating capability for SIGINT access to a major Internet Peer?
-to~Peer voice and text communications system.
+•	(TS//SI//REL TO USA, FVEY) Reach full operating capability for SIGINT access to a major Internet Peer-
+to-Peer voice and text communications system,
 
-TO USA, FVEY) Complete enabling chips used in Virtual
-Private Network and Web devices. 
+ucryption chips used in Virtual
 
-TO USA, FVEY) Make gains in enabling and Computer Network Exploitation
-(CNE) access to fourth generation/Long Term Evolution networks via enabling. 
+Private Network and Web encryption devices. [CCP__00009]
 
-TO USA, FVEY) Assess existing wireless calling metadata accesses and balance flow of this
-data into with the ability to ingest and utilize this information. lCO_00047l
+•	(TS//SI//REL TO USA, FVEY) Make gains in enabling decryption and Computer Network Exploitation
+(CNE) access to fourth generation/Long Term Evolution (4G/LTE) networks via enabling. [CCP_00009]
 
-TO USA, FVEY) Assess existing commercial cyber information flows and balance the flow
-of this data into with the ability to ingest and analyze this information to support cyber situational
-awareness. 
+•	(TS//SI//REL TO USA, FVEY) Assess existing wireless calling metadata accesses and balance flow of this
+data into NSA/CSS with the ability to ingest and utilize this information. [C0_00047j
 
-Shape the worldwide commercial marketplace to make it more tractable to
-advanced capabilities being developed by 00090]
+•	(TS//SI//REL TO USA, FVEY) Assess existing commercial cyber information flows and balance the flow
+of this data into NSA/CSS with the ability to ingest and analyze this information to support cyber situational
+awareness. [C0_00047j
+
+•	(TS//SI//NF) Shape the worldwide commercial cryptography marketplace to make it more tractable to
+advanced cryptanalytic capabilities being developed by NSA/CSS. [CCP, .00090]
 
 (U) Changes From FY 2012 to FY 2013:
 
-SIGINT Enabling: $20.4 million Base), -2 civilian positions. The aggregate decrease is
-the result of:
+(S//NF) SIGINT Enabling: -$20.4 million (-$20.4 Base), -2 civilian positions. The aggregate decrease is
+the result of;
+
+•	(U) Increases:
+
+—	(TS/SI//NF) $5.6 million reflects additional level of investment in enabling exploitation capabilities
+against NGW mobile and data networks.
+
+—	(TS//SI//NF) $4.1 million enables additional support to Endpoint operations. Support to this mission
+area requires SIGINT Enabling to invest in new infrastructure and capabilities with commercial
+partners.
+
+—	(S//NF) $0.4 million in civilian pay and benefits.
+
+• (TS//SI//REL TO USA, FVEY) Complete enabling for
 
 116
 
-(U) Increases:
-$5.6 million re?ects additional level of investment in enabling exploitation capabilities
-against NGW mobile and data networks,
+TOP SECRET//SI/TK//NOFORN
 
-$4.1 million enables additional support to Endpoint operations. Support to this mission
-area requires Enabling to invest in new infrastructure and capabilities with commercial
+TOP SECRET//SI/TK//NOFORN
 
-partners.
+—	(S//NF) $0.3 million due to revised economic assumptions.
 
-$0.4 million in civilian pay and benefits.
+• (U) Decreases:
 
-TOP 
-
- 
-
-TOP 
-
-$0.3 million due to revised economic assumptions.
-
-0 (U) Decreases:
-
-$20.8 million of contractor reductions to fund priority Community investments, which
+—	(TS//SI//NF) $20.8 million of contractor reductions to fund priority Community investments, which
 impacts the ability to sustain and expand activities directly supporting cyber informational needs.
 
-Decrease of $10.0 million in support of deficit reduction efforts, which reduces
+—	(TS//SI//NF) Decrease of $10.0 million in support of deficit reduction efforts, which reduces
 effectiveness of accesses supporting intelligence collection and Endpoint operations.
 
-Two civilian positions reduces development of strategic capabilities enabling
-exploitation of target communications to advance missions.
+—	(TS//SI//NF) Two civilian positions reduces development of strategic capabilities enabling
+cryptographic exploitation of target communications to advance NSA/CSS' missions.
 
- 
+SIGINT Enabling Project Budget Chart  FY 2013 Budget Request by Appropriation Account  This Exhibit is SECRET//NOFORN			Funds — Dollars in Millions		
+Subproject Description		Resourcing	F Y 2011	FY 2012	FY 2013
+Operation and Maintenance, Defense-Wide		Funds	13953	104.86	118.52
+		Positions	137	132	141
+SIGINT Enabling	Communications and Utilities	Base	0.02	-	—
+	Contract Scry ices	Base	116.41	75.53	85.88
+	Equipment	Base	2.89	10.30	11.19
+	Pay and Benefits	Base	18.67	17.94	19.81
+	Supplies and Materials	Base	0.06	0.15	0.15
+	Travel and Transportation	Base	1.47	0.95	1.50
+		Positions	137	132	141
+Research,Development, Test, and Evaluation, Defense-Wide		Funds	159.08	170.51	136.42
+		Positions	7	11	-
+SIGINT Enabling	Communications and Utilities	Base	O.li	-	-
+	Contract Services	Base	155.89	166.25	129.10
+	Equipment	Base	1.82	2.66	7.21
+	Pay and Benefits	Base	1.05	1.50	-
+	Supplies and Materials	Base	<0.01	0.10	0.10
+	Travel and Transportation	Base	0.20	-	-
+		Positions	7	11	-
+Totals may not add due to rounding.					
 
-SIGINT Enabling Project Budget Chart
-FY 20.13 Budget Request by Appropriation Account
-This Exhibit is 
-
-Funds Dollars in Millions
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Subprojcct I Description Resourcing FY 2011 FY 2012 FY 2013
-N?d?i? 139.53 104.86 118.52
-Operation and Maintenance, Defense?14' ide'
-Positions I37 132 141?
-Communications and Utilities Base 0.02 
-Contract Sen ices Base 1 16.41 75.53 85. 88
-Equipment Base 2.89 10.30 1 1.19
-Enabling Pay and Benefits Base 18.67 17.94 19.8]
-Supplies and Materials Base 0.06 0.15 0.15
-Travel and ?l?ransportation Base 1.47 0.95 l.50
-Positions 137 132 Ml
-Research. Development, Test. and Evaluamm, Defense/?Wide Fund? 15y.? fir/0'5] 156.42
-Positions 7 I I 
-Communications and Utilities Base 0.11 
-Contract Services Base 155. 89 166.25 129.10
-Equipment Base 1.82 2.66 7.21
-Enabling Pay and Benefits Base 105 1.50 
-Supplies and Materials Base <0.0l 0.10 0.10
-Travel and Transportation Base 0.20 
-Positions 7 w?
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Totals may not add due to rounding.
-
- 
-
-TOP 
+TOP SECRET//SI/TK//NOFORN
 
 117
-

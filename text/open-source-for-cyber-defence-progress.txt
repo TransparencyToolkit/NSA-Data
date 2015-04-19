@@ -1,279 +1,374 @@
-TOP SECRET STRAPI COMTNT
-The maxin classi?cation allowed on GCWiki is TOP SECRET COMINT. Click to report inappropriate content.
-ForGCWiki help Contact: Support page
+﻿TOP SECRET STRAP1 COMINT
 
- 
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click lo reporl inappropriale conlenl.
+
+For GCWiki help conlacl: webleam [REDACTED] Suppor page
 
 Open Source for Cyber Defence/Progress
 
 From GCWiki
-0 en ource for er Defence
-Jump to: navigation, search
 
- 
+< Open Source for Cyber Defence
+Jump lo: navigalion, search
 
-Many structured datasets are now available in the HAPPY database. Unstructured datasets are being worked on and will go to L1 LVELY H1 LRSE. Other integration with 2 FAQ and is in place, and more will come to QRE.
+Many structured datasets are now available in the HAPPY TRIGGER database. Unstructured datasets are being worked on and will go to LOVELY HORSE. Other integration with TWO FACE and ZooL is in place, and more will come to XKEYSCORE.
 
 Contents
 
-Data girrently galliered
+•	1 Dala currenlly galhered
 
-2 Future ones to work on
+•	2 Fulure ones lo work on
 
-0 2.1 Vulner?ilitl Intelligence
-0 2 2 
-0 2.3 Miscellaneous
+o 2.1 Vulnerabilily Inlelligence
+o 2.2 Bulk Infraslruclure Dala
+o 2.3 Miscellaneous
 
 [edit] Data currently gathered
 
- 
+Data source	Nature of the data	OPP-LEG  Status	In HAPPY TRIGGER?	In LOVELY HORSE?	In  ZooL?	In TWO  FACE?	Update frequency
+alex a. com	Top domains lisl; has previously been used lo find popular social nelworking siles in foreign counlries lo help wilh analysl investigations.	Approved					Automatic updales on daily basis
+user-agenls. org	User agenl slrings, useful for finding spoofed or malicious enlries	Approved					Manual updale
+www.nsrl.nisl.gov	Access lo hashes of known COTS files	Approved (for free scrape)					Manual updale every lhree monlhs
+lisl)	Used lo help map oul IP ranges of nelworks being monilored.	Approved (for free scrape)					Manual updale on besl endeavours basis
+ZeusTracker.abuse.ch	Zeus specific malware lracking including IPs, binaries and domains lo be used by lhe e-crime leam.	Approved					Automatic updales on hourly basis
+SpyE-yeTracker.abuse.ch	SpyEye specific malware lracking including IPs, binaries and domains lo be used by lhe e-crime leam.	Approved					Automatic updales on hourly basis
+amada.abuse.ch	Useful for declassifying information aboul known malicious IPs and domains.	Approved					Automatic updales on hourly basis
+hllp://lorslalus.blulmagie. die?	TOR consensus documenl, useful for identifying whelher a largel was using TOR and lhe slalus of lhe individual nodes.	Approved					Automatic updales on hourly basis
+EmergingThreals.nel	Snorl rules used for nelwork moniloring purposes	Approved (for Free dala)					Manual updales on besl endeavours basis
+PremiumDrops.com	Daily newly regislered domains lo alerl analysls lo suspicious domains worlh investigating for malicious aclivily	Approved					Currenlly unavailable, need lo find coverl access melhod for paid conlenl
+verisign.com	Monlhly updales of newly regislered domains lo alerl analysls lo suspicious domains worlh investigating for malicious aclivily	Approved					
+MalwareDomainLisl.com	General malware lracking resource	Approved					Currenlly one-off' sample
+lwiller.com	Real-lime alerling lo new securily issues reported by known securily professionals, or planned aclivily by hacking groups e.g. Anonymous. For more information aboul lhe sources currently being brought inlo lhe building see source lisl on lhe 1 OVELY HORSE wiki	Approved					Prololype currenlly running. For more information see LOVELY HORSE
+ConlagioMiniDump.com	Mosl recommended blog by CDO analysls. Highly regarded for malware analysis relevanl lo APT investigations. Can be useful lo declassify information for reporting purposes	Approved					
+melaspl oil.com	Access lo new zero-day exploils for lhe malware leam lo analyse	Approved (for free dala)					
+exploil-db.com	Access lo an archive of exploils and vulnerable software. Exploils from submillals and mailing lisls collecled inlo one dalabase.	Approved					
+ics.sans.edu (Inlernel Slorm Cenler)	Already used by GovCerlUK on a daily basis for limely and relevanl securily news and incidenl reporting.	Approved					Currenlly updaled on besl endeavours basis
+POSITIVE PONY	IP address lo company and seclor mapping. See lhe POSITIVE PONY wiki page for more delails.	Approved  Furlher  approvals  pending	(dev)				Currenlly a slalic dala sel
+NETPLATE	Mulliple dala lypes - delails will be included on lhis page when releasable						
 
- 
+(POSITIVE PONY screenshots.)
 
- 
+[edit] Future ones to work on
 
- 
+Knowledge
 
- 
+required
 
- 
+Available from
 
- 
+records
 
- 
+From lhe Passive Siginl syslem, or buy from RIRs (Regional Inlernel Regisleries)? Or can we find anolher way of gelling all updales copied lo us? Whal aboul NSA's FOXTRAIL? Or our own GeoFusion? And lhere's now REFRIED CHICKEN
+from |RED.ACTED | (”Il's a dalabase of passively inlercepled domain WHOIS records, searchable by any word in lhe record. Since Feb 201 1. There are legal and policy conslrainls which mean you cannol search domains, or lerms wilhin records,
+lhal may be sensitive on grounds of localion or nalionalily wilhoul appropriale aulhorisalion. If you would like an accounl please lel me know. Access lo lhe dala relies on having a Global Surge Accounl.”)
 
- 
+recent
 
- 
+domain
 
- 
+registrations
 
- 
+maybe an analylic run againsl lhe main DNS records lo find lhe new domains -- or is lhere a more definitive source?
+Companies like Cyveillance are able lo oblain feeds of new domain regislralions (for 'brand moniloring', so I imagine
 
- 
+we'd be able lo gel hold of somelhing similar... |REDACTED|@gchq 09:51,7 Seplember 2011 (BST)
 
- 
+Update
 
- 
+morning and
+afternoon
 
- 
+Filtering Volumetries	Comments
 
- 
+know
 
- 
 
- 
 
- 
+don't know
+ask the
+NAC?
 
- 
+NSA's FOXTRAIL is in lhis space,
+and needs more checks lo see
+whelher il isn'l suilable. And
+GeoFusion (poc: |REDAC TED|).
 
- 
+(MB)
 
- 
+NSA's FOXTRAIL is in lhis space,
+and needs more checks lo see
+whelher il isn'l suilable
 
- 
+Site	Type of data	Legal status
+Paslebin	An increasing number of lip-offs are coming from lhe Paslebin websile, as lhis is where many hackers anonymously advertise and promole lheir exploils, by publishing slolen information. An aulomaled, regular search (say, weekly) across Paslebin for certain keywords such as .gov.uk or GSI or HMG elc. would be very valuable lo ensure lhal GovCerlUK is always notified if any information lhal lhey need lo be concerned aboul appears in open source. ”30-11-201 1 GovCerlUK briefed aboul an allack on a UN server. This lip came from open source and specifically from Paslebin where lhe slolen emails and passwords had been posled online.”	NOT APPROVED: This nalure of lhis sile means lhal il would be very difficull lo demonslrale lhe proportionally of scraping lhe whole sile lo identify lhe small proportion of information lhal would be of value lo CDO and lherefore approval cannol be given for scraping of lhe sile.
+OVAL Lisl	for NDR lo feed inlo HIDDEN SPOTLIGHT vulnerabilily dalabase	APPROVED
+Afraid.org	|REDACTED|: This lisls domains which are publically available for anyone lo add a sub-domain lo. CDO analysls have suggesled lhal lhis should be anolher resource lhey check alongside whois and roblex when invesligaling a domain.	
+Joe Slewarl's blog for Dell Secure Works	|REDACTED|: lhis regularly includes SNORT rules and olher information lhal can be signalured.	APPROVED
+scadasec mailing lisl	|REDACTED| requesl	APPROVED
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-OPP-LEG In HAPPY In LOVELY In In TWO
-Data source Nature of the data Status ZooL? Update frequency
-alexacom Top domains list; has previously been used to find popular social networking sites in foreign countries to help with analyst investigations. Approved Automatic updates on daily basis
-user-agents.org User agent strings, useful for finding spoofed or malicious entries Approved Manual update
-Access to hashes of known COTS files (for Manual update every three months
-free scrape)
-Ww'maxm?m'mm (ASN Used to help map out ranges of networks being monitored. (for Manual update on best endeavours basis
-list) free scrape)
-ZeusTracker.abuse.ch Zeus specific malware tracking including IPs, binaries and domains to be used by the e-crime team. Approved Automatic updates on hourly basis
-SpyEyeTracker.abuse.ch SpyEye specific malware tracking including IPs, binaries and domains to be used by the e-crime team. Approved Automatic updates on hourly basis
-amadaabuse.ch Useful for declassifying information about known malicious [Ps and domains. Approved Automatic updates on hourly basis
-TOR consensus document, useful for identifying whether a target was using TOR and the status of the individual nodes. Approved Automatic updates on hourly basis
-. . . Approved (for .
-Snort rules used for network monitoring purposes Free data) Manual updates on best endeavours basis
-PremiumDro com Dail newl re istered domains to alert anal to sus icious domains worth investi atin for malicious activi A roved currently unavailable' Head to ?nd covert access
-method for paid content
-verisign.com updates of newly registered domains to alert to suspicious domains worth investigating for malicious activity Approved
-MalwareDomainList.com General malware tracking resource Approved Currently one-off sample
-twin? com Real-time alerting to new security issues reported by known security professionals, or planned activity by hacking groups e.g. Anonymous. For more information about the A mved Prototype currently running. For more
-sources currently being brought into the building see source list on the LOVELY HORSE wiki PP information see LOVELY HORSE
-conmgioMiniDumP?com Most recommended blog by CD0 Highly regarded for malware analysis relevant to APT investigations. Can be useful to declassify information for reporting purposes Appmved
-metasploitcom Access to new zero-day exploits for the malware team to analyse (for
-free data)
-exploit-db.com Access to an archive of exploits and vulnerable so?ware. Exploits from submittals and mailing lists collected into one database. Approved
-(Inmm? Storm Already used by GovCertUK on a daily basis for timely and relevant security news and incident reporting. Approved Currently updated on best endeavours basis
-Approved
-POSITIVE PONY address to company and sector mapping. See the POSITIVE PONY wiki page for more details. (dev) Currently a static data set
-pending
-NETPLATE Multiple data Wes - details will be included on this page when releasable
-POSITIVE PONY screenshots.)
-[gm] Future ones to work on
-Knowimge Available from Update Filtering Volumetrics Comments
-required frequency
-. . . . . . . . . NSA's FOXTRAIL is in this space,
-i From the Passive Sigint system, or buy from Rle (Regional Internet Registenes)? Or can we find another way of getting all updates copied to us? What about NSA Or our own GeoFusion? And there now REFRIED CHICKEN don know:
-whois . . . . . . . . . . . every few dont and needs more checks to see
-?om It?s a database ofpassively intercepted domain WHOIS records, searchable by any word in the record. Since Feb 2011. There are legal and policy constraints which mean you cannot search domains, or terms Within records, ask the . . .
-records that may be sensitive on grounds oflocation or nationality without appropriate authorisation. Ifyou would like an account please let me know. Access to the data relies on having a Global Surge Account.") days know Whemer ism sumble' And
-GeoFusion (poc: 
-recent Nady NSA's is in this ace
-domain maybe an analytic run against the main DNS records to find the new domains -- or is there a more definitive source? morning and ?(men very small and [lng more Checks to 
-. . Companies like Cyveillance are able to obtain feeds ofnew domain registrations (for 'brand monitoring', so Iimagine we'd be able to get hold of something 09:51, 7 September 2011 (BST) a?emoon (MB) . . 
-registrations ,ghi?sw whether it isnt suitable
-Site Type of data Legal status
-An increasing number of tip-offs are coming from the Pastebin website, as this is where many hackers anonymously advertise and promote their exploits, by publishing stolen information. An automated, regular search (say, NOT APPROVED: This nature of this site means that it would be very difficult to demonstrate
-Pastebin weekly) across Pastebin for certain keywords such as .gov.uk or GSI or HMG etc. would be very valuable to ensure that GovCertUK is always notified if any information that they need to be concerned about appears in the proportionality of scraping the whole site to identify the small proportion of information that
-open source. "30-11-2011 GovCertUK briefed about an attack on a UN server. This tip came from open source and specifically from Pastebin where the stolen emails and passwords had been posted online." would be ofvalue to CD0 and therefore approval cannot be given for scraping of the site.
-OVAL List forNDR to feed into HIDDEN SPOTLIGHT vulnerability database APPROVED
-Afraid or This lists domains which are publically available for anyone to add a sub-domain to. CD0 have suggested that this should be another resource they check alongside whois and robtex when
-investigating a domain.
-Joe Stewart's
-blog for Dell
-secure this regularly includes SNORT rules and other information that can be signatiired. APPROVED
-Works
-?34:35?. request APPROVED
-mailing list
 [edit] Vulnerability Intelligence
-. . Update . . .
-Knowledge required Available from Filtering Volumetrics Comments
-frequency
-by mm? names 0f know? very small Current work is BIRD SEED. JTRIG's provides the scraping already but only for handfuls ofIDs and doesn't repeat. The tweets requires data mining. Experiment run by CDT for NDR
-twitter traffic for vulnerabilities use twitter API in standard way hourly? malware/Vulnerability . 
-using Cyber Cloud, and has OPP-LEG approval already.
-researchers
-. . direct web scrape (if allowedcertain blogs and CERT web Sites MH 0 INT 3 e; have howl 9 1m 0? game may as small (GB) ISA have previously run several contracts looking at this problem, With aview to delivery tog NE. Final wrap up work is scheduled to automate the derivation rules (see TR-FSP) from open
-for vulnerabihties examples? Fag source information such that machines matching those rule (vulnerabilities) can be found in passive. Wanted by NDR POLLS) and See 0 en source vulrier 111 sources.
-"limin  ?hatrooms for (?130th access (if allowed) hourly? by list of speci?c RC5 V?sma?ll NB: Assume will include some IRCs. Wanted by Maybe a MARBLE POLL source.
-vu nera i 
-certain CERT email lists for v.small . . . . .
-. . . irect reception hourly? by list of specific mailing lists NB. Assume Will include some email (including PGP). Wanted by Maybe a MARBLE POLL source.
-vulnerabihties (MB)
-Commits to open source code some code {0.6m
-repositories and security patch GitHub etc. daily? y?l? 1? small (GB) Requested by NDR 
-. presumab 
+
+Knowledge required	Available from
+
+twitter traflic for vulnerabilities use lwiller API in slandard way
+
+certain blogs and CERT web sites
+for vuln erabilities
+
+certain CERT IRC chatrooms for
+
+vulnerabilities
+
+certain CERT email lists for
+
+vulnerabilities
+
+Commits to open source code
+repositories and security patch
 check-ins
-Emerging Threats 'Open' 2:530:13 SHORTFALL Daily? By updated Snort rules Approval granted from OP-LEG to scrape info.
 
-[eLit] Bulk Infrastructure Data
+Emerging Threats 'Open'
 
-Knowledge required Available from Update Filtering Volumetrics Comments
+direct web scrape (if allowed).
+MHS OSINT pages h ave
+examples?
+
+direct IRC access (if allowed)
+direct reception
+GitHub etc.
+
+Scraped via SHORTFALL
+framework
+
+Update
+
 frequency
-known . . . several SpamHaus import is already an exploit-level service from ITServices. TR-CISA have just completed an initial study ofopen sources of this sort of information, with an initial delivery ofsample data
-malware/bot/spam e.g' SpamHaus 13100.1( liSts' DNS bleak 115's (dmbl'abuse'Ch)' DNS blaCkhOImg times a none small (GB) to CD0. Longer term, we can set up an automated service to fetch this regularly from the Internet, although initially we will use JTRIG irifrastnictiire. Some directly requested by CD0 via
-lists (malwaredomainlistcom), Drive-by downloads (blade-defender.org) etc.
-servers/orbs/relays 
-. several
-. eg, Clean MX and perhaps Google's Safe Browsing API . . .
-known good could be used (see 10 em ages a none small (GB) Directly requested by CD0 via 
-known ORB servers from sources eg, GhostNet daily none Eagfmall idea from CDO
+
+by twitter
+
+hourly?	malware-w
+
+Filtering
+
+names ol known
+ulnerabilily
+
+Volumetrics	Comments
+
+very small Currenl work is BIRD SEED. JTRIG's BIRDSTRIKE provides lhe scraping already, bul only for handfuls of IDs, and doesn'l repeal. The lweels requires dala mining. Experimenl run by CDT for NDR
+(MB)	using Cyber Cloud, and has OPP-LEG approval already.
+
+hourly? by list of specific sites/pages
+
+small (GB)
+
+TR-CISA have previously run several conlracls looking al lhis problem, wilh
+source information such lhal machines malching lhose rule (vulnerabilities) cai
+
+view lo delivery lo CNE. Final wrap up work is scheduled lo aulomale lhe derivation of SEM rules (see TR-FSP) from open
+be found in passive. Wanled by NDR (ref MARBLE POLLS) and GovCERT. See Open source vulnerabilily sources.
+
+hourly?
+
+hourly?
+
+daily?
+
+by lisl of specific IRCs
+
+by lisl of specific mailing lisls
+
+by specific code projecls,
+presumably
+
+(MB)
+
+(MB)
+
+small (GB)
+
+NB: Assume will include some encrypted IRCs. Wanted by GovCERT. Maybe a MARBLE POLLS source.
+
+NB: Assume will include some encrypted email (including PGP). Wanted by GovCERT. Maybe a MARBLE POLLS source.
+Requested by NDR |RED.ACTED|.
+
+Daily? By updaled Snorl rules	???	Approval granled from OP-LEG lo scrape info.
+
+[edit] Bulk Infrastructure Data
+
+Knowledge required
+known
+
+malware/bot/spam
+
+servers/orbs/relays
+
+known good lists
+
+known ORB servers
+
+Available from
+
+Update
+
+frequency
+
+Filtering Volumetrics
+
+Comments
+
+eg, SpamHaus block lisls, DNS block lisls (dnsbl.abuse.ch), DNS blackholing
+lisls (malwaredomainlisl.com), Drive-by downloads (blade-defender.org) elc.
+
+several
+
+eg, Clean MX (supporl.clean-mx.de), and perhaps Google's Safe Browsing API lsiemveesraal
+could be used (see blog enlry?	imes a
+
+day
+
+SpamHaus import is already an exploit-level service from ITServices. TR-CISA have just completed an initial study of open sources of this sort of information, with an initial delivery of sample data
+small (GB) to CDO. Longer term, we can set up an automated service to fetch this regularly from the Internet, although initially we will use JTRIG infrastructure. Some directly requested by CDO via
+|RE-DACTE-D|.	’	’	'	'
+
+small (GB) Directly requested by CDO via |REDAC TED|
+
+from sources eg, GhostNet
+
+daily
+
+(MB)
+
+idea from CDO
+
 [edit] Miscellaneous
-. . Update . . .
-Knowledge required Available from thering Volumetrics Comments
-frequency
-UK address to protect need to find out how we get them at the weekly? ?one small (GB) apparently got complete list of.gov.uk domains via JANET in June 2011. trawled KED (and therefore probably Akamai whois data) to find some List 
-moment. network info.
-strings, sources, and expected frequency r) weekly? ?one small (GB) SEE Agent prowtwe by OfWide? imam?-
-Malware development and hacking techniques being requires covert monitoring of forums weekly? CKX currently working w1th E-cnme to identify and evaluate forums ofpotential interest. This project may extend to active monitoring ofand reporting on discussions in selected forums.
 
-discussed in forums CKX Ops Manager is 
-POC: 
-POC: (mil
-POC: (mil
-Retrieved from 
-Categories: Cyber Defence Open Source Information
+Knowledge required
+UK address to protect
 
-Views
+USER_AGENT strings, sources, and expected frequency
 
-0 Page
+Malware development and hacking techniques being
+discussed in forums
 
+Retrieved from ”|RED.ACTED|”
 
+Categories: Cyber Defence | Open Source Information
 
- 
+Available from
 
-Additional tatistics
+need lo find oul how we gel lhem al lhe
+momenl.
 
-Personal tools
+Update
 
-0M
+weekly?
 
-REDACTED
-talk
+requires covert monitoring of forums weekly?
 
-My preferences
-My watchlist
-My contributions
+Filtering Volumetrics
 
-Navigation
-
-Main Page
-
-Help Pages
-Wikipedia Mirror
-Ask Me A ouL..
-Random page
-Recent changes
-Report a Problem
-Contacts
+Comments
 
 
-Search
+
+small (GB)
+
+|REDACTED| apparenlly gol complele lisl of .gov.uk domains via JANET in June 2011. [REDACTED | lrawled KED (and lherefore probably Akamai whois dala) lo find some Lisl X
+nelwork info.
+
+small (GB)
+
+see User Agent prototype by |REDACTED|. Of wider interest.
+
+CKX currenlly working wilh E-crime lo identity and evaluale forums of polenlial inleresl. This proiecl may exlend lo active moniloring of and reporting on discussions in selecled forums.
+CKX Ops Manager is |REDACTED|.
+
+POC: [REDACTED]	)
+
+POC: [REACTED] (mm	)
+
+POC: [REDACTED] (n»n IZ>
+
+
+
+Page
+
+•	Discussion
+
+•	Edit
+
+•	Hislorv
+
+•	Dclclc
+
+•	Move
+
+•	Watch
+
+•	Additional Statistics
+
+•	IREDACTEDI
+
+•	Mv lalk
+
+•	Mv preferences
+
+•	Mv walchlisl
+
+•	Mv conlribulions
+
+•	Main Page
+
+•	Help Pages
+
+•	Wikipedia Mirror
+
+•	Ask Me Aboul...
+
+•	Random page
+
+•	Recenl changes
+
+•	Report a Problem
+
+•	Contacts
+
+•	GCWeb
+
+
+
+] Q I S^rch
 
 Toolbox
 
-What links here
-Related changes
-Upload ?le
-Special pages
-Printable version
+•	Whal links here
 
-Permanent link
+•	Relaled changes
 
-This page was last modified on 25 June 2012, at 09:42.
+•	Upload file
 
-This page has been accessed 640 times.
+•	Special pages
 
-All material is UK [http://ww
+•	Prinlable version
 
-GCHO on 01242 221491 X30306 or a i anviik
-Privagy policy
+•	Permanenl link
 
-About GCWiki
+M
 
-Discla'mers
+•	This page was lasl modified on 25 June 2012, al 09:42.
 
-TOP SECRET STRAPI COMTNT
-The maxin classi?cation allowed on GCWiki is TOP SECRET COMINT. Click to report inappropriate content.
+•	This page has been accessed 640 limes.
 
-Crown Copvrightl 2008 or is held under licence from third parties. This information is exempt under the Freedom Act 2000 (FOIA) and mav be exempt under otherUK information legislation. Refer anv FOIA queries to
+•	All malerial is UK Ihllp: www gchq organisation ck opensource polic strateg* cop-right Crown Copvrighll © 2008 or is held under licence from lhird parlies. This information is exempt under lhe Freedom of Information Acl 2000 ( FOIAi and mav be exempt under olher UK information legislalion. Refer anv FOIA queries lo
+GCHQ on 01242 221491 x30306 or infoleg@gchq.gsi.gov.uk
 
+•	Privacv policv
+
+•	Aboul GCWiki
+
+•	Disclai mers
+
+TOP SECRET STRAP1 COMINT
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click lo report inappropriate conlenl.

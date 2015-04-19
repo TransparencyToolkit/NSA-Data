@@ -1,101 +1,92 @@
-SIDToday - NSA's Offensive and Defensive Missions: The Twain Have Met
+﻿SIDToday - NSA's Offensive and Defensive Missions: The Twain Have Met
 
-DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
-TOP SECRET SI TK REL TO USA AUS CAN GBR NZL
+DYNAMIC PAGE - HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
 
-NSA's Offensive and Defensive Missions: The Twain Have Met
+(U//FOUO) NSA's Offensive and Defensive Missions: The Twain Have Met
+
 FROM:
-Threat Operations Center (NTOC) Hawaii
+
+NSA/CSS Threat Operations Center (NTOC) Hawaii
 Run Date: 04/26/2011
 
- 
+(U//FOUO) A push to allow closer interaction between NSA's offensive
+and defensive missions has been underway for years now - since at
+least 2003A Has it been successful, and if so, what have we gained
 
-A push to allow closer interaction between NSA's offensive
-and defensive missions has been underway for years now -- since at
-least 2003* Has it been successful, and ifso, what have we gained
-
-10f3
+1 of 3
 
 SIDToday - NSA's Offensive and Defensive Missions: The Twain Have Met
 
 from it? Here's a success story demonstrating that we are indeed
-seeing concrete bene?ts right now from "mission blending":
+seeing concrete benefits right now from "mission blending”:
 
- 
-
-Years ago it would have been hard to imagine that NSA's defensive
+(TS//SI//REL) Years ago it would have been hard to imagine that NSA's defensive
 side of the house (Information Assurance) and its offensive (SIGINT) mission could
 work together and allow NSA to collect other people's SIGINT, but that is exactly
 what is happening as we speak.
 
-Our story begins in July 2009 at the Threat Operations Center
+(S//REL) Our story begins in July 2009 at the NSA/CSS Threat Operations Center
 (NTOC) -- an organization with a blended foreign intelligence (SIGINT) and
-information assurance mission. While analyzing malicious ?les targeting 
+information assurance mission. While analyzing malicious files targeting DoD
 users, NTOC personnel at Fort Meade discovered an IP address of a command-
 and-control node being used by Asia-based hackers associated with an organized
 series of intrusions known as BYZANTINE RAPTOR. (Note this success story
 started with a tip from the computer-network defense side of the house.)
 
- 
-
-With this IP address in hand, (speci?cally SID's Tailored
-Access Operations were able to get sustained collection on this C2
+(TS//SI//REL) With this IP address in hand, SIGINTers (specifically SID's Tailored
+Access Operations (TAO/S32)) were able to get sustained collection on this C2
 node. Consequently, NTOC-Hawaii has enjoyed visibility into data that BYZANTINE
 RAPTOR is routing through the node. This data includes tasking and collection
 from a Chinese computer-network exploitation (CNE) operation against the United
 Nations.
 
-This collection occasionally includes documents China has stolen
+(TS//SI//REL) This collection occasionally includes documents China has stolen
 from the United Nations network. Since NSA has sustained collection on this C2
 node, we can intercept these same documents. In effect, NSA is able to tap into
-Chinese SIGINT collection -- a phenomenon called "Fourth Party 
+Chinese SIGINT collection -- a phenomenon called "Fourth Party collection."* **
 
-The collection is sent to the PINWALE raw-traf?c database for
-corporate storage and retrieval. Whenever new documents are sent to PINWALE,
-NTOC-Hawaii tips off target in S2. As a result, S2's UN target of?ce has
+(TS//SI//REL) The collection is sent to the PINWALE raw-traffic database for
+coiporate storage and retrieval. Whenever new documents are sent to PINWALE,
+NTOC-Hawaii tips off target analysts in S2. As a result, S2's UN target office has
 issued three SIGINT reports based on this "Fourth Party collection," all dealing
-with high-interest, high-pro?le current events.
+with high-interest, high-profile current events.
 
-This is a tremendous example of the entire NSA -- the offensive and
-defensive missions, headquarters and ?eld -- truly operating as a single enterprise,
-with and collectors connecting data in non-traditional ways to get
+(U//FOUO) This is a tremendous example of the entire NSA - the offensive and
+defensive missions, headquarters and field - truly operating as a single enteiprise,
+with analysts and collectors connecting data in non-traditional ways to get
 intelligence to our customers.
-
- 
 
 (U) Notes:
 
-Ref: DIRgram-290 ("Transformation 2.0 - The Next Step"), the ?rst
-"strategic thrust." Also, for background on what drove mission blending, see this
-SIDtodav interview with former IAD Chief- question 4.
+* (U/FOUO) Ref: DIRgram-290 ("Transformation 2.0 - The Next Step"), the first
+"strategic thrust." Also, for background oi^whaffilrove mission blending, see this
+SIDfodav interview with former I AD Chief^^^^^^J question 4.
 
-See a related article for background on 4th Party collection.
+** (S//SI//REL) See a related article for background on 4th Party collection.
 
-20f3
+2 of 3
 
 SIDToday - NSA's Offensive and Defensive Missions: The Twain Have Met
 
-SIDtoday
+"(U//FOUO) SIDtoday
 articles may not be
 republished or
 reposted outside
-without the
-consent of 50121
 
-    
+NSANet without the
+consent of S0121
 
-DYNAMIC PAGE --
+DYNAMIC PAGE -
 HIGHEST POSSIBLE
 CLASSIFICATION IS
-
-TOP SECRET SI TK
-REL TO USA AUS
+TOP SECRET// SI / TK
+// REL TO USA AUS
 CAN GBR NZL
 DERIVED FROM:
-1-52,
+NSA/CSSM 1-52,
 DATED 08 JAN 2007
 DECLASSIFY ON:
 20320108
 
-30f3
-
+3 of 3

@@ -1,167 +1,116 @@
-       
+﻿SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TO USA, AUS, CAN, GBRProject Overview: The mission of the AURORAGOLD (AG) project is to maintain
-data about international networks for the Wireless Portfolio Program Office
-(WPMO), the Target Technology Trends Center and their customers. Analysis of this
+(u//fouo) AURORAGOLD
+
+(S//SI//REL) Project Overview: The mission of the AURORAGOLD (AG) project is to maintain
+data about international GSM/UMTS networks for the Wireless Portfolio Program Office
+(WPMO), the Target Technology Trends Center (T3C/SSG4), and their customers. Analysis of this
 data supports:
 
-a) An understanding of the current state,
+a)	An understanding of the current state,
 
-b) Trending, or time-series analysis, from the past through to the future, and
+b)	Trending, or time-series analysis, from the past through to the future, and
 
-c) Forecasting of the evolution of global networks.
-This analysis and developmental activity is currently focusing only on infrastructure,
+c)	Forecasting of the evolution of global GSM/UMTS-based networks.
+
+This analysis and developmental activity is currently focusing only on GSM/UMTS infrastructure,
 voice-data convergence, UMTS technology migration, and UMTS technology deployments.
 Coincident beneficiaries of this mission are, among others, other NSA SIGDEV elements, protocol
 exploitation elements, and Five-Eyes Partner SIGDEV organizations.
 
-Alignment: Supports and SlD?s imperative to ?Know the Future.?
-Sponsors: 
+(C//REL) Alignment: Supports NSA's and SID's imperative to "Know the Future."
 
-Customers: Various S3 collections organizations;
+(C//REL) Sponsors: WPMO/S3W
+
+(C//REL) Customers: WPMO/S3W; T3C/SSG4; Various S3 collections organizations;
 numerous IC organizations
 
-Architecture and Infrastructure: Custom-built application based on OZONE
+(C//REL) Architecture and Infrastructure: Custom-built application based on OZONE
 framework, using GOLDENCARRIAGE corporate servers for all application and data
+storage
 
- 
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TO USA, AUS, CAN, GBR, NZL
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-       
+(u//fouo) AURORAGOLD
 
-TO USA, AUS, CAN, GBRCorpus:
+(S//SI//REL) Corpus:
 
 Will contain:
 
-- Unclassified: Complete replica of Informa Telecoms and Media?s World Cellular Information Service
+•	Unclassified: Complete replica of Informa Telecoms and Media's World Cellular Information Service
 (WCIS) queryable database to eventually compare data against that collected from SIGINT
 
-- Classified: SIGINT-collected (International Roaming agreements) documents from around the
+•	Classified: SIGINT-collected IR.21 (International Roaming agreements) documents from around the
 world, parsed of their information, analyzed, and giving users the ability to trend this information
-over time (time-series analysis). In addition, e-mail selectors from within |R.21s and from SIGINT
+over time (time-series analysis). In addition, e-mail selectors from within IR.21s and from SIGINT
 metadata captured, analyzed and managed back into the SIGINT system for enhanced collection
 
-Content:
+(C//REL) Content:
 
-- Portion of the WCIS data available via remainder to be completed within 2-3 months
-- Currently, Phase 1 contains a small database of worldwide wireless networks being compared
-against |R.21s from SIGINT to establish our ?baseline?
+•	Portion of the WCIS data available via NSANet GUI; remainder to be completed within 2-3 months
 
-Capabilities:
-- Soon, complete WCIS repository to be copied to for querying by all NSA and 2P
+•	Currently, Phase 1 contains a small database of worldwide wireless networks being compared
+against IR.21s from SIGINT to establish our "baseline"
+
+(C//REL) Capabilities:
+
+•	Soon, complete WCIS repository to be copied to NSANet for querying by all NSA and 2P
 Partners
-- Later, agile querying through entire and WCIS databases, with capability to perform time-
+
+•	Later, agile querying through entire IR.21 and WCIS databases, with capability to perform time-
 series analysis via visualization application
 
- 
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-TO USA, AUS, CAN, GBR, NZL
+CONFIDENTIAL//REL TO USA, AUS, CAN, GBR, NZL
 
-TO USA, AUS, CAN, GBR, NZL
+(u//fouo) AURORAGOLD Repository
 
- 
+Networks & Suppliers 7/2010	Handsets & Devices 6/2010	NetworK Features 1/2011	NetworK Coverage 1/2011	Licenses 1/2011	Licensed Spectrum 1/2011
 
-Aurora Windmills Internet 
+Network Features
 
- 
+Handsets & Devices
 
- 
+Networks & Suppliers
 
- 
+TO# fcCRET SI REL TO USA.
 
-3 
-IEI- 1i-l- l'?'mrhec [mk th
-|Lnk: gamma Elli) gauge Emil. gums 11:32.3: gala-l5 gala-adv as: is?; I: mob: guru?s-om: Llama gel-s: tumbled: garment ?rl:nlr:dn: 
-FIM-MEUJ I
 
- 
 
-I - I: - Earle - TQZIS a
-:l
-TDF TD USA, 
+License Spectrum
 
-ll I Tl'l's. may rnrm'l malaria; alfn'l red use is far nalinnal smirin pmnses. 
-I I I  USE I5 BUBIBBI TO THE NSA usage and ?10 OH 
+License
 
-(SHRFI The miminn nftl'ie (AH) pmjed is to. maintain chta ml?! intem?inn? UNITS nelwaries far Ihe Wirejrss f?l'rgram Ullirr. (MIND), the Target Ted-mm Gents" (Tim), arltl their uismmers.
-Analysis :11" Illiti dda smpullsz
+Network Coverage
 
-a} An understanding of the current slate,
+Dene		Internet	M00% -
+/ Start Intro > ■ Mkroscft Outbcfc  j 0 lv 6’ U C Hr /a.	i *l] SS<M Prowcts Overview... 11 & Aurora Gold Window... _j Z:\Wto_PevetopmeotvLo |		„ 6 Î-22P"  Monday
 
-b} Trending. or time series analysis, and
+CONFIDENTIAL//REL TO USA, AUS, CAN, GBR, NZL
 
-Forecasling ofthe evolulion of global UNITS?based networks.
+CONFIDENTIAL//REL TO USA, AUS, CAN, GBR, NZL
 
-This analysis and develnpmenta? activity wit! foals nn infrastnidlre, micedata mmergenr?, IIMTS nigratinn, and IIMTS Ierhnningy Gninrjriml hene?m?aries n?flhis mission are, among others, nther
-NSA SIGDEV elements. pmme asphilaliml Eild Five?Eyes Pallm?u SIGDEV mwlligaliuns.
+(U//FOUO)
 
- 
+AURORAGOLD
 
-Networks 31 BUDDIES Handsets S. DEVICES NEIWDFK Features ?2011 1.13011 LICENSEE 1."..3011 Licensed Spectrum H2011
+(C//REL) Demonstration Script
 
-TOACRE TU LISA.
+•	(Only capability currently available is basic querying against small portion of WCIS database)
 
- 
+•	Go to|
 
- 
+•	Click on any of the brown boxes
 
- 
+•	Select your search criteria
 
-I Network Features I I License Spectrum
+•	Select your query result criteria
 
- 
+•	Click "Submit"
 
- 
+•	View the results
 
- 
-
- 
-
- 
-
-I Handsets Devices I License
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Networks Suppliers I I Network Coverage I
-
- 
-
-none I 91mm 
-
-StartI . him-Manson Outlook  USA, AUS, CAN, GBR, NZL
-
-  
-
-TO USA, AUS, CAN, GBRDemonstration Script
-
-- (Only capability currently available is basic querying against small portion of WCIS database)
-- Go to
-
-Click on any of the brown boxes
-
-Select your search criteria
-
-Select your query result criteria
-
-Click ?Submit?
-
-View the results
-
-TO USA, AUS, CAN, GBR, NZL
-
+CONFIDENTIAL//REL TO USA, AUS, CAN, GBR, NZL

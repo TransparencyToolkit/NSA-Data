@@ -1,66 +1,63 @@
-   
-  
-
-Moving Data Through
-
+﻿Moving Data Through
 Disconnected Networks
 
 Delay-Tolerant Networking and
-the IC 
 
-P34 
-P34
+the IC (U//FOUO)
 
-June 2012
-(in/erall <3;Ia?s?slfuzatmn of this limeflmDerived From: 
+June ;
+
+The overall classification of this briefing is:
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM
 1-52
 
 Dated: 20070108
-20360901
+Declassify On: 20360901
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-TOP SECRETIICOMINTIIREL TO USA, FVEY
+Outline
 
-    
+1.	(U) Delay-Tolerant Networking intro
 
-CLJ 
+i	Outside world:	protocols and software
 
-in?: '32??huhth 
+ii.	1C Applications	of	DTNs
 
-. (U) Delay-Tolerant Networking intro
-i. Outside world: protocols and software
-n. lC Applications of DTNs
+2.	(TS//SI//REL) Summary of R4 work
 
-2. Summary of R4 work
+L CHIMNEYPOOL integration
+m Wireless testing
 
-i. CHIMNEYPOOL integration
-n. Wireless testing
+3.	(TS//SI//REL) Interesting details
 
-3. Interesting details
+¡.	DTN Routing
 
-i. DTN Routing
-ii.  
+¡i	DTN Security
 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-TOP SECRETIICOMINTIIREL TO USA, FVEY
-
-      
-
-UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+		
+		
 
 Mobile Ad-Hoc Networks (U)
 
-  
+- (U//FOUO) A wireless network with no
 
-A wireless network with no
-infrastructure
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-  
-  
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Intermittently Connected Network (U)
+
+(U//FOUO) Many wireless networks will not
+have end-to-end cf^inectivity
 
 Source
 
@@ -70,138 +67,108 @@ UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+		
+		
 
-Many wireless networks will not
-have end-to-end '1nectivity
+Delay-Tolerant Networks (U)
 
-     
+(U//FOUO) DTNs use a store-carry-forward
 
- 
+approach to take ad
+mobility
 
-Destination
-
- 
-
-Source
-
-UNCLASSIFIED II FOR OFFICIAL USE ONLY
-
-      
-
-UNCLASSIFIED II FOR OFFICIAL USE ONLY 
-
-Delay-Tolera nt Networks  
-
-  
-
-DTNs use a store-carry-forward
-approach to take ad ntage of node
-mobility 
-
-    
-
- 
+ntage of node
 
 Destination
 
- 
-
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Beginnings of DTN (U)
 
-2000; Epidemic Routing 1990s: Interplanetary Network
-Vahdat and Becker NASA. JPL
+2000: Epidemic Routing
+Vahdat and Becker
 
-.7. 2002, 2004: ZebraNet
+1990s: Interplanetary Network
+NASA, JPL
+
+2002, 2004: ZebraNet
+
 Juang, Oki, Wang, Martonosi, Peh, Rubenstein
 
 2002: Mobility Increases Capacity in Ad-hoc Wireless Networks
 Grossglauser and Tse
 
- 
-
 2003: A DTN Architecture for Challenged Internets
 Kevin Fall
 
-2003: 
+2003: DataMULEs
+
 Shah, Roy, Jain, Brunette
 
 2003: Probabilistic Routing in Intermittently Connected
 Networks
+
 Lindgren, Doria, Schelen
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-  
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+Beginnings of DTN: Epidemic (U)
 
-. Nodes exchange "summary vectors"
+• 2000: Epidemic Routing - Vahdat and Becker
+
+•	Nodes exchange "summary vectors"
+
 . Each node sends the data that the other node lacks
-. Summary vectors implemented as a Bloom Filter
 
-. Followed by Immunity concept: Resource and performance tradeoffs
-in delay-tolerant wireless networks, 2005; Small and Haas
+•	Summary vectors implemented as a Bloom Filter
 
-UNCLASSIFIED II FOR OFFICIAL USE ONLY
-
- 
+•	Followed by Immunity concept: Resource and performance tradeoffs
+in deiay-toierant wireless networks, 2005; Small and Haas
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-   
 
-Beginnings of DTN: ZebraNet (U)
-
-Wildlife tracking project at Princeton
-GPS other info gathered by collars on zebras
-
-Data migrated back to base using "History-Based"
-routing -. I,
-
- 
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-    
+Beginnings of DTN: Zebra Net (U)
 
-UNCLASSIFIED II FOR OFFICIAL USE ONLY 
+•	Wildlife tracking project at Princeton
 
-Beginnings of DTN: IPN 
+•	GPS + other info gathered by collars on zebras
 
-  
+•	Data migrated back to base using "History-Based"
+routing
+
+
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Beginnings of DTN: IPN (U)
 
 Inter-Planetary Network
 
-Long distances long propagation delays
+Long distances D long propagation delays
+
 Intermittent connections
 
-Known contact schedule Contact Graph Routing
-Worked on since the 19905 by NASA, JPL, incl Vint Cerf
+Known contact schedule D Contact Graph Routing
+Worked on since the 1990s by NASA, JPL, incl Vint Cerf
 
-Mars Express
-
- 
-
-NASA Phoenix
-
-Lander
-0
-
-
-
-[Figure taken from Vint Cerf?s 2010
-presentation: ?When Intuition Fails"]
+[Figure taken from Vint Cerf’s 2010
+presentation: “When Intuition Fails”]
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Beginnings of DTN: DataMULEs (U)
 
 Data MULEs: modeling a three-tier architecture for sparse
 sensor networks
@@ -215,32 +182,36 @@ Similar: A Message Ferrying Approach for Data Delivery in
 Sparse Mobile Ad Hoc Networks, 2004; Zhao Ammar,
 Zegura
 
-
-
-   
- 
-
-6.
-
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-    
+What's a DTN For? (U//FOUO)
 
-What's a DTN For? 
+Wildlife tracking
 
-Wildlife tracking - VANETS, Public transit
-ZebraNet, SWIM, TurtleNet DieselNet, NICT
-- Battlefields/disaster areas
-  DARPA DTN Program
-Under water - Sensor nets
-Underground (mines) - Heterogeneous networks
+ZebraNet, SWIM, TurtleNet
+
+Outer space
+Under water
+Underground (mines)
+
+[DTN Communication in a Mine, 2010
+Ginzboorg, Karkkainen et al]
+
+• VANETS, Public transit
+
+DieselNet, Braunschweig, NICT
+
+• Battlefields/disaster areas
+
+DAR PA DTN Program
+
+• Sensor nets
+
+• Heterogeneous networks
 
 [Integrating Multiple and Heterogeneous
 Challenged Networks for Large-sized Data
 Transfer, 2009 Nagata et al]
-
-Communication in a Mine, 2010
-Ginzboorg, Karkkainen et al]
 
 Rural areas
 
@@ -249,61 +220,26 @@ Bytewalla
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-    
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Content dissemination
+What's a DTN for II (U//FOUO)
 
-[PodNet, 2006 Present; Legendre,
+• Content dissemination
+
+[PodNet, 2006 - Present; Legendre,
 Lenders, May, Karlsson]
 
 Haggle Project
 
-Social Networking
+• Social Networking
 
-Distributed Sotrage
-[TierStore, 2008: Demmer, Du,
+• Distributed Sotrage
+
+[TierStore, 2008; Demmer, Du,
 Brewer]
 
 [DTN-based Content Storage and
 Retrieval; Ott, Pitkanen]
-
-What's a DTN for 
-
-
-
-flickr If}:
-in: I. ff" qu-costs
-i *Tnte met. 
-
-I.
-
-   
-   
-      
-    
-   
- 
-
-5
-
-
-   
-
-
-i 
-
-Pui?lm Ere-Iver
-[Cumrnt
-Miaminri Fndi?? Gama 
-
-Gateway 
-
- A
-
-:1
-rays. m?gwgf 
-
-
 
 Cellular Traffic Offloading
 
@@ -313,1617 +249,1189 @@ Study, 2010; Han, Hiu et al]
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-has been part of the IRTF since (at least) 2002
+Standardization Activities* (U)
+
+DTNRG has been part of the IRTF since (at least) 2002
+
 RFC 5050 defines the Bundle Protocol
+
 Application-layer overlay that moves "bundles" of data
+
 Convergence Layers move bundles over different
+networks __________
 
-networks
+Application Application
 
- 
+Bundle Protocol
 
-Application  Applicmi?n i I
+UDP CLA TCP CLA EthCLA
 
- 
+-i
 
-i Bundle Protch 
-
- 
-
-IUDP cum] TEP cut] Eth cm] Click ELA 
-
-
-Bundles
-
-   
-  
-
- 
-
- 
-
- 
-
-Shared
-MEIILE
-
- 
-
- 
+UDP
 
 TCP
 
- 
+IP
 
-HQEJS an! lE?lJ
+Ethernet
 
- 
+Click CLA
 
- 
+^tjUlnillr-
 
- 
+Shared
 
- 
+Mem
 
- 
+Cuntrd
 
-Jlln?h in 
+Messages
 
- Bundlelnterl?ace?
+	f	^  BLindleinterface		
+UDPlPEncap		
+IP Fragment		
+EthcrEncap	1 Bcaconcr	
 
-IF .. 
-Ethernet 
-
-I Physical Layer
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Physical Layer
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
-
-    
-
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Protocol Highlights (U//FouoModular architecture
+Protocol Highlights (U//FOUO)
 
-- Convergence layers
-Routers
+•	Modular architecture
 
-Neighbor discovery
-Security extensions
-Persistent storage
+-	Convergence layers
 
-Hop-by-hop and end-to-end reliability
+-	Routers
+
+-	Neighbor discovery
+
+•	Security extensions
+
+•	Persistent storage
+
+•	Hop-by-hop and end-to-end reliability
 possible
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
-  
-
- 
-
-.
-DE
 
 
- Bundle Protocol Architecture 
+Bundle Protocol Architecture (U//FOUO)
 
-Bundle Bundle Protocol Agent (BPA)
+Bundle
 
-UDP CL File CL AX.25
-CL
-
-Convergence
 Layer
 
- 
+Bundle Protocol Agent (BPA)
 
- 
-
-UNCLASSIFIED II FOR OFFICIAL USE ONLY
-
-   
+Convergence	TCP CL	UDP CL File CL AX.25	■ ■ ■
+Layer		CL	
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-     
-    
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Vapor
+
+Bundle Protocol Stack Landscape
+
+lava stack
+
+Bytewalla
 
 Cisco
 Java stack
 
-.Ilmli.
-CISCO.
+• 111 • 111 ■
 
-      
+cisco.
 
- 
- 
-
-- . -
-  DTN2 Reference
+iPhone
+GATech TCPCL
+C# stack
 
 Real
 
- 
+SPINDLE
+
+DTN2 Reference
+Implementation
+
+IBR-DTN dtns60
 
 UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-      
-   
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Javastack
-.Ilmli.
+Vapor
 
-. CISCO.
+Bundle Protocol Stack Landscape
 
-     
- 
- 
+Ito
 
-. .   DTN2 Reference
---    
+lava stack
 
-  
+Bytewalla
+
+(TS//SI//REL)
+
+FUZZYLINT
+
+Lightweight
+
+BPA
+
+Java stack
+• 111 • 111 •
+cisco.
+
+iPhone
+GATech TCPCL
+C# stack
+
+SPINDLE
+
+DTN2 Reference
+Implementation
+
+IBR-DTN dtns60
+
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 Real
 
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Summary of Intelligence
 Community Applications
 
+(U//FOUO)
 
- 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Covert Communications 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Provide covert comms in denied areas
+Covert Communications (TS//SI//REL)
+
+
+
+•	(TS//SI//REL) Provide covert comms in denied areas
 where no infrastructure exists, or where using the
 infrastructure would compromise the operation.
 
-Several "brush-pass" wireless hand-offs as
+•	(S//REL) Several "brush-pass" wireless hand-offs as
 an untraceable alternative to scheduled meetings,
 dead drops.
 
-DTN provides an open-source solution
-running on commercial handheld devices 
+•	(TS//SI//REL) DTN provides an open-source solution
+running on commercial handheld devices
 Unattributable.
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Close Access 
+Close
 
-- Implant in a secure
+(TS//SI//REL)
+
+•	(TS//SI//REL) Implant in a secure
 facility or denied area
 
-- Need to transfer data
+•	(TS//SI//REL) Need to transfer data
 and commands over two or more
 hops
 
-- May rely on mobile
+•	(TS//SI//REL) May rely on mobile
 nodes and unwitting data mules
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-    
+TOP SECRET//COMINT//TK//REL TO USA, FVEY
 
-1?19, ,e 
+NRO/MSD Collaboration
 
-Moving data between ground stations using CubeSats.
+(TS//SI//TK) Moving data between ground stations using CubeSats.
 Coverage every ~1.5 hours. Need DTN
 
-They use DTN2, ION, contact graph routing
+(TS//SI//TK) They use DTN2, ION, contact graph routing
 
- 
+TOP SECRET//COMINT//TK//REL TO USA, FVEY
 
- 
-
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 Crowd Sourcing (U)
 
-- Provide data flow in and out of
+•	(TS//SI//REL) Provide data flow in and out of
 closed nations during internet shut-down
 
-- (U) Ambitious BIG idea
+•	(U) Ambitious BIG idea
 
-- (U) Proposed CONOP not far from current
+•	(U) Proposed CONOP not far from current
 work
 
-- (U) Proposed internally and externally
+•	(U) Proposed internally and externally
 
-- (U) State Dept-funded project had an article
+•	(U) State Dept-funded project had an article
 in NYT
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Tagging Tracking Locating (U)
+																																								
+	■		■		■		■		■		■		■		■		■		■		■		■		■		■		■		■		■		■		■		■	
 
-- (U) Insert GPS trackers in cars or
+Tagging Tracking & Locating (U)
+
+
+
+
+
+(U) Insert GPS trackers in cars or
 electronics, but we may never see
 them again
 
-- Migrate data back to
+(TS//SI//REL) Migrate data back to
 collection point via DTN
 
-Original CONOP for
+(TS//SI//REL) Original CONOP for
 RAPTORGALAXY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-  
+TOP SECRET//COMINT/TK//REL TO USA, FVEY
 
-CovComm
+Summary of 1C applications (U//FOUO)
 
-Close Access
+CovComm	Close Access	NRO CubeSat Comms	Crowd-  Sourcing	Tagging Tracking & Locating
+Unattributable	Data exfiltration	Com ms between	Provide data flow in	Very small hardware
+COTS handsets	from isolated networks and denied areas	ground stations that only have occasional satellite coverage	and out of closed nations	Record locations and
+Open-source	TSV field test	Use inexpensive CubeSat platform	Ambitious BIG idea  Proposed CONOP can be done now  Proposed internally and externally	encounters  Use DTN to migrate data back to collection points
 
-NRO CubeSat
-Comms
+TOP SECRET//COMINT/TK//REL TO USA, FVEY
 
-5? mmary of IC applications (U//Fouo)  
-
-Crowd-
-Sourcing
-
-.9:
-
- 
-
- 
-
-Tagging
-Tracking 
-Locating
-
- 
-
-Unattributable
-
-COTS handsets
-
-Open-source
-
- 
-
-Data exfiltration
-from isolated
-networks and
-denied areas
-
-TSV field test
-
- 
-
-Comms between
-ground stations that
-only have occasional
-satellite coverage
-
-Use inexpensive
-CubeSat platform
-
- 
-
-Provide data flow in
-and out of closed
-nations
-
-Ambitious BIG idea
-
-Proposed CONOP can
-be done now
-
-Proposed internally and
-externally
-
- 
-
-Very small hardware
-
-Record locations and
-encounters
-
-Use DTN to migrate
-data back to collection
-points
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 DTN work at R4
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Things We Have Done (U)
 
-Porting FOS DTN software to mobile devices
-
- 
-
-   
 
 Things We Have Done (U)
 
-Porting FOS DTN software to mobile devices
+• Porting FOS DTN software to mobile devices
 
-Developing friendly user interface software so
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Things We Have Done (U)
+
+•	Porting FOS DTN software to mobile devices
+
+•	Developing friendly user interface software so
 anyone can use it
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 What We Have Been Building (U)
 
-Porting open source DTN software to mobile devices
+•	Porting open source DTN software to mobile devices
 
-Developing friendly user interface software so anyone
+•	Developing friendly user interface software so anyone
 can use it
 
-- Testing determining what actually works
+•	Testing - determining what actually works
 
-Field testing different configurations and scenarios
-Implementing security features
+•	Field testing different configurations and scenarios
 
-Building new routing modules
+•	Implementing security features
 
-- Adding geo-tagging/tracking features
+•	Building new routing modules
 
-Experimenting with new neighbor discovery methods
+•	Adding geo-tagging/tracking features
 
- 
+•	Experimenting with new neighbor discovery methods
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 FUZZYLINT and
 CHIMNEYPOOL integration
-L)
 
- 
- 
+(TS//SI//REL)
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 (Not So) Close Access
 
-- Retrieving data from an
+•	(TS//SI//REL) Retrieving data from an
 implant without visiting the implant
 ourselves
 
-- Need to add DTN link
+•	(TS//SI//REL) Need to add DTN link
 capability to the implant
 
-- Data mule may be unaware of
+•	(S//REL) Data mule may be unaware of
 their role
 
-- prototype demoed
+•	(TS//SI//REL)Rough prototype demoed
 at Trident Spectre
 
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 STRAITBIZZARE (U)
 
-Cross-platform implant built using 
+•	(TS//SI//REL) Cross-platform implant built using TAO's
 CHIMNEYPOOL framework
 
-- Ports for Linux, Windows, etc..
-- Endpoint-centric focused on file exfil from a PC
-- Remote Procedure Call (RPC) based
+-	Ports for Linux, Windows, etc..
 
-FRIEZERAMP protocol provides covert
+-	Endpoint-centric : focused on file exfil from a PC
+
+-	Remote Procedure Call (RPC) based
+
+•	(TS//SI//REL) FRIEZERAMP protocol provides covert
 networking
 
-- CHIMNEYPOOL comms module
-- Similar to IP, lPsec
-- Only supports static network configuration
+-	CHIMNEYPOOL comms module
 
-FRIEZERAMP links are adapters to
+-	Similar to IP, IPsec
+
+-	Only supports static network configuration
+
+•	(TS//SI//REL) FRIEZERAMP links are adapters to
 converge FR packets onto the transport layer below
 
-- Examples udp, smtp, etc.
+-	Examples : https, udp, smtp, etc.
 
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Put SBZ on each device  right?
-RE L)
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-File exfil CP modules and FRIEZERAMP
+Put SBZ on each device ... right?
+
+(TS//SI//REL)
+
+•	(TS//SI//REL) File exfil CP modules and FRIEZERAMP
 treats reliability as only an end-to-end issue
 
-- FR retransmissions are requested by the receiver
+-	FR retransmissions are requested by the receiver
 and only the sender can retransmit
 
-- Hop-by-hop reliability is desirable
+-	Hop-by-hop reliability is desirable
 
-Persistent storage module only waits until
-link is available then ?send and forget"
+•	(TS//SI//REL) Persistent storage module only waits until
+link is available then "send and forget"
 
-All routes are static and setup a priori
+•	(U//FOUO) All routes are static and setup a priori
 
-Operationally, SBZ on each device is
+•	(TS//SI//REL) Operationally, SBZ on each device is
 undesirable in some CONOPs
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-          
-
-a?
-1 (9
+TOP SECRET//COMINT//REL TO USA, FVEY
 
 
-.9:
-war: - .25;
-"be Canto
-'l 
 
- 
+TSV CONOP (TS//SI//REL)
 
- 
+Target
 
-Circus
+Gumstix
 
- 
-
-Bunker
-
- 
-
- 
-
- 
-
- 9r Awesome
 N810
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-- ?has been building
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Ultra-lightweight BPA (TS//SI//REL)
+
+■ (TS//SI//REL)	has been building
 
 an ultra-lightweight BPA that can act as a CP
 link to a DTN
 
-- Locally provides data persistence,
+•	(U//FOUO) Locally provides data persistence,
 discovery, routing, convergence layers
 
-- FR packets are already
+•	(TS//SI//REL) FR packets are already
 fragmented, so this BPA does not need to be as
-
 flexible as others
 
-- add covert Convergence Layer
+•	(S//REL)Can add covert Convergence Layer
 Adapters
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-STRAITBIZARRE
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
 
- 
 
- 
+TAO-Specific DTN Stack (TS//SI//REL)
 
- 
-
-TAO-S peci?c DTN Stack (Ts//s mm; L) 
-
- 
- 
-
-I
-:9
-
- 
-
- 
-
-WARRIORPRIDE
-
- 
+STRAITBIZARRE		WARRIORPRIDE
+		
+		
+i		j
+I		I
+CP DTN Link Modules		Comms API
+A		À
 
 Next-Generation
+Stage-2 Implant
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-stage-2 Implant
-CP DTN Link Modules Comms API
 DTN API
 
- 
-
- 
-
- 
+TCP CLA
 
 Bundle Protocol Agent
+
+Covert CLA??
+(HTTP/S)
+
+Covert CLA ??
+(SMTP)
 
 Discovery Agent
 (DTN IPND Protocol)
 
- 
-
- 
-
-Covert 
+Covert ??
 Discovery Agent
 
- 
-
- 
-
 Router
+
 (Table Based)
-
- 
-
- 
 
 Storage Agent
 (File Based)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Covert CLA 
-
-
-TCP CLA
-
- 
-
- 
-
- 
-
- 
-
-Covert CLA 
-(SMTP)
-
- 
-
- 
-
-Covert CLA 
+Covert CLA ??
 (VOIP)
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
-   
 
-   
- 
 
-Existing SW
+TSV CONOP (TS//SI//REL)
 
- 
+✓
 
-   
+i
 
-In development
+Implanted
 
- 
+Target
 
-     
+/
 
-Future work
+1 Intermediate
+Node
 
-  
+X
 
- 
+\
 
- 
+/
 
- 
+1 Intermediate
+Node
 
- 
+X
 
- 
+\
 
- 
+' SBZ LP
 
- 
+\
 
- 
+v
 
- 
+SBZ
+CP DTN
 
- 
+Lightweig
 
-Implanted Intermediate Intermediate SBZ LP
-Target I I Node I I Node LInk I I I I I I LInk
-. DTN2 
-. L. . FL. Open . .
-LIghtweIg I I LIghtweIg I I qource I I LIghtweIg
-I I _IniPlatforms a nd Ca pabi I ities RE L) 
+niP
 
- 
+_ _ ✓
 
-      
-      
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Windows and
-java
 
-Unux Gunm?x
 
-netbook
+Platforms and Capabilities (TS//SI//REL)
 
- 
+	Linux  netbook	Maemo	iPhone	Gumstix	Android	Windows and Java
+DTN2						
+IBR-DTN						
+FUZZYLINT						
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-DTN2
-
-FUZZYUNT
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Wireless testbeds
+(U//FOUO)
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Reality Ninja (U//FOUO)
 
 Reality
 
+i ^
+
+Frui
+
+:
+
 Application
 
- 
+V'" v
 
- 
+Presentation
+Session
+Transport
+Network
+Data Link
 
- 
+w
 
- 
+Physical
 
- 
 
- 
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Reality Ninja (U//FOUO)
 
-Reality Ninja 
+Reality
 
-Reality Network Emulators
+Network Emulators
 
-Application Application
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
 
- 
 
- 
+Reality Ninja (U//FOUO)
 
- 
+Reality	Network Emulators Simulation
 
- 
+\ A
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Reality Ninja (U//FOUO)
 
- 
+Reality
 
- 
+Network Emulators
 
- 
+Simulation
 
- 
+MeshTest
 
- 
+1 r— I-—
 
- 
+Frui
 
- 
+Application
 
- 
+Application
 
- 
+Application
 
- 
+Presentation
 
-Reality Ninja 
+Presentation
 
-Reality Network Emulators Simulation
+Presentation
 
-Fruit 
-Application Application Application
+Session
 
- 
+Session
 
- 
+Session
 
- 
+ssion
 
- 
+Transport
 
- 
+Transport
 
- 
+Transport
 
- 
+nsDO
 
- 
+Network
 
- 
+Network
 
- 
+Network
 
- 
+Data Link
 
- 
+Data Link
 
- 
+Physical
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Mobile Wireless Testbed (U//FOUO)
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Mobile Wireless Testbed (U//FOUO)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Reality Ninja 
-
-Reality Network Emulators Simulation
-
-Application Application Application
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Il..um..m
-film
-
-I. a.
-
- 
-
-    
-
-Layels
-Stars
-sky
-NASA Blue Marble Image
-Blue Marble (WMS) 20m
-Hubed Landsat
-LISDA NAIF
-MS Virtual Farih Aerial
-SE35 UI ball Area 
-Pol al Boundaries
-Nod?:-
-Place Names
-World Map
-Scale. bar
-View Controls
-Compass
-
-r" OpeIISlreelMap
-
-vr-?IIWorldwind controls
-
-
-Husl.
-
-1051.
+0 Stars
+0Sky
+
+0 NASA Blue Marble Image
+0 Blue Marble (WMS) 200J
+0 ¡-cubed Landsat
+□ US DA NAJP
+0 MS Virtual Farth Aerial
+0 U5Q5 Ui bail Ai w OrLliu
+0 Political Boundaries
+0 Nodes
+0 Place Names
+0 World Map
+0 scale bar
+□¡View Controls
+0 Compass
+0 OperiSlieelMdp
+
+vmi world wind controls
+
+I Connertinn | Node Controls^_______________
+
+Host
+
+|l0 51,4, £_______________________________|
 
 Port
 
-Da|.aba5e Name
+|3336	11
 
+Database Name
+
+Ivirta (YeshTest	I
+
+Edge Database Name
+
+| EDGE LI ST_____________________________|.
 
 User ID
 
 Database Password
 
-17: 06: 04 EDT 2011
+____________________________________A
+
+Start EKperiment
+
+DisunrieO. Crum Husl/SLup Expel imeiiL
+SaL Juii 04 17:06:04 EDT 2011
 
 World
 
-Round Flat
+O Round	®Flat
 
-tion: Mercator 
+Projection:
 
-Do nio ading
+Altitude 10 km
 
- 
+Downloading
 
-    
- 
-   
+Lat 37.7800°
 
-CMU Wireless Emulator 
+Lon -122.4735'
 
- 
-  
-  
-  
-  
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-CMU User ACCESS
-Emulation Emulab (fiver
-Curl trailer Internet
-- - - I  
-Jrn?f-i-FH-WContrni I I .
 
-  
-    
-   
-   
-   
-   
 
-Nelwurk
+CMU Wireless Emulator (U//FOUO)
 
- 
+Emulation
+
+Controller
+
+CMU
+Emulab
+Boss, Ops
 
 Signal
 
+Conversion
 
+Private
 
-   
+Control
 
-FPGA-hased
+Network
+
+*
+
+*
+
+*
+
+FPGA-baseii
+
 Signal
+
 Propagation
-Emulatinn
 
- 
+Emulation
 
+User Access
+Over
+Internet
 
-when)
-4.
+Signal
 
- 
+Conversion
 
- 
+Signal
 
- 
+Conversion
 
-roject: Rossl'vn Tutorial
-4' Antennas
-Features
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
--.
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Detailed Channel Modeling (U//FOUO)
 
-Images
-Graphs
+Project hierarchy:...
+
+□ □ X 0 Calculation Log:... [V]fn~ l X I
+
+□ X Project view: (Rosslyn Tutorial)
+
+'reject: Rosslyn Tutorial
+E Antennas
+
+*	Features
+r Images
+f-Graphs
+
 Output Filters
-Receiver sets
-Requested output
-Study areas and Output
-Area:myarea1
+r Receiver sets
+^ Requested output
 
-Point to point
+•	Study areas and Output
+- Area: myareal
 
-Point to multipoint
-Complex E-Field
-Complex impulse response
-E?field magnitude
-E-field kl phase
-E?field i? magnitude
-E?field phase
-E-field magnitude
-E?field 2 phase
-E?field RMS
-E-field total magnitude
-E?field total phase
-E?field total ?i magnitude
-E-field total phase
-E?field total 2 magnitude
-E?field total 2 phase
-E-field total RMS
-Excess time of arrival
-Free-space power without anter
-Free-space power with antenna
-Path gain
-Path loss
-Propagation paths
++ Point to point
+i- Point to multipoint
+b- Complex E-Fie Id
++ Complex impulse response
+B- E-field X magnitude
+B- E-field A phase
+ffl E-field V magnitude
+e- E-field V phase
+b- E-field Z magnitude
++ E-field 2 phase
 
+5	E-field RP15
+B- E-field total X magnitude
 
+6	E-field total X phase
+& E-field total Y magnitude
++ E-field total Y phase
++ E-field total 2 magnitude
+ffl E-field total Z phase
++ E-field total RMS
+B- Excess time oF arrival
+& Free-space power without anter
++ Free-space power with antenna
+B- Path gain
 
+ffl Path loss
+E- Propagation paths
 
+RooFtop Single Tx Point
+| £ Rooftop LOS TX Point
 
+i Added Single Rk Point
+B- Received power
+b- Time oF arrival
+fe" Transmitter sets
+Views
 
+- Waveforms
 
- 
+Project Edit View Output "Select Help
 
+Selection: Rooftop LOS Tx Point, point #1 -> Added Single Rx Point [Propagation paths]
 
+D ' IS ■?? ® I I * Sal
 
- 
+[ÎI)1! Features |0I Images 4Sr Study areas
 
- 
+/fv. Transmitters
 
- 
+Gmail - Inbox (5036).
 
- 
+-, GNU Image Manipulât..
 
-Rooftop Single Tx Point
-Rooftop L05 Tic Point
-4- Added Single Rx Point I
-Received power
-Time of arrival
-Transmitter sets
+.*-■ î V
 
-.I.
+fn5 CADocuments and 5e.,
 
-ta stereos
+IB Ö
 
-4:
-i_i
+Active	Visible	| Description	1 Type	No. points	I Spacing	| Antenna	Waveform	I Collection ra...	Bounding bon	Filename
+Wo	Yes	Lynn St	route	59	5.00 m	Vertical dipole	*908-5 MHz	Auto	Auto	CADocuments and 5ettings\lls\My DocumenlsY..
+No	Yes	N Moore St	route	62	5.00 rn	Vertical dipole	“308-5 MHz	Auto	Auto	CADocuments and Setting-Alts'-,My DocumentsY,,
+No	Yes	N Kent St	route	42	5.00 m	Vertical dipole	“908-5 MHz	Auto	Auto	CADocuments and SettingsMtsSMy DocumentsY..
+No	Yes	N Nash St/19th St	route	112	5.00 m	Vertical dipole	“908-5 MHz	Auto	Auto	L:\Documenls and Bettings Ml sL.My DocumenlsY..
+No	Yes	Ft. My er Drive	route	64	5.00 rn	Vertical dipole	*908-5 MHz	Auto	Auto	CADocuments and 5ettings\lts\My DocumentsY..
+Yes	Yes	Added Single Fix Point	paints	1	N/A	Vertical dipole	303-5 MHz	Auto	Auto	CADocuments and SettingsMtskMy DocumenlsY..
 
+¡election: Rooftop LOS Tx Point, point #1 -> Added Single Rx Point [Propagation paths]
 
+Rosslyn T utoilal
 
-Selection: Rooftop LOS Tx Point, point #1 Added Single Rx Point [Propagation paths]
+<j jjy	J||
 
- 
-
-  
-
- 
-
-A
-H: 
-Y: 515.13m
-Z: 42.00 
-
- 
-
- 
-
- 
-
-\I'ieI-vs  Features Images 49 Study areas  Transmitters I ?if Receivers  Comm. systems Materials 9} Antennas Waveforms l7 Heguested output 0utput Elutput filters
-Waveforms
-
-Active I Visible I Description I Type I No. points I Spacing Antenna I Waveform I Collection I Sounding boi-r I Filename I
-
-No Yes St route 50 5.00 Vertical dipole ?000-5 Auto Auto C: ocuments and 
-
-No Yes Mooie St route 02 5.00 Veitical dipole ?000-5 Auto Auto ocuments and SettingletslIMy 
-
-No Yes Kent St route 42 5.00 Vertical dipole Auto Auto C: ocuments and SettingletslIMy 
-
-No Yes Nash St 13th St route 112 5.00 Vertical dipole a?000-5 Auto Auto ocuments and 
-
-No Yes Ft. Myer Drive route 04 5.00 Vertical dipole ?000-5 Auto Auto
-
-Yes Yes Added Single Fii-I Point points 1 NJA Vertical dipole 000-5 Auto Auto C: ocuments and Settings'tlts'sMy 
-
-Tutorial
+Calculation finished. Elapsed time: 00:i
 
 Propagation model parameters
-Study area number:
-Short description: myareai
-Propagation model: fu||3d
-Flay spacing [deg]: 0.250
 
-aximum reflections: 20
-aximum transmissions: 0
-aximum diffractions: 1
+Study area number:	1
 
-Maximum reflections before first 
-aximum reflections between diff
+Short description: myareal
+Propagation model: full3d
+Ray spacing [deg.): 0.250
+Maximum reflections:	20
+
+Maximum transmissions:	0
+
+Maximum diffractions:	1
+
+Maximum reflections before first d
+
+Maximum reflections between diff
 Maximum reflections after last diff
-Maximum transmissions before fir:
+Maximum transmissions before fit:
 Maximum transmissions between
 Maximum transmissions after last
-Flay tracing method: 50R
-
-Flay tracing acceleration: auto
-
+Ray tracing method: SBR
+Ray tracing acceleration: auto
 Using partitions.
 
-Available emory 1 PET. SE
-aximum emory sed I
+Available Memory (MB) = 1797.6S
+Maximum Memory Used (MB) = 1
 
 Calculation mode before checking
-Calculation Mode 
+Calculation Mode =	6
+
 completed reading e-field records
 
-mode after checking status of patl
-Calculation Mode 0
+mode after checking status of path
+Calculation Mode =	6
 
-Start combining fields and writing 
-Wiiting point-to-many output
-10 Percent Completed 0h 0m
-20 Peicent Completed 0h 0m
+Start combining fields and writing c
 
-stait inteilerence analysis
-finish inteiierence analysis
+Writing point-to-rnany output
+10 Percent Completed Oh Orn
+20 Percent Completed Oh 0m
 
-Finish combining fields and wiiting
-Timing results for study area myare
-Combining Fields and Writing Dutp
-Study Area Fiun Time: 0h 0m Est
+start interference analysis
+finish interference analysis
+
+Finish combining fields and writing
+
+Timing results for study area rnyare
+
+Combining Fields and Writing Cutp
+Study Area Run Time: Oh Orn 2s f
 
 Finished
 
-Warning essages
+Warning Messages
 None
 
-Stop time: 10:21:40 
+Stop time: 16:21:48 6/6/2011
 Elapsed time: 25 seconds
 
-ocuments and 
+j Lomm. systems
 
- 
+|h Materials xu
 
- 
 
- 
 
- 
+m
 
- 
+Y: 515.19 m
+Z: 42.00 m
 
-sew-II
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Selection: Rooftop LOS Tx Point, point #1 Added Single Rx Point [Propagation paths]
-
-L34
-
- 
-
-Calculation finished. Elapsed time: 00:;
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Routing and Reliability Issues
-
+Security Issues
 
 Some Interesting Details
 
 (U)
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Routing in DTNs (U)
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+		
+		
 
 Flood Routing and Epidemic (U)
 
-- 2000: Epidemic Routing [Vahdat and
+2000: Epidemic Routing [Vahdat and
 Becker]
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Static Routing Background (U)
 
-- Bundle Protocol Nodes are identified by Endpoint
-Identifiers (Ele) that look like:
+•	Bundle Protocol Nodes are identified by Endpoint
+Identifiers (EIDs) that look like:
 
+dtn://dtnbone.umd.edu.dtn/
 
+dtn://nodea.dtn/
 
-ebr://g roup5.dtn/
+ebr://group5.dtn/
 
-- Convergence Layer connections to neighbors are
+•	Convergence Layer connections to neighbors are
 called "Links"
 
-For example a TCP connection to a neighbor is a link
+- For example a TCP connection to a neighbor is a link
 
-- Each link knows the EID of the neighbor associated
+•	Each link knows the EID of the neighbor associated
 with it
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Destination
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+		
+		t0ÊÊÊfc, -
 
+Static Routing Tables (U)
 
+One-hop “Direct Delivery”
 
+Destination	Next hop	Action
+dtn://sam.dtn/	link-0	FWD
+dtn://bob.dtn/	link-1	FWD
+dtn://amy.dtn/	link-2	FWD
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-Static Routing Tables (U) 
-One-hop ?Direct Delivery"
-Next hop Action
-link-0 FWD
-link-1 FWD
-link-2 FWD
+		
+		
 
-  
+Static Routing Tables (U)
 
+Two-hop “Bundle Ferry”
 
+Destination	Next hop	Action
+dtn://sam.dtn/	dtn://ferry.dtn/	FWD
+dtn://bob.dtn/	dtn://ferry.dtn/	FWD
+dtn://amy.dtn/	dtn://ferry.dtn/	FWD
+dtn://ferry.dtn/	link-0	FWD
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+Static Routing Tables (U)
 
+Two-hop “Bundle Ferry” with wildcards
 
+Destination	Next hop	Action
+dtn://sam.dtn/	dtn://ferry-*.dtn/	FWD
+dtn://bob.dtn/	dtn://ferry-*.dtn/	FWD
+dtn://amy.dtn/	dtn://ferry-*.dtn/	FWD
+dtn://ferry-27.dtn/	link-0	FWD
+dtn://ferry-180.dtn/	link-1	FWD
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+Static Routing Tables (U)
 
- 
+Multi-hop “Tiered routing”
 
- 
+Destination	Next hop	Action
+dtn://twitter.dtn/	dtn://tierl-*.dtn/	FWD
+dtn://twitter.dtn/	dtn://tier2-*.dtn/	FWD
+dtn://twitter.dtn/	dtn://tier3-*.dtn/	FWD
+dtn://twitter.dtn/	link-0	FWD
 
-Destination
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+DTN Routing Bonanza (U)
 
-
-
-
-?mm 
-
-Static Routing Tables (U) 
-Two-hop ?Bundle Ferry"
-Next hop Action
-FWD
-FWD
-FWD
-link-0 FWD
-
- 
-
- 
-
-7-
-
- 
-
-
-
-
-
-
-
- 
-
-Static R0 ?ti ?9 Tables (U) 
-
- 
-
-Two-hop ?Bundle Ferry" With Wildcards
-
-Destination
-
-
-
-
-
-
-Next hop
-
-
-
-link-0
-
-link-1
-
-Action
-FWD
-FWD
-FWD
-FWD
-FWD
-
- 
-
- 
-
- 
-
- 
-
-Destination
-
-
-
-
-
-
- 
-
-Static R0 ?ti ?9 Tables (U) 
-
-Multi-hop ?Tiered routing"
-
-Next hop
-
-
-
-link-0
-
- 
-
-Action
-FWD
-FWD
-FWD
-FWD
-
- 
-
- 
-
-   
-
-DTN Routing Bonanza (U) 
-
-People propose routing protocols for many
+(U//FOUO) People propose routing protocols for many
 different environments and purposes.
 
-- Sometimes With novel applications, sometimes With no
-realneed
+- Sometimes with novel applications, sometimes with no
+real need
 
 (U) Has inspired the phrase "Yet Another Routing Protocol"
 
- 
+Static
 
-Epidemic With Immunity
+Flooding
 
-    
+Static with copy links
+Neighborhood
+Epidemic
+Endemic
 
-   
+Epidemic with Immunity
 
-DTLS (U) 
+mphone
 
-Delay-Tolerant Link State Routing
-- Assumes a mostly stable contact graph
-- Nodes all flood their recent contacts
+TIERStore
 
-- Each node maintains an internal picture of the
+DTLSR
 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+• (U//FOUO) Delay-Tolerant Link State Routing
+
+-	Assumes a mostly stable contact graph
+
+-	Nodes all flood their recent contacts
+
+-	Each node maintains an internal picture of the
 network, and makes routing decisions based on
-alg
+Dijkstra's alg
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-?Intelligent? Routing: PROPHET (U)
+"Intelligent" Routing: PRoPHET (U)
 
-Probabilistic routing in intermittently connected
+• Probabilistic routing in intermittently connected
+networks, 2003; A. Lindgren, A. Dona, and 0. Scheln
 
-networks, 2003; A. Lindgren, A. Doria, and O. Scheln
+• Probabilistic Routing Protocol using History of
+Encounters and Transitivity (PRoPHET)
 
-Probabilistic Routing Protocol using History of
+amy	0.0
+sam	0.0
+joe	0.4
 
-Encounters and Transitivity 
+sam	0.9
+bob	0.0
+joe	0.0
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-amy 0.9
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
+"Intelligent" Routing: PRoPHET (U)
 
--l  
-joe 0.0
+•	Probabilistic routing in intermittently connected
+networks, 2003; A. Lindgren, A. Dona, and 0. Scheln
 
- 
+•	Probabilistic Routing Protocol using History of
+Encounters and Transitivity (PRoPHET)
 
- 
+bob
 
- 
+amy	0.4
+sam	0.9
+joe	0.4
 
- 
+sam	0.9
+bob	0.0
+joe	0.0
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
 
- 
-
- 
-
-5am 0'9
-
-joe 0.0
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-amy
-
-0.0
-
- 
-
-sam
-
-0.0
-
- 
-
- 
-
- 
-
-joe
-
- 
-
-0.4
-
- 
-
- 
-
- 
-
- 
-
-'"tel igent" Routing: ET (U) 
-
-Probabilistic routing in intermittently connected
-networks, 2003; A. Lindgren, A. Doria, and O. Scheln
-
-Probabilistic Routing Protocol using History of
-Encounters and Transitivity 
-
-sam bob 0.0
-joe 0.0
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
 
 Network-Coding in DTNs (U)
+
+.->w ' \,
 
 Imagine trying to distribute a 100MB
 bundle in a DTN
 
 Idea:
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-10MB
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-1MB 1MB 1MB 1MB
 
- 
 
- 
 
- 
 
- 
+Network-Coding in DTNs (U)
 
- 
+•	Imagine trying to distribute a 100MB bundle in a DTN
 
- 
+•	Idea: fragment into 1MB pieces
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Netwo rk-Cod i ng in DTNs (U) 
-
-Imagine trying to distribute a 100MB bundle in a DTN
-Idea: fragment into 1MB pieces
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-1MB
-
- 
-
- 
-
- 
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Network-Coding in DTNs (U)
 
@@ -1932,154 +1440,148 @@ Send linear combinations of fragments
 A receiver can collect any ten pieces and recover the
 data
 
- 
+1MB
 
-  
-  
+1MB
 
-1MB 1MB 1MB 1MB
+1MB
 
- 
+j 1MB
 
- 
+1MB 1MB
 
- 
+1MB
 
- 
+1MB
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Security in DTNs (U)
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Security 111reats (U)
+Security Threats (U)
 
-- Protecting against rogue bundles being
+•	(TS//SI//REL) Protecting against rogue bundles being
 injected into the network
 
-- Prevent an adversary from modifying
+•	(TS//SI//REL) Prevent an adversary from modifying
 legitimate bundles
 
-Protection against eavesdroppers
-Authenticate neighbors before establishing links
-- Low Probability of Detection Intercept
+•	(S//REL) Protection against eavesdroppers
 
- 
+•	(S//REL) Authenticate neighbors before establishing links
 
-    
+•	(TS//SI//REL) Low Probability of Detection / Intercept
 
--ECRI Dl?gcm
-ewkbf? - ??70 Gaybi(U) Provides bundle-layer 
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+Bundle Security Protocol RFC 6257 (U)
+
+•	(U) Provides bundle-layer encryption,
 authentication, and data integrity
 
-- (U) Lack of connectivity affects choice
+•	(U) Lack of connectivity affects choice
 of algorithms and services
 
-- (U) Security polices may be directional
+•	(U) Security polices may be directional
 
-- Managing keys and their
+•	(U//FOUO) Managing keys and their
 accompanying policies is a challenge
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Bundle Authentication (U)
 
-- (U) Hop-by-hop Authentication
+•	(U) Hop-by-hop Authentication
 
-(U) Requires each device to generate a shared secret with
+•	(U) Requires each device to generate a shared secret with
 each of its neighbors
 
-Establishing these keys is a challenge
+•	(U//FOUO) Establishing these keys is a challenge
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-  
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+Bundle Authentication (U)
 
- ?(mop DIRECT-34.
-4 av"-  
-I-u. g..-Bun entlcatlon 
+•	(U//FOUO) End-to-end authentication
 
- 
+- RSA digital signatures
 
-- End-to-end authentication
-RSA digital signatures
-
-- (U) Intermediate nodes can verify the
+•	(U) Intermediate nodes can verify the
 signature
 
-- (U) Cannot assume connectivity to an
+•	(U) Cannot assume connectivity to an
 external Certificate Authority
 
-- (U) For signatures, the certificate can
+•	(U) For signatures, the certificate can
 be appended to the message
 
-  
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- ?vac? D'Rgcrob..r?raPayload data 
+Bundle Encryption (U)
+
+•	(U//FOUO) Payload data encrypted
 with AES in Galois Counter Mode
-
 (GCM)
-- (U) Provides data integrity
 
-- (U) AES key is with the
-destination?s RSA public key
+•	(U) Provides data integrity
 
-   
+•	(U) AES key is encrypted with the
+destination's RSA public key
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Key Management Issues (U)
 
-(U) How to distribute public keys securely
-One option: pass certificates between devices
+•	(U) How to distribute public keys securely
 
-Another option: pre-placing certificates
-Memory issues
+•	(U//FOUO) One option: pass certificates between devices
 
-(U) Revoking keys of compromised devices
+•	(U//FOUO) Another option: pre-placing certificates
 
- 
+- Memory issues
 
-   
+•	(U) Revoking keys of compromised devices
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Link-Layer Security (U)
 
-Even With BSP, CL is Wide open
+(U//FOUO) Even with BSP, CL is wide open
 
-Develop a mechanism to authenticate
+(U//FOUO) Develop a mechanism to authenticate
 neighbors before allowing them to connect
 
-Enables dropping unwanted bundles
-May prevent through too many connections
+■	Enables dropping unwanted bundles
 
-Enable different groups of nodes to operate in
+■	May prevent DoS through too many connections
+
+(U//FOUO) Enable different groups of nodes to operate in
 the same area but maintain separation
 
-BPA BPA
+BPA				BPA		
+TCP CL		UDP CL		TCP CL		UDP CL
 
-UDP CL - UDP CL
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Link-Layer Security (U)
 
@@ -2087,445 +1589,111 @@ Link-Layer Security (U)
 Lightweight
 Low setup latency
 Limited bandwidth consumption
-
 Minimal provisioning/maintenance
+
 Compatible with short session
 durations
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-   
+TOP SECRET//COMINT//REL TO USA, FVEY
 
-Covert Discovery 
+Covert Discovery (S//REL)
 
-- Have set up external
+•	(TS//SI//REL) Have set up external
 triggers for establishing DTN links
 
-- Similar work being done
+•	(S//REL) Similar work being done
 outside to reduce power consumption
 
-- (U) Example: Bluetooth beacons
-triggering a Wifi connection
+•	(U) Example: Bluetooth beacons
+triggering a wifi connection
 
-- Another option: use our own
+•	(S//REL) Another option: use our own
 radios for some hops
 
- 
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Surveillance-oriented
+
 Demo (U)
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
-   
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-.
-
-Parkin
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
-
- 
-
- 
-
- 
+/ \
 
 Parking
 
- 
+\______________________
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Data sources at ?secret? locations on campus. Queue
+Data sources at "secret" locations on campus. Queue
 up or generate data.
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
-  
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Mobile data generator in a car sending
 segments of audio
 
- 
-
- 
-
- 
-
-    
-     
-
- 
+/	\
 
 Parking
 
- 
+\_____________________/
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-ii
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 Destination node in parking lot by the
 Comcast Center
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
- 
-
- 
-
- 
-
-    
- 
-     
-
- 
+f	\
 
 Parking
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+\_____________________/
 
 Pedestrian relays walk around, and pick up
 data from source nodes
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Parking
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
-
- 
-
- 
-
-A  
-Car Players are typical data 
+Car Players are typical data
 ferries. They relay data to the
 destination.
 
-   
+f	\
+
+Parking
+
+\_____________________/
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
 1. Sources
 
 3. Relays
 
-   
-
-4. Destination
-
- 
-
 2. Relays
 
- 
+UNCLASSIFIED II FOR OFFICIAL USE ONLY
 
- 
+UNC
 
 Questions?
 
- 
-
+LASSIFIED II FOR OFFICIAL USE ONLY

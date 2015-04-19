@@ -1,77 +1,84 @@
-Page 150
+﻿Page 150
 
-TOP SECRETIICOMINTIIREL T0 USA, FVEY
-(Report generated on:4l11l2013 
+TOP SECRET//COMINT//REL TO USA, FVEY
 
- 
+(Report generated on:4/11/2013 3:31:05PM )
 
- 
+NewCrossProgram	|	Active ECP Count:	|	i~~|
 
-NewCrossProgram I Active ECP Count: 
-CrossProgram-1-13 New ECP Lead:
-Title of Change: Update Software on all Cisco ONS Nodes
-  C-Routine
-Sitelsl: APPLE1 CLEVERDEVICE No Project(s) Entered
-HOMEMAKER DOGHUT
+CrossProgram-1-13 New	ECP Lead: I name redacted"!
 
-QUEENSLAND SCALLION
-SPORTCOAT 
-SUBSTRATUM TITAN
-POINTE SUBSTRATUM 
-BIRCHWOOD MAYTAG 
-EAGLE EDEN 
-System15): Comms/Network No Entered
-Comma/Network 
+Title of Change:	Update Software on all Cisco ONS Nodes
 
-Comms/Network 
+Submitter:	I name redacted I	Approval Priority:	C-Routine
 
-Description of Change:
+Sitefsb	APPLE1 : CLEVERDEVICE ProiectfsL	No Project(s) Entered
 
-Reason for Change:
+: HOMEMAKER : DOGHUT
+: QUARTERPOUNDER :
 
-Mission Impact:
+QUEENSLAND : SCALLION
+: SPORTCOAT :
 
-Additional Info:
+SUBSTRATUM : TITAN
+POINTE : SUBSTRATUM :
 
-Last CCB Entm:
+BIRCHWOOD : MAYTAG :
 
-Programs Affected:
+EAGLE : EDEN :
 
-Udate software on all Cisco Optical Network Switches.
+Svstemlsl:	Comms/Network :	SubSvsternlsl:	No Subsystem(s) Entered
 
-All of our Cisco ONS SONET multiplexers are experiencing a software bug
+Comms/Network :
+
+Comms/Network :
+
+Comms/Network :
+
+Description of Change. ydate software on all Cisco Optical Network Switches.
+
+Reason for Change:	All of our Cisco ONS SONET multiplexers are experiencing a software bug
+
 that causes them to intermittently drop out.
 
-The mission impact is unknown. While the existing bug doesn't appear to
+Mission Impact:	The mission impact is unknown. While the existing bug doesn't appear to
+
 affect traffic, applying the new software update could. Unfortunately, there is
 now way to be sure. We can't simulate the bug in our lab and so it's
 impossible to predict exactly what will happen when we apply the software
-update. We propose to update one of the nodes in NBP-320 ?rst to determine
-ifthe update goes smoothly.
+update. We propose to update one of the nodes in NBP-320 first to determine
+if the update goes smoothly.
 
 Recently we tried to reset the standby manager card in the HOMEMAKER
-node. When that failed, we attempted to physically reseat it. Since it was the
+node. When that failed, we attempted to physically reseat It. Since it was the
 standby card, we did not expect that would cause any problems. However,
 upon reseating the card, the entire ONS crashed and we lost all traffic through
 the box. It took more than an hour to recover from this failure.
 
-The worst case scenario is that we have to blow away the entire con?guration
+The worst case scenario is that we have to blow away the entire configuration
 and start from scratch. Prior to starting our upgrade, we will save the
-configuration so that if we have to configure the box from scratch, we can
+configuration so that If we have to configure the box from scratch, we can
 simply uploade the saved configuration. We estimate that we will be down for
-no more than an hour for each node in the system.
+no more than an hour for each node In the system.
 
-3/26/2013 8:16:13 AM
+Additional Info:
 
-We have tested the upgrade in our lab and it works well. However, we can't
+Last CCB Entry:
+
+Programs Affected:
+
+3/26/2013 8:16:13 AM	I NAME REDACTED |
+
+We have tested the upgrade in our lab and it works well. However, we can’t
 repeat the bug in our lab, so we don't know if we will encounter problems when
 we attempt to upgrade a node that is affected by the bug.
 
-04/10/1316:08:11
-09 Apr Blarne CCB - Blarney ECP board approved
-ECP lead:
+04/10/13 16:08:11 | NAME REDACTED
 
-Blarney Fairview Oakstar Stormbrew
+09 Apr Blarney CCB - Blarney ECP board approved
+
+ECP lead: name redacted
+
+Blarney Falrvlew Oakstar Stormbrew
 
 No Related Work Tasks
-

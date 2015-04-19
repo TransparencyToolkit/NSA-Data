@@ -1,21 +1,20 @@
-CNE Access to BELGACOM GRX Operator: (GREEN) This work has been very
-successful and has enabled not only CNE but also Ops by identifying a large
-number of VPN exploitation opportunities. The NAC held a joint with 
+﻿CNE Access to BELGACOM GRX Operator: (GREEN) This work has been very
+successful and has enabled not only CNE but also Crypt Ops by identifying a large
+number of VPN exploitation opportunities. The NAC held a joint MyNOC with Crypt
 Ops (OP SOCIALIST II) to identify the huge extent of opportunity that this work has
-identified. Work continues on a reduced number of ONE requirements.
+identified. Work continues on a reduced number of CNE requirements.
 
-MERION ZETA (support for NEP and Ops teams): This surge which included
-contributors from other areas - was a continuation of the involvement in the
-project to exploit Belgacom's GRX network, as required by the Mobile Theme. This
+MERION ZETA (support for NEP and Crypt Ops teams): This surge - which included
+contributors from other areas - was a continuation of the NAC’s involvement in the
+project to exploit Belgacom’s GRX network, as required by the Mobile Theme. This
 particular surge, which was completed successfully, included efforts to: identify the
-mobile network operators that connect to the Belgacom network via 
+mobile network operators that connect to the Belgacom network via VPN;
 characterise each VPN and determine those that contain GTP: facilitate the
 
 processing of these GTP events to enable the extraction and use of target selectors;
 conduct access analysis to identify the best point of access for the key networks;
-make recommendations for further sustained GTFJ processing.
+make recommendations for further sustained GTP processing.
 
-- Successful VERACIOUS Project-enabling conducted; key requirements for upcoming work
-identi?ed, which are key to reducing risk exposure. Network Analysis on BELGACOM hugely
+• Successful VERACIOUS Project-enabling conducted; key requirements for upcoming work
+identified, which are key to reducing risk exposure. Network Analysis on BELGACOM hugely
 successful enabling exploitation.
-

@@ -1,24 +1,24 @@
-Page114
+﻿Page 114
 
-SSO Expands PRISM Skype Targeting Capability
+(TS//SI//NF) S50 Expands PRISM Skype Targeting Capability
 
- 
+By
 
-By  NAME REDACTED on 2013-04-03 @629
+NAME REDACTED
 
- 
+on 2013-04-03 0629
 
-On 15 March 2013, 550?s PRISM program began tasking all
+(TS//SI//NF) On 15 March 2013, SSO's PRISM program began tasking all
 Microsoft PRISM selectors to Skype because Skype allows users to log in
 using account identifiers in addition to Skype usernames. Until now, PRISM
 would not collect any Skype data when a user logged in using anything other
 than the Skype username which resulted in missing collection; this action
 will mitigate that. In fact, a user can create a Skype account using any
-e?mail address with any domain in the world. UTT does not currently allow
-to task these non?Microsoft e?mail addresses to PRISM, however,
-SSO intends to fix that this summer. In the meantime, NSA, FBI and Dept\of
+e-mail address with any domain in the world. UTT does not currently allow
+analysts to task these non-Microsoft e-mail addresses to PRISM, however,
+
+SSO intends to fix that this summer. In the meantime, NSA, FBI and Dept| of
 Justice coordinated over the last six months to gain approval for PRINTAURA
 to send all current and future Microsoft PRISM selectors to Skype. This
 resulted in about 9800 selectors being sent to Skype and successful
 collection has been received which otherwise would have been missed.
-

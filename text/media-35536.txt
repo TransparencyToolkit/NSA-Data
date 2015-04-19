@@ -1,131 +1,120 @@
-SCARLETF EVER - Wikilnfo
+﻿SCARLETFEVER - Wikiinfo
 
-The accredited security level of this system is: TOP 
-TO USA, FVEY 
-TOP TO USA, FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
+
+TOP SECRET//SI//REL TO USA, FVEY
 
 (U) SCARLETFEVER
 
-From Wikilnfo
+From Wikiinfo
 
-A II This Project page has moved to the: CES 2P
-Ill PIQ Wiki
+This Project page has moved to the: CES 2P
+PIQ Wiki
 
+Contents
 
+■	1 (U) Overview
 
-This page is registered as
-
-90 scarletfever 
-(URN info: alias yeeha
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-- This application makes use of the
-Java programming language.
-Contents - -
-I 1 (U) Overview This application makes use of the
-programming language.
-I 2 (U) Development Process and
+■	2 (U) Development Process and
 Standards
 
-I 2.1 (U) Related Wiki Pages
-3 (U) History
-4 (U) Design
-5 (U) Contact Info
+■ 2.1 (U) Related Wiki Pages
+
+■	3 (U) History
+
+■	4 (U) Design
+
+■	5 (U) Contact Info
+
+£  Java	This application makes use of the Java programming language.
+	
+C++	This application makes use of the C++ programming language.
 
 (U) Overview
 
-SCARLETFEVER is the second LONGHAUL capability. It is a
-message driven exploitation service for DNSC traf?c. Currently, the
-list of SCARLETFEVER clients includes TURMOIL, and the
-Each client can connect to SCARLETFEVER using ISLANDTRANSPORT.
-Once connected, clients send and receive XML messages using
+(TS//SI//REL) SCARLETFEVER is the second LONGHAUL capability. It is a
+message driven cryptologic exploitation service for DNSC traffic. Currently, the
+list of SCARLETFEVER clients includes TURMOIL, WEALTHYCLUSTER and the
+TEe. Each client can connect to SCARLETFEVER using ISLANDTRANSPORT.
+Once connected, clients send and receive XML messages encrypted using
 ISLANDHIDEAWAY.
 
-An in depth look at SCARLETFEVER can be found here. 
-
+An in depth look at SCARLETFEVER can be found here.
 
 (U) Development Process and Standards
 
-SCARLETFEVER follows the LONGHAUL Development Process
+(U//FOUO) SCARLETFEVER follows the LONGHAUL Development Process
 
-10f3
+1 of 3
 
-SCARLETF EVER - Wikilnfo
+SCARLETFEVER - Wikiinfo
 
-TO USA, FVEY 
+KEYHOLE//ORCON/PROPIN/RELIDO/REL TO USA, FVEY *
 
 (U) Related Wiki Pages
 
-I LONGHAUL the Parent Project
-I POISONNUT a Sibling LONGHAUL Project
+■	(U//FOUO) LONGHAUL - the Parent Project
+
+■	(U//FOUO) POISONNUT - a Sibling LONGHAUL Project
 
 (U) History
 
-I L) The SCARLETFEVER development started in July 2009.
-I L) The basic high level functional design was completed in
+■	(TS//SI//REL) The SCARLETFEVER development started in July 2009.
+
+■	(TS//SI//REL) The basic high level functional design was completed in
 early September 2009.
 
 (U) Design
 
-The SCARLETFEVER team then met several times over the
-July?September time frame to re?ne the design of the system. The output of
+(TS//SI//REL) The SCARLETFEVER team then met several times over the
+July-September time frame to refine the design of the system. The output of
 those meetings was a series of BPMN diagrams and technology areas for
 further investigation. The BPMN diagrams exposed:
 
-I The ?ow of information through the system (messages).
-I The high level components and critical elements.
+■	The flow of information through the system (messages).
 
-The messages, component and critical elements, and technology
+■	The high level components and critical elements.
+
+(TS//SI//REL) The messages, component and critical elements, and technology
 areas were used to generate an initial list of Engineering Change Requests
-(ECRs) for further re?nement and development.
+(ECRs) for further refinement and development.
 
-SCARLETFEVER also has a geographically distributed
-architecture concept which is currently being ?eshed out. Why is this being
+(TS//SI//REL) SCARLETFEVER also has a geographically distributed
+architecture concept which is currently being fleshed out. Why is this being
 pursued?
 
-I Resume session pairing generates the bulk of the load. If this processing
+■	Resume session pairing generates the bulk of the load. If this processing
 can be shifted to the edge, then:
-I Less total aggregated network traf?c due to collaboration with the
+
+■	Less total aggregated network traffic due to collaboration with the
 core
-I Less aggregate memory requirements at any one location
-I Redundant capabilities for better total mission survivability
+
+■	Less aggregate memory requirements at any one location
+
+■	Redundant capabilities for better total mission survivability
 
 (U) Contact Info
 
-I SCARLETFEVER Development Team email alias: TBD
-I Jabber Chat Room: TBD
+■	(U//FOUO) SCARLETFEVER Development Team email alias: TBD
 
-- group 
+■	(U//FOUO) Jabber Chat Room: TBD _____________________________
 
+■	(U//FOUO) LONGHAUL JSignout group
 
-Retrieved from 
+from
 
-Categories: URN Applications using Java Applications using TLS 
-SCARLETFEVER LONGHAUL
+Categories: URN | Applications using Java | Applications using C + + | TLS |
+SCARLETFEVER | LONGHAUL
 
-20f3
+2 of 3
 
-SCARLETFEVER - WikiInfO
+SCARLETFEVER - Wikiinfo
 
-Derived From: SI Classi?cation Guide, 02?01, Dated: 20060711
-and 1?52, Dated: 20070108
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM 1-52, Dated: 20070108
 Declassify On: 20320108
 
- 
+TOP SECRET//SI//REL TO USA, FVEY
 
-TOP TO USA, FVEY
-
-30f3
-
+3 of 3

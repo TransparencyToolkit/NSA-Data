@@ -1,55 +1,56 @@
- Trying tn Petential Matches fer a Garhletl er Misspelled
-Name? Get Help frem 
+﻿(S//SI//REL) Trying to Find Potential Matches for a Garbled or Misspelled
 
+Name? Get Help from NYMROD
 
+FROM:
 
-Prnject Directnr, Center Cnntent Estrantinn 
-Run Date: HEDGE.
+Project Director, Center for Content Extraction (T1221)
 
-Have yen ever had ?nding nut mere ahnnt a SIGINT target
-Twith a garbled nr misspelled name? The system Twas invented tn help
+Run Date: 06/11/2008
 
-luf'j
+(S//SI//REL) Have you ever had trouble finding out more about a SIGINT target
+with a garbled or misspelled name? The NYMROD system was invented to help
 
-withjust that The name-matching system, deyelnped by the
-Center Cnntent Entractinn can accept queries cnnsisting nfpersnnal
-names, a "many" match nf the input name tn nne nr mnre sets nf stnred
-names, and return a list matches presentatinn tn the user. 
-?nds pntential name matches withnut wildcards and can match scripts [fnr
-example, between Arabic and anan scripts}.
+1 of 3
 
-?rst sets nfnames stnred matching have all been taken
-intelligence NSA, CIA, and databases, with CREST
-[transcript database} names cnming nn-line Since its initial release injanuary
-EDDB, have been using tn ?nd relating tn targets
-that wnuld ntherwise be tnugh tn track dnwn. The user interface is very simple: ynu
-just type in the name ynu are lnnking fnr, set a matching Ill [yery
-tnlerant nf differences} tn [exact match}, select the datase[s} ynu want tn search
-within, and submit the query. The results presentatinn will allnw ynu tn the
-snippets nftent that cnntained the matched name. Ynu can try nut this capability
-ynurselfifynu "gn in ynur web 
+with just that problem. The NYMROD name-matching system, developed by the
+Center for Content Extraction (CCE). can accept queries consisting of personal
+names, perform a "fuzzy" match of the input name to one or more sets of stored
+names, and return a list of potential matches for presentation to the user, NYMROD
+finds potential name matches without wildcards and can match across scripts (for
+example, between Arabic and Roman scripts),
 
-"But I dnn't want yet annther tnnl!", many nfynu have said, and the
-CCE has taken this tn heart. alsn nifers a web service that nther systems
-can use tn create their datasets and matching gueries. We are
-wnrking with partners such as the Target Ease, the Uni?ed Targeting
-Tnnl, and tn begin integrating the service intn thnse systems sn that its
-nperatinn is available tn their users withnut anynne haying tn leave their nnrmal
-enyirnnment. Deyelnpers can ?nd mnre abnut web
-service, including an Interface Dncument, nn the WW
+(S//SI//REL) NYM ROD'S first sets of names stored for matching have all been taken
+from intelligence reports from NSA, CIA, and DoD databases, with CREST
+(transcript database) names coming on-line soon, Since its initial release in January
+2008, analysts have been using NYMROD to find information relating to targets
+that would otherwise be tough to track down. The user interface is very simple: you
+just type in the name you are looking for, set a matching threshold from 0,1 (very
+tolerant of differences) to 1,0 (exact match), select the datase(s) you want to search
+within, and submit the query. The results presentation will allow you to browse the
+snippets of text that contained the matched name. You can try out this capability
+for yourself if you "go NYMROD" in your web browser,
 
-nests.
+(S//SI//REL) "But I don't want yet another tool!", many of you have said, and the
+CCE has taken this to heart, NYMROD also offers a web service that other systems
+can use to create their own datasets and perform matching queries. We are
+working with partners such as the Target Knowledge Base, the Unified Targeting
+Tool, and FASTS COPE to begin integrating the service into those systems so that its
+operation is available to their users without anyone having to leave their normal
+work environment. Developers can find more information about NYM ROD'S web
+service, including an Interface Control Document, on the CCE's documentation web
 
-is mnnitnred using a quality-assurance
-prncess. We clnsely with nur cnmmercial and suppliers tn
-cnntinunusly the underlying matching sn that we can nifer
-enhancements with each guarterly release Dur April
-EDDB release made large strides in nn Arabic names, while the
-upcnming release in July will nifer greatly Chinese name matching. The
-CCE welcnmes ynur feedback and inquiries. Please cnntact us at any time using the
-e-mail alias.
+pgge-
 
-Enf'j
+(U//FOUO) NYMROD's performance is monitored using a quality-assurance
+process. We work closely with our commercial and R6 technology suppliers to
+continuously improve the underlying matching software so that we can offer
+performance enhancements with each quarterly release of NYMROD, Our April
+2008 release made large strides in performance on Arabic names, while the
+upcoming release in July will offer greatly improved Chinese name matching. The
+CCE welcomes your feedback and inquiries. Please contact us at any time using the
+CCE HELP e-mail alias.
 
-3nf3
+2 of 3
 
+3 of 3

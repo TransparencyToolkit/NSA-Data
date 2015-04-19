@@ -1,0 +1,64 @@
+﻿2	Classification:
+
+3	5-eyes releasable
+
+4	Top Secret
+
+5	COMINT
+
+6	________
+
+7	Last modified: 2013-01-06
+
+8
+
+9	NOTE WELL that the contents of this file are managed by the GUI.
+
+10	Any manual updates to this file will be overwritten the next time
+
+11	the GUI generates this file.
+
+12
+
+/
+
+13	// START_DEFINITION
+
+14	/*_________________________________________________________________________
+
+15	___________
+
+POC: ^^^[@,gcsb.govt.nz
+
+16	*/
+
+17
+
+18
+
+19	topic('^^H') = word('^^^^B) or
+
+20	// END_DEFINITION
+
+// START_DEFINITION
+
+/*
+
+Terms associated with Solomon Islands Government documents
+Point of contact: ^^[@,gcsb.govt.nz
+
+*/
+
+fingerprint('document/solomons_gov/gov_documents') = document_body (('Memorandum by the
+Minister of and 'Solomon') or 'Cabinet of Solomon Islands' or ('conclusions of the' and 'solomon'
+and 'cabinet') or ('Truth and Reconciliation Commission' and 'Solomon') or ('TRC 'c and 'trc
+report' and 'Solomon') or ('former tension militants' and 'Malaita') or 'malaita eagle force' or
+'malaita ma\'asina forum' or ('MMF 'c and 'Solomon') or 'Members Rise Group' or 'Forum
+Solomon Islands' or 'FSII 'c or 'Benjamin Afuga') or document_author(word('rqurusu' or 'ptagini'
+or 'jremobatu' or 'riroga' or 'Barnabas Anga' or 'Robert Iroga' or 'Dr Philip Tagini' or 'Fiona Indu'
+or 'FSII' or 'James Remobatu' or 'Rose Qurusu' or 'Philip Tagini'));
+
+// END_DEFINITION
+
+gui_managed_fps_sigdev.2p_TS_extra.appid top
+

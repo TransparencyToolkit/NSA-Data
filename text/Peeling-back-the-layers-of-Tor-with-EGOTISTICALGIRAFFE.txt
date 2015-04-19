@@ -1,278 +1,221 @@
- Peeling Back the Layers with
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
 
-u:
+(TS//SI//REL) Peeling Back the Layers of TOR with
 
-wmm1? 
-nun-ammo
+EGOTISTICALGIRAFFE
 
+■¿cCE&v.^
 
- 
+Overall Classification
 
- 
+This briefing is classified
+TOP SECRET//COMINT//REL USA, FVEY
 
- OverallClassi?cation
+■	(U) What is TOR?
 
-This brie?ng is classi?ed
-TOP USA, FVEY
+■	(S//SI//REL)TheTOR Problem
 
- 
+■	(TS//SI//REL) EGOTISTICALGOAT
 
-(U) Overview
+■	(TS//SI//REL) EGOTISTICALGIRAFFE
 
- 
+■	(U) Future Development
 
-- (U)WhatisTOR?
+■	(U) “The Onion Router”
 
-- Problem
+■	(U) Enables anonymous internet activity
 
-I EGOTISTICALGOAT
+D General privacy
+D Non-attribution
 
-- EGOTISTICALGIRAFFE
-- (U) Future Development
+a Circumvention of nation state internet policies
 
- 
+■	(U) Hundreds of thousands of users
 
-(U)What is 
-
- 
-
-I (U) ?The Onion Router?
-
-- (U) Enables anonymous internet activity
-General privacy
-Non-attribution
-Circumvention of nation state internet policies
-
-- (U) Hundreds ofthousands of users
 Dissidents (Iran, China, etc)
 
+(S//SI//REL)
 
-Other targets too!
+(S//SI//REL) Other targets too!
 
- 
 
- 
 
-(U)What is 
+(U) What isTOR?
 
-   
+L TO USA, AUS, CAN, GBR, NZL
 
-OCONUS
-INTERNET Internet Site
+(U)WhatisTOR?
 
-Client Browsing 4/
+■ (U)TOR Browser Bundle
 
-The Web
+n Portable Firefox 10 ESR (tbb-firefox.exe)
+° Vidalia
+D Polipo
+° TorButton
+□ TOR
 
-w/ TOR client
-Installed
+“Idiot-proof”
 
- 
+(S//SI//REL) The TOR Problem
 
- 
+■	(TS//SI//REL) Fingerprinting TOR
 
-(U)What is 
+■	(TS//SI//REL) Exploiting TOR
 
-   
+■	(TS//SI//REL) Callbacks from TOR
 
- 
+Windows XP
+Firefox 10.0.5 ESR?
 
- 
+■	32-bit Windows 7
 
-Client   . OCONUS
+■	Firefox/io.o
 
-Browsmg -: Internet Site
-The Web 4'
-TOR client
+64-bit Mac OS X
+Firefox 10.0.4 ESR?
 
-In stalled
+■	32-bit Windows 7
 
- 
+■	Firefox/io.o
 
-(U)What is 
+Ubuntu 11.10
 
- 
+Firefox 10.0.7 ESR?
 
-- Browser Bundle
-Portable Firefox 10 ESR (tbb-?refoxexe)
-Vidalia
-Polipo
-TorButton
-TOR
-?Idiot-proof?
+■	32-bit Windows 7
 
- 
+■	Firefox/io.o
 
-TOR Problem
+64-bit Windows 7
 
- 
+Firefox 10.0.10 ESR?
 
-I Fingerprinting TOR
-I Exploiting TOR
-I Callbacks from TOR
+■	32-bit Windows 7
 
- 
+■	Firefox/io.o
 
- 
+32-bit Windows 7
+Firefox/io.o
 
-32-bitWindOWS7 32-bitWindOWS7
-Firefox/1o.o Firefox/1o.o
+(TS//SI//REL) Fingerprinting TOR
 
-32-bitWindows7 32-bitWindows7
-Firefox/10.o Firefox/1o.o
-
-I 32-bit Windows 7
-
- 
-
-Fingerprinting TOR
-
-BuildlD gives a timestamp for
+(TS//SI//REL) BuildID gives a timestamp for
 when the Firefox release was built
 
-   2}
+Year Month Day Hour Min Sec
 
-tbb-?refox? BuildID:
+(TS//SI//REL) tbb-firefox’s BuildID:
 
- 
-
- 
-
- 
-
-Fingerprinting TOR
-
- 
-
-I TorButton cares about TOR
+■	(TS//SI//REL)TorButton cares aboutTOR
 users being indistinguishable from TOR users
 
-I We only care about TOR users
+■	(TS//SI//REL) We only care aboutTOR users
 versus non-TOR users
 
-I (TS/lSl/lREL)Thanks to TorButton, it? 5 easy!
+■	(TS//SI//REL)Thanks toTorButton, it’s easy!
 
- 
+(S//SI//REL) The TOR Problem
 
-TOR Problem
+f I iff i—x I— I \
 
- 
+■ ■ *
 
+VI di I d\/i r\LLj riMyei pm iui ly i ui\
 
+(TS//SI//REL) Exploiting TOR
 
-Flilgm IJI I UK
+■ (TS//SI//REL) Callbacks from TOR
 
-I Exploiting TOR
-I Callbacks from TOR
+■	(T5//SI//REL) tbb-firefox is barebones
 
- 
+n Flash is a no-no
 
-I tbb-?refox is barebones
+D NoScript addon pre-installed...
 
-Flash is a no-no
+...but not enabled by default!
 
-NoScript addon 
-not enabled by default!
+D TOR explicitly advises against using any addons or
+extensions otherthanTorButton and NoScript
 
-TOR explicitly advises against using any addons or
-extensions other than TorButton and NoScript
+■	(TS//SI//REL) Need a native Firefox exploit
 
-I Need a native Firefox exploit
+■	(T5//SI//REL) ERRONEOUSINGENUITY
 
- 
+n Commonly known as ERIN
+n First native Firefox exploit in a long time
+° Only works against 13.0-16.0.2
 
-I ERRONEOUSINGENUITY
-Commonly known as ERIN
-First native Firefox exploit in a long time
-Only works against 13.0-16.0.2
+■	(T5//SI//REL) EGOTISTICALGOAT
 
-I EGOTISTICALGOAT
+D Commonly known as EGGO
+Configured for 11.0-16.0.2...
 
-Commonly known as EGGO
+...but the vulnerability also exists in 10.0!
 
-Con?gured for 
+□
 
-the vulnerability also exists in 10.0!
-
- 
-
-I Type confusion vulnerability in
+■	(TS//SI//REL)Type confusion vulnerability in
 E4X
 
-I Enables arbitrary read/write
-
+■	(TS//SI//REL) Enables arbitrary read/write
 access to the process memory
 
-I Remote code execution via the
+■	(TS//SI//REL) Remote code execution via the
 CTypes module
 
- 
+■	(TS//SI//REL) Can't distinguish OS until on box
 
-I Can't distinguish OS until on box
-That's okay
+° That's okay
 
-I Can't distinguish Firefox version
-
+■	(TS//SI//REL) Can't distinguish Firefox version
 until on box
-That's also okay
 
-I Can't distinguish 64-bit from 32-
+° That's also okay
+
+■	(TS//SI//REL) Can't distinguish 64-bit from 32-
 bit until on box
+
 I think you see where this is going
 
- 
+V i di I d\11 r\LLj riMyei pm iui ly i ui\
 
+■	(T3//Si//REL) Expiuilnly TOR
 
+■	(TS//SI//REL) Callbacks from TOR
 
-Fillyu IJI I UK
+■	(TS//SI//REL) Tests on Firefox 10 ESR worked
 
+■	(TS//SI//REL)Testsontbb-firefoxdid not
 
+a Gained execution
+□ Didn't receive FINKDIFFERENT
 
-Explulting nun
+■	(TS//SI//REL) Defeated by Prefilter Hash!
 
-I Callbacks from TOR
+° Requests EGGI: Hash(tor_exit_ip || sessionjd)
+Requests FIDI: Hash(target_ip || sessionjd)
 
- 
+(TS//SI//REL) Callbacks from TOR
 
-I Tests on Firefox 10 ESR worked
-I Tests on tbb-?refox did not
+■	(T5//SI//REL) Easy fix
 
-Gained execution
-Didn't receive FINKDIFFERENT
+n Turn off prefilter hashing
+□ FUNNELOUT
 
-I Defeated by Pre?lter Hash!
-Requests EGGI: Hash(tor_exit_ip session_id)
+■	(T5//SI//REL)OPSEC Concerns
 
-Requests FIDI: Hash(target_ip session_id)
+° Pre-play attacks
+- PSPs
 
- 
-
-Easy ?x
-Turn off pre?lter hashing
-FUNNELOUT
-
-I OPSEC Concerns
-
-Pre-play attacks
-
-PSPs
-Adversa rial Actors
-
+Adversarial Actors
 Targets worth it?
 
- 
+\jqj_iijoji ç^npnnp^ (“!3^//!S//SJ.) ■
 
+\ir\ i fiiimniHY^i (~\-nwllicllc i \ u
 
+Vd V ^	I -Ui \ I ^ W lit ta/ I I ta/ -d- /
 
-Fillyu IJI I UK
+\j/^ i Ri ini u irl laRi n j hi\j//ic//c i ï -
 
-
-
-Explulting nun
-
-
-
-Callbacks IUK
-
- 
-
+w N/ JU	r1 ■	. -I \ fJUTTTOTT^

@@ -1,0 +1,153 @@
+﻿Toward the identity of “Country X” in MYSTIC.
+
+Today Glenn Greenwald released a bombshell, a story more significant than anything in is book, and
+probably in the top 5 overall. The NSA is wiretapping the full audio content of everyone in the
+Bahamas, a small, stable, peaceful democracy, almost entirely devoid of any threat of terrorism. But
+that's just the beginning, NSA as also collecting every single piece of telephony metadata from Mexico,
+Philippines, and Kenya, and the full audio content of one additional country, which he chose to redact.
+
+The redaction has caused at least as much controversy than the rest of the story, and has pitted
+Wikileaks against the Intercept. With Wikileaks vowing to release the name of country X within 3 days.
+Unfounded rumors about Wikileaks having access to Snowden's cache are flying. The sidestory is
+threatening to engulf the main story.
+
+It is not necessary to have access to Snowden's cache to identify this country. There is enough existing
+data. Let's take a look at the evidence so far.
+
+1)	ACIDWASH
+
+Der Spiegel's book Der NSA Komplex
+states that ACIDWASH collects 30-40 million
+telephony metadata records per day from
+Afghanistan. The slide on the right lists
+ACIDWASH as being part off the MYSTIC
+program. This affirmatively associates
+Afghanistan with the MYSTIC program, but
+does not, by itself, establish content collection
+in Afghanistan, under MYSTIC. Even though
+ACIDWASH collects 30-40 million records per
+day, it is responsible for only a handful of
+reports.
+
+2)	SCALAWAG
+
+According to documents released by the
+Washington Post SCALAWAG is the number 1
+provider of actionable SIGINT in “Country X” Slide Associating ACIDWASH with MYSTIC
+under MYSTIC and provides access to 30 days worth of audio content. This probably explains why the
+chart excludes SCALAWAG, as the number of reports generated from it would render the other bars on
+the graph too small to be readable, at the appropriate scale. There is nothing here suggesting the
+identity of country X.
+
+3)	The Warning
+
+Both Barton Gellman of the Washington Post and Glenn Greenwald of The Intercept have
+chosen to withhold the name of the country based on a warning that they found both credible and
+specific. Gellman did not specify the warning, but Greenwald did: it would be likely to provoke
+increased violence. Ergo the country is politically unstable, is a region with considerable violence, and
+its problems actually matter to the US. This includes a whole host of countries such as Somalia, Yemen,
+Pakistan, and Iraq. But the country that bubbles to the top of the list is Afghanistan. We would also like
+
+to get out of Afghanistan, this year. This warning is suggestive, but not conclusive.
+
+4)	The Resume
+
+A SIGINT analyst posted her resume on Indeed.com, this analyst has worked in Afghanistan
+extensively, and also used SOMALGET, which is part of MYSTIC. This is suggestive, but not
+conclusive.
+
+5)	Length of redaction bars.
+
+The redaction bars are longish. The name
+of the country also needs to be long. It just so
+happens that “Afghanistan” fits rather well. The
+graphic on the right was made by
+Electrospaces.net. In light of the other pieces of
+evidence, this makes for a compelling case that
+Country X is Afghanistan.
+
+6)	Wait minute, aren't there 6 MYSTIC countries?
+
+The Intercept states that there are 5
+countries under MYSTIC, 2 with full content
+audio, and 3 with full telephony metadata. But the
+Washington Post states that there is a sixth
+country going online. Can these both be true
+simultaneously? It turns out that they can be. The
+sixth country was scheduled to be online by
+October 2013, which is after Snowden released his trove. Country 6 may or not actually be online at
+present. MYSTIC was to provide “Complete access to the additional country's [REDACTED], and
+provide retrospective tasking and near real-time access/delivery of metadata as required”
+
+7)	What about Iraq?
+
+A little more than 6 weeks ago Chris Inglis was quoted thus: “the National Security Agency
+went from intercepting only about half of enemy signals and taking hours to process them to being able
+to collect, sort and make available every Iraqi email, text message and phone-location signal in real
+time” Sparking The Intercept to insinuate that Iraq just might be the country under MYSTIC that the
+Washington Post refused to name. The answer is complicated: Mystic is about telephony content and
+metadata. And Inglis did not mention telephony content. But because he mentioned telephony
+metadata, it would still be possible for Iraq to be part of MYSTIC. But the timeline doesn't work, Iraq
+cannot be the sixth country, because it went online long ago, and not scheduled for inclusion on
+October 2013.
+
+(U) Project Description
+
+(S//SI//REL TO USA, FVEY) The Special Source Operations (SSO) Project provides management oversight
+and logistical support to the Special Source Access programs. These resources are used to provide cross-
+program management services to drive efficiencies within the Special Source Access Expenditure Center (EC).
+Responsibilities include general management, trainirwan^r :tve I. This Project supports the RAMPART-I
+program infill uni the RAMPART-X program	h also support' the MYSTIC Program Office,
+
+which leverages partner-enabled accesses against Global System tor Mobile Communications (GSM) and other
+cellular and Public Switched Telephone Networks (PSTNs), It supports target technology development through
+comprehensive and definitive description of foreign targets' current and future use of telecommunications and
+computer systems. Additionally, this Project sustains efforts to add, enhance, and support Next-Generation
+Wireless (NOW) capabilities across Special Source Accesses, and efforts to address critical target capability gaps.
+This Project contains the Special Source Staff Operations Sub-Project.
+
+(U) Base resources in this project are used to:
+
+•	(U//FOUO) Provide travel, training, equipment and general supplies for the Special Source Access front
+office.
+
+•	(TS//SI//REL TO USA, FVEY) Provides initial and emerging access to high-priority SIGINT targets against
+new requirements, provide management and technical engineering services to analyze and maintain data
+flow, provide program metrics, and manage allocation of tasks and schedules for SSO collection sources.
+
+•	(S//SI//REL TO USA, FVEY) Provide contracted services for NGW core network exploitation capabilities
+to deploy core network exploitation capabilities to collection sites inBBlBWBBB Caribbean, Kenya, the
+Philippines, and Mexico.
+
+•	(C//REL TO USA, FVEY) Purchase classified SIGINT processing equipment, associated upgrades, and
+life-cycle support.
+
+•	(TS//SI//NF) Sustain MYSTl^capabilihes to provide comprehensive metadata access and content against
+
+targeted communications in^H . ’■JCenya. Caribbean, Mexico, and th^MMnpinc^Pmmde new
+PSTN o«Ikvtioti cnpithliiv	their internal im)al link' to	m
+
+Capabilities will offer near-real time, complete access to the additional target country's GSM
+network(s), and provide for retrospective tasking and near-real-time access/delivety of metadata as required.
+Activities previously provided by Overseas Contingency Operations (OCO) resources are now requested
+in the base submission.
+
+Image showing that”Afghanistan” fits in the bars
+
+Conclusion: While it is not possible to be 100% certain, it is highly probable that the country omitted
+by Greenwald is Afghanistan. Better questions are what is the identify of the sixth country reported in
+the Washington Post, what level of access does the NSA have to it - metadata, content, or both? And is
+it officially online?
+
+Sources
+
+Der NSA Komplex, published by Der Spiegel
+
+https://firstlook.org/theintercept/2014/03/31/nsa-worlds-blows-top-secret-program/
+
+http://www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-
+past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19 story.html
+
+https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-
+
+phone-call-bahamas/

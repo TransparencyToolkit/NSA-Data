@@ -1,1206 +1,469 @@
-TOP SECRET STRAP 2
-
-HA:
-
-ANA-HEIE 
+﻿TOP SECRET STRAP 2
 
 Automated NOC
 Detection
 
-Head of GCHQ NAC
+, Head of GCHQ NAC
+
 Senior Network Analyst, CSEC NAC
 
- 
+n/\c
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+
+legislation. Refer disclosure requests to GCHQ or I
 
 TOP SECRET STRAP 2
 
 Challenge
 
- 
-
-- SDC 2009 Challenged the Network
+• SDC 2009 - Challenged the Network
 Analysis community to automate the
 detection of Network Operations
+
 Centres
 
- 
+n/\c
 
-MAHSIS Ew?i
+This information is exempt from disclosure under	exemption under other UK information
 
- 
+legislation. Refer disclosure requests to GCHQ o
 
 TOP SECRET STRAP 2
 
 Phase 1: Intelligent Router Configuration File Parsing
 
- 
+•	Routers have numerous services running on them that help
 
-Routers have numerous services running on them that help
-identify the NOC lP ranges:
+identify the NOC IP ranges:
 
-SSH
+-	SSH
 
+-	TELNET/VTY
 
+-	SNMP
 
-SNMP
+-	SYSLOG
 
-SYSLOG
+-	DNS
 
-DNS
+-	TACACS
 
-TACACS
+-	RADIUS
 
-RADIUS
-
-Access to these services tends to be locked down by the use of
+•	Access to these services tends to be locked down by the use of
 Access Control Lists (ACLs)
 
-Configuration files provide details of how services are
+•	Configuration files provide details of how services are
 configured.
 
- 
-
- 
+n/\c
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
-legislation. Refer disclosure requests to GCHQ or
+
+legislation. Refer disclosure requests to GCHQ or I
 
 TOP SECRET STRAP 2
-NOCTURNAL SURGE
-
-- GCHQ response to challenge.
-- Early Prototype that looks at only: 
-ACLs for at
-
-AC Ls for VTY  .
-ale 
 
 NOCTURNAL SURGE
 
-aka Find my NOE
+•	GCHQ response to challenge.
 
- 
+•	Early Prototype that looks at only:
 
- 
+-	ACLs for SSH/TELNET
 
- EIJRE-E?iomehage Mozilla HEIDI
-Elle Ed: Elew
-
-(if-1218' 6' 
-
-grim-watt
-
-Hi-ater-y Leafs 
-
-research sigde'v Lie-arch tee Ari-altseis teels Fi? ties-5 [listen-er
-
-NOCTURNAL SURE'En?nmePage 5 FIVE rim-E a me 
-
-GFta'qe IETFHC Tesla?u; C-EI ?3 Ftl' f-let'fuhecl:  
-
-HIE: AS Search
-
-- -- at.
-
-. HIE-FEES . 
-
-Corp Directory 
-
-CHMN ELLA FLED
-
-Change Pass word." Login
-
- 
-
- 
-
- 
-
- 
-
-Global Database
-AS query
-
-AISLE fer TELNETIS SH {Ports 23E 2)
-I AISLE applied to VTY Lines
-
-El. Fl 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Prejeet Database
-
-Project Query
-
-ACLS fer TELNETISSH {Pens 23422)
-AISLE applied te VTY Lines
-
- 
-
-Seleet Prejeet: I
-
- 
-
-Fl  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Recent Updates:
-
-20110118r v0.2
-- Added Sewer Lfformauon ?om TIDAL SURGE 'Semees Us ed' Data for Projects and Global DB
-Added collaps??e sections for above where number of Sewers :5 5
-Changed colew' scheme to Ill?light unrecognised ACL bttmasks that do not convert to CEDR in
-
-9 I
-Elme-
-
-and CIDR blocks in FELLOW
-
- 
-
-A-- nozile Filefox
-5 Rel:-
-
-gchq-y-ieb research search Ana is
-
--  - it; art-E cutie
-
-AME 
-
-in Back. to Query Page
-
-- Summary Results
-
-I: [grim-9.3 emu: DE: FLT _l f-J-at'E-l'I-acri. 
-
-a5 Search
-
-NOCTURNAL
-
-
-
-4*
-
-SURGE
-
-aka Find my NOC in 
-
-
-
-. . 11 12-FTE CHAIN GLIRFLEI
-
- 
-
-Uccurences Source Nehvork Source Mask
-
-GLUBALSUHGE LE Queries
-
- 
-
-89
-
- 
-
-89
-
- 
-
-86
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-IR Query Range Query
-
- 
-
-IP Query Range Query
-
- 
-
-IR Query Range Query
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Range Query
-
- 
-
- 
-
-YSLO 
-
-Range Query
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Range Query
-
- 
-
-ange Query
-
- 
-
-Range Que] 
-
- 
-
-Range Query
-
- 
-
-Range Query
-
- 
-
-Range Query
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-IKE Mozilla Fitelox
-Elle Ed: Elew Hi-at'ery Loot: L45:ch
-
-(is? c' 
-
-nacho-web research sigde'r search heart-tuber; An-  tools 
-
-- -- at.
-
-clef-s [ii r' (Stride IETFHC Tesla"; ?3 Ftl' Mel: tech:  Irv-tester! . 
-SURE'En?omePage Fllu'E ALF-IE F-ltIEi AS Search
-
-Corp Directory "Change Password" Logth
+-	ACLs for VTY
 
 NOCTURNAL SURGE
 
 aka Find my NOC
 
- 
+n/\c
 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
-WelcmnEBusiness Ur
+legislation. Refer disclosure requests to GCHQ o
 
- 
+NOCTURNAL SURGE: Homepage - Mozilla Firefox		HtaJE
+Fíe ÿew rtjtory Bookmarks look Help		
+OB- c &	H & '! ■ fn>	~p\
+gchq-web research sigdev search task-tgbng Analysts	tools PROGRAMMES press | Discover Gforge-UK Gforge | GTAC Tasking D6 f~\ OpsTracker RTC & RT NacShack Investor . NAClOUNSRCs	■ 1112-FTE 1_J CHAINGUARD »
+NOCTURNAL SURGE::HomePage fej B FIVE ALIVE	B FIVE ALIVE J FKB IPv4 AS Search	
 
- 
+n/\<
 
- 
+Corp Directory "Change Password" Login
 
 Global Database
 
-atabase
 AS query
 
+© ACLs for TELNET/SSH (Ports 23/22)
+• ACLs applied to VTY Lines
 
+Enter an AS
 
-a acLs for cares) ??sf?m 2322)
-. AGLs applied to VTY Lines
+Project Database
 
-Enter an AS 
+Project Query
 
- 
+* ACLs for TELNET/SSH (Ports 23/22)
+© ACLs applied to VTY Lines
 
-leap 
-
- 
-
- 
-
- 
-
- 
+Select Project: ______________
 
 Recent Updates:
 
- 
+20110118 - vO 2
 
- 
+-	Added Server Information from TIDAL SURGE 'Services Used' Data for Projects and Global DB
 
- 
+-	Added collapsible sections for above where number of Servers > 5
 
- 
+-	Changed colour scheme to hi-light unrecognised ACL bitmasks that do not convert to CIDR in
 
- 
+<&
 
-20110118r v0.2
+and CIDR blocks in YELLOW
 
-- Added Server Informauon ?om TIDAL SURGE Us ed' Data for Projects and Global DB
-Added collapSIble sections for above where number of Servers :5 5
+I®
 
-Changed colow' scheme to Ill?light unrecognised ACL bttmasks that do not convert to CEDR in and CIDR blocks in FELLOW
+NOCTURNAL SURGE A
 
- 
+Mozilla Firefox
 
-9 I
-Elme-
+U
 
- 
+File Edit i/iew History Boosmarls Tools Heb
 
-su
-'Eie gait
+C X Ü3 1 i ill
 
-gt: 
+ù H
 
-in Back to Query Page
+___gchq-web research _____sigjev___search ,__task-tgting ,_| Analysis _tods _PROGRAMMES _____press Q Discover j Gforge-l)K [Z] Gforge J GTACTaskingDB t \ OpsT'acker RTC ^ RT |_j NacShack Investor . hAClCllNSRCs . 1112-FTE J Ct-AINGUARD
 
-Summary Results
+B FIVE ALIVE
 
-Occurencea Source Network
+NOCTURNAL SURGE:: Ai I
 
-Full Results
+B FIVE ALIVE
 
+LJ FKB IPv4 AS Search
 
+n/v
 
- pr 1' lift-rge-th; _Il .Efct'ge Testing 
+NETWORK	CBTMTFTE
 
-3 Fritz more I 
+ECRET STRAP1 COMINT
 
 NOCTURNAL
 
-
-
-at:
 SURGE
 
-aka Find my NOC in A4
+aka Find my NOC in As[
 
- 
+<-- Back tb Query Page
 
-Source Mask ACL Name Servers
+NOCTURNAL SURGE: Homepage - Mozilla Firefox		HtaJE
+Fíe ÿew rtjtory Bookmarks look Help		
+OB- c &	H & -I ■ m>	~p\
+gchq-web research sigdev search task-tgbng Analysts	tools PROGRAMMES press | Discover Gforge-UK Gforge | GTAC Tasking D6 OpsTracker RTC & RT NacShack Investor . NAClOllNSRCs	■ 1112-FTE J CHAINGUARD »
+NOCTURNAL SURGE::HomePage fej B FIVE ALIVE	B FIVE ALIVE |J) FKB IPv4 AS Search	
 
-SYSLOG
+n/\<
 
-- 
+Corp Directory "Change Password" Login
 
-. NHL: 1 [ll 
+[(OPD-NAC)
+ÏBusiness Ur
 
-. 
+Recent Updates:
 
-GLOBALSURCE IF Queries
 
-:0 Query
-3? Query
-1P Query
-1P Query
-1P Query
 
-Query
+NOCTURNAL SURGE
 
-Range Query
-Range Query
-Range Query
-Range Query
-Range Query
+aka Find my NOC
 
-Range Query
+Global Database
 
- 
+AS query
 
-E: c: 
+© ACLs for TELNET/SSH (Ports 23/22)
+ACLs applied to VTY Lines
 
- 
+Enter an AS :
+
+itabase
+
+LNET/SSH (Ports 23122)
+1 to VTY Lines
+
+20110118 - vO 2	-----------------------------------------------------------
+
+-	Added Server Information from TIDAL SURGE 'Services Used' Data for Projects and Global DB
+
+-	Added collapsible sections for above where number of Servers > 5
+
+-	Changed colour scheme to hi-light unrecognised ACL bitmasks that do not convert to CIDR in
+
+<&
+
+and CIDR blocks in YELLOW
+
+NOCTURNAL SURGE: AS
+
+Mozilla Firofox
+
+'QBE
+
+File Edit View History Bookmarks Tools Help
+
+0 c tir
+
+Û
+
+p\
+
+gchq-web _j research _j slgdev j j search _ task-tgtlng Analysis _ tools _j PPOGRWli^ES i   press [J DIsodver [_3 Gforge-UK (J jfcrge |_J GTAC TaskngDB	Ops~r acker J PTC ^ PT |_3 NecShacI; Investor - NACiOiiMSPCs 1112-F_E |_J CHAIN GJARD
+
+NOCTURNAL SURGE : AS I
+
+0 B FIVE ALIVE
+
+B FIVE ALIVE
+
+n/v
+
+j_J FKB IPv4 AS Search
+
+
+
+-
+
+s-- Back to Query Page
+Summary Results
+
+NOCTURNAL
+
+SURGE
+
+aka Find my NOC
+
+in A J	~
 
 TOP SECRET STRAP 2
-GCHQ CSEC NAC Joint tradecraft development
 
- 
+GCHQ / CSEC NAC Joint tradecraft development
 
-- During March 2011 GCHQ visited CSEC to look at the
+•	During March 2011 GCHQ Analysts visited CSEC to look at the
 using PENTAHO for tradecraft modelling working with CSEC
-NAC and software developers to see if could model
+NAC and CSEC/H3 software developers to see if could model
 NOCTURNAL SURGE in PENTAHO and then implement in
+
 OLYMPIA.
 
-- Only possible to attempt because:
-GCHO NAC use PENTAHO
-CSEC use PENTAHO
-CSEC NAC have implemented GCHO NAC TIDAL SURGE Database
+•	Only possible to attempt because:
+
+-	GCHQ NAC use PENTAHO
+
+-	CSEC NAC/H3 use PENTAHO
+
+-	CSEC NAC have implemented GCHQ NAC TIDAL SURGE Database
 Schema (DSD also have this..)
-- GCHO approach based on AS
 
-- CSEC approach based on Country
+•	GCHQ approach based on AS
 
- 
+•	CSEC approach based on Country
 
-MAHSIS Ew?i
+n/\c
 
- 
+This information is exempt from disclosure	under other UK information
+
+legislation. Refer disclosure requests to GC
 
 TOP SECRET STRAP 2
+
 Pentaho - NOC Auto Detection
 
- 
 
- 
 
-ill
+Remove private IP addresses
 
-Input country digr:
+Dedupe exact range, merod
 
- 
+Dummy (do nothing)
 
- 
+Input country atari
 
- 
+Trim whitespace from descriptions	Select values Calculate number of IP addresses in range	Filter t=/16
 
-Remove priya
-1
+tummy (do nothing) 3 Filter on input country Select values A Merge Join with geo data Sort on 1 st ip Convert decimal IPto String Dedupe
 
- 
+on first ip
 
- 
+mmy (do nothing) A Group interseping IP ranges Sort on|1 st ip 2 Country digraphto lowercase 2
 
+Output raw results
 
+P + Subnet Mask
 
- 
+Count by grou^	Sort orjroup id Merge Join group!; with company info Sort by groupcbyjit
 
+Output NOC ranges for input country, sorted by confidence
 
+Merge Join group ids with count Sort by first ip
 
- 
+n/\c
 
- 
+This information is exempt from disclosure under thpFr££domfnioïmajonAi2020S.™m2y£e«uL££l«o exemption under other UK information
 
- 
-
-'11
-
- 
-
-te IP addresses
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-     
-  
-
-Dedupe exact range. method
-
- 
-
-Dummyf onothingj
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-4 
- 3e - 
-.
-Trim 103"? RESCVIWDHS Selectyalues Calculate numberof IP addresses in range Filter 3d tn ?neg
-Iear?Eb
-:l El
-tummy 0210 nothing) 3 Filter UN in Lit country Selectyalues 4 Merge .loin wI geo date Sort on 1 st ip Convert decimal IPto String Dedupe onfirst ip
-1 
-
-- 
-EAL  -  3;
-mm? ('30 0011110204 Group interse ing ranges Sort on 1st ip 2 Country digraphto lowercase 2 Enrich with Geo
-
-Clutp ut raw results
-Subnet Mask.
-
- 
-
- 
-
- 
-
-
-
- 
-
-Count 
-
-HA:
-
- 
-
-N??m?m MAW: 
-
-Sun an mupid Merge Join group with company irrfo Sort bygroupc
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
-Merge Join group ids with count
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
-Sort byfirstip
-
-
-
-
-
- 
-
- 
-
- 
-
-nt
-
- 
-
- 
-
- 
-
-
-
-Clutput NCIC rangesfor input country. sorted by confidence
-
- 
-
-This information is exempt from disclosure under the Freedom of Information Act 9000 and mew he ?Went to exemption under other UK information
-
-legislation. Refer disclosure requests to GCHQ or
+legislation. Refer disclosure requests to GCHQ on
 
 TOP SECRET STRAP 2
 
 Phase 2: Intelligent use of Metadata
 
- 
+•	We do not always get full configuration files to parse.
 
-- We do not always get full configuration files to parse.
-- Services between routers and NOCs run on 
+•	Services between routers and NOCs run on IP/TCP/UDP
 
-- We do create 5-TUPLE metadata from our collection
-GCHO have prototype database 5-Alive
-CSEC have database - HYPERION
+•	We do create 5-TUPLE metadata from our collection
 
- 
+-	GCHQ have prototype database - 5-Alive
 
-legislation. Refer disclosure requests to GCHQ 
+-	CSEC have database - HYPERION
 
- 
+n/\c
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
+legislation. Refer disclosure requests to GCHQ o
+
 TOP SECRET STRAP 2
+
 SNMP Protocol
 
- 
-
-SNMP Manager SNMP A9901
-get -reguest
-
- 
-
- 
-
-get?response UDP 1'51
-
-get guest
-
-get-response UDP 1'51
-
-
-
-Set~regu est
-
-
-
-UDP 161
-get ?response
-
-I
-
-UDP 162 s?W
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-legislation. Refer disclosure requests to GCHC
-
- 
+n/\c
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
+legislation. Refer disclosure requests to
+
 TOP SECRET STRAP 2
+
 SNMP Protocol in 5-Alive
 
-Dia?sed Events Lc?u?y Graphs
-
+Diarised Events j Activity Graphs
 Options
-
-- 1udo 161
-161
-Resul
--- 1s1
-161
-161
-
- y. 1:51
-4 2011-05-13 09:59:33" udo US Unknown
-5 2011-05-13 09:59:36 udo US Unknown
-6 2011-05-12 0?:22:32 udp LU Unknown
-.7 2011-05-12 06:04:46 udp US Unknown
-0 2011?05?11 22:52:50 udo US Unknown
-9 2011-05-11 19:55:22 udp US Unknown
-
-   
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
 legislation. Refer disclosure requests to GCHQ
-
-NETWBW 
-
- 
 
 TOP SECRET STRAP 2
 
 Further drill down on activity for identified IP
 
-20 1? lep DNS (Domain Name System) 63226 53 2011-05-12 0?:30:00 2011-05-12 08:00:udp Trivial File Transfer Protocol 58912 69 2011-05-13 10:00:00 2011-05-13 10:30:00
-23 1? uclo Triyial File Transfer Protocol 53438 69 2011-05-13 10:00:00 2011-05-13 10:30:00
-24 1? Udp Network Time Protocol NTP 52096 123 2011-05-13 10:00:00 2011-05-13 10:30:00
-25 1? Network Time Protocol NTP 58912 123 2011-05-13 10:00:00 2011-05-13 10:30:00
-26 1? Udp Network Time Protocol NTP 53438 123 2011-05-13 10:00:00 2011-05-13 10:30:00
-2? 1? Help Datagram Service 53438 138 2011-05-13 10:00:00 2011-05-13 10:30:00
-28 1? lep Datagram Service 58912 138 2011-05-13 10:15:00 2011-05-13 10:45:00
-29 1? Help Datagrarn Service 52098 138 2011-05-13 10:00:00 2011-05-13 10:30:00
-30 1? udp Simple Network Management Protocol SNMP 52096 161 2011-05-13 10:00:00 2011-05-13 10:30:00
+This information is exempt from disclosure under theFi2£domfnioïm2ijoilAi2020S.™m2y£e«uL££l«o exemption under other UK information
 
-This information is exempt from disclosure under the Freedom of Information Act 9000 and may he ?Went to exemption under other UK information
-
-legislation. Refer disclosure requests to GCHQ 
-
-MLHSIE 
-
- 
-
- 
+legislation. Refer disclosure requests to GCHQ o
 
 TOP SECRET STRAP 2
+
 Phase 3: Intelligent use of TELNET traffic
 
-Again we do not always get full configuration files. Phase 1 is
+•	Again we do not always get full configuration files. Phase 1 is
 based on full (or as near to full) configuration files
-GCHQ NAC collect TELNET Sessions into TERMINAL SURGE
 
-Collection based on TCP Port 23 (TELNET)
-Other protocols use TCP Port 23 (YMSG)
+•	GCHQ NAC collect TELNET Sessions into TERMINAL SURGE
 
-Interaction with Routers over TCP Port 23 maybe nefarious:
-Scanning
-Password guessing
+-	Collection based on TCP Port 23 (TELNET)
 
-Need to separate legitimate use from nefarious activity
+-	Other protocols use TCP Port 23 (YMSG)
 
-Look for signs of legitimate use.
-Successful Iogin
-Follow on commands
+•	Interaction with Routers over TCP Port 23 maybe nefarious:
 
-This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
-legislation. Refer disclosure requests to GCHQ 
+-	Scanning
 
- 
+-	Password guessing
 
-TOP SECRET STRAP 2
-From TCP Port 23 (Echo)
+•	Need to separate legitimate use from nefarious activity
 
- 
+•	Look for signs of legitimate use.
 
+-	Successful login
 
+-	Follow on commands
 
-_4 Untitled - Notepad 
-
- 
-
-Elle Edit Fgrmat ?iew Help
-
-
-
-ERR kgli?ipl?rl.belbone.grx 
-
-
-
-
-
-UNAUTHCIRIEED ACCESS TCI THIS IS STRICTLY PRCIHIEIITED.
-you must have explicit permission to access or confi ure this device.
-All activities performed on this device may be logge and violations
-of this policy may result in disciplinary action, and may be reported
-to law 
-
-There is no right to privacy on this device.
-
-For more info mail to customer.careobelgacom?ics.com or tel +32 254?5151
-
-
-
-
-
-User Access verification
-
-UsernamePassword:
-
-kgli?ipl?rlaenable
-Password:
-
-kgli?ipl?rl#
-kgli?ipl?rl#term length 0
-kgli?ipl?rl#show version
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+n/\c
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
-legislation. Refer disclosure requests to GCHC
-
-ANAHEIE Em??
-
- 
-
-TOP SECRET STRAP 2
-To TCP Port 23
-
- 
-
-
-
-Llntitled - Notepad
-
- 
-
-show
-show
-show
-show
-show
-show
-show
-show
-show
-show
-
-show
-show
-show
-show
-show
-
- 
-
- 
-
-Elle gait
-
-terminal width 512
-
-Fgrmat ?iew Help
-
-
-
-ip route isis
-
-controller El oflfo brief
-interfaces description
-
-ip route static
-
-interfaces I include Tunnel
-ipv6 route static
-controller El 0flf0 
-ipv6 route eigrp
-
-neighbors
-
-ip route rip
-
-inc Description:
-
-ipv6 neighbors
-
-ip arp
-
-ip route local
-
-interface FastEthernetofl 
-
-inc Description:
-ip route 
-
- 
-
- 
-
-NA:
-
-This information is exempt from disclosure und
-
-ANAHEIE Em??
-
-legislation. Reier disclosure requests to 
-
-exemption under other UK information
-
- 
-
- 
-
-TOP SECRET STRAP 2
-Intelligent analysis of TELN ET traffic
-
-- The fact that login was successful for both examples means the
-
-following:
-From TCP Port 23  
-- To IP address is Network Management Terminal (in the
-
-To TCP Port 23 Reg 
-
-- From IP address is Network Management Terminal (in
-
-
-This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 legislation. Refer disclosure requests to GCHQ
 
- 
+TOP SECRET STRAP 2
 
- 
+From TCP Port 23 (Echo)
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+
+legislation. Refer disclosure requests to GCHQ
 
 TOP SECRET STRAP 2
+
+To TCP Port 23
+
+This information is exempt from disclosure und	exemption under other UK information
+
+legislation. Refer disclosure requests to GCHQ |____________________________________________________________________
+
+TOP SECRET STRAP 2
+
+Intelligent analysis of TELNET traffic
+
+The fact that login was successful for both examples means the
+
+following:
+
+- From TCP Port 23
+
+•	To IP address is Network Management Terminal (in the
+
+NOC ?)
+
+To TCP Port 23
+
+•	From IP address is Network Management Terminal (in
+
+the NOC ?)
+
+9
+
+W
+
+n/\c
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+
+legislation. Refer disclosure requests to GCHQ
+
+TOP SECRET STRAP 2
+
 Phase 4: Bulk Port Scanning
 
 We know the key services/servers running in the NOC
 
-Utilise HACIENDA, bqu port scanning capability to
-identify what IPs have these service ports open additional
+• Utilise HACIENDA, GCHQ’s bulk port scanning capability to
+identify what IPs have these service ports open - additional
 logic to build up confidence required.
 
-This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
-legislation. Refer disclosure requests to GCHQ
+n/\c
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+
+legislation. Refer disclosure requests to GCHQ
 
 TOP SECRET STRAP 2
 
@@ -1210,244 +473,68 @@ Aim is to bring all sources that help identify NOC IP ranges
 together with associated confidence.
 
 Different techniques provide different results due to the nature of
-passive access (international v?s in-country for instance)
+passive access (international v’s in-country for instance)
 
-Different techniques have different levels of reliability therefore
+Different techniques have different levels of reliability - therefore
 looking to develop aggregation with overlay of smart
-intelligence. a.
 
-Solution can work on not just ISP . 
-NOCs but also Mobile OMCs. 
+intelligence.
 
-g. 
+Solution can work on not just ISP
+NOCs but also Mobile OMCs.
+
+‘5k
+
+n/\c
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
-legislation. Refer disclosure requests to GCHQ 
+
+legislation. Refer disclosure requests to GCHQ o
 
 TOP SECRET STRAP 2
-And CNE on NOCs
 
-- We now have IP ranges need selectors of NOC Staff to
+And then....enabling CNE on NOCs
+
+•	We now have IP ranges - need selectors of NOC Staff to
 enable QUANTUM INSERT attack against them.
 
-- Use of GCHQ TDI capability to identify selectors coming out of
+•	Use of GCHQ TDI capability to identify selectors coming out of
 IP ranges and/or identification of proxy/NAT within NOC range.
 
-NETWEHK ANA. ESQTHE
+n/\c
 
- 
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+
+legislation. Refer disclosure requests to GCHCl
 
 TOP SECRET STRAP 2
+
 NOC IP range search in MUTANT BROTH
-
-MUTANT BROTH
-
-Identifier Search 113 Address Search . Password Search I Sleuth
-
-Legal Context
-
-This is a powerful technique that allows you to pull back presence events for an IP network.
-
-?rolu must make sure that your HRA justification (Reason) clearly explains why you are Querying on an 1? network, as you are more likely to retrieve the communications of innocent individuals as well as tall
-. Your queries will be logged for audst.
-. ?rciu should use Tracerouto or loolr up first So that only IP prefixes registered or associated with the target networks are queried.
-. If you suspect that the prefix is dynamic, you must either combine this search with another filter eg an HHFP or limit the query length to 60 minutes.
-
-If after running the query. it is clear that the IP prefix is dynamic. you should not look at the results as they are until-rer to relate to row target.
-
-Search for IP address prefixes
-
-- Enter the set IP address prefixes.
-. The 1P address range roost be specified as: s: dotted deerrnal 2w": prefix length ?3
-Example: 1?2.16.1?.0?23
-191153.45
-192.163.128.051?
-. Prefix of less than ?16. bits Will he Ignore-cl.
-. are assumed to be 32 bits.
-Optionally enter the HHFP orthe time period start and search length in minutes.
-
-30.34.110.324
-
-145 Ranges
-HHFP 20135
-Time pen-ad start. ?10512011 JP: 2
-Search length tminutesl ZUDDEI Purpose NS 
-
-Reason Selgacom reseach
-
- 
 
 This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
 
 legislation. Refer disclosure requests to GCH
 
-MLHSIE 
-
- 
-
 TOP SECRET STRAP 2
-NOC IP range Target identifiers for QUANTUM INSERT
 
- 
+NOC IP range - Target identifiers for QUANTUM INSERT
 
- 
+This information is exempt from disclosure und	. exemption under other UK information
 
-Source User-rigor I I I I Event Count 
-Date ?me Emma Source Source In? Geo Identi?er fu'entri'ier 
-39-34-193 Type Lr?ai'ue
-Source
-MozillaHS.? [it [4 96]
-Mozillaraa [a irrosrn 00:02:54 80.84.19.9:d23bad41 ir'ahoo-Et-Cookie [4 to)
-Mozillar?EJ] [a [a as)
-"?i'lar?i" (it so.sr1..1s.s:desbadtl1 ?r'ahoo-Er-Cookie '19 it)
-Mozillar?i? [in [1 96]
-irrosni so.sti.1s.s:dasbadti1 Ir'ahoo-Er-Cookie (16 R3
-Mozillar??.? [n [4 as)
-Mozillarsn (a 2 (14 as]
-ooiosisr 
-C??kie [0 96]
-Mozillar??.? [a 4 (as as)
-irroarn ooi1si1s 
-Mozillar?sn (a 2 (1s as)
-Cookie
-Mozillar?EJ] [n (3 as)
-1rroar11 ooi1riae 
-Cookie
-ooississ 80.84.19.9:e4a90e3f 
-Cookie
-irroarn ourseios 
-Cookie
-1rroar11 ooisristi 
-Cookie
-irroarn ours-alas so.s4.1s.s:f12ssreo 
-Cookie
-irroani ooitiriss 
-Cookie
-
- 
-
-1?,l?05f11 00:54:38 80.84.19.9td23bad41 
-
-This information is exempt from disclosure unc?
-
-A legislation. Refer disclosure requests to 
-
-NETWBW 
-
-exemption under other UK information
-
- 
-
-mu l-mhhn-u-d
-
-u.
-
-mull. I 
-
-Ir .- I. 
-
- 
-
-Hen. Era:th :r 
-
- 
-
-
-
-ZEN-FEE
-
- 
-
-Iii-1L9 
+legislation. Refer disclosure requests to GCHQ
 
 TOP SECRET STRAP 2
 
-Real-time picture of GI
+Real-time picture of QI
 
- 
+This information is exempt from disclosure under theFreedomoflnformatio^exemption under other UK information
 
-t: Tal- 
-
-Iv' 
-
- 
- 
-       
-   
-
-
-
-In!- 
-rm ?June-uh?: em Hana-11.?
-m. 
-
-"nu-m 3.. I:
-
- 
-
-Wm?. 541n.1.?1.uujui . a 
-'Ir: n-nl Ilau.m.n I 9
-. . pun- 
-In: ?sitar-414mm" - - 
-
-
-
-uwh?l'llr( mm
-1mm Hunt-fuelin-
-laugh-mumm-
-
-
-
-
-
-
-NH 7n "1.1m: .111- :m.ln.u:.1m ?(mm M: 
-
-my manna-Julia
-
-Il.:u.m.n:wul 
-my 111.139-145.51. .
-
-f-rc 
-
-
-:mmadudm 
-
-nan-1- 113.1?.1 .1I - 
-an: Du- ?Larges-an 
-
-?rum. 3 I 
-
- 
-
-mun-m I. $5.01
-
- 
-
-
-
-- -. 7' 7 HH 77-7 '7 7- e? 
-rnl-.| - 
-
-L, I?l . -
-
-This information is exempt from disclosure under the Freedom of Information Ant 9000 and may he. ambient to exemption under other UK information
 legislation. Refer disclosure requests to GCHQ on
 
 TOP SECRET STRAP 2
 
-Questions 
+Questions ?
 
+This information is exempt from disclosure under thpFreedom£linioim2^ii™£l2020«ïim2^be«ubj££liifxemption under other UK information
 
-
-
-  
-
-This information is exempt from disclosure under the Freedom of Information Act 9000 end mew he enhier?t tn exemption under other UK information
-
-legislation. Refer disclosure requests to GCHQ or
-
-Em??
-
- 
-
+legislation. Refer disclosure requests to GCHQ on

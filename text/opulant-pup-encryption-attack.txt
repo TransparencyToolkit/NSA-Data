@@ -1,58 +1,23 @@
-TOP SECRET STRAF1
+﻿TOP SECRET STRAP1
 
-TALIE .2 Test-E. F1-ar'
+TALKS Pnase 2 Test & TTO Plan
 
-1E All! attack 
+SMO/00007CPO/4524/P02003/000/05
+18 September 2009
 
-3.-Ei.1 Sccpe
+3.6	A5/3 crypt attack proof-of-concept demonstrator
 
+3.6.1	Scope
 
+To successfully prosecute A5/3 enciphered GSM air-interface intercept requires
+changes to each part of the current A5/1 processing chain. This is a new requirement
+and has the covername of OPULENT PUP.
 
-15 September EEI-DEI
+3.6.2	Requirements & Acceptance Criteria
 
-Tc- successfullyr presecute Aft-'3 encipherecl air?interface intercept requires
-changes te each part cf the current ASH processing chain. This is a new requirement
-and has the ccu'ername cut DPLILEHT PUP.
+RFC ST1823
 
-1-5.2 Requirements 5. Acceptance Criteria
-
- 
-
-FIFE 
-
- 
-
- 
-
-Icienlilier
-
-
-
-Acceptance Criteria
-
- 
-
-
-are:
-
- 
-
-'T'rial attack
-hardware
-
- 
-
-Hesalidatecl IA for
-DPULAHT FIFE
-ST1BEEI
-
- 
-
- 
-
-Hetes
-
- 
-
- 
-
+Identifier	CmR	Acceptance Criteria	Notes
+S-SMP_CmR-	Trial A5/3 crypt attack	Revalidated IA for	
+xxxx	hardware	OPULANT PUP RFC	
+		ST1823	

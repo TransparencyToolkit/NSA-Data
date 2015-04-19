@@ -1,290 +1,221 @@
-TOP 
+﻿TOP SECRET//SI//NOFORN
 
- 
+Content Acquisition Optimization
 
-  
-  
+TOP SECRET//SI//NOFORN
 
-
-3?5
-
-tion Optimization
-
-?9 
-
-Content Acquisi
-
- 
-
-TOP 
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Yahoo Webmessenger
 
- 
-
-Update data sent to individuals logged into Yahoo?s Instant
-
+•	Update data sent to individuals logged into Yahoo's Instant
 Messenger service online
-Online contact status, unread emails in Yahoo inbox
 
-Usually small sessions (2-4kB)
-Sporadic collection (30,000 60,000 sessions per day)
+-	Online contact status, unread emails in Yahoo inbox
 
-Intermittent bursts of collection against contacts of targets
-Large numbers of sessions (20,000+) against a single targeted selector
-Not collected against the target (online presence/unread email from target)
+-	Usually small sessions (2-4kB)
 
-No owner attribution (metadata value limited to fact-of comms for emails,
+•	Sporadic collection (30,000 - 60,000 sessions per day)
+
+•	Intermittent bursts of collection against contacts of targets
+
+-	Large numbers of sessions (20,000+) against a single targeted selector
+
+-	Not collected against the target (online presence/unread email from target)
+
+-	No owner attribution (metadata value limited to fact-of comms for emails,
 online presence events for buddies)
 
-Over a dozen selectors detasked in two weeks
-Because a target?s contact was using/idling on Yahoo Webmessenger
-Several very timely selectors (Libyan transition, Greek financial related)
+•	Over a dozen selectors detasked in two weeks
 
-TOP 
+-	Because a target's contact was using/idling on Yahoo Webmessenger
 
- 
+-	Several very timely selectors (Libyan transition, Greek financial related)
 
-'Access (10 Jan 12) Total Sessions
+TOP SECRET//SI//NOFORN
 
-US-3171 1488453
-DS-200B 938378
-US-3261 94132
-US-3145 177663
-US-3180 269794
-US-3180 (16 Dec 11) 289318
-TOTAL 3257738
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Address Books
 
-Email address books for most major webmail are collected as
+•	Email address books for most major webmail are collected as
 stand-alone sessions (no content present*)
 
-Address books are repetitive, large, and metadata-rich
-Data is stored multiple times PINWALE, CLOUDs)
-Fewer and fewer address books attributable to users, targets
+•	Address books are repetitive, large, and metadata-rich
 
-Address books account for 22% of major accesses (up
-from 12% in August)
+•	Data is stored multiple times (marina/mainway, pinwale, clouds)
 
-Address Books
-237067 (16% of traf?c)
-311113 (33% of traf?c)
+•	Fewer and fewer address books attributable to users, targets
 
-2477 of traf?c)
-29336 (16% of traf?c)
-40409 (15% of traf?c)
-91964 (32% of traf?c)
+•	Address books account for ~ 22% of SSO's major accesses (up
+from ~ 12% in August)
 
-712366 (22% of traf?c)
+Access(10 Jan 12)	Total Sessions	Address Books	" Provider	Collected	A;ributed	A;ributed%
+US-3171	1488453	237067 (16% of traffic)	Yahoo	444743	11009	2.48%
+DS-200B	938378	311113 (33% of traffic)	Hotmail	105068	1115	1.06%
+US-3261	94132	2477 (3% of traffic)	Gmail	33697	2350	6.97%
+US-3145	177663	29336 (16% of traffic)	Facebook	82857	79437	95.87%
+US-3180	269794	40409 (15% of traffic)	Other	22881	1175	5.14%
+US-3180 (16 Dec 11) TOTAL	289318  3257738	91964 (32% of traffic) 712366 (22% of traffic)	TOTAL	689246	95086	13.80%
 
-Provider
-Yahoo 444743
-Hotmail 105068
-Gmail 33697
-Facebook 82857
-Other 22881
-TOTAL 689246
+TOP SECRET//SI//NOFORN
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-Collected Attributed
+Buddy Lists,Inboxes
 
-Attributed%
+• Unlike address books, frequently contain content data
 
-11009 2.48%
-1115 1.06%
-2350 6.97%
+-	Offline messages, buddy icon updates, other data included
 
-79437 95.87%
-1175 5.14%
+-	Webmail inboxes increasingly include email content
 
-95086 13.80%
-
-TOP 
-
-Buddy Lists,lnboxes
-
- 
-
-- Unlike address books, frequently contain content data
-Offline messages, buddy icon updates, other data included
-Webmail inboxes increasingly include email content
-
-Most collection is due to the presence of a target on a buddy list where the
+-	Most collection is due to the presence of a target on a buddy list where the
 communication is not to, from, or about that target
 
-- NSA collects, on a representative day, 500,000 buddylists and
+• NSA collects, on a representative day, ~ 500,000 buddylists and
 inboxes
 
-More than 90% collected because tasked selectors identified only as
+- More than 90% collected because tasked selectors identified only as
 contacts (not communicant, content, or owner)
 
-- Identifying buddylists and inboxes without content (or without
+• Identifying buddylists and inboxes without content (or without
 useful content) an ongoing challenge
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-Scenario: -@yahoo
+Scenario:
 
-I Sep 2011 @yahoo.com (tasked S2E, asw
+@yahoo
+
+* I Sep 2011^^^^^^^^|@yahoo.com (tasked S2E, asw
 Iran Quds Force) has his/her Yahoo account hacked by an
 unknown actor, sends out spam email to his/her contact list:
 
-DNI Parser Webmail Display MAIL hm" WI
+TOP SECRET//SI//NOFORN
 
- 
+Scenario:
 
-   
+@yahoo
 
- 
-
-subject  
-From ?@yahoo.com>
-To ?@yahoogroups.com
-
- 
-
- 
-
-TOP 
-
- 
-
-TOP 
-
-Scenario: -@yahoo
-
-- -@yahoo.com has a number of Yahoo groups in his/her
+@yahoo.com has a number of Yahoo groups in his/her
 contact list, some with many hundreds or thousands of
 members
 
-- At DS-200B in particular, collection spiked as:
 
-The initial spam messages were sent (and collected)
-Inboxes of email recipients were viewed by- contact list
 
-Messages were sometimes viewed, but more often sent as precached
+At DS-200B in particular, collection spiked as:
+
+-	The initial spam messages were sent (and collected)
+
+-	Inboxes of email recipients were viewed by	contact list
+
+-	Messages were sometimes viewed, but more often sent as precached
 views on Google and Yahoo (along with inboxes)
 
-Inboxes where the recipient did not delete the spam message continued to
+- Inboxes where the recipient did not delete the spam message continued to
 be collected every time they were viewed
 
-Some recipients added @yahoo.com to their address books
-(possibly as a spam defeat?) address books were collected every time
+- Some recipients added
 
- 
+@yahoo.com to their address books
 
-TOP 
+(possibly as a spam defeat?) - address books were collected every time
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-Scenario: -@yahoo
+TOP SECRET//SI//NOFORN
 
-DS-200B Collection Sep (in MB)
+Scenario:
 
- 
+@yahoo
 
-120000
+DS-200B Collection By Day -11 Sep - 24 Sep (in MB)
+
+120000 i
 100000
 80000
 60000
 40000
 20000
+0 n
 
-DS-200B Collection By Hour 18 Sep 23 Sep (in MB)
+Ov	Ov	Ov	Ov	Ov	Ov	Ov	Ov	Ov	\\	Ov	Ov	A	Ov
 
-40000 
-30000
+n^N
+
+# ¿P J" J* J* #	^ ¿P #	<# J*
+
+Cp	Cp	ojv	Cp	Cp	Cp	Cp	Cp	Cp	cp	cp	cp	cp	cp
+
+DS-200B Collection By Hour - 18 Sep - 23 Sep (in MB)
+
+40000 i
+30000 J
 20000
 10000
 
-0
-9/18/2011 9/18/2011 9/19/2011 9/19/2011 9/20/2011 9/20/2011 9/21/2011 9/21/2011 9/22/2011 9/22/2011 9/23/2011 9/23/2011
-0:00 12:00 8:00 20:00 8:00 20:00 8:00 20:00 8:00 20:00 8:00 20:00
+0 n
 
-TOP 
+9/18/2011 9/18/2011	9/19/2011	9/19/2011	9/20/2011	9/20/2011	9/21/2011	9/21/2011	9/22/2011	9/22/2011	9/23/2011	9/23/2011
+0:00 12:00	8:00	20:00	8:00	20:00	8:00	20:00	8:00	20:00	8:00	20:00
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-Scenario: -@yahoo
+TOP SECRET//SI//NOFORN
+
+Scenario:
 
 @yahoo.com emergency detasked from DS-200B and
-US-3171 at on 20 Oct
+US-3171 at 13:04Z on 20 Oct
 
-Numerous first-order address books and inboxes collected
+•	Numerous first-order address books and inboxes collected
+
 meant tasked selectors on address books or buddy lists of
+contacts of |	@yahoo.com also affected:
 
-contacts of -@yahoo.com also affected:
+-	@yahoo.com and ^^^^^^|@gmail.com emergency
+detasked off US-3171 at 13:10Z on 20 Sep
 
-?@yahoo.com and @gmail.com emergency
-
-detasked off US-3171 at on 20 Sep
-
-Memorializing to PINWALE only address books and inboxes
+•	Memorializing to PINWALE only address books and inboxes
 owned by target selectors would have reduced PINWALE
 volumes 90%+
 
-Site XKEYSCOREs would buffer data for SIGDEV purposes
+-	Site XKEYSCOREs would buffer data for SIGDEV purposes
 
-Metadata from known owner address books and inboxes stored regardless
+-	Metadata from known owner address books and inboxes stored regardless
 
- 
+TOP SECRET//SI//NOFORN
 
- 
-
-      
-
-TOP 
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Mobile IMAP
 
- 
+•	IMAP protocol used by email clients
+to fetch mail from server(s)
 
-- IMAP protocol used by email clients As. amnm
-to fetch mail from server(s) 2; 2:23:13.
-A3 EXAI-IIE-IE 
+•	Not designed for devices with
+intermittent connections (i.e. mobile
+phones)
 
-- Not designed for devices with A4 :rsr  Ir-Iac'x
-
-AS LIST 
-
-intermittent connections  mobile A6 SEARCH 15?Aug?2911 
-
-A7 EEICE ;7 (ENVELOPE INIERNALDAIE RFC522.SIZE
-phoneS) AS EEICE :7 
-
-A9 CLOSE
-a :osour
-
-- Android implementation in 
+•	Android implementation in
 particular uses a lot of bandwidth
 
- 
+AO CAPABILITY_______________________
 
- 
+A1 LOGIN
+A2 CAPABILITY
+A3 EXAMINE INBOX
+A4 LIST "" INBOX
+A5 LIST "" "INBOX.%"
 
- 
+A6 SEARCH SINCE 15-Aug-2011 UNDELETED ALL
+A7 FETCH 17 (ENVELOPE INTERNALDATE RFCS22.SIZE
+AS FETCH 17 (BODY.PEEK[HEADER])
 
-Date From Subject Attachments
-_l
-2nd  Reminder_ 0
-Display Information: Email a) Send to 
+A9 CLOSE
+A10 LOGOUT
 
-Subject: 2nd Payment Reminder?
- 
-
-DNI Parser: Document 2: message has no date
-
-Text SIZE - Men. Full 
-
-TOP 
-
+TOP SECRET//SI//NOFORN

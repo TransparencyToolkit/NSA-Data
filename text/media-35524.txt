@@ -1,184 +1,124 @@
- Product - WikiInfo
+﻿TemplaterPOISONNUT Product - Wikiinfo
 
-The accredited security level of this system is: TOP SEC KEYHOLEIIORC ONIPROPINIRELIDOIREL TO USA, FVEY 
-TOP SECRETHSIHREL TO USA. FVEY
+The accredited security level of this system is: TOP SECRET//SI-GAMMA/TALENT KE YHO LE//ORC ON /PRO PI N/RELID O/REL TO USA, FVEY *
 
-(U) Product
+TOP SECRET//SI//REL TO USA, FVEY
 
-From WikiInfo
+(U) Template:POISONNUT Product
+
+From Wikiinfo
 
 Contents
 
-1 Overview
-2 Design
-3 Capabilities
-3.1 Can Attack
-3.2 Submit Attack
-3.3 Submission to Output Correlator
-3.4 Cancel Attack
-3.5 L) Attack Output Processor
-3.6 L) Was Attack Successful
-4 Infrastructure
-I 4.1 Channel Guide
-5 Metrics
-6 Issues
+■	1 (TS//REL) Overview
 
-REL) Overview
+■	2 (TS//REL) Design
 
-I Description: This complex element is responsible for scheduling ESP attacks.
-I Input Channel(s): incomingE SPAttack
+■	3 (TS//REL) Capabilities
 
-I Output Channel(s): successfulE SPAttack (successful attack)
+■	3.1 (TS//REL) Can Attack
 
-I See the Maven Project.
+■	3.2 (TS//REL) Submit Attack
 
-REL) Design
+■	3.3 (TS//REL) Submission to Output Correlator
 
- 
+■	3.4 (TS//REL) Cancel Attack
 
- 
+■	3.5 (TS//REL) Attack Output Processor
 
- 
+■	3.6 (TS//REL) Was Attack Successful
 
-Can AItack VRI Output
+■	4 (U//FOUO) Infrastructure
 
-1 mm i? am?; cw
+■	4.1 (U//FOUO) Channel Guide
 
- 
+■	5 (U//FOUO) Metrics
 
- 
+■	6 (U//FOUO) Issues
 
- 
+(TS//REL) Overview
 
- 
+■	(TS//REL) Description: This complex element is responsible for scheduling ESP attacks.
 
- 
+■	(U//FOUO) Input Channel(s): incomingESPAttack
 
- 
+■	(S//REL) Output Channel(s): successfulESPAttack (successful attack)
 
- 
+■	See the poisonnut-phaseprocessing-phaseattack Maven Project.
 
- 
+(TS//REL) Design
 
- 
+(TS//REL) Capabilities
 
-Time oulv'
-Cantxellt-Kl
+(TS//REL) Can Attack
 
-Cannot Attack
-
-Amok mm 
-(W Channel 6 l' I Channel 5 l?4 Cancel Attack
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-ESP Attack Desgin
-
-REL) Capabilities
-
-Can Attack
-
-I Description: Determines if the data that is available for the Phase1 Attack is enough to do the current
+■	(TS//REL) Description: Determines if the data that is available for the Phasel Attack is enough to do the current
 attack in the attack plan. If it is not, it sets the result text and returns the cannotAttack route. The strategy is not
 marked as failed, this is left for the object on the other side of the channel to decide how to handle the failure. If
 no plan is set or the plan has no attacks, it returns the cannotAttack route. If there are strategies but all of them
 have been exhausted, the plan will throw an IllegalStateException.
 
-Submit Attack
+(TS//REL) Submit Attack
 
-I Description: Creates the Attack command and submits it to the VRI with the Resource of the Attack
-Strategy. The VRI correlation id must be set with the Phase1 data.
+■	(TS//REL) Description: Creates the Attack command and submits it to the VRI with the Resource of the Attack
+Strategy. The VRI correlation id must be set with the Phasel data.
 
-Submission to Output Correlator
+(TS//REL) Submission to Output Correlator
 
-I Description: Correlates the Phase1 with it's VRI Output. The VRI Correlation id will be used for the
-correlation. There will be a time out on the phase1 that will indicate that we never got the VRI Output.
+■	(TS//REL) Description: Correlates the Phasel with it's VRI Output. The VRI Correlation id will be used for the
+correlation. There will be a time out on the phasel that will indicate that we never got the VRI Output.
 
-10f2
+1 of 2
 
-Product - Wikilnfo
+TemplaterPOISONNUT Product - Wikiinfo
 
-Cancel Attack
-I Description: Sends a message to the VRI that the job has been canceled.
-Attack Output Processor
+(TS//REL) Cancel Attack
 
-I Description: Processes the output of the Attack. This output may not even be there if the Attack timed
+■	(TS//REL) Description: Sends a message to the VRI that the job has been canceled.
+
+(TS//REL) Attack Output Processor
+
+■	(TS//REL) Description: Processes the output of the Attack. This output may not even be there if the Attack timed
 out. The Attack Strategy needs to be marked as successful or failed based on the data the Attack gives back.
 
-Was Attack Successful
-I Description: Checks to see if the current Attack Strategy was successful. This component could use
+(TS//REL) Was Attack Successful
 
-the Has Phase1 Key Material Content Based Router implementation with a different input channel/output
-channel con?guration.
+■	(TS//REL) Description: Checks to see if the current Attack Strategy was successful. This component could use
+the Has Phasel Key Material Content Based Router implementation with a different input channel/output
+channel configuration.
 
-Infrastructure
+(U//FOUO) Infrastructure
 
-Channel Guide
+(U//FOUO) Channel Guide
 
-Spring Integration Channel Guide
+(TS//REL) Spring Integration Channel Guide
 
-Channel Name Type Payload
-CanAttack Input 1 (Channel L) incomingPhaseAttack Direct IKE Phase1
-CanAttack Output 1 canAttackPhasel Direct IKE Phase1
-CanAttack Output 2 cannotAttackPhasel Direct IKE Phase1
+Channel	Name	Type	Payload
+CanAttack Input 1 (Channel L)	inc omingPhase Attack	Direct	IKE Phasel
+CanAttack Output 1	canAttac kPhase 1	Direct	IKE Phasel
+CanAttack Output 2	ca nno tAttackPhase 1	Direct	IKE Phasel
+RequestResponseCorrelator Input 1	attackRequestSubmitted	Direct	VRISubmission
+RequestResponseCorrelator Input 2	attackResponseReceived	Direct	VRIResponse
+RequestResponseCorrelator Output 1	attackCompleted	Direct	VRISubmission
+RequestResponseCorrelator Output 2	attackTimedOut	Direct	VRISubmission
 
-RequestResponseCorrelator Input 1 attackRequestSubmitted Direct VRISubmission
-RequestResponseCorrelator Input 2 attackResponseReceived Direct VRIResponse
+(U//FOUO) Metrics
 
-RequestResponseCorrelator Output 1 attackCompleted Direct VRISubmission
-RequestResponseCorrelator Output 2 attackTimedOut Direct VRISubmission
+{ { { metrics } } }
 
-Metrics
+(U//FOUO) Issues
 
-Issues
+{{{issues}}}
 
+from
 
-Retrieved from
 Category: POISONNUT products
 
-Derived From: SI Classi?cation Guide. 02-01. Dated: 20060711
-and 1-52. Dated: 2001'0108
-Declassify 0n: 20320108
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and MSA/CSSM 1-52, Dated: 20070108
 
-TOP SECRETHSIHREL TO USA. FVEY
+_______________________________________________________________________________________________________________________________Declassify On: 20320108
 
-20f2
+TOP SECRET//SI//REL TO USA, FVEY
 
+2 Of 2

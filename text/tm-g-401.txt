@@ -1,0 +1,1287 @@
+﻿TOP SECRET STR A PI
+
+iijj
+
+Çjp ■
+GCHQ
+
+Bude Sigint Development
+
+NAC BUDE Partnership
+SATELLITE TELEPORT KNOWLEDGE
+
+Contents
+
+UStellar
+
+Auton om ou s Sy ste m : 35207
+IP Ranges:
+
+Servers of Interest:
+
+Routers Found on Tidal Surge:
+
+Edge Routers:
+
+Employees:
+
+Customers/Partners:
+
+Other information of interest:
+
+UC e-Tel
+
+Auton om ou s Sy ste m : 39151
+IP Ranges:
+
+Servers of Interest:
+
+Edge Routers:
+
+C u sto me rs/P a rtn er s :
+
+UIABG
+
+Auton om ou s Sy ste m : 29259
+IP Ranges:
+
+Servers of interest:
+
+Routers Found on Tidal Surge:
+
+Edge Routers:
+
+Gateway Routers:
+
+Employees:
+
+C u sto me rs/P a rtn er s :
+
+1 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests to GCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Summary:
+
+Development of in depth knowledge of key Satellite IP service providers in
+Germany in support of a wider TR requirement on developing German IP transit
+knowledge.
+
+For each of the following companies
+
+Stellar (AS35207)
+
+Cetel (AS39151)
+
+IABG (AS29259) - (Note this may have already been looked at by NSA NAC.,)
+Develop a detailed understanding of network infrastructure, focusing on:
+
+-	IXP points. Points where the teleport (ground station) connects to the wider
+Internet. In particular looking for potential access chokepoints.
+
+Develop a wider understanding of the network as a whole.
+
+-	Develop and task key engineers! staff.
+
+-	Identify key customers, IP allocations and frequency plans in support of survey.
+
+-	Examine potential equipment suppliers and future tech trends.
+
+This task is part of a wider task to look at developing possible access opportunities
+with Sigint partners requested byand ITT. It is also designed to
+allow NAC Bude to begin looking at network analysis that directly connects to their
+access, and encourages new SD work against key ISPs in future.
+
+2 of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Stellar
+
+Autonomous System: 35207
+
+Vi I?';'; I l.'.h I* jiHn-rilaa* 1-Jn.rri |
+
+/.SD22Î CO_“CO
+
+lTT«l4(«nnunl:dt ere
+
+I aîS-î:: VETCDLC E\E N=~nCLOCN= A5
+
+V_____________________________.
+
+I-' H r,\i Kiev -» 1 - >-*vv I -A flK = z*i-
+
+ji_i	dflsrrj^-—~”*~
+
+' P*V	■.——	f
+
+5-1. LV^CSnVBtaÎlB- FCS G “15 j	*{	31 »MO-K»« *"™ rt*"»K 5cluU*"B
+
+G
+
+A52E-3D5. CctsycyCsTjirLrlic:	|
+
+________________________/
+
+/ ùk R-ptn- h■ ■ 5Ä =Ç'f : :sr=i I iR >rs zz s.tv^ I.- • *rs n»in-. r.-rnirvs^.
+
+il iï t—r u,wi-HT*ni’r‘rAT-n;i,î i—.i	I
+
+\ zrtittc r«rci:.i:c.c 9Ï IC~F jrad«F z:ic OfiibirSïO.Oj::] ]1 TM *
+V._________________________________________________/
+
+From ServerSriff
+
+3	of 26
+
+This information is exempt from disclosure under the Freedom of Inform^jor^^j^fiÇi^ji^TiaWï^uhieçnt^xemDtiorMjnder
+other information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+From Robtex
+
+4	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+tritt
+
+704
+
+COL I COL I
+
+PI AI
+
+Ämmlifcns / tïlA-NLl^Ç,« .........„nL-Uc.*
+
+Aul Ich iU
+
+' Plnnehiky I Id.	"	SHCÏWNFT l®r AS Slmr^t
+
+Aï obtct	internet pointions Ltd
+
+5 ILLUiK-1'CÏ-AC i’fcllar
+PC5 GrnLiI I, Gur many	.
+
+j|jX.
+
+MSTAKTEL AS
+
+1S20
+
+ÏV
+
+TFI1ANFT TrllaMnt RlnLnal
+
+rttworlc
+
+Ci I tevmf ComrriLilitäj! ii iri-i
+
+Generated via TeasureMap
+
+IP Ranges:
+
+80.92.48.0/20
+
+Servers of Interest:
+
+FTP: 80.92.
+
+Dns2.stellar-dbs.com: 80.92.48j
+Dns2.stellar-pcs.com
+Dns2.stellar-bbs.com
+Dns2.onf.stellar-pcs.com
+
+DnsO.stellar-dbs.com: 80.92.48.
+DnsO.stellar-pcs.com
+DnsO.stellar-bbs.com
+bellini.stellar-pcs.com
+
+Mxl.stellar-dbs.com: 80.92.481
+Mxl. stell ar-pcs.com
+Mxl. onf.stellar-pcs. com
+
+5	of 26
+
+This information is exempt from disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Routers Found on Tidal Surge:
+
+Router  Interface		FastEthernetO/1	255.255.255.128	No  Description	Router:
+	80.92.48^1				CGN-  7206-7
+Router  Interface	80.92.48^1	FastEthernetO/O	255.255.255.252	No  Description	Router:  Cisco7206-  2
+Router  Interface	80.92.56.H	Fast Ethernets 1/0	255.255.255.0	+*+  PAKSAT SIMPLEX 3 E3  TESTING  +*+	Router:  rwp44d2
+Router  Interface	80.92.56.H	Asyncl	255.255.255.0	*** Policy Routing for Touchstone to 3rd/lst STM1 ***	Router:  rwr>44d2
+
+6	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Edge Routers:
+
+See attached file Stellar.jmz for more detail
+
+1J4ES (Cl
+
+r? ?11 .ir.M
+
+1C5 n:Zl
+
+O
+
+>F;
+
+Q
+
+D^o?ipg
+
+o
+
+$0.« .^WM
+
+____	:;:2,3-L'.L=L fc
+
+5f	;2-=M% AT. L at JO PWi^ETBföZ^X
+
+,'VM] rt ij-i L'Vti
+
+ühc:
+
+n
+
+
+
+■|riT7 IT:":
+
+n
+
+\ El 1LJ.J_________
+
+ARABSAT-GWIPJ ET3!r.Hir-'
+
+
+
+Tu \ T /
+
+\ I / _C ~ I Er, iT.:;.j
+
+DE07 lpl:j
+
+$4£2 (PE) >
+
+yj,
+
+IF--0 L-lEE.-STEJjùÂ.
+■•HF1-T- * - '"i“it4ÎÏTJF^rîînf/r^TW=" if
+
+i.tj	*2 jTiTli. LLt-ÆftÆf9c'i:	"N
+
+
+
+w
+
+
+
+isor? pn
+
+c
+
+\ -,r'
+
+\	/ \jjO^	\ ferrVT;/~,■ CT>"‘-:TiIr,rpr ^	..— .iT n
+
+.v r5V-^	,	Jh U J ■ jt-1 LSI =l_‘«l
+
+	ZZ217 11:1c
+¿u  :R2i:i4R^TRjo:LTj^Er^.	ati.v füi
+
+-C t.Ö.O-SÄR*:
+
+\	\	-‘S
+
+RKSiïrôeM:*'
+
+\	\	Kgipt'
+
+": "■ O Q
+
+I
+
+V
+
+3S2DP ••:)
+
+c
+
+üj,'jdj|
+
+AJU/U-KJ
+
+u ou
+
+TF-1 .n.'i-fii- • nsH
+
+/
+
+s îkï
+
+CD.Ol.^DH
+KL5L ¿¿ Lh K, L-T^b
+
+7	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Employees:
+
+Christian Steffen
+
+) stellar-pcs, com or .de - CEO of Stellar DBS
+f@stellar-pcs.com - Engineer
+Stellar-DBSNQCn oc@stellar-dbs.com - NOC
+^^^^^^^^^B@steiiarp cs.com
+' Im ln|ili ilium	li II ii pcs.com
+
+Ali Fares ^^M@stellar-pcs.com
+Richard Grave^^^Bx)stellar-pcs.com
+
+stellar-pcs.com
+[@ stellar-pcs, com
+stellar-pcs.com
+stellar-pcs.com
+
+Oliver Skaletz
+
+Customers/Partners :
+
+Company	Satellite
+Ente Is at	W5 I
+	W6
+	Hotbird 8
+	Atlantic Bird 1
+Intelsat	7
+	10
+RSCC	Express AMI
+	Express AM22 (Sesat 2)
+	Express A3
+Paks at	1
+Arab sat	2B
+	Badr-4
+Sirius	4 (Astra 4A) |
+
+*	PlanetSky
+
+*	Horizon
+
+8	of 26
+
+This information is exempt from disclosure under the Fieedom of Inform^jor^^j^fiÇi^ji^TiaWï^uhieçnt^xernDtiorMjnder
+other information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Other information of interest:
+
+The login details to the stellar hub are as follows.
+> 82.2 05.224	or 8 Û.92.4
+
+> horizon
+
+> hOrlzOn
+
+Horizon NMS server #1: 00:21:5E|
+
+> Horizon NMS server #2: 00:21;5E;
+
+9	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act ZOOQand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Ce-Tel
+
+Autonomous System: 39151
+
+/- \
+
+U AS UetTscht elekcTiAS:
+
+c
+
+fS. =!4r. 1 =STM \l =3i"vn id Tin Nut,
+
+*rrlt ATir rlr.: Irtf |—
+
+
+
+J	A*?.m	I____i-
+
+" L’LI _L -■".■le-llrtt Intsnsfc 'jervi f
+
+A_____________________________-
+
+A=,4F-Ü7 nr.nis NFT IPJU) “In InNftt
+
+C:
+
+A532C? VOGME“ lr JBiridL urip ^-BdLkbum u uuJ«ik'iu
+
+■)
+
+f	. - L Ivr fl* : = ] E ] .CE-: . : . jdliE* InL...S-ivk- Fi.viJ-rÏ
+
+i-.-L-i.Ju3 . JLpJlfH-v. a- aAt m.. L-39L5UiL
+' n,,jnd lui	¿3-1 JilrA-i £003, 0-1-1L. 17 Ff-‘y
+
+From ServerSriff
+
+10	of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiCOandmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+From Robtex
+
+11 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+55-’
+
+-!"!sFT Pn Kh T^TTn'':
+ccnnaaa JF'ret-vcr-:
+
+
+
+Ceai
+
+Mod"
+
+0;,
+
+\ DTM-iCiJ-DîVIi'fhe I
+'Je:™ h /Ti4 i:î Jn:. I
+\
+
+V \ I
+
+,v:i\Jtc I - 'j-vest LOTiTi.l'CaterS
+
+:"n I r ■ I v. r
+
+y=jb|
+
+Tv''3f'\T-'''f -Eh.--a"I [ntefret
+rotrw.'v
+
+I-1	WTj -V_ -■nine..
+
+NdlmJT'i
+
+
+
+I ''I Ofl ¡rk^ III I	ml
+
+« X \ ^
+
+\\ \ 1 / /"
+
+'■vAl I / M
+
+
+
+
+
+jj'-bN r.cqeTt.O-y.
+
+i"i I i| 11 : I I ¿i.l ri I il I r.
+Cvsten n franze
+
+"I r-ûf, n Jrjv .=n Te fi-mnn rlraNnr
+LDTpai'v Hlc.
+
+tr
+
+?! l\Vv X
+
+■ZD_>: Ctt =l Crasshg
+_zc,
+
+W
+
+
+
+■:cicc N:-r j~ t=I=: jïi	11 ?1
+
+SjaUe r.v'_
+
+XV
+
+/ /fl  / 1	\ v\\
+sj i	
+71	\ \\
+	
+S+t	\ \
+1+	\ \
+
+V
+
+
+
+iLS'il -'S .'^a iatehs
+Ti I T I 11 ii.f.i
+
+8-5
+
+\
+
+I597Dj
+vn'1'-\ - v3-ia r-.et'/cr:
+
+mi j /
+
+/
+
+I itUij
+
+V
+
+Sr--
+
+■''-¡-N J
+
+
+
+\
+
+1--6" .
+
+I"F :":l F-rr rim nil Ti i h n 11 nj i
+
+:-i=.
+
+49
+
+:EEF>JO; FLli
+CeTter r
+
+t
+i
+/
+
+L'i A.Le.itscTe elekui
+,\G
+
+Y'iJ-C'M-Ycluj!
+
+CvY CJJd d- Ll V'/l'tlii
+
+r'-
+
+U"Cl dozn-ao-api Lrtchtor
+(j cb=l Lomnuricatiors
+
+59.
+
+V'JL,ftN= I Jnzernadzrel
+
+F. ■ l:h ■ I I ! I V I.. ill mi:
+
+fJTT-CC MT-1. MCA-: Z	\
+
+-NI I /'ne 1Z-=. L C.
+
+GO:
+
+_'■] I ;il lrÜ ubd
+
+BGF F.jjU ij PJL?
+
+j-'.vb-JH'Jz barre^roz
+P- I.i.i Iri Ci i F
+
+Generated via TeasureMap
+
+12	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+IP Ranges:
+
+91.151.157.0/24
+
+87.238.112.0/21
+
+87.238.118.0/24
+
+91.151.144.0/20
+
+85.31.80.0/20
+
+91.151.147.0/24
+
+87.238.119.0/24
+
+91.151.154.0/24
+
+95.128.16.0/21
+
+85.31.80.0/21
+
+85.31.88.0/21
+
+91.151.149.0/24
+
+195.69.163.0/24
+
+195.78.224.0/24 - CeTel network for PAKSAT
+
+Servers of Interest:
+
+Nsl.ce-tel.net- 87.238.1121
+N s2. ce-tel. n et - 91.151.144§
+Maill.ce-tel.net- 87.238.112
+Mail.ce-tel.net- 91.151.144.1
+
+Edge Routers:
+
+See attached file Cetel.jmz for more detail
+
+ft o a^	o ooo o o a o © o o o o o cocoa o oo ,.jpcoo
+
+rrooô
+
+O*
+
+■0
+
+
+
+X.'
+
+o acxxi
+
+& f!j\
+
+ÖOOQ.
+
+ftiâ j i[ \ \ \\v\wM
+Mfe f j fj I 1 \ \ \\Vv
+
+e ogoooc1 'Oeo ooocooccc^
+
+. . .....Jwmm
+
+l //If	Vh-v: ; ¡J-	/■:	;-'jx
+
+./■ V'11 x•	’- ■ >-v" ' ' --T^r4• iv\I, \ !'• f ) '
+
+\\ \
+
+‘	iVs*.
+
+C
+
+G O O C O O O G QCOOO&Q OCOOGG O
+
+13	of 26
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+o ow
+
+TOP SECRET STR A PI
+
+Customers/Partners :
+
+■	pgry\m6aUFV\£Hi}
+
+■EuteEel(Wf TO A W5
+
+■	rasiMi w.y ai : 4
+
+■	Heifli^al
+
+■	Pdtbi.
+
+Nt^ikidi (HSS-0:
+
+■	^fabia;2E
+
+Provffrtr;
+
+■ CcLtLcnpTcfcltDm AG1*—
+
+-	sliflikif*ra
+
+-	_?leÿohe	J
+
+-	MCi 'A'or'iiCom
+IrtarmUa
+PCCW
+
+*T
+
+Services'
+
+■	Inieme! b>a Saretite
+DVBrSCPC
+
+-	Vyittd vvtsi IP
+
+Tailored Commun1 call sn Solutions
+
+■	&m to Ena cwwnuncaion soMio's
+
+-	Space SRttmrnr cnnanty
+
+-	VVrrlnvirli* I hre Qpli 0 Campftionï
+
+■	UpuCOiH nkGéfvicEï
+
+■	Opsra:fcn of VSAT Nstotxks
+
+FiekJ Saivioy & Mu - Ihhhir.« n-uldii
+
+Provider / Networks f Carrier i Fihre
+
+CLittmeiï:
+
+-	Corners If CttstaneTS
+
+-	Oil & Gas I nauSb y
+
+■	lr to-1 hîI Samoa Prowler [ISP)
+DstlDutor
+
+-	Resclur
+Aü2rt:s
+
+-	Satellite Dfterntors
+
+■ -.prnm m i n r? I inn	t ^
+“¿betum no ri cation C sm pi i i es
+
+-Gowf nrrei lai Instil Jiuis
+
+Company	Satellite
+ABS	1 1
+Intelsat	4 (PAS-4) |
+	902
+	904
+EutelSat	W1 (Eurobind 1)
+	W3A
+	W5
+	Sesat - 2 (Express AM22)
+	Eurobird-2
+Hell as sat	2
+Paksat	1
+SES Newskies	NSS-6
+Arab sat	2B |
+
+*	Talia
+
+*	Sat Link
+
+*	T-Sy stem s/ Tel eco m
+
+*	Eti salat
+
+*	IDirect Technologies
+
+*	Cable and Wireless
+
+*	Orange
+
+14	of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+*	Newtech
+
+*	TeliaSonera
+
+*	Sematron UK
+
+*	Rady re
+
+*	VSIML International
+
+*	Global Crossing
+
+*	IMD SatCom
+
+*	Reach
+
+*	Satrexx
+
+*	Equant
+
+*	MCI
+
+*	Paradise Datacom
+
+*	Codan
+
+*	Andrew
+
+*	BT
+
+*	Teleglobe
+
+*	Uruk
+
+*	Siemens
+
+15 of 26
+
+This information is exempt from disclosure under the Freedom of Information Act 2000
+other UK information legislation. Refer disclosure requests toGCHQ on
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+IABG
+
+Autonomous System: 29259
+
+From Robtex
+
+16 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+42
+
+CW Cable and Wireless
+
+NSS-ÜK New Skies Satellites
+UK AS
+
+Ge n er ated vi a Tr easu reM a p
+
+IP Ranges:
+
+196.44.170,0/24
+93.91.80.0/20
+41.22143,0/24
+
+83.170.0.	0/18
+
+84.11.0.	0/16
+217.26.240.0/20
+212.6.46.0/23
+
+Servers of interest:
+
+Nsl.iabg.de-84.11.16
+
+17 of 26
+
+This information is exempt f mm disclosure under the Fieedom of Information Act 200Qand may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Routers Found on Tidal Surge:
+
+Router  Interface	84.11.54.	Fast Ether netO/0	255.255.255.0	No Description	Router: 2610
+Router  Interface	84.11.48^H	Fast Ether netO	255.255.255.224	No Description	Router: AS5300
+Router  Interface	84.11.	Group-Asyncl	255.255.255.224	No Description	Router: AS5300
+					
+Router  Interface	84.11.48^*	Seria 10	255.255.255.224	No Description	Router: AS5300
+					
+Router  Interface	84.11.33^H	Fast Ether netO	255.255.255.0	No Description	Router: AS5300- Heraat
+Router  Interface	84.11.33^H	Group-AsyncO	255.255.255.0	No Description	Router: AS5300- Heraat
+Router  Interface	84.11.107^1	EthernetO	255.255.255.252	Multan DVB	Router: AS5300- Multan
+Router  Interface	84.11.28.	Fast Ether netO	255.255.255.224	No Description	Router:  AS 5300 qhilas
+Router  Interface	84.11.28.^H	SerialO	255.255.255.224	No Description	Router:  AS 5300 qhilas
+Router  Interface	84.11.42.^B	F ast Ether netO/0	255.255.255.224	No Description	Router: AS5400-1
+					
+Router  Interface	84.11.140^|	Serial0/0/0	255.255.255.0	Intern etLink	Router: ArbilSite
+Router  Interface	84.11.140.^1	Fast Ether netO/0	255.255.255.0	WanLink	Router: ArbilSite
+Router  Interface	84.11.	EthernetO	255.255.255.0	No Description	Router: Atrak
+					
+Router  Interface	84.11.43^^	Fast Ether netO	255.255.255.240	No Description	Router: DIG- SCPC6
+Router  Interface	84.11.140^|	Serial0/0/0	255.255.255.0	DVB	Router: DVB
+Router  Interface	84.11.140^1	Fast Ether netO/0	255.255.255.0	No Description	Router: DVB
+Router  Interface	84.11.140^^1	Fast Ether netO/0	255.255.255.240	No Description	Router FTP
+					
+Rniitdr	84.11.140^H	Seria 10/0	255.255.255.240	No Description	Router: FTP
+
+18 of 26
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Interface					
+Router  Interface	84.11.77^H	EthernetO/O	255.255.255.192	No Description	Router: GW2610
+					
+Router  Interface	84.11.77^H	Seria 10/0	255.255.255.192	No Description	Router: GW2610
+					
+Router  Interface	84.11.	FastEthernet4/l	255.255.255.192	No Description	Router: GW3845
+Router  Interface	84.11.62	F ast Ether netO/O	255.255.255.0	Gateway	Router: G ate wav
+					
+Router  Interface	84.11.62	Serial0/0/0	255.255.255.0	Sat	Router: Gateway
+Router  Interface	84.11.62	Fast Ether netO	255.255.255.0	No Description	Router: Gateway 3
+Router  Interface	84.11.62^H	Fast Ether neto	255.255.255.0	No Description	Router: Gateway 4
+					
+Router  Interface	84.11.62	Fast Ether netO	255.255.255.0	IPCALLER	Router: Gateway 5
+Router  Interface	84.11.	F ast Ether netO/O	255.255.255.240	outside$ETH-  LAN$	Router: Hillah
+Router  Interface	84.11.114^H	GigabitEthernetO/2	255.255.255.192	No Description	Router: ISP-1
+					
+Router  Interface	84.11.115^1	GigabitEthernetO/1	255.255.255.224	No Description	Router: ISP-1
+Router  Interface	84.11.113.^1	Fast Ether netO	255.255.255.240	No Description	Router: JT001
+Router  Interface	84.11.113^|	Fast Ether netO	255.255.255.240	No Description	Router: JT002
+Router  Interface	84.11.113.^1	Fast Ether netO	255.255.255.240	No Description	Router: JT004
+					
+Router  Interface	84.11.113.^1	F ast Ether netO/O	255.255.255.240	No Description	Router: JT004
+Router  Interface	84.11.113^|	Fast Ether netO	255.255.255.240	No Description	Router: JT005
+Router  Interface	84,11.113^1	Fast Ether netO	255.255.255.240	No Description	Router: JT006
+Router  Interface	84.11.113.^1	F ast Ether netO/O	255.255.255.240	No Description	Router: JT006
+
+19 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Router  Interface	84.11.113^H	Serial0/0/0	255.255.255.240	No Description	Router: JT006
+Router  Interface	84.11.113^|	Fast Ether netO	255.255.255.240	No Description	Router: JT008
+Router  Interface	84.11.113^|	F ast Ether netO/O	255.255.255.240	No Description	Router: JT009
+Router  Interface	84.11.113.H	Fast Ether netO	255.255.255.240	No Description	Router: JT013
+					
+Router  Interface	84.11.113^1	SerialO	255.255.255.240	No Description	Router: JT013
+Router  Interface	84.11.85^*	EthernetO/0	255.255.255.240	No Description	Router: MAHMOD
+Router  Interface	84.11.41^H	EthernetO	255.255.255.192	No Description	Router: ORANUS
+Router  Interface	84.11.41^H	SerialO	255.255.255.192	No Description	Router: ORANUS
+					
+Router  Interface	84.11.93^H	GigabitEthernetO/O	255.255.255.0	$ETH-  U\N$$ETH-SW- LAUNCH$$INTF- INFO-GE 0/0$	Router: PRESS- Router
+Router  Interface	84.11.14^^	EthernetO/O	255.255.255.248	No Description	Router: Router
+Router  Interface	84.11.14^^	Seria 10/0	255.255.255.248	No Description	Router: Router
+Router  Interface	84.11.19.^H	Fast Ether netO	255.255.255.240	No Description	Router: Router
+					
+Router  Interface	84.11.29^H	EthernetO	255.255.255.192	No Description	Router: Router
+Router  Interface	84.11.29^B	SerialO	255.255.255.192	No Description	Router: Router
+Router  Interface	84.11.30	EthernetO/O	255.255.255.224	No Description	Router: Router
+					
+Router  Interface	84.11.32^H	EthernetO	255.255.255.0	No Description	Router: Router
+					
+Router  Interface	84.11.32.^H	SerialO	255.255.255.0	No Description	Router: Router
+					
+Rmitpr	84.11.36^H	Fast Ether netO	255.255.255.192	No Description	Router: Router
+
+20 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Interface					
+Router  Interface	84.11.3^^1	Seria 10	255.255.255.192	No Description	Router: Router
+Router  Interface	84.11.	F ast Ether netO/O	255.255.255.224	No Description	Router: Router
+Router  Interface	84.11.80^^	Fast Ether netO	255.255.255.192	No Description	Router: Router
+Router  Interface	84.11.88^B	Fast Ether neto	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.	F ast Ether netO/O	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.	F ast Ether netO/O	255.255.255.248	No Description	Router: Router
+Router  Interface	84.11.113^H	Fast Ether netO	255.255.255.240	No Description	Router: Router
+					
+Router  Interface	84.11.113^H	Fast Ether netO	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.113^1	Fast Ether netO	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.113^B	F ast Ether netO/O	255.255.255.240	No Description	Router: Router
+					
+Router  Interface	84.11.113.^	Fast Ether netO	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.137^1	F ast Ether netO/O	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.137^1	Seria 10/0	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.139	F ast Ether netO/O	255.255.255.240	No Description	Router: Router
+					
+Router  Interface	84.11.139^|	Seria 10/0	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.140^|	EthernetO/O	255.255.255.240	No Description	Router: Router
+Router  Interface	84.11.140.H	Seria 10/0	255.255.255.240	No Description	Router: Router
+					
+Router  Interface	84.11.249.^H	Fast Ether netO	255.255.255.240	No Description	Router: Router
+					
+
+21 of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Router  Interface	84.11.60|	■	FastEthernetO/O	255.255.255.240	No Description	Router: Router-243
+						
+Router  Interface	84.11.26j		FastEthernetO/O	255.255.255.224	No Description	Router: Router71
+Router  Interface	84.11.13E	■	FastEthernetO	255.255.255.224	No Description	Router:  SKYBAGHDAD012
+Router  Interface	84.11.13E	■	SerialO	255.255.255.224	No Description	Router:  SKYBAGHDAD012
+Router  Interface	84.11.13E	■	FastEthernetO	255.255.255.224	No Description	Router:  SKYBAGHDAD013
+Router  Interface	84.11.138^H		SerialO	255.255.255.224	No Description	Router:  SKYBAGHDAD013
+Router  Interface	84.11.138^|		Seriall	255.255.255.224	No Description	Router:  SKYBAGHDAD013
+Router  Interface	84.11.13E	■	FastEthernetO/O	255.255.255.240	No Description	Router:  SkvBaah03
+Router  Interface	84.11.32.		EthernetO	255.255.255.224	No Description	Router: UROM-1
+Router  Interface	84.11.32]		Vi rtual-Tem platel	255.255.255.224	No Description	Router: UROM-1
+Router  Interface	84.11.75j		FastEthernetO/O	255.255.255.224	No Description	Router: V161
+						
+Router  Interface	84.11.60.1		GigabitEthernetO/O	255.255.255.252	RECEIVE  DISH	Router: f actor v3845
+Router  Interface	84.11.60j		SerialO/O/O	255.255.255.252	SENDDISH	Router: f actor v3845
+Router  Interface	84.11.60.1		LoopbackO	255.255.255.252	No Description	Router: f actor v3845
+Router  Interface	84.11.4^^l		FastEthernetO/O.6	255.255.255.0	TKC. TRANS Segment	Router:  □ ate.tkckish.com
+						
+Router  Interface	84.11.141		FastEthernetO/O	255.255.255.224	No Description	Router: ¡Connect
+Router  Interface	84.11.141		Seria 10/0	255.255.255.224	No Description	Router: ¡Connect
+Router  Interface	84.11.141^H		EthernetO	255.255.255.240	No Description	Router: iraql
+Pm itpr	84.11.141		SerialO	255.255.255.240	No Description	Router: iraql
+
+22 of 26
+
+This information is exempt f mm disclosure under the Fieedom of Inform^ior^^^^O^^i^Tia^^uhiecn^xemDtiorMjnder
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Interface					
+Router  Interface	84.11.39^H	FastEthernetO/O	255.255.255.248	No Description	Router: net
+					
+Router  Interface	84.11.39^H	Séria 11/0	255.255.255.248	No Description	Router: net
+					
+Router  Interface	84.11.39^H	Virtual-Templatel	255.255.255.248	No Description	Router: net
+					
+Router  Interface	84.11.39^*	Loopbackl	255.255.255.252	No Description	Router: net
+					
+Router  Interface	84.11.41^H	EthernetO	255.255.255.192	No Description	Router: router
+Router  Interface	84.11.41^^	Séria 10	255.255.255.192	No Description	Router: router
+Router  Interface	84.11.30^H	FastEthernetO/O	255.255.255.248	No Description	Router: saeed
+					
+Router  Interface	84.11.113^|	FastEthernetO/O	255.255.255.240	No Description	Router: skyb28
+					
+Router  Interface	84.11.113^|	Serial0/0/0	255.255.255.240	No Description	Router: skyb28
+					
+Router  Interface	84.11.141^H	EthernetO/O	255.255.255.240	No Description	Router:  skybaqhdadl6
+Router  Interface	84.11.141^H	Séria 10/0	255.255.255.240	No Description	Router:  skybaqhdadl6
+Router  Interface	212.6.47^^	FastEthernetO/1	255.255.255.248	No Description	Router: 3662
+Router  Interface	212.6.47^|	Seriall/0	255.255.255.248	No Description	Router: 3662
+Router  Interface	212.6.46^|	Ether netO/O	255.255.255.0	Connected to Mirdamad	Router: Mir Int
+Router  Interface	212.6.46	Serial 0/0	255.255.255.0	Connected to Satellite	Router: Mir Int
+
+23	of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Edge Routers:
+
+See lABG.jmz for more details.
+
+& o
+
+Gateway Routers:
+
+134222.112^B
+
+24	of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Employees:
+
+l@TELEPQRT-IABG.DE
+NQC@IABG.DE - noc@teleDort-iaba.de
+HABG.DE
+IABG.DE
+
+@IABG.DE
+
+@IABG.DE
+
+@iabq.de
+
+TELEPORT-SERVICES@IABG.DE
+
+I@IABG.DE
+
+B@iabg.de
+
+iiabq.de
+
+iabq.de
+
+l@iabq.de
+
+@iabq.de
+
+25	of 26
+
+This information is exempt f mm disclosure under the Fieedom of lnformation^t2fiC0andmaybesubjecttoexemptionundcr
+other UK information legislation. Refer disclosure requests toGCHQ
+
+TOP SECRET STRAP1
+
+TOP SECRET STR A PI
+
+Customers/Partners :
+
+IABG - Teleport Facilities
+
+6.1 n rscelY&
+ScJenfflli Atlanra
+Ku - Band
+willi H acting
+
+3.7 m transmit
+
+Ardrs*$js
+
+e>..fcl IL -iL
+
+Ku - Band
+
+2.4 it
+Hrodslr
+C - Band
+
+DUISBURG Sik
+
+■* 29m
+' ': A san
+F-rfi-rence-
+¿jrenra
+
+
+
+□ in eratiiïn
+I l avaiable
+
+2 x 2A rn Piaccllir
+K n - Hand
+4,5mVarl«£
+L'-bdznd
+.6 it) Andfewa,
+K.u-tand
+
+OTTOBRUHN Site
+
+En<|lh.-nq
+
+-	KPN Etrarlnat
+Vers aid
+
+-	MMfil
+
+Company	Satellite
+ABS	1
+Hell as sat	2
+Intelsat	905
+	12
+Arab sat	B a dr-4
+Elite Is at	W6
+Gazprom	Yamal 202
+Turk sat	1C
+Tel star	12
+
+*	T-Sy stem s/ Tel eco m
+
+*	KPN
+
+*	M-Net
+
+*	Versatel
+
+26	of 26
+
+This information is exempt f mm disclosure under the Fieedom of Inform^ior^^j^iJÇi^jmTiaWï^uhieçnt^xemDtiorMjnder
+other UK information legislation. Refer disclosure requests to GCHQ
+
+TOP SECRET STRAP1

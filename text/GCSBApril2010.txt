@@ -1,87 +1,76 @@
-COMSAT Advisory Board (CAB)
+﻿COMSAT Advisory Board (CAB)
 
 GCSB Update
 
 22 April 2010
 
-I The Overall Classification of this briefing is:
-COMINT REL TO USA, FVEY
+The Overall Classification of this briefing is:
+S E C R E T COMINT REL TO USA, FVEY
 
- 
+o Economic Climate
 
- 0 Economic Climate
+o Court Decision
 
-    
-  
+o SV and SSA
 
-0 Court Decision
+o IS Virtualisation Visit
 
-0 SV and SSA
+o IRONSAND Way-ahead
 
-0 IS Virtualisation Visit
+o GNF Meeting
 
-0 I RONSAND Way-ahead
+o Budget challenges
 
-GNF Meeting
+o Fallout
 
-    
+Radome Incident - 30 Apr 08
 
-- .1. [1.3.6 
-h1- . I - 53.1
-it? . 42?:a
-251_.iI 
+o Ploughshares activists
 
--
-il" 
-rib!"
-?11% tum-1| "1
+o Jury verdict
 
-0 Budget challenges
+o Consequences
 
-0 Fallout
+/j
 
- 
+)A
 
-., -
-.511", 
 
-IRONSAND Today
 
- 
+1
 
-Ploughshares activists
 
-    
 
-0 Jury verdict
 
-0 Consequences
 
-SV and SSA
 
-   
 
- 
 
-SV
 
- VA causes some tasking issues - version
+VA - causes some tasking issues - version
 SB
 
-0 Impressed with v4b GUI and capabilities
+Impressed with v4b GUI and capabilities
 
-0 One issue relating to tasking multiple C7
-carriers LMAL investigating
+One issue relating to tasking multiple C7
+carriers - LMAL investigating
 
-SF central repository for new QRC scripts?
-Lopers awaiting l-Gate specific update
+SF - central repository for new QRC scripts?
 
-0 Since IRONSAND Mission Transition
+Lopers - awaiting I-Gate specific update
 
-Virtualiation has delivered significant improvement
+o
+
+o
+
+o Since IRONSAND Mission Transition
+
+• Virtualiation has delivered significant improvement
 in the operational availability of the SV sub-systems
 
 STATISTICS
+
+for February 2010
 
 Availability
 
@@ -91,261 +80,133 @@ performance.
 
 Part of this effort is to
 determine system
-avaHabH?y
+availability
 
 Based upon
 available minutes
 per month verses
 outage minutes
 
- 
-
-System Item
-
-Available
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-CALIX 100.0
-
-COMMONGROUND 100.0
-
-Comms/ Forwarding 100.0
-
-Dem odulators - COTS 100.0
-
-Down Converters - COTS 100.0
-
-DUALTI RE 100.0
-
-FLUTE 100.0
-
-FRESNELEFFECT 100.0
-
-JACKHAMMER 100.0
-
-JUGGERNAUT 100.0
-
-Kl LOMISER 100.0
-
-KRAUSS 100.0
-
-LATENTHEAT 100.0
-
-LEGALREPTI LE 100.0
-
-LOPERS D1 100.0
-
-LOPERS M1 100.0
-
-MOONSCAPE 100.0
-
-SEMITONE 100.0
-
-SSA 100.0 
-STONEGATE 100.0 
-SURFBOARD 100.0 .
-VENUSAFFECT 100.0  
-VINEYARD 100.0  
-VINTAGE 100.0 
-99 .9 Feb
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- System/ Item Available
-CALIX 100.0
-COMMONGROUND 100.0
-Comms/ Forwarding 100.0
-Demodulators - COTS 100.0
-. . - Down Converters- COTS 100.0
-g?   
-I FLUTE 100.0
-Statistics are used to 
-- JACKHAMMER 100.0
+System / Item	% Available
+CALIX	100.0
+COMMONGROUND	100.0
+	100.0
+Con il ns/ Forwarding	
+Demodulators - COTS	100.0
+Down Converters - COTS	100.0
+DUALTIRE	100.0
+FLUTE	100.0
+FRESNELEFFECT	100.0
+JACKHAMMER	100.0
+JUGGERNAUT	100.0
+	100.0
+KILOMISER	
+KRAUSS	100.0
+LATENTHEAT	100.0
+LEGALREPTILE	100.0
+LOPERS D1	100.0
+LOPERS Ml	100.0
+MOONSCAPE	100.0
+SEMITONE	100.0
+SSA	100.0
+STONEGATE	100.0
+SURFBOARD	100.0
+VENUSAFFECT	100.0
+VINEYARD	100.0
+VINTAGE	100.0
+WEALTHYCLUSTER	99.9
+
+System
+downtime
+51mins
+over the
+month
+f Feb
+
+STATISTICS
+
+for March 2010
+
+Availability
+
+Statistics are used to
 gauge operational
-JUGGERNAUT 100.0
-performance' KILOMISER 100.0
-Part of this effort is to muss ioo.o
- LATENTHEAT 100.0 
-LEGALREPTI LE 100 
-availability 265mins
-LOPERS D1 99.9 over the
-LOPERS M1 100.0 month
-  MOONSCAPE 100.0 of March
-available minutes   
-per  verses STONEGATE 100.0 outage
-outage minutes SURFBOARD 99.4 du; to SSA
-VENUSAFFECT 100.0 fault
-VINEYARD 100.0
-VINTAGE 100.0
-99.8 
+performance.
 
- 
+Part of this effort is to
+determine system
+availability
 
- 
+Based upon
+available minutes
+per month verses
+outage minutes
 
- 
+System / Item	% Available
+CALIX	100.0
+COMMONGROUND	100.0
+	100.0
+Con il ns/ Forwarding	
+Demodulators - COTS	100.0
+Down Converters - COTS	100.0
+DUALTIRE	100.0
+FLUTE	100.0
+FRESNELEFFECT	100.0
+JACKHAMMER	100.0
+JUGGERNAUT	100.0
+	100.0
+KILOMISER	
+KRAUSS	100.0
+LATENTHEAT	100.0
+LEGALREPTILE	100.0
+LOPERS D1	99.9 *
+LOPERS Ml	100.0
+MOONSCAPE	100.0
+SEMITONE	100.0
+SSA	99.4
+STONEGATE	100.0
+SURFBOARD	99.4 *
+VENUSAFFECT	100.0
+VINEYARD	100.0
+VINTAGE	100.0
+WEALTHYCLUSTER	99.8 *
 
- 
+System
+downtime
+265mins
+over the
+month
+of March
+
+* = outage
+due to SSA
+fault
 
 IS Virtualisation Visit
 
-0 FORNSAT
+o FORNSAT
 
-Approved and funded IS Virtualisation
+• Approved and funded IS virtualisation
 experts visit to NSA and LM, 22-26
 Feb 10
 
-    
+o VQUEST Initiative
 
-VQUEST Initiative
-The way forward for SHAREDQUEST
+• The way forward for SHAREDQUEST
 
-. . . -1
+o TORUS now enabling an increase of
+COMSAT/FORNSAT collection
 
-   
- 
-     
+MHS Technical Exchange
 
-IRONSAND Way-ahead
-
-TORUS now enabling an increase of
-FORNSAT collection
-
-0 MHS Technical Exchange
-to visit is, 26-30 April
-
+•	to visit IS, 26-30 April
 2010
-T0 brief IS on the MHS ?Collect It All? initiative
 
-To investigate IS Virtualisation and Data Centre
+•	To brief IS on the MHS 'Collect It All' initiative
+
+•	To investigate IS virtualisation and Data Centre
 concept
 
-0 Procurement of FH2 initiated
+Procurement of FH2 initiated
 
-   
-
-0 Next meeting 18-20 May 2010
-
-0 To be hosted at IRONSAND
-
- 
-
+QUESTIONS?

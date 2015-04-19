@@ -1,1603 +1,287 @@
-TOP 
+﻿TOP SECRET//SI//NOFORN
 
 NATIONAL SECURITY AGENCY
 CENTRAL SECURITY SERVICE
 
-CLASSIFICATION GUIDE FOR
-FOREIGN INTELLIGENCE SURVEILLANCE ACT 
-AMERICA ACT ISA AMENDMENTS ACT (FAA) ACTIVITIES
-(2?48)
+(U//FOUO) CLASSIFICATION GUIDE FOR
+FOREIGN INTELLIGENCE SURVEILLANCE ACT (FISA)/PROTECT
+AMERICA ACT (PAA)/FISA AMENDMENTS ACT (FAA) ACTIVITIES
+
+(2-48)
 
 Effective Date: 4 August 2009
 Revised Date(s): 8 February 2012
 
-Classi?ed by: William M. Crumm
+Classified by: William M. Crumm
 SIGINT Director
 
-Reason(s) for Classi?cation:
+Reason(s) for Classification:
 E.O. 12958 1.4(c)
 
 Declassify on: 25 years*
 
 Endorsed by: Joseph J. Brand
-
 Associate Director for
-Community Integration, Policy 
+
+Community Integration, Policy &
 Records
 
-TOP 
+TOP S EC R ET//SI//NOFORN
 
-TOP 
-
- 
-
- 
-
- 
+TOP SECRET//SI//NOFORN
 
 (U) Change Register
-Date Made By
-Change No' Change mm/dd/yy (initials)
-1. (U) Added change register. 02/07/12 
-2. Included the two 802 OCA decisions in the 25 02/07/ 12 
 
-October 2010, ?Classi?cation Decision Regarding NSA
-Activities Conducted under the Foreign Intelligence
-Surveillance Act Amendments Act? SPF as items 2.10. and
-2.11. Renumbered the rest of section 2 appropriately.
+Change No.	Change	Date Made  mm/dd/yy	By  (initials)
+1.	(U) Added change register.	02/07/12	nnh
+2.	(U//FOUO) Included the two S02 OCA decisions in the 25 October 2010, “Classification Decision Regarding NS A Activities Conducted under the Foreign Intelligence Surveillance Act Amendments Act” SPF as items 2.10. and 2.11. Renumbered the rest of section 2 appropriately.	02/07/12	nnh
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 
- 
+FO P S EC R ET//SI//N O PO R N
 
- 
+TOP SECRET//SI//NOFORN
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP EC E17 18 l//N PO RN
-
- 
-
-TOP 
-
-(U) CLASSIFICATION GUIDE NUMBER: 2-48
+(U) NSA/CSS CLASSIFICATION GUIDE NUMBER: 2-48
 (U) PUBLICATION DATE:
 
-PROJECT ACTIVITY NAME: Foreign Intelligence Surveillance Act/Protect
-America Amendments Act Activities
+(U//FOUO) PROJECT ACTIVITY NAME: Foreign Intelligence Surveillance Act/Protect
+America Act/FISA Amendments Act (FISA/PAA/FAA) Activities
 
-(U) OFFICE OF ORIGIN: SID Oversight Compliance, SV
-POC: Stephanie Schneider, Chief Oversight Compliance
+(U) OFFICE OF ORIGIN: SID Oversight & Compliance, SV
+
+(U//FOUO) POC: Stephanie Schneider, Chief Oversight & Compliance
+
 (U) PHONE: 966-2479(s)
 
-CLASSIFIED BY: S, SIGINT Director, William M. Crumm
+(U//FOUO) CLASSIFIED BY: S, SIGINT Director, William M. Crumm
+
 (U) DECLASSIFICATION DATE: 25 Years*
 
-This guide provides classi?cation guidance for AA. FISA
+(U//FOUO) This guide provides classification guidance for FISA/PAA/FAA. FISA
 governs the conduct of certain electronic surveillance activities within the United States and
-against US. persons, regardless of location, and requires surveillances be authorized by the
+against U.S. persons, regardless of location, and requires surveillances be authorized by the
 United States Foreign Intelligence Surveillance Court (USFISC), or in certain limited
 circumstances, by the Attorney General. PAA was an interim version of the FISA modernization
-legislation and allowed the DN1 and the Attorney General to jointly authorize the acquisition of
+legislation and allowed the DNI and the Attorney General to jointly authorize the acquisition of
 foreign intelligence information concerning persons reasonably believed to be outside the United
 States. FAA is the permanent FISA modernization legislation and is authorized by the USFISC.
 
-FISA includes all NSA FISA (to include Business Records, Large Content 
+(TS//NF) FISA includes all NSA FISA (to include Business Records, Large Content &
 FAA) and FBI FISA (to include Pen Register Trap Trace).
 
-The phrases, ?seeks or obtains FISA authority? and ?seeks or obtains PAA
-authority? used throughout this document include the fact that NSA collects/ processes/ analyzes/
+(U//FOUO) The phrases, “seeks or obtains FISA authority” and “seeks or obtains PAA
+authority” used throughout this document include the fact that NSA collects/ processes/ analyzes/
 retains/ produces and then disseminates foreign intelligence information and data.
 
-Unless otherwise speci?ed, classi?cation guidance which concern NSA
+(U//FOUO) Unless otherwise specified, classification guidance which concern NSA
 FISA activities apply to all forms of NSA FISA, including FAA.
 
-Consult with the Of?ce of General Counsel or the SID Of?ce of Oversight
+(U//FOUO) Consult with the Office of General Counsel or the SID Office of Oversight
 and Compliance for guidance on when FISA or other special authorities are needed to conduct
-
 SIGINT activities.
 
-Note: Timetable for ISA, 1978 present; PAA and
-Continuation, August 2007 July 2008; FAA, July 2008 present.
+(U//FOUO) Note: Timetable for FISA/PAA/FAA: FISA, 1978-present; PAA and
+Continuation, August 2007 - July 2008; FAA, July 2008 - present.
 
-TOP EC lf/N PORN
+TOP S ECRE l ' S1//NOFORN
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-U) Activities:
+(U) FISA/PAA/FAA Activities:
 
- 
+Description of Information	Classification/  Markings	Reason	Declassification  Date	Remarks
+1. GENERAL FACTS				
+1.1. (U) The fact that NS A conducts activities under Foreign Intelligence Surveillance Act (FISA) or Protect America Act (PAA).	UNCLASSIFIED	N/A	N/A	
+1.2. (U) The fact thatNSA targets/ collects/ processes the communications of unspecified foreign governments/ organizations/ terrorist groups/ individuals under FISA/PAA.	UNCLASSIFIED	N/A	N/A	(U) Section 2  provides  classification  guidance when  communications  entities are  specified.
+1.3. (U) The fact that unspecified selectors are targeted and collected under FISA/PAA.	UNCLASSIFIED	N/A	N/A	(U) See Section 2.18 for classification guidance when selectors are specified.
+1.4. (U) The fact that the PAA allows electronic surveillance of communications of persons reasonably believed to be foreign and outside the U.S.	UNCLASSIFIED	N/A	N/A	
+1.5. (U) The fact that NS A ' acquires foreign intelligence information from or with the assistance of an unspecified communications provider to collect PAA-authorized data.	UNCLASSIFIED	N/A	N/A	(U) Identifying a specific  communications provider would make this fact classified.
+1.6. (S//REL TO USA, FVEY) The fact that PAA- authorized activities were or may be conducted at an unspecified  communications facility in the U.S.	SECRET//  REL TO USA, FVEY	1.4(c)*	25 Years*	
+1.7. (S//REL TO USA, FVEY) The fact that the Foreign Intelligence Surveillance Court (FISC) approved, on 22 July 2002, a motion to allow NS A to	SECRET//  REL TO USA, FVEY	1.4(c)*	25 Years*	(S//REL TO USA, FVEY) The CIA also receives this raw data. (U//FOUO) Classified based on
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+receive raw data from Court-authorized electronic surveillance and physical search acquired by the FBI of international terrorist groups, their agents, and related targets.				Docket number 02- 431,22 July 2002.
+1.8. (S//REL TO USA, FVEY) The fact that FBI obtains FISA counterterrorism court orders on behalf of NSA.	SECRET//  REL TO USA, FVEY	1.4(c)*	25 Years*	(TS//SI//NF) For FBI Pen Register Trap Trace (PR/TT), classification is TOP SECRET//SI// NOFORN.
+1.9. (S//REL TO USA, FVEY) The fact that FBI enables FISA-authorized surveillances, without identification of targets, on behalf of NSA.	SECRET//  REL TO USA, FVEY	1.4(c)*	25 Years*	(S//REL TO USA, FVEY) This will apply to either NSA- or FBI-secured court orders.
+1.10. (S//SI//REL TO USA, FVEY) The fact that NSA acquired or acquires signaling, dialing, routing and addressing information of electronic  communications targeted under PAA from communications service providers.	SECRET//SI//  REL TO USA, FVEY	1.4(c)*	25 Years*	
+1.11. (U//FOUO) The association of any RAGTIME data labels, e.g., RAGTIME-C, etc., with NSA FISA or PAA activities.	UNCLASSIFIED//  FOUO	Ex. 3*	N/A	(U//FOUO) These data labels will be applied to FISA raw traffic to ensure that only those who are properly trained to handle, retain, and disseminate FISA or PAA-authorized collection may do so.
+1.12. (C//REL TO USA, FVEY) The fact that NSA FISA surveillances are subject to an Interagency Review Panel (IRP) policy approval process, with or without mention of the specific participants in that process or their roles.	CONFIDENTIAL// REL TO USA, FVEY	1.4(c)*	25 Years*	
+2. (U) TARGETING/COLLECTION/PROCESSING				
+2.1. (U) The fact that NSA seeks or obtains FISA	SECRET//SI//  REL TO USA, FVEY	1.4(c)*	25 Years*	
 
- 
+FOP SECRET//SI//NOFORN
 
- 
+TOP SECRET//S1//NOFORN
 
- 
+authority against a specified country, with identification of specific foreign target facilities or their locations outside of the U.S.	at a minimum			
+2.2. (U) The fact that NS A seeks or obtains FISA authority against a specified country, with identification of specific foreign target facilities or their locations inside the U.S.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	
+2.3. (U) The fact thatNSA seeks or obtains FISA authority against a specified country, without identification of specific foreign target facilities or their locations.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U//FOUO) When the foreign target entity or location is not specified, the default is that the activity could be taking place in the U.S., and therefore such information is classified at the TOP SECRET//SI// NOFORN level in accordance with 2.2 above.
+2.4. (TS//SI//NF) The fact that NS A seeks or obtains FISA authority against an international organization inside the U.S., with or without identification of specific communications entities.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(TS//SI//NF) The classification level is TOP SECRET//SI// NOFORN regardless of whether the international organization is specified for which NSA is seeking or obtaining FISA authority.
+2.5. (TS//SI//NF) The fact that NS A seeks or obtains FISA authority against an international organization that includes 2nd Party governments, with or without identification of specific foreign target entities or locations.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	
+2.6. (TS//SI//REL TO USA, FVEY) The fact that NSA seeks or obtains FISA authority, if necessary,	TOP SECRET//SI// REL TO USA, FVEY	1.4(c)*	25 Years*	(TS//SI//REL TO USA, FVEY) The classification level is TOP SECRET//SI//
 
- 
+I OP SECRL I SI//NOPORN
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+against an international organization outside of the U.S. that does not include 2nd Party governments, with or without identification of specific foreign target entities.				REL TO USA, FVEY regardless of whether the international organization is specified for which NSA is seeking or obtaining FISA authority.
+2.7. (TS//SI//NF) The fact that NSA seeks or obtains FISA authority against financial or commercial organizations, with or without identification of specific target entities or locations.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(TS//SI//NF) The classification level is TOP SECRET//SI// NOFORN regardless of whether the financial or commercial organization is specified for which NSA is seeking or obtaining FISA authority.
+2.8. (TS//SI//NF) The fact that NSA seeks or obtains FISA authority against an agent of a foreign power in the U.S., with or without specific foreign target entity locations.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	
+2.9. (U//FOUO) The fact that NSA seeks or obtains FISA authority against specified U.S. persons.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U//FOUO) Refer to the FAA web site located at  http:// siteworks .nsa/ ?p id=9969 for additional information concerning FAA authority.
+				(U) When the U.S. person is not specified, this fact is UNCLASSIFIED// FOR OFFICIAL USE ONLY.
+2.10. (U) The fact that NSA conducts activities and/or targets and collects under FAA against an unspecified person.	UNCLASSIFIED	N/A	N/A	(U//FOUO) S02 OCA decision, 25 October 2010, “Classification Decision Regarding NSA Activities Conducted under the Foreign Intelligence Surveillance Act
 
-a motion to allow NSA to
+TOP SECRET//S1//NOFORN
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+				Amendments Act”
+2.11. (U) The fact that, pursuant to sections 702, 704 and/or 705 of the FAA, NS A conducts electronic surveillance activities and/or targets and collects against an unspecified person.	UNCLASSIFIED	N/A	N/A	(U//FOUO) S02 OCA decision, 25 October 2010, “Classification Decision Regarding NSA Activities Conducted under the Foreign Intelligence Surveillance Act Amendments Act”
+2.12. (U) The fact that NSA seeks or obtains FISA authority or sought PAA authority against unspecified terrorists or terrorist groups.	UNCLASSIFIED	N/A	N/A	(U) See Sections 2.11,2.12, and 2.15 for classification guidance when terrorists or terrorist groups are specified.
+2.13. (U) The fact that NSA seeks or obtains FISA authority or sought PAA authority against specified terrorists or terrorist groups, outside the U.S.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(TS//SI//NF) For FBI Pen Register Trap Trace (PR/TT), classification is TOP SECRET//SI// NOFORN.
+2.14. (U) The fact that NSA seeks or obtains FISA authority against specified terrorists or terrorist groups, inside the U.S.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	
+2.15. (TS//SI//NF) The fact that NSA seeks or obtains FISA authority against communications from foreign governmental and diplomatic facilities in the U.S.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(TS//SI//NF) The classification level is TOP SECRET//SI// NOFORN regardless of whether the foreign  governmental or diplomatic facility in the U.S. is specified for which NSA is seeking or obtaining FISA authority.
+2.16. (S//SI//REL TO USA, FVEY) The fact that NSA seeks or obtains FISA authority against communications from foreign governmental or diplomatic facilities outside the U.S.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(S//SI//REL TO USA, FVEY) The classification level is SECRET//SI//  REL TO USA, FVEY regardless of whether the foreign government or diplomatic facility outside the U.S. is specified for which NSA is seeking or obtaining FISA
 
- 
+I OP SECRET//SI//NOFORN
 
- 
+TOP SEC RET//S I//NOFORN
 
-Description of Classi?cation/ Reason Declassification Remarks
-Information Markings Date
-1. GENERAL FACTS
-1.1. (U) The fact that NSA UNCLASSIFIED 
-conducts activities under
-Foreign Intelligence
-Surveillance Act (FISA) or
-Protect America Act
-(PAA).
-1.2. (U) The fact that NSA UNCLASSIFIED (U) Section 2
-targets/ collects/ processes provides
-the communications of classi?cation
-unspeci?ed foreign guidance when
-governments/ communications
-organizations/ terrorist entities are
-groups/ individuals under speci?ed.
+				authority.
+2.17. (U) The fact that NS A seeks or obtains PAA authority against the communications of a specified foreign government, terrorist group, organization, or individual.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(U) Sensitivity of the target entity may also result in the application of NOFORN.
+2.18. (TS//SI//NF) The fact that NSA seeks FISA authority to obtain business records (BR) for terrorist groups.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(TS//SI//NF) The classification level is TOP SECRET//SI// NOFORN regardless of whether the terrorist group is specified for which NSA is seeking or obtaining FISA BR authority.
+2.19. (TS//SI//NF) The fact that NSA receives or requests from FBI Pen Register Trap Trace (PR/TT) FISA warrants in order to get data about terrorist groups.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(TS//SI//NF) The classification level is TOP SECRET//SI// NOFORN regardless of whether the terrorist group is specified for which NSA is seeking or obtaining FISA PR/TT authority.
+2.20. (S//SI//REL TO USA, FVEY) The identification of specific selectors (e.g., specific phone numbers; specific e-mail addresses) targeted in FISA warrants or PAA certifications.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(U) Classify at the same level as the classification assigned to the target (e.g., selectors for a target classified as TS//SI//NF per section 2.2, would also be classified TS//SI//NF).
+2.21. (U) The identification of, or relationships with, providers.	TOP SECRET//SI// NOFORN  at a minimum	1.4(c)*	25 Years*	(U) Refer to appropriate ECI classification guides for additional instructions.
+2.22. (U) The identification of specific communications methods/ technologies targeted/ collected/ processed under FISA or PAA.	SECRET//  REL TO USA, FVEY at a minimum	1.4(c)*	25 Years*	(U) Handle at the same classification level as required for the specific communications methods or technologies targeted/collected/ processed. Certain
 
-1.3. (U) The fact that UNCLASSIFIED (U) See Section 2.18
-unspeci?ed selectors are for classi?cation
-targeted and collected guidance when
-under selectors are
-speci?ed.
-1.4. (U) The fact that the UNCLASSIFIED 
-PAA allows electronic
-surveillance of
-communications of persons
-reasonably believed to be
-foreign and outside the
-US.
-1.5. (U) The fact that NSA UNCLASSIFIED (U) Identifying a
-acquires foreign speci?c
+FOP S EC R ET//SI//N O FO RN
 
-intelligence information communications
-from or with the assistance provider would
-of an unspeci?ed make this fact
-communications provider classi?ed.
-to collect PAA-authorized
-data.
-1.6. TO USA, 25 Years*
-FVEY) The fact that PAA- REL TO USA, FVEY
-authorized activities were
-or may be conducted at an
-unspeci?ed
-communications facility in
-the US.
-1.7. TO USA, 25 Years* TO USA,
-FVEY) The fact that the REL TO USA, FVEY FVEY) The CIA
-Foreign Intelligence also receives this
-Surveillance Court (FISC) raw data.
-approved, on 22 July 2002, 
+TOP SECRET//SI//NOFORN
 
-Classi?ed based on
+				facts about technologies collected under FISA or PAA may be determined to be UNCLASSIFIED, while other facts may be higher than SECRET//  REL TO USA, FVEY.
+				(U//FOUO) If the FISA or PAA target entity is specified, refer to the classification guidance throughout Section 2.
+2.23. (S//SI//REL TO USA, FVEY) Statistics or statistical trends relating to NS A FISA targets, including numbers of court orders, IRP policy approvals, targets, facilities, or selectors, or combinations or subcategories thereof, without mention of techniques involved.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	
+2.24. (S//REL TO USA, FVEY) Statistics or statistical trends relating to FBI FISA targets, including numbers of court orders, targets, facilities, or selectors, or combinations or subcategories thereof, without mention of techniques involved.	SECRET//  REL TO USA, FVEY	1.4(c)*	25 Years*	(TS//SI//NF) For FBI Pen Register Trap Trace (PR/TT), the classification is TOP SECRET//SI// NOFORN.
+2.25. (S//REL TO USA, FVEY) Statistics or statistical trends relating to PAA targets, including number of certifications, targets, facilities, selectors, or combinations of subcategories thereof, without mention of techniques involved.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	
 
- 
+TOP S EC R H I S I//N O FO RN
 
-TOP EC l//N FO RN
+TOP SECRET//SI//NOFORN
 
- 
+3. (U) DATA HANDLI	NG			
+3.1. (TS//SI//NF) Unminimized unevaluated NSA FISA data (e.g., BR, large content, FA A) encrypted or unencrypted.	TOP SECRET//SI// NOFORN  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAG TIM E-series markings.  (U//FOUO) Traffic remains subject to FISA minimization procedures described in USSID SP0018, Annex A, plus supplemental minimization procedures as required.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.2. (U//FOUO) Unminimized unevaluated PAA data, encrypted or unencrypted.	TOP SECRET//SI// NOFORN  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAGTIM E-series markings.  (U//FOUO) Traffic remains subject to minimization procedures described in USSID SP0018, Annex A, and those prescribed under the respective PAA certifications.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case
 
-TOP 
+TOP S EC RET//SI//N O FO RN
 
- 
+TOP S EGRET//SI//N OFORN
 
-receive raw data from Docket number 02-
-Court-authorized electronic 431, 22 July 2002.
-surveillance and physical
-search acquired by the FBI
-of international terrorist
-groups, their agents, and
-related targets.
+				basis.
+3.3. (U//FOUO) Unminimized unevaluated FBI FISA data, encrypted or unencrypted.	SECRET//SI//  NOFORN  at a minimum  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAGTIME-series markings.  (U//FOUO) Traffic remains subject to FISA minimization procedures, described in USSID SP0018, Annex A, plus supplemental minimization procedures as required.  (U//FOUO) Target offices will also add the additional caveat statement required for FISC reporting.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.4 (TS//SI//NF) Unminimized unevaluated FBI PR/TT FISA data, encrypted or unencrypted.	TOP SECRET//SI// NOFORN  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAG TIM E-series markings.  (U//FOUO) Traffic remains subject to FISA minimization procedures, described in USSID SP0018, Annex A, plus supplemental minimization procedures as required.  (U//FOUO) Data
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+				may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.5. (TS//SI//NF) Unminimized evaluated NSA FISA data (e.g., BR, large content, FAA) such as a verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	TOP SECRET//SI// NOFORN  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAGTIME-series markings.  (U//FOUO) Traffic remains subject to FISA minimization procedures, described in US SID SP0018, Annex A, plus supplemental minimization procedures as required.  (U) Methods are governed by the classification guides applicable to the specific methods involved.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.6. (S//SI//REL TO USA, FVEY) Unminimized evaluated PAA data, such as a verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	SECRET//SI//  NOFORN  at a minimum  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAGTIME-series markings.  (U//FOUO) Traffic remains subject to minimization procedures
 
-1.8. TO USA, 25 Years* For
-FVEY) The fact that FBI REL TO USA, FVEY FBI Pen Register
-obtains FISA Trap Trace 
-counterterrorism court classi?cation is
-orders on behalf of NSA. TOP 
-NOFORN.
+TOP S ECRET//SI//NOFORN
 
-1.9. TO USA, 25 Years* TO USA,
-FVEY) The fact that FBI REL TO USA, FVEY FVEY) This will
-enables FISA-authorized apply to either NSA-
-surveillances, without or FBI-secured court
-identi?cation of targets, on orders.
+TOP SECRET//SI//NOFORN
 
-behalf of NSA.
-1.10. TO USA, 25 Years*
+				described in USSID SP0018, Annex A, plus supplemental minimization procedures as required, and those prescribed under the respective PAA certifications.  (U) Methods are governed by the classification guides applicable to the specific methods involved.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.7. (S//REL TO USA, FVEY) Unminimized evaluated FBI FISA data, such as a verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	SECRET//SI//  NOFORN  at a minimum  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Within NSA/CSS, the data must be labeled with appropriate RAGTIME-series markings.  (U//FOUO) Traffic remains subject to FISA minimization procedures, described in USSID SP0018, Annex A, plus supplemental minimization procedures as required.  (U//FOUO) Target offices will also add the additional caveat statement required for FISC reporting.  (U) Methods are governed by the classification guides
 
-FVEY) The fact that NSA REL TO USA, VEY
-acquired or acquires
-signaling, dialing, routing
-and addressing information
+TO P S EC R ET//SI//N O FO R N
 
- 
+TOP SECRET//SI//NOFORN
 
- 
+				applicable to the specific methods involved.  (U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.8. (TS//SI//NF) Unminimized evaluated FBI PR/TT data that does not disclose specific methods or techniques.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U//FOUO) Data may only be released to foreign partners when specifically approved by an appropriate authority on a case-by-case basis.
+3.9. (U//FOUO)  Minimized evaluated NS A FISA data, such as verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	TOP SECRET//SI// REL TO USA, FVEY  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON, etc.) if the intelligence product itself warrants such protection.  (U) Methods are governed by the classification guides applicable to the specific methods involved.
+3.10. (TS//SI//NF) Minimized evaluated NS A BR and large content FISA data that does not disclose specific methods or techniques.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U) Methods are governed by the classification guides applicable to the specific methods involved.
+3.11. (U//FOUO) Minimized evaluated PAA data, such as a verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON, etc.) if the intelligence product itself warrants such protection.  (U) Methods are
 
-of electronic
+TOP SECRET//SI//NOFORN
 
-communications targeted
+TOP SECRET//SI//NOFORN
 
-under PAA from
+				governed by the classification guides applicable to the specific methods involved.
+3.12. (S//SI//REL TO USA, FVEY) Minimized evaluated FBI FISA data, such as a verbatim transcript or gisted traffic, that does not disclose specific methods or techniques.	SECRET//SI//  REL TO USA, FVEY/ FISA  at a minimum	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON, etc.) if the intelligence product itself warrants such protection.
+				(U//FOUO) Target offices will also add the additional caveat statement required for FISC reporting.
+				(U) Methods are governed by the classification guides applicable to the specific methods involved.
+3.13. (TS//SI//NF) Minimized evaluated FBI PR/TT FISA data that does not disclose specific methods or techniques.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U) Methods are governed by the classification guides applicable to the specific methods involved.
+4. (U) DISSEMINATION				
+4.1. (TS//SI//REL TO USA, FVEY) SIGINT product derived from encrypted or unencrypted NSA FISA collection.	TOP SECRET//SI// REL TO USA, FVEY  (U) See Remarks	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON, etc.) if the intelligence product itself warrants such protection.
+4.2. (TS//SI//NF) SIGINT product derived from encrypted or unencrypted NSA FISA-warranted BR or large content FISA collection.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., ORCON) if the intelligence product itself warrants such protection.
+4.3. (U//FOUO) SIGINT product derived from encrypted or unencrypted PAA-authorized collection.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON)
 
-communications service
+TOP S EC R El SI//N O FO RN
 
-providers.
+TOP SECRET//SI//NOFORN
 
-1.1 1. The Ex. 3 These
+				if the intelligence product itself warrants such protection.
+4.4. (S//SI//REL TO USA, FVEY) SIGINT product derived from encrypted or unencrypted FBI FISA- warranted collection when associated with NS A or SIGINT.	SECRET//SI//  REL TO USA, FVEY  at a minimum	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., NOFORN, ORCON) if the intelligence product itself warrants such protection.  (S//REL TO USA, FVEY) Target offices will also add the additional caveat statement required for FBI FISA reporting.
+4.5. (TS//SI//NF) SIGINT product derived from encrypted or unencrypted FBI PR/TT FISA- warranted collection.	TOP SECRET//SI// NOFORN	1.4(c)*	25 Years*	(U//FOUO) Target offices may add caveats (e.g., ORCON) if the intelligence product itself warrants such protection.
 
-association of any FOUO data labels will be
-
-RAGTIME data labels, applied to ISA raw
-
-RAGTIME-C, etc., traf?c to ensure that
-
-with NSA FISA or PAA only those who are
-
-activities. properly trained to
-handle, retain, and
-disseminate FISA or
-PAA-authorized
-collection may do
-so.
-
-1.12. TO USA, 25 Years*
-
-FVEY) The fact that NSA REL TO USA, FVEY
-FISA surveillances are
-subject to an Interagency
-Review Panel (IRP) policy
-approval process, with or
-without mention of the
-speci?c participants in that
-process or their roles.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-2. (U) 
-
- 
-
- 
-
-2.1. (U) The fact that NSA 25 Years*
-seeks or obtains FISA REL TO USA, FVEY
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP EC Hi l/ FO RN
-
- 
-
-TOP 
-
- 
-
-authority against a
-speci?ed country, with
-identi?cation of speci?c
-foreign target facilities or
-their locations outside of
-the US.
-
-at a minimum
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-2.2. (U) The fact that NSA TOP 25 Years*
-
-seeks or obtains FISA NOFORN
-
-authority against a
-
-speci?ed country, with
-
-identi?cation of speci?c
-
-foreign target facilities or
-
-their locations inside the
-
-US.
-
-2.3. (U) The fact that NSA TOP 25 Years* When
-
-seeks or obtains FISA NOFORN the foreign target
-
-authority against a entity or location is
-
-speci?ed country, without not speci?ed, the
-
-identi?cation of speci?c default is that the
-
-foreign target facilities or activity could be
-
-their locations. taking place in the
-US, and therefore
-such information is
-classi?ed at the
-TOP 
-NOFORN level in
-accordance with 2.2
-above.
-
-2.4. The fact TOP 25 Years* The
-
-that NSA seeks or obtains NOFORN classi?cation level is
-
-FISA authority against an TOP 
-
-international organization NOFORN regardless
-
-inside the US, with or of whether the
-
-without identi?cation of international
-
-speci?c communications organization is
-
-entities. speci?ed for which
-NSA is seeking or
-obtaining ISA
-authority.
-
-2.5. The fact TOP 25 Years*
-
-that NSA seeks or obtains NOFORN
-
-FISA authority against an
-
-international organization
-
-that includes 2nd Party
-
-governments, with or
-
-without identi?cation of
-
-speci?c foreign target
-
-entities or locations.
-
-2.6. TO TOP 25 Years* TO
-
-USA, FVEY) The fact that
-NSA seeks or obtains FISA
-authority, if necessary,
-
- 
-
-REL TO USA, FVEY
-
- 
-
- 
-
- 
-
-USA, FVEY) The
-classi?cation level TOP 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-against an international REL TO USA,
-
-organization outside of the VEY regardless of
-
-US. that does not include whether the
-
-2nd Party governments, international
-
-with or without organization is
-
-identi?cation of speci?c speci?ed for which
-
-foreign target entities. NSA is seeking or
-obtaining FISA
-authority.
-
-2.7. The fact TOP 25 Years* The
-
-that NSA seeks or obtains NOFORN classi?cation level is
-
-FISA authority against TOP 
-
-?nancial or commercial NOFORN regardless
-
-organizations, with or of whether the
-
-without identi?cation of ?nancial or
-
-speci?c target entities or commercial
-
-locations. organization is
-speci?ed for which
-NSA is seeking or
-obtaining FISA
-authority.
-
-2.8. The fact TOP 25 Years*
-
-that NSA seeks or obtains NOFORN
-
-FISA authority against an
-
-agent of a foreign power in
-
-the US, with or without
-
-speci?c foreign target
-
-entity locations.
-
-2.9. The fact TOP 25 Years* Refer to
-
-that NSA seeks or obtains NOFORN the FAA web site
-
-FISA authority against located at
-
-speci?ed U.S. persons. 
-?p id=9969 for
-additional
-information
-concerning FAA
-authority.
-(U) When the US.
-person is not
-speci?ed, this fact is
-
-FOR OFFICIAL
-USE ONLY.
-
-2.10. (U) The fact that UNCLASSIFIED $02
-
-NSA conducts activities OCA decision, 25
-
-and/or targets and collects October 2010,
-
-under FAA against an ?Classi?cation
-
-unspeci?ed person. Decision Regarding
-NSA Activities
-Conducted under the
-Foreign Intelligence
-Surveillance Act
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TO EC l/ 0 PO 
-
- 
-
-TOP 
-
- 
-
-Amendments Act?
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-2.11. (U) The fact that, UNCLASSIFIED $02
-pursuant to sections 702, OCA decision, 25
-704 and/or 705 of the FAA, October 2010,
-NSA conducts electronic ?Classi?cation
-surveillance activities Decision Regarding
-and/or targets and collects NSA Activities
-against an unspeci?ed Conducted under the
-person. Foreign Intelligence
-Surveillance Act
-Amendments Act?
-2.12. (U) The fact that UNCLASSIFIED (U) See Sections
-NSA seeks or obtains FISA 2.11, 2.12, and 2.15
-authority or sought PAA for classi?cation
-authority against guidance when
-unspeci?ed terrorists or terrorists or terrorist
-terroristjrou? are speci?ed.
-2.13. (U) The fact that 25 Years* For
-NSA seeks or obtains FISA REL TO USA, FVEY FBI Pen Register
-authority or sought PAA Trap Trace 
-authority against speci?ed at a minimum classi?cation is
-terrorists or terrorist TOP 
-groups, outside the US. NOFORN.
-2.14. (U) The fact that TOP 25 Years*
-NSA seeks or obtains ISA NOFORN
-authority against speci?ed
-terrorists or terrorist.
-groups, inside the US.
-2.15. The fact TOP 25 Years* The
-that NSA seeks or obtains NOFORN classi?cation level is
-FISA authority against TOP 
-communications from NOFORN regardless
-foreign governmental and of whether the
-diplomatic facilities in the foreign
-U.S. governmental or
-diplomatic facility in
-the US. is speci?ed
-for which NSA is
-seeking or obtaining
-FISA authority.
-2.16. TO USA, 25 Years* TO
-FVEY) The fact that NSA REL TO USA, FVEY USA, FVEY) The
-seeks or obtains FISA classi?cation level is
-authority against at a minimum 
-communications from REL TO USA,
-foreign governmental or FVEY regardless of
-
-diplomatic facilities outside
-the US.
-
- 
-
- 
-
- 
-
- 
-
-whether the foreign
-government or
-diplomatic facility
-outside the US. is
-speci?ed for which
-NSA is seeking or
-obtaining ISA
-
- 
-
-TOP FORN
-
- 
-
-TOP 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-authority.
-
-2.17. (U) The fact that 25 Years* (U) Sensitivity of
-
-NSA seeks or obtains PAA REL TO USA, FVEY the target entity may
-
-authority against the also result in the
-
-communications of a at a minimum application of
-
-speci?ed foreign NOFORN.
-
-government, terrorist
-
-group, organization, or
-
-individual.
-
-2.18. The fact TOP 25 Years* The
-
-that NSA seeks FISA NOFORN classi?cation level is
-
-authority to obtain business TOP 
-
-records (BR) for terrorist NOFORN regardless
-
-groups. of whether the
-terrorist group is
-speci?ed for which
-NSA is seeking or
-obtaining FISA BR
-authority.
-
-2.19. The fact TOP 25 Years* The
-
-that NSA receives or NOFORN classi?cation level is
-
-requests from FBI Pen TOP 
-
-Register Trap Trace NOFORN regardless
-
-FISA warrants in of whether the
-
-order to get data about terrorist group is
-
-terrorist groups. speci?ed for which
-NSA is seeking or
-obtaining FISA
-authority.
-
-2.20. TO USA, 25 Years* (U) Classify at the
-
-FVEY) The identi?cation REL TO USA, FVEY same level as the
-
-of speci?c selectors classi?cation
-
-speci?c phone numbers; at a minimum assigned to the
-
-speci?c e-mail addresses) target selectors
-
-targeted in ISA warrants for a target classi?ed
-
-or PAA certi?cations. as per
-section 2.2, would
-also be classi?ed
-
-
-2.21. (U) The identi?cation TOP 25 Years* (U) Refer to
-
-of, or relationships with, NOFORN appropriate ECI
-
-providers. classi?cation guides
-
-at a minimum for additional
-
-instructions.
-
-2.22. (U) The identi?cation 25 Years* (U) Handle at the
-
-of speci?c communications
-methods/ technologies
-targeted/ collected/
-processed under ISA or
-PAA.
-
- 
-
-REL TO USA, FVEY
-
-at a minimum
-
- 
-
- 
-
- 
-
-same classi?cation
-level as required for
-the speci?c
-communications
-methods or
-technologies
-targeted/collected/
-processed. Certain
-
- 
-
-TOP EC lf/N 0 PO RN
-
- 
-
-TOP 
-
- 
-
-facts about
-technologies
-collected under
-
-ISA or PAA may
-be determined to be
-UNCLASSIFIED,
-while other facts
-may be higher than
-
-
-REL TO USA,
-FVEY.
-
-If the
-FISA or PAA target
-entity is speci?ed,
-refer to the
-classi?cation
-guidance throughout
-Section 2.
-
- 
-
-2.23. TO USA,
-VEY) Statistics or
-statistical trends relating to
-NSA FISA targets,
-including numbers of court
-orders, IRP policy
-approvals, targets,
-facilities, or selectors, or
-combinations or
-subcategories thereof,
-without mention of
-techniques involved.
-
-TOP 
-NOFORN
-
-
-
-25 Years*
-
- 
-
-2.24. TO USA,
-
-VEY) Statistics or
-statistical trends relating to
-FBI FISA targets,
-including numbers of court
-orders, targets, facilities, or
-selectors, or combinations
-or subcategories thereof,
-without mention of
-techniques involved.
-
-
-REL TO USA, FVEY
-
-
-
-25 Years*
-
-For
-FBI Pen Register
-Trap Trace 
-the classi?cation is
-TOP 
-NOFORN.
-
- 
-
- 
-
-2.25. TO USA,
-
-VEY) Statistics or
-statistical trends relating to
-PAA targets, including
-number of certi?cations,
-targets, facilities, selectors,
-or combinations of
-subcategories thereof,
-without mention of
-techniques involved.
-
- 
-
-
-REL TO USA, FVEY
-
-at a minimum
-
- 
-
-
-
- 
-
-25 Years*
-
- 
-
- 
-
-TOP EC l//N 0 PO RN
-
- 
-
-TOP 
-
- 
-
-3. (U) DATA HANDLING
-
- 
-
-3.1. TOP 25 Years* Within
-Unminimized NOFORN the data
-unevaluated NSA FISA must be labeled
-data BR, large (U) See Remarks with appropriate
-content, FAA) or RAG TIM E?series
-markings.
-
-Traf?c
-remains subject to
-FISA minimization
-procedures
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-basis.
-
- 
-
- 
-
-3.2. TOP 25 Years* Within
-Unminimized NOFORN the data
-unevaluated PAA data, must be labeled
-or (U) See Remarks with appropriate
-RAG 
-markings.
-
-Traf?c
-remains subject to
-minimization
-procedures
-described in USSID
-SP0018, Annex A,
-and those prescribed
-under the respective
-PAA certi?cations.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-
- 
-
- 
-
- 
-
- 
-
- 
-
-TOP SEC RifT/i? 0 F0 RN
-
- 
-
-TOP 
-
- 
-
- 
-
-basis.
-3.3. 25 Years* Within
-Unminimized NOFORN the data
-unevaluated FBI FISA must be labeled
-data, or at a minimum with appropriate
-
-(U) See Remarks markings.
-Traf?c
-
-remains subject to
-FISA minimization
-procedures,
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required.
-
-Target
-of?ces will also add
-the additional caveat
-statement required
-for FISC reporting.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-
- 
-
- 
-
-basis.
-3.4 TOP 25 Years* Within
-Unminimized NOFORN the data
-unevaluated FBI must be labeled
-FISA data, or (U) See Remarks with appropriate
-RAG TI E-series
-markings.
-Traf?c
-
-remains subject to
-FISA minimization
-procedures,
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required.
-
- 
-
- 
-
- 
-
- 
-
-Data
-
- 
-
-TOP EC 1517/ UN 0 F0 RN
-
- 
-
-TOP 
-
- 
-
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-basis.
-
- 
-
-3.5. 
-Unminimized evaluated
-NSA FISA data BR,
-large content, FAA) such
-as a verbatim transcript or
-gisted traf?c, that does not
-disclose speci?c methods
-or techniques.
-
-TOP 
-NOFORN
-
-(U) See Remarks
-
-
-
-25 Years*
-
-Within
-the data
-must be labeled
-with appropriate
-
-markings.
-
-Traf?c
-remains subject to
-FISA minimization
-procedures,
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required.
-
-(U) Methods are
-governed by the
-classi?cation guides
-applicable to the
-speci?c methods
-involved.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case?by?case
-basis.
-
- 
-
- 
-
-3.6. TO USA,
-FVEY) Unminimized
-evaluated PAA data, such
-as a verbatim transcript or
-gisted traf?c, that does not
-
- 
-
-
-NOFORN
-
-at a minimum
-
- 
-
-
-
- 
-
-25 Years*
-
- 
-
-Within
-the data
-must be labeled
-with appropriate
-RAG TIM E-series
-
-disclose speci?c methods (U) See Remarks markings.
-
-or techniques.
-Traf?c
-remains subject to
-minimization
-procedures
-
- 
-
-TOP EC ET l/fN FORN
-
- 
-
-TOP 
-
- 
-
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required, and those
-prescribed under the
-respective PAA
-certi?cations.
-
-(U) Methods are
-governed by the
-classi?cation guides
-applicable to the
-speci?c methods
-involved.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-basis.
-
- 
-
- 
-
-3.7. TO USA,
-FVEY) Unminimized
-evaluated FBI FISA data,
-such as a verbatim
-transcript or gisted traf?c,
-that does not disclose
-speci?c methods or
-techniques.
-
- 
-
-
-NOFORN
-
-at a minimum
-
-(U) See Remarks
-
- 
-
-
-
- 
-
-25 Years*
-
- 
-
-(U [10) Within
-the data
-must be labeled
-with. appropriate
-
-markings.
-
-Traf?c
-remains subject to
-FISA minimization
-procedures,
-described in USSID
-SP0018, Annex A,
-plus supplemental
-minimization
-procedures as
-required.
-
-Target
-of?ces will also add
-the additional caveat
-statement required
-for FISC reporting.
-
-(U) Methods are
-governed by the
-classi?cation guides
-
- 
-
-TO EC 0 RN
-
- 
-
-TOP 
-
- 
-
-applicable to the
-speci?c methods
-involved.
-
-Data
-may only be
-released to foreign
-partners when
-speci?cally
-approved by an
-appropriate authority
-on a case-by-case
-basis.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-3.8. TOP 25 Years* Data
-
-Unminimized evaluated NOFORN may only be
-
-FBI data that does released to foreign
-
-not disclose speci?c partners when
-
-methods or techniques. speci?cally
-approved by an
-appropriate authority
-on a case-by?case
-basis.
-
-3.9. TOP 25 Years* Target
-
-Minimized evaluated NSA REL TO USA, FVEY of?ces may add
-
-ISA data, such as caveats 
-
-verbatim transcript or (U) See Remarks NOFORN, ORCON,
-
-gisted traf?c, that does not etc.) if the
-
-disclose speci?c methods intelligence product
-
-or techniques. itself warrants such
-protection.
-(U) Methods are
-governed by the
-classi?cation guides
-applicable to the
-speci?c methods
-involved.
-
-3.10. TOP 25 Years* (U) Methods are
-
-Minimized evaluated NSA NOFORN governed by the
-
-BR and large content ISA classi?cation guides
-
-data that does not disclose applicable to the
-
-speci?c methods or speci?c methods
-
-techniques. involved.
-
-3.11. 25 Years* Target
-
-Minimized evaluated PAA
-data, such as a verbatim
-transcript or gisted traf?c,
-that does not disclose
-speci?c methods or
-techniques.
-
- 
-
-REL TO USA, FVEY
-
-at a minimum
-
- 
-
- 
-
- 
-
-of?ces may add
-caveats 
-NOFORN, ORCON,
-etc.) if the
-intelligence product
-itself warrants such
-protection.
-
-(U) Methods are
-
- 
-
-TOP 
-
- 
-
-TOP 
-
- 
-
-governed by the
-classi?cation guides
-applicable to the
-speci?c methods
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-involved.
-
-3.12. TO USA, 25 Years* Target
-
-FVEY) Minimized REL TO USA, of?ces may add
-
-evaluated FBI FISA data, FISA caveats 
-
-such as a verbatim NOFORN, ORCON,
-
-transcript or gisted traf?c, etc.) if the
-
-that does not disclose at a minimum intelligence product
-
-speci?c methods or itself warrants such
-
-techniques. protection.
-Target
-of?ces will also add
-the additional caveat
-statement required
-for FISC reporting.
-(U) Methods are
-governed by the
-classi?cation guides
-applicable to the
-speci?c methods
-involved.
-
-3.13. TOP 25 Years* (U) Methods are
-
-Minimized evaluated FBI NOFORN governed by the
-
-FISA data that does classi?cation guides
-
-not disclose speci?c applicable to the
-
-methods or techniques. speci?c methods
-involved.
-
-4. (U) DIS SEMINATION
-
-4.1. TO TOP 25 Years* Target
-
-USA, FVEY) SIGINT REL TO USA, FVEY of?ces may add
-
-product derived from caveats 
-
-or NOFORN, ORCON,
-
-NSA FISA collection. (U) See Remarks etc.) if the
-intelligence product
-itself warrants such
-protection.
-
-4.2. SIGINT TOP 25 Years* Target
-
-product derived from NOFORN of?ces may add
-
-or caveats 
-
-NSA FISA-warranted BR ORCON) if the
-
-or large content FISA intelligence product
-
-collection. itself warrants such
-protection.
-
-4.3. SIGINT 25 Years* Target
-
-product derived from REL TO USA, FVEY of?ces may add
-
-or 
-PAA-authorized collection.
-
- 
-
-at a minimum
-
- 
-
- 
-
- 
-
-caveats 
-NOFORN, ORCON)
-
- 
-
-TO EC l//N FO 
-
- 
-
-TOP 
-
- 
-
-if the intelligence
-
- 
-
- 
-
- 
-
-product itself
-warrants such
-protection.
-4.4. TO USA, 25 Years* Target
-FVEY) SIGINT product REL TO USA, FVEY of?ces may add
-derived from or caveats 
-FBI FISA- NOFORN, ORCON)
-warranted collection when at a minimum if the intelligence
-associated with NSA or product itself
-SIGINT. warrants such
-protection.
-TO USA,
-FVEY) Target
-of?ces will also add
-the additional caveat
-statement required
-for FBI FISA
-reporting.
-4.5. SIGINT TOP 25 Years* Target
-product derived from NOFORN of?ces may add
-
-or 
-FBI PIVTT FISA-
-warranted collection.
-
- 
-
- 
-
- 
-
- 
-
-caveats 
-ORCON) if the
-intelligence product
-itself warrants such
-protection.
-
- 
-
-*25 years: Declassi?cation in 25 years indicates that the information is classi?ed for 25
+*25 years: Declassification in 25 years indicates that the information is classified for 25
 years from the date a document is created or 25 years from the date of this original
+classification decision, whichever is later.
 
-classi?cation decision, whichever is later.
-
-Section 1.4(c) ofE.O. 12958, as amended
+* 1.4(c): Section 1.4(c) of E.O. 12958, as amended
 
 *Ex 3: Exemption 3 of the Freedom of Information Act
 
-Additional Remarks: The denial of any facts in this guide concerning 
-and then disseminating of entities
-under authority carries the same level of classi?cation as the fact of
+(U//FOUO) Additional Remarks: The denial of any facts in this guide concerning NSA’s
+collection/processing/analyzing/retaining/producing and then disseminating of entities
+under FISA/PAA/FAA authority carries the same level of classification as the fact of
+NSA’s performing such functions.
 
-performing such functions.
 (U) Acronyms
 
-(U) BR Business Records
+(U) BR - Business Records
 
-(U) ECI Exceptionally Controlled Information
-(U) FAA ISA Amendments Act
+(U) ECI - Exceptionally Controlled Information
 
-(U) ISA Foreign Intelligence Surveillance Act
-(U) ISC Foreign Intelligence Surveillance Court
+(U) FAA - FISA Amendments Act
 
-TOP EC TW l//N 0 F0 
+(U) FISA - Foreign Intelligence Surveillance Act
 
- 
+(U) FISC - Foreign Intelligence Surveillance Court
 
-TOP 
+TOP SECRET//SI//NOFORN
 
-(U) IRP Interagency Review Panel
+TOP SECRET//SI//NOFORN
 
-(U) PAA Protect America Act
+(U) IRP - Interagency Review Panel
 
-(U) Pen Register Trap Trace
+(U) PAA - Protect America Act
 
-(U) USSID United States Signals Intelligence Directive
+(U) PR/TT - Pen Register Trap Trace
 
-"1 EC l//N (Q) 
+(U) USSID - United States Signals Intelligence Directive
 
+TOP S EC RE l SI NOPORN

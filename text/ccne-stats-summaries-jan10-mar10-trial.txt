@@ -1,57 +1,70 @@
-TOP SECRET STRAP 1
-Stats I summaries
+﻿TOP SECRET STRAP 1
 
-Identify all email addresses found near Ki data
-- Reference all original UDAQ items
+Stats / summaries
 
-- Show breakdown of Kis found by network
+•	Identify all email addresses found near Ki data
 
-Show breakdown of activity by network
+•	Reference all original UDAQ items
 
-Eneils:
-items
+•	Show breakdown of Kis found by network
 
-184 @huawei.com
-184 E1uawei.com
-295 @trusted-ldgic.com
+• Show breakdown of activity by network
 
-UDAD Item Identifiers used:
-Kis UDAD ID
+Emails:
 
-3 xxb:
-3 xxb:
-1 xxb:
+107 items
+184
+184
+295
 
-Unique IMSI and Hi data identified for networks:
+UDAQ Item Identifiers used:
+# Kis	UDAQ ID
 
- 
+@huawei.com
+(Shuawei. com
 
-   
+(at rusted-logic. com
 
- 
+Unique IMSI and Ki data identified for networks:
+Code	# Occurrences
 
-  
+63701
 
-Code Dccurrences
+41902
 
-EBTD1 1 Elobetely Somalia
+42004
 
-41932 4 MTCJ Kuwait
+41201
 
-4EDD4 5 Saudi_Arabia
+43235
 
-41231 1 AWEC, Afghanistan
+42602
 
-43235 1D4 Iran
+1
 
-5 MTE_Uodaphone, Bahrain
--1135
+4
 
-r-Ima Ir-n Is. Inm I: Isl: name no: el we lee-:r-m  ma}: he so i-Jeu  e-emla Ir-n a
-r-fl'lel Infr-I maIIr-n Fiefel Ins-Lune r-n in r-I email
+5
+1
 
+104
 
- sn all Ii-gll'nts 
+5
 
+Globetel, Somalia
+MTC, Kuwait
+Zain_SA, Saudi_Arabia
+AWCC, Afghanistan
+MTN_IRANCELL, Iran
+MTC_Vodaphone, Bahrain
 
+Zà
 
+IGCHQ
+
+inis imormation is exempt irom disclosure under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+©Crown Copyright. All rights reserved.
+
+(non-sec) or email

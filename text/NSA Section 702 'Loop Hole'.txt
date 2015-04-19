@@ -1,0 +1,22 @@
+﻿FAA702
+
+FAA Section 702 (certain non-USPs reasonably believed to be located overseas)
+
+FA A 702 Coll ectionFFarge ting:
+
+U. S. persons may NOT be targeted under FAA Section 702.
+
+Persons in the US may NOT be targeted under FAA Section 702.
+
+Accounts used, shared or in any way accessed by USPs or persons in the US may NOT be targeted or remain on target under
+FAA Section 702. This applies even if the intended targeted user of the selector remains otherwise a non-USP reasonably
+believed located outside the US.
+
+FAA 702 ColiecEiort/Querying:
+
+**Update** While the FAA 702 minimization procedures approved on 3 October 2011 now allow for use of certain United States
+person names and identifiers as query terms when reviewing collected FAA 702 data, analysts may NOT/NOT implement any
+USP queries until an effective oversight process has been developed by NSA and agreed to by DOJ/ODNI. Until further notice,
+analysts must ensure that database queries. Including federated queries, of any USP selection terms are NOT run against
+collected FAA 702 data [702 data is contained in MARINA, MAIN WAY, NUCLEON, PIN WALE [Sweet* and Sour* partitions) and
+other databases).

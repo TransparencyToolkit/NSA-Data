@@ -1,621 +1,126 @@
-TOP 
+﻿TOP SECRET//SI//NOFORN
 
- 
+SSO Collection Optimization
 
-   
-   
+Core SSO Team:
 
-880 Collection Optimization
+TOP SECRET//SI//NOFORN
 
-Core 880 Team:
-
- 
-
-TOP 
-
- 
-
-'Access (10 Jan 12) Total Sessions
-
-US-3171 1488453
-DS-200B 938378
-US-3261 94132
-US-3145 177663
-US-3180 269794
-US-3180 (16 Dec 11) 289318
-TOTAL 3257738
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Address Books
 
-Email address books for most major webmail are collected as
+•	Email address books for most major webmail are collected as
 stand-alone sessions (no content present*)
 
-Address books are repetitive, large, and metadata-rich
-Data is stored multiple times PINWALE, CLOUDS)
-Fewer and fewer address books attributable to users, targets
+•	Address books are repetitive, large, and metadata-rich
 
-Address books account for 22% of major accesses (up
-from 12% in August)
+•	Data is stored multiple times (marina/mainway, pinwale, clouds)
 
-Address Books
-237067 (16% of traf?c)
-311113 (33% of traf?c)
+•	Fewer and fewer address books attributable to users, targets
 
-2477 of traf?c)
-29336 (16% of traf?c)
-40409 (15% of traf?c)
-91964 (32% of traf?c)
+•	Address books account for ~ 22% of SSO's major accesses (up
+from ~ 12% in August)
 
-712366 (22% of traf?c)
+Access(10 Jan 12)	Total Sessions	Address Books	" Provider	Collected	A;ributed	A;ributed%
+US-3171	1488453	237067 (16% of traffic)	Yahoo	444743	11009	2.48%
+DS-200B	938378	311113 (33% of traffic)	Hotmail	105068	1115	1.06%
+US-3261	94132	2477 (3% of traffic)	Gmail	33697	2350	6.97%
+US-3145	177663	29336 (16% of traffic)	Facebook	82857	79437	95.87%
+US-3180	269794	40409 (15% of traffic)	Other	22881	1175	5.14%
+US-3180 (16 Dec 11) TOTAL	289318  3257738	91964 (32% of traffic) 712366 (22% of traffic)	TOTAL	689246	95086	13.80%
 
-Provider
-Yahoo 444743
-Hotmail 105068
-Gmail 33697
-Facebook 82857
-Other 22881
-TOTAL 689246
+TOP SECRET//SI//NOFORN
 
-TOP 
-
-Collected Attributed
-
-Attributed%
-
-11009 2.48%
-1115 1.06%
-2350 6.97%
-
-79437 95.87%
-1175 5.14%
-
-95086 13.80%
-
-TOP 
-
- 
-
-Enabled in SCISSORS for various 880 sites:
-JPMQ (metadata: QMPJ) 03-2003 (MUSCULAR)
-
-DGOT (metadata: TOGD) - us-3171 (DANCINGOASIS)
-DGOD (metadata: - us-3171 (DANCINGOASIS)
-SPNN (metadata: NNPS) (SPINNERET)
-
-EGLP (metadata: PLGE) us?3145 (MOONLIGHTPATH)
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Address Books
 
-29 Feb 2012
-13 Mar 2012
-13 Mar 2012
-03 May 2012
-08 May 2012
+• Enabled in SCISSORS for various SSO sites:
 
-TOP 
+-	JPMQ (metadata: QMPJ) - DS-200B (MUSCULAR)	29	Feb	2012
 
- 
+-	DGOT (metadata: TOGD) - US-3171 (DANCINGOASIS) 13 Mar 2012
 
- 
+-	DGOD (metadata: DOGD) - US-3171 (DANCINGOASIS) 13 Mar 2012
 
-3/1/2012
+-	SPNN (metadata: NNPS) - US-3180 (SPINNERET)	03	May	2012
 
-3/6/2012
-3/11/2012
-3/16/2012
-3/22/2012
-3/27/2012
+-	EGLP (metadata: PLGE) - US-3145 (MOONLIGHTPATH) 08 May 2012
 
-4/1/2012
+TOP SECRET//SI//NOFORN
 
-4/6/2012
-4/11/2012
-4/16/2012
-4/21/2012
-4/26/2012
+TOP SECRET//SI//NOFORN
 
-5/1/2012
+Address Books
 
-5/6/2012
-5/11/2012
-5/16/2012
-5/21/2012
-5/26/2012
-5/31/2012
+TOP SECRET//SI//NOFORN
 
-6/5/2012
-6/10/2012
-6/15/2012
-6/20/2012
-6/25/2012
-6/30/2012
+TOP SECRET//SI//NOFORN
 
-7/5/2012
-7/10/2012
-7/15/2012
-7/20/2012
-7/25/2012
-7/30/2012
+Address Books
 
-0
+40000
 
-20,000
+AUC-393
 
-40,000
-
-60,000
-
-80,000
-
-100,000
-
-120,000
-
-140,000 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-I Total
-
- 
-
- 
-
- 
-
- 
-
-Ownerless Address Books Blocked by SCISSORS (MB40000
 35000
-30000
-25000 -
-20000
+
+AUC-395
+
+CAC-'JSCG
+
+?. :j:j 00
+
+DS-200A
+
+DS-200B
+
+25000
+
+DS-200X
+
+DS-300
+
+rnnon
+
+DS-410
+
+D S 800
+
 15000
-10000
+
+NZC-333
+
+UKC-125
+
+UKC-206D
+
+1 Li: J LI LI
+
+UKC-215
+
+UKC-302A
+
 5000
 
-7/1/2012' jg
-7/2/2012:
-7/3/2012
-7/4/2012
-7/5/2012
-7/6/2012
-7/7/2012
-7/8/2012
-7/9/2012
-7/10/2012
-7/11/2012
-7/12/2012
-7/13/2012
-7/14/2012
-7/15/2012
-7/16/2012
-7/17/2012
-7/18/2012
-7/19/2012
-7/20/2012
-7/21/2012
-7/22/2012
-7/23/2012
-7/24/2012
-7/25/2012
-7/26/2012
-7/27/2012
-7/28/2012 
-7/29/2012 
-7/30/2012 
-7/31/2012
-8/1/2012
-8/2/2012
-8/3/2012
-8/4/2012
-8/5/2012
-8/6/2012
-8/7/2012
-8/8/2012 I
-(blank) 
-
-  
- 
-
- 
-
- 
+UKJ-260D
 
 
 
 
 
+US-3101M
 
+US-3105
 
-J.
-a
-?3
+US-3145
 
+TOP SECRET//SI//NOFORN
 
-ASIE.
-
-
-
-
-n7
-Ju?_
-
-A
-
-
-
-
-
-O.
-0.
-
-(D
-
-
-
-
-
-
-
-
-
-
-?os-2oox
-
-?os-410
-
-+Nzc-333
-
---UKJ-
-
-
-+us-31as
-
-DS-ZOOA
-
-
-
-
-
-
--- KC). 15
-
-KC-302A
-2600
-
-3101M
-3105
-
- 
-
- 
-
-TOP 
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 Selector Detasks
-
- 
-
- 
 
 Emergency Detasks
 
@@ -626,36 +131,34 @@ Emergency Detasks
 60
 40
 20
+0
 
- 
+Nov-11 Dec-11 Jan-12 Feb-12 Mar-12 Apr-12 May-12
 
-Nov-11 Dec-ll Jan-12 Feb-12 Mar-12 Apr-12 May-12
+TOP SECRET//SI//NOFORN
 
- 
-
-TOP 
-
- 
-
-TOP 
+TOP SECRET//SI//NOFORN
 
 So What?
 
- 
+•	Store less of the wrong data
 
-- Store less of the wrong data
-20% reduction (so far) in content to long-term repositories
-Data still resides at site for SIGDEV
-- Increase data variety
-Hole left by ?wrong data? filled with more ?right data?
-More signals and case notations can be tasked at site
-- Shifting collection philosophy at NSA
+-	20% reduction (so far) in content to long-term repositories
 
-?Memorialize what you need? versus ?Order one of
-everything off the menu and eat what you want?
+-	Data still resides at site for SIGDEV
 
-WIKI: 
+•	Increase data variety
+
+-	Hole left by “wrong data” filled with more “right data”
+
+-	More signals and case notations can be tasked at site
+
+•	Shifting collection philosophy at NSA
+
+-	“Memorialize what you need” versus “Order one of
+everything off the menu and eat what you want”
+
+WIKI: https://wiki.nsa.ic.gov/wiki/Collection_Optimization
 XKEYSCORE: fingerprint/defeats/atrouter and fingerprint/defeats/atxks
 
-TOP 
-
+TOP SECRET//SI//NOFORN
