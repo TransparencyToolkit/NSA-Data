@@ -1,7 +1,6 @@
 require 'open-uri'
 require 'nokogiri'
 require 'json'
-require 'uploadconvert'
 
 class FeedParser
   def initialize
@@ -112,7 +111,7 @@ class FeedParser
 
     temphash[:pdf] = handleMultiple(i.xpath('pdfs').xpath('pdf'))
     temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
-    temphash[:doc_text] = getDocText(temphash[:pdf_paths])
+    #temphash[:doc_text] = getDocText(temphash[:pdf_paths])
     
     return temphash
   end

@@ -1,33 +1,43 @@
 require 'json'
 require 'sigadparse'
-require 'entityextractor'
+require 'termextractor'
+require 'pry'
 
 class TextExtract
   def initialize(input, field)
-    @input = File.read(input)
+    @input = fixEncode(File.read(input))
     @field = field
     @output
   end
 
+  # Fix encoding errors
+  def fixEncode(str)
+    if str.is_a?(String)
+      return str.unpack('C*').pack('U*')
+    else
+      return str
+    end
+  end
+
   # Extracts SIGADs
   def extractSIGADs
-    s = SIGADParse.new(@input, @field)
-    @output = s.match
+   s = SIGADParse.new(@input, @field)
+   @output = s.match
   end
 
 
   # Extract Codewords
   def extractCodewords
-    e = EntityExtractor.new(@output, "codewords", "doc_text", "description", "categories")
-    e.extract("set", nil, nil, JSON.parse(File.read("../extract-lists/codewords.json")), ["description"], ["hashkey", "codeword"], "key", nil)
-    @output = e.genJSON
+    e = TermExtractor.new(@output, ["doc_text", "description", "categories"], "codewords")
+    e.extractSetTerms(fixEncode(File.read("../extract-lists/codewords.json")), ["codeword"], "case_sensitive")
+    @output = e.getAllOutput
   end
 
   # Extract Countries
   def extractCountries
-    f = EntityExtractor.new(@output, "countries_mentioned", "doc_text", "description", "categories")
-    f.extract("set", nil, nil, JSON.parse(File.read("../extract-lists/isocodes.json")), ["key", "two_letter_iso", "three_letter_iso"], "key", nil)
-    @output = f.genJSON
+    f = TermExtractor.new(@output, ["doc_text", "description", "categoris"], "countries_mentioned")
+    f.extractSetTerms(fixEncode(File.read("../extract-lists/isocodes.json")), ["full_name", "short_name"], "case-insensitive")
+    @output = f.getAllOutput
   end
 
   # Runs all the extract methods
