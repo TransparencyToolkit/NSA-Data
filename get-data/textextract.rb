@@ -2,10 +2,11 @@ require 'json'
 require 'sigadparse'
 require 'termextractor'
 require 'active_support/core_ext/hash'
+require 'htmlentities'
 
 class TextExtract
   def initialize(input, field)
-    @input = fixEncode(File.read(input))
+    @input = File.read(input)
     @field = field
     @output
   end
