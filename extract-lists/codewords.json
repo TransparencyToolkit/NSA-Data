@@ -44,8 +44,8 @@
         "AGILITY"
       ],
       "description": "NSA internet information tool or database\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "AGILEVIEW": {
       "codeword": [
@@ -3449,8 +3449,8 @@
         "KEYCARD"
       ],
       "description": "Database for VPN key exchange IP packet addresses * or filtering/selection tool *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "KEYRUT": {
       "codeword": [
@@ -4122,8 +4122,8 @@
         "MIRROR"
       ],
       "description": "Automated survey system that can for example identify the presence of a VPN; interface to the ROADBED system * \n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "MOCCASIN": {
       "codeword": [
@@ -5085,8 +5085,8 @@
         "PLUS"
       ],
       "description": "NSA SIGINT production feedback program *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "POCOMOKE": {
       "codeword": [
@@ -5552,8 +5552,8 @@
         "RADIUS"
       ],
       "description": "Systems that logs ISP dial up customer records, which can create a \"natural link\" between DNR and DNI datasets *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "RADON": {
       "codeword": [
@@ -8604,8 +8604,8 @@
         "CATEGORY"
       ],
       "description": "Submarine cable(?) to which Verizon has a \"non-cable access\" *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "CAVIAR": {
       "codeword": [
@@ -8647,8 +8647,8 @@
         "CIRCUIT"
       ],
       "description": "Internet interception monitoring center in Seeb, Oman, also known as Overseas Processing Centre 1 (OPC-1) *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "CLARET ": {
       "codeword": [
@@ -8715,8 +8715,8 @@
         "CONFLICT"
       ],
       "description": "Tunnel under Vienna dug by the SIS to wiretap Soviet telephone cables (1948-195?) *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "COPPERHEAD": {
       "codeword": [
@@ -8920,8 +8920,8 @@
         "GATEWAY"
       ],
       "description": "Ability to artificially increase traffic to a website\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "GERONTIC": {
       "codeword": [
@@ -9150,8 +9150,8 @@
         "INTERACTION"
       ],
       "description": "Operation of the MyNOC unit for development of in-depth knowledge of mobile gateways *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "IRASCIBLE EMITT": {
       "codeword": [
@@ -9300,8 +9300,8 @@
         "LITTLE"
       ],
       "description": "Cover name for Level 3\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "LLANDARCYPARK": {
       "codeword": [
@@ -9672,8 +9672,8 @@
         "RED"
       ],
       "description": "Particular Enigma cypher used by Nazi Germany *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "REFRIED CHICKEN": {
       "codeword": [
@@ -9793,8 +9793,8 @@
         "SLIDE"
       ],
       "description": "Some tool to exploit iPhones *\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "SOCIAL ANTHROPOID": {
       "codeword": [
@@ -9810,8 +9810,8 @@
         "SOCIALIST"
       ],
       "description": "NAC MyNOC operation to provide access to the Belgacom GRX network (2009-2011)\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "SOLARSHOCK116": {
       "codeword": [
@@ -9876,8 +9876,8 @@
         "STOPWATCH"
       ],
       "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; joint UK-US codename: GOLD)\n",
-      "case_sensitive": "No",
-      "modified": "No"
+      "case_sensitive": "Yes",
+      "modified": "Yes"
     },
     "STREETCAR": {
       "codeword": [

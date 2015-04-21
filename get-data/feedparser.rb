@@ -1,6 +1,7 @@
 require 'open-uri'
 require 'nokogiri'
 require 'json'
+require 'htmlentities'
 
 class FeedParser
   def initialize
@@ -34,7 +35,7 @@ class FeedParser
 
   # Get item if it exists
   def getText(raw)
-    return raw.text if raw
+    return HTMLEntities.new.decode(raw.text) if raw
   end
 
   # Extract list of terms from categories
@@ -97,7 +98,7 @@ class FeedParser
   # Parse item attributes
   def parseItem(i)
     temphash = Hash.new
-    temphash[:title] = getText(i.at('title'))
+    temphash[:title] =  getText(i.at('title'))
     temphash[:link] = getText(i.at('link'))
     temphash[:pub_date] = getText(i.at('pubDate'))
 
@@ -111,7 +112,7 @@ class FeedParser
 
     temphash[:pdf] = handleMultiple(i.xpath('pdfs').xpath('pdf'))
     temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
-    #temphash[:doc_text] = getDocText(temphash[:pdf_paths])
+    temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
     
     return temphash
   end

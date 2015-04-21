@@ -1177,11 +1177,13 @@
   "United Kingdom (GBR/GB)": {
     "two_letter_iso": "GB",
     "full_name": "United Kingdom",
+    "short_name": "UK",
     "three_letter_iso": "GBR"
   },
   "United States (USA/US)": {
     "two_letter_iso": "US",
     "full_name": "United States",
+    "short_name": "USA",
     "three_letter_iso": "USA"
   },
   "United States Minor Outlying Islands (UMI/UM)": {
