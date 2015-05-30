@@ -52,6 +52,19 @@ class FeedParser
     return outarr.uniq
   end
 
+  # Find any agencies mentioned in categories as agencyname_orig
+  def getAgency(categories)
+    agencyarray = Array.new
+
+    categories.each do |c|
+      if c.include? "_orig"
+        agencyarray.push(c.gsub("_orig", "").upcase)
+      end
+    end
+
+    return agencyarray.uniq
+  end
+
   # Get PDFs
   def downloadPDFs(pdfs)
     patharr = Array.new
@@ -87,12 +100,19 @@ class FeedParser
     paths.each do |p|
       text += p+": \n" if paths.length > 1
       begin
-        text += File.read("../text/"+p.gsub(".pdf", ".txt"))
+        text += File.read("../text/"+p.gsub(".pdf", ".txt").gsub(".jpg", ".txt"))
       rescue
       end
     end  
 
     return text
+  end
+
+  # Get documents, both images and PDFs
+  def getDocPaths(i)
+    pdfs = handleMultiple(i.xpath('pdfs').xpath('pdf'))
+    images = handleMultiple(i.xpath('images').xpath('img'))
+    return pdfs.push(*images)
   end
 
   # Parse item attributes
@@ -104,13 +124,12 @@ class FeedParser
 
     temphash[:categories] = handleMultiple(i.xpath('category'))
     temphash[:document_topic] = extractFromCategories(temphash[:categories], "../extract-lists/document_topic.json")
-    temphash[:agency] = extractFromCategories(temphash[:categories], "../extract-lists/agencies.json")
+    temphash[:agency] = getAgency(temphash[:categories])
 
     temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
     temphash[:document_date] = getText(i.at('document_date'))
     temphash[:released_date] = getText(i.at('released_date'))
-
-    temphash[:pdf] = handleMultiple(i.xpath('pdfs').xpath('pdf'))
+    temphash[:pdf] = getDocPaths(i)
     temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
     temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
     

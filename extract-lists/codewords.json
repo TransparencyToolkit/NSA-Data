@@ -6814,11 +6814,11 @@
   },
   "SEENFLARE(?)": {
     "codeword": [
-      "SEENFLARE(?)"
+      "SEENFLARE"
     ],
     "description": "Codeword related to data exchange at NSA's European Cryptologic Center (ECC) *\n",
     "case_sensitive": "No",
-    "modified": "No"
+    "modified": "Yes"
   },
   "SEMESTER": {
     "codeword": [
