@@ -1,0 +1,50 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+SPARROW II
+
+Wireless Survey - Airborne Operations - UAV
+
+(TS//SI//REL) An embedded computer system running BLINDDATE
+tools. Sparrow II is a fully functional WLAN collection system with
+integrated Mini PCI slots for added functionality such as GPS and
+multiple Wireless Network Interface Cards._________________________
+
+(U//FOUO) System Specs
+
+Processor: IBM Power PC 405GPR
+Memory:	64MB (SDRAM)
+
+16MB (FLASH)
+
+Expansion: Mini PCI (Up to 4
+devices) supports USB, Compact
+Flash, and 802.11 B/G
+
+OS: Linux (2.4 Kernel)
+
+Application SW: BLINDDATE
+
+Battery Time: At least two hours
+
+SPARROW II Hardware
+
+(TS//SI//REL) The Sparrow II is a capable option for deployment where
+small size, minimal weight and reduced power consumption are required.
+PCI devices can be connected to the Sparrow II to provide additional
+functionality, such as wireless command and control or a second or third
+802.11 card. The Sparrow II is shipped with Linux and runs the
+BLINDDATE software suite.
+
+Unit Cost: $6K
+
+Status: (S//SI//REL) Operational Restrictions exist for equipment deployment.
+
+S32242, |	| I Bffinsa.ic.qov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

@@ -1,0 +1,49 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+COTTONMOUTH-I
+
+ANT Product Data
+
+(TS//SI//REL) COTTONMOUTH-I (CM-I) is a Universal Serial Bus (USB) hardware implant
+which will provide a wireless bridge into a target network as well as the ability to load exploit
+software onto target PCs.
+
+08/05/08
+
+(TS//SI//REL) CM-I will provide air-gap bridging, software persistence capability, "in-field'* re-
+programmability, and covert communications with a host software implant over the USB. The
+RF link will enable command and data infiltration and exfiltration. CM-I will also communicate
+with Data Network Technologies (DNT) software (STRAITBIZARRE) through a covert
+channel implemented on the USB, using this communication channel to pass commands and
+data between hardware and software implants. CM-I will be a GENIE-compliant implant
+based on CHIMNEYPOOL.
+
+(TS//SI//REL) CM-I conceals digital components (TRINITY), USB 1.1 FS hub, switches, and
+HOWLERMONKEY (HM) RF Transceiver within the USB Series-A cable connector.
+MOCCASIN is the version permanently connected to a USB keyboard. Another version can
+be made with an unmodified USB connector at the other end. CM-I has the ability to
+communicate to other CM devices over the RF link using an over-the-air protocol called
+SPECULATION.	cottonmouth conop
+
+INTERNET Scenario
+
+High SkJo
+
+la* Sc*
+
+Status: Availability - January 2009	Unit Cost: 50 units: $1,015K
+
+POC:
+
+ALT POC:
+
+, S3223,
+, S3223,
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

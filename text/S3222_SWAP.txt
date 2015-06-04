@@ -1,0 +1,44 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+ANT Product Data
+
+SWAP
+
+(TS//SI//REL) SWAP provides software application persistence by exploiting the
+
+(TS//SI//REL) This technique supports single or multi-processor systems running
+Windows, Linux, FreeBSD, or Solaris with the following file systems: FAT32, NTFS,
+EXT2, EXT3, or UFS 1.0.
+
+(TS//SI//REL) Through remote access or interdiction, ARKSTREAM is used to re-
+flash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard
+drive on a target machine in order to implant SWAP and its payload (the implant
+installer). Once implanted, SWAP’s frequency of execution (dropping the payload) is
+configurable and will occur when the target machine powers on.
+
+Status: Released / Deployed. Ready for	Unit Cost: $0
+
+Immediate Delivery
+
+POC:	S32221,	nsa.ic.gov
+
+motherboard BIOS and the hard drive’s Host Protected Area to gain periodic
+execution before the Operating System loads.
+
+06/20/08
+
+Interactive OPS Console
+
+I
+
+I
+
+(TS//SI//REL) SWAP Extended Concept of Operations
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

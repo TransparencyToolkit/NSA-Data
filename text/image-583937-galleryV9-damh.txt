@@ -1,0 +1,9 @@
+﻿OLYMPUSFIRE
+
+OLYMPUSFIRE is an exploitation system that uses a software implant on a
+Microsoft Windows based target PC to gain complete access to the targeted PC. The
+target, when connected to the Internet, will contact a Listening Post (LP) located at an
+NSA/USSS facilities, which is online 24/7, and get its commands automatically.
+These commands include directory listings, retrieving files, performing netmaps, etc.
+The results of the commands are then returned to the LP, where the data is collected
+and forwarded to CES and analysis and production elements.

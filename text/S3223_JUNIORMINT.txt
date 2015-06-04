@@ -1,0 +1,136 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+JUNIORMINT
+
+ANT Product Data
+
+(TS//SI//REL) JUNIORMINT is a digital core packaged in both a mini Printed Circuit Board
+(PCB), to be used in typical concealments, and a miniaturized Flip Chip Module (FCM), to
+be used in implants with size constraining concealments.
+
+(TS//SI//REL) JUNIORMINT uses the TAO standard implant architecture. The architecture
+provides a robust, reconfigurable, standard digital platform resulting in a dramatic performance
+improvement over the obsolete HC12 microcontroller based designs. A mini Printed Circuit
+Board (PCB) using packaged parts will be developed and will be available as the standard
+platform for applications requiring a digital core. The ultra-miniature Flip Chip Module (FCM)
+will be available for challenging concealments. Both will contain an ARM9 microcontroller,
+FPGA, Flash. SDRAM and DDR2 memories.
+
+uController	Flash	SDRAM	FPGA	DDR2
+ARM 9	32 MBytes	MT48H16M32LF	XC4VLX25	MT47H64M16
+400 Mhz		64 MBytes	10752 Slice	128 MBytes
+
+◄-
+
+◄-
+
+◄-
+
+
+
+JSARTs
+USB !
+
+RMII/MII
+
+xu.'ACiorC'V
+
+SPI
+
+	ÇftttiiCr • F44I or/#*M9 hf:*-A?V5
+APV * à c* SDRA.V ns:	
+lib r/ <« ? *	►rFPf.A
+
+ARM9
+
+AT91SAM9G20
+
+400 MHz
+
+1.0V core
+1.8V* 3.3V I/O
+
+SPI
+
+		64MB
+32MB		SDRAM
+Flash		16MX32  k9tiK>ttW32ll  1AVUO
+
+<4
+
+FBI
+
+.QRti9D.il. Expanded
+w Flash
+
+NAND /
+SDcard
+Flash
+
+conhg
+
+◄-
+
+◄-
+
+JTAG
+
+I2C
+
+FPGA
+
+XC4VLX25
+
+Virtex 4/5
+
+12V/ I.OVecre
+1 8V-3.3V UO
+
+m*OSl**
+
+I	Cr SMT
+
+
+
+128MB
+
+DDR2
+
+MMX 16
+
+MUrMtKMIU
+
+1.8V VO
+
+3D Stack
+Component
+
+EBI
+
+►
+
+I
+
+I
+
+Status: Availability - mini-PCB and Dev Board by April 2009
+
+Availability - FCM by June 2010	Unit Cost: Available Upon Request
+
+POC:
+
+ALT POC:
+
+S3223,
+, S3223,
+
+nsa.ic.gov
+@nsa.ic.qov
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

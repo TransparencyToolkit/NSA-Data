@@ -1,0 +1,1165 @@
+﻿Synergising Network Analysis
+
+Tradecraft
+
+Network Tradecraft Advancement Team
+
+(NTAT)
+
+Overview
+
+TOP SECRET//SI
+
+
+
+Tradecraft?
+
+Tradecraft
+
+• “The development of methods,
+techniques, algorithms and
+processes in order to generate
+Intelligence, and developing the
+ability to apply this knowledge either
+manually or through automation.
+Tradecraft is developed from
+experience, research, intuition and
+by the reapplication and redefinition
+of existing techniques. Industrial-
+Scale Tradecraft involves data on a
+large scale.”
+
+Network Tradecraft
+
+• Usable knowledge about how to
+acquire intelligence FROM the
+network
+
+TOP SECRET//SI
+
+* Create repeatable-
+sustainable & shareable
+
+tradecraft to enable
+network analysis
+
+Facilitate knowledge
+collaboration and
+interchange across the 5-
+Eyes SIGDEV community
+
+TOP SECRET//SI
+
+The Process
+
+Stage 1 =
+
+—
+
+Stage 2 Define Foci (based on Fact
+Finding)
+
+___________i______________
+
+	
+
+—
+
+n
+
+Stage 3 Develop Tradecraft				
+		s/  Stage 4 = Document Tradecraft		>  à J	
+		r  Stage 5 = Test Documented Tradecraft and Refine	s/	>  		
+
+TOP SECRET//SI
+
+Network Convergence
+
+Tradecraft
+
+* Technological convergence - where voice
+and data services interact with each other
+on a single device
+
+Tradecraft to enable the targeting of
+handsets in telephony space and CNE
+exploitation in IP space
+
+Improved algorithms for mobile gateway
+identification and implementation of these
+algorithms
+
+TOP SECRET//SI
+
+DSD Workshop
+November 2011
+
+2 weeks
+
+* CSE, DSD, GCHQ
+
+Virtually, via chat room, NSA & GCSB
+
+Focus on data, techniques & analytic
+outcomes
+
+https://wiki.dsd/twiki
+
+TOP SECRET//SI
+
+DSD Workshop
+Outcomes
+
+Technique developed to identify wide variety of potential converged data,
+unique for specific country or mobile network operator
+
+0 potentially lead to convergence correlation dataset to help profile targets
+on-line activity
+
+Documentation of techniques to identify specific components of raw HTTP
+activity that alludes to the browsing, downloading and installation of
+smartphone applications
+
+0 identified the presence of application servers for mobile network operators
+and geographical areas
+
+DSD implementation of mobile gateway identification analytic based on
+FRETTING YETI
+
+0 three agencies now running the same analytic provides a richer dataset of
+mobile gateways
+
+CRAFTY SHACK trial
+
+0 NT AT now using CRAFTY SHACK for tradecraft documentation
+
+
+
+TOP SECRET//SI
+
+XKS Microplugin:
+Samsung Protocol
+
+Samsung Protocol
+
+« He(3 Actons » Reports
+State
+
+Vow*
+
+cCsc
+
+tksa
+
+¡AUT
+
+'AUT
+
+10/4
+
+m
+
+mu
+
+12Z4 'AUT
+1 1
+« 'AUT
+iil i SKZ
+’XSG
+
+i
+
+tXSG
+'XSG
+
+“ ’«SG
+m i
+1« 'XSG
+1» 'XEU
+512 i
+»1	l«“
+
+854 'THR
+
+90 ’XSG
+85« l
+
+1253 'XSG
+«« ’XSG
+
+1400 lur sti.1
+
+TOP SECRETHSItff
+TOP SECRET/'Sl/T
+TOP SECRtTZ/SViT
+
+Device_Model
+
+GT-N7000
+
+GT-P7500
+
+GT-P7500
+
+GT-P7500
+
+GT-P7500
+
+GT-P7500
+
+GT-P7500
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+GT-B5512
+
+GT-19100
+
+GT-19100
+
+GT-19100
+
+2012-05-11 06:41:2/
+2012-05-13 02:12:15
+2012-05-11 09:32:1«
+
+HTTP_User_Agent
+
+SAM S U NG-Andró id
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+SAMSUNG-Android
+
+2012-05-11 06:41:2/ |
+2012-05-13 02:12:151
+2012-05-11 09:12:39 I
+
+Latest_Mcc Mcc	Message.« Message.Type		Mnc	Network.Ty Odc.Versio .a*		kJ_ Posnoaded_ Preceded.» PreCaded.apps Versen	Aetna User/1 Casenotation
+412	2306-8	checkAppUpgrade Request	50	0	26084	com sec android epp samsunjapps©2 1 Oa com.sec-android.app.samsungapp 1.0	E 90H L OOOOOM0000 E9DHLOOOOOMOOOO
+250	2306-0	checkAppUpgrade Request	01	0	3.0.021	com.sec.android.app.samsungapp 1.0	E9DHLOOOOOMOOÖO
+250	2306-1	checkAppUpgrade Request	01	0	3.0.021	com.sec-android.app.samsungapp 1.0	E90HIOOOOOMOOOO
+250	2306-0	checkAppUpgrade Request	01	0	3.0.021	com.sec.android.spp.ssmsungapp 1.0 com.sec-android-app.samsungapp 1.0	E90HLOOOOOMOOOO  E90HLOOOOOMOOOO
+250	2306-3	checkAppUpgrade Request	01	0	3.0.021	com.sec-android.app.samsungapp 1.0	E90HLOOOOOMOOOO
+250	2306-4	checkAppUpgrade Request	01	0	3.0.021	com.tec Jndrotdapp.samsungapp 1.0a  3.0	E 9 DHL00000 M 0000 E9DHLOOOÖOUOOOO
+250	2306 5	checkAppUpgrade Request	01	0	3.0.021	1.0	E90HLOOOOOMOOOO
+412	2306-0	checkAppUpgrade Request	20	0	2.6.148	3.0	E 9 DHL00000 M 0000
+412	23504)	getPushNotificationMessage Re	20	0		3.0  3.0	E 9 OH L00000 M 0000 E90HL00000MOOOO
+412	23504)	getPushNotificationMessage Re	20	0		3X>	NFDJR00000M01/1
+412  412	2309-0  23084)	getOownlosdList Request getKillList Request	20  20	0  0		1.0  com.sec-android.app.samsungapp 1.0a cn.wps.rm 1/3 androidO2.1.500||android.ttsO2.3. 1.0a	MfOJROOOOOMOI/1 E9OHL00000M0000 E 9 OH L OOOOOU0000
+412	2301-0	getUpgradeNKillCount Request	20	0		1.0a	E 9 DHL00000 U0000
+412	2301-0	getUpgradeNKillCount Request	50	0		com.sec-android.app.samsungapp 1.0a  cn.wps.rm 1/3 androtd<}2.1.6QO||androtd.ttsQ2.S. 1.0a	E 9 DM L OOOOOU0000 E90HLOOOOOUOOOO
+412	23094)	getOownloadList Request	50	0		1.0a	E90MLOOOOOUOOOO
+412	2306-5	checkAppUpgrade Request	40	0	2.6.122	1.0a  com.sec-androtd-app.samsungapp 1.0a	E9DHLOOOOOUOOOO E9DHLOOOOO MOOOO
+412	2302-2	upgradeListEx Request	20	0	2.6.194	1.0a	E90HLOOOOOUOOOO
+412	2160-6	purchaseDetailEx Request	20	0	2.6.194	comsec.android.app. sama ungapp 1.0a	E90HL00000MOOOO
+	2306-2  412	checkAppUpgrade Request 20  «11 CJUO-U UKCUptWpgiKK KCquCSI tv  412 2100-0 country Sear chEx Request 20 2200-1 country Search Request 412 5060-1 termtnformatlon Request 20		0  0  ni  6	2.6.048  2.6.048	cn.wps.rm 171 androidO2.3-5Q0||ar>droid.ttsQ2.1. 1.0a com.sec.android .app.samsungapp 1.0a  IX)  1.0  1.0	E90HLOOOOOMOOOO E 9 DHL00000MOOOO E9OHL00000M0000 E90HL00000MOOOO E90HLOOOOO MOOOO
+
+TOP SECRET//SI
+
+CSE Workshop
+February 2012
+
+2	weeks
+
+* CSE, DSD, GCHQ, GCSB,
+NSA- everyone wanted to
+experience a Canadian
+winter!
+
+Build on the work started at
+DSD
+
+Winter Nirvan
+
+TOP SECRET//SI
+
+CSE Workshop
+Outcomes
+
+Refinement of XKS fingerprints to identify mobile bearers, Samsung and
+Android Marketplace servers
+0 17 XKS fingerprints deployed
+
+Documentation of analytics in CRAFTY SHACK
+
+0 These analytics are now being implemented across the 5 Eyes
+
+Proving the tradecraft actually works!
+
+0 Scenario to test the tradecraft and analytics - Op IRRITANT HORN
+
+TOP SECRET//SI
+
+TOP SECRET//SI
+
+Op IRRITANT HORN
+Does the tradecraft work?
+
+Another Arab Spring (only this time, different countries)
+
+Goal: identify aggregation points for the mobile networks in
+the countries of interest using the tradecraft developed during
+the workshops
+
+Did it work? YES -> the team was able to identify connections
+from the countries to application and vendor servers in non 5-
+Eyes countries
+
+So what? We found some servers....
+
+0 Potential MiTM
+0 Effects
+
+0 Harvesting data at rest
+0 Harvesting data in transit
+
+TOP SECRET//SI
+
+Finding mobile application &
+vendor update servers
+
+► il H *■ & [fr u ft B 100%
+
+
+
+TC
+
+Init Geolocation and Network Informal in (ATLAS): Date Range. IP Range Reverse DNS (D/ NAUS): IP Range
+
+-Oh
+
+Of
+
+IP Ir put
+
+
+
+Row No maliser
+
+4
+
+—©-
+
+▼
+
+Bitterness
+
+Filter rows
+
+Select valuesIP-IP Communication Summaries (HYPERION): Date Range. IP Range
+
+Tradecraft Navigator Output
+
+TOP SECRET//SI
+
+► Il U t* * I? [jj? tà Q, @	100%
+
+franee	android-market.1.google.com
+franee	android-market.1.google.com
+franee	android-market.1.google.com
+franee	android-market.1.google.com
+franee	android-market.1.google.com
+cuba	store.cubava.cu
+cuba	store.cubava.cu
+Senegal  1	srv applis.sar.sn
+morocco	boungeontelephone.com
+Switzerland	download-force.com
+bahamas	supportapple.com
+cuba	store.cubava.cu
+netherlands	mobile.ero-advertising.com
+russia	lady.marketgid.info
+
+TOP SECRET//SI
+
+Change view
+
+K)cse-cst gc ca
+
+Search this wiki
+
+Browse » Search * * Create » Help ’
+
+Identify Servers oommunicaring with a MoOite netwcrt
+
+Page Discussion
+
+History / Edit
+
+Identify Servers communicating with a Mobile network
+
+5 EYES CSEC DSD GCHQ QCSB NSA Factbox
+
+o
+
+Metadata
+
+What does the tradecraft achieve?
+
+•	This tradecraft will provide a list of servers that have been seen communicating with a mobile network
+
+In what situations would this tradecraft be most useful?
+
+•	To identifymobile application servers for a specific network
+
+•	To identifyanyserverthat maybe useful forcollection purposes
+
+Describe any problems,caveats or things to watch out for
+
+•	The list ofservers returned depends on the the IP range and collection sources utilized Success of this tradecraft may require additional
+research to identify other IP ranges or requesting other agencies to check their collection to identify different servers
+
+Links that can help you to implement this tradecraft
+
+Difficulty: 'Ll Ù Ù
+
+Acceptance ^
+state:
+
+Input(s):
+
+OntologyNetwork block, Ontologylp address Output(s):
+
+Ontologylp address. OntologyÄSN,
+OntologyNetwork block, OntologyHostname,
+OntologyUser Agent String,
+OntologyGeographic selector
+
+Invokes Tradecraft:
+
+1 Find public IP space used byMobile Devices and Related Servers on the Internet
+1 Finding Mobile Internet Gateways
+
+lnput(s):	OntologyNetwork block, Ontologylp address Output(s):
+
+Ontologylp address, OntologyASN,
+OntologyNetwork block. OntologyHostname.
+OntologyUser Agent String.
+OntologyGeographic selector
+
+•	Find public IP space used byMobile Devices and Related Servers on the Internet
+
+Invokes Tradecraft:	„
+
+•	Finding Mobile Internet Gateways
+
+i Identify Servers communicating with a Mobile network
+
+5 EYES Tradecraft Steps (document underlying analytic, do not include tools)
+
+The IP ranges utilized for the initial implementation of tins tradecraft were the Inter PLMN Backbone IP ranges obtained from IR21 documents For
+other methods of identifying mobile IP blocks, see the invoked tradecraft listed above
+
+Step 1) Take IP ranges or individual addresses identified as being related to mobile network communications
+
+Step 2) Obtain geolocation information and network ownership information for each IP address This should indude Network Owner name
+Carrier name, ASN. Continent, Country. Region. City. LatLong. and anyother related details that your system can obtain
+Step 3) Obtain Internet communication events related to the IP addresses These events should minim ally include source information, To
+IP. From IP, TCP Direction, and HTTP User-Agent
+
+Step4) Sort the results and dedup them This step depends on your collection sources
+
+Step 5) Filter out server communications thathave user-agents that aren't useful Further analysis is needed to identify the non-useful
+user-agents (cheatsheet needed) Ex friendly-scanner
+Step 6) Check the TCP Direction field
+
+•	IfSeiverto Client, grab the From IP information
+
+•	If Client to Server, grab the To IP information
+
+•	IfSeiverto Seiver, grab both the To and From IP information
+
+•	»Unknown, capture in an error log
+
+Step 7) Sort and dedup again based on Seiver IP information TCP Direction info is no longer needed
+
+Step 8) Obtain geolocabon information and network ownership information for each Server IP This is done for the servers thatwere notin
+the original IP Blocks
+
+Step 9) Remove any servers that are not useful This may include 5-Eyes servers
+Step 10) Output
+
+•	List ofServers
+
+•	List of related User Agents
+
+•	List of related hostnames
+
+Comments (2)| Show comments
+
+Category Tradecraft
+
+Average article quality based on 1 rating(s) Q
+
+if Indited 24/7/2012 0,
+
+TOP SECRET//SI
+
+Identifying servers
+communicating with an MNO
+
+► h ■	a i»«
+
+m
+
+
+
+
+
+Start	Select Input CSV FileCSV File Input	Tl^Jpit	Mam Stream	AddS^uence
+
+Remove ¿>uplicatefj0(ma||Ser SrclP Dstlf^elect Values	Lookup StreanN^EmichmentFound	Link
+
+ATLAS Gee
+
+5-Eye places
+
+GoogleEarth
+
+convert 2 Reverse DNS (DANAUS): IP Range
+
+TOP SECRET//SI
+
+Profiling mobile application
+
+servers
+
+TDI Events for Apps Servers Dummy (do nothing) 2
+
+TOP SECRET//SI
+
+Profiling mobile application
+
+servers
+
+£ik £d* ¥*« Hijtor, ßooirmcla look U**P
+
+' C	^ Q htlpy/mjgnrto
+
+MotfViüUd NTAT Wikrt * XXIYSCO« — CSEintdkWito . MVMta CfO |j GCHQWdo ft NSAWU 4i OSOW*> _ GCS8VKB3 CRAFTY SHACK HAC Tr»n«g Mrfcntl & SCORPtOFORf um-mjp
+0 Oa»bfc- JL Cook*»- / CSS- 8. Foom- CJ Imigcj- (| Wctnwbon* ¿1 MncdUncout- Outkoe- ft R*w V Took- YmwSoukc A Optwnj-
+A^x^idF^gopnm,	fJS«rcfc-S«
+
+splunk
+
+TOP SECRET//SI
+
+Field discovery is:
+
+|<j Hide
+
+2 selected fields
+
+a HTTP_User_Agent (18
+a source 1)
+
+38 interesting fields
+
+a Application l
+
+#	ASN'4,
+
+a Carrier 4)
+a Case_Hotation 11
+a City 5?
+
+#	Cbent_ASN 11
+
+« Cbent_Carrier 1
+a Chent_City 1
+« Chent_Country ■ i
+a Client_Digraph l
+a Chent_P_Range 1
+
+Client_Owner
+
+a Country 14
+a Digraph 4
+« host
+o Hostname
+a HTTP_Via
+a Identifier
+a index i
+a P(6)
+a IP_From 1
+
+Profiling mobile application
+
+18 results over all time
+
+!= @ ^	^ Options
+
+* Formatting options
+
+Nokia5310XpressMus..
+
+WinWAP 3 2 Profile .
+SAMSUNG-SGH-LI 70 ..
+SAMSUNG-SGH-F2S0 .
+SAMSUNG-SCH-D600.
+SAMSUNC-S3500 1.0.
+SAMSUNC-CT-S36S3 .
+SAMSUNC-GT-E2121B
+SAMSUNC-GT-C3303..
+SAMSUNG-GT-C30I0.
+SAMSUNC-CT-B3210 .
+SAMSUNG-C5212 C5.
+SAMSUNG-85702 857.
+
+Opera 9.80 (S60; Sy
+Nokia6300 2.0 (06.01..
+Nokia6233 2.0 (04.5..
+LG-GU230 VIOi Obig..
+
+ZTE-G-S21 3 WAP2.0
+nfiguration CLDC-I.I
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+
+1.101	(CUD MMP 2.0
+
+1.101	(GUI) MMP 2 0
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+
+1.101	(GUI) MMP 2.0
+nfiguration CLDC-1.1
+.1.101 (GUI) MMP 2.0
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+.2.7.81 Version 11.00
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+nfiguration CLDC-1.1
+
+Client_Owner (categorical)
+
+Appears in 100% of results
+
+Show only events with this field
+Select and show in results
+
+Values
+
+wand Congo
+
+servers
+
+
+
+
+
+Charts
+
+Top values by time
+Top values overall
+
+# %
+
+102 100%
+
+Results based on mobile application
+servers seen in CSE collection
+
+We have a list of the most popular
+smartphones for Warid Congo
+customers and their IMSIs
+
+TOP SECRET//SI
+
+Success Stories
+
+UCWeb mobile browser identification
+* Discovered by GCHQ analyst during DSD workshop
+
+* Chinese mobile web browser - leaks IMSI, MSISDN,
+IMEI and device characteristics
+
+TOP SECRET//SI
+
+UCWeb
+
+(S//SI//REL TO USA, FVEY) The CONVERGENC^eatrNielped discover an
+active communication channel originating from^^^^^^^that is associated
+wittUhe |
+
+|as they are known within the^/^^iierarchy area of responsibility is
+for covert activities in Europe, North America, and South America. The
+customer^f^^^^leveraged a Convergence Discovery capability that
+enabled the discovery of a covert channel associated with smart phone
+browser activity in passive collection. The covert channel originates from
+users who use UCBrowser (mobile phone compact web browser). The
+covert channel leaks the IMSI, MSISDN, Device Characteristics, and
+IMEI to server(s)
+
+investigation has determined thatperhap^malware can be associated when
+the covert channel is established^J^^^^povert exfil activity identifies
+SIGINT opportunity where potentially none may have existed before. Target
+offices that have access to X KEYSCORE can search within this type of
+traffic: hazed nn their I MR I nr IMFI tn determine: tarnet nrezenne
+
+UCWeb
+
+UCWeb
+
+« Help		Actions »		Reports v View » ^ Map View			
+	□	State	ID	Datetime ■-	Highlights	Datetime End	Browser Version
+1	□	I	Í	2012-05-13 02:29:20	ü	2012-05-13 02:29:23	8.0.3.107
+2	□	_]	2	2012-05-13 06:00:59	ft	2012-05-13 06:01:00	8.0.3.107
+3	□	I	4	2012-05-13 19:39:11	ft	2012-05-1319:39:11	7.9.3.103
+4	□		2	2012-05-14 12:29:53	ft	2012-05-1412:29:53	8.0.4.121
+5	□		6	2012-05-14 17:46:46	ft ft	2012-05-14 17:46:46	8.0.4.121
+6	□	I	6	2012-05-15 18:28:19	ft ft	2012-05-1518:28:19	8.0.4.121
+7	□	Q	z	2012-05-15 20:02:58	ft ft	2012-05-15 20:02:58	8.0.4.121
+
+XKS Microplugin
+
+laü Address
+bl23movies
+©123movies
+
+Handset Model
+
+nokiae90-1
+
+nokiae90-1
+
+HTC A510e
+
+NokiaE72-1
+
+MokiaX6-00
+
+HokiaX6-00
+
+NokiaX6-00
+
+Platform	Active User/f Casenotation
+java	E9DHLOOOOOMOOOO
+java	E9DHLOOOOOMOOOO
+android	E9BDEOOOOOMOOOO
+sis	E9DHL00000M0000
+sis	H5H125221450000
+sis	H5H125221450000
+sis	H5H1252214500C
+
+TOP SECRET//SI
+
+Vision of Success
+
+Shared convergence
+database with numerous
+different sources,
+methods & tradecraft
+feeding into it
+
+Ultimately correlating
+telephony and Internet
+TDIs with some degree
+of confidence
+
+TOP SECRET//SI
+
+Synergising Network Analysis
+
+Tradecraft
+
+Network Tradecraft Advancement Team
+
+(NTAT)
+
+0S0
+
+GCHQ
+
+Overview
+
+What is the NTAT?
+
+2011 -2012 work anc
+accomplishments
+
+J*_______•_
+
+' *
+
+7/SI
+
+*8*
+
+T radecraft?
+
+
+
+Tradecraft
+
+Network Tradecraft
+
+"The development of methods,
+techniques, algorithms and
+processes in order to generate
+. and developing the
+ability to apply this knowledge either
+manually or through automation.
+Tradecraft is developed from
+experience, research, intuition and
+by the reapplication and redefinition
+of existing techniques. Industrial-
+Scale Tradecraft involves data on a
+large scale.”
+
+Usable knowledge about how to
+acquire intelligence FROM the
+networl'
+
+•§*
+
+The NIAT
+
+
+
+Create repeatable.
+sustainable & shareable
+
+tradecraft to enable
+network analysis
+
+Facilitate knowledge
+collaboration and
+Interchange across the 5-
+Eyes SIGDEV community
+
+
+
+V	5 $ Jo
+	**
+	
+	
+LT//SI	
+
+Stage 1 =			
+	Stage 2 (based on Fact Finding)	\y	n
+	Stage 3 Develop Tradecraft	V	
+
+e
+
+•sr
+
+Network Convergence
+Tradecraft
+
+Technological convergence - where voice
+and data services interact with each other
+on a single device
+
+Tradecraft to enable the targeting of
+handsets in telephony space and CNE
+exploitation in IP space
+
+Improved algorithms for mobile gateway
+identification and implementation of these
+algorithms
+
+DSD Workshop
+November 2011
+
+*	2 weeks
+
+*	CSE, DSD, GCHQ
+
+*	Virtually, via chat room, NSA & GCSB
+
+*	Focus on data, techniques & analytic
+outcomes
+
+https://wiki.dsd/twiki
+
+TOP SECRET//SI
+
+DSD Workshop
+Outcomes
+
+Technique developed to identify wide variety of potential converged data,
+unique for specific country or mobile network operator
+
+0 potentially lead to convergence correlation dataset to help profile targets
+on-line activity
+
+Documentation of techniques to identify specific components of raw HTTP
+activity that alludes to the browsing, downloading and installation of
+smartphone applications
+
+0 identified the presence of application servers for mobile network operators
+and geographical areas
+
+DSD implementation of mobile gateway identification analytic based on
+FRETTING YETI
+
+0 three agencies now running the same analytic provides a richer dataset of
+mobile gateways
+
+CRAFTY SHACK trial
+
+0 NT AT now using CRAFTY SHACK for tradecraft documentation	,
+
+•y
+
+XKS Microplugin:
+Samsung Protocol
+
+CSE Workshop
+February 2012
+
+2 weeks
+
+CSE, DSD, GCHQ. GCSB,
+NSA- everyone wanted to
+experience a Canadian
+winter!
+
+Build on the work started at
+DSD
+
+Winter
+
+
+
+CSE Workshop
+Outcomes
+
+Refinement of XKS fingerprints to identify mobile bearers, Samsung and
+Android Marketplace servers
+0 17 XKS fingerprints deployed
+
+Documentation of analytics in CRAFTY SHACK
+
+0 These analytics are now being implemented across the 5 Eyes
+
+Proving the tradecraft actually works!
+
+0 Scenario to test the tradecraft and analytics - Op IRRITANT HORN
+
+r
+
+Op IRRITANT HORN
+Does the tradecraft work?
+
+Another Arab Spring (only this time, different countries)
+
+Goal: identify aggregation points for the mobile networks in
+the countries of interest using the tradecraft developed during
+the workshops
+
+Did it work? YES -> the team was able to identify connections
+from the countries to application and vendor servers in non 5-
+Eyes countries
+
+So what? We found some servers....
+
+0 Potential MiTM
+0 Effects
+
+0 Harvesting data at rest
+0 Harvesting data in transit
+
+TOP SECRET//SI
+
+MiTM - exploit the application server and use it as a MiTM platform for
+handset exploitation
+
+Effects - exploitation of the application servers could make it possible to
+provide selective misinformation to the targets handsets
+
+Harvesting data at rest - exploitation of the applications servers could provide
+access to a wealth of information at rest. The amount and usefulness of this
+information depends on the application in question
+
+Harvesting data in transit - mobile applications servers often send and receive
+data that SIGINT agencies find useful (e.g. the Samsung protocol sending
+client and handset details to a server in Germany)
+
+14
+
+Finding mobile application &
+
+vendor update servers
+
+► II a t; * H v «*	8. i«s
+
+TOP SECRET//SI
+
+The results above are from a tradecraft to find servers of applications and
+vendor updaters servers from given countries, The rationale behind this is to
+identify servers that target within those countries might visit which could be
+exploited by CNE to push a phone implant capability.
+
+The tradecraft relies upon 5 tuple data seen from the mobile gateways from
+target countries and to servers which have matching ‘key words’ in the
+hostname. The results above could then be scoped for CNE to see if they
+would be valid boxes to use an access platform.
+
+Finding mobile application &
+
+vendor update servers
+
+► U a ♦ tf , c* i\ !»'■
+
+The results above are from a tradecraft to find servers of applications and
+vendor updaters servers from given countries, The rationale behind this is to
+identify servers that target within those countries might visit which could be
+exploited by CNE to push a phone implant capability.
+
+The tradecraft relies upon 5 tuple data seen from the mobile gateways from
+target countries and to servers which have matching ‘key words’ in the
+hostname. The results above could then be scoped for CNE to see if they
+would be valid boxes to use an access platform.
+
+16
+
+17
+
+Identifying servers
+
+communicating with an MNO
+
+
+
+18
+
+Profiling mobile application
+
+servers
+
+Q -	“4 —®
+
+Profiling mobile application
+
+servers
+
+• •' J
+
+—---------
+
+Profiling mobile application
+
+servers
+
+CXrt.OVK'
+
+TOP SECRI
+
+Results based on mobile application
+servers seen in CSE collection
+We have a list of the most popular
+smartphones for Warid Congo
+customers and their IMSIs
+
+21
+
+Success Stories
+
+UCWeb mobile browser identification
+Discovered by GCHQ analyst during DSD workshop
+
+Chinese mobile web browser - leaks I MSI, MSISDN,
+I ME I and device characteristics
+
+TOP SECRET//SI
+
+•6*
+
+UC Web
+
+Led to discovery of active comms channel from I
+
+(S//SI//REL TO USA. FVEY) The CONVERGENCE team helped discover an
+active cq
+
+witMhei_________________________________________________________
+
+|as they are knowlTmthnUheU ■hierarchy area of responsibility is
+for covert activities in Europe, North America, and South America. The
+customer^^/^everaged a Convergence Discovery capability that
+enabled the discovery of a covert channel associated with smart phone
+browser activity in passive collection. The covert channel originates from
+users who use UCBrowser (mobile phone compact web browser). The
+covert channel leaks thelMSI^SISDN^evic^Chamcteristics, and
+to	s)
+
+investigation has determined thatoerhao^valware can be associated when
+the covert channel ostaoiisneafU^^^pavetl exfil activity identifies
+
+SIGINT opportunity where potentially none may have existed before. Target
+offices that have access to X-KEYSCORE can search within this type of
+
+nn fhmr [<WI nr IUICI tn rlctor^lnn fsrrjnl nrgegnrn__
+
+
+
+UCWeb - XKS Microplugin
+
+
+
+e
+
+•y
+
+24
+
+Vision of Success
+
+
+
+Shared convergence
+database with numerous
+different sources,
+methods & tradecraft
+feeding into it
+
+Ultimately correlating
+telephony and Internet
+TDIs with some degree
+of confidence
+
+•"«CEis
+
+TOP SECRET//SI
+
+
+
+Synergising Network Analysis
+Tradecraft
+
+Network Tradecraft Advancement Team
+(NTAT)

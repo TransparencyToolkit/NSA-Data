@@ -1,0 +1,38 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+GOPHERSET
+
+ANT Product Data
+
+(TS//SI//REL) GOPHERSET is a software implant for GSM (Global System for
+Mobile communication) subscriber identify module (SIM) cards. This implant pulls
+Phonebook, SMS, and call log information from a target handset and exfiltrates it to
+a user-defined phone number via short message service (SMS).
+
+10/01/08
+
+(U//FOUO) GOPHERSET - Operational Schematic
+
+(TS//SI//REL) Modern SIM cards (Phase 2+) have an application program interface
+known as the SIM Toolkit (STK). The STK has a suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+GOPHERSET uses STK commands to retrieve the requested information and to
+exfiltrate data via SMS. After the GOPHERSET file is compiled, the program is
+loaded onto the SIM card using either a Universal Serial Bus (USB) smartcard
+reader or via over-the-air provisioning. In both cases, keys to the card may be
+required to install the application depending on the service provider's security
+configuration.
+
+Unit Cost: $0
+
+Status: (U//FOUO) Released. Has not been deployed.
+
+POC: U//FOUOI	1 S32222,	^^■^nsa^ov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

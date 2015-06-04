@@ -1,0 +1,43 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+WISTFULTOLL
+
+ANT Product Data
+
+(TS//SI//REL) WISTFULTOLL is a UNITEDRAKE and STRAITBIZZARE plug-in
+used for harvesting and returning forensic information from a target using Windows
+Management Instrumentation (WMI) calls and Registry extractions.
+
+06/20/08
+
+I
+
+I
+
+(TS//SI//REL) This plug-in supports systems running Microsoft Windows 2000,
+2003, and XP.
+
+(TS//SI//REL) Through remote access or interdiction, WISTFULLTOLL is executed
+as either a UNITEDRAKE or STRAITBAZZARE plug-in or as a stand-alone
+executable. If used remotely, the extracted information is sent back to NSA through
+UNITEDRAKE or STRAITBAZZARE. Execution via interdiction may be
+accomplished by non-technical operator though use of a USB thumb drive, where
+extracted information will be saved to that thumb drive.
+
+Status: Released / Deployed. Ready for	Unit Cost: $0
+
+Immediate Delivery
+
+POC:
+
+S32221,
+
+@nsa.ic.qov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

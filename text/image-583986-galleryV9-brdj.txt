@@ -1,0 +1,31 @@
+﻿)
+
+I
+
+TOP SECRET//SI//REL USA, AUS, CAN, GBR, NZL
+
+4 (TS//SI//REL) You will either have results or not have results. The key is to look at the
+SIGAD for the results and if the SIGAD is capable of doing QUANTUM then you most
+likely have a vulnerable target! To check for SIGADs that NSA and GCHQ QUANTUM
+can target, type GO QUANTUM in your browser. If GCHQ QUANTUM is needed, then
+work with your R&T Analyst to follow the appropriate steps on the wiki to set up a PAF.
+
+4 (TS//SI//REL) You will want to look at the Marina results and make note of the most
+frequent SIGAD/IP CIDR for each Active User/Presence (Federated) query
+
+1) Selector
+
+a)	SIGAD
+
+b)	Active User IP CIDR - The CIDR will be added to the TLN’s Whitelist.
+
+-A TLN’s Whitelist is a list containing the IP CIDRs your target uses. It is where the
+
+FOXACID server will only continue with exploitation if the external IP Address of
+the target/redirection is on the Whitelist for the TLN your R&T Analyst requests.
+
+Ur DCCKC I //DI//KCL UOM, HUO, QHI'J, '
+
+"1 SIGINT I Development I Support
+
+14

@@ -1,0 +1,39 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+DROPOUTJEEP
+
+ANT Product Data
+
+(TS//SI//REL) DROPOUTJEEP is a STRAITBIZARRE based software implant for
+the Apple iPhone operating system and uses the CHIMNEYPOOL framework.
+
+DROPOUTJEEP is compliant with the FREEFLOW project, therefore it is supported 10/01/08
+in the TURBULENCE architecture.	,
+
+(U//FOUO) DROPOUTJEEP - Operational Schematic
+
+(TS//SI//REL) DROPOUTJEEP is a software implant for the Apple iPhone that
+utilizes modular mission applications to provide specific SIGINT functionality. This
+functionality includes the ability to remotely push/pull files from the device, SMS
+retrieval, contact list retrieval, voicemail, geolocation, hot mic, camera capture, cell
+tower location, etc. Command, control, and data exfiltration can occur over SMS
+messaging or a GPRS data connection. All communications with the implant will be
+covert and encrypted.
+
+(TS//SI//REL) The initial release of DROPOUTJEEP will focus on installing the
+implant via close access methods. A remote installation capability will be pursued
+for a future release.
+
+Unit Cost: $ 0
+
+Status: (U) In development
+
+POC: U//FOUO	S32222,	j^^B§)nsa^ov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

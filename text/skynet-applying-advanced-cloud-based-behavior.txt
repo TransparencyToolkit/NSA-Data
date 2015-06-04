@@ -1,0 +1,585 @@
+﻿SKYNET: Applying Advanced
+^loud-b^Jteehavior Analytics
+
+i '?$ß
+
+Presenters
+
+m
+
+S2I51
+
+R66F
+
+*
+
+W	: t ' WH^'FromvNSA/eSSM 1452
+
+( -S	■ • • XV . :.' vDated:.20070108
+
+w .	,	;	. ■ ! V	DeclaSsltyOri: 20370401
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+UNCLASSIFIED//FOUO
+
+Outline
+
+What is SKYNET?
+
+DEMONSPIT Data Flow
+Automated Bulk Cloud Analytics
+Analytic Triage
+
+V* •
+
+UNCLASSIFIED//F.OUO:
+
+
+
+
+
+1
+
+
+
+What is SKYNET?
+
+• ; i
+
+Collaborative cloud research effort between 5 different
+organizations crossing 3 NSA Directorates:
+
+-	Signals Intelligence: S2I, S22, SSG
+
+-	Research: R6
+
+-	Technology: T12, T14
+
+Partnerships
+
+-	TMAC/FASTSCOPE
+
+-	MIT Lincoln Labs & Harvard
+
+SKYNET applies complex combinations of geospatial,
+geotemporal, pattern-of-life, and travel analytics to
+bulk DNR data to identify patterns of suspect activity
+
+TOP SECf
+
+CTMMC
+
+NSA/CSS Counterterrorism
+Mission Management Center
+
+Intelligence Update
+
+Rough outline of courier
+path as described by the
+targets
+
+J
+
+Snn ag ¿r
+
+Islamabad*
+
+R .T/v.ilpindi
+
+Sunday
+
+
+
+Probably Faisalabad
+
+Fasalobad >
+
+Lahore
+
+Sunday/Monday
+
+Clitii
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//ORCON/REL- TO USA, AUS, CAN, GBR.'NZL
+
+I
+
+'• I**
+
+' yJs
+
+SKYNET Analytic Questions
+
+Who has traveled from Peshawar to Faisalabad or
+Lahore (and back) in the past month?
+
+•	Who does the traveler call when he arrives?
+
+•	Who else is seen in the area when the traveler arrives, and
+who seen leaving the area shortly afterward?
+
+Who travels to/from Peshawar every other Sunday and
+"somewhere else" on a weekly basis?
+
+Who visits Akora Khattak periodically and also travels
+between Peshawar and Lahore?
+
+Who fits the above travel profiles and also possesses
+unusual behavior:
+
+•	One or two hops from other suspects or known tasked
+selectors
+
+•	Frequent handset swapping or powering down
+
+TOP SECRET//COMFNT//ORCON/REL TO .USA,. AUS, CAN; GBR, NZL
+
+DEMONSPIT is a new dataflow for bulk Call Data Records (CDRs) from
+Pakistan
+
+-	CDRs are being acquired from major PK Telecom providers
+
+Data is normalized through TUSKATTIRE, like all other Call Data Records
+DEMONSPIT data is forwarded by TUSKATTIRE to several Clouds:
+
+-	GMHalo/DPS
+
+•	Promotes records to FASCIA and feeds the SEDB Tower QFD
+
+-	GMPIace & Cloud 14
+
+•	Ingests DEMONSPIT into Sortinglead summaries to support SKYNET
+Analytics
+
+•	Ingests DEMONSPIT into a Perishable QFD which will be available to
+analysts via JEMA and CINEPLEX
+
+-	Bulldozer/MDR2
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+DEMONSPIT
+
+All of the clouds receiving DEMONSPIT data also receive all FASCIA data
+
+TOP SECRET//COMINT//REL TO USA, AUS,:CAN. GB.R„N.Z,L
+
+SECRET//GOMIÑT//REL TO USA AUS, CAN, GBR; NZll ' : • •.
+
+Analysts’ View of DEMONSPIT
+
+
+
+
+
+m ¿HI
+
+¿KJ
+
+TUSKATTIRE
+
+Original
+
+CDRs
+
+Access to ALL DEMONSPIT Data
+
+MAINWAY/SIGNAV
+
+TOWER
+
+QFD
+
+Original
+
+CDRs
+
+ROLLERCOASTER
+
+JEMA
+
+CINEPLEX
+
+Access to CDRs, Analyst Queries,
+& Results of SKYNET Analytics
+
+SMARTTRACKER
+
+R6
+
+CLOUD 14
+
+CDR
+Summaries
+
+SORTINGLEAD
+
+FASCIA
+
+Analyst
+Promoted CDRs
+
+SKYNET & Analyst
+Promoted CDRs
+
+Access to DEMONSPIT FASCIA Promoted Data
+
+
+
+ASSOCIATION
+
+BANYAN
+
+
+
+SECRET//COMINT//REL TO USA, AUS,:ÇÂN, GBR; NZL; ,
+
+
+
+
+
+i
+
+
+
+ON
+
+What is SKYNET?
+
+DEMONSPIT Data Flow
+
+Automated Bulk Cloud Analytics
+Analytic Triage
+
+
+
+TOP SECRET//SI//REL TO USA, FYEY
+
+Cloud Analytic
+
+Building Blocks
+
+Travel Patterns
+
+-	Travel phrases (Locations visited in given timeframe)
+
+-	Regular/repeated visits to locations of interest
+
+•	Behavior-Based Analytics
+
+-	Low use, incoming calls only
+
+-	Excessive SIM or Handset swapping
+
+-	Frequent Detach/Power-down
+
+-	Courier machine learning models
+
+•	Other Enrichments
+
+•	Travel on particular days of the week
+
+•	Co-travelers
+
+•	Similar travel patterns
+
+•	Common contacts
+
+•	Visits to airports
+
+•	Other countries
+
+•	Overnight trips
+
+•	Permanent move
+
+TOP SECRET//SI//REL TO USA, F YE Y .
+
+Sample Travel Report
+Haqqani N etwork
+
+tasked- selector_
+contact- swapping associated
+seed-contacts count num selectors
+
+other
+
+visits_regularly countries phrase
+
+farah AF
+bala_bulk farah
+masow farah
+masow
+nowbahar
+
+
+
+
+
+•	, •,	. »1
+
+TOP SECRET//SI//REL TO USA; FVEY
+
+TOP SECRET//SI//REL TO USA, FVEY .
+
+•	•	•	•	'	* i #	/	*	•
+
+What Suspicious Selectors Were Seen
+Traveling Between Peshawar and Lahore?
+
+Case-Spa fflafi fin vioral Cloud Analytics________Peshawar-Lahore Travel 1-4 NOV 2011
+
+^3 ^  TRAVEL PHRASE	DOW	MSISDN	IMSI	TASKED  CONTACTS	NUM_SELECTOR  ^SWAPPING	ASSOCIATED,  SELECTORS	ACTIVITY,  CATEGORIES
+torkham AF PK peshawar lahore	FRI			2			
+PK peshawar lahore	THU						
+behsud AF jalalabad jalal_abad jalalabad behsud rodat bati_kot mohmand_darah peshawar PK	WED			4	7		
+gtrd PK nowshera gulbahar peshawar sanda_kalan lahore	THU						
+jamrud PK peshawar lahore	TUE		1 10				
+PK peshawar lahore	THU						5-or-f ewer- contacts, sms- and-zero- duration-calls- only, low-use
+
+TOP SECRET//SI//REL JO USA; FVEY:.
+
+UNCLASSIFIED//FOUO
+
+Outline
+
+What is SKYNET?
+
+DEMONSPIT Data Flow
+Automated Bulk Cloud Analytics
+
+Analytic triage
+
+-	SMARTTRACKER
+
+-	RT-RG
+-JEMA
+
+
+
+
+
+U N CLASS IF FED//F.0
+
+(tasked)
+
+IMSIs
+
+Handsets
+
+9VI
+
+TOP SECRET//SI//REL TO USA, FVEY
+
+•	i	*	•.	•	*	* .	«	#	^	• ;
+
+Selectors of Interest
+from Cloud Travel Analytic
+
+i'1 jcry«^îcWAte*.i,‘
+
+Ay
+
+*+ Location: UCell IP|
+
+(11/14/2011 04:27:47)
+
++ Location: UCefl ID
+
+11/20/2011 12:50:04)
+
+(11/20/201112:59:04)
+
+* Location: UCell_ID 410.006.00403.20393
+
+(11/14/201102:19:16)
+
+(11/23/201114:23:55)
+
+(11/21/2011 14:55:37)
+
+4 Location: UCell
+
+11/20 2011 18:34:15)
+
+(11/20/2011 18:34:15)
+
+uHA KHATTAK SUSPECT TERRORIST FACILITY 001
+
+31 *29*2.7713“ N. 75*13*45 1982* E
+
+TOP SECRET//SI//REL TO USA, FVEY	'* : • ;•
+
+SMARTTRACKER Travel View
+
+31 October - 23 November
+
+rr graven?’
+
+Examine travel patterns for common routes and
+meeting locations
+
+- Run cell soaks on all common meeting locations
+during meeting timeframe
+
+Analyze selectors for common contacts
+
+Analyze selectors for handset sharing behavior
+
+Repeat procedure with resulting selectors
+Correlate with other known and suspected selectors
+
+TOP SECRET//SI//REL TO USA; FVEY:	.
+
+• •••	•	# : .	•	i •
+
+TOP SECRET//S
+
+SMART
+
+Sets with 3 targets
+
+SeisjAith_:__t,arrets
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+Select
+
+i /7i—> i— i -rr\ i i o a i—\/i—v/.
+
+nee Keport
+
+Who
+
+Coincidence Count
+
+1 at 1 location
+
+101 at 16 locations
+
+91 at 20 locations
+
+39 at 24 locations
+
+37 at 12 locations
+
+33 at 12 locations
+
+31 at 12 locations
+
+24 at 11 locations
+
+1 at 1 location
+
+1 at 1 location
+
+1 at 1 location
+
+l//KfcUI U USA; rVbY-. ■ .
+
+•	.	:	•	/	f «
+
+	—				
+					
+					
+		1			
+		[		~	~
+
+1	T			
+		.1	L	D
+				
+JJ		IE	in	
+
+TOP SECRET//SI//REL TO USA; EVEY:
+
+TOP SECRET//SI//REL TO USA, F YE Y .
+
+RT-RG Analytics
+
+Meetings - who is at the same ucellid at the
+same time as the potential courier at the
+destination city?...Multiple times.
+
+Sidekicks - is there a pair traveling together to the
+
+destination city?
+
+TOP SECRET//SI//REL TO USA; FVEY:
+
+stçyg/T?
+
+TOP SECRET//SI//REL TO USA, FVEY .	' • •	'!
+
+JEMA: Pulling It All Together
+
+AOI
+
+Movement
+
+Irregularity
+
+Destination Cities
+
+Start/end points
+
+AOIs
+
+Dates
+
+Travel Reports
+
+Human in the loop
+to analyze travel
+reports.
+
+Meetings
+
+Evaluate,
+add value,
+prioritize
+
+Are selectors seen meeting at
+destination consistently?
+
+Sidekicks
+
+Does Sidekick selector have
+call events?
+
+siCUft/F
+
+SKYNET WIKI
+
+https:/,
+
+THANK YOU!
+
+Y '	£		%
+.J	sf		m
+			
+
+		
+	HTd\	
+¡:r-T—\ ; ^	J		
+		

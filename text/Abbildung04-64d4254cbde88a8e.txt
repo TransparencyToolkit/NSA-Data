@@ -1,0 +1,18 @@
+﻿Ports
+
+Pulls back hostname, banners,
+application names and port status
+Gathers additional information for.
+
+-21 (ftp):	directory listing
+
+- 80 (http):	content of main page
+
+-	443 (https): content of main page
+
+-	111 (rpc):	results of rpcinfo
+
+Q/\C=
+
+UK TOP SECRET STRAP1
+TOP SECRET//COMINT//REL FVEY

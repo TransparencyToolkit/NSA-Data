@@ -1,0 +1,114 @@
+﻿SECRET//COMINT//REL TO USA, FVEY
+
+*
+
+■blip
+
+MÄ&
+
+PICASSO
+
+GSM HANDSET
+
+(S//SI//REL) Modified GSM (target) handset that collects user data, location
+information and room audio. Command and data exfil is done from a laptop and
+regular phone via SMS - (Short Messaging Service), without alerting the target.
+
+06/20/08
+
+(S//SI) Target Data via SMS:
+
+•	Incoming call numbers
+
+•	Outgoing call numbers
+
+•	Recently registered networks
+
+•	Recent Location Area Codes (LAC)
+•Cell power and Timing Advance
+information (GEO)
+
+•Recently Assigned TMSI, IMSI
+•Recent network authentication
+challenge responses
+
+•	Recent successful PINs entered into
+the phone during the power-on cycle
+•SW version of PICASSO implant
+
+•' Hot-mic’ to collect Room Audio
+
+•	Panic Button sequence (sends location
+information to an LP Operator)
+
+•	Send Targeting Information (i.e.
+current IMSI and phone number when it
+is turned on - in case the SIM has just
+been switched).
+
+•Block call to deny target service.
+
+GSM Network
+
+i
+
+<S3Sc2>
+
+Control l *c*op end
+Normal Phom
+
+income* C*i H.trtoect
+Ou*gcog Cel Nuafeer»
+
+LAC*
+
+Cel Ro«««
+
+Recant TVS»» M IMS!»
+Nafaortt A»«r*'fe:aton
+
+Roc*** SuccttiV P«»
+CASSO SMTVMon
+
+(S//SI//REL) Handset
+Options
+
+•Eastcom 760c+
+
+•Samsung E600, X450
+•Samsung C140
+
+•(with Arabic keypadflanguage option)
+
+(S//SI) PICASSO Operational Concept
+
+(S//SI//REL) Uses include asset
+validation and tracking and target
+templating. Phone can be hot
+mic’d and has a “Panic Button”
+key sequence for the witting user.
+
+Status: 2 weeks ARO (10 or less)
+Unit Cost: approx $2000
+
+ftOHEAOO I
+
+co reo c«
+
+i
+
+i
+
+POC:|
+
+S32242,
+
+nsa.ic.gov
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108
+
+SECRET//COMINT//REL TO USA, FVEY

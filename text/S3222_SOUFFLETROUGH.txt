@@ -1,0 +1,59 @@
+﻿*
+
+-A-,
+
+Ôl*
+
+w
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+SOUFFLETROUGH
+
+ANT Product Data
+
+(TS//SI//REL) SOUFFLETROUGH is a BIOS persistence implant for Juniper SSG
+500 and SSG 300 series firewalls. It persists DNT’s BANANAGLEE software
+implant. SOUFFLETROUGH also has an advanced persistent back-door capability.
+
+06/24/08
+
+(TS//SI//REL) SOUFFLETROUGH Persistence Implant Concept of Operations
+
+(TS//SI//REL) SOUFFLETROUGH is a BIOS persistence implant for Juniper SSG
+500 and SSG 300 series firewalls {320M, 350M, 520, 550, 520M, 550M}. It persists
+DNT’s BANANAGLEE software implant and modifies the Juniper firewall’s operating
+system (ScreenOS) at boot time. If BANANAGLEE support is not available for the
+booting operating system, it can install a Persistent Backdoor (PBD) designed to
+work with BANANAGLEE’s communications structure, so that full access can be
+reacquired at a later time. It takes advantage of Intel’s System Management Mode
+for enhanced reliability and covertness. The PBD is also able to beacon home, and
+is fully configurable.
+
+(TS//SI//REL) A typical SOUFFLETROUGH deployment on a target firewall with an
+exfiltration path to the Remote Operations Center (ROC) is shown above.
+SOUFFLETROUGH is remotely upgradeable and is also remotely installable
+provided BANANAGLEE is already on the firewall of interest.
+
+Status: (C//REL) Released. Has been deployed. There are no
+availability restrictions preventing ongoing deployments.
+
+i
+
+i
+
+POC:
+
+S32222,
+
+»nsa.ic.qov
+
+Unit Cost: $0
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

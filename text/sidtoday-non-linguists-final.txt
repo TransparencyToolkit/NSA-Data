@@ -1,0 +1,42 @@
+﻿(U//FOUO) Coming Soon! A Tool that Enables Non-Linguists to Analyze Foreign-TV News
+______________________ Programs
+
+FROM:
+
+Center for Time-Sensitive Information (S2413)
+
+Run Date: 10/23/2008
+
+(U//FOUO) Have you ever wanted to use foreign-TV news broadcasts to enhance your SIGINT, but
+couldn't because you didn't understand the language? Soon you can! It is currently only available to
+NSOC Desk Officers until logistical issues are resolved. However, the goal is to migrate Enhanced
+Video Text and Audio Processing (eViTAP) into other areas. Additional information regarding how
+to get accounts will be announced in the coming year, so stay tuned.
+
+(U//FOUO) EViTAP is a fully-auto mated news monitoring tool. The key feature of this Intelink-
+SBU-hosted tool is that it analyzes news in six languages, including Arabic, Mandarin Chinese,
+Russian, Spanish, English, and Farsi/Persian. "How does it work?" you may ask. It integrates
+Automatic Speech Recognition (ASR) which provides transcripts of the spoken audio. Next,
+machine translation of the ASR transcript translates the native language transcript to English. Voila!
+Technology is amazing.
+
+(U//FOUO) Figure 1: Example of video, native language transcript and English translation
+
+(U//FOUO) This all sounds wonderful, but is it easy to use? Absolutely! EViTAP has an intuitive
+and easy to use browser-based interface. The User Guide includes everything you need to
+successfully use the tool. It is perfect for the analyst who usually prefers classroom over manual
+instruction. The interface provides advanced search and retrieval capabilities, real-time fully
+automated alerting, ability to create clips from videos, ability to edit transcripts and translations,
+ability to export video and transcripts to PowerPoint, XML and text formats, and much more.
+
+(U//FOUO) EViTAP's capabilities are far reaching, and go beyond the scope of this article, but it is
+clear that this tool can significantly enhance SIGINT analysis and reporting. Open Source is
+becoming more significant in the Intelligence Community, and eViTAP is an open source resource
+that can play a big role in enabling SIGINT prosecution.
+
+(U//FOUO) Want to learn more about eViTAP or other open source resources? Simply type "go
+AIRS" in your browser window and explore the information there. AIRS, Advanced Intelligence
+Research Services, provides a multitude of open source and all collateral products and services.
+EViTAP is a new open source tool AIRS introduced at NS A.
+
+(U//FOUO) POC:

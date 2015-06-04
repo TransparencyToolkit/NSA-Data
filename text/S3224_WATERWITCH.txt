@@ -1,0 +1,55 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+WATERWITCH
+
+Handheld Finishing Tool
+
+(S//SI) Hand held finishing tool used for geolocating targeted handsets
+in the field.
+
+07/30/08
+
+(S//SI) Features:
+
+•	Split display/controller for
+flexible deployment
+capability
+
+•	External antenna for DFing
+target; internal antenna for
+communication with active
+interrogator
+
+•	Multiple technology
+capability based on SDR (s//si) waterwitch Handset df set
+
+Platform; currently UMTS, with GSM and CDMA2000 under
+development
+
+•	Approximate size 3” x 7.5” x 1.25” (radio), 2.5” x 5” x 0.75”
+(display); radio shrink in planning stages
+
+•	Display uses E-Ink technology for low light emissions
+
+(S//SI) Tactical Operators use WATERWITCH to locate
+handsets (last mile) where handset is connected to Typhon or
+similar equipment interrogator. WATERWITCH emits tone and
+gives signal strength of target handset. Directional antenna on
+unit allows operator to locate specific handset.
+
+I
+
+I
+
+Status: Under Development. Available FY-2008 Unit Cost:
+LRIP Production due August 2008
+
+POC:|	I.S32242, |	|, I B@)nsa.ic.qov
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

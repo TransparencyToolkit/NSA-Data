@@ -1,0 +1,17 @@
+﻿What is HACIENDA?
+
+•	Data reconnaissance tool developed by
+the CITD team in JTRIG
+
+•	Port Scans entire countries
+
+-	Uses nmap as port scanning tool
+
+-	Uses GEOFUSION for IP Geolocation
+
+-	Randomly scans every IP identified for that
+country
+
+UK TOP SECRET STRAP1
+TOP SECRET//COMINT//REL FVEY
+

@@ -1,0 +1,15 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Web Client/Server
+
+=> Client initiates request, then server replies
+=> TCP socket:
+
+=• Client: TCP SYN
+- Server: TCP SYN/ACK
+=> HTTP 1.1 Persistent Connection
+=■ Client: HTTP GET1
+=■ Server: HTTP Responsel
+
+=> Client: HTTP GET2
+=■ Server: HTTP Response2

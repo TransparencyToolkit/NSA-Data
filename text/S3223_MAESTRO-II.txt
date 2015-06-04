@@ -1,0 +1,41 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+MAESTRO-II
+
+ANT Product Data
+
+(TS//SI//REL) MAESTRO-II is a miniaturized digital core packaged in a Multi-Chip Module
+(MCM) to be used in implants with size constraining concealments.
+
+08/05/08
+
+(TS//SI//REL) MAESTRO-II uses the TAO standard implant architecture. The architecture
+provides a robust, reconfigurable, standard digital platform resulting in a dramatic
+performance improvement over the obsolete HC12 microcontroller based designs. A
+development Printed Circuit Board (PCB) using packaged parts has been developed and is
+available as the standard platform. The MAESTRO-II Multi-Chip-Module (MCM) contains an
+ARM7 microcontroller, FPGA, Flash and SDRAM memories.
+
+uController	Flash	SDRAM	FPGA
+ARM 7 66 Mhz	AT49BV322A 4 MBytes	MT48LC2M32 8 MBytes	XC2V500 500k gates
+
+*dd*JfU*dotiUlrvvt MAESTRO
+
+Status: Available - On The Shelf
+
+Unit Cost: S3-4K
+
+POC:
+
+ALT POC:
+
+!, S3223,
+, S3223,
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

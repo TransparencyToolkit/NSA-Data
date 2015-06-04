@@ -1,0 +1,6 @@
+﻿Metadata:
+
+• At the moment OPTIC NERVE’S data supply (run by B13) does not select but
+simply collects in bulk, and as a trade-off only collects an image every 5 minutes.
+It would be helpful to incorporate selection and collect images at a faster rate
+(all?) for targets. CS to find out from B13 if this is feasible.

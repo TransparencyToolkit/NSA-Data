@@ -100,7 +100,7 @@ class FeedParser
     paths.each do |p|
       text += p+": \n" if paths.length > 1
       begin
-        text += File.read("../text/"+p.gsub(".pdf", ".txt").gsub(".jpg", ".txt"))
+        text += File.read("../text/"+p.gsub(".pdf", ".txt").gsub(".jpg", ".txt").gsub(".png", ".txt"))
       rescue
       end
     end  

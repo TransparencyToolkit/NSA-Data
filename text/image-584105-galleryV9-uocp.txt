@@ -1,0 +1,14 @@
+﻿QUANTUM INSERT: racing
+tta&server
+
+-	Wait for client to initiate new connection
+
+-	Observe server-to-client TCP SYN/ACK
+-Shoot! (HTTP Payload)
+
+-	Hope to beat server-to-client HTTP Response
+- The Challenge:
+
+-	Can only win the race on some links/targets
+
+-	For many links/targets: too slow to win the race!

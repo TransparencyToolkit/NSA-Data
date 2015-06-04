@@ -1,0 +1,78 @@
+﻿TOP SECRET//COMINT//REL USA, FVEY
+
+FEEDTROUGH
+
+ANT Product Data
+
+(TS//SI//REL) FEEDTROUGH is a persistence technique for two software implants, DNT’s
+BANANAGLEE and CES’s ZESTYLEAK used against Juniper Netscreen firewalls.
+
+06/24/08
+
+Command Control, and Data Exfiltration using
+DNT Implant Communications Protocol (typical)
+
+«	
+	
+PC	
+	
+«	
+	
+FC	
+	
+PC	
+	
+M	
+	
+PC	
+
+Typical Target
+Firewall or Router
+
+MPU/CPU			
+I	Operating System		
+		Sfitem BIOS	
+			PERSISTING!  IMPLANT ONT payU»<
+
+NSA
+
+Remote Operations Center
+
+Target Network
+
+(S//SI//REL) Persistence Operational Scenario
+
+»
+
+(TS//SI//REL) FEEDTROUGH can be used to persist two implants, ZESTYLEAK and/or
+BANANAGLEE across reboots and software upgrades on known and covered OS’s for the
+following Netscreen firewalls, ns5xt, ns25, ns50, ns200, ns500 and ISG 1000. There is no
+direct communication to or from FEEDTROUGH, but if present, the BANANAGLEE implant
+can receive and transmit covert channel comms, and for certain platforms, BANANAGLEE
+can also update FEEDTROUGH. FEEDTROUGH however can only persist OS’s included
+in it’s databases. Therefore this is best employed with known OS’s and if a new OS comes
+out. then the customer would need to add this OS to the FEEDTROUGH database for that
+particular firewall.
+
+(TS//SI//REL) FEEDTROUGH operates every time the particular Juniper firewall boots. The
+first hook takes it to the code which checks to see if the OS is in the database, if it is, then a
+chain of events ensures the installation of either one or both implants. Otherwise the firewall
+boots normally. If the OS is one modified by DNT, it is not recognized, which gives the
+customer freedom to field new software.
+
+Status: (S//SI//REL) FEEDTROUGH has on the shelf solutions for all of the listed platforms.
+It has been deployed on many target platforms
+
+POC:
+
+S32222,
+
+nsa.ic.gov
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL USA, FVEY

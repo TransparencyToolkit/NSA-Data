@@ -1,0 +1,28 @@
+﻿TOP SECRET//COMINT//REL TO USA. FVEY
+
+Web Browsing (Exploit with QUANTUM
+
+• The concept	man-on-the-side)
+
+•	QUANTUM is a man-on-the-side capability. If your target has a selector
+that is active in the last 14 days, vulnerable to the QUANTUM technique,
+and seen by an SSO site that has QUANTUM capabilities, then there might
+be the opportunity to detect that communication in real-time and piggy
+back with the requested content back into the target's network and
+implant the host.
+
+•	QUANTUMTHEORY can be used only if a TAO Project is set up (must
+coordinate with your R&T Analyst)
+
+•	QUANTUM NATION can be used regardless of a TAO Project (TOPI does the
+tasking in Target Profiler)
+
+•	The biggest difference is QUANTUMTHEORY deploys a stagel implant
+called VALIDATOR (soon to be COMMONDEER) and QUANTUM NATION
+deploys a stageO implant called SEASONEDMOTH (5MOTH). SMOTHs die
+within 30 days of deployment unless requested to extend the life. The
+exploit technique is the same.
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+^s

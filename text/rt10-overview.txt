@@ -1,0 +1,359 @@
+﻿RT10 Overview
+
+June 2006
+
+TOPSECRET//COMINT//20291123
+
+TOPSECRET//COMINT//20291123
+
+Current Challenges - Why Innovate?
+
+►	Network is converging and dataflow is increasing
+
+►	Pushing everything back means front-end filtering -> dropped data
+
+►	Substantial lag to process, store, and query data
+
+►	Restricted geo-spatial capabilities (not just because of the hardware)
+
+►	Manual correlation between SIGINT, HUMINT, SIGACTs
+
+►	Non-integrated toolsets
+
+►	No comprehensive theater knowledge base
+
+►	Non-optimal collaboration between analysts
+
+►	Manually intensive production processes
+
+►	Cannot scale / work targets in volume
+
+►	Reaching limits of legacy systems
+
+►	Analysis takes a lot of time
+
+Think: Atlantic Monthly vs. CNN scrolling bar
+
+RT-10 Goals
+
+TOPSECRET//COMINT//20291123
+
+J
+
+► Overall Objective: Order of magnitude improvements in real-time SIGINT
+architecture for the U.S. Cryptologic System, initially focused on national
+and tactical intelligence in Baghdad, to enable better decisions in less time
+
+► Providing:
+
+■	Access to more comprehensive data
+
+■	Immediate access to local data sets, with query back to NSAW
+
+■	Integrated Analytic Workflow, with better tools
+
+■	Real time Alerting: National and Tactical
+
+■	Automation of tasks -> Query to Dissemination
+
+■	Distributed Analytic Collaboration
+
+■	Scalability
+
+■	Integration across brigade-level
+SIGINT capabilities
+
+TOPSECRET//COMINT//20291123
+
+Tools and Workflow
+
+TOPSECRET//COMINT//20291123
+
+►	Better Tools
+
+■	New relationship visualization w/temporal capabilities
+
+■	Real-time geo-spatial alerting framework
+
+■	Web-based applications optimized for speed in a
+distributed environment
+
+■	Partnership with Green Dragon to identify and inject new
+COTS/GOTS technologies in much less time
+
+►	Integrated Framework
+
+■	Work in any tool of choice, seamlessly switch to
+alternative views (think development -> presentation)
+
+■	Automated, one-click mentality from query to
+dissemination
+
+■	Developers available to react to analyst needs and inject
+new capabilities
+
+TOPSECRET//COMINT//20291123
+
+Substantial Improvements in Data Access
+
+►	Initial
+
+■	Traditional Data Sources (Global Reach touching NSA databases)
+
+■	SCS GSM collection
+
+■	Tactical GSM Accesses
+
+■	Checkpoint Data
+
+■	HUMINT /All-Source derived SIGINT Selectors (parsed ClATDs,
+DOD NRs, TAREX, DOCEX)
+
+■	Local knowledge base
+
+►	Future
+
+■	Fully-integrated Iraqi DNI Dataflows (initially accessible through
+separate web interface)
+
+■	OBELISK / LETC GSM Coverage
+
+■	WISPYKNIT, VICTORYUNIFORM and other special source
+
+Think: Know everything we collectively know, and faster
+
+TOPSECRET//COMINT//20291123
+
+VoiceRT: Index / Search of Voice Cuts
+
+►	Goal: Better filtering and selection using latest generation of voice-
+processing technologies
+
+■	Perform phonetic indexing on 1 million voice cuts per day
+
+■	Run incoming cuts against 1000 individual voice prints to drive real-
+time filtering and selection
+
+■	Optimizes linguist scarce time, does not replace linguists
+
+►	Increases efficiency of available linguists
+
+►	Allows analysts to affect collection priorities and react to changing
+linguistic / word patterns
+
+►	Possible future integration with checkpoint collection (voice /
+biometrics)
+
+TOPSECRET//COMINT//20291123
+
+TOPSECRET//COMINT//20291123
+
+Real time Alerting: National and Tactical
+
+►	Real-time alerting on hard selectors
+
+■	Creating a knowledge base within the collection architecture
+
+■	Drives selection and filtering
+
+■	Provides relevant information to war fighter in seconds
+
+►	Algorithms to Detect and Alert from Patterns of Interest
+
+■	Constant enrichment of incoming data flows based on NSA and
+GCHQ-developed algorithms
+
+■	Robust framework to allow analysts to submit / modify / reject existing
+techniques
+
+■	Capability to extend algorithms to correlate and react to friendly
+actions, geospatial and geotemporal vicinity, etc.
+
+Dedicated effort to identify and detect new potential targets based
+
+on known behavioral patterns
+
+Automation of Standard Tasks
+
+TOPSECRET//COMINT//20291123
+
+►	One-Click Report Generation
+
+■	Chaining diagram
+
+■	Products containing target
+
+■	Frequent calling list
+
+■	Temporal trends
+
+■	Geospatial trends
+
+►	One-Click Alert-to-Analysis
+
+■	Alerting framework fully integrated with analytical toolsets
+
+■	Geospatial / Temporal / Network views of data
+
+►	One-Click Analyst Actions
+
+■	Drive collection through interface to EDB / Keycard
+
+■	Effortlessly affect knowledge base confidence / details
+
+TOPSECRET//COMINT//20291123
+
+Checkpoints
+
+►	Provide advanced sensors to generate checkpoint
+metadata:
+
+■	Active cell phone interrogation
+
+■	Active RF Illumination: goal to fingerprint vehicles,
+identify threats (artillery shells, ammunition, gun barrels,
+electronic triggers)
+
+■	360 degree imagery
+
+■	Chemical and radiological detectors
+
+►	Fed real time to tip and cue other Ints
+
+►	Proof of concept in vicinity of BIAP, tentatively
+checkpoint 538 on Route Irish
+
+►	Operational test, tentatively checkpoint 502 near Abu
+Ghurayb
+
+TOPSECRET//COMINT//20291123
+
+Implementation
+
+►	Construct the JIOC-I “SIGINT Brain”
+
+■	Distributed Databases in Baghdad and Ft Meade
+
+■	Aggregate Metadata from tactical and national collection, focusing on GSM for initial efforts
+
+■	Massive data flows: 50 MIIiion+ GSM metadata events / day
+
+■	Content access from all possible collectors
+
+■	Integration: “Know what we know”
+
+►	Timeline
+
+■	End June - Initial site surveys, theater coordination
+
+■	15 July - Hardware Ships
+
+■	1 August - Hardware Arrives, People begin arrving
+
+■	15 August - System Online
+
+■	31 August - Data Flowing
+
+■	15 September-IOC
+
+TOPSHCRET//COMINT//20291123
+
+Achieving Success with Spins
+
+TOPSECRET//COMINT//20291123
+
+► Spin Methodology:
+
+■	Iterative activity consisting of a series of spins
+
+■	Each 90-day spin expands capability
+
+■	Demonstration of integrated capabilities
+
+■	Application of new and existing technologies
+
+■	Make discoveries and apply lessons learned to future spins
+
+TOPSECRET//COMINT//20291123
+
+RT10 Spin Schedule
+
+Spin 1: August 2006
+
+■	System Installed
+
+■	JUGGERNAUT Data
+
+■	Initial Software Testing
+Spin 2: Nov 2006
+
+■	Demonstration of integrated capabilities
+
+■	Cable / FORNSAT Integration
+
+■	Enhance Checkpoint Capability
+
+■	Analyst-Identified Areas of Improvement
+Spin 3: Jan 2007
+
+■	Analyst-Driven Modifications
+
+■	Next-Generation Analytical Tools
+
+TOPSECRET//COMINT//20291123
+
+TOPSECRET//COMINT//20291123
+
+TOPSECRET//COMINT//20291123
+
+RT10 Line of Sight Microwave Network
+
+Wi-Max, Mesh, NSAnet Connectivity
+
+RT10 Analytic Nodes
+
+TOPSECRET//COMINT//20291123
+
+►Iraq
+
+►MOC
+
+► NSA Product Lines
+►NSA-G
+
+►COBRA FOCUS
+
+TOPSECRET//COMINT//20291123
+
+TOPSECRET//COMINT//20291123
+
+GSM Architecture & Access Points
+
+Primary National-level
+—7 Targeting Points
+
+JUG] MSC
+
+BSC
+
+A
+
+Link
+
+[ G-Box ]
+
+Air Interface
+
+[DRT]
+
+Matterhorn
+
+Abis
+
+Interface
+
+[OBELISK]
+
+GMSC
+
+TOP SECRET//SI//X1

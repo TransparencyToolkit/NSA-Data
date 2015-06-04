@@ -1,0 +1,56 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+SURLYSPAWN
+
+ANT Product Data
+
+(TS//SI//REL TO USA,FVEY) Data RF retro-reflector. Provides return
+modulated with target data (keyboard, low data rate digital device) when
+illuminated with radar.
+
+(U) Capabilities
+
+(TS//SI//REL TO USA,FVEY) SURLYSPAWN
+has the capability to gather keystrokes without
+requiring any software running on the targeted
+system. It also only requires that the targeted
+system be touched once. The retro-reflector is
+compatible with both USB and PS/2 keyboards.
+
+The simplicity of the design allows the form
+factor to be tailored for specific operational
+requirements. Future capabilities will include
+laptop keyboards.
+
+(U) Concept of Operation
+
+(TS//SI//REL TO USA,FVEY) The board taps into the data line from the
+keyboard to the processor. The board generates a square wave oscillating at
+a preset frequency. The data-line signal is used to shift the square wave
+frequency higher or lower, depending on the level of the data-line signal. The
+square wave, in essence, becomes frequency shift keyed (FSK). When the
+unit is illuminated by a CW signal from a nearby radar, the illuminating signal
+is amplitude-modulated (AM) with this square wave. The signal is re-radiated,
+where it is received by the radar, demodulated, and the demodulated signal is
+processed to recover the keystrokes. SURLYSPAWN is part of the
+ANGRYNEIGHBOR family of radar retro-reflectors.
+
+07 Apr 2009
+
+i
+
+i
+
+Unit Cost: $30
+
+Status: End processing still in development
+
+POC: I	I, S32243,1 I, I Bg)nsa.ic.qov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

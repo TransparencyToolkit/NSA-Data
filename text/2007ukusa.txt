@@ -1,0 +1,29 @@
+﻿(S//SI//REL) SID Analysts Can Now Unminimize Incidentally Collected UK Contact Identifiers
+
+SIGINT Policy (S02L1)
+
+Run Date: 05/16/2007
+
+(S//SI//REL) SIGINT Policy (S02L1) and the UK Liaison Office here at NSAW worked together to come up with a new policy that expands the use of
+incidentally collected unminimized UK data in SIGINT analysis. The new policy expands the previous memo issued in 2004 that only allowed the
+unminimizing of incidentally collected UK phone numbers for use in analysis. Now SID analysts can unminimize all incidentally collected UK contact
+identifiers, including IP and email addresses, fax and cell phone numbers, for use in analysis. Analysts:
+
+•	(S//SI//REL) Are authorized to unmask UK contact identifiers resulting from incidental collection. Incidental collection is defined as foreign com
+munications collected/selected incidental to the original SIGINT task.
+
+•	(S//SI//REL) May utilize the UK contact identifiers in SIGINT development contact chaining analysis. The UK contact identifiers will not be the
+primary subject of SIGINT collection or analysis other than contact chaining except under existing authorization procedures.
+
+•	(S//SI//REL) Will not deliberately collect against nor target UK contact identifiers for content unless so authorized.
+
+•	(S//SI//REL) Will continue to minimize UK contact identifiers in any SIGINT product/service to include the dissemination of SIGINT metadata
+provided for foreign intelligence purposes in accordance with existing policy and procedures.
+
+•	(S//SI//REL) May retain unminimized UK contact identifiers incidentally collected under this authority within content and metadata stores and
+provided to follow-on USSS (US SIGINT System) applications.
+
+•	(S//SI//REL) Are not required to forward unmasked UK contact identifiers to GCHQ unless specifically requested by GCHQ. GCHQ should
+
+receive all unmasked UK contact identifiers via established or mutually agreed forwarding means or the contact identifiers should be available in
+the GCHQ-accessible 5-eyes	database, the	access to	or other GCHQ- accessible metadata stores.

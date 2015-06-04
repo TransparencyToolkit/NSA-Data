@@ -1,0 +1,123 @@
+﻿sêÇUmfp
+
+\V1RESHARK
+
+OQQO
+
+0010
+
+c'matter
+
+iWvnloai
+
+Reconnaissance
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Reconnaissance
+
+* «
+
+Session i
+
+-
+
+Tula system is auAed rot USSIO 18 and I luman Rlqfits Act compliance
+
+CLASSiriCATIOft TOP SCCREUSIflRCL TO USA. AUS. CAN. GBR. NZL
+
+X KCYSCORC C2C Session Viewer
+
+Datetirra
+
+2012-05-16 13:03:20
+
+Case Notation
+
+2CBA600000M0210
+
+From IP
+
+To IP
+
+From Pert To Port Protocol
+
+01701	01701 iemp
+
+Session i tearter <3) Meta (7) GOESIS Center's (l)
+
+Enter text to search
+
+Quick Clinks
+
+Session
+
+|aîK
+
+One-Click Searches
+
+F td fmgsfErint
+
+selector/cadence/task.
+ucp/:unnel/lpv4-
+netmaragement/icmp/e
+P.rtd trains on
+
+Find application
+
+netmaragement/iemp
+
+Internet Protocol, Sre: 8.8.8.9 (8.8.6.8), Dot: 192.168.0.83 1102.168.0.83|
+
+Version: 4
+
+Header length: 20 bytes
+
+Differentiated Services ?leld: CxOC |DSCP 0x00: Default; ECU: 0x00)
+0000 00.. = Differentiated Services Codepolnt: Default (0x001
+
+........0. = ECU-Capable Transport (SCT) : 0
+
+........0 = ECX-CE: 0
+
+Total length: 60
+Identification: Ox2d3c .11580
+rings: 0x00
+
+0... = Reserved bit: Bot set
+.0.. = Don't fragment: hot sec
+..0. = Xore fragments: Xct sec
+Tragwent offset: 0
+Tine to live: 51
+Protocol: ICMP (0x01)
+
+Header checksum: 0x897a [correct]
+
+[Good: True]
+
+[Bad : Palse]
+
+Source: 8.8.8.8 (8.8.8.81
+
+Destination: 192.158.0.83 (1S2.168.0.83)
+
+Internet Control Message Protocol
+Type: 0 |Echo Iplng} reply)
+
+Code: 0 ||
+
+Checksum: Ox52ec [correct]
+
+Identifier: 0x0001
+
+Sequence nurbec: 623 (Gx026f]
+
+Data |32 bytes)
+
+61 62 63 64 65 65 67 68 69 6a 6b 6c 6d 6e 6f 70
+71 72 73 74 75 76 77 61 62 63 64 65 66 67 68 69
+
+abodefghijklmnop
+qrstuwrabcdefcthl
+
+TOP SECRET//C0MINT//REL TO USA, AUS, CAN, GBR, NZL

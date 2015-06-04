@@ -1,0 +1,56 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+NIGHTSTAND
+
+Wireless Exploitation / Injection Tool
+
+(TS//SI//REL) An active 802.11 wireless exploitation and injection tool for
+payload/exploit delivery into otherwise denied target space. NIGHTSTAND is
+typically used in operations where wired access to the target is not possible.
+
+(TS//SI//REL) NIGHTSTAND - Close Access Operations •
+Battlefield Tested • Windows Exploitation • Standalone System
+
+System Details
+
+>	(U//FOUO) Standalone tool currently
+running on an x86 laptop loaded with
+Linux Fedora Core 3.
+
+>	(TS//SI//REL) Exploitable Targets
+include Win2k, WinXP, WinXPSPl,
+WINXPSP2 running internet Explorer
+versions 5.0-6.0.
+
+>	(TS//SI//REL) NS packet injection can
+target one client or multiple targets on a
+wireless network.
+
+>	(TS//SI//REL) Attack is undetectable by
+the user.
+
+NIGHTSTAND Hardware
+
+(TS//SI//REL) Use of external amplifiers and antennas in both
+experimental and operational scenarios have resulted in successful
+NIGHTSTAND attacks from as far away as eight miles under ideal
+environmental conditions.
+
+I
+
+I
+
+Unit Cost: Varies from platform to platform
+
+Status: Product has been deployed in the field. Upgrades to the system continue to
+be developed.
+
+POC: ¡¡^^■1, S32242,	| [5)nsa.ic.aov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

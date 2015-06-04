@@ -1,0 +1,23 @@
+﻿Abstract
+
+(TS//SI//REL) The goal of forward-based defense is to detect and mitigate malicious
+threats in real-time, as close to the source as possible. It is part of a layered defense
+strategy with four concentric zones: endpoint-, perimeter-, aggregation-, and forward-
+based defenses. The QUANTUMTHEORY mission leverages NSA's vast system of
+distributed passive sensors to detect target traffic and tip a centralized
+command/control node. This node assesses the tip and injects a response towards the
+target using active TAO assets.
+
+(TS//SI//REL) Extremely powerful CNE/CND/CNA network effects are enabled by
+integrating our passive and active systems:
+resetting connections
+redirecting targets for exploitation
+* taking control of IRC bots
+" corrupting file uploads/downloads
+= More'.
+
+(TS//SI//REL) The success rate of these effects is largely determined by the latency
+from tip-to-target. OFIRE is a consolidated QUANTUMTHEORY platform under
+development that reduces latencies by co-locating (1) existing passive sensors with (2)
+local decision resolution, and (3) the ability to locally inject traffic to achieve the
+desired network effect.

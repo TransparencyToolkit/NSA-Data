@@ -1,0 +1,54 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+GINSU
+
+ANT Product Data
+
+(TS//SI//REL) GINSU provides software application persistence for the ONE implant,
+KONGUR, on target systems with the PCI bus hardware implant, BULLDOZER.
+
+06/20/08
+
+OMNIGAT
+
+Transmitter/
+
+Receiver
+
+KONGUR-Implanied
+Computer on Network B'
+
+KONGUR-Implanted
+Computer on Network A'
+
+BULLDOZER-tmplanted
+Computer on Network A'
+
+(TS//SI//REL) GINSU Extended Concept of Operations
+
+t
+
+I
+
+(TS//SI/REL) This technique supports any desktop PC system that contains at least
+one PCI connector (for BULLDOZER installation) and Microsoft Windows 9x, 2000,
+2003, XP, or Vista.
+
+(TS//SI//REL) Through interdiction, BULLDOZER is installed in the target system as
+a PCI bus hardware implant. After fielding, if KONGUR is removed from the system
+as a result of an operating system upgrade or reinstall, GINSU can be set to trigger
+on the next reboot of the system to restore the software implant.
+
+Status: Released / Deployed. Ready for	Unit Cost: $0
+
+Immediate Delivery
+
+POC:	. S32221,	(5)nsa.ic.gov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

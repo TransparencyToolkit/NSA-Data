@@ -1,0 +1,37 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+HALLUXWATER
+
+ANT Product Data
+
+(TS//SI//REL) The HALLUXWATER Persistence Back Door implant is installed on a
+target Huawei Eudemon firewall as a boot ROM upgrade. When the target reboots,
+the PBD installer software will find the needed patch points and install the back door
+in the inbound packet processing routine.
+
+06/24/08
+
+i
+
+(TS//SI//REL) HALLUXWATER Persistence Implant Concept of Operations
+
+I
+
+(TS//SI//REL) Once installed, HALLUXWATER communicates with an NSA operator
+via the TURBOPANDA Insertion Tool (PIT), giving the operator covert access to
+read and write memory, execute an address, or execute a packet.
+
+(TS//SI//REL) HALLUXWATER provides a persistence capability on the Eudemon
+200, 500, and 1000 series firewalls. The HALLUXWATER back door survives OS
+upgrades and automatic bootROM upgrades.
+
+Status: (U//FOUO) On the shelf, and has been deployed.
+POC: I	I, S32222,1	1.1
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

@@ -1,0 +1,78 @@
+﻿bixl
+
+ëm
+
+SECRET//COMINT//REL TO USA, FVEY
+
+ENTOURAGE
+
+(S//SI//REL) Direction Finding on
+
+HollowPoint Platform
+
+(S//SI//REL) Direction Finding application operating on the HOLLOWPOINT
+platform. The system is capable of providing line of bearing for GSM/UMTS/
+CDMA2000/FRS signals. A band-specific antenna and laptop controller is needed to
+compliment the HOLLOWPOINT system and completes the ground based system.
+
+01/27/09
+
+(S//SI//REL) HOLLOWPOINT SDR Platform and Antenna
+
+(S//SI) The ENTOURAGE application leverages the 4 Software Defined Radio
+(SDR) units in the HOLLOWPOINT platform. This capability provides an "Artemis-
+like" capability for waveforms of interest (2G,3G,others). The ENTOURAGE
+application works in conjunction with the NEBULA active interrogator as part of the
+Find/Fix/Finish capabilities of the GALAXY program.
+
+> (S//SI//REL) Features:	> (S//SI//REL) Enclosure:
+
+• Software Defined Radio System	• 1.8"H x 8.0"W x 8.CTD
+
+• Operating range 10MHz - 4GHz	• Approximately 3 lbs
+
+•	4 Receive paths, all synchronized
+
+•	1 Transmit path
+
+•	DF capability on
+GSM/UMTS/CDMA2000/ FRS
+signals
+
+•	Gigabit Ethernet
+
+•	Integrated GPS
+
+•	Highly Mobile and Deployable
+
+•	15 Watts
+
+•	Passively cooled
+
+> (S//SI//REL) Future Developments:
+
+•	WiMAX
+•WiFi
+
+•	LTE
+
+I
+
+I
+
+Status: The system is in the final testing stage and Unit Cost: $70K
+will be in production Spring 09.
+
+POC:
+
+, S32242,
+
+nsa.ic.gov
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108
+
+SECRET//COMINT//REL TO USA, FVEY

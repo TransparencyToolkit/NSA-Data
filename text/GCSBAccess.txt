@@ -1,0 +1,21 @@
+﻿I edit! GCSB access
+
+For GCSB access GCSB have given us access to their XKS deployments at IRONS AND ; a GCSB comsat site, which is rich in data for the South Pacific region. Specifically we can access both strong-
+selected data and a full-take feed from this site. To query data at these sites, you must first take a briefing on NZSED7, the law that governs what GCSB can and can't do. To take this briefing, search for
+'NZSED7' on iLearn. There is a multiple-choice, open-book test at the end of the briefing that you must pass (much like for HRA and USSED-SP0018 training). At the end, if you have passed, copy and paste
+your results into a word document. You then need to navigate to ESS -Click 'Order from the Products and Services catalogue' -Leave the 'Category' drop down list empty -In the 'For' field type 'xkeyscore'
+and click Search -Click the 'NZ Xkeyscore - Create' Form -Once you have filled the required information click 'Add to Cart' -Click 'View Cart Checkout' -Click 'Submit Request' -Choose a Protective
+Marking, and type a brief summary of your request in the summary box -Click Submit, you should then receive a ticket number on screen.
+
+□ 831 GCSB_IRONSAND_WC2__ FULL__TAKE (ironsandwc2fulltake:xs_web_db) [tWJlM-1
+
+subject to GCSB auditin
+
+□ SU GCSB_IRONSAND_WC2_ SELECTED (ironsandwc2selected:xs_web_db) E
+
+subject to GCSB auditin
+
+ueries
+
+All queries against these databases must be NZSID7 compliant (as well as HRA compliant) and will be audited by GCSB. If you you are unsure if your query is compliant under New Zealand law then you can
+check the resources provided in the iLearn package, or contact the New Zealand Liaison Office NZLO

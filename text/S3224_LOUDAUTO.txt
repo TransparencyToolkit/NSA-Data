@@ -1,0 +1,54 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+LOUDAUTO
+
+ANT Product Data
+
+(TS//SI//REL TO USA,FVEY) Audio-based RF retro-reflector. Provides room
+audio from targeted space using radar and basic post-processing.
+
+(U) Capabilities
+
+(TS//SI//REL TO USA,FVEY) LOUDAUTO’s
+current design maximizes the gain of the
+microphone. This makes it extremely useful for
+picking up room audio. It can pick up speech at
+a standard, office volume from over 20' away.
+(NOTE: Concealments may reduce this distance.)
+It uses very little power (-15 uA at 3.0 VDC), so
+little, in fact, that battery self-discharge is more of
+an issue for serviceable lifetime than the power
+draw from this unit. The simplicity of the design
+allows the form factor to be tailored for specific
+operational requirements. All components at
+COTS and so are non-attributable to NSA.
+
+07 Apr 2009
+
+(U) Concept of Operation
+
+TS//SI//REL TO USA,FVEY) Room audio is picked up by the microphone and
+converted into an analog electrical signal. This signal is used to pulse position
+modulate (PPM) a square wave signal running at a pre-set frequency. This
+square wave is used to turn a FET (field effect transistor) on and off. When
+the unit is illuminated with a CW signal from a nearby radar unit, the
+illuminating signal is amplitude-modulated with the PPM square wave. This
+signal is re-radiated, where it is picked up by the radar, then processed to
+recover the room audio. Processing is currently performed by COTS
+equipment with FM demodulation capability (Rohde & Schwarz FSH-series
+portable spectrum analyzers, etc.) LOUDAUTO is part of the
+ANGRYNEIGHBOR family of radar retro-reflectors.
+
+Unit Cost: $30
+
+Status: End processing still in development
+
+POC:|	S32243,	I |@nsa.ic.qov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

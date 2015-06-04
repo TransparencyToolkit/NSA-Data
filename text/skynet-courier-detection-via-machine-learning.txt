@@ -1,0 +1,570 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+SKYNET:
+
+Courier Detection via Machine Learning
+
+I, R66F/JHU
+R66F
+
+R66F
+T1211
+|, T1211
+S2I51
+
+S2I5/TD
+
+June 5, 2012
+
+
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Given a handful of courier selectors, can we find others
+that “behave similarly” by analyzing GSM metadata?
+
+It’s worth noting that:
+
+•	we are looking for
+different people using
+phones in similar ways
+
+•	without using any call
+chaining techniques
+from known selectors
+
+•	by scanning through
+all selectors seen in
+Pakistan that have not
+left Af/Pak (~55M)
+
+
+
+'alplndi
+
+O Miram Shah, North Waziristan
+
+O Wana. South Waziristan
+
+O Lahore
+
+O Falsalabad
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+From GSM metadata, we can measure aspects of each
+
+selector’s
+
+and
+
+travel behavior
+
+r. is is
+
+Paths Legend Ss
+
+Sunday
+
+Me non
+
+«OCX
+
+Tuesday
+
+
+
+Wednesday
+
+
+
+Thursday
+
+n
+
+Saturday
+
+
+
+;
+
+
+
+
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+This presentation describes our search for
+AQSL couriers using behavioral profiling
+
+Behavioral Feature Extraction
+
+Cross Validation Experiment
+on AQSL Couriers
+
+Preliminary SIGINT Findings
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Counting unique UCELLIDs shows that couriers
+travel more often than typical Pakistani selectors
+
+0.06-
+
+0.05-
+
+0.04-
+
+0.02-
+
+0.01 -
+
+0.00-
+
+100
+
+120
+
+Number of Unique CelllDs
+
+Group
+
+AQSL Local Comms
+
+AQSL Remote Comms
+
+Seen in Pakistan
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+By examining multiple features at once, we can see some
+indicative behaviors of our courier selectors
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Looking at a hierarchical clustering derived from all
+80 features, the AQSL groups mostly stay together
+
+■1—-1___I____I__I___I___I___I___I___I___I___I___I___I___I__I___I___L
+
+1_________I________I_________I________I________I_________I________I_________I________I________I_________L
+
+Gen Pop
+Gen Pop
+Gen Pop
+AQSL Remote Comms
+AOSI Romnln Cnmms imsi
+AQSL Remote Comms imsi
+AQSL Remote Comms imsi
+Gen Pop
+
+AQSL Local Comms		imsi
+AQSL Local Comms		imsi
+	Gen Pop	imsi
+	Gen Pop	: msi
+	Gen Pop	imsi
+	Gen Pop	imsi
+	Gon Pop	imsi
+	Gen Pop	ms<
+	Gon Pop	imsi
+	Gon Pop	imsi
+	Gen Pop	imsi
+	Gen Pop	msi
+	Gen Pop	imsi
+	Gen Pop	imsi
+	Gen Pop	imsi
+	Gen Pop	imsi
+;of	Gen Pop	: msi
+ct	Gen Pop	: msi
+	Gen Pop	imsi
+	Gen Pop	imsi
+	Gen Pop	imsi
+1	Gen Pop	imsi
+AQSL Local Comms		imsi
+	Gen Pop	imsi
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Now, we’ll describe a cross validation experiment
+on the AQSL selectors that we were provided
+
+Cross Validation Experiment
+on AQSL Couriers
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Our initial detector uses the centroid of the AQSL
+couriers to “find other selectors like these”
+
+AQSL Cross-Validation
+
+Experiment
+
+•	7 MSISDN/IMSI pairs
+
+•	Hold each pair out
+and score them when
+training the centroid
+on the rest
+
+•	Assume that random
+draws of Pakistani
+selectors are
+nontargets
+
+•	How well do we do?
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Our initial detector uses the centroid of the AQSL
+
+couriers to “find other selectors like these”
+
+AQSL Cross-Validation
+
+Experiment
+
+•	Initial experiments
+showed EER in
+10-20% range
+
+•	Here, performance is
+much worse again st
+these nontargets:
+
+•	Seen in Pakistan
+
+•	Not seen outside of
+Af/Pak
+
+•	Not FVEY selectors
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Statistical algorithms are able to find the couriers at very
+low false alarm rates, if we’re allowed to miss half of them
+
+Random Forest
+Classifier
+
+•	7 MSISDN/IMSI pairs
+
+•	Hold each pair out and
+then try to find them after
+learning how to distinguish
+remaining couriers fro n
+other Pakistanis
+
+(using 100k random selectors here)
+
+•	Assume that random
+draws of Pakistani
+selectors are nontargets
+
+•	0.18% False Alarm Rate at
+50% Miss Rate
+
+2
+
+Q_
+
+co
+
+c/)
+
+3
+
+3
+
+	
+		r*
+:	
+. .	  ;**.;	;**	
+
+		i—	
+t 4*  			7*'  :  :	
+L \\	! ,•••	
+
+I....IT.;....r-
+
+jl'X
+
+§ -
+
+
+
+&	o
+
+=	CVJ
+
+in -----
+
+*****...............*....*•••/•
+
+: : : : :.•'*! :
+
+.......|.....|...L.j/L[j
+
+	
+
+I......>**•<***
+
+o
+
+o
+
+9
+
+<D
+
+: :		
+•	i			
+		 : 		
+	l.	1		
+		
+		
+		
+		
+
+
+
+-U44-
+
+.4...
+
+i i.
+.......^*
+
+1—
+
+1e-04
+
+i-----r
+
+•f;"i.....]--«-]{-
+
+TT
+
+■.......................
+
+: i : \ 1	if	—TT
+	..J	I;	: :
+: 1 : t  A	j.i	i	\: 1	
+i; ¡1 !	'K"!	"Pj
+■*it	i:	  .. i	i:	;	...j	1	
+1:	:	:	"p:
+"I ■		•	■“■i	r	
+
+---- Centroid(AII Raw Features)
+
+---Centroid(AII Normalized Features)
+
+---- Centroid(Outgoing Raw Features)
+
+.JJ.JJ...-----Centroid(Outgoing Normalized Features)
+
+•	Random Forestall Raw Features)
+
+•	Random Forest(Outgoing Raw Features)
+
+n----1—i-------r
+
+20	40 60	80
+
+0.01 0.1
+
+TT
+
+1
+
+1--1—T
+
+~i—nr
+
+95	99
+
+false alarm probability (%)
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+We’ve been experimenting with several error
+metrics on both small and large test sets
+
+			100k Test Selectors		55M Test Selectors	
+			False Alarm	Mean	Tasked	Tasked
+			Rate at 50%	Reciprocal	Selectors in	Selectors in
+Training Data	Classifier	Features	Miss Rate	Rank	Top 500	Top 100
+None	Random	None	50%	1/23k  (simulated)	0.64  (active/Pak)	0.13  (active/Pak)
+Known  Couriers	Centroid	All	20%	1/18k		
+			43%	1/27k		
+	Random  Forest	Outgoing	0.18%	1/9.9	5	1
++ Anchory Selectors						
+
+Random Forest:
+
+•	0.18% false alarm rate at 50% miss rate
+
+•	7x improvement over random performance when
+evaluating its tasked precision at 100
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+To get more training data we scraped selectors from S2I11
+Anchory reports containing keyword “courier”
+
+Anchory Selectors
+
+•	Searched for reports
+containing “S2I11”
+
+AND “courier”
+
+•	Filtered out non-mobile
+numbers and kept
+selectors with
+“interesting” travel
+patterns seen in
+SmartTracker
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Adding selectors from Anchory reports to the training data
+reduced the false alarm rates even further
+
+Anchory Selectors
+
+•	Searched for reports
+containing “S2I11”
+
+AND “courier”
+
+•	Filtered out non-mobile
+numbers and kept
+selectors with
+“interesting” travel
+patterns seen in
+SmartTracker
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+We’ve been experimenting with several error
+metrics on both small and large test sets
+
+Training Data	Classifier	Features	100k Test Selectors		55M Test Selectors	
+			False Alarm Rate at 50% Miss Rate	Mean  Reciprocal  Rank	Tasked Selectors in Top 500	Tasked Selectors in Top 100
+None	Random	None	50%	1/23k  (simulated)	0.64  (active/Pak)	0.13  (active/Pak)
+Known  Couriers	Centroid	All	20%	1/18k		
+		Outgoing	43%	1/27k		
+	Random  Forest		0.18%	1/9.9	5	1
++ Anchory Selectors			0.008%	1/14	21	6
+
+Random Forest trained on Known Couriers + Anchory Selectors:
+
+•	0.008% false alarm rate at 50% miss rate
+
+•	46x improvement over random performance when
+evaluating its tasked precision at 100
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Now, we’ll investigate some findings after running these
+classifiers on +55M Pakistani selectors via MapReduce
+
+Preliminary SIGINT Findings
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+The highest scoring selector that traveled to
+Peshawar and Lahore is PROB AHMED ZAIDAN
+
+“ Paths Legend S3
+
+PROB AHMED MUWAFAK ZAIDAN
+
+TIDE Person Number:
+
+MEMBER OF AL-QA’IDA
+MEMBER OF MUSLIM
+BROTHERHOOD
+WORKS FOR AL JAZEERA
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+In the top 500 scoring selectors, 21 are tasked
+leading us to believe that we’re on the right track
+
+Cj Paths Legend S3
+
+O Wana. South
+
+Miles
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+We have also discovered many untasked
+selectors with interesting travel patterns
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Preliminary results indicate that we’re on the
+right track, but much remains to ue acme
+
+Cross Validation Experiment:
+
+-	Random Forest classifier operating at
+0.18% false alarm rate at 50% miss
+
+-	Enhancing training data with Anchory
+selectors reduced that to 0.008%
+
+-	Mean Reciprocal Rank is ~1/10
+
+Preliminary SIGINT Findings:
+
+-	Behavioral features helped discover
+similar selectors with “courier-like”
+travel patterns
+
+-	High number of tasked selectors at
+the top is hopefully indicative of the
+detector performing well “in the wild”
+
+TOP SECRET//COMINT//REL TO USA, FVEY

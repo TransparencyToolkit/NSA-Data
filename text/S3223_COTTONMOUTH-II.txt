@@ -1,0 +1,62 @@
+﻿*
+
+-A~,
+
+cfy?
+
+®4\*
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+COTTONMOUTH-II
+
+ANT Product Data
+
+(TS//SI//REL) COTTONMOUTH-II (CM-II) is a Universal Serial Bus (USB) hardware Host
+Tap, which will provide a covert link over USB link into a targets network. CM-II is intended
+to be operate with a long haul relay subsystem, which is co-located within the target
+equipment. Further integration is needed to turn this capability into a deployable system.
+
+08/05/08
+
+$
+
+(TS//SI//REL) CM-II will provide software persistence capability, “in-field” re-programmability,
+and covert communications with a host software implant over the USB. CM-II will also
+communicate with Data Network Technologies (DNT) software (STRAITBIZARRE) through a
+covert channel implemented on the USB, using this communication channel to pass
+commands and data between hardware and software implants. CM-II will be a GENIE-
+compliant implant based on CHIMNEYPOOL.
+
+(TS//SI//REL) CM-II consists of the CM-I digital hardware and the long haul relay concealed
+somewhere within the target chassis. A USB 2.0 HS hub with switches is concealed in a
+dual stacked USB connector, and the two parts are hard-wired, providing a intra-chassis link.
+The long haul relay provides the wireless bridge into the target’s network.
+
+COTTONMOUTH - II (CM-II) CONOP
+ANT Covert Network Scenario
+
+I
+
+I
+
+Status: Availability - September 2008
+
+POC:
+
+ALT POC:
+
+S3223,
+
+S3223,
+
+!5)nsa.ic.qov
+©nsa.ic.qov
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

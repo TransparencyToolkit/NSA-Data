@@ -1,0 +1,74 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+TOTECHASER
+
+ANT Product Data
+
+(TS//SI//REL) TOTECHASER is a Windows CE implant targeting the Thuraya 2520
+handset. The Thuraya 2520 is a dual mode phone that can operate either in SAT or
+GSM modes. The phone also supports a GPRS data connection for Web browsing,
+e-mail, and MMS messages. The initial software implant capabilities include
+providing GPS and GSM geo-location information. Call log, contact list, and other
+user information can also be retrieved from the phone. Additional capabilities are
+being investigated.
+
+Thin«îy.i GSM
+Phone
+
+GSM Network
+
+HVT
+
+TOP SECRET SI 20201123
+
+GPS - Current Fix , Last Fix. Last 10
+GSM MCC, MNC, LAC, liming Adv
+Identity - IMSI, IMEI
+Call Log - Out, In, Missed
+Contact List Names, Phone Numbers
+
+Collection
+
+TOP SECRET SI 20201123
+
+(U//FOUO) TOTECHASER - Operational Schematic
+
+(TS//SI//REL) TOTECHASER will use SMS messaging for the command, control,
+and data exfiltration path. The initial capability will use covert SMS messages to
+communicate with the handset. These covert messages can be transmitted in
+either Thuraya Satellite mode or GSM mode and will not alert the user of this
+activity. An alternate command and control channel using the GPRS data
+connection based on the TOTEGHOSTLY implant is intended for a future version.
+
+(TS//SI//REL) Prior to deployment, the TOTECHASER handsets must be modified.
+Details of how the phone is modified are being developed. A remotely deployable
+TOTECHASER implant is being investigated. The TOTECHASER system consists
+of the modified target handsets and a collection system.
+
+i
+
+i
+
+(TS//SI//REL) TOTECHASER will accept configuration parameters to determine
+how the implant operates. Configuration parameters will determine what information
+is recorded, when to collect that information, and when the information is exfiltrated.
+The configuration parameters can be set upon initial deployment and updated
+remotely.
+
+Unit Cost: $
+
+Status:
+
+POC: U//FOUO
+
+I, S32222,
+
+l@nsa.gov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

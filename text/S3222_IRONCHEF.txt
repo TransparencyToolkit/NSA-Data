@@ -1,0 +1,39 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+IRONCHEF
+
+ANT Product Data
+
+(TS//SI//REL) IRONCHEF provides access persistence to target systems by
+exploiting the motherboard BIOS and utilizing System Management Mode (SMM) to
+communicate with a hardware implant that provides two-way RF communication.
+
+07/14/08
+
+(TS//SI//REL) IRONCHEF Extended Concept of Operations
+
+i
+
+I
+
+(TS//SI/REL) This technique supports the HP Proliant 380DL G5 server, onto which
+a hardware implant has been installed that communicates over the l2C Interface
+(WAGONBED).
+
+(TS//SI//REL) Through interdiction, IRONCHEF, a software CNE implant and the
+hardware implant are installed onto the system. If the software CNE implant is
+removed from the target machine, IRONCHEF is used to access the machine,
+determine the reason for removal of the software, and then reinstall the software
+from a listening post to the target system.
+
+Status: Ready for Immediate Delivery	Unit Cost: $0
+
+POC:	S32221,	nsa.ic.gov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

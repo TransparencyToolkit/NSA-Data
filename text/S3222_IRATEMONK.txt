@@ -1,0 +1,43 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+IRATEMONK
+
+ANT Product Data
+
+(TS//SI//REL) IRATEMONK provides software application persistence on desktop
+and laptop computers by implanting the hard drive firmware to gain execution
+through Master Boot Record (MBR) substitution.
+
+06/20/08
+
+i
+
+i
+
+(TS//SI//REL) This technique supports systems without RAID hardware that boot
+from a variety of Western Digital, Seagate, Maxtor, and Samsung hard drives. The
+supported file systems are: FAT, NTFS, EXT3 and UFS.
+
+(TS//SI//REL) Through remote access or interdiction, UNITEDRAKE, or
+STRAITBAZZARE are used in conjunction with SLICKERVICAR to upload the hard
+drive firmware onto the target machine to implant IRATEMONK and its payload (the
+implant installer). Once implanted, IRATEMONK’s frequency of execution (dropping
+the payload) is configurable and will occur when the target machine powers on.
+
+Status: Released / Deployed. Ready for	Unit Cost: $0
+
+Immediate Delivery
+
+POC:
+
+S32221,
+
+nsa.ic.gov
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+
+Declassify On: 20320108

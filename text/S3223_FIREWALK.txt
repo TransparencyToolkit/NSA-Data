@@ -1,0 +1,55 @@
+﻿TOP SECRET//COMINT//REL FVEY
+
+FIREWALK
+
+ANT Product Data
+
+(TS//SI//REL) FIREWALK is a bidirectional network implant, capable of passively collecting
+Gigabit Ethernet network traffic, and actively injecting Ethernet packets onto the same
+target network.
+
+iff
+
+fREWALK
+IPWITY VC V 4
+
+08/05/08
+
+(TS//SI//REL) FIREWALK is a bi-directional 10/100/1000bT (Gigabit) Ethernet network
+implant residing within a dual stacked RJ45 / USB connector. FIREWALK is capable of
+filtering and egressing network traffic over a custom RF link and injecting traffic as
+commanded; this allows a ethernet tunnel (VPN) to be created between target network and
+the ROC (or an intermediate redirector node such as DNT's DANDERSPRITZ tool.)
+FIREWALK allows active exploitation of a target network with a firewall or air gap protection.
+(TS//SI//REL) FIREWALK uses the HOWLERMONKEY transceiver for back-end
+communications. It can communicate with an LP or other compatible HOWLERMONKEY
+based ANT products to increase RF range through multiple hops.
+
+-	DO - DANDERCPRIT. zpootz IP & MAC Addr
+HM - HOWLERMONKRY
+
+-	LHR . Long Haul Relay
+
+I
+
+I
+
+Status: Prototype Available - August 2008	unit Cost: 50 Units $537K
+
+POC:
+
+ALT POC:
+
+, S3223,
+
+, S3223,
+
+nsa.ic.gov
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL FVEY

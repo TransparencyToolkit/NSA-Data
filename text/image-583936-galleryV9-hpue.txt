@@ -1,0 +1,22 @@
+﻿TOP SECRET//COMINT//MR
+
+VALIDATOR
+
+VALIDATOR is a part of a backdoor access system under the FOXACID project. The
+VALIDATOR is a client/server-based system that provides unique backdoor access to
+personal computers of targets of national interest, including but not limited to terrorist
+targets. VALIDATOR is a small Trojan implant used as a back door against a variety of
+targeted Windows systems, which can be deployed remotely or via hands on access to
+any Windows box from Windows 98 through Windows Server 2003. The LP is on-line
+24/7 and tasking is ‘queued’, that is, jobs sit in a queue waiting for the target to ‘call
+home’, then the job(s) are sent one at a time to the target for it to process them.
+Commands are Put a file, get a file, Put, then execute a file, get system information,
+change VALIDATOR ID, and Remove itself. VALIDATOR’S are deployed to targeted
+systems and contact their Listening Post (LP) (each VALIDATOR is given a specific
+unique ID, specific IP address to call home to it’s LP); SEPI analysts validate the target’s
+identity and location (USSID-18 check), then provide a deployment list to Olympus
+operators to load a more sophisticated Trojan implant (currently OLYMPUS, future
+UNITEDRAKE). An OLYMPUS operator then queue up commands for the specific
+VALIDATOR ID’s given by SEPI. Process repeats itself. Once target is hooked with the
+more sophisticated implant, VALIDATOR operators tend to cease. On occasion,
+operators are instructed by SEPI or the SWO to have VAIDATOR delete itself.

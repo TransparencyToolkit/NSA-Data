@@ -1,0 +1,56 @@
+﻿*
+
+-A~,
+
+Öl*
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+JETPLOW
+
+ANT Product Data
+
+(TS//SI//REL) JETPLOW is a firmware persistence implant for Cisco PIX Series and
+ASA (Adaptive Security Appliance) firewalls. It persists DNT's BANANAGLEE
+software implant. JETPLOW also has a persistent back-door capability.
+
+06/24/08
+
+(TS//SI//REL) JETPLOW Persistence Implant Concept of Operations
+
+(TS//SI//REL) JETPLOW is a firmware persistence implant for Cisco PIX Series and
+ASA (Adaptive Security Appliance) firewalls. It persists DNT’s BANANAGLEE
+software implant and modifies the Cisco firewall’s operating system (OS) at boot
+time. If BANANAGLEE support is not available for the booting operating system, it
+can install a Persistent Backdoor (PBD) designed to work with BANANAGLEE’s
+communications structure, so that full access can be reacquired at a later time.
+JETPLOW works on Cisco’s 500-series PIX firewalls, as well as most ASA firewalls
+(5505, 5510, 5520, 5540, 5550).
+
+(TS//SI//REL) A typical JETPLOW deployment on a target firewall with an exfiltration
+path to the Remote Operations Center (ROC) is shown above. JETPLOW is
+remotely upgradeable and is also remotely installable provided BANANAGLEE is
+already on the firewall of interest.
+
+Status: (C//REL) Released. Has been widely deployed. Current
+availability restricted based on OS version (inquire for details).
+
+I
+
+I
+
+POC:
+
+S32222,
+
+>nsa.ic.qov
+
+Unit Cost: $0
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+
+Declassify On: 20320108
+
+TOP SECRET//COMINT//REL TO USA, FVEY

@@ -1,0 +1,35 @@
+﻿Attribute Definition
+
+■	Name
+
+■	Description
+
+■	Type
+
+■	Data sources
+
+Defining Attributes
+
+FTP login
+
+Machine Communication
+Attributes
+
+DNS Request
+
+HTTPS connection
+
+
+
+Machine Attributes
+
+DNS Name (webhost.com)
+
+-•Open port (25, 80, 443)
+
+• Server banner (Server: Apache)
+'PSP fingerprint (Kaspersky v7.01)
+
+• XFF (192.168.2.1)
+Web Request (test.exe, file.pdf)
+'SNMP sysname
