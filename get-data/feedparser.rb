@@ -10,7 +10,7 @@ class FeedParser
 
   # Get all items from feed
   def pullItems
-    (1..63).each do |num|
+    (1..65).each do |num|
       feed = Nokogiri::XML(open('https://freesnowden.is/feed?paged='+num.to_s))
       feed.xpath('//item').each do |i| 
         item_parsed = parseItem(i)

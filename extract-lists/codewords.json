@@ -674,6 +674,15 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "BLAZING SADDLES": {
+    "codeword": [
+      "BLAZING SADDLES",
+      "BLAZINGSADDLES"
+    ],
+    "description": "CSE tool? *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "BLEAKINQUIRY": {
     "codeword": [
       "BLEAKINQUIRY"
@@ -722,6 +731,14 @@
       "BLUESKY"
     ],
     "description": "Airborne COMINT program in Far East (1952-?)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "BLUESNORT": {
+    "codeword": [
+      "BLUESNORT"
+    ],
+    "description": "TURMOIL type or site? *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -835,6 +852,15 @@
       "BRUTUS"
     ],
     "description": "Tool or program related to MARINA *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "BUCKSHOT YANKEE": {
+    "codeword": [
+      "BUCKSHOT YANKEE",
+      "BUCKSHOTYANKEE"
+    ],
+    "description": "Operation to remove the computer worm Agent.btz from infected classified and unclassified DoD networks (2008-2009) *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1518,6 +1544,15 @@
       "COWBOY"
     ],
     "description": "The DICTIONARY computer used at the Yakima station of ECHELON *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "CRAFTY SHACK": {
+    "codeword": [
+      "CRAFTY SHACK",
+      "CRAFTYSHACK"
+    ],
+    "description": "Analytics documentation *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2233,15 +2268,6 @@
     "case_sensitive": "No",
     "modified": "No"
   },
-  "EQUATION (Group)": {
-    "codeword": [
-      "EQUATION (Group)",
-      "EQUATION(Group)"
-    ],
-    "description": "Nickname given by Kaspersky to a highly advanced computer hacking group, suspected of being tied to NSA *\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
   "ERRONEOUSINGENUITY (ERIN)": {
     "codeword": [
       "ERRONEOUSINGENUITY (ERIN)",
@@ -2648,6 +2674,15 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "FRETTING YETI": {
+    "codeword": [
+      "FRETTING YETI",
+      "FRETTINGYETI"
+    ],
+    "description": "Mobile gateway identification analytic *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "FRONTO": {
     "codeword": [
       "FRONTO"
@@ -2718,6 +2753,14 @@
       "GALLOWAY"
     ],
     "description": "System related to the Predator drone * \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "GAMBIT": {
+    "codeword": [
+      "GAMBIT"
+    ],
+    "description": "Prototype web portal for the AMOD (Analytical Modernization) QFD (Question Focused Dataset) strategy (2011)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -3462,14 +3505,6 @@
     "case_sensitive": "Yes",
     "modified": "Yes"
   },
-  "INDIA": {
-    "codeword": [
-      "INDIA"
-    ],
-    "description": "SIGINT Exchange Designator for New Zealand (retired)\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
   "INDRA": {
     "codeword": [
       "INDRA"
@@ -3555,6 +3590,15 @@
     "description": "Second Party satellite intercept station at Waihopai, New Zealand\n",
     "case_sensitive": "No",
     "modified": "Yes"
+  },
+  "IRRITANT HORN": {
+    "codeword": [
+      "IRRITANT HORN",
+      "IRRITANTHORN"
+    ],
+    "description": "Five Eyes pilot project for hacking target's phone connections to app stores in order to implant spyware *\n",
+    "case_sensitive": "No",
+    "modified": "No"
   },
   "ISHTAR": {
     "codeword": [
@@ -6243,14 +6287,6 @@
     "case_sensitive": "No",
     "modified": "No"
   },
-  "REGIN": {
-    "codeword": [
-      "REGIN"
-    ],
-    "description": "Highly sophisticated spyware found in computers systems worldwide, supposedly used by NSA and GCHQ (discovered in 2013, codename by Microsoft) *\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
   "REMATION": {
     "codeword": [
       "REMATION"
@@ -7306,6 +7342,15 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "SOARING EAGLE": {
+    "codeword": [
+      "SOARING EAGLE",
+      "SOARINGEAGLE"
+    ],
+    "description": "Some US military/intelligence network protection program *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "SOCIALSTAMP": {
     "codeword": [
       "SOCIALSTAMP"
@@ -7799,6 +7844,15 @@
       "STUXNET"
     ],
     "description": "A computer worm that was used to destroy Iran's nuclear centrifuges (discovered in 2010)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "STYGIAN FLOW": {
+    "codeword": [
+      "STYGIAN FLOW",
+      "STYGIANFLOW"
+    ],
+    "description": "FBI nickname for network intrusions for which assistance of the NSA was asked *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8828,6 +8882,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "WELLGROUNDED": {
+    "codeword": [
+      "WELLGROUNDED"
+    ],
+    "description": "Proposed, but not implemented internal NSA oversight program (early 1990s)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "WELLSPRING": {
     "codeword": [
       "WELLSPRING"
@@ -9053,6 +9115,14 @@
       "WORDGOPHER"
     ],
     "description": "Platform to enable demodulation of low-rate communication carriers \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "Wordscape": {
+    "codeword": [
+      "Wordscape"
+    ],
+    "description": "Vocabulary tool used at NSA\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -10686,14 +10756,6 @@
     "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; joint UK-US codename: GOLD)\n",
     "case_sensitive": "Yes",
     "modified": "Yes"
-  },
-  "STRAP": {
-    "codeword": [
-      "STRAP"
-    ],
-    "description": "Compartments for sensitive intelligence information, with levels 1, 2 and 3\n",
-    "case_sensitive": "No",
-    "modified": "No"
   },
   "STREETCAR": {
     "codeword": [

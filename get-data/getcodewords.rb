@@ -7,6 +7,7 @@ class GetCodewords
     @nsa_list = Nokogiri::HTML(open("http://electrospaces.blogspot.nl/p/nicknames-and-codewords.html"))
     @gchq_list = Nokogiri::HTML(open("http://electrospaces.blogspot.nl/p/gchq-nicknames-and-codewords.html"))
     @cse_list = Nokogiri::HTML(open("http://electrospaces.blogspot.de/p/cse-codewords-and-abbreviations.html"))
+    @ignore_list = File.read("../extract-lists/codeword_ignore_list").split("\n")
     @words_and_desc = Hash.new
     @current_list = JSON.parse(File.read("../extract-lists/codewords.json"))
   end
@@ -43,6 +44,8 @@ class GetCodewords
           ls = line.split(" - ")
           if @current_list[ls[0]] && @current_list[ls[0]]["modified"] == "Yes"
             @words_and_desc[ls[0]] = @current_list[ls[0]]
+          elsif @ignore_list.include?(ls[0])
+            # Don't include ignored words
           else
             @words_and_desc[ls[0]] = { codeword: [ls[0], ls[0].gsub(" ", "")].uniq, description: ls[1], case_sensitive: "No", modified: "No"}
           end
