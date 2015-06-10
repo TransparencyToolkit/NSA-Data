@@ -113,14 +113,6 @@
     "case_sensitive": "No",
     "modified": "No"
   },
-  "ALPHA": {
-    "codeword": [
-      "ALPHA"
-    ],
-    "description": "Retired SIGINT Exchange Designator for Great Britain\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
   "ALTEREDCARBON": {
     "codeword": [
       "ALTEREDCARBON"
@@ -207,8 +199,8 @@
       "APEX"
     ],
     "description": "See Abbreviations listing\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "APPLE1": {
     "codeword": [
@@ -2037,8 +2029,8 @@
       "DRUG"
     ],
     "description": "Third codename for what eventually became VENONA *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "DRUID": {
     "codeword": [
@@ -2101,8 +2093,8 @@
       "EAGLE"
     ],
     "description": "Upstream collection site\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "EASYKRAKEN": {
     "codeword": [
@@ -2959,14 +2951,6 @@
       "GODSURGE"
     ],
     "description": "Runs on FLUXBABBITT circuit board to provide software persistence by exploiting JTAG debugging interface of server processors, requires interdiction and removal of motherboard of JTAG scan chain reconnection\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
-  "GOLD": {
-    "codeword": [
-      "GOLD"
-    ],
-    "description": "Joint SIS-CIA operation to wiretap Soviet army landlines through a tunnel under Berlin (1953-1956; UK codename: STOPWATCH)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -4978,8 +4962,8 @@
       "OCEAN"
     ],
     "description": "Optical collection system for raster-based computer screens *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "OCEANARIUM": {
     "codeword": [
@@ -6712,8 +6696,8 @@
       "SCISSORS"
     ],
     "description": "System used for separating different types of data and protocols\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "SCORECARD": {
     "codeword": [
@@ -7174,14 +7158,6 @@
       "SILO"
     ],
     "description": "Research project in high-speed computer memory, later integrated into HARVEST (1950s)\n",
-    "case_sensitive": "No",
-    "modified": "No"
-  },
-  "SILVER": {
-    "codeword": [
-      "SILVER"
-    ],
-    "description": "SIS operation to wiretap Soviet army landlines through a tunnel under Vienna (1949-1955)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -7959,8 +7935,8 @@
       "SYNAPSE"
     ],
     "description": "NSA tool for analyzing target connections *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "TABLON": {
     "codeword": [
@@ -8409,8 +8385,8 @@
       "TUBE"
     ],
     "description": "Database for selected internet content? *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "TUMULT": {
     "codeword": [
@@ -9859,8 +9835,8 @@
       "GRASP"
     ],
     "description": "Access point for a Cable & Wireless submarine internet cable * (since 2008) *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "GREY": {
     "codeword": [
@@ -10341,8 +10317,8 @@
       "NEXUS"
     ],
     "description": "MI5 (Security Service) desktop interface *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "NIGELLA": {
     "codeword": [
@@ -10544,14 +10520,6 @@
     "description": "Operation related to Argentina and the Falkland Islands (2009) *\n",
     "case_sensitive": "No",
     "modified": "No"
-  },
-  "RED": {
-    "codeword": [
-      "RED"
-    ],
-    "description": "Particular Enigma cypher used by Nazi Germany *\n",
-    "case_sensitive": "Yes",
-    "modified": "Yes"
   },
   "REFRIED CHICKEN": {
     "codeword": [
@@ -10845,8 +10813,8 @@
       "TERRAIN"
     ],
     "description": "Processing system that sessionizes data from internet links before sending it to XKEYSCORE *\n",
-    "case_sensitive": "No",
-    "modified": "No"
+    "case_sensitive": "Yes",
+    "modified": "Yes"
   },
   "THICKISH ALPHA": {
     "codeword": [
