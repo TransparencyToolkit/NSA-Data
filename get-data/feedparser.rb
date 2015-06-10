@@ -3,6 +3,8 @@ require 'nokogiri'
 require 'json'
 require 'htmlentities'
 
+# Get only new pdfs cp `git diff --name-only b9a1911 e81b5fb` new_dir
+
 class FeedParser
   def initialize
     @results = Array.new
