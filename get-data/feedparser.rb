@@ -67,6 +67,12 @@ class FeedParser
     return agencyarray.uniq
   end
 
+  # Get external links
+  def getExternalLinks(i)
+    links = handleMultiple(i.xpath('extlinks').xpath('link'))
+    return links
+  end
+
   # Get PDFs
   def downloadPDFs(pdfs)
     patharr = Array.new
@@ -133,6 +139,7 @@ class FeedParser
     temphash[:released_date] = getText(i.at('released_date'))
     temphash[:pdf] = getDocPaths(i)
     temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
+    temphash[:article_links] = getExternalLinks(i)
     temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
     
     return temphash
