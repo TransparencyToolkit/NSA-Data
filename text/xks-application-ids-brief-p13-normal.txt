@@ -1,0 +1,20 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291:
+
+Example________________________________________
+
+rr
+
+appid('voip/skinny/keep-alive', 3.0, wireshark='skinny') =
+toport(2000) and
+
+first('\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+
+appid('voip/skinny/keep-alive-ack', 3.0, wireshark=’skinny') =
+fromport(2000) and
+
+first('\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+
+appid('voip/skinny(port2000)', 9.9, wireshark='skinny') =
+port(2000);
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

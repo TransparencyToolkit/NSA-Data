@@ -1,0 +1,17 @@
+﻿top secret strapi
+
+Context Sensitive Scanning
+
+• X-KEYSCORE’s context sensitive scanning engine
+allows you to explicitly say where you want a term to
+hit.
+
+As an early example, the Tech Strings in Documents
+capability allowed analysts to restrict terms to only
+Email, Chat or Documents Bodies
+
+The full XKS Context Sensitive Scanning engine
+allows for over 70 unique contexts to be used as part of
+an fingerprint
+
+TOP SECRET//COM1NT

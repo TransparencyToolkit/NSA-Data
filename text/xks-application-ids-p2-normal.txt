@@ -1,0 +1,17 @@
+﻿•	Syntax is similar to C:
+
+functionCname', level, coptional info ) = 'search terms and
+patterns';
+
+•	Two main functions - appid and fingerprint:
+
+appid('chat/icq', 8.5, wireshark='icq', chatproc='ICQ‘) =
+/[''o]icq/c and $icq;
+
+fingerprint('fingerprint/phone/nokia/generic') =
+
+'user-agent: nokia' or
+
+'profile: http://nds.nokia.eom/uaprof/n';
+
+TOP SECRET//COMINT//REL TO USA. FVEY

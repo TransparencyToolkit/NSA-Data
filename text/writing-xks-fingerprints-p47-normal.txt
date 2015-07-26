@@ -1,0 +1,15 @@
+﻿TOP SECRET STRAPi
+
+USSID18/HRA Considerations
+
+XKS Fingerprints may not be USSID18 or HRA
+compliant if they are queried on by themselves
+
+For example, we may want to fingerprint the use of
+mobile web devices like the IPhone, so that attribute
+could be used as part of a more complex query.
+
+But querying for the IPhone fingerprint itself would
+be a USSID18 and HRA violation.
+
+TOP SECRET//COM1NT

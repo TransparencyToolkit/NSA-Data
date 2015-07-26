@@ -1,0 +1,11 @@
+﻿Fingerprints 101: Getting Started
+
+• Note that fingerprint names can not have
+spaces or any other punctuation other than
+/ which denote directories and _ which can
+be used in the place of spaces to make
+fingerprint names easier to read
+
+•fingerprint( encryption/archive/test_new’)
+
+TOP SECRET//COM1NT

@@ -1,0 +1,8 @@
+﻿Fingerprints 101: Keywords
+
+First we’d define the fingerprint with a
+name:
+
+fingerprint(‘encryption/mojahdeen2’)
+
+TOP SECRET//COM1NT

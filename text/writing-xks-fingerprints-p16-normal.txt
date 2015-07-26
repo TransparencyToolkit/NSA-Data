@@ -1,0 +1,11 @@
+﻿Fingerprints 101: Keywords
+
+•Then, simply put the string in single quotes
+to denote that XKS needs to look for it as a
+keyword:
+
+Fingerprint(encryption/mojahdeen2’) =
+
+ASRAR El Mojahdeen V2.0 Encrypted Message’
+
+TOP SECRET//COM1NT

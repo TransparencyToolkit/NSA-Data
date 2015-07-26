@@ -1,0 +1,14 @@
+﻿Classification: TOP 5ECRET//COMINT//ORCON//REL TO USA, FVEY//2029112:
+
+
+
+More built in functions
+
+first(expr)	Matches against a pattern at the beginning of the session
+Ipos(expr)	Matches against a pattern at the beginning of each line (\n)
+pos( expr )	expression occurs at offset X in the session  •	pos('Heilo') == 5,  •	pos(/Good.*Grief/) <= 10
+between( expr )	•	betwccnCHclIo', 'World', 10, 100}  Separation between 'Hello' and 'World' is greater than or equal to 10 bytes and less than or equal to 100 bytes  This is the same as using the following regular expression:  •	/Heiio.<i0,100) World/
+'term'c	Docs a case sensitive match of the term
+'term'u	Treats the term as UTF-16
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA. FVEY//20291123

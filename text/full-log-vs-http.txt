@@ -1,0 +1,1280 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Log vs. HTTP
+
+11 June 2009
+
+* WHv:i
+
+DERIV
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Full Log - Pros
+
+The Full Log search gives you access to all
+DNI sessions collected by X-KEYSCORE
+
+Data is indexed by the basic meta-data like
+IP Address, Country Codes Port,
+Casenotation, Application ID/Fingerprints
+etc
+
+If you’re only interested in content, Full Log
+will give you access to everything
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Cons
+
+However, in most cases there will be too
+many results in XKS to look through every
+piece of content by hand
+
+■ To be more efficient, it’s important to utilize
+the meta-data contained in the other search
+forms (E-mail Addresses, HTTP Activity,
+Extracted Files, Document Meta-data etc.)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■	HTTP Activity is essentially all web-based
+activity from a user’s internet browser (with
+some exceptions)
+
+■	It includes, web-surfing, Internet Searching
+(like Google), Mapping Website (Google
+Earth/Maps) etc.
+
+■	Most of this data will not contain a strong
+selector like E-mail address
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■ HTTP activity comes in two types:
+
+cnn.com Server
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Client-to-Server
+
+
+
+Accepté */*
+
+//search.bbc. co.uk/sear ch?tab=ur disorder=sortboth6: ci=iiiusharraf6: star t=2&s cope =ur du
+
+Referen:
+
+Accept-Language
+A c c e p t- En c
+
+en-us
+
+Us er-Agen t| Hozilla/4. Q (compatible; HS IE 6.Q; Windows HT 5.1; SV1)
+Ho s t	■■u	-----
+
+)
+
+j E3
+Con
+
+Cookie! BBC-UID=b479a5f 4ad230a53063d51363Ü2Ü3acti22684634aÜeÜtil64c45f 96ef c054c£950Mozilla%2f 4%2e0%20%28cc
+
+Cache-Uontroi: max-stale=u
+
+1 66808702E9À98546 |	1
+URL Path	URL Args
+
+Host
+
+search.bbc.co.uk /search tab=urduâorder=sortbothâq=musharrafâstart=3âscope=urduâlink=next
+
+Search Terms Language Browser
+
+musharraf
+
+en
+
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+
+Via
+
+66808702^
+
+Referer
+
+http://search .bbc.co.uk/search?tab=urduâorder=sortbathâq=musharrafâstart=2âscope=urdu
+
+Cookie
+
+BBC-UID=b479a5f4ad230a53063d513630203acb22684634a0e0b164c45f96efc054cf950Mozilla%2f4%2e0%20%28com
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	Full log contains basic information on every
+single DNI session XKS processes.
+
+■	HTTP activity contains more detailed
+information on the subset of that data which
+is web-based (aka port 80 “internet
+browser” traffic)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01 1
+
+I » 111
+
+
+
+How the Search Forms Fit Together
+
+Y
+
+
+
+of all DNI sessions collected
+
+TOP SECRET//COMINT//REL T O USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Analysis of 14 May Internet session of P
+based target started in MARINA
+
+tsa
+
+20090514 132353Z
+20090514 132416Z
+20090514 132419Z
+20090514 132834Z
+20090514 132843Z
+20090514 133517Z
+20090514 133522Z
+
+USERID PHONE USER A
+
+<yahoo> -4»
+
+ACTIVITY USER_B
+logged in (im) 119.
+
+@hotmail. com<msnpassport> >> logged in (im) 119.
+@hotmail. c om<msnp as sp ort> & logge d in (im) 119.
+@hotmail. com<msnpassport> V logged in (im) 119.
+@liotoiail. com<msnpassport> logged in (im) 119.
+!@h.otrnail. com<msnpassport> A logged in (im) 119.
+Shotmail. com<msnpassport> logged in (im) 119.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Understand what is behind the IP
+
+■	Ensure Activity on IP can be associated with
+Target
+
+■	Understand IP usage Dynamic/Static
+
+■	Research IP using Foxtrail/NKB
+
+■	Is it a Proxy, DVBLAN, Dial-Up, DSL, etc
+
+■	Is it Client to Server or Server to Client
+
+■	Still not sure? User Activity pull for 5 minute
+period on Foreign IP
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Derived From: NSA/CSSM 1-52
+
+Dated:20070108
+Declassify On: 20340G01
+
+Request sent to Proxy Request sent to Server
+
+Response sent to User Response sent to Proxy
+
+• Performance:	Proxy can
+• Censorship:	Proxy can
+• Security:	Proxy can
+• Access-Control:	Proxy can
+
+cache responses for static pages
+filter traffic
+look for malware
+
+control access to restricted content
+
+Proxy can be run by
+
+•	a user
+
+•	an ISP
+
+•	a web-hosting company
+
+•	a content-delivery network (i.e. Akamai)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Web-Server
+
+Web-Servers
+
+Web-Servers
+
+Short-lived connections
+Sinale-user
+
+Short-lived connections
+Multi ole-users multiolexed
+
+Long-lived connections
+Multiple-users multiplexed
+
+Direct-Connect Mixed-Gateway
+
+
+
+User-to-Proxy
+
+roxy-to-Proxy
+
+Cache
+«—O—
+
+National-Level Proxy
+
+oionmnn
+
+nmn
+
+
+
+niinnimn
+
+TOP SECRET//COMINT//RELTO USA
+
+Aimnnmn
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+The analyst then did an HTTP activity query to
+find all web surfing from that IP address within
+
+the same rough timeframe,.
+
+Q't5l Classic A-M
+[IE Alert
+•f0BlackBerry
+
+Search: HTTP Activity
+
+Query Name:	14_may_adivhy
+
+M CNE
+iSI Call Logs
+SI Category DNI
+E Cellular DM
+,=3 Cisco Passwords
+H DNS
+
+Si Document Metadata
+i£| Document Tagging
+5 Email Addresses
+IS Extracted Files
+E Full Log DNI
+H HTTP Activity
+¿1 IKE Parser
+5 IRC Cafe Geolocation
+! • E Logins and Passwords
+m Microplugin Metadata
+
+niinrinnftin hi T
+
+Justification:
+
+Date time:
+
+Custom
+
+a
+
+Start:
+
+2009-05-14
+
+□
+
+13:30
+
+A
+
+V
+
+Stop:
+
+IP .Address:
+IP Address:
+Port:
+Port:
+
+2009-05-14
+
+□
+
+Either v
+
+Td |v]
+
+From v
+
+Td Ü
+
+14:15
+
+A
+
+V
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+14 May - Strange HTTP Activity
+
+■ HTTP meta-data indicated strange web-based
+activity
+
+Host	URL Path
+iiifoservice.inf.tti-4lre$cleii.{le	/mixcasea(l*stiitiisF3«905FCD73B6B3«CB5FEFI)3?50FD66EF4B325i»l
+iiifoserwícejiif.tii-ílresclen.íle	/iivfoseruices
+
+Browser
+
+RPT-HTTPCIienttf.4-<lev
+
+RPT-HTTPCIient’Û.4-itev
+
+GET /miseas cadestatus/F 3090 5F CD73B6B 3 0 CB 5FEFD 3 25OFD66EE4B 32591 HTTP/1.1
+
+Host:	info service.inftu-dresden.de
+Connection:	Keep-Alive, TE
+IE:	trailers, deflate, gzip, compress
+User-Agent:	RPT-HTTPClient/0.4- dev
+Cache-Control:	no-cache
+Pragma:	no-cache
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+14 May - Strange HTTP Activity
+
+Indications from the HTTP activity
+
+Browser	—
+RPT-HTTPCIienl 0.4-ilev	
+RPT-HTTPCIieiit/û-4-dev	
+	
+
+Note the strange User Agent/Browser
+
+GET/mixcascadestatusyF 3090 5FCD73B6B30CB5FEFD3250FD66EF4B32591 HTTP/1.1
+
+Host:	info service.inEtu- dresden.de
+Connection:	Keep-Alive, TE
+JÜ&		
+1 Us er-Agent:	RPT-HITP Client/0.4 - de v j
+Cache-Control:	no-cache
+Pragma:	no-cache
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Tip off to possible anonymizer
+
+Open Source research indicated that this user
+agent was indicative of multi-cast traffic.
+likely tip off that this was some type of
+anonymizer
+
+		
+Browser		
+RPT-HTTPCIieiit0.4-*lev		
+RPT-HTTPCIieiitM.4-(lev		
+
+GET /mixcascadestatnjs/F30905FCD73B6B30CB5FEFD3250FD66EF4B 32591 HTTP/l.l
+
+Host:	info s ervic e. inf tu- dr e s den. de
+Connection:	Keep-Alive, TE
+TTv	
+	RPT-HTTP Client/0.4 - dev ]
+lUser-Agent:	
+Cache-Control:	no-cache
+Pragma:	no-cache
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+1 f Jr 11 i f	»'#
+
+HTTP Results led to Full Log Query
+
+The two tu-dresden.de requests were the only
+HTTP activity seen within that timeframe, but
+given the open source research suggesting that
+the user agent was an anoynmizing proxy a full
+log query was ran to identify all other traffic
+originating from that same IP address during
+the same time
+
+Datetime End ^	Fm IP
+
+2009-05-1413:47:33
+
+2009-05-1413:48:07	11$.^^^H
+
+Host	URL Path
+infosemce.inf.Ui-<lresclen.(le	/mixcascadestatus.'F309O5FCB73BtiR3OCB5FEFD3?5OFDtifiEF4B32591
+infosen/ice.inf.tu (Iresclen.ile	.'litfoservices
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Full Log Results
+
+Datetime End	Fm IP	To IP	Fm Por	To Pc Application Type
+
+Application
+
+2009-05-1413:47:33
+2009-05-1413:40:07
+2009-05-1413:48:07
+2009-05-1413:40:35
+2009-05-1413:49:02
+
+80 web
+
+443 network _eiicryiïtioii
+80 web
+8544 unknown
+8544 unknown
+
+network_encryiition1ittps
+
+http/get
+
+unknown.tcp
+
+unknown.tcp
+
+Note the two HTTP activity (port 80) sessions were
+seen, but in addition there was one SSL (port 443)
+session and two unknown port 6544 sessions
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Full Log Results
+
+7
+
+FmlP	To IP	Fm Por	To Pc	Application Type	Application	Data Length	Session Length
+
+119i^^^^^|	141.^B	1134	$544	unknown	unknowntcp	6Mi	7803
+
+1I9.^^^^H	141.^^^H	1134	$544	unknown	tinknowii.'tcp	93033	93901
+
+Of the unknown port 6544 traffic, the data length
+of the sessions indicated that a significant amount
+of data was leaving the Pakistan IP used by our
+target
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Full Log Results
+
+The content appeared unreadable. Further
+analysis by CES and open source research
+showed that the content was encrypted
+
+DNI Display Raw Data DNI Format
+
+Services ^
+
+No presentation available for this type of data. Try sending it to another service for a better view. Below is an attempt to
+display the document as plain text.
+
+I	f*»\❖❖❖x-e-Sg« f	A 9	U IkF"-** A
+
+P*T¡J-**-$-$v*a-$-tdVq2'	¿❖❖U**U***VZ*} ❖ v<	;**bbnU*-$-*t*>-e-c8a.***HC*r
+
+❖
+
+z.s^FBnÀ^^aÿS-^^iû^h-frsO^E^Ag/^❖ *. 5-fri6\?$-piZ*$-*/, ❖ f** ❖ ,^Sp-fc^E >0****>*wD*
+
+; ^ Gj S	/ 4~	<^qs ^ GX^ j ❖ ❖ J ^ Q , ^H<5> 14
+
+: ^G^O-9-	❖/❖$■❖>-■* 3*7]ii-$-l ❖ ~E$- [
+
+■^■caá-^W-^g/-^	34 E [ 8 4k sH? 4
+
+X1 . X4kcYs:4	4h4u- j_4 34 , 434w4 1« ! /Vv4 444 C4 5*X ! 4 4tp44g0
+
+4n44 44 IIGKk 4l 4 44 4l, sX4tJ2 4x44 44zg4i 44 44 4
+
+4|444z4y4 " f4q4:4d4RJ?4: 4g4Ry44424G4 "c44444_4+	4l)44UVX-4 J4x4 [ 1 3c4à I 4l/$ 4l4s4444:
+
+ct44M444 ( 44+64-4 [ 44oswg4*_tt.442h"4#+444=4x444+Y*4$ ■'zS&44444i>*44 I ) 4444yu*4444s44ï
++g444#4f44v4k44440ey4d	44?4û4444_4S=4444<4 ' 4/44HXd^44fnI>444k44ftH. 44s4>( j+44-6
+
+44-Ts4|4o444
+
+44S"4C%4idl4r04S+bf4o444u44XD:fa]-
+444h._d444u44: 4 j+44
+
+4\444y44s44: 4A4?4*444"bz4444	-<44 j 644i44&. 44v#v44z44 4r4449945û4i444i4< 44>4
+
+4t+gV4t4P4444?iO/4ÔX-424le444s44DH4i4$4=p4Y444446I>4fco44444'H4?''4444?7(v4ElX-4-$
+
+- /*. - — — _
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+HTTP Results led to Full Log Query
+
+i
+
+While we were ultimately unable to identify what
+was underneath the 150K of encrypted traffic,
+we were at the least able to identify that our
+target was using an anonymizing service to
+mask a portion of his Internet activity
+
+SERI SERIAL:	*3/00/513109-09
+
+German Anonymizing Proxy (TS//SI/REL TO USA, FVEY)
+
+(TS//SI//QC/REL TQ USA, FVEY) During the 14, 16, and 18 May
+sessions on the	telephone, the user (s) were using a free
+
+German-based anonymizing proxy
+
+(http://infoservice.inf.tu-dresden.de), presumably to mask the
+source of Internet traffic. Use of the anonymizing proxy occurred
+primarily during the times in which	s
+
+l6hotmail.com and	yahoo. com accounts were accessed.
+
+COMMENT:	(TS//SI//OC/REL TO USA, FVEY) The German-based
+
+proxy is a Java Anonymous Proxy (JAP), which was developed
+by the Technical University of Dresden as a free and open
+source anonymity tool. The proxy functions in a manner
+similar to The Onion Router (TOR) network. Given his
+background in computer science and networking, it is not
+surprising that	would use an anonymizing proxy to
+
+secure his Internet activity.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+If the Full Log query gave us the HTTP traffic in
+addition to the other non web based traffic, why
+don’t we only use the Full Log query?
+
+- Because the meta-data options in the full log table
+are limited
+
+Datetirne End *.
+2009-051-1413:47:33
+
+2009-05-1413:48:07
+
+2009-05-14 13:48:07
+2009-05-1413:48:3:5
+2009-05-1413:49:02
+
+Fm Por	To Pc	Application Type	Application
+
+1495	80	wel>	http ¡get
+
+1502	443	network _encryi>tion	network_encry|>tion.'1itt|>s
+
+1494	80 web
+
+1134	8544 unknown
+
+1134	8544 unknown
+
+http,''get
+
+unknown,tc|>
+unknowntep
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Starting with MARINA results of a 20 May
+Internet session of an Iran based target
+
+TS ▼
+
+20090520 092139Z
+20090520 092139Z
+20090520 092130Z
+20090520 Û92130Z
+
+USERID PHOKE USER_A	ACTIVITY USERJB COOKIE
+
+<yahoo> logged in (email) 213.
+<yahoo> used^fonp 192.
+-yaho o > logge d in (email) 213.
+<yahoo> used sfonp 192.
+
+fuq8 afl 4q5kjt<yaho oB c o okie >
+fuq8 afl 4q5kjt<yahooBco okie >
+fuqS af1 ■4q5kjt<yaho oB c o okie >
+fuqS afl ■4q5kjt<yaho oB c o okie >
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example #2
+
+The analyst then did a full log query based off
+the IP & X-Forwarded-IP pair
+
+Q 0) Classic A-M
+
+2 ASF and VMM V Metadata
+hH Alert
+jPj BlackBerry
+
+Hcne
+[SI Call Logs
+[SI Category DNI
+2 Cellular DNI
+SI Cisco Passwords
+
+¡-EJ DNS
+
+SI Document Metadata
+SI Document Tagging
+SI Email Addresses
+SI Extracted Files
+¡2 Full Log DNI
+
+I ¡-|H HTTP Activity
+
+SI IKE Parser
+2 lRC Cafe Geolocation
+2 Logins and Passwords
+2 Microplugin Metadata
+
+Search: Full Log
+
+Query Name:
+
+iran_target
+
+Justification:
+
+Iranian IP Address used by cyber
+targetl
+
+Datetirne:
+
+Custom v
+
+Start:
+
+2009-05-20	□	09:00	A  V	Stop:	2009-05-20	B	11:00	A  Y
+
+Client IP (X-Fowarded-For):
+
+192.1
+
+Username:
+
+Attribute Info:
+
+fField Builder!
+
+IP .Address:
+IP Address:
+
+213.			From v
+			
+			To H
+			
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example #2
+
+Full Log table contains the standard DNI meta-data
+with some but not all information from other plug-ins
+included (ie. Username from User Activity and
+Application Info contains some HTTP activity)
+
+Application Into	Username
+
+I itt|i:-/li|Klat e. nai.co-mProdu cts. C c
+
+I rtt|>:>7|>l atfo rni.ak.fac ebook, com iv
+I itt|j:'T|>l atfo rni.ak.fac ebook, com /v
+I itt|i:.'/|>l atfo rm.ak.fac ebook, com /v
+I ittp://new srss.bbc.co.uh /rss/i lew
+I Yttprl.l >. stal i c.ak.flicdn. n et.'i 111) ox .ii
+I	>. stat i c.ak.flicdn. 11 et/rsr c.pli
+
+I itt|}:.'7|>l atfo rm.ak.fac e I) o o k. com .^v
+I itt|>:.v| >1 lotos-^l.ak .f lie cl n. n etj) hot<
+litt|>:v'l>l ioto-s-d.ak.fhcd n.net/'plioti
+htt|i:,•)!>. stat ic.ak.fbcdi l.n et.'l n bo-Hii
+I	stat i c.ak.flicdn. n et i mages
+
+I itt|i://l>. stat i c.ak.flicdn. 11 et.1 ma g e s
+I ittp:#l>. stat i c.ak.flicdn. n et.'i mages
+I itt|»:.*yi>. stat i c.ak.flicdn. 11 et:i 1111 ox .ii
+littiK.'/newsrss.lilic.co.iik /rss/uew
+
+Fm
+IR
+
+@gmail.coi IR
+@gmail.coi IR
+@gniail.coi IR
+IR
+IR
+IR
+
+@gmail.eoi IR
+IR
+IR
+IR
+IR
+IR
+IR
+IR
+IR
+
+1 FmCity(
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+TEHRAN
+
+To C To City (IP)
+
+US NEWYORK
+
+DE FRANKFURT
+DE FRANKFURT
+DE FRANKFURT
+GB LOUDON
+DE FRANKFURT
+DE FRANKFURT
+DE FRANKFURT
+ML AMSTERDAM
+ML AMSTERDAM
+DE FRANKFURT
+DE FRANKFURT
+DE FRANKFURT
+DE FRANKFURT
+DE FRANKFURT
+GB LOUDON
+
+Datetime
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+2009-05-20
+
+10:05:16
+
+10:06:54
+
+10:06:54
+
+10:06:54
+
+10:07:43
+
+10:08:31
+
+10:08:31
+
+10:09:39
+
+10:09:5$
+
+10:09:56
+
+10:09:57
+
+10:09:57
+
+10:09:57
+
+10:10:00
+
+10:10:00
+
+10:16:12
+
+Datetime
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009 05
+
+2009 05
+
+2009-05-
+
+2009-05-
+
+2009-05
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+2009-05-
+
+End
+
+2010:09:16
+2010:10:16
+2010:10:16
+2010:10:16
+2010:07:54
+2010:11:33
+2010:09:57
+2010:12:12
+2010:12:05
+2010:12:05
+2010:10:09-
+20 10:10:09-
+20 10:10:091
+20 lOrl?:©^
+2010:12:09-
+2010:16:24
+
+Fm Por To Pi
+34647 80
+
+42806 80
+428016 80
+42806 80
+37459 80
+41092 80
+41092 80
+49648 80
+41696 80
+41696 80
+34400 80
+34400 80
+34400 80
+44898 80
+44898 80
+43804 80
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+The analyst wanted to know if the From IP & X-
+Forwarded-For IP pair was representing a single
+computer or if there were multiple users on multiple
+computers in this data.
+
+Full log only provides the bare minimum meta-data to
+make this determination
+
+ID	Datetime *	Application Info
+70	2009-05-20 10:21:45	http:7itis.rng1 .mail.yahQQ.CQm/dc/rs?log=ActivrtyMaxldleTime:High&&.gx=17ogin_webmail
+
+To IP	Fm Port	To Pc
+
+209191 106109	55828	80
+
+69.63.176-213	55435	80
+
+			
+Application Type	Application	Data Length	Session Length
+mail	mail/webmail/yahoo	1446	1968
+social	social,facebook	3402	3922
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+MARINA provided this information:
+
+TS A
+
+20090520 1Û2145Z
+20090520 102145Z
+20090520 102145Z
+
+20090520 1Û2217Z
+20090520 1Û2217Z
+20090520 1Û2217Z
+
+USERID PHONE USER A
+
+213.
+
+ACTIVITY
+
+USER B
+
+kyahoo> previously logged in 213.
+H<y aho o > p r e vio usly logge d in 213.
+
+COOKIE
+
+fu q3 afl 4 q5kjt< y aho oB c o okie >
+fa q8 afl 4 q5kjt< y aho oB c o okie >
+
+used xfonp
+
+192.168.36.1 foq8afl4q5kjt<yaho oB c o c*kie>
+
+<facebook> used sforip 192.168.36.1
+<fac e b o ok > logge d in (forum) 213.
+
+The Yahoo and Facebook activity came from the same
+proxy IP and the same X-Forwarded-For-IP and
+around the same time but was it from the same
+computer?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Query
+
+Let’s query that same date time range an
+and XFF IP pair in the HTTP Activity query to
+see what we get
+
+hJ'tz!1 Classic A-M
+EÉ1 Alert
+2 BlackBerry
+(S CNE
+
+Search: HTTP Activity
+
+I 12 Call Logs {•■•2 Category DNI	Query Name:	ira.n_te.rget_http
+		
+		Iranian IP address used by MTOC
+i j-2CeUular DNI	Justification:	target.
+
+=E| Cisco Passwords
+2 DNS
+
+Si Document Metadata
+2 Document Tagging
+2 Email Addresses
+IS Extracted Files
+2 Full Log DNI
+2 HTTP Activity
+¿1 IKE Parser
+5 IRC Cafe Geolocation
+! • 2 Logins and Passwords
+B Microplugin Metadata
+
+niinrinnftin hi T
+
+Date time:
+
+Custom
+
+a
+
+Start:
+
+2009-05-14
+
+□
+
+13:30
+
+A
+
+V
+
+Stop:
+
+2009-05-14
+
+□
+
+14:15
+
+A
+
+V
+
+w
+
+X Forwarded For:
+
+192.163.36.1
+
+IP Address:	|213|
+
+IP Address:
+
+From v
+
+To v
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+c 11 i (jo \ 11 yf)! ' ' ‘ * {*','• i) i»	i
+
+Now view the HTTP Activity results
+
+■ We saw this meta-data in the Full Log results:
+
+ID Datetime	Application Info
+70 2009-05-2010:21:45	http: rtds mg1 .mail .yahoo com/dc.frs?log=ActivityMaxldleTime:High&& .gx=14ogin_webmail
+61 2009-05-2010:22:1?	Iitt|K/.'0.cIiiiiiiiel31.fiicebook.coiii.ix.i'3023227576.TaIse.i)_1406565350=0.1o(jiii_wel)maiI
+
+Fid IP_________ To IP	| Frn Port	To Pc	Application	Type	Application	Data Length	Session Length
+
+213	209	55828	30	mail	mailAvebmail/yahoo	1446	1966
+
+55435	80	social	social,facefoook	3402	3922
+
+■ And then these three fields are among the
+unique (and valuable) fields only found in the
+HTTP activity table:
+
+Cookie	Referer	Browser
+
+YM^^^^^^^^^^^^fpwidth=165äsuc=2 http:/Ais.mgl .mail.yahoo.com/dc4aunc Mozillaß.ü (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10
+datr=1242109330-dc7046de296a31363cbe218f6 http: tiO channel31.1acebook.com/ifrarr Mozillaß.ü (Windows; U; Windows NT 5.2; en-US; rv:1.9.0.10
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Of interest, note the differences between the
+two user agents
+
+Browser 			
+Mozilla/5.0 (Windows; IJ	Windows NT 5.1;	3n~US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10
+Mozilla/5.0 (Windows; U	Windows NT 5.2;  V J	sn-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10
+
+■ This indicates different versions of Windows, so
+unless they did an upgrade within the 1 minute
+difference of activity, there were at least two
+different computers behind that Proxy and XFF
+IP pair
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Moral of the story
+
+r
+
+You should be use both the HTTP activity and
+Full Log queries to help discover everything
+your target does when he’s online
+
+H
+
+P Activity will give you great meta-data for
+quick analysis of “web-based” (port 80) activity
+
+But not all DNI is done through an Internet
+Browsers, so it’s important to look at the Full
+Log query results for indications of the use of
+other applications
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ The Multi-Search page gives you the ability to search full log and
+HTTP activity based on an IP address at the same time
+
+&Q) Search
+
+0G) Classic
+
+Q 03 Multi Search
+
+[
+
+@3 IP Addresses
+
+•gjMac Address
+SI Username
+00 Classic A-M
+I-SI Alert
+¡5 Black Derry
+
+Hcne
+
+S Call Logs
+S Category DNI
+E Cellular DNI
+S Cisco Passwords
+•El DNS
+
+S Document Metadata
+S Document Tagging
+S Email Addresses
+S Extracted Files
+|S] Full Log DNI
+E HTTP Activity
+S IKE Parser
+E IRC Cafe Geolocation
+S Logins and Passwords
+=2 Micro plugin Metadata
+
+Simply enter in an IP address, choose any or all
+“roles” (ie. from/to/xff) and then choose what
+search forms you want.
+
+IP .Address:
+
+0 From
+
+IP Role:	0 To  0 X-Fomarded-For	
+Search		User Activity  Phone Number Extractor
+		Email Addresses
+Forms		Extracted Files
+Clear	■■■■i  ✓  c	HTTP Activity Full Log Web Proxy
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Moral of the story
+
+■ It will submit the multiple searches at the same time, you can
+either view the results separately or view them as a merged
+table
+
+My Recent Results					
+Help Actions T View	T	FILTERS:			
+Datetime Submitted	V-	Query Name	Status	Num Results	Query Type
+□ 2009-06-08 14:33:40		ok in 16 rnav	finished	605	fulljog
+□ 2009-06-0814:33:40		ok in 16 mav	finished	475	http_parser
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

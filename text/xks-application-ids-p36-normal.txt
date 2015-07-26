@@ -1,0 +1,12 @@
+﻿Example -- code-based check on certain extracted
+files:
+
+fingerprint('crazy/office') =
+
+extracted_file('doc' or 'xls' or 'ppt' : c++ {{
+
+return xks::filename().find("crazy") != std::string::npos;
+
+}});
+
+TOP SECRET//COMINT//REL TO USA, FVEY

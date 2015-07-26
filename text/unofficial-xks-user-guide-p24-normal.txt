@@ -1,0 +1,47 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Searching - Tips and Tricks
+
+The Official XKEYSCORE Frequently Asked Questions page is located here:
+http://xkevscore.rl .r.nsa/redmine/wiki/xkevscore/FAO. Here are some other dps/tricks
+that may be useful
+
+1.	Underscores in usernames:
+
+If your selector has an underscore in it. you must precede the underscore with a backslash. For
+example: abujihad would become searched as abu\_jihad. If you leave the underscore in the
+query without the backslash, you are wildcarding a single character (see below).
+
+To search on: abujihad@hotmail.com:
+
+Bad query: Abu jihad
+Good query: Abu\ jihad
+
+If you search on “abu jihad” (without the backslash), you could bring back “abu ljihad”,
+“abuTjihad”, "abuSjihad”, “abu-jihad”, etc... because you are wildcarding that character and
+therefore you would be pulling on an entirely different selector.
+
+2.	To search on a range of IP addresses:
+
+IP Address Range:
+
+202.82.86.224 - 202.82.86.244
+
+Becomes this XKEYSCORE Query (entered in the IP Address as To, From, or Either):
+regex:202\.82V86\.22[4-9] OR regex:202V82V86\.23[0-9] OR regex:202V82V86\.24[0^]
+
+3. Boolean Search Descriptions (Wildcards. ANDs. QRs. etc):
+
+OPERATOR	DESCRIPTION	USAGE
+t	Not Equal Comparison	beginning of word (i.e. !joe and !sam)
+or	Logical OR (Search for multiple values)	between words (i.e. osama or laden)
+and	Logical AND (Search for combination value matches)	between words (ie. ♦osama* and *laden*) takes precedence over ORs
+•	Multiple Character Wildcard	anywhere in word (i.e. *osam*bin*laden)
+_	Single Character Wildcard	anywhere in word (i.e. _sam_bin_laden)
+>	Greater Than Comparison	beginning of word (i.e. >00080 and <00111)
+<	Less Than Comparison	beginning of word (i.e. >00080)
+regex:	REGEX Expression	(i.e. to retrieve only numbers: regex:[0-9]*)
+
+24
+
+TOP SECRET//C0M1NT//REL TO USA, AUS, CAN, GBR, NZL//20320108

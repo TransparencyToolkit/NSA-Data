@@ -1,0 +1,9 @@
+﻿Quick Aside 1: Context Sensitivity
+
+• All keywords in X-KEYSCORE are case-
+insensitive by default.
+
+• So in the previous fingerprint ‘NDC’ will
+match on ride, NdC, nDC etc.
+
+TOP SECRET//COM1NT

@@ -1,0 +1,23 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+10 10 01
+) 101 01000'
+
+Predefined Chainwords
+
+There are a number of chainwords predefined for convenience:
+
+$tcp	• $http_delete
+$udp	• $http_trace
+$icmp	• $http_head
+$sctp	• $http_options
+$rpc	• $http_partial
+$arp	• $vbulletin
+$ssl	• $mime_type
+$http_cmd	• $user_agent
+$http	
+$http_get	
+$http_put	
+$http_post	
+
+TOP SECRET//COMINT//REL TO USA, FVEY

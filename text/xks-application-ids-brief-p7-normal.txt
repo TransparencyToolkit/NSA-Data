@@ -1,0 +1,18 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+CHAINWORDs
+
+- ... ................................—
+
+You can assign a pattern to a variable (CHAINWORD) and reuse
+the variable in many patterns.
+
+•	$sip = 'via: sip' and 'cseq:' and 'SIP/2'c;
+
+Now we can use this variable in future definitions:
+
+•	appid('voip/sip‘, 7.2 ) = $sip;
+
+•	appid('voip/sip/invite\ 6.9) = $sip and 'INVITE';
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291L23

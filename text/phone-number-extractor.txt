@@ -1,0 +1,715 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Phone Number
+
+Extractor
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Where are Phone Numbers seen in DNI?
+
+r
+
+Phone Numbers are located in MANY parts
+of DNI traffic
+
+■	“Contact Us” parts of web pages
+
+■	Signature Lines
+
+■	Address Books
+
+- “Leaked” as METADATA in Mobile HTTP traffic
+
+■	Collected as converged data from
+GPRS/CDMA/WLL traffic
+
+■	Collected in signaling of VOIP traffic
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in “Content”
+
+
+
+Looking inside the body of content, the
+Phone Number Extractor Looks for:
+
+■	Telephony-related terms in the body of traffic and
+parses out any digits after that
+
+. Ex: “Tel:” or “Mobile” or “Fax” or “
+
+■	Note that all punctuation is removed.
+
+. i.e. (92) 928.555-555 becomes 92928555555
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers on Websites
+
+Many times phone numbers are in the body
+of a website
+
+■	“Contact-Us”
+
+■	Craigslist-like websites listing items for sale
+
+■	Forums, etc...
+
+■ Traffic can be TO or FROM Port 80
+
+From Port 3434
+
+(client) “Reply: Contact Me
+
+►
+
+00-91-123456”
+POST to the Web server
+
+To Port 80
+(Server)
+
+To Port 3434*
+(client)
+
+
+
+“For more Information, contact
+
+HTTP Response
+
+3Ï
+
+From Port 80
+(server)
+
+L
+
+■ a D
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Normalization problems
+
+When a phone number is in the “body” of trafnc
+like a signature block or a “contact us” line on a
+webpage, it doesn’t have to be normalized.
+
+■ XKS will extract the number exactly how it
+appears (minus punctuation and leading 0’s)
+which can create problems.
+
+■ Look what happens to the ‘0’ happen here:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+Search: Phone Number Extractor
+
+Query Name:	IRGC
+
+Justification:
+
+Recent Justifica!
+
+Additional Justification:
+
+íuery
+
+Miranda Number
+
+Datetime
+
+3 Days	V	Start:	2009-10-03	□		00:00	A.  V
+
+Stop
+
+Phone Number:
+
+Port:	80		From		
+					
+Port:			To		
+
+Country:		V	From	V
+				
+Country:	IR	V	To	v
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01 ,01
+1001 I 00) toe
+
+u » v a
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers on Websites
+
+>
+
+						
+Phone Number	Highlights	Number Type	Frn countr	Frn Port	To Country	To Port
+
+Send to: Download Session ¡Mode: hi Session | Options^ | Search Content:
+
+Enter text to search
+
+AV/1/Y1
+
+Laptop PII
+
+PII MMX- Rain 196-Hard 30GB-CDRom ^ I j I o 5 j_> jl> j\û ¿Lo c51 j I j
+jjb fiiauj Windows XPIBM 210000	>s. <jj|j üL-Lj
+
+j OI }4
+
+AV/1/Y1
+
+\
+
+Dell 500 iiUil ,JUI iU ILi ¡Li U .Lixli
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in SIG Blocks
+
+Signature lines are SELECTOR-RICH
+environments (Emails, phones, names
+titles, etc..)
+
+■ Many SIG blocks have extraneous
+characters/numbers
+
+■	XKS ignores dashes, parenthesis, etc..
+
+■	XKS only parses out the numbers after
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Numbers in SIG Blocks
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+lü û
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in SIG Blocks
+
+r t
+/
+
+State ID
+
+Phone Number Highlights Number Type Fm Countr Frn Port To Country 1
+
+1640
+
+A,
+
+fax
+
+us
+
+80
+
+LB
+
+r
+
+£
+
+)OOOOMOOOO
+
+otation
+
+From IP
+
+209
+
+To IP
+
+From Port To Port Protocol
+
+(IB United States)
+
+(_L- Lebanon)
+
+so
+
+28578 TCP
+
+nts(ll) Meta (11)
+
+u)
+
+Send to: Download Session
+
+deduct trorn tne price?
+related to works alread
+self
+
+0	I would like
+
+m2 I need to buy and h
+
+Enter text to search
+
+to be submitted by contractor taking into consideration any abo
+executed + submit separately offer for marble to be supplied by ;
+
+t
+
+change the ceramic tiles for the two other bathrooms. What is th»
+much you will deduct from the price? Under assessment by contrac
+into consideration any/abortive works related to works already executed.
+
+0	Master Bedroom bathroom, I would like to make it bigger and to cahnge the locati-
+
+of the Toilet Seat + have doubel sinks.
+
+As at this stage all fend-user's requests are clear, we kindly ask you to give the releva:
+maximum within a coupie of days.
+
+Thanks and Best regards
+
+Development Manager
+
+
+
+You can view our new projects on
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP GETs
+
+HTTP GET Requests contain many
+“leaked” phone numbers from the providers
+
+■ GPRS activity commonly seen with DNR
+selectors
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+! JO 01
+IODII 0
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP GETs
+
+r
+
+i
+
+Search: Phone Number Extractor
+
+Quer/Name:	IRWEB
+
+Justification:
+
+Recent Justif
+
+Additional Justification:
+
+Miranda Number:
+
+Datetime:
+
+3 Days	V	Start :	2009-10-03	□		00:00	jK,  V
+
+Port:
+
+From v
+
+Port:	80
+
+To
+
+Country:
+
+IR.
+
+From v
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+i jo 01 |V/I
+1001 I	00) *c
+
+I lYiliiï _
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP GETs
+
+Phone Number	Highlights	Number Type	Frn Couhtr	Frn Port	To Country	To Port
+
+4-j-i. Innknnn
+
+IB
+
+rio-re
+
+OA
+
+
+
+Mode: Full Session
+
+Options0 | Search Content:
+
+Erter text to search
+
+UTO FORMATTER: app_id= unknown/port80/http_www Viewer- ASCII format
+
+2,2.1 Profile/MIEP-2.0 Configuration/CLDC-1.1
+
+accept-applicaticn: x-wap-application:wral.ua,x-wap-application:mms.ua
+Content-length: [
+
+VtL_a_:;wwjp]_. mt ni rancel 1_. i_r_(Nokia_ WAP_ Gateway 4.1/CD20/ 4.1.113)
+X-Wetwork-info: GPRS, ,MMfunsecured I
+
+j^Nokla^nisisdn :JHHH________________________\
+
+X-Nokia-COMNECTIOW_MODE: TCP
+X-Nokia-BEARER: GPRS
+X - N o k i a - GAT E1 AY_I D: NfffG/4.1/Buildll3
+K-nokia.wia.accept.original: application/xhtml+xml,text/html,application/vnd.w<
+Connection: close
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP POSTs
+
+Many times a phone number is submitted in
+an HTTP “POST” session
+
+■ If a person fills in a form or replies to an email,
+the information in the body will be collected
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP POSTs
+
+Fields ▼ Advanced Features ▼ Show Hidden Search Fields Clear Search Values Reload Last Search Values
+
+Search: Phone Number Extractor
+
+Query Name:	iranbrowsing
+
+Justification:
+
+Recent Justifications
+
+Additional Justification:
+
+Miranda Number:
+
+Vs
+
+Datetime:	2 Weeks v
+
+Start:	2009-09-24	□		00:00	X  V	Stop:
+
+2(
+
+Phone Number:
+
+Port:
+
+From v
+
+Port:	80
+
+To
+
+Country:
+
+IP,
+
+From v
+
+TOP SECRET//COMINTWRELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP POSTs
+
+Phone Number
+
+Highlights	Number Type	Frn countr Frn Port	To Country	To Port	
+A  V	mobile	IR 3511	US	80	C
+
+(S Iran)
+
+To IP
+209
+
+United States)
+
+From Port To Port Protocol Length
+3511	80 TCP 13476
+
+
+
+to: Download Session
+
+r|nenEr(2r
+
+■n
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+
+
+I
+
+Mode: Full Session
+
+j Search Content
+
+Enter text to search
+
+POST /mail / ?ui=2aik=3 6737 lb Id 8 &alt=xn3 j3 Oni jyf ueofs jzpxq6ubnbom&view=up&act=sd& jsid=plrevt7
+Host: mail.google.com	|
+
+User-Agent: Mozilla/5.0 (Windows]; U; Windows rir 5.1; en-US; rv: 1.9.1.3) Gecko/20090824 Firef
+Accept: text/ html, application/xhjtml + xml r application/ xml; q=0 . 9, */*; q=0 . 8
+Accept-Language: fa	x	'
+
+Accept-Encoding: gzipfdeflate I
+Accept-Charset: ISO-8 859-1, utf-8l; q=0.7, *; q=0.7
+Keep-Alive: 300	|
+
+Connection: keep-alive
+
+No Phone
+Number in
+the POST
+Metadata
+
+VmMKYU. en. &am=i HlnOyYGLS
+
+Content-Type : application/x-www-.form-urlencoded; charsel
+
+Refere r: http: //mail. google . com/mail/ ?ui=2 &view=j s&nam«	_____________ _____^_____
+
+Cookie : S=gmail=D8-U_bh5VJXMxnqpl5vUunA: gmproxy=QSn_Xd7qeTw-y.baaj uynraA; GX=DQAAAHoAAABcX41yRx
+Pragma: no-cache	|
+
+Cache-Control: no-cache	|
+
+acc=&bcc=asubject=Re %3A%2
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01
+
+
+
+Dl I 00) 10
+i on i tooi i itr
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Phone Numbers in HTTP POSTs
+
+lOV 91001
+01 10101
+
+Results
+
+									
+	Ebons Uumiier		. Highlights  		 	 		Number Type	Frn Countr	Frn Port	To Country		To Port	s
+
+j
+
+Session	Header (3)	Meta (10)	Attachments (2)	
+
+I
+
+AUTO
+
+Quick Clicks
+
+Session
+
+d Attachments
+□ if) web
+------diëlJïtraJ-.
+
+«
+
+'Hi
+
+The phone number was in
+the body of the POST (i.e. a
+reply to an email)
+
+i text
+
+VITE
+
+Virus scan results
+
+Jsing\HTML formatter
+
+
+
+unknown_152,x-www-form-i
+
+■?" onknuwn-----------------------
+
+d ? text
+
+? document_body.ernail_0.txt
+
+One-Click Searches
+
+ß Find opposite side of session
+
+2G97p^^^Hl: SO
+3 Find traffic on
+209|
+
+009/10/3|
+
+/Thanks Deal Hubert,
+
+I Wed to call from Here, Blit is very Difficult to Call UK from Here.
+
+Could pis. Give my Contact, or Skpye to Him to Call me urgently:
+
+i- -ftkyper
+I Mobil el
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI
+
+Mobile DNI Collect comes in two main types
+
+Convergence of DNR & DNI selectors!
+
+Mostly from F6 collection
+
+Most cases, needs to be “near” the infrastructure
+
+Gateway
+
+Looks like regular DNI but with “hints” that the
+source is a cell phone
+
+Collection could be F6, FORNSAT, SSO, FISA
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: HTTP Activity
+
+HTTP activity comes in two types:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01
+
+Cii I l nr)i Inn 1
+
+Phone Numbers From Converged Collection
+
+USER A	ACTIVITY	USER B
+
+<yahoo> seen with machine ID
+
+COOKIE
+
+
+
+<IMSt
+
+AC TIVEUSER	ACTIVE_USER_
+
+y ahc> o 202.
+
+Datetime
+
+Datetime End
+
+Phone Number
+
+Number Type	Country Code	Area
+imsi	pk	Mohiliitk
+imsi	pk	Mobilink
+imsi	l>k	M*l»ilink
+imsi	l>k	Mohilink
+imsi	pk	Mohiliiik
+imsi	pk	Mohiliiik
+imsi	pk	Mohilink
+imsi	pk	Mofcilink
+imsi	l>k	Mobilink
+
+2899-10-05 17:12:59
+2999-10-05 17:13:49
+1-10-05 17:13:11
+16:97
+15:16
+
+Results
+
+2999-10 0517:16:17
+2999-10-05 17:18:28
+2999-10-05 17:18:28
+2999-10-05 17:19:11
+
+i-10-95 17:12:59
+2099-10-95 17:13:55
+2099-10-95 17:13:11
+2099-10-95 17:16:07
+2099-10-95 17:15:18
+2099 10 95 17:16:17
+2099-10-95 17:18
+2099-10-95 17:18
+MO-95 17:19:18
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

@@ -1,0 +1,10 @@
+﻿What's in a name
+
+This allows for smarter searching because
+you could look for all encryption
+fingerprints by searching for encryption/*
+search for all encryption/archive
+fingerprints by searching for
+encryption/archive/* and etc.
+
+TOP SECRET//COM1NT

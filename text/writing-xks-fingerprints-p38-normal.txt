@@ -1,0 +1,11 @@
+﻿Fingerprints 101: Boolean Logic
+
+• We can use the Boolean and not to defeat
+unwanted traffic like below:
+
+fingerprint (‘cp/pakistan/agencies/ndc’) =
+((‘National Development Complex’ or ‘NDC’)
+and (‘quotation or ‘invoice’)) and not
+(‘viagra’ or ‘herbal supplement’);
+
+TOP SECRET//COM1NT

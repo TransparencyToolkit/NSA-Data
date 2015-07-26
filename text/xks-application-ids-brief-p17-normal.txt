@@ -1,0 +1,17 @@
+﻿Classification: TOP 5ECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Append Option
+
+# append the mime_type and HTML title to any of these applds..
+PARAMS = append=$mime type, append2=$http info,
+append3=$doc_title;
+
+$web = "web";
+
+appid('http/proxy_to_server', 9.1, $web, direction=$proxy_to_server)
+$webproxy to server;
+
+appid('http/proxy to client', 9.1, $web, direction=$proxy to client) =
+$webproxy_to_client;
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

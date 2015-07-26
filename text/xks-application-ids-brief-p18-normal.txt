@@ -1,0 +1,19 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291:
+
+Tvoe Option
+
+Third parameter is the type; if missing, it takes up to the first slash as
+the type
+
+appid('http/response’, 9.2, $web) =
+
+$http and
+
+not ('x-cache' or 'x-forward' or 'get/' or
+'post /' or 'get http' or 'post http');
+
+appid('http/response/partial', 9.1, $web) =
+
+$http and $http_partial;
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291L23

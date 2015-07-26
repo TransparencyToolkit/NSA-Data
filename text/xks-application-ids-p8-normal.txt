@@ -1,0 +1,20 @@
+﻿Binary patterns can be represented by putting a \x in front of
+each value:
+
+'\xff\xff\x00\x02'
+
+Or use the hex function:
+
+hex('ff:ff:00:02l)
+
+Use slashes to enclose regular expressions:
+/[~a-zA-Z0-9]BTE/
+
+TOP SECRET//COMINT//REL TO USA. FVEY
+
+
+
+
+
+
+

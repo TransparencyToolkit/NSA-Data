@@ -1,0 +1,16 @@
+﻿top secret strapi
+
+Examples
+
+• “I want to look for people using Mojahedeen Secrets encryption
+from an IPhone”
+
+• You can even use existing fingerprints in a fingerprint
+definition! So this becomes:
+
+fingerprint(‘demo/scenario4’) =
+
+fingerprint(‘encryption/mojahdeen2’ and
+fingerprint(‘browser/cellphone/iphone’)
+
+TOP SECRET//COM1NT

@@ -1,0 +1,12 @@
+﻿TOP SECRET STRAPi
+
+HTTP Activity Contexts (1 of 2)
+
+html_title(expr)	The normalized extracted text web page titles html_title(‘how to’ and ‘bomb’)
+http_host(expr)	The “Host:” name given in the http header. http_host( yahoo.com')
+http_url(expr)	Every URL from HTTP GET and POST commands. http_url(7mail/inbox?action=delete’)
+http_url_args(expr)	All arguments given as part of a URL (ie. all text following the ‘?’ in a URL string) http url(‘action=delete’)
+http_referer(expr)	The “Referer:” URL given in the HTTP header http referer(,http://badwebsite/cp?action=show’)
+http_language(expr)	The normalized two letter iso-6393 language code as inferred from any http and or html header info httplanguageffa' or ‘de')
+
+TOP SECRET//COM1NT

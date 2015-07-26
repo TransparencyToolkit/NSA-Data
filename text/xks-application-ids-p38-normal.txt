@@ -1,0 +1,24 @@
+﻿Support for flex-based pattern matching
+
+fingerprint('maps/google/firefox') =
+http_host('.google.') and url('/maps?')
+
+: C++
+
+flex : {{
+
+USER_AGENT_CHAR [A\n\r]
+
+%%
+
+"User-Agent: "{USER_AGENT_CHAR}+ {
+std:¡string agent(yytext);
+
+if(agent.find("Firefox") != std::string::npos)
+return true;
+
+}
+
+}};
+
+TOP SECRET//COMINT//REL TO USA. FVEY

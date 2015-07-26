@@ -1,0 +1,22 @@
+﻿Quick Aside 2: Keyword Scanning
+
+By default keywords in fingerprints can hit in substrings
+since for example ‘ndc’ is found within grandchildren.
+
+So this fingerprint
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+
+‘NDC’;
+
+Will hit on terms like:
+
+•	grandchildren
+
+•	handcard
+
+•	handcuffs
+
+•	etc.
+
+TOP SECRET//COM1NT

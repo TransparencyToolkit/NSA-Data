@@ -1,0 +1,1276 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+m
+
+
+
+
+
+V
+
+
+
+HTTP Activity vs
+User Activity
+
+19 June 2009
+
+
+
+
+
+Derived From: NSA/CSSM 1-52
+
+Bated :l2007i
+
+MM
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■	HTTP Activity is essentially all web-based
+activity from a user’s internet browser (with
+some exceptions)
+
+■	It includes, web-surfing, Internet Searching
+(like Google), Mapping Website (Google
+Earth/Maps) etc.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■ HTTP activity comes in two types:
+
+cnn.com Server
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Client-to-Server
+
+
+
+Accepté */*
+
+//search.bbc. co.uk/sear ch?tab=ur disorder=sortboth6: ci=iiiusharraf6: star t=2&s cope =ur du
+
+Referen:
+
+Accept-Language
+A c c e p t- En c
+
+en-us
+
+Us er-Agen t| Hozilla/4. Q (compatible; HS IE 6.Q; Windows HT 5.1; SV1)
+Ho s t	■■u	-----
+
+)
+
+j E3
+Con
+
+Cookie! BBC-UID=b479a5f 4ad230a53063d51363Ü2Ü3acti22684634aÜeÜtil64c45f 96ef c054c£950Mozilla%2f 4%2e0%20%28cc
+
+Cache-Uontroi: max-stale=u
+
+1 66808702E9À98546 |	1
+URL Path	URL Args
+
+Host
+
+search.bbc.co.uk /search tab=urduâorder=sortbothâq=musharrafâstart=3âscope=urduâlink=next
+
+Search Terms Language Browser
+
+musharraf
+
+en
+
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+
+Via
+
+66808702^
+
+Referer
+
+http://search .bbc.co.uk/search?tab=urduâorder=sortbathâq=musharrafâstart=2âscope=urdu
+
+Cookie
+
+BBC-UID=b479a5f4ad230a53063d513630203acb22684634a0e0b164c45f96efc054cf950Mozilla%2f4%2e0%20%28com
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+r
+
+■	User Activity is best described as meta-
+data from “communication based protocols”
+like Webmail, Chat, Web Forum, Voip etc.
+in which we have protocol processing
+capabilities like AppProc.
+
+■	It’s important to note that there are many
+applications that fall within this definition in
+which we do not currently have protocol
+processing capabilities
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Most analysts will probably already be
+familiar with “User Activity” from MARINA
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+r
+
+■	While not an exact duplicate, MARINA and
+XKS’s User Activity share a lot in common
+
+XKS runs the same software
+(AppProc/WebProc/StarProc) that is used
+to break out meta-data for MARINA
+
+■	In some cases, it’s actually the XKS at the
+front-end site that is feeding the meta-data
+to MARINA (the source will be ‘XKS’)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	Since applications like web-mail are web-
+based, HTTP and User activity will contain
+information about the same session.
+
+■	While HTTP contains information about all
+web-based sessions, user activity contains
+information on “user activity protocols” in
+which we have identified and developed
+exploitation capabilities
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01
+1001 1 oc
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+How the Search Forms Fit Together
+
+Y
+
+
+
+of all DNI sessions collected
+
+Sessions from
+
+Sessions
+from web
+based
+
+User
+
+
+
+protocols*
+
+HTTP Activity
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Examples of traffic
+
+Webmail (client side)
+
+Session Header (3) Meta (9)	
+jjjggggglj DNLPRESENTER	v ( , , j Diïittfîi iséïî 1 ÄÄii« 1 ; , ■ « 1 ■ 1.: 1 « 111 ■ 1 .j ül.- ■ t j Enter text to search
+
+Datetime
+
+Case Notation
+
+From IP
+
+To IP
+
+From Port To Port Protoco Length
+
+ID: sess orig proc
+
+Type: HTTP-GET Si Printer Friendly Version
+
+DNI Display] Raw Data [ DNI Format
+
+Services ^
+
+GET /mc/modules/im/abContacts?mcrumb=EIEDbfi9ijm &.jsrand=9S037307 &.rand=2127033459 HTTP/1.0
+Accept:	*/*
+
+Accept-Language: fa
+
+Refer er:	http ://us. me 57 5. mail, y aho o. c om/mc/showF older ;_ylc=X3 oDMTBucmhob GROBF 9TAzM50DMwMT
+
+AyNwRhYwNk»/xNc2dz?mid=l_21857_AFRkxEIAANvjSi6wUQ7filZa4fY&£Ld=Inbox&sort^date&o
+r dep=up &startMid=3 6 &filterBy=
+x-re que ste d-with:	XMLHttpRe que st
+
+Accept-Encoding: gzip, deflate
+
+User-Agent:	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+
+us.mc575.mail.yahoo.com
+
+
+
+Host:
+
+Cookie:
+
+MG
+
+d=IvAXlF va Y nF GnmIfzw3zB C WRe 2jUKZLwwyoK SrjxxGOXVY aJhF 9 5 dLsZ5 C Ox 1 eDlcT c aHS_vpi
+
+ad9XvB0emj5Rrl
+
+v=l
+
+V=1
+
+n=66k3gh6ns551f
+
+I=ce70cc03_01sqq^/o (Yahoo login id:
+
+P=m2g265i0130 00000 ( Gender: male, Birth year:
+r=hq
+
+lg=en-US ( Langnage/content: English )
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Postal code:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Examples of traffic
+
+Webmail (server side)
+
+Datetime	Case Notation	From IP				To	IP	From Po
+2009-06-16 16:23:5 IR1S021DÛ0Û0Û0C 69.					United State: 91.		Iran) 80	
+
+To Por Protoc Length
+
+Session
+
+Formatter:
+
+Header (3) Meta (5) Attachments (2)
+
+TOP SECRET//COMINT//20320108
+
+ID; sess oriq proc		
+ffl Document Information	Type: HTTP	rSi Printer Friendly Version
+
+
+
+DNI Display Raw Data DNI Format
+
+® HTTP Header Information
+
+Content Type: HTTP/YahooWebmail
+
+Services ▼
+
+UIS Webmail Display
+
+Active user;
+
+C,a££ic Unknown
+
+*
+
+Folder List	
+Name	Count
+Inbox  (1655)	4035
+Drafts  (5)	5
+Sent	S31
+
+Message in folder: Inbox
+
+Fwd: Fw:	ijrS^ líja
+
+4 • •
+
+Tuesday, June 16, 2009 1:14 AM
+From:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+of all DNI sessions collected
+
+Sessions
+from web
+based
+
+HTTÏÏP Activity
+
+Sessions from
+protocols*
+
+TOP SECRET//COMINT//REL T O USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+r
+
+■ MSN Messenger
+
+Datetime
+
+Case Notation From IR
+
+To IR
+
+From P To Pc Proto Length
+
+2009-06-16 16:1 IRS1014A
+
+(■— Iran) 65.|
+
+|(S United S1 51818 1863 TCP 137
+
+Session
+
+Header (3) Meta (7)
+
+Formatter
+
+I
+
+DNI PRESENTER
+
+Mode: Snippet
+
+•Mi Hälft ixi
+
+Search Content:
+
+m
+
+TOP SECRET//COMINT/.'20320108
+
+20090616 1617Û7Z
+
+@y ahoo. c om<msnpassport> logged in (im)
+
+DNI Display ] Raw Data [ DNI Format
+
+MSN Messenger 0 Display Status Messages □ Show Messages Only	□ Reverse
+Message Display	
+
+Messages
+
+From
+
+To
+
+Message
+
+Size: Q ©
+
+l@yahoo.com logging in
+
+Project Manager:
+
+Page Publisher: \
+
+Version: 1.4.0.3
+
+Build Date: Thu Feb 1913:02:15 GMT 2009
+
+g DNI PRESENTER
+
+TOP SECRET/iCOMINT.u20320108
+
+89.
+
+	Sen/er Processing Time: 2 ms	Data Load Time: 0 ms	Type: MSN Messenger
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Examples of traffic
+
+Skype sessions:
+
+Datetime
+
+Case Wotation
+
+2009-06-16 15:25:46
+
+IRS1014B
+
+From IP
+
+To IP
+
+(-i* Iran)
+
+(E3 Switzerland)
+
+From Port
+14414
+
+To Port
+
+Protocol
+
+13510 UDP
+
+Length
+
+179
+
+Session Header (3) Meta (3)
+
+»
+
+DNI PRESENTER
+
+
+
+Enter text to search
+
+TOP SEC RET//COMINT/.'20320108
+
+89.
+
+89.
+
+89.
+
+<SkypeTTser>
+SkypeUser>
+
+'SkypeTJser>
+
+<SkypeUser>
+
+Project Managed
+Page Publisher^
+
+Version: 1.4.0.3
+Build Date: Thu Feb 19 13:02:15 GMT 2009
+
+ID: sess orig proc
+
+has leaker IP
+
+10.0.0.3
+
+Tvnp' KFF/Rinarv r’*L Printnr Fripnrllv Vpmion
+
+c82814cf5ffD5776<SkypeNode>
+
+seen with machine ID c82814cf5ff05776<SkypeNode>
+seen with machine ID c 1695fc7feefl59 e<SkypeNode>
+
+has buddy
+client to server
+logged, in (im)
+
+|<SkypeUser>
+
+89
+
+c82814cf5fiTO5776<SkypeNode>
+
+c82814cßff05776<SkypeNode>
+
+cS2314cf5ff0577ö<SkypeNode>
+
+c82814cßfiTO5776<SkypeNode>
+
+c82814cßff05776<SkypeNode>
+
+seen with machine ID1 c82814cf5ff05776<SkypeNode> c82814cf5TO5776<SkypeNode> “
+
+’ • '-L»
+
+è3L5 DNI PRESENTER
+
+TOP SEC RET//COM INT/.•'20320108
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+> 10 01 1
+1 ûû I I	oo I
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+of all DNI sessions collected
+
+Sessions
+from web
+based
+
+HTTP Activity
+
+Sessions from
+
+protocols
+
+TOP SECRET//COMINT//REL T O USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+The typical way to search HTTP Activity is to start with
+User Activity in MARINA.
+
+For example, we’ll start with this 16 June activity
+
+TS A
+
+20090616 143827Z
+20090616 143936Z
+20090616 144127Z
+20090616 144409Z
+20090616 1444 27Z
+20090616 144715Z
+20090616 144715Z
+20090616 144715Z
+20090616 144715Z
+20090616 144715Z
+20090616 144715Z
+20090616 144717Z
+20090616 144717Z
+20090616 144718Z
+20090616 14495ÛZ
+
+USERID PHONE USER A
+
+<SkypeUser>
+|<SkypeUser>
+:SkypeUser>
+:SkypeUser>
+|<SkypeUser>
+|<SkypeTJser>
+:SkypeUser>
+|<SkvpeUser>
+|<SkypeTJser>
+:SkypeUser>
+|<SkvpeUser>
+:SkypeUser>
+<SkypeUser>
+|<SkvpeUser>
+:SkypeUser>
+
+ACTIVITY USER_B
+
+logged in (am) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+logged in (im) 89.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Understand what is behind the IP
+
+■	Ensure Activity on IP can be associated with
+Target
+
+■	Understand IP usage Dynamic/Static
+
+■	Research IP using Foxtrail/NKB
+
+■	Is it a Proxy, DVBLAN, Dial-Up, DSL, etc
+
+■	Is it Client to Server or Server to Client
+
+■	Still not sure? User Activity pull for 5 minute
+period on Foreign IP
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+MultiSearch on IP Address
+
+7
+
+Let’s take what we used last week and do a Multi-Search to
+discover any web activity around the time the account was active
+
+G	3-e  G	3 Search 3 Q Classic a 0J MultiSearch
+l		SlP Addresses
+
+S Mac Address	Datetime:	Custom v	Start:	2009-06-16	□		14:30	A  V	Stop:	2009-06-16	□		16:30	A  V
+
+Q G3 Classic A-M
+I-SI Alert
+¡5 Black Derry
+j L0CNE
+SI Call Logs
+S Category DNI
+j ;•••[£] Cellular DNI
+
+S Cisco Passwords
+j ;-0DNS
+
+S Document Metadata
+S Document Tagging
+S Email Addresses
+S Extracted Files
+j H£| Full Log DN
+|	;-S HTTP Activity
+
+I-SI IKE Parser
+
+IRC Cafe Geolocation
+¡2 Logins and Passwords
+S Micro plugin Metadata
+
+IP Address:
+
+0 From
+
+IP Role: 0 To
+
+0 X-Forwarded-For
+
+	✓	User Activity
+Search		Phone Number Extractor
+		Email Addresses
+Forms		Extracted Files
+Clear	✓	HTTP Activity
+	✓	Full Log
+		Web Proxy
+
+TOP SECRET//COMINTWRELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Note the # of results for each search, compared
+the 28 MARINA results which was for the same
+IP address and same time frame
+
+My Recent Results					
+Help Actions T View	r				
+Query Name	Query Type	Status	Actions	Num Results	Num DBs
+[r] 16 iune example	userjactivity	finished		0	1 of 1
+[p| 16 iune example	fulljog	finished		3223	1 of 1
+[H 16 iune example	httpjoarser	finished	*0	2626	1 of 1
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Results
+
+Of interest we see visits to Web Pages like
+
+littp:tfwitter.
+
+•p^rshinkiwi
+
+liti|K//wwwJïlï€xoaik.|iersiaii/
+
+I  IHBi .  ■H.  ■ ■  i _	'tieliriiiiloiitloii.com.	■  1
+	ijhiiliimnews.ir'	
+
+htt|>:/'esht^r,i^-in,it,ill>^¡,iíliclJ>loíi5|>ot.coni2(M)9li06l>h>ii|>oít_4312.litnil
+
+weh search: Prärie lection
+
+google search:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Results
+
+■ Notice how all of the HTTP GET requests were going to the
+same IP address even though they are for different web
+servers....what’s going on here?
+
+Host
+
+i nt e gr at ed sea re h .t witt e r .c orn
+
+www.bbc.co.uk
+
+www.newyorker.com
+
+newsimg.bbc.co.uk
+
+twitter .corn
+
+www .1 acebook .com
+
+static.twitter.com
+
+stats.bbc.co.uk
+
+visualscience .external .bbc .co .uk
+
+news.bbc.co.uk
+
+profile .ak .facebook.com
+
+To IP	To Port
+
+Count
+
+489
+
+126
+
+57
+
+31
+
+22
+
+21
+
+12
+
+12
+
+7
+
+6
+
+5
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example #2
+
+■ Analysis of 27 May Internet session of PK
+based target started in MARINA
+
+TSA
+
+20090527 052156Z
+20090527 052156Z
+20090527 052156Z
+20090527 052157Z
+20090527 052159Z
+20090527 052236Z
+20090527 052236Z
+20090527 052236Z
+20090527 052236Z
+20090527 052236Z
+
+USERID PHONE USER A
+
+ACTIVITY USER B
+
+[@gmail.com<google> logged in (email) 116
+@gmail. com<goo gle > 4* logged in (email) 116
+§)gniail.com<google> & logged in (email) 116
+yahoo>	logged	in	(email)	116
+
+yahoo>
+
+-yahoo > A?
+-yahoo > A?
+-yahoo> A?
+-yahoo > A*
+-yahoo>
+
+logged in (email) 116|
+logged in (email) 116.1
+logged in (email) 116.
+logged in (email) 116.
+logged in (email) 116.
+logged in (email) 116.
+
+i
+
+13
+
+(3
+
+0
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+The analyst then did an HTTP activity query to
+find all web surfing from that IP address within
+the same rough timeframe.
+
+0 {=3 Classic A-M
+¡1=1 Alert
+¡£1 BlackBerry
+:gCME
+¡1=1 Call Logs
+¡£1 Category DNI
+g Cellular DNI
+¡1=1 Cisco Passwords
+g DNS
+
+g Document Metadata
+g Document Tagging
+g Email .Addresses
+g Extracted Files
+j-g Full Log DNI
+j-g HTTP Activity
+j I-IS IKE Parser
+
+g IRC Cafe Geolocation
+g Logins and Passwords
+•■IS Micro plug in Metadata
+
+r~i	hi v
+
+Search: HTTP Activity
+
+Query Name:	27_may_activity
+
+Justification:
+
+PK IP address used by ct. target
+in paksitan
+
+Datetirne;
+
+Custom
+
+-
+
+Start:	2009-05-27	□	05:20	A  V	Stop:	2009-05-27	□	06:00	A  V
+
+
+
+IP Address:
+IP Address:
+Port:
+Port:
+
+116
+
+From v
+
+To Ü
+
+From v
+
+To v
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+27 May HTTP Activity
+
+■ HTTP meta-data indicated possible Maktoob
+activity
+
+Datetime	HTTP t]	Host	URL Path
+2009-05-27 05:22:39	get	cilii.niaktooD.com	.iie w Ma kt o o D:11 o m e P ag e ima ges/l ogo. i ï n g
+2009-05-27 05:22:45	get	ciln.maktooD.com	'iiewMaktool>.'liomePaíje'Imagesjlmcj3.gif
+2009-05-27 05:22:45	get	ciln.maktöoD.com	/newMaktooD.liomeP age •Images.lmg4.gif
+2009-05-27 05:22:3»	get	ccln.maktooD.com	.4ocalizatioii.1niages.4ocal_toolDai7rit_lctalj.gif
+2009-05-27 05:22:45	get	ciln.maktooD.com	/newMaktooDliomePage.ImagesImyl.gif
+2009-05-27 05:22:39	get	ciln.maktooD.com	iocalization/images'localtoolDar/grcILCtab.grf
+2009-05-27 05:22:3»	get	cilii.maktooD.com	iocalization.ini,lgesiocaltoolDar.Tlags'ae.ijrf
+
+FmO Fm City (IP)
+PK KARACHI
+
+PK KARACHI
+PK KARACHI
+PK KARACHI
+PK KARACHI
+PK KARACHI
+PK KARACHI
+
+To C To City (IP)
+US HERIJDOH
+
+US HERNDON
+US HERNDON
+US HERNDON
+US HERNDON
+US HERNDON
+US HERNDON
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TSA
+
+20090527 052156Z
+20090527 052156Z
+20090527 052156Z
+20090527 052157Z
+20090527 052159Z
+20090527 052236Z
+20090527 052236Z
+
+20090527 052236Z
+
+20090527 052236Z
+
+20090527 052236Z
+
+USERID PHONE USER A
+
+ACTIVITY USER_B
+
+@gmail.com<google> 4? logged in (email) 116
+ail.com<google> 4* logged in (email) 116
+
+§j}gniail.com<google> 4* logged in (email) 116j
+yahoo>	logged in (email) 116.
+
+yahoo>
+
+'yahoo>
+'yahoo> A?
+-yahoo> A?
+-yahoo> A*
+-yahoo>
+
+logge d in (email) 1161
+logged in (email) 116]
+logged in (email) 116
+logged in (email) 116
+logged in (email) 116
+logged in (email) 116
+
+i
+
+13
+
+(3
+
+0
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+27 May User Activity Results
+
+■ XKS’s User Activity also didn’t show any
+Maktoob activity
+
+Datetime End
+2»®» 05 27 05:23:58
+
+05-27 05:23:58
+
+05-27 05:23:58
+
+05-27 05:23:58
+
+05-27 05:30:07
+
+Search Value
+
+Realm	Attribute Type	Attribute Value	Activity
+yahoo	B_cookie	bsgamu5517ssv	loginjwebmail
+yahoo	B_cookie	bsijamv5517ssv	loginjwebmail
+yahoo	B_cookie	bsgamu5517ssv	loginjwebmail
+yahoo	B_cookie	Iistjamv5517ssv	loginjwebmail
+yahoo	B_cookie	bsgamu5517ssv	loginjwebmail
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Was it just a visit to the Maktoob home page or
+was there an actual web-mail log-in?
+
+In most cases “active user” and “previous user”
+information from web-mail protocols comes
+from the cookie field.
+
+■ XKS HTTP Activity breaks out the entire cookie
+field, even if protocol analysis doesn’t know
+what each part means
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01 ,ül
+1001 I oc
+
+H * IJ_1 : J
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+27 May HTTP Activity
+
+Look at the full cell value:
+
+Cookie
+
+ang=ar; OAX={IEiHOEocyulAC5Lw; RMFD=011M9BlliO1043II |01<D47Px; c=pk; _
+
+Row Actions
+
+[-» View Session
+
+View Session (New Window)
+
+; — Show All Row Values
+
+☆ Mark Metadata row as Important
+
+vjfc/ Send to Agility Realtime
+
+y Execute Persona Analysis Query
+
+Cell Actions
+Filters
+
+S3 Show Full Cell Value
+
+Check where Cooke Equals 'lang=ar; OAX=dEcHOEo,,
+
+Un-Check where Cookie Equals 'lang=ar; OAX=dEcHOEo..
+
+i c=i>k; _
+;c=pk;_
+
+I c=l>k; _
+;c=pk;_
+: c=pk; _
+; c=pk; _
+)1047Px;
+
+; c=pk; _
+I c=l>k; _
+;c=pk;_
+: c=pk; _
+: c=|>k; _
+; c=|>k; _
+; c=|»k; _
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+By looking at the full cookie, the analyst noticed
+what appeared to be the target’s username
+
+lang=ar; OAX={IEcHOEocyulAC5Lw; RMFD=011 M9BHi01043II|01047Px; c=|>k; _ http:7www.makti
+
+Cookie
+
+fliCSLw; RMFD=0 I I M9BI HOI 04311 |G1 047Px; c=pk; _ http:yywww.ijgi
+
+i
+
+lang=ar; OAX=dEcHOEocyuIACSLw; RMFD=011M9BND104311101047Px; c=pk;
+
+__utma=206054159.4027773062198129700.1243400938.1243400938.1243401768.2;
+
+__utmb=206054159.1.10.1243401768;
+
+__utmz=206054159.1243400938.1.1. utmcsr=idiredOlutmccn=(direct) | utmcmd=(none);
+
+str_tab=sport, news, jokesNew, undefined; (m^^^^^^:.22%2C%22 1243401282;
+
+RMAM=0 lcen 16_1060.4aD066GG |; _utmc=206054159
+
+[■
+
+it'
+
+t'
+
+i
+
+r
+
+h
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+27 May HTTP Activity
+
+The content also shows the cookie value:
+
+GET /to c aiization/js/loc alization. utf- 8. js/20 0 9/5/2 6/8 999991 HTTP/1.1
+Accept;	*/*
+
+R efer e r;	http ://w eb 14. makto o b. c om/mail2. ne wlogm/ compose432.php? nm==956880045
+
+Accept-Language: eri-us
+Accept-Encoding; gap, deflate
+
+IJs er-Agent:	Mozilla/4.0 (c omp atibl e; MS IE 6.0; "Wind o ws NT 5.1; S'V1)
+
+Ho st:	c dn. rnakt oob.com
+
+C onne ction;	Keep - Alive
+
+Cookie:	lang=ar
+
+OAX=dEcHOEo cyuIAC5Lw
+
+RMFD=011 M9BNtO 104 3jt|010431I|01047Px
+
+c=pk
+
+__utma=2 06054159.4027773062198129700.1243400938.1243400938.1243401768.2
+
+__utmb=206054159.1.10.1243401768
+
+__utmz=206054159.1243400938.1. l.utmcsr=( direct) |utmccn=( direct) |utmcmd=(none)
+
+str_tab=sp ort,news jokesN ew, undefined
+I MKLLD^^B"^1243402079	|
+
+RMAM=01 c enl 6_ 10 6 0.4aD0 6 6 GG|
+wlm_utf- 8=0
+wlm_windo ws -12 5 6=0
+__utmc=2 06054159
+
+MKTID=JDhdVmJ8RKc4fWIF OAZScTS1 eTcs cE97EyoMGiVjeA4sDAdWPzMWQkOLKm5 acjxNBjMxN
+logged=l
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why wasn’t this activity in MARINA or XKS’s
+User Activity (both fed by AppProc)?
+
+Because Protocol Exploitation hadn’t identified
+this particular Maktoob service
+
+Since it hadn’t been identified, AppProc could
+not produce meta-data and DECODEORDAIN
+was not producing permutations for strong
+selection
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+27 May Maktoob Activity
+
+■ In this particular case, analysts from Protocol
+Exploitation were able to determine that the
+MKLLD= cookie was identifying the “previous
+user” but not the “active user”
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Moral of the story
+
+Internet applications are dynamic, and protocol
+analysts are not able to identify and build
+capabilities to exploit every known application
+
+It’s important that target analysts use tools like
+XKS to aggressively develop their target to
+uncover applications that are previously
+unidentified or are not currently being
+processed properly
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ The Multi-Search page gives you the ability to search full log and
+HTTP activity based on an IP address at the same time
+
+0-03 Search
+0 03 Classic
+
+0 £3 Multi Search
+
+[
+
+®IP Addresses
+
+•0Mac Address
+H Username
+003Classic A-M
+I-IH Alert
+¡5 Black Derry
+
+Hcne
+
+H Call Logs
+H Category DNI
+H Cellular DNI
+H Cisco Passwords
+•El DNS
+
+H Document Metadata
+H Document Tagging
+IH Email Addresses
+H Extracted Files
+Full Log DNI
+0 HTTP Activity
+H IKE Parser
+¡2 IRC Cafe Geolocation
+¡2 Logins and Passwords
+=2 Micro plugin Metadata
+
+Simply enter in an IP address, choose any or all
+“roles” (ie. from/to/xff) and then choose what
+search forms you want.
+
+IP .Address:
+
+0 From
+
+IP Role:	0 To  0 X-Fomarded-For	
+Search		User Activity  Phone Number Extractor
+		Email Addresses
+Forms		Extracted Files
+Clear	■■■■i  ✓  c	HTTP Activity Full Log Web Proxy
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Who to contact
+
+■ If you discover examples that don’t seem to be
+processing correctly, don’t hesitate to contact
+the experts at traffichelp@nsa.ic.gov
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

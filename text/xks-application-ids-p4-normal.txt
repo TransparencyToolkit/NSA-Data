@@ -1,0 +1,28 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+OIOOI
+
+0	to 01
+
+1	101 01000 "
+* 01 IOIOIO
+
+ICOMWI
+
+Levels
+
+sera
+
+Levels are 1.0 - 9.9 with lower numbers meaning higher priority.
+
+This allows multiple signatures to match a piece of traffic, but
+only the most specific appid will be applied. For example:
+
+appidCchat', 9.9) = ...
+appIdCchat/yahoo', 9.8) = ...
+appidCchat/yahoo/incomlng', 9.7 = ...
+
+If a session matches all three signatures, the appid will be
+'chat/yahoo/incoming' since that has the best priority.
+
+TOP SECRET//COMINT//REL TO USA. FVEY

@@ -1,0 +1,21 @@
+﻿SECÇET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//202911 23
+
+Context-Aware Scanning
+
+•Tasking is so flexible that it can include
+regular expressions (REGEXs) with few or
+no anchor points
+
+•Ex: Can we find documents that have MAC
+addresses in them?
+
+•The following Regex looks for MAC
+addresses:
+
+•"(00|01|02|04|08|10|3C|44):(?=[\d:]{0,l
+
+2}[a-f])([\da-f]{2»:([\da-f]{2»:([\da-
+
+f]{2»:([\da-f]{2»:([\da-f]{2»"
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

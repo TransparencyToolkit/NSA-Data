@@ -1,0 +1,7 @@
+﻿Third parameter is the application type; if missing, we use
+the appid name up to the first slash as the type
+
+appid('http/response', 9.2, 'web') = ...
+appid('chat/yahoo/incoming', 9.1) = ...
+
+TOP SECRET//COMINT//REL TO USA. FVEY

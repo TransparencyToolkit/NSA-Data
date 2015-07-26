@@ -1,0 +1,10 @@
+﻿Fingerprints 101: Boolean Logic
+
+For example, we can expand on our previous
+fingerprint like so
+
+fingerprint (‘cp/pakistan/agencies/ndc’) =
+(‘National Development Complex’ or ‘NDC’)
+and (‘quotation or ‘invoice’) ;
+
+TOP SECRET//COM1NT

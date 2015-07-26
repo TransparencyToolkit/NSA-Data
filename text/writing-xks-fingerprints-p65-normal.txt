@@ -1,0 +1,9 @@
+﻿Syntax Rules
+
+• Secondly every fingerprint definition must be
+completed by a semi-colon.
+
+fingerprint(‘test/blah/something’, owner =
+‘badguy’;
+
+TOP SECRET//COM1NT

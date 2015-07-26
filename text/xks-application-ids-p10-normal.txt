@@ -1,0 +1,18 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+omm 1
+
+Keyword Lenath
+
+Keywords must be at least 3 characters or they will never
+hit. This minimum is increased to 4 at some sites for
+performance reasons.
+
+Regular expressions must include a fixed "anchor" meeting
+the minimum keyword length.
+
+Bad: /[A-Z]{3}-[0-9]{3,5}/
+
+OK: /ABC-[0-9]{3,5}/
+
+TOP SECRET//COMINT//REL TO USA, FVEY

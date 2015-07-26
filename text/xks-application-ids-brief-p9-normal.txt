@@ -1,0 +1,21 @@
+﻿Classification: TOP 5ECRET//COMINT//ORCON//REL TO USA, FVEY//202911
+
+Built in functions
+
+email address(sel)	permutes just like strong selector (just like
+
+DECODEORDAIN
+
+mac_address(addr)	Tasks a mac address
+
+smac(addr)
+
+dmac(addr)
+
+ip(addr)	tasks this	IP	address	(either to or	from)
+
+fromjp(addr)	tasks this	IP	address	only when it	is the	originator
+
+tojp(addr)	tasks this	IP	address	only when it	is the	destination
+
+Classification: TOP SECRET//COM INT//ORCON//REL TO USA, FVEY//20291123

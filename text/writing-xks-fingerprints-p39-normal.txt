@@ -1,0 +1,14 @@
+﻿Fingerprints 101: Variables
+
+•	Variables allow you to link to a list of keywords.
+
+•	For example, working with this fingerprint, we
+could create variables to each grouping of terms.
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+
+((‘National Development Complex’ or ‘NDC’) and
+(‘quotation or ‘invoice’)) and not (‘viagra’ or
+‘herbal supplement’);
+
+TOP SECRET//COM1NT

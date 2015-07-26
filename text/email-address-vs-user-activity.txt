@@ -1,0 +1,760 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+
+
+vs User Activity
+
+
+
+
+
+24 June 2009
+
+
+
+
+
+"»Ol 01
+
+t »	«4
+
+Ha#f* IWt
+
+
+
+
+
+
+
+	De	rived From: NSA/CSSM 1-52 Dated 20070108 Declassify On: 2029112j5
+DERIVED FROM: NSA/Ctf		
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Email Addresses
+
+■	The Email Address search allows you to search
+on:
+
+■	Full Email Address
+
+Do not search on/wildcard JUST the username, always
+include a specific domain
+
+■	Foreign-hosted domains (e.g. @cnc.cn)
+
+■	The query searches within bodies of emails,
+webpages and documents for... .(you guessed
+it)... Email Addresses
+
+■	To, From, CC, BCC lines..
+
+■	“Contact Us” pages on websites
+
+■	Signature blocks
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Email Address
+
+Email Addresses are found in many parts o
+traffic
+
+DNI Display] Raw Data I DNI Format
+
+up traffic with email
+addresses in it..
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Email Address
+
+DNI Display Raw Data DNI Format
+
+RE: Malaysia Tax
+
+Subject:
+
+From:
+
+To:
+
+Cc:
+
+Date:	Tue Jun 23 12:41:25 GMT 2009
+
+Attachments:	§imaqeO01 jpg (12013 bytes);
+
+X-KEYSCORE C2C Session Viewer
+
+[session) 9
+
+Datetirne	Case Notation	From IP
+
+2009-06-23 12:41:28	PP.PAQ755Q000000	198.1
+
+To IP
+
+(= United States; 219
+
+Malaysia)
+
+From Port To Port Protoco Len
+39247	25 tcp 481
+
+Session	Header (3)
+	
+
+attribute_info.txt	C	ai l_add resse s.tap			tech.html	application_îd.xml	appproc.asdf	xks_snippet.txt	ph one_nu m b er. ht ml
+fingerprints, xml	user_activity.xml			ip_lc_trie.txt					
+
+
+
+email addresses.txt
+
+FORMATTER
+
+AUTO v
+
+XKEYSCORE parses out everything it ‘thinks’ is
+an email address, so don’t be fooled by mis-hits
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Enter usernames and domains into query
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ BE VERY CAREFUL of OR’ing domains
+
+Search: Email Addresses
+
+Query Name:
+
+Justification:
+Additional Justification:
+
+agi in Iran sample
+
+When working with multiple
+domains, create separate
+Email Address queries for
+each. i.e. Group your
+queries by domain names.
+
+v
+
+Miranda Number:
+
+Datetirne:
+
+1 Day
+
+Start:
+
+2009-06-23
+
+□
+
+	
+00:00	A  V
+
+Stop:	2009
+
+Email Username:
+
+badguy or baddudel or badguysema.il
+
+©Domain:	yahoo.com or hotmail.com
+
+Subject:
+
+Mulitiple domains means
+either badguy@yahoo.com
+or badguy@hotmaii.com.
+Are both your targets?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Email Address
+
+» p
+
+■ Sample Search: baku@huawei.com
+
+Search: Email Addresses
+
+Query Name:
+
+Justification:
+
+Additional Justification:
+Miranda Number:
+
+Datetime:
+
+1 Week v
+
+Start:	2009-06-17	*		00:00	< >
+
+st
+
+Email Username:
+©Domain:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Email Address
+
+Email Addresses are found in many parts of
+traffic
+
+em
+
+DNI Display
+
+Raw Data DNI Format
+
++ HTTP Header Information
+
+Services
+
+Fax: 0061-2-94118533
+
+Vienna. Austria
+
+Ezone Office Building, 4th Floor/ Top 7, Emst-
+Melchior-Gasse 20.1020 Vienna, Austria
+
+nr 1_nn .1 > -i inn-nnnn______
+
+Results here are from
+someone viewing a website
+that contained the email
+address
+
+Content Type: HTTP/HTivlL
+
+Bj
+
+:erbaij
+Plaza i
+
+Caspian
+Azerbaijan, Azl065
+Tel: 0099412-
+Fax: 0099412
+
+,blocKM0-611, J.Jabbarlv St., Baki
+
+■mail:
+
+aku(3)liuawei. co
+
+Building 647, Road 2<
+Tel: 00973-17568708
+Fax: 00973-17568701
+
+Bahram. Baluain
+
+?
+
+of Bahrain Villa NO.l, Molíamedia Garden, Gate N0.36,Road
+No.3431 .Block No.334,Bahrain
+Tel: 00974-3443296/00973 -9580085
+
+Dliaka, Bangladesh	Minsk, Belarus
+
+R M Centere(2nd Floor),101, gulshaii Avenue Gulshan Model Korolya str.,51, floor-2, office-28, Minsk,Belarus
+
+nr ATtN\ T\t SA	ni t d Adsa1 a/1	nrnni’ii 1 *7 Tri;ioori2
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+User Activity query is based on APPRO
+collection (such as chat, webmail, etc)
+
+■ Allows more flexible search criteria than
+Email Address query
+
+■ Can search on: Cookies, numeric logins (e.g.
+web forums & OSN), VoIP selectors, webcam
+first images, Webmail profile information from
+registration (birthdays), general usernames
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Queries
+
+■ The fields in a User Activity query can be
+confusing
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+I f
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■I I ill
+
+Creating User Activity Queries
+
+The fields in a User Activity query can be
+confusing
+
+Search For Search Value
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+Attribute Type
+communicants
+
+contact Jist
+direction
+
+rom
+
+)revious_user
+aw metadata
+
+iser realm
+
+emailAddr
+app j>r ovider
+
+Attribute Value
+
+saifdes ziad197
+
+0920273966 999999 a_salty ajJovejne at (
+
+seiver-to-client
+
+t
+
+Notice partial email addresses in the
+“Search Value” field..
+
+<
+
+emailAddr
+
+//CO MINT//RE L TO USA, AUS, CAN, GBR, NZL
+
+Queries
+
+■ Scenario:
+
+You have a target’s email address:
+
+■ ^^^^^^@hotmail.com
+
+Known: One email address
+
+■ Unknown: Alternate ID’s, IPs, Location, Photo,
+etc... (lots of stuff)
+
+Where do we begin?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ I have an Email Address and want to see if it’s being collected?
+
+■ Do an Email Address query on username and domain
+
+Email Username:
+
+baku
+
+©Domain:
+
+huawei.com
+
+■ Do a User Activity query on the email address in the “Selector Value”
+
+Search Value:
+
+baku@hua.wei*
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+I want to....
+
+r
+
+I have a Cookie and want to see what other accounts access this
+computer
+
+■ Do TWO separate User Activity query on the cookies
+
+1.
+
+Attribute Value:	dg8qOod4uOII4
+	
+
+Search For
+username
+
+username
+11 semaine
+username
+username
+username
+username
+username
+username
+username
+username
+
+Searct^ilue
+
+[gyalioo
+[äyalioo
+teyahoo
+|$yahoo
+Igyalioo
+<ly8q0o<l4ii0li4
+
+(dyalioo
+(tfyahoo
+Igyahoo
+toyahoo
+Igyahoo
+
+Attribyie-4$a^
+ÎiooBcookie'
+
+B_cookie
+
+B_cookie
+
+yah ooBco Okie
+
+yah ooBco Okie
+
+B_cookie
+
+B_cookie
+
+B_cookie
+
+yahooBcookie
+
+iRcookk
+
+TOP SECRET//COMINT//RE
+
+Attribute Value
+<lgô<|ûo<l4uûli4
+
+•dfj8<i0o<l4ii0M4
+
+<lg8<|öo<l4uöli4
+
+Ifj8<i0o<l4u0li4
+
+Ig8<|0o<l4u0li4
+
+Ig8<|0o<l4u0li4
+
+dg8<|öo<l4uöli4
+
+<lfj8<i0o<l4u0li4
+
+<lg8<|öo<l4uöli4
+
+_iliiaiiiknl4iiûli4-
+
+Brings back THESE
+results...
+
+Notice redundancy.. So you MAY miss traffic
+if you select “B cookie” or “yahooBcookie”
+(don’t know why)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+I want to....
+
+r
+
+I have a Cookie and want to see what other accounts access this
+computer
+
+■ Do TWO separate User Activity query on the cookies
+
+2.
+
+Search Value:
+
+dg8q0od4u0li4
+
+Search For
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+Search Value
+
+•(l£j8<|0O<l4tlOli4
+
+Clg8q0od4u0li4
+
+•(l£j8<|Qu><l4tl0li4
+
+Clg8q0od4u0li4
+
+•(l£j8<|0O<l4tlOli4
+
+dg8q0od4u0N4
+
+•(l£j8<|0O<l4tlOli4
+
+dg8q0od4u0N4
+
+<li|8<|0e<l4ll0li4
+
+V
+
+yahoo
+
+yahoo
+
+yahoo
+
+yahoo
+
+yahoo
+
+yahoo
+
+yahoo
+
+yahoo
+
+Brings back THESE
+results...
+
+TOP SECRET//COMINT//RB
+
+Notice redundancy.. So you MAY miss traffic
+if you select “B cookie” or “yahooBcookie”
+(don’t know why)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+I want to....
+
+r
+
+I have a Cookie and want to see what other accounts access this
+computer
+
+■ Do a Marina query on the cookie as well (why not)?
+
+Specify Date Range
+(YYYYMMDD [Minims s] ) :
+
+20090614
+
+a
+
+to
+
+20000620
+
+Dü <s
+
+Date
+
+for User Activitv bv...
+
+r	«r
+
+that...
+the value (s)...
+
+Strong Selectors (Emads, IDs, Cookies, Mail Tokens, Phone
+
+exactly match
+
+dgo q0od4 uO JL ±4 <yaho q be q okie >
+
+lit is reached, return,
+where value
+
+filter bv
+
+newest data ^ ? (100,000 raw metadata result limit)
+
+ire five user ?
+
+0 in user a or user b coluimi ?
+
+omlition
+
+Add
+
+Jbield
+
+Criteria
+
+"Eiuicluneiftt Options; O All O None <3> Selec
+
+Queiy Justification (optional):
+
+iranian b cookie in esfahan
+
+Submit I Reset Form | Clear Form |
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ I have a Cookie and want to see what other accounts access this
+computer
+
+■ Do a Marina query on the cookie as well (why not)?
+
+USER A
+
+ACTIVITY
+
+USER B
+
+COOKIE
+
+^B<vahoo> seen with machine ID dg8q0od4u0h4<yahooBcoolde> dg8q0od4ii0li4<yahooBcoolde>
+yahoo>	seen with machine ID dg8q0od4u0h4<yahooBcoolde> dg8qOod4u0li4<y ahooBc o olde>
+
+yahoo>	seen with machine ID dg8q0od4u0h4<yahooBcoolde> dg8q0od4ii0li4<yahooBcoolde>
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+I want to....
+
+r
+
+So let’s put the cookie query all together...
+
+■ Between Marina and XKS, I should have an idea of all the accounts
+Results pulling on dg8q0od4u0li4 as 8 Search Value
+
+Search For	Search Value	Attribute Type 	
+username	•rtd8<|God4u0li4	yahoo f |
+username	<ly8q0o<l4ii0li4	yahoo
+
+username <Iîi8<i0o<I4ii0M4
+
+raw metadata
+
+<commEveirtSummarv> <ai>nPrc
+
+Plus my Marina results
+
+-A--------_ ACITVTTY	USER B
+
+C O OKIE
+
+ahoo>^»een with machine ID dg8q0od4u0li4<yahooBcoolde> dg8qQod4uOli4<yahooBcoolde>
+seen with macliine ID dg8qOod4u0li4<y ahocBc o olde> dg8qOod4uOli4<y all o oB c o old e>
+'yahoo> seen with machine ID dg8q0od4u0li4<yahooBcoolde> dg8qQod4uOli4<yahooBcoolde>
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ I have an IP address and want to know what users/accounts are
+collected in that network? (I.E. a Cafe’s IP address, or mail/web
+server for an organization)
+
+■ Do an Email Address
+
+query on the IP address
+
+Email Username:
+
+©Domain:
+
+Subject:
+
+IP Address:
+
+		From	
+			
+
+■ Do a User Activity query
+on the IP address
+
+Fearrh Fnr
+
+Searen Value
+Pealn
+Attribute T/oe
+Attrtcte Value
+
+Activity
+
+scurre
+
+IP Address:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Email Address query looks for the @ symbol in
+traff i c
+
+User Activity search allows you to query on
+more than just an email address
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

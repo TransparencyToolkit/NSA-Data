@@ -1,0 +1,11 @@
+﻿Fingerprints 101: Keywords
+
+Finally, all fingerprint definitions need to
+end with a semi colon to tell XKS that the
+definition is finished
+
+fingerprint(encryption/mojahdeen2’) =
+
+‘ASRAR El Mojahdeen V2.0 Encrypted Message
+
+TOP SECRET//COM1NT

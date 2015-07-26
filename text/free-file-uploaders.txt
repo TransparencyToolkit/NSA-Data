@@ -1,0 +1,1028 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Agenda
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	Overview of how FFU’s work and what the
+raw data looks like in XKS
+
+■	Targets use of FFU’s
+
+■	How to exploit in XKS
+
+■	HTTP Activity Search
+
+■	(new) Web File Transfer Search
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+What is an FFU?
+
+A free file uploader is a website that allows
+you to upload a file and then hosts that file
+for others to download.
+
+Think of the “dropbox” service that we have
+on NSAnet.
+
+■	Since Free File Upoaders are web-based,
+the HTTP Activity plug-in will be the first
+place to look for activity
+
+■	We’ll also introduce the Web File Transfer
+plug-in
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	Most FFU sites are free and don’t require
+accounts, but only allow for basic service
+
+■	For example, files might only stored for a
+short period of time
+
+■	Or the person who uploads it does not have
+a lot of access into who has downloaded
+their files and how many times
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+“Premium” accounts for FFU
+
+■ Some FFU sites allow for “premium” access,
+maybe just by registering or maybe by charging
+the user a fee
+
+■	Premium access might allow for more uploads per
+account, or files that can be stored longer
+
+■	Some premium accounts give the uploader
+“admin” insight into how many times a given file
+was downloaded (commonly referred to as a
+“counter”).
+
+■	Some premium account sites will even allow the
+uploader to see the IP address and datetimes
+associated with each download.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example of “Premium” access
+
+r
+
+For Zshare.com:
+
+M orium up 1 o ad s is e 50 0 M B.
+
+Now up to 2GB for Premium users! and 1GB for registered users!
+
+Privacy:	© Share your file, with the world (Recommended)
+
+'For your eyes only (Private) : Registered users only
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Challenges with FFU
+
+■	Almost no FFU activity contains strong
+selectors (Username or E-mail
+Addresses) making it difficult to identify
+our target’s use of these services
+
+■	In most cases we see a URL to the file
+that doesn’t contain the original filename
+
+(eg! http://www.zshare.net/download/6365962739d34eba )
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■ HTTP activity comes in two types:
+
+FFU Servers
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+Client-to-Server request of the homepage
+
+GET/HTTP/1.1	
+User-Agent:	Opera/9.22 (Windows NT 5.1; TJ; en)
+Host:	www.zshare.net
+Accept:	text/html, appHcation/xml;q=Q.9, application/xhtml xml, lrnage/png. lrnage/jpeg. lrnage/gif, image/x-xbitmap,
+Accept-  Language:	en-US,en;q=0.9
+Accept-Charset:	iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding:	deflate, gzip, x-gzip, identity, *,q=Q
+Cache-Control:	max-stale-0
+Connection:	close
+X-BlueCoat-Via:	0 A6F5353OF 3F6 3EE
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+Server-to-client response of the homepage
+
+XK S©£cion Viewer
+
+DNI Presenter - embedded
+
+Welcome to 2SHARE
+
+With zSHAKE you can upload files, images, videos, audio and flash for free. Simply use the upload form below ar.d start sharing! You can also
+use zSHARE as your personal file storage backup your data and protec: your fibs. First Time? Read our ?AC!
+
+•	Upload now
+
+•	Login
+
+•	Crea:e Free Account
+
+•	Premium
+
+•	Fa Q
+
+Upload a File, Image, Video, Audio or Flash Unlimited Downloads
+
+Mixiriuxa upluiU size 50DMB.
+
+Now up :o 2GE for Premium users! and 1GB for registered users!
+
+File:
+
+Description:
+
+Privacy.
+
+Browse.
+
+0	Share your fie with tie world (Recommended)
+
+For your ryes only (Private) Rgjstsedusosorfy
+
+Li Nudity (13+)
+
+01	nave read and agree to the TCS
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+Client-to-Server POST of the file
+
+POST /cgi-bin/ubr_upload.pl?uploadJd=6963384d1 a981 de0b38312900b149ae9
+&multiple=0&is_private=0&is_eighteen=0&pass=&deser= HTTP/1.1
+User-Agent: Opera/9.22 (Windows NT 5.1; U; en)
+
+Host: dl081 zshare.net:3000
+
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg,
+image/gif, image/x-xbitmap, */*;q=0.1
+
+Accept-Language: en-US,en;q=0.9 Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Expect: 100-continue
+Referer: http://www.zshare.net/
+
+Cookie: Sid=65985202ca9ff4f0fd000e0e4a182d59
+
+Cookie2: $Version=1 Connection: Keep-Alive, TE TE: deflate, gzip, chunked, identity,
+trailers Content-Length: 17048
+
+Content-Type: multipart/form-data; boundary=----9yxPJQJxOm5CCaMbP4XHns
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+The POST contains the file, but also the
+answers to the checkboxes on the homepage
+
+		
+Description:		
+Privacy:	© Share your file with the world (Recommended)  For VOUT eves onlv (Private) * Registered users ordv	
+	□ Nudity (18+)	
+	01 have read and agree to the TOS	
+
+Content-Disposition: form-data; name="descr"
+
+------------9yxPJQJxOm5CCaMbP4XHns
+
+Content-Disposition: form-data; name="is_private"
+0
+
+------------9yxPJQJxOm5CCaMbP4XHns
+
+Content-Disposition: form-data; name-'TOS"
+
+1
+
+------------9yxPJQJxOm5CCaMbP4XHns
+
+Content-Disposition: form-data; name="pass"
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+Client-to-Server checks of upload progress
+
+GET /uberupload/ubr get progress. php?upload_id=6963334 d 1 a981 deOb33312900b 14 9ae9 &start_tmne=l 249571828 1 &total_«pl<>ad_size=17048 &md_td=1249568235728 HTTP/1.1 J	
+User-Agent:	Opera/9.22 (Windows NT 5.1; U; en)
+Host:	dl081. zshare. net: 3000
+Accept:	text/html, application/xml;q=0.9, application/xhtml xml, image/png, image/jpeg, image/gif, image/x-xbitmap, H:/H:;q=0.1
+Accept-Language:	en-US,en;q=0.9
+Accept-Charset:	iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding:	deflate, gap, x-gzip, identity, *;q=0
+Referer:	http ://www. z share. net/
+Cookie:	sid=65985202c a9S4fOfdO 00e0e4al82d59
+		utma=213908395.1732651668.1249568234.1249568234.1249568234.1
+	_utmb=213908895
+	_utmc=21390889 5
+		utmz=213908395.1249568234.1.1. utmc cn=( dir ect)|utmcsr=( dir ect)|utmcmd= (none)
+Cookie2:	$V ersion=l
+Connection:	Keep-Alive, TE
+TE:	deflate, gzip, chunked, identity, trailers
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+Server-to-client response after successful
+
+Welcome to ZSHARE
+
+With zSIT/kREyou can upload files. images, videos, aucio and flash for free. Simply use the upload form below and start sharing! You
+can also use zSRAEJE as your personal file storage: backup your data and protect your files. First Time0 Read our ?AO!
+
+•	Upload now
+
+•	Login
+
+•	Create Free Ac count
+
+•	Premium
+
+•	FAC)
+
+File Uploaded
+
+Tne file klu pics.zip was successfully uploaded! (4.04MB). You're now ready to share it with unlimited people or keep it as a backup.
+Download Link
+
+http://www.zshare.net/download/637199570b 174c9fr
+
+Lnk for forum f
+Direct Link:
+
+Delete Link:
+
+[l JRI =http //www 7sharR nf=>t/dnwnlnad/fi37199R7flh174
+http://wAW.2share.net/downlo0d/637199570b174c9f/
+http://wAW.zsh are.net/del ete.html 7637199E7-7c8893b11
+
+E-mail Me This Tnfo
+
+To receive all the info on the file you uploaded, such as removal instructions and download link, enter your e-mail address on the
+field below:
+
+Your e-mail:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Critical piece of collect!
+
+This one server to client session serves as proof of the success
+of the upload and it connects the original filename to the URL
+that will be passed around in E-mail or forum posts
+
+File Uploaded
+
+Link for forums:
+Direct Liiil-!::
+Delete Link:
+
+[URL=http://www.zshare.neVdownload/637199570b174
+http ://www.zs h are. n et/d own I oad/63 719 9 57 0 b 174 c9f/
+
+http://www.zsh9.re.net/delete.html7G3719957-7c3893b1 k
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How FFU’s work
+
+HTTP activity in time order
+
+HTTP Type	J Host	J URL Path	URL Args
+yet	www.zshare.uet	/	
+; past	CÜ081 .zshare.net:3000	;c g i-bin/utor _upload.pl	upload _id=6963384dl a9Sl de0b333l 2900b149ae9âmultiple=0âis _private=Oâis_eighteen=OSpass=Sdescr=
+i* yet	dlOSI.zshare.nefcJOOO	Ailier 11| )l oad Ai l>r _set j>r oy r ess. plip	upl oad Jd=6963384d1a981 de0h38312900b149aeS
+1 yet	dl081.zshare.iiet:$000	Ailiempl oadu lir Ji nk_upload.|) lip	Nld_kl=1249568215088
+• yet	dI031.z$hare.net:3000	,1ndex2.ph|>	upload J<l=6963384dTa981de0h38312900l)149aeMfjd=tarmim.zi|)^(les<r=^miiltiple=08|)ass=^isj>riuate=0i
+k yet	(11031.zshare.nefcîO 00	AiliemploadAilirjjetjiroyress.plip	upload Jd=6963384d1a981de0b38312900b149ae9& start Jinie=12495713288total_u|)löad_size=17()488rndJd=1
+► yet	dI031.z$hare.iiet:3000	Albert ipl oad Ai l>r jjet j>r oy r ess. plip	upload J<l=696338W1a981de0h38312900l)149ae9istartJime=12405713238.total_u|)löacLsize=17(i43Srn(lj(l=l
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How does that activity look in XKS?
+
+Client to server request for the homepage
+
+CET / HTTP/'.. 1	
+User-Agen::	Opera/9.22 (Windows NT 5.1; L"; en)
+Host	wwv7. zshare.net
+Accept:	text/htaol, apple ation/xml; q=0.9, apple aionfehtml xml, inage/png, image.'jp eg, irr.age/gif, imags/x-xbitmap,  ***;q=C.: *
+Accept-  Language:	e.a-L’S,en;q=0.9
+*Ac:ept-Chars	iso-8859-1, utf-8, utf-16, *;q=C. 1
+Ac z ept-Enc o ckg	deflate, gzip, 25-gzip, ident-tj, *;c=0
+Ca;he-Control:	max-s:ale=0
+Connexion:	ciose
+X-31ueCo£t-Via:	0 A6F53530F 3F6 2EE
+
+HTTP activity meta-data:
+
+Application Into	Datetime	HTTP T* Host
+htt|j:.Gwww.zshare.iiet/	200»-«8-06 15:16:13	ijet www.zshare.net
+
+Application Type	Application	AppID C+Fingerprints)
+
+filetiMnsfer	filetransfer.iwebsshare	f ¡letr,in$fcrvvel>z$h,ire
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How does that activity look in XKS?
+
+Server-to-Client reauest of the homepage:
+
+Ut	U P6i l»irrcftUiU;r uiiI-.iMl-J ¿3
+
+Welcome to2SIIAMC
+
+*.W- :J'HiHi:\ii .•.’•va:I *1 > r’^x.	9r<:IU>lil':i l^ur'y ->i: Ji ir.-*-jj4:l :-■•••I:-«,* %n:l < %t <*jcr »»I V-:n sc jo-:
+
+ii<	»> y:-j :• ikiuI *1	lir- «-:ir	% sc-t jji-jUj ly:» j -I > “*i< *m *•' K -a:\ :• j F
+
+•	UkIv«a: iiv—
+
+« Ix:2Ji
+
+« Cr:or.; "f: A:< xl^
+
+« IrsnuL:
+
+•	PA*
+
+Upload a File, linage, Video. Audio or Flash Unlimited Downloads
+
+M« r/ir	Ml
+
+Mcii/Ia/'I *'*r ivriiir^i sn^l*ilfa r/jolju'.'vttt*
+
+I*:¿<.ÍKxn
+
+• K:i y:-j y > -:n’y ^ ^i.ib:j »wi/i n • %
+
+N’iiJ^ri l*»l i
+
+^ ** i j*:I *n:l i: i»: "'isTC S
+
+HTTP activity meta-data:
+
+Application Info		HTTP Type
+zSHARE - Free Image, Video, Audio, Flash and File Hosting		response
+
+Application Type	Application	AppID (+Finger prints)
+filet ran sfer	filetr a nsfer /web fz share	filet ran sfe r/w eli/zs 1 lar e
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How does that activity look in XKS?
+
+Client-to-Server POST of file:
+
+POST /cgi-bin/u br_u pload. pl?upload_id=6963384d 1 a9S1 de0b38312900bl 49ae9
+&multiple=0&is_private=0&is_eighteen=Q&pass=&descr= HTTP/1.1
+User-Agent: Opera/9.22 (Windows NT 5.1; U; en)
+
+Host: dl081 zshare.net:3000
+
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml: image/png, image/jpeg,
+image/gif, image/x-xbitmap, */*;q=0.1
+
+Accept-Language: en-US;en;q=0.9 Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Expect: 100-continue
+Referer: http;//www.zshare.net/
+
+Cookie: Sid=65985202ca9ff4f0fd000e0e4a182d59
+
+Cookie2: $Version=1 Connection: Keep-Alive, TE TE: deflate, gzip. chunked, identity, trailers
+Content-Length: 17048
+
+Content-Type: multipart/form-data; boundary=---9yxPJQJxOm5CCaMbP4XHns
+
+H
+
+P activity meta-data:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How does that activity look in XKS?
+
+Client-to-Server checks up upload status
+
+■5ET /uberaploadLibr_get_progrei£.php"’upload_id=i>952334c. a9S J deJb3231290Cb 149ae9 &start_tur.e= 12^-9571222
+ktotd upload size-lVCy^ <&mc id- 12y9^52225/22 HTll'/l. 1
+lJser-Ager.t	Opera/?. 22 (Windows 5 : TJ: ?n)
+
+Host:	<10 81. sshar c .r.ct 3 000
+
+Accept:	textfhtml, aopLcanoa'zid:q=C.5, applioation/Jiktnil xml, image/png. image/jpeg, image/gif image/k-abbrnap, It‘^*:.q=C.l
+
+Auucpl-LiDfeUdgc. cn-~J3.tu.q-D. 9
+
+Accept Chare et ico 2259 1, utf 3, utf 15, A;q—D. 1
+
+Anrifipr.-Ennc.dirg- delate. P7ip. %-P7ip. i deadly. */p0
+
+Kcicrcr	htto^/vrfvw.zsharc.r.ct/
+
+.7 o oki?	-4-55 9252 02 :a5itd :0id0 DC e Oedal 82di9
+
+__utma=213503355.1732*551562.1245563234.1245563234.:245563234 l
+
+_utn|=213903395
+_utnS=213508355
+
+__uUjk-2 3 9C 88 95.124 956 8 23^. 1.1. xn jl uii—'da c l l) |uUuu si—Oil cl l) lUcnumd—
+
+CookitS:	SVcrsi:»n=l
+
+Z‘ onaecton:	Keep - Alive, TE
+
+TF,	d-lal.t. o/jp. ■ :iii.t V ml, i-l-ril.il.y. I:ailm>
+
+HTTP activity meta-data:
+
+HTTP T-	Host	URL Path	URL Args
+get	dlOSI.zshare.netiJOOO	•ill) er iiplo a cl Aib r js et _p regress. php	upload JdH»963384*lil a98il detib 38 3129001*149ae$
+
+Cookie	Referer
+Sid=65985?0?ca9ff4fl>f<l000e0e4al82d59	http : //w w w. z share.n et •'
+
+Application	AppID (+Finger prints)
+f ¡let r a i isf er /weh /z share	filet ran sfe r /w eli/zs hare
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How does that activity look in XKS?
+
+Server-to-Client successful upload
+
+Welcome to STTARF,
+
+Jh ¿SILJC ?<u I m i üzí, jùmzc. ^ J:< it ?/» i La:h : >.• fr Sja: H u;í ja I :a i : xtc t ex w ¿Jt ilsr	V< u
+
+< ?/i ?k< u;s :v!ZA?£ ù’ t< f >:r; n?J £J: r. xw ¿?x.7;p ?c u.* dtfa ?/» : t r r.:<t y y;r Le; ILv. TL*% &sa i : u.* 7A\*I
+
+•	I
+
+•	I -:«r»
+
+► C ríúr.2 Tnt A:< y.rr.
+
+•	Ir:rrum
+» r-O
+
+File Uploaded
+
+.’-r —c J.lú	v.'.'i 1«. .r//w. [;«m *a c Jl •;* l"X	n t— kva'v . ; ili/j : i v.’Jli. ilmJc	Use. i. u t u.b a
+
+I1..V.Ï—'V.*—uïlùcv :«.l«vvv.i Cva'i'*.?!:•:•>*•*7>V*’4v:'-
+
+:ti<	|;.n - l:i •Y-w.v '-li 1- -hi	l n*:?*i I.*-
+>1 %:. .•*»<	I* 11 im A: rs.11	...l*n***;*fi:. *4 21V
+I':l:h Ltlî	1 ^v.r;.v> 2* í :■ r»r/< ? <•:	Mtrl
+
+I ^aJ Me TTc Ire >
+
+ui: %f ** 1:*•• :	•i:lfi:	ik*‘*:m:j::I. < j:'i iviniivul iixlni*:tiim\ yr:I ilii.tiliixil link irüa v:ir i-iikí	Ui
+
+li 1:1 ’• is"
+
+V:- j 1:— >rl
+
+H
+
+P activity meta-data:
+
+Application Info		HTTP Type
+zSHARE - Free Image, Video, Audio, Flash anti File Hosting		response
+
+Application Type	Application
+filet r ansfer	f ¡let r ansf e r • w e b fz s h ar e. net A iploa< 1 r e s p 0 n s e
+
+AppID (+Fingerprints)
+
+filetriinsfer.'weliyzshare.iiet.uploiicl.response filetransfer/wel>/deletelink filetransfer/weh.'uploíKl.ílelete
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Introducing the “Web File Transfer” search
+
+Web File Transfer plug-ins were built to
+harvest valuable pieces of information
+which are not pulled out by default in the
+HTTP activity search
+
+■ For example, in the server to client
+response we see the name of the file that
+was uploaded, the URL to be used to
+download the file and the delete key, all
+great pieces of information!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Web File Transfer search
+
+■ For example:
+
+Welcome to ZSHARE
+
+With zSIT/kREyou can upload files, images, videos, aucio and flash for free. Simply use the upload form below and start sharing! You
+can also use zSRAEJE as your personal file storage: backup your data and protect your files. First Time0 Read our ?AO!
+
+•	Upload now
+
+•	Login
+
+•	Create Free Ac count
+
+•	Premium
+
+•	FAC)
+
+File Uploaded
+
+Tne file klu pics.zip was successfully uploaded! (4.04MB). You're now ready to share it with unlimited people or keep it as a backup.
+Download Link
+
+htto://www. zshare.net/download/637199570b 174c9fr
+
+Lnk for forum f
+Direct Link:
+
+Delete Link:
+
+[l JRI =http //www 7shi=irp nf=>t/dnwnlnad/fi37199R7flh174
+http://wAW.2share.net/downlo0d/637199570b174c9f/
+http://wAW.zsh are.net/del ete.html 7637199E7-7c8893b11:
+
+E-mail Tvift This Tnfo
+
+To receive all the info on the file you uploaded, such as removal instructions and download link, enter your e-mail address on the
+field below:
+
+Your e-mail:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Web File Transfer search
+
+fa Web File Transfer plug-ins were built to
+extract fields like this
+
+File Uploaded
+
+The filelldu pics.zip Ivas successfully uploaded! (4.04MB). You're now ready to share it with unlimited people or keep it as a backup.
+
+Download Link
+
+Link for forums:
+Direct Link:
+Delete Link:
+
+[URL=http://www. zshare.net/download/637199570 b! 74
+
+http://www.zs h9.re.net/download/63 7199570b174c9ty
+http ://www.zs hare. neVdelete.htm I ?G3 719957-7c8893b1 k
+
+File URL	Filename
+litt p : //www. zs h are .net /d owi lloa d /6371995701*174c 9f	Ha pics.zip
+
+Transfer Type	Upload ID	Delete ID	Site Name
+upload	63719957	7c3893b1l>f04170771dca3e7fO756a?6	zshare.net
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Web File Transfer search
+
+■ Other examples:
+
+v Contents (1)			El Expand all □ Collapse al
+File name	File type	File size	Attachments
+itrnl	H TP/hTML	307 Z	0
+v Display Information: HTTP/HTML			\~6 Send to Aa lit/ F.ecltirne
+
+Pi	
+	Vv-1
+
+PREMIUM-Down loads
+PREMIUM Zone
+
+The world's biggest
+1-Click Webhoster
+
+FAQ Irnorin:
+Fcrqot Premium-password0
+WARNING OF PHISHING!
+
+File Moviei_l
+
+i hank you for your upload, henernbe' r
+
+Kapidbhare is a lie
+
+Your Downoad-Lnk #1: http://raoidsh
+Your Delete-Lin< rfi:	http://raoidsh
+
+Upload I Download link
+
+1. Z'owidoav Link.
+
+CbVk ':itif lo dvwxjLost'J file*
+
+hBp://rap:d;hare c erotic c/2 65 ^ 1718/ir.pet?a'olePlayer.ez5.htriil
+L£D:-: lB2AADiF2BBBf5A<n3832 12?DaFCDD2EB
+
+Semi download link via e-mail
+
+7/e send you, arid ?<vo other recipient of your choice thie download and deletion links cer e mail co that you can always access your data
+
+Name (sender):
+
+(irtox. choicctcis long)
+
+F-tr.a1 address offrit recipient
+(rriûx. choicctcis long)
+
+F-u a*1 a<:dr-s> ofx<l<:il;<rixl *n i::i-îril
+(trisec ckractcis .ong)
+
+Z-tr.aJ aedress of adcihonei rccici^rit:
+frtax. ubutultis lujig)
+
+Short message :o :h? recipient:
+
+(tïiax. 1LUU Chirac*,we lon£
+
+erd download link ]
+
+inbnv.dticn
+
+Aboil -ib I Ttm.ÿ cCusr I Icjipm.l
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Searching on FFU’s in XKS
+
+■	When you see an FFU URL passed
+around, you can use the HTTP activity
+parser to see if anyone went to that URL.
+
+■	Use the HTTP activity search and simply
+copy and paste the URL into the “URL field
+builder”
+
+■	Make sure to add a valid foreign IP address
+or foreign country code to your search to
+make it USSID18 compliant!!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Searching on FFU’s in XKS
+
+For example, if we see this URL passed
+
+around in traffic: http://www.zshare.net/download/6365962739d34eba
+
+Search: HTTP Activity
+
+Query Name:
+
+Justification:
+
+Additional Justification;
+
+Miranda Number:
+
+Datetime:
+
+HTTP Type:
+
+Host:
+
+URL Path;
+
+Re ce nt J u s t if i cat i o n s
+
+1 Month v
+
+Start;
+
+2009-07-12
+
+□
+
+00
+
+M
+
+URL Field Builder
+
+Enter a URL that will be automatically parsed to populate the host,
+path, and argument fields:
+
+h tt p ; //w w w, zshar e. ne t/download/6355962739d34eba
+
+Enter
+
+Cancel
+
+fPopulate with URL Field Builder!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Searching on FFU’s in XKS
+
+■ Make sure to and your search with a valid
+foreign target, like IP address or country or
+city code!!
+
+HTTP Type:		
+Host:	www.zshare.net	iPoDulate with URL Field Builderl
+URL Path:	/download/63659G2739d34eba	
+
+IP Address:	203
+
+IP Address:
+
+Port:
+
+Port:
+
+Country:
+
+Country:
+
+From	V
+	
+To	v
+	
+From	v
+	
+To	v
+
+flP Address Field Builder]
+flP Address Field Builder!
+
+			
+SO	v	From v	
+			
+	V	To v	
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Searching on FFU’s in XKS
+
+■ It’s also worth it to search the URL as the
+“referer” and again remember to add
+something “foreign”
+
+IP Address:	203.^^H		From v
+			
+IP Address;			—I  o  <
+
+flP Address Field Builder!
+flP Address Field Builder!
+
+Port:			From	v
+				
+Port:			To	v
+
+				
+Country:	SO	V	From v	
+				
+Country:		V	To v	
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+To find all files being uploaded to FFU’s
+from a given IP address/range or
+city/country code use the HTTP activity
+query
+
+Application:
+
+filetransfer/web/zshare/upload
+
+Country:
+
+PK	V	From	V
+
+IP Address:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ If you want to try to find who uploaded the
+file that generated that URL, use the Web
+File Transfer Plug-in
+
+Q 03 Classic N-Z
+
+S Network Logs
+SI PDF Metadata
+
+•EJpilbeam
+
+igPPF VoIP Metadata
+S Passport
+
+S Phone Number Extractor
+igRBGAN
+•El REGISTRY
+
+Hrtp
+
+S Radius Logs
+iS] SIP
+
+S SSL Parser
+iS] TOR Log
+
+S Tech Strings in Document:
+S User Activity
+|S]WLAN
+
+I SI Web File Transfer
+¡5 Web Proxy
+SlWireshark
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ To find all file upload success web-pages,
+which have the filename and the FFU URL,
+use the Web File Transfer Search
+
+Site Name:
+
+zsha.re.net
+
+IP Address:	119.
+
+A
+
+To v
+
+Country:
+
+PK
+
+To v
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ To try to find the filename associated with a URL, enter in
+the URL into the “File URL” field, again remember to add
+something “foreign”
+
+_ Advanced “eau“ Show I Ibdm Gearc i “idd: Cfea * Gca d* vslues Fefcad -ay. G:arc * Values
+
+scorch: web Flic Transfer
+
+Qiiftry Nninft:
+JusliiiLdliuii:
+
+P7i3 up.l ui £ii«	L/ ct
+
+te.rcjet
+
+
+
+Additono JuGtrcDton:
+
+Mir=rri* Nimhfir:
+
+uatetime: [TT/cnth ^ Lba*t: 2003 07 I2p|
+
+0I:0D
+
+^ 'Jtop:
+
+30D9 08.1
+
+□	03I5C * W
+
+Fib U-.L:	"ttc^/M^v.2C"8rc."ict,bowrilc8d^3719957:b
+
+l	ilenane:
+
+Fi ft “ypp.:
+
+Dysuijlun:
+
+Fi y Sixu;
+
+*"• Art ire*-.-.:
+
+I3/\UJry>>;
+
+nrt:
+
+FDrt:
+
+r.ni.ntr>*:
+
+r.ni.ntr>*:
+
+C .r aP.i;
+
+P-Jm-Ui	v
+
+J=h>t<r - -K
+
+[Fmn v] do
+
+	
+11J	-
+| Frnu	-
+	
+To	*
+	
+Frr^	-1
+_n	-1
+	
+
+|hun v|
+
+frr ArirTy/: Fir fl fti.ilr.ty"
+l	^-Eib	.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

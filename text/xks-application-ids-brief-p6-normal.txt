@@ -1,0 +1,15 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123
+
+Binary and Reaex Patterns
+
+Binary patterns can be represented by putting a \x in front of each binary
+value
+
+• '\xff\xff\x00\x02'
+
+Note: Unlike C, no double back slashing required
+/regex/
+
+
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA. FVEY//20291123

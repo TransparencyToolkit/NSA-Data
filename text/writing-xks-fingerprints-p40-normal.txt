@@ -1,0 +1,15 @@
+﻿Fingerprints 101: Variables
+
+Variables use the same syntax as fingerprints
+
+$NDC_terms = ‘National Development Complex’ or
+‘NDC’;
+
+$procurement_terms = ‘quotation’ or ‘invoice’;
+$spam_defeats = ‘viagra’ or ‘herbal supplement’;
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+($NDC_terms and $procurement_terms) and not
+$spam_defeats;
+
+TOP SECRET//COM1NT

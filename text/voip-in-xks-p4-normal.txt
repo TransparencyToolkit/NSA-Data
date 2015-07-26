@@ -1,0 +1,18 @@
+﻿XKS Solution
+
+r
+
+Local site XKS identifies VOIP setup
+involving a tasked target
+
+Local XKS queries itself for corresponding
+RTP data
+
+If the local query fails, it is passed back to
+HQS for a cross-site query across the
+entire XKS network
+
+Forward hits to NUCLEON and generate
+summary reports
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

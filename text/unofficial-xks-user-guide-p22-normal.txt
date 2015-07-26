@@ -1,0 +1,15 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Follow-on Actions tell XKEYSCORE to do things after it runs your query. For example,
+it can email you with the results, or it can send them to Agility, or any combination of the
+two. For this example, I want XKEYSCORE to email me telling me I have results and I
+want it to download my results to Agility. Make sure you select Send to Agility if you
+want the same.
+
+Click the Green Add symbol, and then click next when finished.
+
+On the next screen, enter any comments you wish (optional) and click Next
+
+TOP SECRET//COM1NT//REL TO USA, AUS. CAN. GBR, NZL//20320108
+
+22

@@ -1,0 +1,21 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291:
+
+Example
+
+appid('chat/yahoo', 6.0, chatproc='Yahoo') =
+
+(('YCHT'c and Syahoo chat) or first('YCHT'c)) and not
+port(5050);
+
+appid('chat/icq', 8.5, wireshark=’icq', chatproc='ICQ') =
+/[Ao]icq/c and Sicq;
+
+appid('chat/icq', 9.0, wireshark^'icq', chatproc='ICQ') =
+first('icq') and not port(25);
+
+fingerprint(’encryption/moujahedeen', 7.0) =
+
+'begin+gimf+asrar+el+moujahedeen' or
+'begin gimf asrarel moujahedeen’;
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291 123

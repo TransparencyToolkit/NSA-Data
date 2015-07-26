@@ -1,0 +1,23 @@
+﻿TOP SECRET,'COMINT/, REl TO USA. AUS. CAN. GBR. NZL
+
+How Do We Get That?
+
+Software Information
+
+■	Browsers
+
+Use HTTP Activity Query and results are in the
+“browser” field
+
+■	Servers
+
+Use HTTP Activity: HTTP “Response” traffic
+contains web server information
+
+■	Operating Systems or Version Numbers
+
+Using FULL LOG DNI we can do “Banner Grabbing”
+on content FROM port 23 and FROM the target’s IP
+address
+
+TOP SECRET,'COMINT'HEL TO USA, AUS, CAN, GBR, NZL

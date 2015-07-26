@@ -1,0 +1,45 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZU/20320108
+
+HTTP Parser
+
+The HTTP Parser query looks for web activity (remember, HTTP = web) on a particular
+link. This query is useful for several reasons. Firstly, if you know a particular website and
+want to see if a foreign target visits it (e.g. an extremist web forum URL, or
+maps.google.com). Secondly, this query enables you to query on a network IP(s),
+casenotation, or country and see what websites we don't know about (survey-type query).
+
+Here are two examples
+
+1. If you know the particular website the target visits. For this example. I'm looking
+for everyone in Sweden that visits a particular extremist web forum.
+
+Search: HTTP Activity
+
+Query Name
+Justification
+Additional Justification
+Miranda Number
+
+HTTP Type:
+
+|HTTP_in_Sweden
+
+SwedishE>»emis-i website visitors
+
+Scroll down to enter a country code (Sweden is sc,
+
+Datetime:	[ 1 Week v Start:	2009-01-20 □	0
+
+The website URL (aka “host) is
+entered in with a wildcard to
+account for “www" and “mail”
+other hosts.
+
+To comply with USSID-18 you
+must AND that with some
+other information like an IP or
+country
+
+13
+
+TOP SECRET//COM1NT//REL TO USA, AUS, CAN, GBR, NZU/20320108

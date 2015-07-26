@@ -1,0 +1,9 @@
+﻿You can append derived metadata fields onto the end of an
+appid:
+
+appid(lp2p/kazaa', 7.7, append='mime_type') =
+Ipos('x-kazaa') and not $http;
+
+This will result in an appid like 'p2p/kazaa/image/jpeg'.
+
+TOP SECRET//COMINT//REL TO USA. FVEY

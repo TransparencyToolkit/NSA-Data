@@ -1,0 +1,38 @@
+﻿, ,0 o, 101 coi IJO <«< ,	!
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+t ifi'.i lOfll I «Jl	’	ri
+
+otnm !() «nr 'Tifr iw i	^
+
+ADDid Validation
+
+) loi
+
+appid sample.ul24
+Loading appids
+
+->Loading : /home/oper/xkeyscore/config/dictionarles/appid/appid_definitions.cfg
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/anonymizer.appid
+->Loading : /home/oper/xkeyscore/config/dictionarles/appid/bulletin_board.appid
+•>Loading : /home/oper/xkeyscore/config/dictionaries/appid/taovpn.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/tdmoip.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/terminal.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/voip.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/appid_definitions.cfg
+Finished loading appids
+Filename: sample.ul24
+
+Appid: encryption/https
+
+Total Size: 19.36Kbits
+Total Time: O.Olsecs
+Rate: 1.936Mbits/s
+Overall performance:
+
+Total Time: O.Olsecs
+Total Bits: 0.01936Mbits
+Overall Rate: 1.936Mbits/s
+
+TOP SECRET//COMINT//REL TO USA, FVEY

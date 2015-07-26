@@ -1,0 +1,2459 @@
+﻿Advanced HTTP Activity
+
+Analysis
+
+2009
+
+Goal
+
+The goal of this training is to get you
+familiar with basic HTTP traffic and
+understand how to target and expliot it
+using X-KEYSCORE
+
+Agenda
+
+What is HTTP?
+
+HTTP stands for Hypertext Transfer
+Protocol and it’s the primary protocol for
+transferring data on the World Wide Web
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Earth
+
+t?(îood<
+
+BtlA
+
+WikipkdiA
+
+The Free Encyc/oped/a
+
+Why are we interested in HTTP?
+
+facebook
+
+¡timyspace.com.
+
+“	a place lor friends
+
+Because nearly everything a typical user
+does on the Internet uses HTTP
+
+com
+
+©mnail.ru
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Why are we interested in HTTP?
+
+* Almost all web-browsing uses HTTP:
+
+■	Internet surfing
+
+-	Webmail (Yahoo/Hotmail/Gmail/etc.)
+
+■	OSN (Facebook/MySpace/etc.)
+
+-	Internet Searching (Google/Bing/etc.)
+
+■	Online Mapping (Google Maps/Mapquest/etc.)
+
+How does HTTP work?
+
+- HTTP is comprised of requests from clients to
+servers and their corresponding responses
+
+■ Many analysts are already familiar with the
+terms “client-to-server” or “server-to-client”
+collection (also referred to as “client side” or
+“server side” collection).
+
+How does HTTP work?
+
+■	A “Client” is usually referring to a Browser
+(like Firefox or IE) which is also referred to as
+the “User Agent”
+
+■	The “Server” can also be referred to as the
+“web-server” or “origin-server” which is the
+machine that is storing the data that is being
+accessed (like a web-page, a map, an inbox,
+etc)
+
+H
+
+P Activity
+
+HTTP activity comes in two types:
+
+Client-to-Server
+
+“requests”
+
+Website.com
+
+Server
+
+Client
+
+Server-to-Client
+
+Cl
+
+responses
+
+55
+
+H
+
+P Activity
+
+HTTP activity comes in two types
+
+%
+
+User
+
+Website.com
+
+Server
+
+While there may be a variety of Proxies,
+Gateways or Tunnels in between the client and
+the server, traffic is always going in one direction
+or the other.
+
+Client vs. Server Side Traffic
+
+How do you know which side you’re looking
+at?
+
+Client-to-Server requests are generally small
+in size and are computers talking to other
+computers
+
+They contain standard HTTP header fields like
+“Host:” “Accept:” “Connection” etc.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Examples
+
+Client-to-Server request:
+
+~ ' fXj !>1 ¿I BiM.. ïïlï \?\rJjïiïJÏ\ I.I			
+ID: sess an	9-P	roc	
+
+Type HTP-GET Printer Friendly Version
+
+DNI Display I RawJ)ata CNI Format
+
+Services v
+
+GET /HezboUah-Terrorism-ruditJ>Paltrir.:'-T7arik/<ip/1860648932 TTTTP/1	
+Us er-Agent:	MoziIa/j.C (Windows; U; Windows NT 5 1; en-US) AppLeWebKit/525.19 (KHl’ML, like Gecko) Chrome* 1.0.154 48 Safan'525 19
+P.efsrer	http:/Avww google com.pk/search‘?hl=en&cp=wretteri books on hizboilah&b tnG=Google Search&meta=
+Accept	t=xt/xml.applicat orAml.applicationixhtrnl xml text/hhr.I;q=D 9,text/p1atn,n=Û ?î,irnage/prig>:*V*.q=Û *5
+Accept Encoding: Cookie:	gzip, deflate ,bap 2, c ddi  ubid-man=l 85-5525816-R76 Si 31
+Accept-Language-	apn-user -icHP 1YXY7QF1PTJYQ5 en-US.en
+Accept Charset: Host:  Connection	ISO-8859-8 www. am azor, com Keep-Alive
+
+Client vs. Server Side Traffic
+
+*	Server-to-Client responses are generally
+larger in size and are what web-pages look
+like at the internet.
+
+*	When you’re at a computer accessing the
+Internet, you’re only seeing Server-to-Client
+traffic.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+3 Document Information
+
+“ype: HTTP
+
+ID- $e_3S_orig_proc
+14» Pint*r Frandly Version
+
+DMI Display 1 Raw Dala DMIFowi*	Bonus question: Why are the	
+w HTTP Header Information		
+Services <r	images in this web-page missing?	
+
+Home Pgge
+Iran
+
+Middle Hast
+Ir&ci
+
+Palestine
+
+Lebanon
+
+Turkey
+
+Pcrsiar, Gulf
+
+Others
+
+US
+
+Asta/Pacific
+
+Africa
+
+L'ur.>i>e
+
+Amène a-
+
+S'cvTcck
+
+Health
+
+B	Barca reinstates	B	Isfahan to
+	5-oomt lead		exhibit
+	over Real		eKWcssioriist art
+
+Kuwait government 'resign^1 over economy
+
+Mm. 16 Mar 2009 19:07-16 GMT
+
+The Kuwaiti government has submitted its
+resignation tu the county's urriir amid a row
+over the premier's handling of the economic
+crisis.
+
+"The resicna:i3n has teen submitted formally and
+it s up :c the emir (ruler) tD decice," Reuters
+quoted Nasser al-Ouwailah, a par «ament arian, as
+saying on Monday.
+
+Tne resignat cn would further delay the approval ot :.5 billion «dinars (USD 5.11
+billion) rescue package wh ch is to b8 injected to the Persian Gulf natior's
+economy to ease the impact of the global financial crisis
+
+Tne government has not commented on the report.
+
+
+
+Latest News
+
+;£ Kuwait govern?
+economy
+
+>' Childhood diet
+^rsk
+
+]g]"JS R'ii.-iar.oa
+ifaiekiiow
+
+[i^l Judges
+
+want M
+
+confiscated
+>£ Leader gardons
+
+1*j Ar.::mc book :■
+
+jLicbcmian eye;
+2Ü7
+
+I ”5: ll^rplluprit up*
+
+TOP SECRETWCOMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+* XKS HTTP Activity Meta-data differs
+greatly depending on which side of traffic
+we’re collecting
+
+* In nearly all cases it’s better to have
+client-to-server traffic
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Client-to-Server
+
+I .Ac c ept^
+
+Ref^rer: |hct.p: //search.Me. co.uk/search?tab=urdusotler=soET}:oth&ci=MisharraC6:3tai:t-,2&sco2e=i.u:clu ]
+
+A c c 5 p t-L
+
+UseE-Agent^Kozilla/4^^^coapatibie^ISI^^^^Jindow^CT^5^^JjVl^^^^^^J
+
+CooltiftJ^nriC-ÜTD-l-i4^9ft5f4fld23f]ft.,13nn3d513G3G2nnArh22G04r¡n4An^CMC4n4.,lf9r.efcn54.-f95nTTn?:i .ll*$.2f 4*2ñfK2n%20f:í
+
+|:<-BlueCoat-Via| 668Q8702E9A98546
+
+I Host	URL Path	URL Args	
+search.bbc.co.uk	I /search	■ tab=urdu&order=sortboth&q=musharraf&start=3Âscope=urduÂlink=next	
+1 Sear ch Terms 1	Language 1	1 Browser	■ Via
+I musharraf I	en I	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)	H 66808702E9A98S46
+
+Refer er
+
+http://search.bbc.co.uk/search?tab=urdu&order=sortboth&q=musharraf&start=2&scope=urdu
+Cookie
+
+BBC-UID=fo479a5f4ad230a53063d513630203acb22B84634aOeOb164c45f96efc054c*950Mozilla%2f4%2e0%20%28com
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Server-to-Client
+
+.mftji'oc
+
+- mailt life niMH.>ll
+
+Type KTP &	yV^ -ft
+
+III I ■* lieble« Intel ne ti ?n
+
+teí&xiu
+
+«•Jabí;
+
+cgftfc la««; rrt
+
+Latcaf Item;
+
+Kuwait govcimuKiil	over economy
+
+Mäk, 16 Mar 2X9 907 . $ f-VT
+
+C1 1«. « >rt
+
+The Kama ti qcvcrnmcnt has submitted its
+
+fK\ii|imlii ri In IIih iiiHily's nniir n'liiil n ruv/
+over the premier's liendliiiq of the economic
+rrlelc.
+
+n.;h
+
+Ttn-Ru ni*
+
+Tnrhty
+Tenían juif
+
+Aieldio*/
+
+Cthtrs
+
+]J£
+
+A;.a/?ac£c
+
+‘TVd ifiîr^rnn ha« hee*: sibrnfod irr^Aly’ and
+t’s us to tie err i" <rJer> :o decide3eu:e*s
+TLOToi	al-Llr«*si ah a parlananraii*-, ac
+
+saying on f/onriay
+
+?/ct ?ar.f.!fr
+
+Enrede
+
+The lesiçnation woj d further dele/ tie opp z-vol z-f 1.5 -«I xen drors (USD 5 LI
+zilioni rcscua pac^aqo v,hizh i; to ac njeztcd to the Parerai Suit natron's
+
+rLUll.l iv lj	.ll- MUdLl uf .h=? Juudl r dU.ld Lfist.
+
+Amener
+Sc »'lech
+EisHh
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Application Info	HTTP Type
+Press TV - Kuwait government 'resigns* over economy	response
+
+k>	
+	$ $ ant ¿ad <-rcr KcV
+
+HTTP Activity - HTTP Types
+
+* Meta-data will also tell you which side of
+
+traffic you’re looking at
+* Client-to-server has two main types:
+
+• Server-to-client has only one:
+
+HTTP Type
+response
+
+HTTP Activity - Get vs Post
+
+*	A ‘GET’ is you requesting data from the
+server (most web surfing)
+
+*	A ‘POST’ is you sending data to the
+server (i.e. signing in, filling out a form,
+composing an E-mail, uploading a file
+etc.)
+
+Let’s break down the important
+parts of a client-to-server request
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Client-to-Server
+
+GET /home.html
+| Host: sample.website.com "1
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 (USG-
+25) Firefox/3.0.10
+
+Accept: image/png,image/*;q=0.8 */*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection; keep-alive
+
+First thing to note is the Host: line which tells
+you the name of the server that the client is
+requesting data from
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Host Field
+
+It’s important to note, that in many cases users think
+they’re at websites like www.yahoo.com, but behind
+the scenes data is coming from a number of
+different servers without the user knowing it:
+
+C-ET/nQc/inodulesyriirJiabContact3?tncn-4nb=SirDb59ym & jsranc=58037307 &.raad=2127033439 HTTP/'-.O
+Accept	*7*
+
+Accept-Lsaigupge fa
+
+Refiner	litlp .//us me575 mail yahoo.corn/mcYshowFolder^lc—X3x5DMTBucrriliobGR_0BF§TAxM5ODMv/MT
+
+AyWwRbywlvkZWxKc2dz'?imd= 1 _21857_AERfcxEIAAI^*jSi6wTJQ7filZai4:TAfid=lhb<ix&sort=date&o
+r<ier=up &ctartI;Gi-i~2 6 &dlterB y=
+s-requesled-witb:	rOviLIIctpRequ es t
+
+Accept-Encoding: gap. deflate
+
+rv,-.-.m„ahUf. mst $.0; Windows NT 5.1, SV1; .NET CLR 2 0.50727)
+
+Host	us.mc575.tr.ail.j'ah.oo.com I
+
+wVOlUC.
+
+I
+
+<i— 1 vA A1 h v a V n r 'amriTfo’.^zR CWRc2jTIK 7A<wwyoK £rjx>:G0XV f ;iihF 9 5dLsZ5CCm 1 r.T) li .T :»7tS vpi
+
+Bonus question: What would the impact of
+this be in how you formulate your
+X-KEYSCORE queries using the Host
+field?
+
+i pg i i « i :TTTr»TnTT^TrnT7Ti-iTTTnr—rnvn\’rr
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Client-to-Server
+
+GET /home.html____________I
+
+Host: sample.website.com
+
+User-Agent: Mozilla/5.0 Windows; U: Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 (USG-
+25) Firefox/3.0.10
+
+Accept: image/png1image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding; gzip;deflate
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+
+Second the GET line tells you which files the user is
+requesting from the server.
+
+If you simply take that line and append it to the Host
+line you have the live public URL that the user is
+requesting:
+
+http://sample.website.com/home.html
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Client-to-Server
+
+GET /example-php?region=iraq_______I
+
+Host: sample.website.com
+
+User-Agent: Mozilla/5.0 Windows; U: Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 (USG-
+25) Firefox/3.0.10
+
+Accept: image/png,image/1;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding; gzip;deflate
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+
+When the GET line has a ? mark in it, then the GET
+request is also passing information to the server.
+
+So in this case the client is requesting the file
+example.php but it’s also passing along a value that
+could have been entered by the user.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+PSECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+URL Lines
+
+/search
+
+tab=urdu&order=sortbüthâq=musharraf&start=3&scope=urdu&link=next
+
+GET /seacch?tab=uEdu*Qrder=sortboth&q=Eiushe.ri:af.£st^rt.=3.s!scope=uEdu&lir±=nex
+
+
+
+Referer: http: //search.bbc. co. uk/seaEsh?t3l:=-urdu*crder=sortbothi:q=i£iushaEraf^st-aEt=2&scop
+Accept-Language: sn-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozill&/4.0 (compati
+Host: search.hbc. co.uk
+Cookie: BBC-UID=b479a£f4ad230aS3
+Cache-Control: iaax-stale=0
+Connection: Keep-Alive
+X-BlueCoat-Via: 65S087C2EPABS546
+
+Bonus question: Any idea what the
+information that is being passed in the
+URL Argument in this example are for?
+
+When there is a ? mark in the URL line, then X-
+KEYSCORE is breaking it up into two parts. The
+first part is called the URL Path and the second part
+is called the URL Argument.
+
+Notice all of the “arguments” (each separated by &’s)
+in this URL:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Client-to-Server
+
+GET /home.html
+
+Host: sample.website.com
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2(l09042316 {USG-
+25) Firefox/3.0.10	J
+
+Accept: image/png,image/*;q=0.8.*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip.deflate
+Accept-Charset: lSO-8859-1lutf-8;q=0.7J*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+
+The User-Agent line gives you information on what
+type of client is requesting the data. In this case,
+we can see that it was a Firefox 3.0 browser from a
+Windows NT 5.1 (XP) machine.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+User Agents
+
+Mozilla/5.0 (SyinbiariOS/9.2, U, Series60/3.1 N okiaE63-l/l 00 21.110, Pioffle/MIDP-2.0 Configurai
+like Gecko) SafanM 13
+
+NokialT72/5.0706.4.0.1
+
+ries60/2.8 Profil e/MEDP
+
+0 C onfiguration/CLD 0-1.1
+
+iPhone Mail (5H11)
+
+User Agents
+
+The User Agent (also known as the “browser”) can be
+very valuable.
+
+While it can not be trusted to be absolutely unique, in
+many cases you can use it to unwind a proxy or
+multi-user environment.
+
+It can also help provide hints if the origins of the
+request came from a mobile device:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Client-to-Server
+
+GET /home.html
+
+Host: sample.website.com
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 {USG-
+25) Firefox/3.0.10
+
+Accept: image/png,image/*;q=0.8.*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip.deflate
+
+^Accept-Charset: l$0-8859-1,utf-8;q=Q.7,*;q=Q.7	j
+
+Keep-Alive: 300
+Connection: keep-alive
+
+The various “Accept” lines instruct the server on the
+types of responses the client can accept back.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Let’s look at a simplified version
+of a HTTP request and response
+
+What is Web (HTTP) Activity
+
+From Port 3434* Q|jCk on http://www.hotmail.com
+(client)	GET Request
+
+To Port 80
+(Server)
+
+m
+
+V
+
+The client’s port can be any high-numbered port, 3434 is just an example
+
+(HTTP) Activity
+
+This shows how a person logs on to a webpage
+
+From Port 3434
+(client)
+
+To Port 80
+(Server)
+
+Click on http://www.hotmail.com
+GET Request
+
+From Port 80
+(server)
+
+To Port 3434
+(client)
+
+“Welcome to Hotmail
+HTTP Response
+
+The client's port can be any high-numbered port, 3434 is just an example
+
+(HTTP) Activity
+
+This shows how a person logs on to a webpage
+
+From Port 3434
+(client)
+
+To Port 80
+(Server)
+
+Click on http://www.hotmail.com
+GET Request
+
+From Port 80
+(server)
+
+To Port 3434
+(client)
+
+“Welcome to Hotmail
+HTTP Response
+
+From Port 3434
+(client)
+
+To Port 80
+(Server)
+
+Email Address: me@hotmail.com
+Password: Admin123
+
+POST to the Web server
+
+The client’s port can be any high-numbered port, 3434 is just an example
+
+(HTTP) Activity
+
+This shows how a person logs on to a webpage
+
+From Port 3434
+(client)
+
+To Port 80
+(Server)
+
+Click on http://www.hotmail.com
+GET Request
+
+From Port 80
+(server)
+
+To Port 3434
+(client)
+
+“Welcome to Hotmail
+HTTP Response
+
+From Port 3434
+(client)
+
+To Port 80
+(Server)
+
+Email Address: me@hotmail.com
+Password: Admin123
+
+POST to the Web server
+
+From Port 80
+
+Welcome to your Inbox/homepage” (server)
+HTTP Response
+
+To Port 3434
+, (client)
+
+The client’s port can be any high-numbered port, 3434 is just an example
+
+HTTP Activity
+
+*	Real traffic, however, can be a little more
+complicated.
+
+*	Almost all web pages are built from
+multiple files.
+
+*	For example, every single image or
+banner ad on a web page is a separate file
+that needs to be individually requested
+before the server that has the file can
+respond
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Dyramic - H ghesi Possible Classification is
+TCP SECRETOC0MIN17/REL TO USA. AUS. CAM. G3R. NZL
+
+
+
+Current Conditions
+
+DAILY
+
+Weather
+
+-ifcrrnation
+
+.the host minute yin’ll spend toit«nr
+
+¿fATíSOtí
+
+WSA D^iiy 'Need II Know*
+
+
+
+(U/iFOUO) NS AG Hosts the GENICOM
+Senior Enlisted Leader
+
+(U//FOUO) On 9 Eepterrber 2009, NSA/CSS
+Georgia (VJSAG) had the pwilege of hostirçi o
+from Command Sergeant Major (CSM
+Command Sen or Enlisted Leader for United
+States Centra Command (centcom).
+
+LTG Keith B.
+AJc/.or<JO'.
+United
+States Army
+
+(U//FOUO) PKtured^S^eorgta	Command
+
+S&rçeanr Aiajrv*HH ComManc. sewor ¿rt'steo L&sd&r ;b»* i/nir&d
+SCotoo Contri Gomfraad
+
+(U//FOUO) This was CSfilH first visit t^^SAG The first stop during his
+visit was with 1TD at tne helpdesk. SGM^H|| nf ITD, provided the CS^m
+overview of cur maintenance operations an^ommunications nub. CSM^H
+told tne 1TD pe'scnnel, "you keep doing what you da, my ccrrms rnn through
+here....and l need my comms "
+
+Multivision Ads
+
+Ti i 'in h îy r <|. J
+
+Tl :j IAD News
+
+Weight Waschers @
+
+ÍU: Scouring the
+
+HTTP Activity - Real
+
+h I Searchlight I Ext Connections I Pros I Projects I EAOut
+
+Dai/s liai Links
+
+roRomon. jzt c«s
+
+Agency
+
+Mass Mailers
+
+Today’s
+
+EVENTS
+
+Mission
+
+Messages
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+?3Î rVtt9ib-e 21»»* fie trien i*
+
+WO ISA AUS. CAN. G8R. MIL
+
+
+
+wifünrewwjitiem
+
+DAILY
+
+Un* Lost inin.iW von •sponiUu.’t'cy
+
+S ULl JU.
+
+Past Hw&É
+
+IL//FOUO) NSAG Hosts tins CEKTCCM
+Sénior bnlistod Loader
+
+\V/bOVO) un y bepiember ¿uu% nsa/Lss
+-co'cia (N9aC) had tho p-ailpço of ho«tin<^^
+•i»il frur Cuiiuitdm, Sdryudfil Mdju (CSM)^H
+■ rnmmand Senior Enlisted laacter for Unt3d
+
+-ta:es Csntrd Ccnrmand (CCfoTCCftl).
+
+BKft^n
+
+xander,
+
+l*ü
+
+tesAmy
+
+CZ'V. rt&d
+
+States Centrai comment:
+
+WAAwrP»“ AîawiaivJ
+'r fn/fetëtf Leaÿ&r for Liïted
+
+(U//TOUO) rhi$ was	vsit t-^OAG The frst s:cp during dis
+
+visit was with ITD a: the nelodesK. 5GM^|| cr HD. prouced the csf/ =n
+ovor/iow 3Í ou* inJintun;ncw operators ;nd corrrrunc¿tons hub.
+
+told ire ITD personnel, "ycu keep dang what you do, rny comms run through
+
+n=iP arc I nocrt my corim? v
+
+MtltMsion Aú
+
+TOP PQ tfâflfi:
+
+Weight »/Vatme rq ^
+
+(Ji Sccriouthe
+
+HTTP Activity - Real
+
+It looks like one page, but each of the
+images and banners are separate data
+files that your browser pieces back
+together
+
+NSA IN TH
+
+	
+1	
+>•**/*	O ‘*_tr i n B
+
+HTTP Activity - Real World
+
+*	In fact, to build the NSA Today home page
+it takes 34 separate files from 4 different
+servers
+
+*	However, most people probably don’t
+notice, because the entire page loads in
+<300 milliseconds.
+
+*	If we had a slow internet connection, we’d
+notice the images would initially be
+missing.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Notice that all of the images are missing.
+They are all separate server-to-client
+responses and therefore completely separate
+"sessions” in X-KEYSCORE or PINWALE
+
+Document Information
+
+DNI Display
+
+OMI Format
+
+tt) HTTP lleadei Information
+
+Services *
+
+Home Pase
+
+Latest News
+
+Kuwait government 'resigns*1 over economy
+
+Mon. 16 Mar2Û0919:07:16 GMT
+
+;£ Kuwait sovernr
+
+Middle Kant
+
+Iraq
+
+Paleóme
+
+economy
+
+*£ Childhood diet
+
+The Kuwaiti government has submitted its
+resignation tu the county's urnir amid a row
+over the premier's handlinq of the economic
+crisis.
+
+Lebanon
+
+TJS-Rusaarioa
+
+Others
+
+"The resignation has been suomitted fcrrnally and
+it s up to the emir (ruler) tD dec ce/ Reuters
+quoted Nasser al-Ouwailah, a pariamentarian, as
+saying on Monday.
+
+confe: ated
+
+y Leader Eardcou
+
+liuroEe
+
+Ar.::rn: book :■
+
+The résignât cn would turther delay the approval ot :.5 Diihon dinars (USD 5.11
+billion) rescue package wh ch is ta be mjested to the Persian Gulf naticr’s
+economy to ease the impact of the global financial crisis
+
+Jï [Licbcmian cyg
+
+ScvTcch
+
+The government has not commented on the report
+
+V 1-irplluprit
+
+HTTP Activity Real
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+	Isfahan to
+	exhibit
+	expressionist art
+
+(3	Barca reinstates
+	$-»<ant lead
+	:>ver Real
+
+HTTP Activity - Real World
+
+*	It’s important to note that not all of the data
+on one web-page came from the same
+server.
+
+*	For example, most of the NSA Today
+
+home page come from home.www.nsa,
+but the image of the current weather
+conditions came from	wk-
+
+admiral208.corp.nsa.ic.gov
+
+i
+
+i
+
+HTTP Activity - Real World
+
+This happens all the time on the Internet.
+
+The cnn.com home page, may have an ad
+on it that was from the Google ad server
+and etc.
+
+And this does have an impact on our
+collection!
+
+This is the traffic path for building the NSA
+today home page
+
+corpwebl nsa
+
+siteworks.nsa
+
+wk-
+
+adrriral208.corp
+
+nsa.ic.gov
+
+home .www. nsa
+
+What happens if we only have collection on
+one of the paths?
+
+corpwebl nsa
+
+siteworks.nsa
+
+wk-
+
+adrriral208.corp
+
+nsa.ic.gov
+
+home .www. nsa
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+What would that traffic look like?
+
+GET /current.jpg
+
+Host: wK-admiral208.corp.nsa.ic.gov
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 (USG
+25) Firefox/3.0.10
+
+Accept: ¡mage/png,image/*;q=0.8:,7*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection; keep-alive
+Referer: http://homeAvww.nsa/
+
+If-Modified-Since: Thu, 08 Oct 2009 19:31:56 GMT
+If-None-Match: "d945-16c1 -842db643M
+Cache-Control: max-age=0
+
+What exactly is that telling us?
+
+*	First off, we know what file they are
+requesting.
+
+*	They want current.jpg from the wk-
+admiral208.corp.nsa.ic.gov server.
+
+■ That’s actually a live public URL
+
+(http://wk-admiral208.corp.nsa.ic.gov/current.ipq)
+
+*	Do we have any indication why they wanted
+that image? Answer is yes! Look at the referer
+field.
+
+What exactly is that telling us?
+
+They were referred from http://home.www.nsa/
+
+The referer is in essence, telling you what site
+was linking” to the new site.
+
+Warning! The referer can act in misleading
+ways.
+
+Referer Field
+
+*	The referer field is the address of the page
+that links to new GET request.
+
+*	However, this link could have been automatic
+to the user.
+
+*	l.e. in the case of the current weather image,
+the link was automatic and the user wasn’t
+even aware of the action
+
+Referer Field
+
+*	The referer field could also indicate a user
+action.
+
+*	For example, imagine we were on the NSA
+Today webpage and clicked the link to the SID
+Today page.
+
+*	What would that traffic look like?
+
+Referer Field
+
+GET /
+
+Host: sidtoday.nsa
+
+user-Agent: Mozma/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10)
+Gecko/2009042316 (USG-25) Firefox/3.0.10
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Accept-Language: en-us,en;q=0.5
+
+Accept-Encoding: gzip.deflate
+
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+
+Keep-Alive: 300
+
+Connection: keep-alive
+
+Referer: http://home.www.nsa/
+
+Cookie: CFiu=565236; CFTGKEFi=66534796;
+
+CFGLOBALS=urltoken%3DCFID%23%3D565238%26CFTOKEN%23%3D665347
+
+96%26jsessionid%23%3Da830dba3a04b67ae6e351b7463444f72496d%23lastvisit
+
+%3D%7Bts%20%272009%2D10%2D09%2015%3A38%3A04%27%7D%23timecr
+
+eated%3D%7Bts%20%272009%2D06%2D19%2010%3A27%3A23%27%7D%23h
+
+itcount%3D13%23cftoken%3D66534796%23cfid%3D565238%23;
+
+JSESSIONID=a830dba3a04b67ae6e351b7463444f72496d
+
+Referer Field
+
+Now we’re seeing a request go to host
+“sidtoday.nsa” with the referer from
+http://home.www.nsa
+
+How can we tell from the traffic that the first
+automatic referer we saw for the current
+weather was any different from the user-
+generated referer we saw for the SID Today
+article?
+
+Cookies!
+
+Cookies
+
+*	Cookies are small pieces of text-based data stored
+on your machine by your web browser.
+
+*	Almost all websites have cookies enabled and they
+have a variety of uses, including to help the web-site
+track the activities of their users.
+
+•	Most analysts are probably familiar with “machine
+specific cookies” like the Yahoo B cookie
+
+•	However cookies are used for a variety of reasons
+
+What can cookies be used for?
+
+Cookies can be used to authenticate a user.
+
+For example in many cases, the “active user”
+for Yahoo web-mail traffic is seen encoded in
+the 1= part of the cookie string.
+
+A 1 AC YO.
+
+I I—ebj0d_10o0p338ti'o { Yahoo login ill:		n
+	? uiiin year; i?0"+, xuStal code:	
+
+lg=er.-US (Langnage/content: English j
+intJ=us { Coimtiv: United States)
+
+What can cookies be used for?
+
+* Cookies can be used to store information
+about the user that the website is interseted in
+
+■ Look at how the p= value below tells the
+website information about the user of this
+account:
+
+7=1
+
+n=d e.dq-16n653aef
+
+p~2kvvsyU12C COPCO ( Gender: female. Uiitli year: 1984, Postal code:
+
+17=
+
+r=jb
+
+lg=cn-US ( Language/*: ont ent: English )
+intJ=us { Coimtiy: United States )
+
+What can cookies be used for?
+
+Cookies can be used to identify a single
+machine from hundreds of other users on the
+same proxy IP address
+
+The Yahoo B cookie is a “machine specific
+cookie”
+
+fi614$fh5i>6u4b
+
+b=4
+
+c3=Gt<EgXB-p TE Q vWQEQVnWhaxlPNw -
+1=8 OSsR-10 wqEC 5 oGGF 2k_"h
+
+What can cookies be used for?
+
+* Important note: All three of those examples
+are just subsets of the full Yahoo cookie string
+
+how ao we Know what each cookie
+
+value is used for?
+
+*	Nearly every web-site uses cookies that in
+most cases they designed for their own uses,
+so how do we know what they all mean?
+
+*	Protocol Exploitation can examine the traffic to
+try to determine if there is any information
+contained in cookie strings that we might be
+interested, for example we’d like to know if
+any part of the cookie acts like a “machine
+specific cookie.”
+
+how ao we Know what each cookie
+
+value is used for?
+
+*	However, there are far more cookie options
+out in the wild than PE can possible examine.
+
+*	So even if they aren’t aware of a machine
+specific cookie, it doesn’t mean that it doesn’t
+exist.
+
+*	X-KEYSCORE gives you access to the full
+cookie string, so if you’re adventurous enough
+you can do your own protocol exploitation.
+
+Remember: Cookies are there for a reason!
+
+*	Websites put cookies on people’s computers
+for a reason.
+
+•	If the data is valuable for a website, it may be
+valuable to us as well.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+A A »\
+1 T
+o o o
+
+S S S
+
+s: s- r
+
+a- fD o
+/i w
+a ip a*
+<x r& it»
+
+ft ft “
+
+.i ip
+
+3 4
+
+O Q
+8 8
+
+
+
+ft
+
+■P
+
+O	<»
+
+O'!	».I	^
+
+O	*J	o
+
+O	»1	.*>
+
+ft	ft	ft
+
+9	9	9
+
+V V Y V Y
+
+id
+
+o
+
+I* I* I- H I-, I- > w
+
+EPODDEPOOr
+
+n
+
+Z"
+
+o
+
+7
+
+to
+
+<
+
+I ni I >
+
+CL S-
+
+o
+
+>
+
+to
+
+O
+
+w
+
+Ç
+
+o
+
+o
+
+=?
+
+n
+
+r
+
+?
+
+Q
+
+o
+
+o
+
+view, manage and delete your cookies
+
+>
+
+05
+
+CO
+
+MMM |
+
+<
+
+CD
+
+c o
+
+05 g
+
+2 S
+
+o
+
+o
+
+Û)
+
+How long do cookies live for?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Cookies
+
+TOP SECR
+
+IN
+
+You can see what cookies have been stored on your machine by going into
+the “options” window of your browser and selecting “show cookies”
+
+Show Cootes
+
+[ SettryT]
+
+Clear Hn »
+
+Cookies
+
+0 Acceot cookies fren sites
+0 Accept third-party cookies
+Keep until: | they expire__________________vj
+
+Privet	-------------------------------------------
+
+M Ally's clear my private data when I close Fi-e'cis
+P] Ask ne before dea- ng private cata
+
+Exceptions
+
+Cared
+
+History
+
+0 Keep my history For at least
+
+davs
+
+0	Renember what I enter in forms and the search tar
+0 Renemner what I've downloaded
+
+Options
+
+Tabs Ccrtent Apffcations Privacy Secuity Advanied
+
+Mam
+
+Searches
+
+Searching the Internet
+
+When a user searches the Internet from one
+of the many web-based search engines
+(Google, Bing, etc.) what does the traffic look
+like?
+
+Searching the Internet: Client-to-Server
+
+* In most cases, the client-to-server traffic is a
+GET request where the search term is
+passed in the URL Arguments:
+
+GET /search?hl=fr&q=iran&lr= HTTP/1.1
+Host: wvwv.google.com
+
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash,
+application/vnd.ms-powerpoint, application/vnd.ms-excel, application/msword, */*
+
+Cookie: PREF=ID=74f6d7addf51ccd4:U=ccbee9ee665a7dde:TB=2:TM=1255354439:LM=125543326
+4:S=_M1i4RfQ2ohl81maNID=27=cMFLkpovJCIWIOFC5E3Pu2C6-8_nsMS2zztfvOew9-
+QYDPWUza4AscyoglQRGN$kDZsi2jL65 flM-R4HgovMBEa66bfiTXn8TH3Ukm-
+X5hp45rLAb Y3rNZ42HGIzyne
+
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible: MSIE 6.0; Windows NT 5.1)
+
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+http://www youtube. com/results?search_query=¡ran&search_type=&aq=o
+
+Searching the Internet: Client-to-Server
+
+Notice how the URL Path is /search and one
+part of the URL argument is q=iran
+
+Each website can configure their URL’s
+differently, so while with Google the search
+term is contained in the q= part of the URL, a
+different search form might have it as query=
+or search term= etc.
+
+Searching the Internet: Client-to-Server
+
+*	X-KEYSCORE tries to account for all the
+variations of search terms contained in the
+URL Argument for what it extracts for the
+“Search Term” column.
+
+*	However, there are always other varieties
+
+out there that we haven’t built it hooks for
+yet, so anytime you see something that you
+think should be extracted, please contact the
+team (	)
+
+“Referer Searches”
+
+*	What happens when a user clicks on a
+search result?
+
+•	Let’s start by showing the query itself, in this
+example, we’re going to query the NSANet
+Google for “XKEYSCORE”
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+“Referer Searches”
+
+* What does that GET request look like?
+
+GET /search?q=xkeyscore&btnG=Google
+Host: google4.q.nsa
+
+User-Agent: Mozilla/5.0 (Windows: U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316
+(USG-25) Firefox/3.0 10
+
+Accept: text/html.application/xhtrnl+xml,application/xml;q=0.9,7*;q=0.8
+
+Accept-Language: en-us,en;q=0.5
+
+Accept-Encoding: gzip;deflate
+
+Accept-Charset: ISO-8859-1 ,utf-8;q=0.7,*;q=0.7
+
+Keep-Alive: 300
+
+Connection: keep-alive
+
+First, we can determine the full URL | (	http://xteyscore.rl.r.nsaAedmirW
+
+by adding the GET line to the host:
+http://xkeyscore.r1 .r.nsa/redmine
+
+?££ XKEYSCORE - Overview - XKEYSCO
+
+GET /redmine
+
+Host: xkeyscore.rlr.nsa
+
+User-Agent: Mozilla/5.0 (Windows: U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316
+(USG-25) Firefox/3.0 10
+
+Accept: text/html,application/xhtml+xrnl,application/xml;q=0.9.7*;q=0.8
+
+Accept-Language: en-\j$,er\-,q=Q.5
+
+Accept-Encoding: gzip;deflate
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+
+Keep-Alive: 300
+
+Connection: keep-alive
+
+Cookie: _session_id=ffd87ac8682e8fa8f421 b4ffdf9693ae
+
+Referer; http://google4.q.nsa/search?q=xkeyscore&btnG=Google+Search
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+“Referer Searches”
+
+* Secondly, we get some hints as to why the
+user was requesting that page from the
+Referer line:
+
+Referer: http://google4.q.nsa/search?q=xkeyscore&btnG=Google+Search
+
+* Note that it was the same URL that we were
+at immediately before we clicked the “result”
+link
+
+“Referer Searches”
+
+* Let’s look at that process again:
+
+“Referer Searches”
+
+* Let’s look at that process again:
+
+“Referer Searches”
+
+Let’s look at that process again
+
+xkcyscorc.ri.r.nsa
+
+Third, by clicking on one of
+the results, a new GET
+request is issued to retrieve
+the XKEYSCORE home
+page. In this request, the
+location of the original
+search is listed as the
+“referer”
+
+rgiMAIIgii
+
+/ i d l i ii o i
+
+ifjai
+
+r-	.17/
+
+“Referer Searches”
+
+Let’s look at that process again
+
+Qoog e4.q nsa
+
+xkcyscorc.ri.r.nsa
+
+What will happen if we
+only have collection on
+this link?
+
+laaarjar/wifliiMrffjaai iiwrefiwaiFa
+
+
+
+
+
+1
+
+
+
+.j j
+
+VYA-
+
+Search Terms
+
+<referer)the legal status of the Caspian sea
+
+Referer
+
+littiK.'/www.yooyiki.coinseaicliîliWaSsouiceHiihSti^he+leyal+status+of+tlie+^ispian+s^i&li
+
+Referer Searches
+
+When XKEYSCORE sees a search
+contained in the “referer” field, we still extract
+it out as meta-data into the “search terms”
+but we append it with (referer) to denote
+where it was originally found:
+
+HTTP Tyse	Host	URL Path	LRL A-gs
+yet	ww iv.pai stimes.coii i	.>1aw/cas|>iaii_statiis.litml	
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+“Referer Searches”
+
+GET /law/caspian_status.html HTTP/1.1
+Accept: 7*
+
+Host: www.parstimes.com
+
+Refe'er: http:/A*vww.goc>gle.com/search?hl=fa&source=hp&q=the+legal+status+cf+the+caspian+sea&lr=
+Accept-Language: fa
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1: SV1; .NET CLR 2.0.50727; lnfoPath.2)
+Cache-Control: max-stale=0
+Connection close
+
+X-BlueCoat-Via: 0A6F53530F3F63EE
+
+ID: se3s_ürig_prac
+
+Type HTP-GET > Printer Friendly Version
+
+DNI Display I RawJ3ata CNI Format
+
+Services v
+
+GET /HftzboUah-Tftrrorism-riKÜtJi-Palmr.r-Karik/<ip/186Û648932 TTTTP/1	
+Us er-Agent:	MoziIa/j.C (Windows; U; Windows NT 5 1; en-US) AppLeWebKjt/525.19 (KHl’ML, like Gecko) Chrom* 1.0. 154 48 SaM525 19
+Tefsrer	fcttpY/www googje. cojn.pk/search‘?hl=en&cp=wretteri books on hizboilah&b tnG=Google Search&meta=
+Accept	text/xml.applicatorAml.appliratiomVhtml xml text-/hhr.l;q=0 9ftext/plam;q=0 8,image/png>:*V*.q=0 *5
+Accept Encoding: Cookie:	gzip, deflate ,bip2,sdch  ubid-man=l 85-5525816- 876 5531
+Ac crept-Language-	apn-user -id=P 1YXY7QF1PTJYQ5 en-US.en
+Accept Charset: Host:  Connection	ISO-8859-8 www. amazor. com Keep-Alive
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Proxy Information
+
+Proxy Information
+
+*	In a lot of cases we’re going to see HTTP
+Activity from behind a proxy or proxies.
+
+*	What is a proxy?
+
+■ A proxy is a server that is acting as an
+intermediary for HTTP requests from clients
+
+*	Why do proxies exists?
+
+•	Performance:	Proxy can cache responses for static pages
+
+•	Censorship:	Proxy can filter traffic
+
+• Security:	Proxy can look for malware
+
+• Access-Control:	Proxy can control access to restricted content
+
+Proxy Information
+
+*	Routinely, we’re going to see ISP level
+proxies.
+
+*	That is, instead of having each individual
+user request web pages directly from the
+web servers, the ISP is going to collect all of
+those requests first, and then proxy them out
+through a handful of proxy IP addresses.
+
+*	When the response is returned, the proxy
+passes it on to the appriopriate user
+
+Proxy Information
+
+Why would the ISP want to proxy traffic?
+
+In many cases the ISP won’t have to supply
+public IP addresses to all it’s users
+
+It can simply give them a private IP address,
+and then use a handful of public IP
+addresses for its proxies which are the
+machines actually requesting the traffic from
+the web-servers
+
+
+
+OMINT /
+
+Proxies on the Internet
+
+i íc sm=tti a g¡ mí*] fliizi tn mm t»HKf
+
+Web-Servers
+
+Short-lived connections
+Single-user
+
+Short-lived connections
+Multiple-users multiplexed
+
+Long-lived connections
+Multiple-users multiplexed
+
+The Internet
+
+Direct-Connect
+
+Mixed-Gateway
+
+National-Level Proxy
+
+Cache
+
+Identifying a Proxy
+
+*	How do you know that the IP address that
+you think is your target is really a proxy?
+
+*	First step, check NKB.
+
+*	They have services that attempt* to
+automatically detect proxies
+
+*	These services are in no way 100% accurate so this is only the first step in
+
+checking to see if the IP Address is a proxy
+
+Confidence
+
+Description
+
+Value
+
+Luuetiun
+
+Add Analyst Input
+
+IP Range
+
+Lot/Lonc (.precision)
+
+city
+
+(none found)
+2AHEDAN
+
+Country
+
+IP UWf'
+
+RAYAHE F A PA 2 JRAMSHAHR COMPANY , IN I ERNE I SERVICE PROVIDER
+
+I
+
+Ac tone rrous system Routa Prefix
+
+0.0/17
+
+Autonomous System Number
+
+12 330
+
+Autonomous System Nome
+
+DC. AS DU Autonomous System:
+
+Drvii:k
+
+flikl Analyst lii|iiit
+
+031 (none found)
+
+rjDN
+
+Donriflir
+
+service
+
+PROXY
+
+(U//FOUQ)
+
+(U//FOUO)
+
+(U//FOUO)
+
+(U//FOUO)
+
+(TS//SI//REL TO USA, FVEY)
+
+(TS//SI//REL
+
+FVEY)
+
+'0
+
+USA
+
+(TS//S1//REL
+
+TO
+
+USA
+
+FVEY)
+
+(TS//SI//REL 10 USA, FVEV)
+
+(U//FOUO)
+
+i U//FOUO j
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Identifying a Proxy
+
+*	Other things to be on the look out for:
+
+•	X-Forwarded-For IP Address
+
+■	What is it?
+
+■	An X-Forwarded-For IP address the proxy
+passing on to the server what it thinks is the IP
+address of the user
+
+■	Think of it as the proxy telling the server “this is
+who I think this request came from”
+
+■	It’s important to note that multiple proxies can,
+and often, are present, so one proxy might just
+be reporting the IP address of another proxy
+
+GET/HTTP/1.0
+User-Agent:
+
+Host:
+
+Pragma.
+
+Via:
+
+X-? orwarde d-F or:
+
+C a che- C ontrol:	max- age=259200
+
+Connection:	keep-alive
+
+MozillaM.O (compatible; MSIE 6.0; Windows ITT 5.1; SV1)
+www.ebay.com
+no-cache
+
+iHJ-£jonootnetcomB[s^i^	10)
+
+J
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Some Examples of X-Forwarded-For headers:
+
+Multiple-Layers of Proxies!
+
+In-general, the first IP is the one closet to the original requestor
+Keep in mind - these can be totally fake
+
+X-Forwarded-For:	
+X-Forwarded-For:	
+X-Forwarded-For:	
+X-Forwarded-For:	
+X-Forwarded-For:	
+X-Forwarded-For:	192.168.1.10, 10.0.0.22,
+—	
+X-Forwarded-For:|	
+X-Forwarded-For:	I  •  o  o  h-  C\J
+■	
+X-Forwarded-For:|	g oog com:
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Identifying a Proxy
+
+Mozilia/4 0 (compatible; MSTE 6.0; "Windows NT 5 1; SV1)
+
+www.cbay.com
+
+Piasma
+
+(squid/3.0. STABLE 10)
+
+X-Forwarded-For: 217.219.95.135
+
+Cache-Control
+
+259200
+
+Connection:
+
+Similar to the X-Forwarded-For Tag is the
+“VIA tag”
+
+The VIA tag is the proxy identify itself
+
+Identifying a Proxy
+
+*	The Via: tag may even contain some good
+information about the proxy
+
+*	Be careful though because this information
+could be falsified:
+
+Via:	1.0 tehran-proxy- srv:3128 (squid/2.5. STABLE 1 )
+
+Identifying a Proxy
+
+Remember though that the	X-
+
+Forwarded-For and VIA lines can be falsified
+and don’t have to be present!
+
+If they’re not present, how can you tell the IP
+address is a proxy?
+
+Test it in MARINA!
+
+Testing IP Addresses in MARINA
+
+•	The primary side effect of a proxy is too
+many users online at the same time
+
+■ So if all else fails, try querying on the IP
+address (assuming its USSID18 compliant of
+course!) in MARINA to see how many users
+were active within an hour time frame
+
+*	It’s not scientific but generally it will help
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Testing IP Addresses in MARINA
+
+For example look at these results:
+
+JL <Seect>
+
+Specify Date Range
+(VYYYMMDD rhhmmss]):
+
+¿05910260 Oil
+
+2009 0260200
+
+Hfitfi	h ark to I Jjpc lilOil
+
+Search Cor Use: Activity by. ..
+
+that...
+
+the value (s).
+
+Strung Salucturs (EnaJs. IDs. Uuukjus. h‘ail Tokens. Plane Numbers, AppPiucIPs, ApfjPiucMaus) v
+
+exactly match
+
+? Decode Ordain
+
+w>
+
+3178 Records 1-500
+
+There were 274 unique “Active Users” in that
+hour, think it’s a proxy?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Header Fingerprint (HHFP)
+
+DERIVED FROM: NSA/CSSM 1-52
+
+8
+
+What is the HHFP?
+
+GCHQ created the HHFP to help identify
+individual users behind a single proxy IP
+address
+
+The HHFP is a hash of multiple header fields
+that can be used to identify a single user
+behind a proxy
+
+What is the HHFP?
+
+*	At least one of these values must be present:
+
+■	X-Forwarded-For IP Address
+- Via
+
+■	Client IP address
+
+•	If so, the HHFP is a hash of those values
+combined with the User Agent string
+
+PSECR
+
+OMINTZ
+
+—
+
+OUSA,
+
+CAN, G
+
+ZL
+
+What is the HHFP?
+
+EX: Here’s an Iranian proxy IP
+Address that has multiple HHFP’s
+underneath it.
+
+NOTE: There’s no guarantee that
+an HHFP is identifying a single
+unique user, it’s entirely possible
+that more than one user will have
+the same HHFP
+
+32) 0%
+§QQ8b6e2c(1)3%
+§01Sa707f (1)3%
+§0932eSS3(1)3%
+§0aeel5:i4(1)3%
+§0ba2b59l (1)3%
+§0ced7c4B(1)3%
+[§13312737(1)3%
+§135c8:ir3(1)3%
+[§19429343(1) 3%
+§19dda1fa (1)3%
+§19171521 (1)3%
+§1dd33d95(1) 3%
+§ 11661 ca6 (1)3%
+§2Qf8c731 (1) 3%
+§ 219109f0 (1 ) 3%
+§22Sc2cta (1)3%
+§23eG7923(1)3%
+§2001530^(1)3%
+§2d504fe' (1)3%
+§218bad2i (1)3%
+§31b545od(1) 3%
+§ 3a07f5" 5 (1 ) 3%
+§3c735551 (1)3%
+§453405^9 (1)3%
+|§S470cbdc(1)3%
+§73138ecd(1)3%
+§94119,’ci9 (1)3%
+§9b3392=»2 (1) 3%
+
+OP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+af)1 IcS” 4 (1 ) 3%
+
+§acOG2531 (1)3%
+
+Pros and Cons of HHFP
+
+*	On the positive side, the HHFP is a single 8 digit
+value which can help identify a single user behind a
+proxy
+
+*	On the negative side, it requires an XFF IP
+address, Via string or Client IP Address and since
+many sessions do not contain all three, they’ll have
+no HHFP string
+
+*	Also even with the HHFP, all of the fields that are
+used to build it are available in the XKS HTTP
+Activity query so it’s not providing you with any
+data you don’t already have access to
+
+XKS’s HTTP Activity Search
+
+DERIVED FROM: NSA/CSSM 1-52
+
+XKS HTTP Activity Search
+
+After that overview of how HTTP Activity
+works, let’s look into how to effectively
+target it through XKS queries
+
+XKS HTTP Activity Search
+
+*	HTTP Activity indexes every HTTP
+session
+
+*	Client-to-server and server-to-client
+
+*	Can be queried on any of the unique
+HTTP meta-data fields or any of the
+“standard” DNI fields (IP Address, SIGAD,
+CASENOTATION etc).
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+f HT~P Tyrin:
+
+F.Qfg
+
+Host:
+URL Path:
+
+X Forwarded Frr;
+
+JR. Ari;s:
+
+=^roxy Hash CHHFP):
+
+search Terrs:
+
+Coo<ie:
+
+L=§n<!U33e:
+A drive User:
+
+"Dl Tyrje:
+
+Attachment -ilaname:
+
+TDI:
+
+Sarver ypa:
+
+Character Encoding:
+
+Geo ln"o rfiilltextl:
+
+Cor:ter il Start:
+
+f,yisc Irro rfullte^tl:
+
+content stup:
+
+.inks y Irteres::
+
+Content Total:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+XKS HTTP Activity Search
+
+* Unique Meta-data fields of this search
+include:
+
+Fields already covered in this training:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+XKS HTTP Activity Search
+
+In addition to all of the common fields like:
+
+Frorn^ v
+
+To v
+
+From v
+
+To v
+
+		
+S1GAD:		V
+		
+Casenotation:		V
+		
+Session TO (UUID):		
+
+Application Typa:
+Application Into:
+Application:
+
+AppID
+
+t+Fingerornts) LLuE^tJ.
+
+| Data Length:	1
+	
+j Session Length:		J
+
+DVBS MAC:
+DVBS FID:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+XKS HTTP Activity Search
+
+*	Most commonly HTTP Activity query
+searches in XKS will be to enable
+“persona analysis”
+
+*	Based on MARINA, TRAFFICTHIEF or
+PINWALE, we’ll want to query XKS to
+discover all of the HTTP Activity that
+occurred around the targets session of
+interest
+
+P SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Simple HTTP Searches
+
+* In order to do a “persona analysis” type
+search, all we’ll need to fill in is the IP of
+the target (assuming it’s USSID18
+compliant) and a short time range “around”
+the time of the activity:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+XKS HTTP Activity Search
+
+Another common query is analysts who
+want to see all traffic from a given IP
+address (or IP addresses) to a specific
+website.
+
+XKS HTTP Activity Search
+
+*	For example let’s say we want to see all
+traffic from IP Address 1.2.3.4 to the
+website www.website.com
+
+*	While we can just put the IP address and
+the “host” into the search form, remember
+what we saw before about the various host
+names for a given website
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Host Field
+
+GET ha c i'r.io dules/mr/abContact3?nicn^'tLb=SirDb59yrn & jsranc=98037807 &.rand=2127033459 HTTP/.0
+
+Accept;
+
+A c c ept,-Lün¿u¿tg!
+
+It’s important to note, that in many cases users think
+they’re at websites like www.yahoo.com, but behind
+the scenes data is coming from a number of
+different servers without the user knowing it:
+
+littpJ/us rue 575 rr.ail yahoo. c otnftnd.showFolde-,_ylc—X3 oDWTBucirihob G3:0BFSCAxMSODMv/MT
+AyNwRh YwlvkZWxKc2dz,?mi<i= 1 _21857_AHEUcxETAANvjSi6wTTQ7filZa4fYAfid=lht«x&sor^date&o
+rd«r=up &start2£id^3 6 &filterBy=
+s-requcsled-witb; XMLIIrtpBequ est
+Accept-Encoding: gap. deflate
+
+v.^iiafd r.	*rp $.0; Wjukm» NT 5.3, $V1; .NET CLR 2 0.5C7Z7)
+
+us.mc575 tr.ail.5ráh.oc>.coin I
+
+Í7WRe2jUKzr.vAvyoKSrjKxGOTCVY;iThF9 5dLs7.500?; I r.Dli T ;»rTi> vpi
+
+ad^XvB0cmj5Rrl
+
+ü.tf.fruWjt.
+
+Host:
+
+wvvfuu
+
+v=t
+
+n=6$k3gh&i5551i
+
+l=ccQcc ■) 3_0 1 s qqs/o ( Yaho o lo gin id:
+
+P=m2g265i013000000 ( Gender male. Birth year: 15>S0. Postal code:|
+t=hq
+
+XKS HTTP Activity Search
+
+*	In order to account for all of the possible
+host names, we must front-wildcard the
+host name.
+
+*	Be careful when front-wildcarding
+because beyond being resource intensive
+for XKS, it can be dangerous from a
+USSID18 perspective
+
+Hints for wildcarding a host name
+
+*	If you’re trying to query for traffic to the
+website www.website.com the best way to
+wildcard it is:
+
+*	*.website.com
+
+*	Notice that the . before the hostname
+website is still there, that way we will
+properly hit on ads.website.com
+images.website.com but avoid the false
+hits on www.anotherwebsite.com
+
+Hints for wildcarding a host name
+
+Why are we only interested in traffic
+conning from our IP of interest going to
+our website of interest?
+
+forum
+
+showthroad.php
+
+t=131485
+
+Helpful GUI Shortcuts
+
+Earlier we talked about how XKS broke a
+GET request into the URL Path and URL
+Argument (separated by a ?)
+
+Ex
+
+showthread.php?t=131485
+
+http://forum
+
+Get’s broken out to
+
+forum
+
+$howthread.|>h|>
+
+1=131435
+
+Helpful GUI Shortcuts
+
+So if we were to query for this URL we
+would need to enter those fields in
+separately:
+
+Host
+
+fPopulate with LR_ Field E-jilderl
+
+URL Field Builder
+
+Enter d URL Uidt mil be automatically- parsed to populate the host,
+path, and argument Fields:
+
+Helpful GUI Shortcuts
+
+Or we could use the “URL Field Builder” to
+simply copy and paste the full URL and let
+XKS break it into its appropriate parts:
+
+Cancel
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Helpful GUI Shortcuts

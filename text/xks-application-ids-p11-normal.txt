@@ -1,0 +1,13 @@
+﻿Each session gets one appid -- lowest level wins. It gets
+databased in the 'application' field.
+
+All matching fingerprints are stored in the 'fingerprint'
+field. Level is ignored and can be omitted from
+fingerprint definitions.
+
+Application Type*: |	v . Winning appid
+Application Info*':	^ Winning appid +
+Application:	.y' all fingerprints
+AppID (+Rngerpnnts)* [fu'lteyfl:	v [Plaid Buildarl
+
+TOP SECRET//COMINT//REL TO USA, FVEY

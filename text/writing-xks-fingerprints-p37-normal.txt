@@ -1,0 +1,13 @@
+﻿Fingerprints 101:
+
+Boolean Logic
+
+• Let’s say that this fingerprint is producing
+good hits, but it also hitting on spam E-
+mails.
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+(‘National Development Complex’ or ‘NDC’)
+and (‘quotation’ or ‘invoice’);
+
+TOP SECRET//COM1NT

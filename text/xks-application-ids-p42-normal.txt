@@ -1,0 +1,38 @@
+﻿no oí 101
+10011	001
+
+i 1001 1001 I
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Micropluains
+
+-*■ . _ * ^
+
+Example: contributing metadata to HTTP Activity
+
+fingerprint('maps/google/search') =
+
+http host('.google.') and url('/maps?')
+
+: C++
+
+extractors : {{
+
+q = /[&?]q=([A&]+)/;
+
+}}
+
+main : {{
+
+if(q) {
+
+DB["http_parser"]["search_terms"] = xks::urldecode(q[0]);
+DB.apply();
+return true;
+
+}
+
+}};
+
+TOP SECRET//COMINT//REL TO USA, FVEY

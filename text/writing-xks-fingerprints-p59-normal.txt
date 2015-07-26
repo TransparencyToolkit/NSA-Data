@@ -1,0 +1,15 @@
+﻿top secret strapi
+
+Example 4
+
+• “I want to look for E-mails that mention words from various
+categories of interest to CP”
+
+• You can use multiple variables in an equation like this
+
+topic('wmd/acw/govtorgs') =
+
+email_body($acwitems and Sacwpositions and
+($acwcountries or Sacwbrokers or Sacwports));
+
+TOP SECRET//COM1NT

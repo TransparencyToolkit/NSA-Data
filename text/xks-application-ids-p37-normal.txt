@@ -1,0 +1,43 @@
+﻿I 10 01 101
+10011 ex
+1 1001 100
+01001
+10 to 01
+
+r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Extractors
+
+Simplified regex-based metadata extraction
+
+fingerprint('maps/google/example’) =
+http host('.google.1) and url('/maps?')
+
+: C++
+
+extractors : {{
+
+ka = /Keep-Alive: (\d+)/;
+
+accept[] = /Accept-([A:]+): ([\w-]+)/;
+
+}}
+
+main : {{
+
+if(ka && ka[B] == "380") {
+
+for(size_t i = 0; i < accept.size(); ++i)
+
+if(accept[i][O] == "Encoding" && accept[i][l] == "gzip")
+return true;
+
+}
+
+return false;
+
+}};
+
+TOP SECRET//COMINT//REL TO USA. FVEY

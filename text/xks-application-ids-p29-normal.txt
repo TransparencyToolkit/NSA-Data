@@ -1,0 +1,41 @@
+﻿appid options:
+--help
+-list-all
+
+-list-appids
+
+-list-fingerprints
+
+-list-types
+
+-list-levels
+
+-unit-test
+
+this help message
+
+list all the application/fingerprint names and
+levels
+
+list all the application names (no fingerprints)
+list all the application names (no appids)
+list all the application types
+list all the application levels
+perform unit tests with data in the heirachy
+'datadir', with files matching 'filespec'
+
+-quiet	don't print any load messages
+
+-appid fname arg location of appid.cfg
+-input-file arg	input file to test
+
+-datadir arg	The test data directory. Defaults to
+
+$ (XSCORETESTDATADIR )/appids
+
+-filespec arg (=.*\.ul24) A regular expression to match against files to
+check
+
+-noexit arg (=0) do not stop on the first error
+
+TOP SECRET//COMINT//REL TO USA, FVEY

@@ -1,0 +1,67 @@
+﻿Classification: TOP 5ECRET//C0MINT//0RC0N.//REL TO USA, FVEY//20291 j 23
+
+- -. R
+
+<entry>
+
+<Lype> bcolear: </Lype>
+
+<name> cbar./l rc </name>
+
+<oar.«gory> applicat.ion_i
+<infcrciiation>
+application type> chat
+<level> $.1 </lev®l>
+
+<action> tipplicc.tion_id
+</iriiortnaLlon>
+
+<select>
+
+KW-' <POS=C>nick' +•
+
+KW= * < POS=C >isen1 -t-
+KW =' <E’OS=C>wbois ’ +
+
+KW-'<P05-C>isirc’+
+
+KW-'CPOS-Oiro' l
+kw- ' <POS-C>join ’ +■
+
+KW-' <E'OS-C>aul.h ' +
+
+KW-'<POS~C>crypt’+
+
+KW=' <.Pi)3=C>pir.g' i
+KW=' <fc>OS=C>poi:g • *
+
+KW-'<POS-C>privmsg1+
+KW='<POS=C>notice awth' +
+
+KW=' ire * &KK= * privmsg ’ &KVi=' net ice1 +
+KW=*error :your
+</select>
+
+<ceseiect> KW-’ap COl’-O'SKW-'user'
+</encry>
+
+appidi’cha^/lrc', 8.5, wireshark-'ire*, ch&Lproc-1IRC') -
+‘orivmgg *;
+
+appid(’chat/irc*, 8.L, wircsliark-'ire', eh£tproc='IRC'3 =
+r.ot {port (110} ar.d 'user'] and
+( f' rsr. (’rri c< ') c r first ('i son ') cr
+first('whois ') cr first(’isirc ') or
+l!rs_(’irc ') cc first(’join ') or
+first(’auth ’) cr first ('crypt ') or
+first (’ping ') cr first Cpor.g 1) or
+first('privmsg '5 or
+firs-('no-ice aalh’) or
+l1 i rc1 a~id 1 privmgg ’ and ’notice 1 )
+or ’error :yoi:'
+
+) ;
+
+:/deselect--
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

@@ -1,0 +1,21 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Basic Syntax
+
+Syntax:
+
+•	Very C-like.
+
+function( 'name', level, <optional info> ) = 'search terms and pattern';
+
+Two valid search functions appid and fingerprint:
+
+•	appid('chat/icq', 8.5, wireshark='icq', chatproc=‘ICQ’) =
+
+/[*o]icq/c and $icq;
+
+• fingerprint('fingerphnt/phone/nokia/generic', 7.0) =
+'user-agent: nokia' or
+'profile:	';
+
+Classification: TOP SECKET//COMINT//ORCON//REL TO USA, FVEY//20291123

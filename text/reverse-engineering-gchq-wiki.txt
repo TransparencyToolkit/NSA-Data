@@ -1,0 +1,212 @@
+﻿Reverse Engineering - GCWiki
+
+UK SECRET
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report
+inappropriate content.
+
+For GCWiki help contact: webteam RUSSETT 36525. Support page
+
+Reverse Engineering
+
+From GCWiki
+
+Jump to: navigation, search
+
+Unclassified Image Logo: Initials Smallest
+
+		
+	TEA Reverse Engineering	
+
+Group Number	dial
+RUSSETT	36858
+NSEC	62353
+
+Team Leader
+
+Reverse Engineers
+
+Contents
+
+•	1 TEA-RE
+
+•	2 Experience Reverse Engineering
+
+•	3 Previous Events
+
+o 3.1 Level 1 Tours
+o 3.2 Knowledge Sharing
+
+•	4 Current Equipment and Capabilities
+
+1 of 4
+
+Reverse Engineering - GCWiki
+
+[editl TEA-RE
+
+The TEA Reverse Engineering team is part of the TECA (Technical Enabling Covert Access) Product Centre.
+
+Our main service is to provide expertise in hardware and embedded software reverse engineering (RE) of
+cryptographic related products and equipments. The expertise and tools provided are also applicable to
+hardware forensic analysis and evaluations of tamper protection/detection implementations.
+
+The team provide integrated circuit RE expertise and are the main point of contact for liaison with other UK
+intelligence agencies on such topics, including research and development of techniques for defeating secure
+microprocessors (e.g. smartcards).
+
+Due to the nature of the reverse engineering work, it is covered by ECIs and exceeds the clasification of the
+GCWiki. Further details of our lab equipment and work on current products is sited on CAWiki pages.
+Accessed only by INSIGHT account.
+
+[editl Experience Reverse Engineering
+
+The TEA-RE team provide a Reverse Engineering Taster Course; a 5-day on-site event where GCHQ and
+CESG staff can use their skills to attempt to reverse engineer a black box, with the aim of producing an
+emulator for SIGINT use. Using equipment such as logic analysers and chip programmers as well as in-house
+hardware and software tools, the course is designed to promote 'thinking' like a reverse engineer and
+understanding that it's not as simple as it looks.
+
+Hints are given by RE staff if necessary, but we will let you make mistakes - it's part of the process. There is
+no set way to finish the task.
+
+For further details about the course contact or possiblly attending the next event please contact
+
+• Reverse Engineering Course Outline and Pre-requisites
+
+[editl Previous Events
+
+[editl Level 1 Tours
+
+Live demonstrations and the latest SIGINT news and tours of the TECA lab facilities are available. Please
+visit follow the links for further details.
+
+•	Read about past tours
+
+•	To book a place on the next tour
+
+[editl Knowledge Sharing
+
+TEA and PTD have started regular SRE Exchange Meetings where we talk about the latest developments and
+deal with problems.
+
+2 of 4
+
+Reverse Engineering - GCWiki
+
+[editl Current Equipment and Capabilities
+
+The Reverse Enginering Lab is situated in C1-D3, where we have a dedicated lab for investigative work. Our
+equipment list is available, which includes products from LeCroy, HP and Agilent.
+
+Nsawiki.gif
+
+NSA Wiki has an article related to this topic:
+Reverse Engineering
+
+Retrieved from "https://wiki.gchq/index.php/Reverse Engineering"
+Categories: TEA-RE | Menu Templates | Software Reverse Engineering
+
+POC:
+
+(mail Phonebook Find)
+
+Views
+
+•	Page
+
+•	Discussion
+
+•	Edit
+
+•	History
+
+•	Delete
+
+•	Move
+
+•	Watch
+
+•	Additional Statistics
+
+Personal tools
+
+•	Ejsnowd@nsa
+
+•	My talk
+
+•	My preferences
+
+•	My watchlist
+
+•	My contributions
+
+Navigation
+
+•	Main Page
+
+•	Help Pages
+
+•	Wikipedia Mirror
+
+•	Ask Me About...
+
+•	Random page
+
+•	Recent changes
+
+•	Report a Problem
+
+•	Contacts
+
+•	GCWeb
+
+Search
+
+Go
+
+Search
+
+3 of 4
+
+Reverse Engineering - GCWiki
+
+Toolbox
+
+•	What links here
+
+•	Related changes
+
+•	Upload file
+
+•	Special pages
+
+•	Printable version
+
+•	Permanent link
+
+Powered by MediaWiki
+
+•	This page was last modified on 18 November 2011, at 10:18.
+
+•	This page has been accessed 2,997 times.
+
+•
+
+All material is UK rhttp://www.^^^^^^^^^|/ck/opensource/policv strategy/copyright/ Crown
+Copyright] © 2008 or is held under licence from third parties. This information is exempt under the
+Freedom of Information Act 2000 (FOIA) and may be exempt under other UK information legislation.
+Refer any FOIA queries to GCHQ on	__x	_or_ @gchq.gsi.gov.uk
+
+•	Privacy policy
+
+•	About GCWiki
+
+•	Disclaimers
+
+UK SECRET
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report
+inappropriate content.
+
+4 of 4

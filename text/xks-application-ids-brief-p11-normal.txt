@@ -1,0 +1,49 @@
+﻿Classification: TOP 5ECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+
+
+Predefined Chainwords
+
+There are a number of chainwords predefined for convenience:
+
+$tcp
+
+$udp
+
+$icmp
+
+$sctp
+
+$rpc
+
+$arp
+
+$ssl
+
+$http_cmd
+
+$http
+
+$http_get
+
+$http_put
+
+$http_post
+
+•	shttp delete
+
+•	shttp trace
+
+•	$http_head
+
+•	Shttp_options
+
+•	$http_partial
+
+•	Svbulletin
+
+•	Smime_type
+
+•	$user_agent
+
+Classification: TOP SECRET//COM INT//ORCON//REL TO USA. FVEY//20291123

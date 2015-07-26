@@ -1,0 +1,12 @@
+﻿Classification: TOP 5ECRET//COMINT//ORCON//REL TO USA, FVEY//2029112
+
+Built in functions
+
+ip( expr )	Matches against an IP Address looks in to address and from address in the session headere  • ip( '10.10.10.1');
+toport( expr )	Matches against the Destination/To port. Note this must be a numeric representation of a port.  • tOport( 1920 );
+fromport( expr )	Matches against the Source/From port. Note this must be a numeric representation of a port.  • fromport( 80 );
+port( expr )	Matches against the either port. Note this must be a numeric representation of a port.  •port( 6667 );
+next_protocol( expr)	Matches against the integer version of the next protocol.  • next_protocol( 250 );
+protocol ('text')	Will only work for IP next protocol names as defined in the IANA next protocol numbers document  • protocol (’tep');
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA. FVEY//20291123

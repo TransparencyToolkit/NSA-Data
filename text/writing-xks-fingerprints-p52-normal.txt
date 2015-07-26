@@ -1,0 +1,13 @@
+﻿TOP SECRET STRAPi
+
+Protocol Contexts 1 of 2
+
+ip(expr)	The source or destination IP address of the session  ipf 127.0.0.1*)
+from Jp(expr)	The source IP address of the session from_ip(‘l 27.0.0. V)
+to ip(expr)	Every URL from HTTP GET and POST commands. toJpC 127.0.0.1*)
+ip subnet(expr)	IP subnet in CIDR notation, ip subneti‘7.211.143.148/24’)
+port(expr)	The source or destination TCP or L DP port number. port(*22’)
+from_port(expr)	The source TCP or UDP port number. from_port(’22’)
+to_port(expr)	The destination TCP or UDP port number. to_port(’22>)
+
+TOP SECRET//COM1NT

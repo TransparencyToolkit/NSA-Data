@@ -1,0 +1,16 @@
+﻿TOP SECRET STRAPi
+
+Syntax Rules
+
+Definitions and Variables can span multiple lines
+
+Sbadguy =
+
+‘bomb’ or
+‘gun’ or
+‘weapon’;
+
+fingerprint(‘test/blah/something’, owner =
+Sbadguy;
+
+TOP SECRET//COM1NT

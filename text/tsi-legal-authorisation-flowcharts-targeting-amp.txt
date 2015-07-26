@@ -1,0 +1,118 @@
+﻿UK CONFIDENTIAL	Version 6, dated 11/08
+
+Side l
+
+The issue on GCVYeb is die definitive version; printed copies may be out of date. Terms are defined in the glossary at
+http w.v	ope rations^'po l leg aLfleq/compi tance/q-ossary.shtrn!.
+
+Legal Authorisation Flowchart: TARGETING
+
+SUMMARY			
+I i ty		2nd Party	Other or
+	UK	/BOT	unknown
+UK	Warrant	Warrant	Warrant
+2nd Party/BOT	STA	STA	STA
+Other or unknown	STA	STA	Nil
+
+UK CONFIDENTIAL
+
+Version 6, dated 11/08
+
+Side 2
+
+The issue on GCWeb is the definitive version: printed copies may be out of date. Terms are defined in the glossary at
+
+h tip j7	opera tier. si po 1 leqa'fle a.'complian c eigossa ry. shtrnL
+
+Legal Authorisation Flowchart: TARGETING
+
+UK CONFIDENTIAL
+
+Version 5, dated 11/06
+
+Side 1
+
+The issue on GCWeb is the definitive version; printed copies may be out of date. Terms are defined in the glossary at
+
+lllll I H	'Trr-fir~sflafliicv/leaaIities/authorisation/definitions.shtml.
+
+Legal Authorisation Flowchart: COLLECTION
+
+Will you intercept only
+
+technical
+
+characteristics?
+
+NO
+
+YES
+
+▼______________________________
+
+Will you be intercepting comms
+content?
+
+YES
+
+NO
+
+Is one end US?
+NO
+
+YES
+
+No further authorisation is
+required
+
+You can survey for up to 2 hours’
+worth of data but may not return to
+the same bearer until you believe
+its composition has changed
+
+▼______________________
+
+Is the collection at least
+one end foreign?
+
+NO
+
+YES
+
+You can assume appropriate legal
+authorisation is in place
+
+Unlikely to be proper
+GCHQ business:
+consult OPP-LEG
+
+Will all intercept pass
+through a TND or
+dictionary?
+
+YES
+
+NO
+
+Some domains/VPNs are
+
+lie this is full or coarse		r ^ r \  / others are available to a \
+unselected! take		range of users. If you are
+		1 in effect targeting a /
+
+specific organisation, see
+the Targeting flowchart
+
+i PTO
+
+UK CONFIDENTIAL
+
+Version 5, dated 11/06
+
+Side 2
+
+The issue on GCWeb is the definitive version; printed copies may be out of date. Terms are defined in the glossary at
+
+111 li  ^^^^^M-p-rTi—vColicwleaalitiesfauthorisatioR’defindons.shtnil.
+
+Legal Authorisation Flowchart: COLLECTION

@@ -1,0 +1,7 @@
+﻿email_address(sel)	permutes just like strong selector (just like DECODEORDAIN
+mac_address(addr)  smac(addr)  dmac(addr)	Tasks a mac address
+ip(addr)	tasks this IP address (either to or from)
+fromjp(addr)	tasks this IP address only when it is the originator
+tojp(addr)	tasks this IP address only when it is the destination
+
+TOP SECRET//COMINT//REL TO USA, FVEY

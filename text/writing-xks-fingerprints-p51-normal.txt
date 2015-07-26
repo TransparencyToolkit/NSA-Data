@@ -1,0 +1,11 @@
+﻿TOR SECRET STRAPi
+
+HTTP Activity Contexts (2 of 2)
+
+http_cookie(expr)	The “Cookie:” field given in the http header. http_cookie(/PREF=\d\d[a-z]/)
+http server(expr)	The “Server:” type name in the http header. http_server(‘GWS/2.1 ’ or ‘Apache’)
+http_user_agent(expr)	The “User-Agent:” field given in the http header. http_user_agent(/MozillaV[45]/ or ‘Chrome’)
+web_search(expr)	The normalized extracted text from web searches web searchfricin’ or ‘plague’)
+X forwarded for(expr)	The X-h'orw'arded Tor IP address from the HTTP I leader  x_forwarded_for(‘i.2.3-4’)
+
+TOP SECRET//COM1NT

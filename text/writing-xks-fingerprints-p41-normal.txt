@@ -1,0 +1,15 @@
+﻿Fingerprints 101: Variables
+
+•	Variables can be re-used in multiple fingerprints.
+
+•	For example, we could have:
+fingerprint (‘cp/pakistan/agencies/ndc’) =
+($NDC_terms and $procurement_terms) and not
+
+$spam_defeats;
+
+fingerprint(‘cp/pakistan/angencies/ndc/testing’) =
+$NDC_terms and (‘missile launch’ or ‘tactical
+radio’);
+
+TOP SECRET//COM1NT

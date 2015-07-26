@@ -1,0 +1,13 @@
+﻿Expressions are evaluated only with a certain context
+instead of across the session as a whole.
+
+html_title('Yahoo! Mail1 or 'Yahoo! Address Book1)
+
+... only hits if those keywords are seen within the
+title of a web page
+
+http_host('maps. google.com')
+
+... only hits within the "Host:" HTTP header
+
+TOP SECRET//COMINT//REL TO USA, FVEY

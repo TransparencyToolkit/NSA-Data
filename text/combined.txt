@@ -1,0 +1,1650 @@
+﻿^îcvr/7
+
+¿Musc*
+
+(U//FOUO) CNO LEGAL AUTHORITIES
+
+Office of General Counsel
+
+Classification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+1
+
+Objectives for Today's Brief
+
+•	Overview of SIGINT law
+
+•	Overview of Information Assurance Law
+
+•	What do I need to know?
+
+•	How do I apply this Stuff to what I’m
+doing?
+
+(U//FOUO) Helpful Questions
+
+•	What authorities are being used to collect the
+information that I’m looking at?
+
+•	Where is this information being collected?
+
+-	SIGINT platforms? - Tutelage sensors? -Collateral Source?
+
+•	Who will receive access to the collected information?
+
+•	What retention and dissemination restrictions apply to
+the collected information
+
+-	(e.g., SIGINT Procedures, Service Provider Rules, etc.)?
+
+Classification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+The Importance of “Purpose”
+
+The purpose governs the restrictions imposed upon the collection.
+
+
+
+If they get nothing else out of the briefing, they need to know and remember
+that SIGINT is collected for FI/CI/SMO (FI) purposes and they must apply the
+SIGINT (FI) rules (FISA and USSID SP0018) to all raw SIGINT and IAD
+collection is done for system/data security purposes and they must apply (for
+now, though IAD is coming up with their own procedures like USSID 18) DoD
+regulation 5240.1-R and the rules to stay within the Wiretap Act Service
+Provider exception. COMSEC collection by JCMA is typically done for
+security purposes and follows National Telecomms and Info Systems Security
+Directive (NTISSD) 600.
+
+4
+
+(U) Key Authorities & Restrictions
+
+•	United States Constitution
+
+•	Executive Order 12333, “U.S. Intelligence Activities”
+
+•	NSC Intelligence Directive 6. “Signals Intelligence”
+
+•	National Security Directive 42. “National Policy for the
+Security of National Security Telecommunications &
+Information Systems”
+
+•	Title III of the Omnibus Crime Control Act of 1968. as
+amended by the Electronic Communications Privacy Act of
+1986 (18 U.S.C Sections 2511-2521, 2701-2711) - “Federal
+Wiretap Act”
+
+•	Foreign Intelligence Surveillance Act (FISA) as amended by
+the FISA Amendments Act (FAA)
+
+•	Other Federal laws
+
+•	DoD Regulation 5240.1-R and USSID SP0018
+
+NSA/CSS (NTOC and ANO) were not given any additional authorities. The
+idea is to use the same authorities more effectively and take advantage of the
+same expertise (analytical and technical) that is used to defend and exploit.
+
+5
+
+(U) U.S. Constitution
+
+Article II (Power)
+
+“The President shall be Commander in
+Chief of the Army and Navy...” and
+conducts foreign affairs.
+
+SECRET//COMINT//Rel 4
+EYES//20291123
+
+Article II power not unlimited.
+
+(U) Executive Order 12333
+
+“United States Intelligence Activities,” dated December 4,1981 (as
+amended by E.0.13284 120031.13355 120041 and 13470 1200811
+
+•	SECDEF, in coordination with DNI,
+
+is executive agent for SIGINT. See Section 1.10(e).
+
+•	DIRNSA is the functional manager for SIGINT.
+
+See Section 1.3(b)(12)(A)(i).
+
+•	DIRNSA is the National Manager for National Security Systems, and is
+responsible to SECDEF and DNI. See Section 1.7(c)(6).
+
+•	No other department or agency may conduct signals
+intelligence activities, except as otherwise delegated bv the SECDEF.
+after coordination with DNI. See Section 1.7(c)(2).
+
+•	Collection done in accordance with procedures approved by the Attorney
+General. See Section 2.4. -USSID 18
+
+•	Assist Law Enforcement and other Civil Authorities. See Section 2.6.
+
+The collection done by NSA/CSS, electronic surveillance and using
+monitoring devices, requires procedures. Procedures established by the head of
+the IC element and approved by the AG, after consultation with the DNI must
+protect constitutional and other legal rights and limit use to lawful
+governmental purposes.
+
+Assist LE and other Civil authorities. NSA/CSS has procedures in place to
+provide assistance. These procedures provide protection of NS A resources,
+equities, sources and methods.
+
+Differentiate Reporting for lead purposes and use for LE. For instance,
+disseminate SIGINT to FBI re the fact that a foreign intruder is in a US system;
+FBI may start their own investigation (which could start as a FI/CI
+investigation because believe to be foreign before turning to a criminal
+investigation.)
+
+**If the SIGINT system incidentally collected a US hacker conducting
+intrusion activities, give to OGC who will have to report a potential violation
+of US law (The Computer Fraud and Abuse Act.) Also, SIGINT must avoid
+any further collection of that US person hacker**
+
+From IAD side, can provide threat reports or OGC can report a violation of law
+to FBI or the Cl units of the military for investigation if an intrusion is seen in
+the DoD systems. IAD could not assist without a request for technical
+assistance (and a warrant from the FBI/CI units) if a specific DoD system user
+is under investigation.
+
+Authority to conduct CNE
+
+•	(S) EO 12333 assigns NS A the Signals Intelligence (SIGINT)
+
+Mission, which includes COMINT and in turn CNE.
+
+•	(U) CNE evolved as a natural transition of the foreign intelligence
+collection mission of SIGINT. As communications moved from telex
+to computers and switches, NS A pursued those same communications.
+
+•	(U) 2 type of CNE activities:
+
+•	fLO Collection Activities- designed to acquire foreign intelligence
+information from the target computer system.
+
+•	fSl Enabling Activities- designed to obtain or facilitate access to
+the target computer system for possible later CNA, or force use of
+alternate communication systems.
+
+lassification:TOP SECRET//COMINT//Rel 4
+EYES//20291123
+
+CNE has evolved as a natural transition of the foreign intelligence collection
+mission of SIGINT. COMINT mission includes CNE.
+
+Two types of CNE activities: the collection of FI, Cl, SMO information and
+enabling activities that allow access. Collections activities are those designed
+to acquire foreign intelligence information from the target computer system and
+enabling activities are those activities designed to obtain or facilitate access to
+the target computer system.
+
+8
+
+Constitution
+Fourth Amendment
+
+The right of the people to be secure in their
+persons, houses, papers, and effects, against
+unreasonable searches and seizures, shall not
+be violated, and no warrants shall issue,
+but upon probable cause, supported by Oath
+or affirmation, and particularly describing the
+place to be searched and the persons or things
+to be seized.
+
+INCLASS1F1ED
+
+Applies to SID and IAD. Purpose is to protect USPs from unreasonable
+searches and seizures by the USG and NSA/CSS employees, contractors and
+military or Agents of the Government. Can go over the fact that in ones
+personal life, a person can do whatever s/he likes unless there is a law against
+it. In contrast, the USG is only allowed to do what it is authorized to do.
+
+9
+
+Supreme Court Cases
+
+Prior to ’67, Gov could surveil/intercept comms as long as didn’t make
+physical intrusion into constitutionally protected area (e.g. home)
+
+Describe cases.
+
+10
+
+Electronic Surveillance
+
+Supreme Court rules ELSUR is a
+
+search and seizure under the 4th Amendment to the U.S.
+Constitution...Depending upon...
+
+How it’s done.
+
+Where it’s done.
+
+Against whom it’s done.
+
+Why it’s done.
+
+Classification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+11
+
+Electronic Surveillance
+History
+
+Privacy rights developed in case law
+Court determines electronic surveillance is a
+search and seizure under the 4,h
+Amendment
+
+Statute passed in 1968 (Ominibus Crimes
+Control and Safe Streets Act—the
+Wiretap Act)
+
+Scope
+
+Purpose was to give LE procedures to allow
+Electronic Surveillance for Law Enforcement
+purposes
+
+
+
+
+
+Congress also knew intelligence agencies and government required to do ES
+for FI and Comsec purposes. Service providers needed to do surveillance of
+their own systems. More exceptions written into the law.
+
+12
+
+(U) Federal Wiretap Act
+
+•	Crime to intentionally intercept or endeavor to intercept or procure
+any other person to intercept any wire, oral, or electronic
+communication.
+
+•	Crime to intentionally use or disclose or endeavor to use or
+disclose to any other person the contents of any wire, oral, or
+electronic communication if they know or have reason to know
+that the interception violated federal law.
+
+Fed statute starts by saying it is illegal.
+
+13
+
+(U) WIRETAP EXCEPTIONS
+
+•	Interception for foreign intelligence purposes
+permissible if conducted in accordance with Foreign
+Intelligence Surveillance Act and/or other applicable
+procedures.
+
+•	Interception with prior consent of one party to the
+intercepted communication is OK under federal statute
+but be aware of state two-party consent statutes if acting
+in private capacity.
+
+m
+
+-Will talk about the FI exception when briefing SIGINT rules
+
+-Consent-for IA and FI. Scope of consent matters. Drives expectation of privacy. (But
+see Long case.) Also, the DoD system consent banners do not mean that there is
+consent for NSA SIGINT to start looking at DoD systems for FI purposes. ***Need
+SIGINT consent BEFORE tasking any US identifier, to include DoD, as a single
+selector for SIGINT system collection.*** SIGINT consent is two fold: 1. the actual
+consent, and 2. approval of the FI/CI/SMO purpose of the consensual SIGINT
+collection by Dir/DDir.***
+
+For Soaring Eagle, NSA has SIGINT consent from STRATCOM Commander for the
+DoD NIPRNET and SIPRNET systems and data. NSA has SIGINT consent from
+DIA for JWICS systems and data.
+
+Service Providers-providers need to see if email got to the right place. Make sure
+bandwidth being used properly, not being stolen etc. Are limited to purpose. Once a
+target is identified and there is another purpose (e.g. Cl or LE) talk to OGC.
+
+Trespassers-used when a service provider asks another service provider for
+information on an intruder one hop out. Can view trespasser info for LE, intel, system
+protect purposes. 4 requirements: need system owner permission; act under color of
+law; only trespasser’s comms, not legit user; stop when investigation purpose done.
+
+14
+
+(U) WIRETAP EXCEPTIONS
+
+COMSEC Monitoring by US Government personnel is
+permissible if conducted in accordance with Attorney
+General-approved procedures (see NTISSD No. 600).
+
+Service providers may intercept or monitor
+communications on their systems
+
+-	1) to ensure the systems are functioning properly or
+
+-	2) to protect their rights or property in their systems.
+
+• Trespasser exception
+
+-Will talk about the FI exception when briefing SIGINT rules
+
+-Consent-for IA and FI. Scope of consent matters. Drives expectation of privacy. (But
+see Long case.) Also, the DoD system consent banners do not mean that there is
+consent for NSA SIGINT to start looking at DoD systems for FI purposes. ***Need
+SIGINT consent BEFORE tasking any US identifier, to include DoD, as a single
+selector for SIGINT system collection.*** SIGINT consent is two fold: 1. the actual
+consent, and 2. approval of the FI/CI/SMO purpose of the consensual SIGINT
+collection by Dir/DDir.***
+
+For Soaring Eagle, NSA has SIGINT consent from STRATCOM Commander for the
+DoD NIPRNET and SIPRNET systems and data. NSA has SIGINT consent from
+DIA for JWICS systems and data.
+
+Service Providers-providers need to see if email got to the right place. Make sure
+bandwidth being used properly, not being stolen etc. Are limited to purpose. Once a
+target is identified and there is another purpose (e.g. Cl or LE) talk to OGC.
+
+Trespassers-used when a service provider asks another service provider for
+information on an intruder one hop out. Can view trespasser info for LE, intel, system
+protect purposes. 4 requirements: need system owner permission; act under color of
+law; only trespasser’s comms, not legit user; stop when investigation purpose done.
+
+15
+
+Other Federal Laws
+
+• Computer Fraud and Abuse Act
+
+-	Illegal to obtain unauthorized access or exceed authorized access
+to any protected computer.
+
+-	Does not apply if generally available to the public using legitimate
+knowledge/tools/services.
+
+-	If going beyond what is publicly available, it is considered CNE
+and USSID DA3655 and all SIGINTrules apply.
+
+-	There is an FI exception to the law and a trespasser exception
+similar to surveillance law.
+
+-	Includes non-communications data.
+
+-	NSA/CSS non-attribution, covered accounts are for open source
+research, not CNE (NSA Policy 6-6) Eliciting information w/o
+disclosure of gov affiliation is not allowed.
+
+-	mission-related research at home is an OPSEC concern
+
+-Line between open source and unauthorized access a fine one sometimes.
+
+E.g. facebook pages only available to friends and family are not publicly
+available etc. Can also use an analogy-if don’t lock door, doesn’t mean it is an
+invitation for intruders to come in. If a default password is being used by a
+less than competent Sys Admin type, it still would not be publicly available.
+
+-Be aware if using info only gained from SIGINT or other special collection
+to access/monitor US systems, often will not be publicly available.
+
+-If going beyond authorized access for FI purpose, SIGINT rules, to include
+FISA law, and TAO USSID applies. F4, monitoring device on computers in
+the U.S. applies.
+
+-If doing stuff at home, outside the scope of employment, may be subject to
+the federal law (no exceptions apply.
+
+-NSA was granted authority from the President to collect not only COMINT
+but any other data at rest on a foreign target computer while conducting out
+CNE missions. (Also have a delegation from SECDEF for room audio and
+video.)
+
+-Open source policy: Eliciting info while under cover has undisclosed
+participation issues and Privacy Act issues; even some open source research is
+not done from home for opsec concerns. Have uncovered and covered
+accounts for publicly available info research.
+
+16
+
+Intel Community History
+
+Church/Pike Commissions investigate
+Intelligence Community
+
+Abuses of power found
+
+Describe Shamrock, Watchlisting, narcotics collection.
+
+Computer Security Act ’87. EO 12333 gave DIRNSA the comsec mission for
+the fed government. Congress concerned that an intel agency had authority
+over traditional civilian agencies (with personal information like the social
+security administration, the IRS etc) so Congress passed the CSA and gave
+the developing standards and guidelines for the security of non-national
+security systems to Commerce’s National Institute of Standards and
+Technology (NIST). Gave NSA authority over national security systems.
+
+17
+
+SIGINT
+
+Congressional Inquiries into the IC
+Church/Pike Committees Found
+
+SIGINT information TO, FROM, and
+ABOUT U.S. Citizens was:
+
+Improperly Collected
+
+Improperly Retained
+
+Improperly Disseminated
+
+Look at USSID SP0018. There is a section on Collection, retention,
+dissemination. If in compliance with USSID, are in compliance with 4lh
+amendment in each of these activities.
+
+18
+
+Committee Findings and Results of
+Investigations
+
+Termination of illegal
+collection activities
+
+Executive Order requiring the
+establishment of procedures
+relating to U.S. person
+information
+
+Greater Executive and
+Legislative Oversight
+
+Classification: SECRET//COMINT//Rel 4
+EYES//2029 U23
+
+19
+
+Congressional/Executive	
+Response to IC Abuses	
+• Federal Law —			 Foreign Intelligence
+	Surveillance Act
+• Executive Order ~	, E.O. 12333
+	Intelligence Activities
+	Dod 5240.1-R and USSID
+• Regulations and ~	” SP0018
+Procedures	Minimization Procedures
+	sification: SECRET//COMINT//Rel 4 EYES//20291123
+
+FISA only applies to the FI/SIGINT collection.
+
+DoD rules incorporated into USSID SP0018 which is supposed to be the
+working document.
+
+20
+
+Core SIGINT authority From
+EO 12333
+
+• To collect, process, analyze, proauce, ana
+disseminate signals intelligence
+information and data to support national
+and departmental missions and for:
+
+-	foreign intelligence;
+
+-counterintelligence; or
+
+-	the conduct of military operations.
+
+All the front end selectors and queries on SIGINT raw traffic databases are
+based on FI/CI/SMO requirements given to NSA by DNI or secdef. The
+National Intelligence Priorities Framework. SIGINT committee validates the
+requirements. Info Needs from NSA/CSS customers based on SIGINT
+requirements and clarify the broader SIGINT requirements.
+
+Change in the E.0.12333 allows the IC agencies to take into account the
+responsibilities and requirements of State, local, and tribal governments and,
+as appropriate, private sector entities, when undertaking the collection and
+dissemination of information and intelligence to protect the US. See Section
+1.1(f)
+
+This probably applies to both SIGINT and IA information but
+NSA would still not typically disseminate directly to those entities, due to
+classification law and requirements and protection of sources and methods
+(mainly from the SIGINT side). A cut-out fed gov agency can help sanitize
+the information. Sanitization is different than the “minimization” procedures
+that are required. The latter is for protection of sources and methods, the latter
+for protection of USP information privacy rights.
+
+21
+
+SIGINT Targeting/Collection
+
+• (S//SI//REL) NSA has "core" authority to
+intentionally target the following:
+
+-	(a) Non-U.S. Persons,
+
+-	(b) who are located overseas,
+
+-	(c) for the purpose of collecting
+
+•	Foreign Intelligence,
+
+•	Counter Intelligence and
+
+•	Support to Military Operations information (FI
+purposes).
+
+Classification: SECRET//COMINT//Rel 4
+EYES//2029 U23
+
+22
+
+REMEMBER if it’s SIGINT
+rules/procedures: USSID SP0018
+
+Purpose is to balance . ..
+
+The Government’s need for foreign intelligence information
+
+with
+
+Individual Privacy Rights
+
+In a way that is . . .Specific enough to be useful
+
+But not so specific so that each new technology
+renders it obsolete
+
+iification: SECRET//COMINT//Rel 4
+EYES//2029 U23
+
+23
+
+SIGINT Targeting Specific Communicants
+
+USSID SP0018 Section 4
+
+The Four Rules
+
+•	Foreign Persons outside the U.S. of FI/CI/SMO
+interest — fair game
+
+•	No Foreign Persons in the U.S. (unless
+diplomatically-immune and using passive
+collection) must have Attorney General approval
+
+•	No U.S. Persons in the U.S. without a Court Order
+
+•	No U.S. Persons outside the U.S. without Court
+Order
+
+It is the communicant that matters. Do you have a foreign communicant overseas? If
+you have foreign hacker using a US computer, NTOC/ANO can develop selection
+strategy to collect the foreign hackers comms using a US computer similar to
+targeting, for instance, badguy@us_service_provider.com. Equipment does not have
+expectation of privacy. NTOC/ANO may use a US IP address in conjunction with a
+selector that will collect only the foreign intruder’s comms on, not any legitimate
+USP user of, that US computer. May not intentionally target a known USP
+communicants in the US.
+
+Contrast: May query on US IP address in BLUESASH/TUTELAGE for system
+protection mission but may not query on a US IP address as straight hit in SIGINT.
+Will get legit users of the US computer with that IP address.
+
+Can query/select in the SIGINT collection, foreign IP addresses found in Bluesash.
+
+Same technology looks for intrusion signatures in Bluesash/Tutelage and SIGINT.
+Can share technology, (e.g. masterworks is SIGINT collection technology called
+Cynecs when deployed to Bluesash sites. Strickler (Sigint Tickler)/Tickler the
+same.)
+
+-If making federated queries, the most restrictive (SIGINT) rules apply. Therefore,
+data repositories must keep data sourced so that analysts know what procedures to
+apply to the data but also so that analysts can make queries on just
+Bluesash/Tutelage (least restrictive), just SIGINT or on both. Keep data sourced
+(e.g. arcsight has the data color coded by source) so that analysts know which
+procedures to apply to which data. SIGINT procedures must be applied to SIGINT
+data: IA procedures to the IA data.
+
+Targeting Issues
+
+Presumptions
+
+(If no other information is available)
+
+•	In the U.S., then U.S. person
+
+•	Outside the U.S., then foreigner
+
+
+
+
+
+E.g. all that is known is that the hacker came from/through a Pakistani ISP.
+Presume is foreign.
+
+If all that is known is that the intrusion is from a US ISP, then presume is a
+USP.
+
+25
+
+SIGINT Targeting
+Issues
+
+U.S. Person Information
+
+INTENTIONAL (need additional authority)
+
+INADVERTENT (Did not know U.S. Person)
+
+INCIDENTAL (Legitimate foreign target; acquire U.S.
+Person information/commun ¡cations)
+
+REVERSE (Target foreign entity to intentionally acquire
+U.S. Person information/communications)
+
+-No targeting/collecting/disseminating a USP communication without
+additional authority.
+
+-If used a presumption, and you find out you have been
+targeting/collecting/disseminating communcations to/from/about a USP, then
+must stop collection (or get the correct authority), cancel reports, and report in
+the IG quarterly.
+
+-Incidental collection, then apply the dissemination procedures.
+
+-Cannot target a foreign entity just to acquire USP communications. When
+targeting the foreign hacker and using a US IP address in conjunction with the
+foreign hacker signature, that is not reverse targeting. Your collection is
+focused on the foreign hacker communications, what the foreign hacker is
+doing and what data the foreign hacker is stealing. There are no legitimate
+USP comms and it is impossible to know what or whose data the foreign
+hacker is exfiltrating.
+
+26
+
+US Government Communications
+
+•	Communications to or from any officer or employee
+of the US Government, or any state or local
+government may not be intentionally intercepted
+and must be destroyed upon recognition.
+
+•	Exception to the destruction requirement include
+anomalies that reveal a potential vulnerability to US
+communications security. Get a destruction waiver
+and authority to disseminate the US person
+information.
+
+If there is no legitimate USG communicant, there is no USG communications.
+That is different than collecting a foreign intruder stealing a bunch of USG
+information. All that USG information is incidental.
+
+USSID SP0018 5.4.C. and d. Other exceptions include: Significant foreign
+intelligence or evidence of a crime or threat of death or serious bodily
+harm to any person.
+
+This section also talks about USP to USP communications and US-US
+communications destruction requirements.
+
+27
+
+US Government Communications
+
+•	If a foreign intruder is just using a US computer
+and is not communicating with any legitimate
+US Government official or employee, it is not
+considered to be US Government
+communications; report following dissemination
+procedures.
+
+•	Socially engineered emails to US Government
+employees or officials ARE US Government
+communications.
+
+Classification:SECRET//COMINT//Rel 4
+EYES//20291123
+
+Targeting by Subject Matter
+
+USSID SP0018, Section 5
+
+Applies to the use of selection terms to
+INTERCEPT communications on the
+basis of CONTENT, not necessarily on
+the basis of the IDENTITY of the
+communicants
+
+Covered in the “Processing ” Section of
+USSID SP0018
+
+E.g. hacker signatures. Hacker signatures pull in a lot. Focus on foreign target
+use of intrusion capabilities. Defeat out any USP use of the hacker signature.
+Worst thing NTOC could do is to turn the SIGINT system to collect against a
+USP hacker. It is not FI/CI, basically doing surveillance for LE purpose
+without warrant. If incidentally collect information on USP hacking into a
+protected computer, this is a violation of law that should be reported to DL
+violations for OGC to refer. Do not want to see any/many of these.
+
+29
+
+Targeting by Subject Matter
+
+USSID SP0018, Section 5
+
+No selection terms that are reasonably likely
+to intercept or have intercepted
+U.S. person communications
+UNLESS
+
+there is reason to believe that
+Foreign Intelligence will be obtained
+
+ification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+30
+
+Targeting by Subject Matter
+
+USSID SP0018, Section 5
+
+Selection terms that
+
+have intercepted or are likely to intercept
+
+U.S. Person communications
+
+MUST BE DESIGNED
+
+(to the greatest extent practicable under the
+circumstances)
+
+to DEFEAT communications
+that do not contain foreiqn intelligence
+
+Pay attention to what is being collected. NS A has a positive responsibility to
+defeat out to the extent possible collection of USP comms.
+
+31
+
+(S) SIGINT Dissemination Procedures
+
+(USSID SP0018, Section 7)
+
+•	Incidental USP information in valid collection, apply
+“minimization” procedures
+
+•	“Minimization” means, prior to disseminating any
+information obtained through SIGINT collection,
+evaluate information for foreign intelligence and decide if
+any incidentally acquired US person information is
+suitable for dissemination.
+
+•	The information to, from, or about a USP must be
+necessary to understand the FI or assess its meaning in
+order to not minimize.
+
+-Can query in Bluesash/Tutelage on IP address seen in SIGINT without it
+being a dissemination of the SIGINT raw traffic. If decide to task that US IP
+address in Bluesash/Tutelage (I.e. on the deny list) then it is a dissemination of
+a US identity and must get SIGINT dissem approval.
+
+NTOC has upfront dissemination authority for intrusions into .mil/.gov
+systems. Need to alert JTF-GNO, DISA, the network owner of intrusions in a
+timely manner and the IP addresses intruded into are necessary to
+understanding the intell
+
+32
+
+(S) SIGINT Dissemination Procedures
+
+(USSID SP0018, Section 7)
+
+•	If necessary, include the USP information,
+focusing on the FI, but only disseminate the
+actual USP identity with appropriate level
+dissemination authority, (.mil)
+
+•	“US Idents in SIGINT” is a good source.
+
+Gassification: SECRET///REL 4
+
+EYES//20291123
+
+ACCESS and RETENTION
+to Raw Traffic containing USP
+information-USSID SP0018, Section 6
+
+•	5 Years on-line
+
+•	up to 10 years off-line—historical searches
+
+•	Retention exceptions (SID/DIR determination, tech
+data, evaluated data)
+
+•	E.O. 12333, Section 2.3
+
+•	Limited to SIGINT production personnel
+
+•	Recognizes intrusiveness of SIGINT
+
+•	Maintains SIGINT within community of individuals
+trained on 4th Amendment Procedures
+
+Gassification: SECRET///REL 4
+
+EYES//20291123
+
+FISA Overview
+
+FISA Definitions
+U.S. Persons
+
+
+
+•	U.S. Citizen
+
+•	Permanent Resident Alien
+(Green Card Holder)
+
+•	Corporations (incorporated in the U.S.)
+
+•	Associations (primary membership
+composed of U.S. persons)
+
+•	U.S. flagged ships/aircraft (DoD definition)
+
+Classification: SECRET//COMlNT//Rel 4
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+EYES//20291123
+
+FISA Definitions SR
+Foreign Power
+
+•	A foreign government or any component
+thereof
+
+•	A faction of a foreign nation
+
+•	An entity openly acknowledged to be
+directed or controlled by a foreign
+government(s)
+
+•	A group engaged in international terrorism
+A foreign based political organization
+
+ASSIFIED//FOR OFFICIAL USE ONL'
+
+Class!:
+
+.Y
+
+ficaiion: SECRET//COMINT//Rel 4
+EYES//20291123
+
+37
+
+FISA Definitions
+Agent of a foreign power
+
+
+
+•	An officer or employee of a foreign power
+
+•	A spy, terrorist, saboteurs, aiderZabbettor,
+or conspirator
+
+.ASS1FIED//FOR OFFICIAL USE Of
+
+
+
+e.g. USP hacker not included unless can show state sponsorship. Then get
+appropriate approval. If a USP is the hacker, it is a law enforcement issue and
+should be referred to OGC.
+
+Other FI requirements for alien smuggling, narcotics, organized crime, gun
+running, money laundering are similar. If a USP was involved, NSA/CSS
+could not target unless working for a foreign power or also a spy, terrorist,
+saboteur, or aider/abbettor/conspirator.
+
+38
+
+FISA - Restrictions
+
+(S//SI//REL) Federal Law Regulates the collection of foreign
+intelligence if it falls into 1 of 4 categories of “electronic
+surveillance:”
+
+1.	(FI) Intentional collection of the communications sent by or
+
+intended to be received by a particular, known U.S. person
+who is in the United States.
+
+2.	(F2) Wiretaps in the United States.
+
+3.	(F3) The acquisition of certain radio communications where
+
+all parties to that communication are located in the United
+States.
+
+4.	(F4) Installation and use of a device in the United States for
+
+monitoring of information in which a person has a
+reasonable expectation of privacy.
+
+
+
+NTOC I believe ha^^IS^on the|
+intrusions into ihc^^^^^Hnclwork.
+
+I in order to collect
+
+F4 is where CNE usually falls. Other devices includes accessing/CNE against
+a computer located in the U.S.
+
+39
+
+FISA Amendment Act (FAA) of 2008
+
+-H.R. 6304
+
+(S//SI//REL) The FISA Amendment Act was signed into law
+by President Bush in July 2008.
+
+(S//SI//REL) FAA replaced the Protect America Act (PAA)
+(also known as "FISA Modernization"). PAA was signed into
+law on Sunday, 5 August 2007, amending the FISA act, for a
+period of 180 days (until 15 February 2008). PAA Established
+a standard and set the stage for FAA.
+
+Classification: SECRET//COMlNT//Rel 4
+EYES//20291123
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+40
+
+FAA
+
+•	(S//SI//REL) The new FISA Amendments Act (FAA) modified the FISA
+to include changes to collection that:
+
+1. falls into categories 2-4 of “electronic surveillance” and the target is a
+non-US Person outside the U.S. (collection off a provider,
+
+•	2. targets a U.S. Person
+
+(S//SI//REL) FAA is Title VII of the FISA. It includes:
+
+-	702. targeting non USP outside the U.S., collection inside the U.S. with
+service provider assistance.
+
+-	70S. USP outside the U.S., collection inside the U.S. with service
+provider assistance.
+
+-	704. USP located outside the U.S., collection outside the U.S. without
+service provider assistance (i.e. E.O. 12333 collection; old 2.5 authority)
+
+-	705. USP with concurrent FISA collection inside the U.S. (705a, i.e. fl
+authority) and collection outside the U.S. without service provider
+assistance (705b. i.e. E.O. 12333 collection; old 2.5 authority).
+
+FAA section 702, foreign governments certification: NTOC uses the authorit
+
+lo	were alliibuied to lliel ' -
+
+NTOC wants another 702 certification to target foreign hackers outside the
+US for FI purposes. Because attribution is hard, just having to prove
+foreigness and an FI purpose is especially useful to NTOC. However, the
+selectors will likely not be the hard/strong selectors DoJ is used to.
+
+41
+
+SIGINT Targeting Specific
+Communicants
+
+Foreign Persons outside the US. of FI/CI/SMO
+interest Examples:
+
+1.	US -IP address used by itself
+
+2.	US - IP in conjunction with an Intrusion Signature
+
+3.	DoD - PKI certificates
+
+
+
+1.	Request to select based on a foreign hacker signature in conjunction with a
+DoD military IP address. Nothing seen in SIGINT. The SIGINT system
+doesn’t see everything. Collection architecture has to be in place. So,
+without asking, analyst put the DoD military IP address in as a straight hit
+and obtained hundreds of hits.
+
+2.	DoD PKI certificates were compromised. In SIGINT without additional
+
+authority, may look for revoked DoD certificates because no legitimate
+DoD person should be using. Can also look for valid certificates only in
+coniunctior^vith	signatures so will only collect
+
+the^^^^fusing the certificate (but will not find new uses oi^^^_ise
+of the certificates.) My not look for expired certificates because the
+legitimate DoD person could renew. May not look for valid certificates
+without obtaining the DoD person’s consent.
+
+3.	Had incidental collection of an^^^^^^^wising an army email address
+
+and getting into army systems. May collect against that army email
+address because had evidence that it was being used by a foreign person
+outside the US. Reported to the army on the intrusion. Wanted to collect
+for a short while to see what the foreign target was doing/after.
+Unfortunately, after two weeks, a legitimate army person also started
+using that email address. Now we have USG comms.
+
+42
+
+Information Assurance Legal
+
+Framework
+
+•	Executive Order 12333 -
+
+- DIRNSA is the National Manager for National Security
+Systems, and is responsible to SECDEF and DNI. See
+Section 1.7(c)(6).
+
+•	National Security Directive 42. “National
+Policy for the Security of National Security
+Telecommunications & Information Systems”
+
+•	DoD Regulation 5240.1-R - Governs collection of
+USP information by DoD.
+
+Classification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+(U) National Security Directive 42
+
+•	President designated DIRNSA as the “National Manager” for
+National Security Telecommunications and Information’s Systems
+Security.
+
+•	Among other things, DIRNSA directed to assess the overall
+security posture of and disseminate information on threats to and
+vulnerabilities of national security systems.
+
+•	Establishes, inter alia, policies and organization to protect national
+security systems that process:
+
+-	Classified information
+
+-	Intelligence activities
+
+-	Cryptologic activities
+
+-	Command and control
+
+-	Weapon or weapons system
+
+-	Military or intelligence mission, except for systems used for routine
+administrative and business applications.
+
+NSS includes unclass systems if involved in intel activities, military or intell
+missions (includes BLUESASH/TUTELAGE monitoring because includes
+NIPRNET.) However, NSS does not typically include those systems
+supporting National Security Systems: Personnel, financing, accounting
+systems typically not NSSs.
+
+E.g. Centcom commander uses electrical power grid of central Florida. Not a
+national security system but may look at whether or not has a direct contract
+with centcom which can bring them under the NSS rubric.
+
+44
+
+(U) National Security Directive 42
+Continued
+
+•	Disseminate all-source information on threats to US national
+security systems. (NSD-42, 7.g.)
+
+•	NSA may not monitor NSSs without a request for technical
+assistance or request for a vulnerability assessment from the
+system owner. Includes requests for monitoring, red teaming, blue
+teaming, system forensics.
+
+•	If above request made of NSA then must have certification from
+the system owner that there is a notice and consent policy in place,
+of the activity must fit within Service Provider rules and IA
+procedures.
+
+•	Requester may put restrictions on the collection/monitoring,
+access, retention, use or dissemination contained in Ground Rules.
+
+Ground Rules are established to between NSA and the requester. NSA/CSS
+must follow the service provider rules to stay within the exception, DoD
+regulation 52490.1-R AND the Ground Rules for this activity.
+
+***Work being done for JTF-GNO and also Soaring Eagle is strictly under
+Service Provider (JCMA still will need a legal cert in order to be legal.)
+
+45
+
+(U) IA procedures: Service Provider
+rules and DoD Reg 5240.1-R
+
+•	Includes DoD BLUESASH/TUTELAGE & NSA/CSS
+NISIRT monitoring
+
+•	Collection/monitoring/access/disclosure must be
+consistent with ensuring system functionality or
+furthering the protection of the service provider’s rights
+and property in their systems/network.
+
+•	Is USP information disclosure necessary? DoD 5240.1-R
+
+•	Retention of USP information limited (90 days per DoD
+Regulation 5240.1-R or in accordance with the agreed
+upon Ground Rules.)
+
+-NS A is the service provider for NS A net and DOD NIPRNET (AS&W
+monitoring per DoD Instructions 0-8530.1 and 0-8530.2)
+
+-Disclosure of foreign intrusions to SID is fine under the service provider rules.
+All foreign comms intrusions into DoD are suspect and can be disseminated for
+SID to help find out attribution, how intrusion works etc.
+
+-Access and dissemination are part of disclosure of the data and must be for
+ensuring system functionality/protection of the provider’s rights and property.
+
+-Dod regulation allows collection/retention of USP information that arises out
+of a lawful comsec investigation. However, NS A must determine that the USP
+information fits within that criteria within 90 days.
+
+-**The Ground Rules may have different retention periods.
+
+**IAD Oversight and Compliance policy (IAD Management Directive 20)
+
+46
+
+(S) Global Defense of US Networks
+
+•	IA authorities allow NSA to monitor DoD or other national security
+systems for indications of malicious activity in response to a request
+from the system owner, and disseminate that information iaw
+procedures.
+
+•	The Computer Security Act of 1987 (as amended by the F1SMA1
+requires NIST to collaborate with NSA and does not preclude NSA
+from providing security support to Federal departments and agencies
+outside the national security sector. In a Memorandum of
+Understanding dated March 1989. NIST and NSA agreed that NSA
+could—upon request by Federal agencies, their contractors, and other
+government-sponsored entities—conduct assessments of the hostile
+intelligence threat to Federal information systems, provide technical
+assistance, and recommend products and solutions to secure systems
+against the threat.
+
+**NSA follows the IA procedures for technical assistance to other
+agencies**
+
+-Many players in the CND/cyber security. The difficult managerial task is to
+make the respective authorities and monitoring systems work well together
+since, to be effective, network defense has to be efficient and timely.
+
+-Tech assist outside NSSs-Also Executive Order 12333, which was revised in
+July 2008. Sections 2.6(c) and (d) permit NSA to provide specialized
+equipment, technical knowledge, and assistance of expert personnel for use by
+any department or agency and render any other assistance and cooperation to
+civil authorities not precluded by law. Any provision of assistance of expert
+personnel must be approved in each case by OGC.
+
+47
+
+(S) Global Defense of US Networks
+
+• National Security Presidential Directive 54/Homeland Security
+Presidential Directive 23 (signed in January 2008) applies to all
+Federal Government information systems except national
+security systems and DoD information systems.
+
+o Under an implementation plan signed by the President in
+August 2008, NSA is to provide DHS with the same
+technological capability that DoD uses to protect DoD
+systems. Because the capability involves classified
+information, it constitutes a national security system and
+NSA will provide technical assistance to DHS at its request.
+
+The Comprehensive National Cybersecurity Initiative (CNCI) also called
+the cyber initiative is directed in NSPD 54/HSPD 23 and the
+implementation plan. DHS is lead and it only covers federal government
+systems, not commercial. NSA is just providing technical assistance and
+services. Technical services typically refer to the decryption NSA will
+perform for DHS. NSA may not keep any of the data sent to NSA for
+decryption (with the exception of some crypto keys necessary for
+decryption services). NSA may not monitor .gov communications. If DHS
+is going to request technical assistance from NSA to look at .gov traffic,
+certain certifications and oversight must be done first. It may be that NSA
+could detail an analyst to DHS.
+
+P.L. 108-458, 118 Stat 3638,17 December 2004.
+
+48
+
+(S) Global Defense of US Networks
+
+•	DHS or other federal agencies can use standard service
+provider authorities to monitor .gov networks for
+indications of malicious activity.
+
+•	Owners or operators of privately owned critical
+infrastructure systems can use service provider authorities
+to monitor their networks for indications of malicious
+activity but no federal agency has been provided general
+authority to perform such monitoring for privately owned
+networks.
+
+Classification:TOP SECRET//COMINT//Rel 4
+EYES//20291123
+
+(S) Global Defense of US Networks
+
+•	STRATCOM has been delegated CNA and CND-RA
+authority to attack foreign targets that threaten US
+interests .
+
+•	SECDEF in Nov 2009 placed Joint Task Force-Global
+Network Operations (JTF-GNO) under the operational
+control of Commander, CYBERCOM
+
+•	DIRNSA is now dual hated as Commander CYBERCOM
+(May 2010).
+
+SIGINT’s role is not Defensive collection: SIGINT authorities allow
+NSA/CSS to monitor foreign systems for indications of foreign cyber
+attacks against US systems and disseminate that intelligence based on
+FI/CI/SMO requirements.
+
+- The officer serving as the Director, Defense Information Systems Agency
+(DISA) will continue to serve as Commander of JTF-GNO and will remain
+responsible for providing the JTF-GNO network and information assurance
+technical assistance as required.
+
+50
+
+(U) Additional Authorities
+
+•DIRNSA is the the Executive Secretary for all DoD, DoJ, and IC
+deconfliction regarding computer network attack and exploitation
+activities. (Trilateral DoD, DoJ, and IC MoA dated April 2007.)
+
+• SECDEF designated the officer serving as DIRNSA to be the
+
+Commander, CYBERCOM (May 2010)
+
+-As directed by Commander, USSTRATCOM, CYBERCOM coordinates
+the development of, plans for, synchronizes, deconflicts, and executes
+cyber warfare to achieve global military objectives
+
+-JTF-GNO, OPCON to CYBERCOM, directs the operation and defense
+of the Global Information Grid
+
+SCEs under NSA/CSS and JFCC-NW, esp in TAO ROC conduct CNE so
+those on the target networks day in and day out can be assigned to JFCC-NW
+for the time necessary to conduct the CNA activities. DIRNSA/CDR JFCC-
+NW issued memorandum allowing NSA/CSS personnel to be detailed to
+JFCC-NW for the time necessary to conduct the CNA, then they revert back to
+doing CNE. These personnel can conduct CNE while conducting CNA.
+Personnel detailed to JFCC-NW get training on the execute order, standing
+rules of engagement, and supplemental rules of engagement.
+
+51
+
+(S) Global Defense of US Networks
+
+• The Federal Information Security Management Act
+(FISMA) left intact the roles assigned to NIST and
+NSA but provides the Office of Management and
+Budget (OMB) an expanded information security
+oversight responsibilities over all Executive Branch
+departments and agencies. OMB required to set up a
+central Federal information security incident center
+which is US CERT.
+
+FISMA: 44 U.S.C. 3541 et seq., P.L. 107-347, 116 Stat 2899, 25 November
+2002.
+
+The Intelligence Reform and Terrorism Prevention Act of 2004[1] required
+the President to create an information sharing environment for the sharing of
+terrorism information in a manner consistent with national security and civil
+liberties. The President was to designate a program manager responsible for
+information sharing across the Government who would issue standards,
+procedures, and guidelines for the operation of the information sharing system
+that are consistent with guidance from the President, OMB, and the DNI.
+Today, the program manager is in the Office of the DNI.
+
+52
+
+S) Global Defense of US Networks
+
+•	FISMA cont. Agencies with national security systems are
+to share information about information security incidents,
+threats, and vulnerabilities with US CERT to the extent
+consistent with standards and guidelines for such systems
+issued in accordance with law and as directed by the
+President.
+
+•	The Homeland Security Act of 2002 gave the SECDHS
+wide access to information relating to threats of terrorism
+against the United States and to all information concerning
+the vulnerability of the infrastructure of the United States,
+or other vulnerabilities of the United States, to terrorism.
+
+Classification: SECRET//COMINT//Rel 4
+EYES//20291123
+
+(S) Implementing the PROCEDURES
+
+1.	You are targeting using a
+signature in SIGINT. You see that the
+
+put a trojan into the UMD web server. Can you
+query using the UMD web server IP address in
+Bluesash/Tutelage?
+
+2.	You see in Bluesash/Tutelage that the UMD mail
+
+server sent a troian to the DoD NIPRNET. You
+believe it is a	Can you task the UMD
+
+mail server IP address in SIGINT?
+
+1.	Yes, can look for anything suspicious in the IA data to protect the system.
+The initial SIGINT can be disseminated in a report if it satisfies a
+FI/CI/SMO requirement. If task the Bluesash/Tutelage deny list, must
+obtain dissemination approval.
+
+2.	No, not as a direct hit but may use a^Jsignature in conjunction with the
+UMD mail server IP address.
+
+3.	The collection is valid. The target is a foreign person overseas. No USG
+communications because the target is not communicating with a legitimate
+USG official or employee or even a legitimate USP. All the exfiltrated data
+is incidental. Use dissemination procedures. Because this type of exfiltrated
+data potentially can contain so much USP information, OGC advises that
+this type of exfiltrated data be segregated from the rest of the SIGINT raw
+traffic and is made availabe only to those who have the mission to
+collect/report on these types of foreign intrusions. The exfiltrated data does
+not contain any FI other than what is reported in order to understand what
+the foreign hacker was seeking, and what the foreign hacker obtained for
+damage assessments.
+
+54
+
+(S) Implementing the PROCEDURES
+
+You are targeting an
+
+hacker has implanted a US company’s comDuter
+overseas. You are collecting the
+exfiltration of information and communications
+from that US company’s computer that contains
+communications between the US company and a
+US Government organization.
+
+Is the collection valid?
+
+Do you have USG communications.
+What do you do with the information?
+
+1.	Yes, can look for anything suspicious in the IA data to protect the system.
+The initial SIGINT can be disseminated in a report if it satisfies a
+FI/CI/SMO requirement. If task the Bluesash/Tutelage deny list, must
+obtain dissemination approval.
+
+2.	No, not as a direct hit but may use a^Jsignature in conjunction with the
+UMD mail server IP address.
+
+3.	The collection is valid. The target is a foreign person overseas. No USG
+communications because the target is not communicating with a legitimate
+USG official or employee or even a legitimate USP. All the exfiltrated data
+is incidental. Use dissemination procedures. Because this type of exfiltrated
+data potentially can contain so much USP information, OGC advises that
+this type of exfiltrated data be segregated from the rest of the SIGINT raw
+traffic and is made availabe only to those who have the mission to
+collect/report on these types of foreign intrusions. The exfiltrated data does
+not contain any FI other than what is reported in order to understand what
+the foreign hacker was seeking, and what the foreign hacker obtained for
+damage assessments.
+
+55
+
+(U//FOUO) Reporting Conventions
+
+•	Need to know what data you are working
+with.
+
+•	Need to follow the correct
+purpose/procedures for the type of data
+collected. If reporting both SIGINT and IA
+information, must follow both rules.
+
+USSID 18 minimization is not sanitization. Policy governs sanitization to
+protect sources and methods. Important sometimes when have intrusion
+activity.
+
+56
+
+(U) Oversight & Compliance
+
+■Oversight & Compliance is everyone’s responsibility.
+
+■Local management has responsibility to ensure day-to-day activities are
+carried out in accordance with applicable law and policy direction.
+
+■SIGINT procedures must be followed for SIGINT collection, retention, and
+dissemination.
+
+■ IAD procedures must be followed for IAD collection, retention and
+dissemination. Dissemination taking both sets of procedures into account can
+be done.
+
+■Contrary to popular belief, it is usually smarter to ask permission first rather
+than seek forgiveness later.
+
+■OGC has personnel on-call 24X7 to answer questions.
+
+Refer to USSID SP 0018 and IAD Oversight and Compliance policy, IAD
+Management Directive 20.
+
+57
+
+(U) Oversight & Compliance on the NTOC floor
+
+■Personnel from other organizations sit on the NTOC floor.
+NTOC has signed MoUs with these organizations granting the
+personnel “dual-parent” authority.
+
+■These personnel are working under NS A SIGINT and IA
+authorities (as well as their own “parent” authorities) and may
+
+see the raw traffic. No Dissemination of Raw traffic back to the
+organizations themselves, must follow dissemination rules.
+
+■The sharable SIGINT raw traffic does not include raw data
+derived from FISA/PAA/FAA nor FBI FISA.
+
+■Any FBI FISA disseminated must retain the FBI FISA caveat
+on all further disseminations.
+
+The idea of the NTOC floor is to allow all the personnel on the floor to be able
+to collaborate, indicate what information is relevant to their organizations
+mission and facilitate dissemination. However, dissemination back to the
+organizations themselves is a dissemination and must follow the dissemination
+rules.
+
+58
+
+Questions to REMEMBER
+
+•	What authorities are being used to collect information
+that I’m looking at?
+
+•	Where is this information being collected?
+
+-	SIGINT platforms? -Tutelage sensors? -Collateral source?
+
+•	Who will receive access to the collected information?
+
+•	What retention and dissemination restrictions apply to
+the collected information
+
+-	(e.g., SIGINT Procedures, COMSEC Procedures, Service
+Provider Rules, etc.)?
+
+?????? QUESTIONS ?????
+
+Many federal laws in this area because of information privacy rights.
+
+Must follow the procedures that apply to the purpose. If mix purposes and
+procedures, may find themselves outside one of the exceptions to the federal
+laws.
+
+[SECPA-diminished Expectation of Privacy but still need supoena.]
+
+CFAA-prohibits intentional, unauthorized access to a “protected computer”
+(I.e. any computer that has been or is involved in interstate commerce to
+include foreign computers) Exceed authorized access-protect from insider
+threat included. Allows intel and LE and protect activities. For protect, still
+need permission from the system owner.
+
+61
+
+COMSEC Monitoring
+
+NTISSD No. 600
+
+•	Telecommunications or information system’s “owner” must
+request COMSEC services.
+
+•	Must certify existence of notification process that system’s users
+know that their use of the system constitutes implied consent to
+COMSEC monitoring. CONSENT BANNERS
+
+•	Dissemination of collected information usually done without
+attribution to a particular individual.
+
+-	2 exceptions-passing of classified info.
+
+-	Evidence of a significant crime or it is necessary in order to
+mitigate the vulnerability.
+
+Used really only by JCMA
+
+Non attribution because purpose is to secure systems, not to be punitive.
+
+62
+
+(S) NSCID 6
+
+•	DIRNSA is tasked with establishing an effective, unified
+organization and controlling all SIGINT collection and
+processing activities of the United States so that it is
+effective, efficient, and coordinated.
+
+•	Toward this end, the Central Security Service (military
+SIGINT) was established under the DIRNSA, in
+accordance with a plan approved by the SECDEF.
+
+•	SIGINT includes Electronics Intelligence (ELINT) and
+Communications Intelligence (COMINT).
+
+•	COMINT is technical and intelligence information derived
+from foreign communications by other than the intended
+recipients.
+
+Mention something about ELINT not having an expectation of privacy but is
+still bound by the FI/CI/SMO mission of NS A.
+
+63
+
+(U) Authorities Continued
+
+•	Develop Computer Network Attack capabilities,
+
+-Not employ
+
+•	Conduct analysis of foreign information infrastructure systems
+for CNA technology development,
+
+•	Develop analytic modeling and simulation techniques to
+characterize vulnerabilities of information systems and
+effectiveness of developed CNA techniques.
+
+•SecDef Memo dated 3 March 1997.
+
+Because NTOC works closely with JFCC-NW to provide support, provide info
+on other computer network related authorities at Ft Meade.
+
+NSA’s CNE and CNE enabling activities can easily be converted to CNA
+capabilities. NSA’s purpose is to conduct or enable CNE. Sometimes fine line
+between CNE enabling and CNA. Look at purpose and what the capability
+does.
+
+Funding can be an issue.
+
+NS A does not have authority to conduct CNA
+
+64
+
+(S) NSCID 6, dated 17 February 1972
+
+•	DIRNSA responsible for the SIGINT mission of
+the United States, except for certain SIGINT
+activities conducted in support of clandestine CIA
+operations (NSCID 5)
+
+•	Pursuant to his SIGINT authority, DIRNSA has
+promulgated USSID SP0018 and other policies to
+govern the collection, processing, retention, and
+dissemination of SIGINT, especially SIGINT that
+includes US person information.
+
+Classification:TOP SECRET//COMINT//Rel 4
+EYES//20291123
+
+(S) NSCID 6
+
+COMINT activities shall be construed to mean those
+activities that produce COMINT by the collection and
+processing of foreign communications passed by radio,
+wire, or other electromagnetic means, and by the
+processing of foreign encrypted communications, however
+transmitted.
+
+Collection comprises search, intercept, and direction
+finding.
+
+Processing comprises range estimation,
+transmitter/operator identification, signal analysis, traffic
+analysis, cryptanalysis, decryption, study of plain text, the
+fusion of these processes, and the reporting of results.
+
+SB*
+
+
+
+I	don’t’ go over this in any detail at all. The important piece is the definition
+and how the SCEs fit.
+
+66

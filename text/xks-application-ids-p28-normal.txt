@@ -1,0 +1,10 @@
+﻿appid('finance/currency_conversion/generic', 8.0) =
+
+html_title('currency' and ('exchange' or 'conver')) or
+http_server('currency' or 'x-rates.com');
+
+appid('finance/currency_conversion/xe', 8.0) =
+http_hostCxe.com') or
+html_title(/~XE -/c or 'XE.com'c);
+
+TOP SECRET//COMINT//REL TO USA. FVEY

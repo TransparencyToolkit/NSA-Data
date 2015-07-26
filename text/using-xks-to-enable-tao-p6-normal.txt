@@ -1,0 +1,24 @@
+﻿TOP SECRET ,COMINT , REL TO USA. AUS. CAN. GBR. NZL
+
+How Do We Get That?
+
+Network Information
+
+■	We target TELNET, FTP, etc for logins and passwords
+
+Use a LOGIN and PASSWORD QUERY “TO' ports of interest
+(21,23, 110, 69, etc)
+
+■	WEBMAIL logins and passwords
+
+Use LOGIN and PASSWORD QUERY “TO' ports of interest
+(80, 3000, 8080) DO NOT use the login/password you find to
+log in as your target in Airgap. Ever. Just record them and pass
+to TAO.
+
+■	Router configuration information
+
+Use “Full Log DNI query” FROM port 23 and “From” IP of
+interest
+
+tod vrDrT,rniiiMT.'iDi:i min» aiiq rsu p.rr M7i

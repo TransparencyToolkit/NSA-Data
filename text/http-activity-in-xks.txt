@@ -1,0 +1,810 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+HTTP Activity in
+XKEYSCORE
+
+
+
+
+
+March 2009
+
+
+
+Derived From: NSA/QSSM 1-52
+
+Dated: 200701 (T
+
+Declassify On: 202911
+
+■-«>1
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+HTTP Activity is essentially all web-based
+activity from a user’s internet browser (with
+some exceptions)
+
+■	It includes, web-surfing, Internet Searching
+(like Google), Mapping Website (Google
+Earth/Maps) etc.
+
+■	Most of this data will not contain a strong
+selector like E-mail address
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■ HTTP activity comes in two types:
+
+cnn.com Server
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+How do you know which side you’re looking at?
+
+Client-to-Server requests are generally small in
+size and are computers talking to other
+computers
+
+Server-to-Client responses larger and are what
+web-pages look like at home
+
+So if you’re looking at something that looks like
+a web-page its Server-to-Client
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Examples
+
+Client-to-Server request:
+
+TOP SECRE T//C ö MIN T//2Û320108
+
+	ID: sess orig proc
+Type: HTTP-GET	& Printer Friendlv Version
+
+DNI Display | Raw Data \ PNI Format
+Services v
+
+GET /Hezb oll ah-T errorism-Judith-P almer-Harik/ dp/1860648932 HTTP/U	
+User-Agent:	Mozffla/5.0 (Windows; U; Windows NT 5.1; en-TJS) Apple WebKit/5 25.19 (E.HTML, like Gecko) Chrome/1.0.154.43 Safari/525.19
+Referer:	http ://www. go ogle. c om. pk/se ar ch?hi=en&q=wr e tt.e n bo oks on hizb oil ah&btnG=G oogle Search&meta=
+Accept:	text/xml, app lie ation/xml, applic atio n/xhtml xml, text/html, q=0.9, text/plam, q=0.8 ,image/png, */*, q=0.5
+A c c ept -Enc o ding:	gzip r deflat e ,b zip 2, s dch
+Cookie:	ubid-mam^l 35-5525816-3765531
+	apn-user-id=P 1YXY7 QF1PUYQ5
+Accept-Language:	en-US,en
+Accept-Charset:	ISO-8859-l,*,utf-8
+Host:	www. amazon, c om
+Connection:	Keep-Alive
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Examples
+
+Server-to-Client Response:
+
+ID: sess origproc		
+® Document Information	ype: HTTP	Si Printer Friendly Version
+
+DNI Display Raw Data DNI Format
+
+0 HTTP Header Information		Content Type: HTTP/HTML
+Services ^		
+
+	ñ		Ri		IS	Barca reinstates	ñ	Isfahan to
+k!j			1*5			6-point lead		exhibit
+						over Real		expressionist art
+
+Home Page
+Iran
+
+Middle East
+Iraq
+
+Palestine
+
+Lebanon
+
+Turkey
+
+Persian Gulf
+
+Others
+
+US
+
+Asia/Pacific
+
+Africa
+
+Europe
+
+Americas
+
+Sci/Tech
+
+Health
+
+0
+
+Kuwait government ’resigns1 over economy
+
+Mon, 16 Mar 2009 19:07:16 GMT
+
+The Kuwaiti government has submitted its
+resignation to the county's emir amid a row
+over the premier's handling of the economic
+crisis.
+
+"The resignation has been submitted formally and
+it's up to the amir (ruler) to decice," Reuters
+quoted Nasser al-Duwailah, a pariamentarian, as
+saying on Monday.
+
+The resignation would further delay the approval of 1.5 billion dinars (UED 5.11
+billion) rescue package which is ta be injected to the Persian Gulf natior's
+economy to ease the impact of the global financial crisis.
+
+The government has not commented on the report.
+
+Latest News
+
+
+
+Kuwait govemr
+
+
+
+economy
+Childhood diet
+
+
+
+r.sk
+
+'US-Russian pa
+
+shield row1 _
+
+
+
+Judges want M
+
+confiscated
+Leader pardon;
+
+Ancient book n
+
+Lieberman eye;
+ally
+
+IIÄ Intelligent oeoo!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+■	XKS HTTP Activity Meta-data differs
+greatly depending on which side of traffic
+we’re collecting
+
+■	In nearly all cases it’s better to have client
+to-server traffic
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Client-to-Server
+
+
+
+Accepté */*
+
+//search.bbc. co.uk/sear ch?tab=ur disorder=sortboth6: ci=iiiusharraf6: star t=2&s cope =ur du
+
+Referen:
+
+Accept-Language
+A c c e p t- En c
+
+en-us
+
+Us er-Agen t| Hozilla/4. Q (compatible; HS IE 6.Q; Windows HT 5.1; SV1)
+Ho s t	■■u	-----
+
+)
+
+j E3
+Con
+
+Cookie! BBC-UID=b479a5f 4ad230a53063d51363Ü2Ü3acti22684634aÜeÜtil64c45f 96ef c054c£950Mozilla%2f 4%2e0%20%28cc
+
+Cache-Uontroi: max-stale=u
+
+1 66808702E9À98546 |	1
+URL Path	URL Args
+
+Host
+
+search.bbc.co.uk /search tab=urduâorder=sortbothâq=musharrafâstart=3âscope=urduâlink=next
+
+Search Terms Language Browser
+
+musharraf
+
+en
+
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+
+Via
+
+66808702^
+
+Referer
+
+http://search .bbc.co.uk/search?tab=urduâorder=sortbathâq=musharrafâstart=2âscope=urdu
+
+Cookie
+
+BBC-UID=b479a5f4ad230a53063d513630203acb22684634a0e0b164c45f96efc054cf950Mozilla%2f4%2e0%20%28com
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Server-to-Client
+
+Application Info	HTTP Type
+Press TV - Kuwait government 'resigns' over economy	response
+
+ffc Document Information
+
+Type HTP
+
+ILA OCOO J1IU
+
+-rinter F'¡end y Vers cn
+
+DNI Dbplciy 1 Rax Data 1 DM I" cima:
+
+□ HTTP Header Information		Corten: Type: fTTP/lITM_
+Services *		
+
+Horne ?g&e
+Iran
+
+Middle East
+Iran
+
+Palestine
+
+Lrbar on
+
+Turkey
+Pergian 3nlf
+Others
+
+US
+
+As.à/F'acfc
+
+AÍri :a
+
+Europe
+
+Americas
+
+Sc/Iech
+
+Health
+
+ff..I..
+
+Barca reinstate g
+t' point .ead
+over ileal
+
+B	Isfahan to
+	eiihibi;
+	expressions; art
+
+Kuwait government ’resigns1 over economy
+
+Men, 16 Mar 2009 19 07 \$ Gb£T
+
+The Kuwaiti qovernment has submitted its
+n-isiijiinlinri In Ihn i:iiunly'\ Krriir ariiiiJ n rnw
+over the premier's handlinq of the economic
+crisis.
+
+'The resignation h3s teen ;Lbrrit:ed formal/ 3nd
+t's uo to tne errir (ruler) :o decide," ^euTe's
+qioted \assar al-Uuwailah. a parliamentarian 3S
+saying on Monday
+
+The resignation would further delay tne approval of 1.5 oillien dinars (USD 511
+oillion’i rescue pac<age '■vhich is to oe injected to the Persian Gulf nation's
+auurijny Ij ease .ha impact uf .ha jluual "ir aruia crisis.
+
+Thn ij ivHirnriHiil li/-'- rm i:iirinriK*ili-iI nri li-MKfiirl.
+
+Latest News
+
+TsI.WXll JJCVtiTTir
+
+economy
+Otile Hi o: k: (iir.
+
+risk
+'US-R us star :>x
+
+shield row1
+
+R Tiuly.is wxtiI \T
+confiscated
+
+[£ Leader pardon:
+
+[£ Ancient book r
+
+
+
+L.cbcru'.an eve;
+hIIx
+
+lí¿* Intelligent reoo
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+HTTP Types
+
+Meta-data will also tell you which side of
+traffic you’re looking at
+
+Client-to-server has two main types:
+
+	
+HTTP Type	HTTP Type
+get	post
+
+Server-to-client has only one
+
+HTTP Type
+response
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+■	A ‘GET’ is you requesting data from the
+server (most web surfing)
+
+■	A ‘POST’ is you sending data to the server
+(i.e. signing in, filling out a form, uploading
+a file etc.)
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+XKS SIGDEV: HTTP Traffic
+
+Example: Lets look for all Arabic font Google
+queries coming out of the tribal areas of
+Pakistan
+
+Information needed is contained in HTTP
+Activity meta-data
+
+Host
+
+WWW.jtp
+
+Query Marina for IP: 116.
+
+ji
+
+Fm Country (IP) Fm
+
+PK
+
+BAI
+
+Cancel
+
+1 JVC8?
+
+
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 o
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+j iif U i
+
+
+
+XKS SIGDEV: HTTP Traffic
+
+TS A
+
+USERID PHONE USER A
+
+ACTIVITY USER B
+
+20081119 074259Z
+
+:emaüAddr> logged in (email) 116.
+
+20081119 Û74259Z
+
+<emailAddr> logged in (email) 116.
+
+20081119074304Z
+
+<emaIAddr> logged in (email) 116.
+
+20081119 074316Z
+
+:emaüAddr> logged in (email) 116.
+
+20081119 074316Z
+
+<emailAddr> logged in (email) 116.
+
+20081119074316Z
+
+START TIME
+
+STOP TIME
+
+hemailAddrsMogge^i^emai^^^
+DURATION CALL DONE BP .ADDRESS USERID
+
+20081119 073141Z 20081119 092841Z Od 01:57:00 UNK
+
+WU II iS V	1
+
+20081119 074357Z
+
+:emailAddr> logged in (email) 116.
+
+20081119 Û74357Z
+
+kern ailA ddr > logged in (email) 116.
+
+20081119 074357Z
+
+:emailAddr> logged in (email) 116.
+
+20081119 074357Z
+
+:emailAddr> logged in (email) 116.
+
+20081119 Û74358Z
+
+kem ailA ddr > lo gge d in (email) 116.
+
+20081119 074358Z
+
+<emailAddr> logged in (email) 116.
+
+20081119 074358Z
+
+:emailAddr> logged in (email) 116.
+
+20081119 Û74358Z
+
+kem ailA ddr > lo gg e d in (email) 116.
+
+20081119 074511Z
+
+<emailAddr> logged in (email) 116.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+PHONE MAC ADD
+
+u
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+XKS SIGDEV: HTTP Traffic
+
+Now make that into a workflow
+
+X-KEYSCORE EMAILER	!
+
+QUERY NAME: ¥as_NCTFP_Foriegn_Googlers
+current time: 2008-11-20 07:15:15 GMT
+submitted at: 2008-11-20 03:55:03 GMT
+has 14 result(s)
+
+SEARCHES
+
+www.google.com
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+2008-11-19
+
+18:54:20
+07:36:49
+07:37:07
+08:03:17
+08:05:51
+08:06:52
+15:01:00
+15:14:13
+15:33:19
+04:24:44
+04:24:59
+04:29:29
+04:30:04
+04:31:51
+
+al qaida (en, en-GB) (1)
+
+The al-Ikhlas network (cybertrans from Arabic) (1)
+
+(refecer) the al-Ikhlas network (cybertrans from Arabic) (3)
+
+Forum bride/ 1 Arus (cybertrans from x^rabic) (1)
+
+Forum love/gram (cybertrans from Arabic) (1)
+
+(referer) forum love/gram (cybertrans from Arabic) (1)
+
+The hills jihadist without inflicting (cybertrans from Arabic) (10)
+(referer) the hills jihadist without inflicting (cybertrans from Arabic)
+ttaziristan (cybertrans from Arabic) (1)
+
+Scandals (cybertrans from x^rabic) (2)
+
+(referer) scandals (cybertrans from Arabic) (1)
+
+News (cybertrans from Arabic) (1)
+
+Forum soil (cybertrans from Arabic) (1)
+
+(referer) forum soil (cybertrans from Arabic) (1)
+
+	■>./ dllU^		
+	Workflow Values	Workflow XML	
+
+(6)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity-URLs
+
+■	Many targets use Free File Sharing
+Websites to pass messages.
+
+■	Example we may see a message like this
+
+From: badguy@yahoo.com
+
+To: someotherbadguy@yahoo.com
+
+Hey dude check out this file:
+
+http: //www. send space. com/f i le/1 gojft
+
+■	Lets use X-KEYSCORE to find who else
+might have viewed that file
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ XKS breaks up URL’s into their components:
+
+http ://ww^^oo£l^om/sear^?JiNar&li^&CFterTorisi^
+
+www.google.com is the ‘host’
+
+aka everything between the http:// and the
+firsfteearch is the ‘url path’ everything after
+
+www.blah.com and before the ?
+
+hl=ar&lr=&q=terrorism&start=10&sa=N
+
+is the ‘url argument’ aka everything after the ?
+terrorism is the ‘search term’
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+XKS SIGDEV: HTTP Traffic
+
+EX: Targets pass links to videos, use XKS to discover
+new targets who have viewed those videos
+
+In HB 00215-09, he promises that the newest video will be ready very soon, and then sends these two links:
+
+http://www.load.to/.
+http://www.files.to/ge
+
+Datetime:
+
+2 Weeks	V	Start:	2008-12-23	□		00:00	A  V	Stop:	2009-01-06	□  SSL		23:59	A  V
+
+HTTP Type:
+Host:
+URL Path;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+>10 01 101
+1001 I 00) IOOI
+
+I 1001 1001 IOC
+OIOOI 101
+10 10 01 101
+) 101 010001 101
+
+XKS SIGDEV: HTTP Traffic I :
+
+> IOI
+
+Datet
+
+TS A
+
+20081231 224606Z
+20081231 224949Z
+20081231 22494 9Z
+20081231 224949Z
+20081231 224952Z
+20081231 224952Z
+20081231 224952Z
+20081231 225018Z
+20081231 225021Z
+
+USERID PHONE USER A
+
+ACTIVITY USER B
+
+<emailAddr> logged in (email) 59.
+
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+<emailAddr> logged in (email) 59.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+XKS HTTP Meta-data: ‘Atiyah
+
+(TS//SI//OC/REL TO USA, AUS, CAN, GBR, NZL) During
+his Internet session, 'Atiyah queried on himself, "Shaykh
+'Atiyatallah," and on the name "Khalid al-Habib."
+(3/00/7878-08)
+
+(TS//SI//OC/REL TO USA, AUS, CAN, GBR, NZL) During
+his session on 16 September, 'Atiyah used a U.S. search
+engine to search for information on himself and a possible
+associate. 'Atiyah submitted Arabic queries for an alias of
+his, ’"Atiyahtallah", and his real name, "Jamal Ibrahim
+Ishtaywi". 'Atiyah also queried for "A Revealing View."
+(COMMENT: This is likely a reference to the book he
+recently wrote entitled "Lebanese Hezballah and the
+Palestinian Issue - A Revealing View.") 'Atiyah also
+queried for "'AM 'Iwad al-Harabi” (no further information).
+
+On 17 September, 'Atiyah searched again on the title of his
+book. (3/00/7151-08)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	(TS//SI//OC/REL TO USA, AUS, CAN, GBR, NZL) During the
+1035Z to 1143Z online activity, ’Atiyah down-loaded the VoIP
+application Skype to his private computer. During an earlier
+online session from approximately 0902Z to 0935Z, either
+'Atiyah or his wife, Jamila, also down-loaded Skype onto her
+private computer. (3/00/10570-07)
+
+■	(TS//SI//OC/RELTO USA, AUS, CAN, GBR, NZL) Although
+much of 'Atiyah's online activity is communication, he is also
+a "news hound." While located in Sanandaj, ’Atiyah daily
+visited several online international news sites, such as
+Qatar-registered al-Jazeera news website, and Arabic
+language versions of U.S.-based and U.K.-based news
+organizations. Also, ’Atiyah frequently visits religious sites,
+such as the Saudi Arabia-registered islamtoday.net.
+(3/00/21045-07)
+
+> 10 01
+
+1001 I 00) tool
+
+I 1001 1001 ICO)
+
+XKS En
+
+0 01 10)010 _JÇr pj	*
+
+> 10)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Enabled: Google Earth Exploitation
+
+
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

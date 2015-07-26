@@ -1,0 +1,9 @@
+﻿Fingerprints 101: Variables
+
+In the future, you can modify the
+variable $NDC_terms and it will
+automatically affect both fingerprints
+since they use that variable in their
+definition.
+
+TOP SECRET//COM1NT

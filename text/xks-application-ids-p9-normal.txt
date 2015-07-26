@@ -1,0 +1,10 @@
+﻿Keywords and regular expressions are NOT case sensitive
+by default.
+
+Append a 'c' to request case-sensitive evaluation:
+
+'keyword'c
+
+/regex/c
+
+TOP SECRET//COMINT//REL TO USA, FVEY

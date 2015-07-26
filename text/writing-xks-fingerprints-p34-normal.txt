@@ -1,0 +1,11 @@
+﻿Quick Aside 1: Context Sensitivity
+
+•	If you want to force a keyword to be case
+sensitive, simply append a c after the single
+quotes.
+
+•	Ex: ‘NDC c will only hit when NDC is found
+in all caps, or ‘ndcc will hit only when ride is
+found in all lower case and etc.
+
+TOP SECRET//COM1NT

@@ -1,0 +1,16 @@
+﻿appicH’voip/sip/IMS', 6.0, wireshark='sip') =
+
+('via: sip' or 'v: sip') and 'cseq:' and (
+'p-access-network-info:' or
+'p-called-party-id:' or
+'p-charging-vector:' or
+'p-charging-vector-addresses:' or
+'p-media-authorization:' or
+'security-verify:' or
+'proxy-authorization:' and 'scscf or
+'path:' and 'pcscf' or
+'path:' and 'scscf'
+
+);
+
+TOP SECRET//COMINT//REL TO USA. FVEY

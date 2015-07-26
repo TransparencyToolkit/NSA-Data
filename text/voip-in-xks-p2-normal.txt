@@ -1,0 +1,19 @@
+﻿Protocols
+
+Signaling/setup/control
+
+SIP (Session Initiation Protocol)
+
+■	H323
+
+■	Skinny
+
+■	Clarent
+
+■	Yahoo proprietary
+
+Data - voice, fax, video
+
+- RTP (Real-time Transport Protocol)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

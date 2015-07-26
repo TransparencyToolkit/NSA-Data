@@ -1,0 +1,12 @@
+﻿TOP SECRET SIRAPi
+
+Communication Based Contexts
+
+Aliases
+
+doc email body(expr)	This covers the email_body and document_body contexts doc email body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+communication_body(expr)	This covers the email body, document body and chat_body contexts  chat body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+
+A guide to XKS contexts can be found
+
+TOP SECRET//COM1NT

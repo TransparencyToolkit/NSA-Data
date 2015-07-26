@@ -1,0 +1,223 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+An Eas
+Using S
+about P
+
+fwmuuuu
+
+IGINT to Learn
+iew Viruses
+
+Project CAMBERDADA
+ByHH, 1412 (IAD)
+
+V252||
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20370301
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Overall classification
+
+TO PS EC RET//COMI NT//
+
+REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+BRICKTOP (2009)
+
+Tascom	RusComNet
+
+Kaspersky
+
+Rosoboron
+
+nstitute of Information
+
+&	Telecommunication
+
+Analytical Technology	Corporation
+
+<IIAT) FemSteh (ComCor)
+
+Comstar	Komet
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+ÁHTkiBnpyc
+
+KacnepcKoro
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Sample Email Received by an
+
+AV Vendor
+
+P WZA20120510218350000197506
+
+Good day,
+
+A phishing scam file is attached for your analysis.
+
+Zip file password = virus
+
+The file tricks the user into giving her/his bank account
+credentials. This can be verified by clicking on the Sign In
+button.
+
+FYI: https: / / www. vi rustotal. com /file /8f b6447fdc9cfe204cde...
+
+Regards,
+
+Francois Picard
+www. NewRoma. net
+
+Attachment: BMOFinancialGroup.zip
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Work Flow
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Analytic value
+
+SSIGINT brings in ~10 potentially malicious
+files per day for malware triage
+
+SOver 500 potentially malicious files collected
+since 2009
+
+S~ 50 CAMBERDADA signatures deployed to
+NIPRnet for alerting
+
+S9 domains mitigated
+
+DNS Interdiction
+
+Ml 9 domains under DNS Interdiction
+MICloudshield intercepts the DNS request
+Ml Returns the address of a DoD listening post
+MIMunged version of the request is sent out
+it DNS response is sent to a log
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Current status
+
+it CRN
+
+■SSO
+
+■ Overhead
+■SCS
+
+■FORNSAT
+
+it IN L-C-2010-147 - Multi-Country: Computer
+Network Ops
+
+it Dozens of CADENCE selectors
+MtPINWALE daily queries; EXIT4 models
+it MAILORDER
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+What else can we do?
+
+STAO can repurpose the malware
+
+®Check Kaspersky AV to see if they continue to
+let any of these virus files through their Anti-
+Virus product
+
+SMonitor the folks who provide the malware
+to see if they’re into more nefarious activity
+
+f Establish automated reporting
+
+More Targets!
+
+Viritpro
+
+(Italy)
+
+AVG
+
+(Czech)
+
+fsb-antivirus
+
+(France)
+
+eAladdin
+Norman (Israel)
+F-prot (Norway)
+
+(Iceland)
+
+Bit-Defender
+
+(Romania)
+
+F-secure
+
+(Finland)
+
+k7computing	Ikarus	Hauri  (Korea)	Arcabit  (Poland)
+(India)	(Austria)	Avira	
+Spy-Emergency	Nod32	(Germany)	Novirusthanks
+(Slovakia)	(Slovakia)	Ahnlab	(Italy)
+		(S Korea)	
+
+DrWeb
+
+(Russia)
+
+Antiy
+
+(Chinese)
+
+Emsisoft
+
+(Austria)
+
+Eset
+
+(Slovakia)
+
+Avast
+
+(Czech)
+
+Checkpoint
+
+(Israel)
+
+no*:
+
+•	Derived From: NSA/CSSM 1-52
+
+Dated: 20070108
+Declassify On: 20370301
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

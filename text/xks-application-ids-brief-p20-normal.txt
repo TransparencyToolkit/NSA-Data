@@ -1,0 +1,35 @@
+﻿HOOt 101
+1001 I OOI
+
+I 1001 tool I
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123
+
+id Validation
+
+appic sample.ul24
+Loading appds
+
+->Loading : /home/oper/xkeyscore/config/dictionarie$/appid/appid_definition$.cfg
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/anorymizer.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/bulletin_board.appid
+->Loading : /homc/oper/xkcyscorc/conflg/dlctfonarles/appid/tao vpn.appld
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/tcmolp.appid
+->Loeding : /home/cper/xkeyscore/config/dictionaries/appid/terminal.appid
+->Loading : /home/cper/xkeyscore/config/dictionanes/appid/voip.appid
+->Loading : /home/oper/xkeyscore/config/dictionaries/appid/appid_definitions.cfg
+Finished loading appids
+Filename: sample.ul24
+
+Appid: encryption/https
+
+Total Size: 19.36Kbits
+Total Time: O.Olsecs
+Rate: 1.936Mbits/s
+Overall performance:
+
+Total Time: O.Olsecs
+Total Bits: 0.01936Mbits
+Overall Rate: 1.936Mbits/s
+
+Classification: TOP SECRET//COM INT//ORCON//REL TO USA. FVEY//20291123

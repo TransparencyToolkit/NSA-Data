@@ -1,0 +1,18 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Levels
+
+Levels are 1.0 - 9.9 with lower numbers having a higher priority. This
+allows multiple signatures to match a piece of traffic and only the
+most specific appid will be applied. An example might be:
+
+9.9 Yahoo
+
+9.8 Yahoo/chat
+
+9.7 Yahoo/chat/incoming
+
+Since the Yahoo/chat/incoming has the lowest level, the traffic will be
+labeled as yahoo/chat/incoming
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

@@ -1,0 +1,13 @@
+﻿Examples
+
+•	“I want to look for people doing web searches on Jihad from
+Kabul”
+
+•	Using the from_city() and web^search() context this
+becomes
+
+fingerprint(‘demo/scenario3’) =
+
+from_city('kabur) and web_search(‘jihad’);
+
+TOP SECRET//COM1NT

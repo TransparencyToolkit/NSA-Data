@@ -1,0 +1,1515 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Introduction to Context
+Sensitive Scanning with
+X-KEYSCORE Fingerprints
+
+May 2010
+
+TOP SECRET //COMINT //REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Opening Question:
+
+How do you find your target’s activity in DNI
+traffic?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Opening Question:
+
+What if you don’t know your targets E-mail
+address? Or you’re trying to find new ones they
+may be using?
+
+What if the traffic you’re interested in doesn’t
+even contain an E-mail address?
+
+What do you do then?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Opening Question:
+
+You may try to look for keywords or patterns to
+help find your target.
+
+But how do we scan for keywords in the large
+volumes of data we see in DNI collection?
+Won’t we get too many false hits?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Context Sensitive Scanning
+
+Context sensitive scanning gives analysts a
+powerful way to surgically target the traffic
+you’re interested in, by only applying the
+keywords in the manner in which the analyst
+intended them to be applied
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Sensitive Scanning
+
+For example, think about these scenarios:
+
+•	“I want to look for documents from Iran that mention a banned item”
+
+•	“I want to look for people doing web searches on jihad from Kabul”
+
+•	“I want to look for people using Mojahedeen Secrets encryption from
+an IPhone”
+
+•	“I want to look for documents containing this regular expression”
+
+•	“I want to look for E-mails that mention words from various categories
+of interest to CP”
+
+How would you go about targeting those in passive DNI?
+
+Context
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+help!
+
+•	Fingerprints are an extremely flexible way to target DNI traffic
+without the foreknowledge of a strong selector
+
+•	They take advantage of X-KEYSCORE’s context sensitive
+scanning engine that has over 70 unique contexts that can be
+targeted.
+
+•	An XKS Fingerprint is simply a meta-data tag that gets applied
+to a session when a certain criteria is met
+
+XKS Fingerprints can
+
+• Think of fingerprints as analyst-defined “attributes” of a session
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+"There's an App for that!"
+
+There are currently almost 10,000 AppIDs and
+Fingerprints in X-KEYSCORE - the full list is available
+from the NSA XKS Home Page
+
+Odds are there may already be a fingerprint for the
+traffic you’re interested in.
+
+If not you can easily create your own!
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+For example
+
+•	I’m an analyst in CT - I want to find anytime
+Mojahadeen Secrets 2 is seen in DNI Traffic.
+
+•	I’m an analyst in CP - I want to find E-mails or
+Documents relating to the Iranian Nuclear
+Procurement network
+
+• I’m an analyst in NDIST/NTOC - I want to find traffic
+from a known botnet
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Use Fingerprints!
+
+Field Builder
+AppID (+Fingerprints)
+
+topic/wmd/iran/irisl|
+
+to p ic/w m d/i r a n/i r is l/ed i 1/c hat_bo dy
+topic/wmd/iran/ir is l/ed i 1/docu ment_body
+to p ic/w m d/i r a n/i r is l/ed i 1/e m a i l_b ody
+to p ic/w m d/i ra n/i r is l/ed i 1/fi len a m e
+tDpic/wmd/iran/irisl/edil/url_path
+to p ic/w m d/i r a n/i r is l/ed i 2
+topic/wmd/iran/insl/edi3
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+□	Ext
+
+B F32/GCHQ
+
+□	F5
+
+□	F6
+
+■	F77
+
+□	FGS
+
+■	FHS
+
+□	FHV
+BFTV
+
+□	173
+
+□	175
+
+□	MISCELLANEOUS
+HR1
+
+■	R1, R4
+
+HR1,IDA_CC$
+
+■	R22
+
+□	R4
+
+□	S
+
+□	S2B
+
+□	S2C
+
+□	S2D
+
+□	S2E
+
+□	S2G
+
+□	S2H
+
+■	S2I
+
+□	S31
+
+□	S32
+
+□	S33
+
+□	SSG
+
+□	ST
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Getting Started
+
+What are the basics of XI<S Fingerprints?
+
+Simple XKS fingerprints are keyword or regular
+expression based signatures that are evaluated
+across the data collected and processed by X-
+
+KEYSCORE
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Getting Started
+
+rU
+
+HIT T£2k
+
+fi
+
+n rmr»r\n n
+
++-	i™i
+
+.. , lh£j ;h^dL>
+
+PM 03;0^ 2COB-18-02
+
+Mar 2007 !,	ruiU
+
+1,199	I
+
+lavvwuV^	t8W3b
+
+i 'i) .'.i fill tli
+
+
+
+./*-=>! Pi
+
+### Begin ASRAR El Mojahedeen v2.0 Encrypted Message ###
+r/RgTzT/ATRhN2E1Zjg1 OWQyNWRjMmE2ZT dINzZmZDhIODUxZWZhMDQI Mj YwMjViZGUO
+ZGYwMjd k M mJ mNTA4ZDY2Yj kO M GU2 N G N iYj g6 MzNjZTcSMThjY2 Y1ZmY6MTgzZDIkYjhjMTE
+x0GYzY]c1ZDdlMDAxNTQzZmVINDVIY2YyMGJJY]U20DkyY]dmYJFJYJA2MWM5ZDQ20WFIMzg
+4NThhM2l1Mjc50DkzZGNhOGRmNV/JmNjVIZjC»MjMxNDM4MDIyO T g1 MmRjMGJiNGNkYTN
+k YT G4M zM Ri N2 F iNjl3 MjE 1N GI3 ft/TTA3ZD Q4 NWRm Y z My OTUzZ jZIMj g3 Nj Q10 G Q4 MTA3N
+TU2 N2Zk N2ZjYz UzY z YyMj FIO D AwN2 Vk M2 U5 MTZi N DY2 MmM2ZTV IYjQ2Yzl0OGQ2ODUxNW
+VkMjl2MWViNDAyOGIO MThk MTd h NTY1 Yz lxMDgyOGZIM2IwZWZj MDgwM2U4MzNINDg1 OD
+U xZTc4 O D c 1 MTY2M2I0 Nj U5ZjB hZj Vh Nj kO OTI h NG Ex OTh mYWVI N m F IZj ly Nm M wZD A3 M D MO
+NjJkZDhhMml4ZmRhYjc3NmZINDFkODkyYjBhYjY3MDQ1QGVIMjdhYmUwZTIyNGIxYmQyZDIz
+ZjliM2E5ZGQ5NmNhZDQxOTM4NTIOMjc3MzBIOWEv/ZWE1 Njk3Yj gxY2ViNTQ1 OWULnoiA/D
+ULIjTBuDJqneOGMRHesii8PTnZj02yqbmKbFklPjwMhe7FUhFAOw74S+j+PokOREo&XhdP+y9
+
+/
+
+Gul3juYTvrlEOxGx2OsSfNS5kfRXXIH1DaTnb70yufe9r6mMIQ6
+
+e6 EOS RU Id USYVup zO hhgd4Dof
+SBPFR3OYgOS+pUxDYgmEQr/RA+fYi47tuHQMh+dynZqQspNdmRUmkjEpFqFQ3sPHSJ10injqo
+e 1G sfl3+x n52 X E2 q AA/d n LM-4 Xj YVn l/i s VN Aj v2 nsL+s2TG 11 Hb g ocmp Q oxyO BO S XP c R v/+2 J e k V37
+k1XyONZk9YH+DV3aWYPXt+ym+wGOXNTqPHIU1 JWAZql2NK/cSXt9DMtCtcbSczRj6G9IXvJ9
+E ny7t06 xP d9 B Gi o9M+3Q u U kZH L Em Ji A vg v B6 R JXJ3 wh Bq k6 z M HQ Lfo+VJ c XS u m W5 m RtgCjz S
+P W6 Izz F CGt/B4 SK4 PxT52ZC0 B2 k WD8 VMy Nffrl 3T G4X Ue s g x47N d5 x ML8 v\i€ pj/fZwK N K+EfK IP
+==Z1 o V/29A9 N3 u LI X B X52 L h Qyj/1 i qfJ2 F N R7AIO N S Ej wK oggVmkxDiuG aQi+Tu rp x Bg at1 g
+
+### End ASRAR El Mojahedeen y2.0 Encrypted Message ###
+
+CkixJI
+
+O j jS- 3b b^y I
+
+.?.^nvll . I■
+
+, ft I Q »\ I \	' M\l I % n. I
+
+
+
+
+
+
+
+.UL^.vl Oo/b
+
+qJLn *Jb—• •X
+
+, I‘I » » ^11 ?«Vi
+
+i"i %l >ftll ■ 11
+
+hv	kvj
+
+
+
+3
+
+3-.Lj.-J I
+
+70-3 u-dl
+
+3-Sib3->JI
+
+i*JI c^Jl
+
+^■21 .di 3j;,b3--ji
+
+iM cgr.Yill
+
+«-j.-jdL' v-i-3-il
+, UlU^JI / >l3-*_^yi /jJk0
+03 ud oULdl
+
+				
+	| Displaying 1 iterrs		H<±ten fields	
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Boolean Equations
+
+Basic fingerprints can also use Boolean
+
+appid('voip/sip/IMS', 6.0, wireshark='sip) =
+
+( via: sip’ or v: sip ) and cseq:' and (
+'p-access-network-info:' or
+p-called-party-id:' or
+'p-charging-vector:' or
+p-charging-vector-addresses:' or
+'p-media-authorization:' or
+security-verify:' or
+'proxy-authorization:' and scscf or
+'path:'and 'pcscf or
+'path:'and 'scscf
+);
+
+equations
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+And Regular Expressions
+
+fingerprint (‘encryption/mo j ahedeen2>)=
+
+/(?:Begin|End).ASRAR.El.Mojahedeen.v2\..{o,5}Encrypted.Message/ or
+/Mojahedeen.V2\..{o?5}Encrypted.Message/ or
+
+/(?:Begin|End).Al-Eldilaas.Network.ASRAR.El.Moujahedeen.V2/ or
+
+* Regular expressions must include a fixed "anchor" meeting the
+minimum keyword length.
+
+Bad: /[A-Z]{3}-[o-9]{3,5}/
+
+OK: /ABC-[o-9]{3,5}/
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+And Binary Patterns
+
+fingerprint('botnet/IO/XXPWoo23) =
+
+$http and
+
+'\x53\x53\x48\xoo\xoo\xoo\xoo\xooc and
+'\xoo\xoo\xoo\xoo\xo3\xoo\x53\x4D\x52’c;
+
+fingerprint('botnet/IO/XXPWoo23T) =
+
+$http and
+
+hexC535348oooooooooo‘) and
+hex(‘oooooooo300534D52<);
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+fingerprmt(,botnet/IO/XXPWoo23') =
+
+pos('\x53\x53\x48\xoo\xoo\xoo\xoo\xoo) == 4
+
+and pos(’\xoo\xoo\xoo\xoo\xo3\xoo\x53\x4D\x52f) == 24;
+
+fingerprint ('botnet/IO/XXPW0023') =
+
+$http and
+
+(pos('\x53\x53\x48\xoo\xoo\xoo\xoo\xoo') >= 144 and
+pos('\x53\x53\x48\xoo\xoo\xoo\xoo\xoo ) <= 184) and
+
+(pos(’\xoo\xoo\xoo\xoo\xo3\xoo\x53\x4D\x52r) >= 164 and
+pos('\xoo\xoo\xoo\xoo\xo3\xoo\x53\x4D\x52') <= 204);
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+• For example, take the first scenario:
+
+I want to look for documents from Iran that mention a banned item”
+
+Just using keywords with Boolean equations, how could we
+restrict the term to only a document body and only coming
+from Iran?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+Context Sensitive Scanning
+
+• X-KEYSCORE s context sensitive scanning engine
+allows you to explicitly say where you want a term to
+hit.
+
+• As an early example, the Tech Strings in Documents
+capability allowed analysts to restrict terms to only
+Email, Chat or Documents Bodies
+
+• The full XKS Context Sensitive Scanning engine
+allows for over 70 unique contexts to be used as part
+an fingerprint
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+Context Sensitive Scanning
+
+• For example, take the first scenario:
+
+I want to look for documents from Iran that mention a banned item”
+
+Using the XKS context for Country Code (based on NKB
+information) and the XKS context for Document Bodies,
+this easily becomes:
+
+fingerprint(‘demo/scenarioi’) =
+
+cc(‘ir’) and doc_body(‘banned item’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Context Sensitive Scanning
+
+•	As another example, let s say we want to tag all Iphone usage
+
+•	Using the XKS context for User Agent this easily becomes
+
+fingerprint(‘demo/scenario2’) =
+
+user_agent (‘iphone’);
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+•	XKS Fingerprints may not be USSID18 or HRA
+compliant if they are queried on by themselves
+
+•	For example, we may want to fingerprint the use of
+mobile web devices like the IPhone, so that attribute
+could be used as part of a more complex query.
+
+• But querying for the IPhone fingerprint itself would
+be a USSID18 and HRA violation.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+USSID18/HRA Considerations
+
+• But if you want to look for an IPhone user from
+an Iranian Proxy accessing his Mail.ru account
+
+IP Address:
+
+Either v
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+• •
+
+TOPSECRET//COMINTORELTO USA, AUS, GAN, GBR, NZL
+
+Context Sensitive Scanning
+
+What contexts are available for use in XKS Fingerprints?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Contexts (1 of 2)
+
+html_title(expr)	The normalized extracted text web page titles html_title(‘how to' and ‘bomb’)
+http_host(expr)	The “Host:” name given in the http header. http_host(‘yahoo .com')
+http_url(expr)	Every URL from HTTP GET and POST commands. http_url(7mail/inbox?action=delete’)
+http_url_args ( expr)	All arguments given as part of a URL (ie. all text following the Tin a URL string)  httpu r 1 (‘ act i o n=d e 1 ete')
+httpjreferer(expr)	The “Referer:” URL given in the HTTP header http_referer(‘http ://badwebsite/cp?action=show’)
+http_language(expr)	The normalized two letter iso-6393 language code as inferred from any http and or html header info  http_language(‘fa or ‘de’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Contexts (2 of 2)
+
+http_cookie(expr)	The “Cookie:” field given in the http header, httpcooki e(/P R EF=\d\d[a-z]/)
+http_server(expr)	The “Server:” type name in the http header. http_server(‘GWS/2.r or ‘Apache’)
+http_user_agent(expr)	The “User-Agent:” field given in the http header. http_user_agent(/MozillaV[45]/ or ‘Chrome’)
+web_search(expr)	The normalized extracted text from web searches web_search(‘ricm or ‘plague’)
+x_fo rwa rd e d_for (exp r)	The X-Forwarded For IP address from the HTTP Header  x_forwarded_for(‘i.2.3.4’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+Protocol Contexts 1 of 2
+
+ip(expr)	The source or destination IP address of the session ip(T 27.0.0.1’)
+from_ip(expr)	The source IP address of the session from_ip(M 27.0.0. V)
+to_ip(expr)	Every URL from HTTP GET and POST commands. to_ipO 127.0.0.1’)
+ip_subnet(expr)	IP subnet in CIDR notation. ip_subnet(‘7.211.143.148/24’)
+port(expr)	The source or destination TCP or UDP port number. port(’22’)
+from_port(expr)	The source TCP or UDP port number. from_port(’22’)
+to_port(expr)	The destination TCP or UDP port number. to_port(’22’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Protocol Contexts 1 of 2
+
+cc(expr)	The country (either to OR from) based on IP address cc(‘ir or ‘pk’)
+from_cc(expr)	The source country based on TP address from_cc(‘ir’ or ‘pk’)
+to_cc(expr)	The destination country based on IP address to_cc(V or ‘pk’)
+protocol(expr)	The textual form of the IP next protocol, protocol (‘TCP’)
+next_protocol(expr)	The textual form of the IP next protocol. ip_next_protocol(’ 17’)
+mac_address(expr)	The MAC address of the target network device, macad dress (‘00:16:3E:3F:BD:EF’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+ommunication Based Contexts
+
+email_body(expr)	The UTF-8 normalized text of all email bodies. email_b°dy(‘how to7 and ‘build7 and (‘bomb7 or ‘weapon7))
+chat_body(expr)	The UTF-8 normalized text of all chat bodies. chat_body(‘how to7 and ‘build7 and (‘bomb7 or ‘weapon7))
+document_body(expr)	The UTF-8 normalized text of the Office document. -  Office documents include (but are not limited to) Microsoft Office, Open Office, Google Docs and Spreadsheets.  document_body(‘how to7 and ‘build7 and (‘bomb7 or ‘weapon7))
+calendar_body(expr)	The UTF-8 normalized text of all calendars. An example is Google Calendar.  calendar_body(‘wedding7)
+archive_files(expr)	Matches a list of files from within an archive. For example is a ZIP file is transmitted, all names of files within are passed to this context.  archive_files(‘bad.dll7 or ‘virus.doc7)
+http_post_body(expr)	The UTF-8 normalized text HTTP url-encoded POSTs. http_post_body(‘action=send7 and ‘badguy@yahoo7)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Communication Based Contexts
+
+Aliases
+
+doc_email_body(expr)	This covers the email body and document_body contexts  docemai I_body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+communication_body(expr)	This covers the email_body, documentbody and chat_body contexts  chat_body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Context sensitivity
+
+Why use context-sensitive scanning?
+
+•	More intuitive - you can say what you mean
+
+•	More accurate - if 'maps.google.com' is mentioned in a
+blog post, you don't want to try processing it as a Google
+Maps session
+
+•	Better performance for XKEYSCORE
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Examples
+
+• "I want to look for people doing web searches on Jihad from
+Kabul”
+
+• Using the from_city() and web_search() context this
+becomes
+
+fingerprint(‘demo/scenario3’) =
+
+from_city(‘kabur) and web_search(‘jihad’);
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Examples
+
+•	“I want to look for people using Mojahedeen Secrets encryption
+from an IPhone”
+
+•	You can even use existing fingerprints in a fingerprint
+definition! So this becomes:
+
+fingerprint(‘demo/scenario^) =
+
+fingerprint(encryption/mojahdeen2' and
+fingerprintCbrowser/cellphone/iphone’)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPS ECRET//CO MINT//REL T O USA, AUS, CAN, GBR, NZL
+
+Examples
+
+•	“I want to look for documents containing this regular expression
+
+•	Using doc_body this becomes:
+
+fingerprint(‘demo/scenario5’) =
+
+doc_body(/blah[a-z]{3-5}something/)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example 4
+
+* “I want to look for E-mails that mention words from various
+categories of interest to CP”
+
+• You can use multiple variables in an equation like this
+
+topic( wmd/acw/govtorgs1) =
+
+email_body($acwitems and $acwpositions and
+($acwcountries or $acwbroleers or $acwports));
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+•	$acwitems = 'machine gun' or grenade' or 'AK 47'
+
+•	$aewpositions = 'minister of defence' or 'defense minister'
+
+•	$acwcountries = 'somalia' or 'liberia' or 'sudan'
+
+•	$acwbrokers = 'south africa' or 'serbia' or 'bulgaria'
+
+•	$acwports = 'rangood' or 'albasra' or 'dar es salam'
+
+topic (Twmd/acw/govtorgsT) =
+
+email_body($acwitems and $acwpositions and
+($acwcountries or $acwbrokers or Sacwports));
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Advanced Code-Based Fingerprints
+
+What happens when there are no keywords or regular
+expressions that will help identify the traffic of interest
+to you?
+
+As enough example, many of the CT Targets are now
+smart enough to not leave the Mojahedeen Secrets
+header in the E-mails they send. How can we detect
+that the E-mail (which looks like junk) is in fact
+Mojahedeen Secrets encrypted text
+
+A C++ code fingerprint can help evaluate that data
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+3?.3<17II ■
+
+•Q i ft I Q »\ I \ / ._».iQ^' MM I % n«II
+
+
+
+
+
+*^L»Jd Jibuti
+
+.UL^.vl <Wb
+
+oJL^m *JU—»tl
+
+,|‘l . . ^11 ??»Vi
+
+i"i si >ftll . 11 *<7i
+
+
+
+cA<\<^\\ nj>s\s
+
+■3 -*-bc/JI , 1>-L5L>
+
+
+
+Aini^wJI 70-3 u-Ul
+
+^1-jjooJI 3-SiLw.xII
+
+<_bl t^JI FQ-3 c^Jl
+
+^l-oJI Q-S,bioJI
+
+i"il crjIYnll
+
+, UlU^JI / >li--_^\ll ^«43
+oULUl
+
+				
+c	| Displaying 1 iterrs		H<±ten fields	
+
+oixJI M3Ql
+O j -;3-3b Lx*Y I
+
+.. , l'A£j	^JL-^1
+
+Mar 2007 !,
+1,199
+
+^»| lavvwuV^	t8W3b
+
+i 'i) .*.i AII ill
+
+
+
+./^IPI
+
+r/RgTzT/ATRhN2E1Zjg10WQyNWRjMmE2ZT dINzZmZDhIODUxZV/ZhMDQI Mj YwMjViZGUO
+ZG YwMjd k M mJ mNTA4ZDY2Yj kO M GU2 N G N iYj g6 MzNjZTcSMThjY2 Y1ZmY6MTgzZDIkYjhjMTE
+x0GYzY]c1ZDdlMDAxNTQzZmVINDVIY2YyMGJJY]U20DkyY]dmYJFJYJA2MWM5ZDQ20WFIMzg
+4NThhM2l1Mjc50DkzZGNhOGRmNV/JmNjVIZjC»MjMxNDM4MDIyO T g1 MmRjMGJiNGNkYTN
+k YT Q4M zM xZj Ri N2 F iNjl3 MjE 1N GI3 MTA3ZD Q4 NWRm Y z My OTUzZ jZIMj g3 Nj Q10 G Q4 MTA3N
+TU2 N2Zk N2ZjYz UzY z YyMj FIO D AwN2 Vk M2 U5 MTZi N DY2 MmM2ZTV IYjQ2Yzl0OGQ2ODUxNW
+Vk Mjl2MWViNDAyOGIO MThk MTd h NTY1 Yz lxMDgyOGZIM2IwZWZj MDgwM2U4MzNINDg1 OD
+U xZTc4 O D c 1 MTY2M2I0 Nj U5ZjB hZj Vh Nj kO OTI h NG Ex OTh mYWVI N m F IZj ly Nm M wZD A3 M D MO
+NjJkZDhhMml4ZmRhYjc3NmZINDFkODkyYjBhYjY3MDQ10GVIMj dhYmUwZTIyNGIxYmQyZDIz
+ZjliM2E5ZGQ5NmNhZDQxOTM4NTIOMjc3MzBIOWEwZWE1 Njk3Yj gxY2ViNTQ1 OWULnoiA/D
+ULIjTBuDJqneOGMRHesii8PTnZj02yqbmKbFklPjwMhe7FUhFAOw74S+j+PokOREo&XhdP+y9
+
+/
+
+Gul3juYTvrlEOxGx2OsSfNS5kfRXXFI1DaTnb70yufe9r6mMIQ6
+
+c6 EOS RU Id USYVup zO hhgd4Dof
+SBbFR30vgOS+pUxDYgmEGr/RA+iYi47tuHQMh+dynZqQspNdmRUmkjEpFqF03sPHS/10injdO
+$ 1G sfl3+x n52 X E2 q/Wd n LM-4 Xj YVn l/i s VN Aj v2 nsL+s2TG 11 Hb g ocmp Q oxyO BO S XP c R v/+2 J e k V37
+k1XyONZk9YH+DV3aWYPXt+ym+wG0XNTqPIHIU1 JWAZql2NK/cSXt9DMtCtcbSczRj6G9IXvJ9
+E ny7t06 xP d9 B Gi o9M+3Q u U kZH L Em Ji A vg v B6 R JXJ3 wh Bq k6 z M HQ Lfo+VJ c XS u m W5 m RtgCjz S
+P W6 Izz F CGt/B4 SK4 PxT52ZC0 B2 k WDG VMy Nffr 13T G4X Ue s g x47N d5 x ML8 v\i€ pj/fZwK N K+EfK IP
+==Z1 o V/29A9 N3 u LI X B X52 L h Qyj/1 i qfJ2 F N R7AIO N S Ej wK oggVmkxDiuG aQi+Tu rp x Bg at1 g
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Advanced Code-Based Fingerprints
+
+.ingerprint;1 encryption/mojaheden2/hidden441 i =
+
+$ roo i _c ip he r _f ir s t _ te s t
+: c—I- pxtracr.nrs : { {
+
+msgl = / ( (>-zA-Z0-9\+V] { 6 > [ DHLPTXbf jnrvz3 7\/ ] [4-9\+V] ) AT ( [ ABEFI JHNQF.UVYZcdghkl] [hi j klmvxysO 12 3 4S] [MNOYZ] [EGTUjtrsS] ; {12>)/c;
+:w=g2 - / ( ( ;a-zA-Z0-9N +' /] <0> [ DHLPTXbf jnrvs37\/] [4-9\+V] ) AXT ( [ ADEFIJHN2F.UVY2cdchk 1 ] [hi jklnwxyzO 12C45] [MNOYZ] [EGTUjnaZ] ; <12>)/c;
+> >
+
+main : {{
+
+std: :string msg;
+
+if (rnscri:
+
+msg = srisgl[0] ;
+else if (msg2)
+
+msg = »sg2[0] ;
+
+e.se
+
+return false;
+
+char bv.f 116] ;
+char ckunkl[16];
+char chunks [16] ;
+char chunk3[16];
+if(true)■
+
+snprintf (chunkl, 16, "%02x%D2x^02x%C2x"r
+msg [10]	£	Oxff,
+
+mog[ll] £ Oxff,
+iosy[12] £ Oxff,
+rasgLiaj £ Uxft);
+
+snprintf (chunk2, 16, "%02x%D2x^02x%C2x"r
+rosy T141 £ Oxff,
+mag[15»] £ Oxff,
+msg [16]	£ Oxff,
+
+losy [ 17]	£ Oxf £) ;
+
+snprintf (chunkd, 16, "%U2x% J2x=su2x%L2x,rr
+rosy[18] £ Oxff,
+rosy[19] £ Oxff,
+mag[2 0]	£	Oxff,
+
+msg [2 1]	£	Oxff) ;
+
+if ( ! ( (stircrop (chunk!, chunk2) -- 0)	||
+
+(stremp(chunks, chunK3; == 0)	||
+
+(stremp(chunkl, chunk3) == 0)i){
+sta:¡string msc_decoded = xks: :base64dec imsg) ;
+for(size_t i = 1: i < msg_decoded.s!ze () ; i-H-) i
+if (msg decoded [i] < '0'	|| (msg decoded[i] >
+
+return false;
+
+>
+
+Field Builder
+
+AppIO (+Fingerprints)
+
+oner ypt ion j mo jaheden2/ h idden44
+
+Add to Field
+
+r%U2X%J2X^U2X%L2X"r
+
+'9'	£ £ msg decoded [l]
+
+a )	|| msg decoded [i]
+
+snprintf(bur, 16,
+rosg_decoded[ 1]
+msg decoded[2]
+mog dccodcd[3]
+losy decuded[4]
+
+',%02x^02x%02:<%02x,T,
+£ Oxff..
+
+£ Oxff.
+
+£ Oxff.
+
+£ Oxff; ;
+
+std:¡string keyid hex = buf;
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Advanced Code-Based Fingerprints
+
+As another example, some of the activity from the
+Conficker botnet simply cant be detected with
+keywords or regular expressions
+
+In cases like this, C++ code can be used inside a
+fingerprint to test the data further
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Code-Based
+
+Lncierorint('fcctr.et/conr icksc_p2p_utp_ciai:a .. 7.3) =
+sudp and not To ap 00* and not ' irn ap 00
+: rs-M-u
+
+// riaRRifinfirinn! COTJ7T“)RMTTAT .//EFT. "0 1T5U, FVEY
+// MOT releasskle to third-parties
+uinrS t keyS;
+uinrS t kcyD;
+uinrS t pkt type;
+uinrO_t decrypted^bytes[4];
+uiji-3 2_L x.uxjx.ix.y_iutsh - 0;
+umz32_c K_mcr.;
+
+Ulnz32_C K_lCXi*;
+
+ui X____r. s?r.nrFn_ha:=shP:=iL4J = < II, 11,1 ,M>;
+
+inr»-.3 2 r. min pkt.
+uini32 t max pkt len;
+uinr32 t t;
+packer t pkt;
+
+uhile(pkt - get packet (ii
+
+<
+
+lz (’Dice.size < iO)
+return raise;
+
+kpyfi = (ninr.F_r) ipkt.. da“.a[“l] «1 | i ipkt.. data[7] »7) X1) ) ;
+key9 = (uint£_t) ikey8-*:<2 |	( ipkt .e.ata[r?; >>Si £l) ) ;
+
+if (((kzyD A pkt.data]9] ifiDxfc) !- 0>:S0;
+
+return false; // Nor Crnfickcr, oo abort
+if ((kryO A pkt.data]0]i S 3x02)
+
+lc^aLCi £«lizt;	/ / bi- ;ijL stl lex. UI>P pttcxeli
+
+ir (p:ec.size<23)
+continue;
+
+if ((ksy9 A pkt.data]9]i !=3xSO)
+continue;
+
+pkt rypz _ (kcy3 A pkt.datn[S] )>>3;
+
+-f (jk-_Lype i C>.10) // 3-ULUnx.y
+ouji-itiuc;
+
+iz(!(pKt_typ€ i uxuy; ; // not a oata packer
+
+nnnri nnp;
+
+win pkt len =22;
+
+wax pkt len = (uint32 ri pkt.size;
+
+K high - uint32 t ;pkt. deir^[7] ) «24u | uint3 2 t (pkt .dc.ta[ 0] ) <<13u | uint32 t ipkt. d*ra[5] ) «Cu | umtO2 r (pkt .date.[^]) ;
+K_Iuai - uixjL32__t ;pkt. d»^rt[3] ) «2^u | uiut32_t (pkt.u&Lti[2] ) «15a | uixjL32_t ipkt.	1] ) «Su | u-jU.32__-(pkt.dt.lt.[0] ) ;
+
+runnm^_nasb = o;
+
+fnr(".=l; r.krrsv pkt. >n: -.4-4-)
+
+Fingerprints
+
+if (t>=3)	// decrypt data
+
+<
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+What happens when you find data and want some
+pieces of meta-data extracted?
+
+XKS Fingerprints can be used to extract meta-data to
+select XI<S database tables.
+
+Or if no existing database is applicable, you can define
+your own database schema for the meta-data
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+As a real life example, think of all of various Free File
+Upload (FFU) sites of interest
+
+When a user uploads a document they get a response
+page that looks like this:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Free File Upload Sites
+
+Welcome to "SHARE
+
+With zSHARE you can upload files, images, videos, audio and flash for free. Simply use the upload form below and start sharing! You
+can also use zSHARE as your personal file storage: backup your data and protect your files. First Time? Read our FAQ!
+
+•	Upload now
+
+•	Login
+
+•	Create Free Account
+
+•	Premium
+
+• FA£
+
+File Uploaded
+
+The file khi pics.zip was successfully uploaded! (4.04MB). You're now ready to share it with unlimited people or keep it as a backup.
+
+Download Link
+
+http ://www. zshare. ne t/ do wnlo ad^63719957Ob 174 c
+
+Link for forums:
+Direct Link:
+Delete Link:
+
+[URL=http://www.zsh0.re. net/downloa.d/63 7199570b174
+
+http://www.zshare.net/download/6371 99570bl 74c9f/
+
+http://www.zshare.net/delete.html763719957-7c8893b1 fc
+
+E-mail Me This Info
+
+To receive all the info on the file you uploaded, such as removal instructions and download link, enter your e-mail address on the
+field b elow:
+
+Your e-mail:
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Free File Upload Sites
+
+• Look at all the great information on that page:
+
+File Uploaded
+
+The filelkhi pics.zLplvas successfully uploaded! (4.04MB). You're now ready to share it with, unlimited people or keep it as a backup.
+
+Download Link
+
+Link for forums:
+Direct Link:
+Delete Link:
+
+[URL=http://www.zs hare.net/download/63 7199570bl 74
+http://www.zshare.neVdownload/637199570b174c9f/
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+How can we quickly get that information extracted as Meta-data
+and be agile enough to respond to each FFU site which may have
+its own format
+
+XKS “V4” Fingerprints allow you to use the XKS Fingerprint
+Language to extract meta-data into the XKS database
+
+Fingerprints are deployed within an hour of being accepted
+meaning you no longer need to wait for all 130+ XKS sites to be
+upgraded to have the latest and greatest capabilities.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+appid(1filetransfer/web/zshare_net/upload/response 1, 5.0) =
+ht.tp_tit.le ( 1 zSHARE 1 ) and 1 zshaue. net/delete. html1
+
+:	C++
+
+extractors : { {
+
+wf t_f i 1 e_name = /The\sfile \s<strongxfont\scolor=\ pp#333333\ pr> ([A<] {1,300)-) \s</;
+wft_delete_ur 1 = / zshare. net\ /delete. htiul\ 7 ([0-9] +) - ([0-9a-zA-Z] { 32}) \ "/;
+
+wft_upload_id = /<font color=\"#666666\"><a href=\"http:\A/ww\.zshare\.net\/[A\/] +\/([0-9] +) [Q-9a-±]{8}/;
+■wft_url = /<font color=\"#666666\"><a href A pp {http: \A. zshaue\ . net\/[ A\/] +\ / [ A\/] +) / ;
+wft_uploader_username = /<small>Logged in as:	([A<] +) <\/small>/ ;
+
+} )
+
+main = { {
+
+if (wft_delete_ur1 )	{
+
+DB["web_±ile_transfer"][”w£t_upload_id”] = wft_upload_id[Q];
+
+DB [ "wefci_f ile_transf er,r] ["wft_delete"] = wf t_delete_url [0] + pp-,r+wf t_delete_uul [ 1] ;
+
+DB["web_±ile_transfer"] [ "wf t_site_name”] = "sshace.net";
+
+DB[Hweb_f ile_transferM] [ "transf er_typeff] = "upload";
+
+i f (w±t_± ile_nsme)	{
+
+DB [ ,,web_f ile_transf er1'] [ "wft_f ilename"] = wf t_f ile_name [0] ;
+
+}
+
+if (oft_uu1)	{
+
+DB[ ,rroeb_f ile_ttransferrr] [ "wft_urlrr] = wft_url[0];
+
+}
+
+if (wf t_uploader_username) {
+
+DB [ rfTjefo_f ile_ttransferrf] [ "uploader_usernamerf] = wf t_uploader_usernante [0] ;
+
+}
+
+DB.apply();
+
+} else {
+
+logger.debug("filetransfer/web/zshare.net/upload/response: Host regexs didn't match");
+
+>
+
+return true;
+
+});
+
+Meta-data Extracting Fingerprints
+
+• All you do is tell XKS when to start extracting meta-data
+
+appid(1 f iletransíer/welo/ sshare_net/upload/response1 , 5.0) =
+
+http_title(1sSHARE1) and 'sshare.net/delete.htniil1
+
+:	C++
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+• Use Regular Expressions to tell it what to extract:
+
+extractors : {{
+
+xjf t_f ile_name = /The\sf ile\s<stcong><f ont\sco lor=\ ,,#333333'\ "> ( [ A<] { 1,300} ) ^ s</;
+uf t_delete__ur 1 = / zshare. netA /delete . html\ ? ([0-9] +) - ([0-9a-zA-Z] { 32 }) \ rr/;
+
+w£t_upload_id = /<font color=\	666666\ p,xa href=\ "http : \/\ /ww\ . sshare\ . net\ / [	/ ] +\ / ([ 0-9] +) [0-9a-f] {8}/;
+
+xjft_url = /<font color=\ pp#666666\ ppXa href=\ ,r < http : \ f\ /t.jt.jt.j'S . sshare\ . net\/[ A\ /] +\ / [A \ /] -f) / ;
+wft up loader username = / <sinal l>Logged in as:	([A <] +) <\/smal !>/ ;
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+• Finally tell it which database tables you want to store
+the information:
+
+main = {-l
+
+if ( ivrft_cie 1ere_ur 1 )	{
+
+DB[ rrT.reb_f ile_transf errr] [ rrTjf t_upload_id"] = xjf t_upload_id[d] ;
+
+DB [ "web_f i ie_transf er:rr] [ "wf t_de lete "]	= wf t_delete_ur 1 [0]+pp-pp+wf t_delete_url [ 1]
+
+DB [ rrT«reb_f ile_transf erpr] [ "wf t_site_namerr] = ,rz share - net";
+
+DB[rrweb file transferrr] [ "transfer type"] = "upload";
+
+File. URL	Filename
+
+htt|K#www.z$liare.net',clownloacli$3T1 $95TGIj174c9f	khi pics.zip
+
+Transfer Type	Upload ID	Delete ID	Site Name
+	63719957	7e83S3lî!l}f64l7«77l{l«a3e7f6756a26	zsliare.n^t
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+What if the meta-data you want to extract doesn’t fit
+nicely into any of the existing XKS meta-data tables?
+
+□ tz¡) Classic A-M
+
+E] ASF and WMV Metadata
+B Alert
+
+â-Q| Classic N-Z
+
+B Network Logs
+PDF Metadata
+
+B CNE
+
+B Call Logs
+
+DNI
+
+B Cellular DNI
+
+Cisco Passwords
+D o c u m e nt M et a d at a
+Document Tagging
+Email Addresses
+
+B Extracted Files
+
+Full Log DNI
+HTTP Activity
+IRC Cafe Geolocation
+
+B Logins and Passwords
+
+PILBEAM
+
+Phone Number Extractor
+
+RBGAN
+
+REGISTRY
+
+RTF
+
+Radius Logs
+
+R e a IM e d i a M et a d at a
+
+SIP
+
+TOR Log
+
+Tech Strings in Documents
+User Activity
+
+B Web Proxy
+B Wlreshark
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+Define your own with the “Microplugin” query forms
+
+— Microplugins
+5 Bsb Flood
+
+Cone Blindmaiksmen Beacon
+
+31] Ccne Bvzantine Raptor Trojan3
+
+J3 Cone Traffic
+
+Ccne Victim Id
+
+¿3 Encryption Steg JSTEG
+
+§3 Exit Metadata
+
+B=j Ipvti Addresses
+
+^1 Mailer Accounts
+
+^ Ms2 Extract Key ids
+
+^1 Munged Traffic
+
+^~1 NetStrings
+
+z-^QUANTUMBOT Table
+
+z1] Saudi Mfa Visa
+
+z-1 Udp Xxp ¡9010 Lzo N etuuo ikn a m e
+
+^ VPN External IP Addresses
+
+^3 Vpn Users
+
+^-¡Web Geo Cell Towers
+
+z3 Web Geo Results
+
+z1] Web Geo Wifi Toiruers
+
+^-]_sub Dictionary Code Snippet
+
+I ur anomi I //^unninj i//kcl i u uöa, auö, uan, u>BR, NZL
+
+Meta-data Extracting Fingerprints
+
+• Example MS2 KeyIDs
+
+Search: Ms2 Extract Keyids
+
+Query Name:
+
+Justification:
+
+R e cent J ustif i cati q ns
+
+Additional Justification:
+Miranda Number:
+
+Datetime:
+
+ejKeylD:
+
+Usernarne<realrn>:
+
+IP Address!
+IP Address;
+Port:
+Port:
+
+1 Day 3 Start:
+
+2010-05-03
+
+□
+
+00:00
+
+Stop:
+
+2010-05-04
+
+□
+
+23:59
+
+0
+
+|| From	[IP Address Field Builder!
+
+1 To ^ ^ flP Address Field Builderl
+1 From
+
+I To JtJ
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Meta-data Extracting Fingerprints
+
+Search: Cene Byzantine Raptor Trojan3
+
+Query Name:
+
+Justification:
+
+Recent Justifications
+
+Additional Justification:
+
+V
+
+Miranda Number:	|
+
+Datetime; 1 Day
+
+3
+
+Start;
+
+2010-05-03
+
+□
+
+00:00
+
+Stop;
+
+2010-05-04
+
+□
+
+23:59
+
+W
+
+brt_decrypt:	
+brt_hostname:	
+brtjpad dress:	
+brtjenqth:	
+brt_os vers ion:	
+brt_packet_type:	
+brt_5 eq uence_n urn ;	
+brt username:	i	
+	
+
+Us ernarne < rea Irn > :
+
+IP Address: |	1 From	TIP Address Field Builderl
+		
+IP Address: |		1 1 To zi ^	TIP Address Field Builderl
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+New Fingerprint GUI
+
+• New XKS Fingerprint GUI allows analysts to directly
+test, submit and manage fingerprints through the web
+
+Navigation Menu « Fingerprint Validation / Submittal	
+Fingerprints =3 Validate/Submit Approved |=3 Pending =3 My Signatures	Step #1 Step #2 Step #3 ioj Compile Test Against Session Data [gj Save
+	Global Variable Declarations ! £
+	Type or paste any global VARIABLE DECLARATIONS here.
+	Signature
+	Type or paste a FINGERPRINT definition here.
+	Press Compile when clone editing
+	
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+New Fingerprint GUI
+
+New XKS Fingerprint GUI allows analysts to directly
+test, submit and manage fingerprints through the web
+
+HnqerDrint validation f b'ubmittal
+
+£ltp#l	3fep ¿2	Eltp#3
+ICompilei	■ Test Aaainst Cession Ca	*a L. J Owe
+		
+
+SUCCESS!
+
+congratulations, your tinge-print was successfully compiled!
+
+Now use the Test button to run it against the cesignated session data.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Questions?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Syntax Rules
+
+• The definition of the fingerprint will look like this:
+
+fingerprint(‘test/blah/something’, owner =	=
+
+Note the single quotes needed for the fingerprint name
+and owner
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Syntax Rules
+
+• Secondly every fingerprint definition must be
+completed by a semi-colon.
+
+fingerprint(‘test/blah/something’, owner =
+
+‘badguy’;
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Syntax Rules
+
+Variables also must be completed by a semi-colon.
+
+$badguy =
+
+‘bomb’ or ‘gun’ or ‘weapon’;
+fingerprint(‘test/blah/something’, owner =
+
+$badguy;
+
+)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Syntax Rules
+
+• Definitions and Variables can span multiple lines
+
+$badguy =
+
+‘bomb’ or
+‘gun’ or
+‘weapon’;
+
+fingerprint(‘test/blah/something’, owner =
+
+$badguy;
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

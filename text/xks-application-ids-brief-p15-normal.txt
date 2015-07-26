@@ -1,0 +1,17 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Example
+
+appid(,mail/smtp/to_server'/ 8.5, direction = $from_server,
+wireshark^smtp’) =
+toport(25) and
+( first(’helo') or
+first('ehlo’) or
+first('data') or
+
+(lpos('To: 'c) and lpos('From:'c)) or
+IposCQUIT'c) or
+lpos('mail from:’) or
+lpos('rcpt to:') );
+
+Classification: TOP SECRET//COM INT//ORCON//REL TO USA, FVEY//20291123

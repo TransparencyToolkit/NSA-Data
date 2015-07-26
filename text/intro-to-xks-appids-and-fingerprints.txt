@@ -1,0 +1,1458 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Application IDs and
+
+
+
+
+
+Fingerprints
+
+27 August 2009
+
+.... ‘s
+
+
+
+
+
+
+
+
+
+01 Ol
+
+A l •
+
+DERIVED FROM: NSA/CSSM 1-52
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Agenda
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■	Overview of Application IDs and
+Fingerprints
+
+■	Background of the 4 generations of
+AppIDs+Fingerprints
+
+■	Examples of how they are used for target
+development SIGDEV
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+What is an AppID?
+
+An Application ID (AppID) is a meta-data
+tag given to a session to help describe
+what application is being seen in the traffic
+
+■ Examples:
+
+■	mail/webmail/yahoo indicates that the traffic was
+Yahoo Webmail
+
+■	chat/msn_messenger indicates the traffic was
+MSN Messenger
+
+■	http/get indicates that the traffic was an HTTP
+Get
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+■	What’s the point of AppIDs/Fingerprints?
+
+■	For one, they give you a powerful tool for
+the quick analysis of what applications are
+being seen in your traffic.
+
+■	A simple histogram on AppID allows you to
+quickly identify all of the applications seen
+for a given result set, without needing to
+view each piece of content
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+■ Ex: Histogram the applications used during
+T arget activity:
+
+Histogram Grid		
+Page	1	of 1 | * | ¡B5 I Clear Selection Export
+
+Filter Application	Counts
+
+i httn/aet	92
+undate service/windows	47
+| i unknown/oortSO/htto www	25
+p=] 1 ma i l/we b	11
+[>=] httn/resDonse	10
+[F7] [ mail/Webmailrtmailru ]	3
+nhoto sharinart494.nhotobucket.com	3
+httoio o stfe-www-fo rrn- u rl e n c o d e d	6
+| i htto/resoonse/aif	6
+| | |mail/webmaTîîâmâîP^	5
+] htto/resoonse/400 bad reauestrtitml	4
+fp] http/response/not found/htrnl	4
+1 filetran sf e r/we b/a rc h ive. o raid own 1 oad/reaues^	3
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+■	Secondly, they provide an additional criteria
+that you can use in your query.
+
+■	NOTE: It’s important to point out that
+since most AppIDs + Fingerprints are
+tagging technology and/or applications,
+they SHOULD NOT be the sole criteria
+for your queries in X-KEYSCORE!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+■ EX: I’m looking for targets using mail.ru
+from behind a large Iranian proxy:
+
+IP Address:
+
+AppID
+
+(+Fingerprints) ifulltextl:
+
+Field Builder
+
+AppID (+Fingerprints)
+
+mail/webmail/mallru
+
+V
+
+mail/webmail/rnailru
+mail/webmail/mallru/attachment
+ma i l/web ma i l/ma i Ir u/post
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+■ EX: I’m looking for targets using mail.ru
+from behind a large Iranian proxy:
+
+IP Address:
+
+AppID
+
+(+Fingerprints) ifulltextl:
+
+Field Builder
+
+AppID (+Fingerprints)
+
+mail/webmail/mallru
+
+V
+
+mail/webmail/rnailru
+mail/webmail/mallru/attachment
+ma i l/web ma i l/ma i Ir u/post
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Why even have AppIDs/Fingerprints?
+
+EX: I’m looking for Mojaheden Secrets 2
+use in extremist web forums:
+
+Field Builder
+
+ApplD (+Fingerprints)
+
+
+
+forum/extre misty]
+
+ILPI wii/eXu eniisvcn-raiuj«
+
+forum/extremistyal-fir daws Arabic
+
+forum/extremist/al-firdawsEnglish
+
+forum/extrernist/al-hisbah
+
+forum/extremist/al-hisbahworkshop
+
+forum/extremist/al-ikhlas
+
+forum/extremist/al-riukhbah
+
+forum/extremist/al-nusrah
+
+forum/extremist/al-qimmah
+
+forum/extremist/al-shura
+
+forum/extremist/al-tawhid
+
+forum/extremistyaljazeeratalk
+
+forum/extremist/alm3retb
+
+forum/extremist/amb
+
+forum/extremist/ashiyarie
+
+-
+
+Field Builder
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How do AppIDs work?
+
+AppID’s are effectively looking for
+in order to assign the AppID tag.
+
+key wo r
+
+■ Example, let’s say that this is the definition
+for mail/webmail/yahoo:
+
+appid(’mail/webmail/yahoo1, 9.0) = 'Host: mail.yahoo
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Here is a client side Yahoo session:
+
+GET /login.html HTTP/1.1
+
+Referer: http ://us.f359.mail.yahoo.com/ym/ShowLetter
+Accept-Language : ar
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SVl)
+Host : mail.yahoo.com
+Connection: Keep-Alive
+
+Cookie: B=fn50ehd2612o2&b=3&s=rp; YMBM=d=&v=l;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Example
+
+appid('mail/webmail/yahoo’, 9.0) = ’Host:
+
+mail.yahoo';
+
+GET /login.html HTTP/1.1
+
+Referer: http ://us.f359.mail.yahoo.com/ym/ShowLetter
+Accept-Language : ar
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SVl
+Host: mail.yahoo.com
+Connection: Keep-Alive
+
+Cookie: B=fn50ehd2612o2&b=3&s=rp; YMBM=d=&v=l;
+
+Application: mail/webmail/yahoo
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How AppIDs work
+
+What does the number in the AppID mean?
+appid('mail/webmail/yahoo\ 9.0)=
+
+Each session can have only one AppID
+
+The goal is for the AppID to be as descriptive as
+possible
+
+■	Any given session might qualify under multiple
+AppIDs definitions, but only the most specific
+AppID that applies to the session is assigned
+
+■	Lowest number wins, so the lower the number,
+the more specific the AppID definition
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How do AppIDs work?
+
+Let’s say there’s another more descriptive
+appid for mail/webmail/yahoo/login:
+
+appid('max1/webmail/yahoo/login, 8.0) = 'Host: mail.yahoo' and
+'/login';
+
+It has a lower number than
+mail/webmail/yahoo, so if it “hits” it will be
+applied
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+appid(1mai1/webmail/yahoo', 9.0) = 'Host : mail.yahoo1 ;
+
+appid(1mai1/webmail/yahoo/login, 8.0) = 'Host: mail.yahoo' and
+
+'/login';
+
+GET /login.html HTTP/1.1
+
+Referer: http ://us.f359.mail.yahoo.com/ym/ShowLetter
+Accept-Language : ar
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SVl
+Hos t: mail.yahoo.com
+
+Connection: Keep-Alive
+
+Cookie: B=fn50ehd2612o2&b=3&s=rp; YMBM=d=&v=l;
+
+Application: mail/webmail/yahoo/iogin
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+AppID Structure
+
+r
+
+Note that the AppIDs have a directory-like
+structure:
+
+■	mail/webmail/yahoo and
+mail/webmail/yahoo/login
+
+■	If you wanted to search for all webmail activity
+you could search for mail/webmail/*
+
+■	If you wanted to search for all Yahoo mail
+activity you could search for
+mail/webmail/yahoo/*
+
+■	etc
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How AppIDs work
+
+■	Some session can hit on many AppIDs.
+
+■	For example a single session might hit on:
+appid('http/response\ 9.2)
+appid('mail/webmair, 8.9)
+appid('mail/webmail/yahoo\ 6.0)
+appidCmail/webmail/yahoo/attachment', 5.0)
+
+■	Which one will be assigned as the winning
+AppID?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How AppIDs work
+
+■	When you see an AppID how do you know
+what was used to define that AppID?
+
+Through the XKS AppID signature page
+available through “go xkeyscore”
+
+■	Or by simply clicking on the hyperlink
+AppID from the new GUI!
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+What is a fingerprint?
+
+■	AppIDs were built to describe applications
+of which there *should* only be one
+application seen per session.
+
+■	How do we describe other attributes of a
+session that aren’t necessarily tied to a
+particular application?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+What is a fingerprint?
+
+One great example is encryption
+
+■ A particular type of encryption could be
+used in Yahoo Email, Gmail Email, SMTP
+Email.
+
+■	It could be used inside of a Word
+Document being uploaded to a free file
+website.
+
+■	It could be used inside of a private
+message sent through Facebook.
+
+Etc.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How can we tag anytime we see that type
+of encryption regardless of the application
+we saw it in?
+
+■	Answer - Fingerprints
+
+■	Think of Fingerprints as “attributes” of a
+session.
+
+■	A session can have as many fingerprints as
+is needed to best describe it.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+appid(1mai1/webmail/yahoo', 9.0) = 'Host : mail.yahoo1 ;
+
+appid("mail/yahoo/login, 8.0) = 'Host: mail.yahoo' and '/login';
+
+fingerprint{ 'mail/arabic') = 1 mail1 and /language[:=] ?ar/;
+
+GET /login.html HTTP/1.1
+
+Referer: http ://us.f359.mail.yahoo.com/ym/ShowLetter
+Accept-Language : ar
+Accept-Encoding: gzip, deflate
+
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SVl
+Hos t: mail.yahoo.com
+
+Connection: Keep-Alive
+
+Cookie: B=fn50ehd2612o2&b=3&s=rp; YMBM=d=&v=l
+
+Application: mail/webmail/yahoo/iogin
+Fingerprint: mail/webmail/yahoo/iogin mail/arabic
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Appid vs Fingerprint
+
+Each session gets one appid -- lowest level wins. It gets databased in
+the 'application' field.
+
+All matching fingerprints are stored in the 'fingerprint' field.
+
+Application Type;	V	
+Application Info:		y Winning appid
+Application:	Vi	w Winning appid +
+		fingerprints
+AppID		iPopulate with Field Builder]
+C'+Finaerprints') ffulltextl:		fPopulate with Tree Field Builderl
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Fingerprint Examples
+
+Ex: E-Mails with encryption
+
+From: "Launchpad OpenPGP Key Confirmation" <noreply@launchpad.net> [Slave Address] [Block Sender
+
+Subject: Launchpad: Confirm your QperiPGP Key
+Date: Wed. 31 Dec 2008 10:04:16 -0000
+
+...BEGIN PGP MESSAGE.....
+
+_______________________Vp.rsinir GnnPG v1 4 R fQNU/l inmri_________________________________________________________
+
+Application	AppID (^Fingerprints)
+
+mail/webmail/outblaze	mail/webrnail/outblaze has_fingerprint encryption/pgp encryption/pgp/message
+
+spflvtVPZsH vp gG7Vd H F U p rgvOJ p rnj QI b73 gWmh b OUrZzy G dDRIa9 C cF zJA7 01L
+3XyCrlniniJ4/c98+khDazh1XY/S7yNi38Wrlkd3GOz9DFFI1Nu31nwjh3+ncOpv
+OlyztsQzLFBy8+qJrPvmK8fzz7tWp2djxyfMGoAYNAf/QOohROBjqTgOUIqLRVrE
+eEFivrMOnBx€OSHIFra7LpZlsTUFpBJNAkgguk7m8fJOdMmUOV5MeM1x8GuWv5+
+Uk4bBwwZ1VpEVHCyGuv6ux+V+KpSkQtDwdhlp12SZ2SUm1 upnVBSlfcnlhWvxZp
+La Y3 mXqNWh y h z F P Fx k hUwq z d/rM x rCJu cfXG a eis S i zZDIG O WxTSwe7 BwvGS B vn r
+QEQVKY30vWg+2pDTPrKq3uEqOwj9JY7KTPMrf2gZLNABDuCJm5IRALZqqETTg4dh
+xV0r9+2ZLtyGDXQhLMyBEIYns4+jiP1 rd3E+TW7JVUe/dPluyC4DwOUPklwuHcC+
+
+StLAu QHM S6Rk B4 aDNd ¡6 QG9 kEWvjq2 PvfuM I BWoSj JS RF oDS x8q5t 1 uk g eCx rßx r
+Q4eTmOFTIA71G312Xa7ZniOzyxiWZ4CAbhHLF+3baFD3lb4/EFmRvPBdqy6wUyHD
+Z5 EXy FIDz l4XIDy E e/a o m E q AsUq P sSMZirH H z pb a S3Lb G5 B5 VKAKU59 b E N pf/KÖ gT
+a3IUAeG1lBxLzgToVdfhEkPj5b>cODrWcZtHeTEt1 nV+3pc2P58+QICDOETiDCA/j
+dh G2b rU wbx n y6Ap7fU5 e 1ALU3 ry oXKvt9 e CXZH o o Y/p9Q 103 ko H CWpt G DGg KC x It
+KW/K5M+HkxhHy4V7Wb137CStzeLda8BdU43Kh0ZQWWjK7pDXKKhHLYIGIawRScQa
+e6 J +y4 J R1 KKyXiX Y94 E rx a /PO FzuYV/GCJUDp q W F R22 bXu y 4 F h k o s LWM8 G +U B H Vt
+UfgRxq3as60DhBDWyÜ3eLEAdE92TVffJgXOvAOzTqBrP7uZi/Q7ABFFGTQ9n
+=N4CJ
+
+—END PGP MESSAGE—
+
+Thanks,
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Fingerprint Examples
+
+What caused those fingerprints to hit?
+
+Application	AppID (+Fingerprints)	,
+
+mail/webmail/outblaze mail/webmail/outblaze has_fingerpriniencryption/pgp encryption/pgp/message
+
+Look at the definitions (notice any overlap?):
+
+fingerprint('encryption/pgp') =
+
+'begin pgp message' or 'begin+pgp+message';
+
+fingerprint('encryption/pgp/message‘)=
+/(?:BEGIN|END) PGP MESSAGE/;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 G
+
+O IO G
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Ex: Extremist Forum Private Messages
+
+0 HTTP Header Int imation	Content Type: HTTF'/POST/Form-Data
+
+POST /vb/private.php?do=insertpm &pmid= HTTP/1.1
+
+Accept:	Image/gif, Image/x-xbitmap, image/jpeg, irnage/pjpeg, ap plicat I on/x-shockwave-flash, application/vnd.ms-excel,
+
+application/vnd.ms-powerpoint, application/msword, */*
+
+Referer:	http://al-faloja.info/vb/private.php?do=newpm&u=9692
+
+Accept-Language: en-gb
+
+Content-Type:	application/x-www-form-urlencoded
+
+UA-CPU	xS6
+
+Accept-Encoding] gzip, deflate
+
+User-Acient:	Mozilla/4.0 (compatible: MSIE 7.D: Windows NT 5.1: FDM1
+
+Application	AppID (+Fingerprints)
+
+m,iil.wel>nv,iil.vl>iilletin.priu,ite_messaijelnsert Ivas Jiivgerprint foriim/extremistAil-f^loja
+
+recipients
+be c recipients
+title
+
+r«r0
+
+IjuLlio Lof2009-01 -00I ~a i 430	0S	^C-Luio-¿UI (jL-i=AU|^»5&La_CLil c^LinilI	11—Ijpxil	s C-ii.i.ii
+
+¿üjl_j.i-.-ijI	ciil_jj	c_Ju_=ûj dxJi cliii-. ^jLlqjI 4jLo«ÎI ^ übrfioSl XijK	jLüj.- jxlijîLo îcà	I 4_mL-JI ül_^iî lAJjil
+
+■_jl_L-^jii-U b.
+
+message
+
+La.Ilz,._j i — I ■ a 11 f	I LaJ I ^ jLmîl^ I^jLcUj (y |Ä_==. I jdil jA-Jîl tilljß f —tj. pC- jil I_clü 4â_^-hiiû _;lC ijuljfâ i’ 'ijlLuüÎ ^=.I f^À £jjJci Lz=^«jüI pJbaJ-Lül_j
+
+Ài:dl 4 *1	11	4 Il/l. .-.Ül üljiül Ü)_ÿâi .1 ^_9 A-,lui--. ^Jjuiü JüLuli. ^9_A_? r3AJ_? C| Â/lTr c—ii-=ûJ C-l-lLjLnâJL-ai I A llï>. -.g U (=A	ll^2c II.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+AppID vs Fingerprint
+
+AppIDs and Fingerprints use the exact same
+language inside of XKS.
+
+■ You can tell which one it is by the definition:
+
+appid (mail/webmail/yahoo)
+fingerprint (encryption/pgp)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+V i I 1 f jO \ \ i Ü )! * ( * ' . î î i	âS
+
+AppID/Fingerprint Language Evolution
+
+There have been 4 generations of XKS
+AppID/Fingerprint languages
+
+■	1st Generation: Simple Keyword Scanning
+
+■	2nd Generation: Context Aware Keyword
+Scanning
+
+3rd Generation: Code based
+AppIDs/Fingerprints
+
+■	4th Generation: Code based AppIDs that can
+extract meta-data (also known as Micro
+Plugins)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+1st Generation AppIDs/Fingerprints
+
+■ In the beginning, AppIDs and Fingerprints
+were just keyword scanning similar to
+CADENCE tasking Ex:
+
+appidCmail/webmail/yahoo1,9.0) =
+
+'Host: mail.yahoo';
+appidfmail/yahoo/login, 8.0) =
+
+‘Host: mail.yahoo' and '/login';
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+1st Generation AppIDs/Fingerprints
+
+
+
+1st Generation would also support Regular
+Expression (REGEX’s):
+
+fingerprint('encryption/pgp/message‘)=
+/(?:BEGIN|END) PGP MESSAGE/;
+
+(instead of quotes REGEX’s are enclosed by
+forward slashes)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+1st Generation AppIDs/Fingerprints
+
+■ As well as Hex scanning:
+
+appid('database/ms_sql_server(tds)/login', 7.5)=
+
+'\x06\x83\xf2\xf8\xff\x00\x00\x00\x00\xe0\
+
+x03\x00\x00\x88\xff\xff\xff\x36\x04\x00\x00';
+
+(Hex characters are prefaced by \x)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+2nd Generation AppIDs/Fingerprints
+
+■	2nd Generation AppIDs/Fingerprints
+introduced XKS’s context sensitive scanning
+engine.
+
+■	For example, rather than scanning an entire
+session top to bottom to look for
+‘facebook.com’ we can just use the
+dictionary context http_host to target the
+scan for the host field only.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How do AppIDs work?
+
+AppID’s are effectively looking for
+in order to assign the AppID tag.
+
+key wo r
+
+■ Example, this is the definition for Hi5
+
+appid(,mail/webmail/hi5\ 6.0')=
+
+'hi5loggedln'c or
+http_hostChi5.com') or
+html_title('hi5');
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+What do AppID’s look like?
+
+If you look at the raw text of this traffic, one
+of the definitions for the mail/webmail/hi5
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 0!
+
+I (jí) I i oo 1 * t
+
+i no i idoi ion
+
+2nd Generation AppIDs/Fingerprints
+
+.
+
+r
+
+■ Example:
+
+Sfacebook =
+
+html_title[1Facebook1 ) or
+http_host[1 .facebook.cora 1J;
+
+appid[1 social/facebook1, 3.O, webproc=1Facebook1) —
+
+$facebook;
+
+Note the use of the chain word $facebook in
+the AppID definition
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10 01
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+2nd Generation AppIDs/Fingerprints
+
+
+
+
+
+Sfacebook =
+
+html title(1Facebook1) or
+http_host(1.fanebook.com1J;
+
+appia ( 1 social/f acebook 1 f 3.0, ■webproc= 1 Facebook 1 ) —
+
+$facebook;
+
+GET /yo ville/vie w_ gifts. php ? giftskip=l &ist=l HTTP/1.1
+
+Accept:	image gif, image x-xbitmap, image/jpeg, image/pjpeg, application x-shockwave-flash
+
+Accept-
+
+T	en-us
+
+Language:
+
+Connection:
+
+Cookie:
+
+*; MSIE 7.0; Windows NT 5.1)
+
+Keep-Alive
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+nd Generation AppIDs/Fingerprints
+
+Sfacebook =
+
+html title[1Facebook1J or
+http_host ( 1 . facebook. corn 1 ) ;
+
+appid(1social/facebook1, 3.0, webproc=1Facebook1J
+
+$facebook;
+
+All of these hosts
+would match this
+AppID:
+
+7
+
+Host
+
+platfomi.ak.facehook.com
+
+vthumh.iik.facerjook.com
+
+creative.ak.facehook.com
+
+wvww.facehook.com
+
+apps.facehook.com
+facehook.com
+
+03458988335.chaiiiiel32.facehook.com
+static.ak.facehook.com
+h.st atic.ak.facehook.com
+0388l4l7000.clianiiel32.facehook.com
+hatlge.facehook.com
+
+TOP SECRET//C0MINTWRELT0tJ5M, HUS, LAN, LBR, I02.L
+
+■ Example:
+
+Skaspersky_ip =
+
+±p('80.239.144.72 ') or
+ip('80.239.144.73') or
+ip('80.239.144.74 1 J or
+ip('80.239.144.75 1J or
+ip('80.239.144.76 1J or
+ip('80.239.144.77 1J or
+ip('80.239.144.78 ') or
+ip('80.239.144.791J;
+
+ap p id(1 antivirus/kaspersky1, 1.0) =
+
+Skaspersky ip;
+
+appid(1 antivirus/kaspersky/updater', 5.0} =
+
+port(21} and $kaspersky ip;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+Can you tell what’s going on here?
+
+appid('mail/webmail/netlog1, 8.0, ■webproc=1Netlog1) =
+
+html_t±tle(1Netlog1cj or
+ht t p_ho s t(1.netlo g.com1) or
+
+http cookie (/doinairF . {3,10} \ . netiog\ . corn/}
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+m
+
+■ Mobile User Agent fingerprints:
+
+fingerprint('browser/cellphone/iphone1J =
+
+browser(1 iPhone 1J ;
+
+f inge r p r int('hrowser/c e ilpho ne/mot o roia'J =
+
+browser('MOT-'c or 'motorola'J;
+
+f inge r p r int(1browser/ce1lpho ne/so ny_e ricsson1J =
+
+browser(1SonyErrlesson1J ;
+
+f inge r p r int ( 1 b r ows e r / c e lip ho ne /b la c kb e r r y1J =
+
+browser('BlackBerry'J;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+USSID18 Considerations!
+
+■ If you were to query on any of these
+fingerprints by themselves, would your
+auditor be happy?
+
+fingerprint(1browser/cellphone/iphone1) =
+
+browser(1 iPhone 1) ;
+
+I fingerprint('browser/cellphone/motorola1) =
+
+I	browser('MOT-1c or 'motorola');
+
+fingerprint('browser/cellphone/sony_ericsson1 ) —
+
+browser(1SonyErricsson1);
+
+■	f inge r p r int ( 1 b r ows e r / c e lip ho ne fh lac kb e r r y1 ) =
+
+■	browser(1BlackBerry1) ;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+USSID18 Considerations!
+
+■ But if you were to query on an Afghan IP
+address that was a valid foreign intel target,
+and then “AND” it with those fingerprints,
+that would be a USSID18 compliant query
+(and your auditor would be happy)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+3rd Generation AppIDs/Fingerprints
+
+■	3rd Generation AppIDs/Fingerprints
+introduced the ability to have code-based
+scanning
+
+■	Why is this important? Because scanning
+sessions for keywords, hex values and
+regular expression can only take you so far.
+
+■	Using Code-based AppIDs, we can run
+statistical tests of the data that can help
+determine what type of data it is when
+keyword scanning can’t give us a result.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+4th Generation AppIDs/Fingerprints
+
+■	4th Generation AppIDs/Fingerprints
+introduce the ability to extract and database
+meta-data from Appid/Fingerprints
+
+■	Why is this important?
+
+■	With the dynamic nature of DNI applications
+we need the ability to quickly react and
+deploy solutions to extract new fields of
+meta-data that are important to analysts
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Generation AppIDs/Fingerprints
+
+Previously, if we identified a new protocol or
+a new field that we wanted to extract meta-
+data, we would need to upgrade a “core”
+plug-in and wait until we could upgrade the
+field sites.
+
+With 130 field sites, each on their own
+upgrade schedule, this could take months for
+a simple change to get out in the field
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+4th Generation AppIDs/Fingerprints
+
+■ With 4th generation AppIDs, a new protocol,
+meta-data value, can be properly processed
+within an hour of updating the
+AppID/Fingerprint.
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HI 1 11 J! Hi).	• 1 I i
+
+4th Generation AppIDs/Fingerprints
+
+■ Examples:
+
+appid(1social/facebook/chat/to_server1, 1.0) =
+
+http_host(1facebook.com 1) and
+
+$http post and
+
+url ( ' /aj a:-:/chat./send, php ' )
+
+: c++
+
+extractors = {{
+
+login_email = /login_>:= . * ([a-s0-9_\-\ . ] {30} %40 [a-s0-9_\-\ . ] {30}} /;
+text = /msg_text= ( [A ■?.\ n\ r ] + J /;
+
+}}
+
+main = {{
+
+if (login_email) {
+
+xks : ruser_activity t ua("chat", "f acebookrr) ;
+
+ua.client.add(xks::urldecode(login_email[0]J, "facebook");
+
+ua. apply (} ;
+
+}
+
+if (text) {
+
+xks::chat_body(xks::urldecode(text[0] ) } ;
+
+}
+
+return true;
+
+}};
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Let’s take a closer look:
+
+■ First a V4 AppID needs to be “anchored
+The anchor is the beginning part of the
+AppID
+
+ap p id ( 1 sociai/f acebook/chat/to server 1 ,	1.0 J =
+
+h11 p_ho s t ( 1 f ac ebo o k. com 1 ) and
+
+$http post and
+
+uri[1/ajax/chat/send.php1J
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+DNI Presenter Display:
+
+			
+Formatter:	DNLPRE5ENTER	zi	Send to; Download Session
+
+UIS Web Form Display
+
+Form Fields
+
+msg_id
+client time
+
+1250642180342
+
+to
+
+nutnjabs
+
+pvs_time
+
+msg_text
+
+post_fbrm_id
+
+fb_dtsg
+
+1
+
+1250642145719
+dont u still recognize me?
+
+ecba326db 1 d050497ßal 8f8924fa8fd
+GMFF9ISnWX8AX_L7ID-k3N7cL38E
+p o s t_fb rm_id_s o urc e	A syncRe que st
+
+___a	1
+
+nctr[id]	c3455fl63d438fblec7c5a5430fa9432
+
+nctr[nid]	46fcef7f3clf286b4d	le	0246c	2d734aÜ
+
+nctr[ct]	1250642184720
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+r
+
+■ Lets look at the raw:
+
+Session
+
+Header (3) Attachments (3) Meta (9)
+
+Formatter:
+
+ASCII
+
+
+
+Send to; Download Session ™ J Mode: Snippet
+
+Options
+
+
+
+Search Content:
+
+Enter text to scare
+
+»
+
+P 0 ST ht tp: / /uw. f ac eb o ok. c om/ a j ax / chat / s end. php HTTP /1.1
+Host: ww. facebook. com
+
+User-Agent: Hozilla/5.0 (Windows; U; Windows HT 5.1; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9ir'i,r/'i,r;q=0.8
+
+Accept-Language: en-us, en; q=0.5
+
+Accept-Encoding: gzip,rdef late
+
+Accept-Charset: ISO-8859-1,utf-8;q=Q.7,*;q=0.1
+
+Keep-Alive: 300
+
+Proxy-Connection: keep-alive
+
+X-SVN-Rev: 181721
+
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http: //wro. facebook. com/editpicture.php?success=l
+Con tent-Length: 366
+
+Cookie: datr=1248211999-a94dd86bll6554d2b5fd014801005bb7e7b6b886c627c920a4e03; s_vsn_facebookpocJL=1640694104
+Pragma: no-cache
+Cache-Control: no-cache
+
+msg_id
+
+client time=1250642180342icto
+
+:num_tabs=1&pvs_time=1250642145719 &ms g_ tex t=dont% 20t
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ The “anchor” of this V4 AppID was present:
+
+ap p id ( 1 sociai/f acebook/chat/to server 1 ,	1.0 J =
+
+h11 p_ho s t ( 1 f ac ebo o k. com 1 ) and
+
+$http post and
+
+uri[1/ajax/chat/send.php1J
+
+
+
+»
+
+IPOST http://mm. facebook. cof/a3ax/chat/send.php| HTTP/l. 1
+H q s t: ¥w. £ ac eb q q k ■ c q hi j
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows WT 5.1; en-US; rv:1.9.0.13)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+■ Once the “anchor” hits, the rest of the code
+executes. In this case, we’re looking for
+these two REGEX’s from the “Extractors”
+section:
+
+extractors = {{
+
+log±n_ema±l = /login_x=.*([a-z0-9_\-\.]{30}%40[a-z0-9_\-\.]{30}J/;
+text = /msg t e x t=([A &\n\r ] +)/;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+) 10
+lûû
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+This REGEX hits within the large cookie string
+
+login_email = /login_x= . * ( [a-s0-9_\. ] {3 G} %40 [a-zG-9_\	. ] {3 0} J / ;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+A close look
+
+login_email = /login_x=.*([a-z0-9_\-\.]{30}%40[a-z0-9_\-\.]{30})/
+
+=a%3A2%3A%7Bs%3A5%3A%22emai
+I % 2 2 % 3 B s % 3 A2 6 % 3 A % 2 2
+|	yahoo.com%22%3Bs%3A19%3A%22
+
+remember_me_default%22%3Bb%3A1%3B
+%7D;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ K
+
+The other REGEX:
+
+text = /msg text= ([ A&\n\r ] +) /;
+
+dont%20u%20still%20recognize%
+
+20me%3F&post_formJd
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Facebook Chat V4 Appid Example
+
+■ Finally, in the “Main” section, if those
+REGEX’s found the data they were looking
+for, they get databased
+
+main = {{
+
+if (login_email) {
+
+xks: :use r_activity_t ua ("chat", "facebook”) ;
+
+ua.client.add(xks::urIdeeode(login_email[U]J, "facebook")
+
+ua.apply();
+
+}
+
+if (text) {
+
+xks::chat_body(xks::urldecode(text[0]));
+
+}
+
+return true;
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+4th Generation AppIDs/Fingerprints
+
+y-----------------
+
+■ Another example:
+
+appid( 1 filetransfer/web/zshare.net/upload/response 1, 5.0) =
+http_title(1zSHARE1) and 'zshare.net/delete.htmi1
+
+:	C++
+
+extractors :	{{
+
+wft_f±le_nsme = /The\sf ile\s<strongxf ont\scolor=Vr#333333\ rr> ([*<] {1^300}) \s</;
+wft_delete_url = / 2share . net\ /delete . htKil\? \ [0-9]+) - ([0-9a-zA-Z ] {32 } ) W;
+
+wft_upioad_id = /<font color=\"#66G666\"><a href=\"http:\/\/www\.zshare\.net\/[A\/]+\/([AN/]+)/;
+wft__url = /<font coior=\ 6666S6\ "><a href=\"(http:\/\/iwww\.zshare\.net\/['A'\/]+\/[A\/]+)/;
+wf t_uploader_usernaitie = /<small>Logged in as; ([A<] +) <\/smaii>/;
+
+}}
+
+main = {{
+
+if (wft_delete_url )	{
+
+DB [ ”web_f ile_transf er"] [ "wft_upload__id” ] = wf t_upioad_id [0];
+
+DB [ "web_f ile_transf er,r] [ "wf t_deiete,r ] = wft_deiete_ur 1 [0]+"-,r+wf t_delete_uri[ 1 ];
+
+DE [ "web_f ile_transf er,r] [ "wft_site_name" ] = "2share. net";
+
+DB[”web_f iie_t r ansf er"]["transfer_type”] = "upload”;
+
+if (wft_f ile_naitie) {
+
+DB [ r,web_file_ transferrr] [ rrwf t_f ilenarne" ] — wft_f iie_name[0];
+
+}
+
+if (wft_url) {
+
+DB[”web_file_transfer"] [”wft_url"] = wft_url[0];
+
+}
+
+if (wft_up ioade r_us ername) {
+
+DB [ ,rweb_file_transferr'] [ ,ruplQader_\isername"] = wft_uploader_username [0];
+
+}
+
+DB.appiy () ;
+
+} else {
+
+logger.debug("filetransfer/web/zshare.net/upload/response: Host regexs didn't match");
+
+}
+
+return true;
+
+}};
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+FFU Successful Upload Pages
+
+Welcome to SHARE
+
+"With zSHARE you can upload files, images, videos, audio and flash for free. Simply use the upload form below and start sharing! You can also use
+zSHARE as your personal file storage: backup your data and protect your files. First Time? Read our FAC!
+
+•	Upload now
+
+•	Login
+
+•	Create Free Account
+
+•	Premium
+
+•	FAQ
+
+File Uploaded
+
+The file wok.nti was successfully uploaded! (18.48MR). You're now ready to share it with unlimited people or keep it as a backup.
+
+Download Link
+
+Link for forums:
+Direct Link:
+Delete Link:
+
+[URL=http://www.z s h0.re.net/downl 0 ad/643 8 345621 f085
+
+http://www.zsh are. net/download/64383 4 5621 f08561 /
+
+http://www.zsh are. net/del ete. html ?643834 5 6-77 9 93935e
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+FFU Successful Upload Pages
+
+r
+
+■ Again look for the anchor to hit in the raw traffic
+
+appid(1 filetransfer/web/zshare.net/upload/response 1, 5.0) =
+
+http_t±tle[1sSHARE 1) and 1zshare.net/delete.html1
+
+ktitle>zSHARE - Free File, Image and Video Hosting</title>
+
+value="http: //mm. zshare. net/delete. html ?i
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+FFU Successful Upload Pages
+
+Next look for the extractor REGEX’s to match
+
+extractors :	{{
+
+wf t_f ile_name = /The\sf±le\s<strong><font\scolor=\"#333333\">([A<]{1,300})\s</;
+
+class=rrtextlrr>The file <strong><font color=rr#333333rr>wok. rm </font></strong>
+
+Then database what was extracted
+
+main = {{
+
+if (ir.jf t_f iie_najme) {
+
+DB [ "web file transfer"][ prwft filename"]
+
+= wft file narrtefO];
+
+TOP SECRET//COMINT//REL T O USA, AUS, CAN, GBR, NZL

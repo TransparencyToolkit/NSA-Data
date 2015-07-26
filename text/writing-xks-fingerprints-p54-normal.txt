@@ -1,0 +1,10 @@
+﻿TOP SECRET SI’RAPi
+
+ommunication Based Contexts
+
+email_body(cxpr)	The UTF-8 normalized text of all email bodies. email_body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+chat_body(expr)	The UTF-8 normalized text of all chat bodies. chat_body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+document_body(expr)	The UTF-8 normalized text of the Office document. -  Office documents include (but are not limited to) Microsoft Office. Open Office. Google Docs and Spreadsheets.  document_body(‘how to’ and ‘build’ and (‘bomb’ or ‘weapon’))
+calendar_body(expr)	The UTF-8 normalized text of all calendars. An example is Google Calendar, calendar body(‘wedding’)
+archive_flles(expr)	Matches a list of files from within an archive. For example is a ZIP file is transmitted, all names of files within are passed to this context.  archive_files(‘bad.dU’ or ‘virus.doc’)
+http_post_body( expr)	The UTF-8 normalized text HTTP url-encoded POSTs, http post body(‘action=send’ and ‘badguy@yahoo’)

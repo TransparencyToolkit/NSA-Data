@@ -1,0 +1,10 @@
+﻿	TOP SECRET//COMINT//REL TO USA, FVEY
+
+first(expr)	Matches against a pattern at the beginning of the session
+Ipos(expr)	Matches against a pattern at the beginning of each line (\n)
+pos( expr)	expression occurs at offset X in the session  •	pos('Hello') == 5,  •	pos(/Good.*Grief/) <=10
+between( expr)	•	between('Hello’, 'World’. 10,100)  Separation between 'Hello' and 'World' is greater than or equal to 10 bytes and less than or equal to 100 bytes  This is the same as using the following regular expression:  •	/Hello. {10,100 } World/
+'term'c	Does a case sensitive match of the term
+'term'u	Treats the term as UTF-16
+
+TOP SECRET//COMINT//REL TO USA, FVEY

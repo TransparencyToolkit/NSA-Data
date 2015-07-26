@@ -1,0 +1,62 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//202911 23
+
+What kind of meta-data is produced?
+
+Tr
+
+
+
+□ Q Classic A-M
+
+^ ASF andWMV Metadata
+f] Alert
+f] BlackBerry
+
+ECNE
+
+[^] Call Logs
+Q Category DNI
+f] Cellular DNI
+f] Cisco Passwords
+¡:É] Document Metadata
+¡5 Document Tagging
+l^| Email Addresses
+^Extracted Files
+g Full Log DNI
+m HTTP Activity
+Üzl IRC Cafe Oeolocation
+Logins and Passwords
+
+5
+
+a-
+
+;e
+
+t
+
+30 Classic N-Z
+
+IS Network Logs
+l^l PDF Metadata
+
+Spilbeam
+
+S Phone Number Extractor
+f]RBGAN
+S REGISTRY
+
+1SRTP
+
+\S Radius Logs
+¡^1 RealMedia Metadata
+SSIP
+STOR Log
+
+f]Tech Strings in Documents
+User Activity
+if] WLAN
+f] Web Proxy
+f Wireshark
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

@@ -1,0 +1,12 @@
+﻿TOP SECRET STRAPi
+
+Syntax Rules
+
+• The definition of the fingerprint will look like this:
+
+fingerprint(‘test/blah/something’, owner =	=
+
+Note the single quotes needed for the fingerprint name
+and owner
+
+TOP SECRET//COM1NT

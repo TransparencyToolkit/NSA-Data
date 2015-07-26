@@ -1,0 +1,21 @@
+﻿TOP SECRET//COMINT//REL TO USA. FVEY
+
+Microoluains
+
+Example: throwing a document_metadata event
+
+fingerprint(1maps/google/contrived1) =
+http_host('.google.1) and url(1/maps?')
+
+: C++
+
+main : {{
+
+xks::doc meta_t dm;
+dm.filename = "google.txt";
+dm.author = "Google, Inc.";
+xks::document_metadata(dm);
+
+}};
+
+TOP SECRET//COMINT//REL TO USA. FVEY

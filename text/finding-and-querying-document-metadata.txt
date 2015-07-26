@@ -1,0 +1,849 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+Finding and
+
+Querying on
+Document Metadata
+
+tooz|/
+
+1
+
+Booz|Allen| Hamilton
+
+Sigint Development Support / SIGINT Technical Analysis (SDS/STA)
+
+April 2009
+
+
+
+
+
+Derived From: NSA/CSSM 1-52
+
+Dated:200701Of
+
+:
+
+
+
+ssify On: 202911
+
+DERIVED FROM: NSA/CS SM 1-52
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20291123
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Agenda
+
+Why to Query on Document Metadata
+How to Find Document Metadata
+
+■	e.g. File - > Properties
+
+■	Google
+
+■ How to Create Queries in XKS
+
+■	XKEYSCORE Document Metadata and PDF
+Metadata
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+What?: Use	non-traditionalselectors to find
+
+and track targets sending/receiving
+documents of interest
+
+■	How? It targets documents by Author,
+Organization, or embedded images (logos)
+
+■	Why? We don’t always know WHO is
+sending the documents, but they are
+“guilty-by-association” if they send/receive
+the document. So, who are THEY?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Finding Document Metadata
+
+We find “Document Metadata” in File
+
+Properties
+
+XKEYSCORE_Terms.doc Properties
+
+*11 XKEYSCORE Terms.doc - Microsoft Word
+
+TO!
+
+[
+
+File
+
+Edit View Insert FurnidL Tuuls Table	Win du w	Help	Secret Ay eiil [ Ciassif
+
+d	New...	
+	Open...	Ctrl+O
+	Close	
+&	Save	Ctrl-j-s
+	Save As...	
+	Save as Web Page...	
+	Remove Hidden Data...	
+n	File Search...	
+	Versions...	
+	Web Pag© Preview	
+	Page Setup...	
+iA	Print Preview	
+éÉ	Print...	Chrl-t-P
+	bend i o	►
+| Properties		
+
+1 - H â) J J J il	
+J' H 1	==|= = = J= - | J
+• 2 • * *  1	1 •• • ^ • 1 • ••  1 • 1
+
+5TM4, STM 16, STM64, multi]
+
+1_ I l:yprivahp\anrlrftij\».Hnr
+
+2	U;\...\XKEY5CORE Tips and Tricks 4 op...
+
+3	U: \pri vate\Pre s entati on. do c
+
+± U:\private\..,\NIA Cross Training.doc
+
+5	U AprivateV\IIA\MSP.s\April 2000.doc
+
+6	C ADucui uei ilb ai id 5ellii iys\.. .\IMEI. due
+
+Z U:\...\NIA\RITCHIE_DNI_IWPS(re vised), doc
+3 U: V .. \XKS_krnkeith_tips7April. doc
+9U:\,, . \Zwakenberg, Garrit Trey IPWS.doc
+Exit
+
+S« P-dX
+
+General
+
+5ur
+
+lontents
+
+Custom
+
+Mi:
+
+Subject:
+Author:
+Manager:
+jrnpany:
+
+Category:
+Keywords ^
+Corapfrents:
+
+Hyperlink
+
+base:
+
+Key score Terms
+
+Joe BaggaDonuts
+
+2 MF A 2 endian MFA|
+
+If unique, these Document
+Properties can be targeted
+
+Template:	Normal, dot
+
+]Save preview picture
+
+OK
+
+Cancel
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+How do you find document metadata?
+
+■	Passive Collection: Collected Documents already
+contain data
+
+■	Active Collection: CNE “Categorized Collection” from
+TUNINGFORK Data or Pinwale Queries on “US-3101”
+
+■	Open Source: Google Hacking
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Finding Document Metadata
+
+Y
+
+ID
+
+To
+
+From
+
+48	.corn"	jom>
+
+49 ^.com" •1t!£!^i^Î?^>i:!ioo.co!v,>
+51
+
+41	iazec1ifl^[ç^@^--nil.com>J "abu zubeer
+
+C(
+
+B(
+
+Date
+
+Subject
+
+Size(K) Type
+
+"DESTÖCKPRÖ" <des'
+
+5/15/20 08 6:3i :35 P M ARRIVAL E G STAR D ö L C E&GAB B AN A DIESEL
+
+"T 3,-ÇJpt ZhW."'' ■ i Ft- 'y,_
+
+5/16/2037 9:36:13 PM
+
+5/15/200811:14:32 PM
+
+Confirmation: Target Card
+
+32|"!'ftrMi?S@ÿ
+
+
+
+o; ■*<->	.1 •
+
+
+
+5/15/2008 3:05:25 PM Las Villas de Dubai
+
+5/15/200811:15:21 PM skrivut
+
+51
+
+- C .Va in" Wf&CC™B! -Scf&zte * *	5/15/20 0811:14:32 P M
+
+16 text/html
+2 text/html
+1 text/html
+
+3S98 application/octet-stre
+
+452 applicationArisword
+
+50 application/ïnsword
+452 applicertion/ïnsword
+50 application/lnsword
+
+Display original | Raw | SMTP header | Cl [Properlies j J) | Control | C2C | Trailer | Collected Doc | Search Kwd
+
+Document Properties
+
+Category
+Company
+HiddenSlideCount
+LineCount
+LinksUpToDate
+Manager
+MMClipCount
+NoteCount
+ParagraphCount
+PresentationTarget
+ScaleCrop
+SlideCount
+Ai
+
+Author
+Chan
+Comments
+DateCreated
+SeeurityLevel
+
+0
+
+29
+
+False
+
+29
+
+29
+
+8
+
+3FjFlFj_ applinflitinn/nrffft-atrfiar bas
+
+452 application/tmsword
+
+*K
+
+bas
+
+5/12/2008 3:13:00 AM
+none
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+■ Active Collection: CNE “Categorized Collection”
+
+from TUNINGFORK Data
+
+Collection
+
+No EP user information found.
+
+Raw Project Detailsfs3115 only]
+
+Mailbox Collection
+
+Last Collection [limit 3 dates 2008-08-29
+
+listed]; 2008-08-27
+2008-07-19
+List Ail
+
+Collection
+
+^Categorized Collection
+
+TUNINGFORK
+
+Cipher (8) J
+
+Cipher
+
+Microsoft (277^
+
+Multimedia (17) J Mail (35) J Inst Msgr (9) J VOIP (1642)ü HTF
+
+EH Show Pat	Excel (2) Execs (4)	Filename Extension AT AT	Collected  AT	Size  AT
+« 81e0bd	Ini files (2)	21-4a68af648ec5	2008-07-19	388
+	Other Office (5)			
+« b850ea	PowerPoint (0)	:ld-3dffb4d38926	200S-Ü7-19	388
+	Thnmbs.(ll) (12)			
+« 0c6527		B0-cledl756266f	200S-Ü3-13	388
+— ] - H ~7 - ,-1 r> — ,-,,-,1- U. OOCO -1 ,1 CT ,1 - IT CT					
+
+To find Document Metadata in TUNINGFORK,
+you must view each Document in Categorized
+Collection (manual intensive)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Using XKEYSCORE to query on CNE data
+
+Open Source: Google Hacking
+
+Advanced Search Search Tip Help
+site:co ms ats. net pk filetype : do c
+
+Google Search
+
+
+
+Search by domains
+
+filetype:xls
+
+filety'pe:pdf
+
+■ “site:comsats.net.pk”
+
+■ Search by file types
+
+> “fi letype : pdf” or “filetype:doc”
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+0 01
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+How to find Document Metadata when you have
+NEVER collected a document
+
+III, A
+
+ieMJ
+
+Employee L^t
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+Take Client’s (Active User) IP address and query
+on it in XKEYSCORE
+
+Search! Document Metadata
+
+Extension:
+
+pptordocor pdf orxls
+
+Active User:
+
+IP Address:	39.
+
+yahoo.com
+
+Either	V
+	
+
+ACTIVE_ITSER ACTIVEJJSERJEP .				
+		<yahoo> 39.		-
+		<yahoo> 39.		
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Targeting Document Metadata
+
+Use XKEYSCORE to Find Who Else is
+sending the files?
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+✓
+
+Take “File Properties” information and fill-in qu
+
+Joe BaggaDonuts
+
+ZMFAZendian MFA
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+
+
+Sample Query
+
+Sample Query:
+Organization = PTCL
+To/From Country = Pakistan
+
+Search: Document Metadata
+
+Language:
+
+* Comment* ffulltextl:
+
+File/Embedded Image
+Hash ffulltextl:
+
+Metadata Name:
+Metadata Value ffulltextl:
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Document Metadata Analysis
+
+Sample Query (Results)
+
+Previous Slide produces these
+
+results
+
+Filename
+
+Instructions to Kunar province bidders community midwifeiy.
+Instructions to Kunar province bidders community midwrfeiy.d
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Imaaes
+
+■ Turn a logo into a selector
+
+= SIGINT VALUE
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+XKEYSCORE parses out logos from within documents
+(PDFs, DOCs, Outlook Emails, etc) embedded as images
+
+Oj
+
+
+
+Logo/lmage 32-character
+hash can be parsed out and
+queried.
+
+Ol AJAB Lq ■« ^9 ÇLQ I	IkO ■ ^ I U» ; £■ oapoaJ I
+
+
+
+Ml
+
+! Ißin J-SLf öjöLxII Ol-LaJ^U-oJb 6jj^-XjdJI olS"ojJoLXjD I^?^j oI ¡pipoqjJ 1 cjJI bjLxrVL
+
+olkj?iUI	jûuujI  öS jJtiUJI	v-S-La) 1
+MB L2 On Chip Cache per Processor 2* System Controller Card 1* Solaris 10 03/05 HW1 Operating System Preinstalled*	MDS	Sun Fire V49Q Server
+« C % r .1		
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+Files often contain embedded images, such as company logos.
+
+Step 1 : Identify if a document
+HAS an image in it
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+Datetime
+
+Case Notation
+
+From IP
+
+2009-03-26 15:54:50
+
+YM.PGQXXXABDDTC
+
+Session
+
+Header (3) Attachments (6) Meta (3)
+
+Formatter:
+
+AUTO
+
+V
+
+Quick Clicks
+
+(■«’I Retrieving Attachment...
+
+Session
+
+0	Attachments
+
+1	a%.sigint
+
+□ image_surnrnarv_mont
+¡mage_si_immary_mi
+0 !££ document_meta
+
+■■c:_documents and s
+a ? unknown
+10 ? text
+
+? document_body.ia-ij
+
+? document_body.*j) J
+a [**1 image
+
+a-g]jpeg
+
+Qb3d7853e4bfde7087
+0^?" office
+a1? pdf
+
+^ C:\Docurnents and i
+
+a lx UlMflllHIBna
+
+0 Find opposite side of sessi
+
+| 1...:0 ->
+
+: 0
+
+a Find More Docs with Same
+635ed0657cfe25b7790f
+b3d7853e4bfde70874cf
+
+Step 2: Open
+Document and click
+on Tull Session
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+r
+
+Session Header (3) Attachments (6) Meta (3)
+
+ormatter:
+
+AUTO
+
+TSSK3TÓ7 DbWrifoa'd'SessTofT^ | Mode: Full Session |	j Search Con
+
+Quick Clicks	«
+
+Session
+
+a?& Attachments
+M 3 sigint
+
+B '¿( image_sumnnary_mont Usjng IMAGE forma(|
+image_sumrnary_mi
+0document_meta
+
+?i(c:_documents and s
+B ? unknown
+a ? text
+
+? document__bodyi
+
+? document_body.“j) v
+a i** | image
+
+a
+
+' b3d7853e4bfde708
+a 7? office
+j a^pdf
+
+*/’ C:\Documents and $
+
+b ESESaESlSSBl
+
+d Find opposite side of sessi
+:0 ->
+
+Step 3: In left-side menu bar, select an
+image and copy/paste the 32-character
+name (without the extension)
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+Step 4: Paste the 32-eharacter name
+into the “Fiie/Em bedded Image Hash”
+Field in the Document Metadata query
+
+06) Classic A-M
+
+0 ASF and WMV Metadata
+i-S Alert
+0BlackBerry
+;-0CNE
+■ 0 Call Logs
+•■•0 Category DNI
+|-0 Cellular DNI
+0 Cisco Passwords
+0 Document Metadata
+
+¡-=3 Pinr-i imprrf Tannino
+
+Fields ▼ Advanced Features ▼ Show Hidden Search Fields Clear Search Values Reload Last Search Values
+
+Search: Document Metadata
+
+File/Ernbedded Image
+Hash ffulltextl:
+
+b3d7853e4bfde70874d402e3d6cfe10
+
+Step 5: Select all of your good
+collection sites + SUBMIT!
+
+Search
+
+Databases
+
+Clear Checks
+[Reset Checks
+
+0 (xks-central.corp.nsa.ic.gov:qsummary)
+
+0 Australian sites (xkcentral2,dsd:xs_web_db)
+
+0 CARBOY (carboy-proxy,rl.r.nsa;carboy_web_db)
+0 CARDAMON (xkey-dsd.rl.r.nsa:xs_web_db)
+
+Cancel]
+
+Submit
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+Session
+
+Header (3) Attachments (6) Meta (4)
+
+Formatter
+
+i
+
+AUTO
+
+Quick Clicks	«
+
+ii i i-dy c: r?ui i ii i i-dr |,*_i i iui n.dye yuey
+| *	A
+
+□ document_meta
+
+c:_documents and 5etting5_usuari(
+
+0 ? unknown
+
+! la? text
+
+? d ocu me nt_body .SOLICITANTE .txt
+0®] office
+E)§5|] word
+
+Lffi|C:\Documents and Settings\usuan
+
+r ?./ mb masj-gi...
+
+□ Find opposite side of session
+
+i j s.....¡0 ->
+
+: 0
+
+3 Find More Docs «A«ith Same hash
+
+a97d82d06aaa9017cacbe5fe4b!2fl5c
+Sebd01ba02b7c037a91bdf29c4
+
+0
+
+!d50ea629ba399f9b9091
+’acf45e5f466d6ed99e484d877
+Find email address
+
+7a k i m n i issa íc¡) hntm a i I .nn rn
+
+
+
+Or... You can one-ciick query to create a new query
+
+Search: Document Metadata
+
+Query Name;
+
+One-click search on document hash: McG353
+
+Justification:
+
+Additional Justification:
+
+Miranda Number:
+
+loi lyuayc .
+
+*Cornment* ffulltextl:
+
+File/Embedded Image
+Hash ffulltextl:
+
+One-click search to find more documents with
+
+McG353ebd01 ba02b7c087a91 bdf29c4
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+Stand-alone files can be uploaded into XKS
+and images parsed out
+
+■	Useful for TAO collection that didn’t get into XKS
+(non United Rake)
+
+■	https://xks-centraLcQrD.nsa.ic.Qov/Qeneral/view file.php
+
+This system is auc
+CLASSIFICATION: TOI
+
+XKEYSC
+
+/ou can upload SOTF and D-124 files, as well as just random files (.doc, .ppt, etc.)
+
+Upload FileQ	I Browse...
+| Upload	
+
+This system is auc
+CLASSIFICATION: TOI
+
+To task the hex values for images in
+CADENCE or Query in PIN WALE, contact
+The Xtreme Target Pursuit Team
+
+S2I7 and^^^^^HS3114
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Embedded Images
+
+■ Questions on any of these tools or
+techniques, contact:
+
+
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

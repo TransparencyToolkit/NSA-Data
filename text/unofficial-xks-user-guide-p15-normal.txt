@@ -1,0 +1,31 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Document Metadata
+
+Document Metadata query allows you to search on document authors, organization,
+encryption*, and many other things about a document. This is extremely helpful if you
+have found a file attachment from a target (e.g. Brick-and-mortar targets, person, or
+Organization) and you want to see all of the other files they have sent. With the
+Document Metadata query you don’t have to know the email address of the person
+sending the document, you just have to know the document’s properties.
+
+“Most Microsoft Office allows uses to encrypt files by clicking Tools -> Options ■> Security and password
+protecting the files. The Document Metadata query looks for that type of encryption. It doesn’t look for
+PGP or oilier 3"1 party encryption.
+
+“How do I find a document's properties?”
+
+The easiest way to see this is to open a MS Office document and click on File •>
+Properties. To find the document properties for a file you target sent, the easiest way is to
+view the file in Agility and click on Properties.
+
+Finding your target’s file properties
+
+If you can view the target’s document in Agility, click on the Properties tab to show the
+target’s Organization and/or Author. If the fields are unique or random enough you can
+query on the term itself. If the Organization or Author aren’t enough to comply with
+USSID-18, then you must AND that query with supporting information (IP or Country).
+
+TOP SECRET//COM1NT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+15

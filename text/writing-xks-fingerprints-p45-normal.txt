@@ -1,0 +1,17 @@
+﻿TOP SECRET STRAPl
+
+Context Sensitive Scanning
+
+For example, take the first scenario:
+
+I want to look for documents from Iran that mention a banned item”
+
+Using the XKS context for Country Code (based on NKB
+information) and the XKS context for Document Bodies,
+this easily becomes:
+
+fingerprint(‘demo/scenarioi’) =
+
+cc(‘ir’) and doc_body(‘banned item’)
+
+TOP SECRET//CÜM1NT

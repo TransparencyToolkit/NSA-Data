@@ -1,0 +1,19 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123
+
+Plug-ins
+
+A single session may contain entries in multiple
+meta-data tables
+
+• For example, if a single session had a user E-
+mailing an attached word document the following
+plug-ins would extract meta-data:
+
+Plug-in	Would have extracted...
+
+Full Log	...bare minimum meta-data like To/From IP address, ports, casenotation, sigad etc.
+E-mail  Addresses	...any E-mail addresses seen on that page (including inside the attached word file)
+Extracted Files	...the filename and extension of the attachment
+Document Meta- data	...in addition to the filename and extension, any embedded properties of the word document like Author, last author, organization, date created, date last modified etc.
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

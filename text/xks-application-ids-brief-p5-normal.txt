@@ -1,0 +1,18 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//202911:
+
+Basic Search Patterns
+
+XKEYSCORE supports Boolean operations and regular
+expressions
+
+Raw text must be encapsulated between single quotes
+
+• 'search term'
+
+Terms can be combined with Boolean logic
+
+•	'search term' and 'another term'
+
+•	'search term' or 'another term'
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

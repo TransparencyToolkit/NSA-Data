@@ -1,0 +1,9 @@
+﻿Fingerprints 101: Getting Started
+
+•	The first step is to define the name of the
+fingerprint.
+
+•	To do that, follow the syntax below:
+fingerprint(encryption/archive/test_new’)
+
+TOP SECRET//COM1NT

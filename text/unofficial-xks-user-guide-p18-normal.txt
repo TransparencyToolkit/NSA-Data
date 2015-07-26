@@ -1,0 +1,28 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Creating a WorkFlow
+
+Workflows are periodic queries you can set up that run at specified times. They are great
+for sustained targets because they query the database for you (c.g. every night) and you
+can easily view the recently collected traffic without having to create a new query each
+day. They are also very helpful if you are performing target discover)' on a network and
+haven't seen much traffic yet on a selector. A workflow for an email address can bridge
+the gap between when you discover the selector (and you task it to UTT/Cadence) and
+when it actually makes it to the appropriate dictionaries).
+
+It’s important to understand that a normal (ad hoc) query is submitted when you hit
+Submit. Workflows, on the other hand, are created then submitted to the XKEYSCORE
+team for review. The XKEYSCORE team docs not review it for USSID-18 compliance
+
+(that’s up to you); they only review it to ensure your query won’t strain the system with too complex a query.  The first step in creating a Workflow is click on Workflow Central:	
+	XKEYSCORE
+rtyn« 4 worWow central	^Verch . Res«*« 3 Statistics ¡fi Ftefe'ences 0 Help
+	hi»tu: Query Type *
+d^SResuls	Clear Sdecticn
+
+Then click on Request on the left to start the Workflow Request Wizard, and then click
+Next.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+18

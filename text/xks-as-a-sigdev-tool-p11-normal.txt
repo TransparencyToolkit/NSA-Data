@@ -1,0 +1,12 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//202911 23
+
+xamples of "simple" Plug-ins
+
+Plug-in	DESCRIPTION
+E-mail Addresses	Indexes every E-mail address seen in a session by both username and domain
+Extracted Files	Indexes every file seen in a session by both filename and extension
+Full Log	Indexes every DNI session collected. Data is indexed by the standard N-tupple (IP, Port, Casenotatlon etc.)
+HTTP Parser	Indexes the client-side HTTP traffic (examples to follow)
+Phone Number	Indexes every phone number seen in a session (e.g. address book entries or signature block)
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

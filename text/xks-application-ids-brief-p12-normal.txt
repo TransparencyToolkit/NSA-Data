@@ -1,0 +1,27 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Example________________________________________
+
+appid('voip/sip/IMS', 6.0, wireshark='sip') =
+
+(’via: sip' or 'v: sip') and ’cseq:’ and (
+'p-access-network-info:' or
+'p-called-party-id:' or
+’p-charging-vector:’ or
+’p-charging-vector-addresses:’ or
+’p-media-authorization:’ or
+’security-verify:’ or
+’security-server:’ or
+’security-client:' or
+'service-route:' or
+'record-route:' and 'pcscf or
+'record-route:' and 'scscf' or
+’contact:' and 'pcscf or
+'contact:' and 'scscf or
+'proxy-authorization:' and 'pcscf or
+’proxy-authorization:’ and 'scscf' or
+'path:' and 'pcscf or
+’path:' and 'scscf
+);
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291123

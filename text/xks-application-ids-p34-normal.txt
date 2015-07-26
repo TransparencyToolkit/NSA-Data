@@ -1,0 +1,25 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+OIOOI I01
+10 10 01 '
+) 101 01000) "
+a 01 IOIOIO
+
+Code-based aooids
+
+Example -- verifying a length field:
+
+appid('netmanagement/ospf', 2, wireshark='ospf')
+protocol(1ospf')
+
+: C++ {{
+
+if (size() < 4)
+return false;
+
+const uint8_t *data = begin();
+return (data[3]==size());
+
+}};
+
+TOP SECRET//COMINT//REL TO USA, FVEY

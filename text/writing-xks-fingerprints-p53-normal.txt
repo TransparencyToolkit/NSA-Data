@@ -1,0 +1,12 @@
+﻿TOPSliCRETSTRAPi
+
+Protocol Contexts 1 of 2
+
+cc(expr)	The country (either to OR from) based on IP address cc(‘ir or 4pk')
+from_cc(expr)	The source country based on IP address from_cc(‘ir’ or ‘pk’)
+to_cc(expr)	The destination country based on IP address to cc(V or ‘pk’)
+protocol(expr)	The textual form of the IP next protocol, protocol (‘TCP’)
+next_protocol(expr)	The textual form of the IP next protocol. ip_next_protocol(’ 1T)
+mac address(expr)	fhe MAC address of the target network device. mac_address(‘00:16:3E:3F:BD:EF’)
+
+TOP SECRET//COM1NT

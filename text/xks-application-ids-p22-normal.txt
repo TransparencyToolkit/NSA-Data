@@ -1,0 +1,20 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+10 10 01
+) 101 01000)
+0 01 IOIOIO
+
+CHAINWORDs
+
+You can assign a pattern to a variable (CHAINWORD) and reuse the
+variable in many patterns.
+
+$sip = 'via: sip' and 'cseq:' and 'SIP/2'c;
+
+Now we can use this variable in future definitions:
+
+appid('voip/sip', 7.2) = $sip:
+
+appid('voip/sip/invite', 6.9) = $sip and 'INVITE';
+
+TOP SECRET//COMINT//REL TO USA. FVEY

@@ -1,0 +1,2641 @@
+﻿CNE Analysis in
+XKEYSCORE
+
+15 October 2009
+
+xkeyscore@nsa.ic.gov
+
+l@nsa.ic.gov)
+
+y
+
+>M 1-5
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+DERIVED F ROM: Ñ WCSSM 1-52
+DATED: 20070108
+DECLASSIFY ON: 20320108
+
+These slides are classified
+TS//SI//REL FVEY in their entirety
+
+data indicated as more highly controlled has been filtered out.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+
+
+• Tao is a collector
+
+•	analogous to field site
+
+•	Various formats based on collection
+"equipment"
+
+•	OLYMPUS vs UNITEDRAKE :: WC vs TU...
+
+•	SRI plus content produces "sessions"
+
+•	dnt payload format
+
+•	Significant overlap with passive, especially in
+terms of collected files
+
+•	office, pdf, ...
+
+•	Much unique opportunity
+
+•	Config files, registry, network information,...
+
+•	Beginning to feed standard analytic tools
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+•	PINWALE (storage/legacy)
+
+•	TUNINGFORK (aggregate data views
+and tasking/legacy)
+
+•	XKEYSCORE (discovery*)
+
+•	TURBOCHASER/MARINA (profiles
+[machine and user], future tasking)
+
+•	JOLLYROGER/TREASUREMAP (networks)
+
+•	TURBINE/PRESSUREWAVE/MAD
+(future)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+IMMhC'm
+
+1	
+HETT	
+vj roar	ifda r.'  ■Eg
+i ['] io k*	
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+-CNE D
+
+• US-3101 Bf C, D, E, F, L, M
+
+• UNITEDRAKE
+•TUCKER
+
+•OLYMPUS
+
+•	EXPANDINGPULLY (formatting issues)
+
+•	UNIX (very little, poorly formatted)
+
+• Not FISA, Not ECI
+
+• Data retention from 29 January (many
+projects not available until 15 May)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+CNE Related Searches
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZ
+
+"typical" day's CNE results
+
+Selecting all tables generated between ’2009-9-22 00:00:00’ and ’2009-9-23 00:00:00’
+
+Pulling hit data from xks-central.corp.nsa.ic.gov
+
+30 distinct users found 13998 results in 60 separate searches
+
+QUERY RESULTS (ad-hoc):
+
+userxxx email_addresses 22/10421 Iran NPS Domains userxxx_0808493001253628218_1
+f652856 documentjmetadata 11 /10S3 f6S2856_0 f652856_0631781001253611176_1
+useryyy tech 2/2 Iran Tech Search useryyy_0303242001253646149_1
+
+Distribution of Searches by type:
+email_addresses: 7
+extractedjiles: 32
+fulljog: 5
+
+document_metadata: 6
+phone_number: 1
+tech: 4
+registry: 5
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+XKEYSCORE Searches
+
+(live demo)
+
+
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+		
+		
+b r* *i	i < ' *!■	it* • j 1
+		
+T*11*<	i	; ! • i C  u
+
+
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZ
+
+1L*
+
+P>«t^siicd im5 tEc.5K-.yi-5 .J rscnotfiM O voohSÎWÏM5K»f 4:5 certiol ¿* Kniaoe X-KEV5C.
+
+J 3çwl:C:	£ aEAROIlIQfr *> DonsPeqs -X^, |	« Sea-... Q | KK.cjh f i> *tti4(<h«ig.. ( [J TLMWrCfti
+
+WÉSH
+
+Often Used FiOdfi
+
+m a	: Hi<i#fi:id JBtf 1 I Pf. w.ll	HilüTiri PQ
+
+XKFYSCOREWelcome crvemi! I nr. Out
+
+â_H)|w ¿â^jrrin ¿»Usars :-v Se^fi liWcr Kitov C*Y.»l	0 Sttt&fce : I TWnj : I Tastfr y SfryArccuY ÏK «K room tfrtsfc**
+
+,3 Jttrinttfi*
+-0 Clos-i-^A^«*
+
+Input Source (Project Name)
+Application
+
+■'■{jf'O ^Cpavbid/ayditnfo
+■prints) fr.ill.ovrtl cht_p*)bad/:rc<v3ei
+
+3 CNE
+3C®IL<j2s
+3 :*becrvDNI
+Q£*ftj« r.ti
+I	I yr- I SCtacPMMMrt*
+
+dnt_payload/file#£i_
+
+¿P^ieiiTwjyiii?
+
+dnt_payload/dir
+
+Limit to XKS-CNË
+
+-rCXVac&ohEtë
+3rUI-C*j DMI
+
+3HTT3 Actl/ty
+
+gHKEProet
+
+3-<aI liH M P-îiVA’u’U:
+
+Efefc N|
+^^LésER’*
+
+-~I Sthvok Leas
+
+ctot_pcr/badAapU*e±r€d$
+cftt_parjtoad/:onnlog
+s:gad chtjMr^bid/iatatrarrsiiri:
+
+rht jvr;
+
+Casenotabon cht_por;lc>)d/^rt_par>'tod
+c*rt_pavtoad/:tYkt
+Session 30 <D*J ID) cht_pcf;load/=ttct
+dhtjvplrvrl/'filf»
+chtjjavlcadrtieTirelut
+
+c*itj>»b)ci/pccnlo
+ctit par/load/<s\tyad3t3
+D&a -ength dntj^tod/istcKues
+
+:ropMk:o with ~ o d 2
+**• ipoDtilgcs v<ith r cc f
+
+Assocctsd Sosy jn .iH-»_y,i.)
+
+Rlnrk Number
+
+if
+
+session Longtfl
+Frorocol
+
+-
+
+performing a CNE specific search'
+
+11	**	^_:=Rr VcPMetA**	Task ma ID I
+
+
+
+Very similar to "CNE" search
+
+Tasking ID [
+arsonalD [
+
+TOP SECal
+
+Éj’ECrS-RV
+
+aw
+
+■J^Cd^rs-LCflS
+
+DS»'
+
+¿JSSLPsf«:
+
+31 ecn &w&3 n locmîi
+
+Externa Vetad3ta
+Field«; r ill »>:M
+
+P jyMlc-c viUiZf JS
+
+iwrms audited '¿"Jï-ml iî ar J iu'nin r.icfïti ka qïiî' ¿nu
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZL
+
+Results - Mozilla Firefox
+
+Etc =dr. '¿on Hfctoty Boci'ira-te iccte bteP
+
+* C X L&J PIT hU0&:/£&&-Ci6nU«J .corp.f6d.ic. wv:8443/. XE/5CCR
+[> Most -liityd __, S cit ejOfjfiiKS jscrciut: Ri J vechoURN	5(£ XKS-Certrat Jj* DonsPag»-x-keysc...
+
+& • |[Q- <&.cgl,
+
+PI
+
+•jj» DonsPage - X...	!;< XK Resu... £§ *X Lcgh	«43H (dvn...	d rumr^ropK	]> KK8: P.esufcs		»<5esr:h: Fu.
+
+Thic cyrtam ic airlit«-| fcrLSSil) Id and H irri*i 1«: rjhtr a-t rr-npliAn"»
+
+TOP 5CCRET7/COMIM 77RLL~ IQU5A. AUS. CAWTGDK. ond IMZL//ZO32UT00~
+
+uum i ifl	______
+
+XKFYSCORF WBlramR^^^H 1 n riiil~
+
+j^Ktome /¿Adnn ¿Iseis Search if Wcifclbuv Cental ».Resets £3 Sfcststbs i=racoh:| *=7asfehg 21 Wv Account *&XKFoiun Wltefp^
+
+fXaviqation *ienu
+
+1«
+
+«
+
+. f
+
+i-^ rnui; u ».ci l. xi f-i1.	|
+
+I- (g RBGAN
+E REGISTRV
+S RTP
+
+Q ROClJS leg-
+
+@SP
+
+[3 SS. Psfset
+¡3 Tech Strings n Docu n
+(3 DSC» ACSIvty
+g\ALAM
+
+E VvebHe iron:i«
+
+[3 Web Phx*y
+Ew%«shsrk
+
+lit l2~ Cawrcn
+UJ C3CKtcnc»v Hits
+G) OFift "tensrer
+0 OlMtiSsirch
+
+Id Qjliletvzoik Menegon -rt
+0 £jU3erACWty
+0 DVcIP
+0 CjW'dei!
+a^vwotttiow Ccit'd
+
+IWbrkffav/s
+
+gAI Psncng‘/'»'knows
+H" My WorVf cws
+0QR*--Uts
+
+W	• *-»	A.
+
+I
+
+
+
+
+
+All Previous Results
+
+hefr Actor«- Vfew - FILTERS:	'
+
+Query tteme
+
+tao wraes? survey fp cct09 (WORKFLOW
+
+Actfcns
+
+Stents
+
+Kidd misted
+
+Query Type
+ruljcg
+
+M;mFtesuts Numces	03l«=f1
+
+12	1011	2CCSL
+
+Query Text	(xj
+
+■.WERE datetme >=	12 0:00:00 A'Dd^re «£= *2003-10-33 0:00:93 AND { app»:atcr — drt_pa’ftoad,l/.i'ele55i»Jvey ) AfO:. ( frn_co«.nby |='U5* AND Fmj.1
+
+<
+
+
+
+jJ
+
+Pay | 1 [or 1 I Ml© Page Size:____________________20
+
+D&pisyrgi -1 on
+
+This system is audited fcrL&SZC* 13 ond Fijntan P qhte Act compliance
+
+TOP SFC RFT//COMIKT//RFI TO I liA, Alii. CAW, GAR. and N7I y/S>03?ninfi
+
+ccnbrt.corp nv».r rpv:84^3fXKE7SC CHF/re*itoftlfrr*it5;fic^5iihrftt.rtV<pyW*ir^n
+
+Siks ccntrol errp nro.tr. 9w:8*43 j ^
+
+es
+
+i
+
+U
+
+3
+
+H
+
+V)
+
+«M
+
+c‘  s			
+§		. >- Ê “ t	§
+c»  S  </>	(O  2  u.	ft » ?  S 2 TS  «JO X	Ci  I
+rl<	t>	■3p 3% 3	0
+
+ft!
+
+	>  i	>  *>	t	>	S &	>	> 5H  V  “J 1	>  **  g	*
+	V  •	M	•	-	M li	b	M ■	II	■
+	r  •	?	?  «%	« i <	« 5  w t V	r  (	? r . « *	« * i	- J
+•77'	• • T.	*  »  i	il  fl  V	> • «c  c	v> Í V «J	r  V	**  * r.  V U	w  «  a	«*  •»
+*  :	Z	T	T	V	i 5	Z  U	V ” _ .	•  i_	U
+a  *«	5	1	£	1	i I	i	I *	î	
+S»  -	t	*  T	1	*  c	11	*•  c	1 t		
+IC	î	i	i	i	1 ï	î	i i	I	1
+¿				<•	Û C		X ;		i.
+!	-=	«  ■3	«  3	*  3	Ü * 3 3	ï  3	< -5  3 3	*  3	*  3
+
+= S w
+
+ElEiaEalEHBHDBHHBBia^ 0E).?BDEl2
+
+r0	• ■ • ■ •-! ! ! - -•/D^ a a
+
+* tv -........... . m. it.m
+
+O
+
+c
+
+Í ,.
+
+* b
+
+«- 5
+
+c ••
+
+> <
+
+ED £
+ü
+....a
+
+Bo^jnsrb
+
+rcitrcl.cop.nMJC.^vîW^^EYSCCRE,
+
+JXKMctavwwer. I • tul log (tao-wirele**) - Mo?iltal itrio*
+
+JL. Musl^btoJ __ siidtl&uk ‘»-H> itP .'5y jU: ft I Q YiitJid	-r£ WS O.i l-j iy py i>l'cya ■ X KEVSC.
+
+Btncu:; PJ 1 0 íe^oílkhv | ¿ DoiJc» • >-... &>KNeu...B JtC ■:< icci
+
+& *4314 (¿lárt... □ TlMkGFCRK V MS: =».ä>jlli | ^Utps;/. LO.Htf îfQXSMrlt =J
+
+hl	_________
+
+XKEY5CORC Welcnne^H^H Log Cut
+ÔH:« X'Aímn ¿usn \ Scofo'i tfv^kfloNvCeiti'a Resute 0 swsiks T«ar»j :- rosicno fv, Accart î&XKFoMn »Hsp-
+
+3Vv^Prw/
+Svsireshafc
+3 3Ccnmcn
+♦J _ji;c!ontfyPllv
+♦I Uh» ir»n¿r-r
+(8QMulS«fcr
+3 ZDktiworc
+ÇOU^CîMIy
+
+Gpavop
+
+GO
+
+sâwikflw conta
+
+¿jAIXatí'CWJ
+SjAircft^öWöMtow5
+S) Uy Wtorrtto/v$
+
+ü£jVft3il5
+
+:£]Uy Recfrt HcäjIä
+5]Uy fVe\nu2 ifesiite
+E]Uy ¿rctvwd Reut;
+3lly Cng:h: Restfcs
+3Uy tovcrbads
+5 AI jov/ooaos
+El^l ae«rt fajsifls
+
+El Äl :fev<Ai: Rwstfcs
+El^l AfCOked Rculte
+3*M OftOOirgReeut*
+S<E33tafs1fce
+
+3 OSigrrf /:rr*i*¿1hr.
+gilnà'Si»tiiwl734fcnr
+9¿5Tfi(nim
+
+^1“Ocr»E*frC*lCt
+
+gSjToo'ftj
+
+=JV*C* TfloHrg
+O 23 VV A^COUrt
+
+_U_______ I
+
+IK^Uynm Irpul Scurcc
+í I mrr SftfcsUrr
+
+Hsi:oramo*. iroui Sem* (Click 8ai :o ai:*0
+
+1 - full kiq (ttio-vHrdess)
+
+li-p *idcn: v	Reports -		yfciv - 31 TFfcS: il. -	
+□	£WC	u - Hgniyics U&ffiflfto		
+i □	I		cm:	
+2 d	ß I	4	CM:	
+3 d	F7!	7	CM:	
+i n	ED	s	r~» • 11	
+i n	LJ	*	CM:	
+« □	feil	1<*	CM:	
+2 □	feil	11	IM:	
+» n	ED	!Z	CUE	
+» n	L±l	n	CUE	
+., □	ei	u	cm:	
+11 tj	[Hl	li	cm:	
+
+Finqerprint Malcl»
+
+Query JOLLYRCGCR
+Oifcry TLNIXGFQRK
+
+Canes
+
+ween:	Ktdineenii	COSSflte-tlDn
+!009-1<M2 11:12:30 2009-10-1? io:5*Oi		T9P5ECRFT -
+•00V10 1211:12:50	2009 10 1210.S0.00	TOP SECRET C
+'Û01-1Û-1? 1137:16	2000-10-1211:17:00	TOP SECRET c
+'IHH-10-1211117:16	2100-10-1211:17:00	lop sum i :c
+ÎOW-10-1217^5:52	2000*10*1217:02:00	TOP SECRET C
+J001-10-12 17^5:32	2009-1f-1217i02i00	TOP SECRET VC
+17*05;*?	?009-1*-l? 17;f?;00	TOP SECRET O
+2001-10-1? 158134	2009-10-1 ?15:0?:00	TOP SECRET' C
+2001 10121*1*11	2009 10 1210:00:00	TOP SECRET C
+2001 10-12 2W5fc23	2009 10 1223:01:00	TOP SECRET "C
+2000-10-122*5438	2009-10-1223:01:00	TOP SCCR1Í VC^J
+
+û11
+
+-»ogîSstae:	/u ixtofc:9iititnws}vr pogei
+
+I.Kflcying 1 .IVcd iy
+saved J1«47«0MCö*)4101
+
+Default)
+
+Fit I'Ji. ÿtw H*Ur/ &vhf»af<* Tj»fe tfelv
+
+httpi:J/xte-cne rorp.n« j:.gcv:8443j:<K£YSC0^1ayci±5/pcfyOudayout.rsp?p£9eTitle-S5S2cc '•W.wiGdroALrl- /¿¿I tt^YSCCfd'^ /*2f rnetavK*xer'ifcSl'metscat
+
+<3xk Session Viewer - Mozilla FirefoK
+
+îhiï vyiiamis aucHadfor U S S10 ^ 0 ard human Rights Ad corprfianca
+ClASSU nj^HUN lUv* Sbl MLP/U jMIHTiTPLl lUU^frUS.CMS.OL*« NZ.
+
+X-K.LVSLUKL 121 Session Viewer ffrom archive]
+
+
+
+:-hiw
+
+lilsli
+
+Datebme
+
+Case Notation
+
+From IP
+
+To IF
+
+2GÛ9-C9-30 02:04:01
+
+A r .SPOAECA AADT C
+
+From Port Tc Port Protocol -çnqth
+
+793
+
+Session
+
+Header (3) I Meta (1)
+
+AJTC
+
+
+
+OWnTOdU SWSSIOI
+
+ai
+
+Quirk fllrk«
+
+«
+
+One-CliCi< StidfChöS
+
+Session
+
+àHC
+
+CD find application
+
+dnt_payload/error
+d find muuate ¿lüä ul stf&si
+:Ü ->
+
+: 0
+
+il
+
+J 2J
+
+PAYI HAD XMI
+
+ïi< ses3 format ATJTO center.: xrr.l FORMATTER |auTO *•]
+
+Using XML formatter
+
+<p»yioad:Payload xiolr.s : payload- "'un: payload: dut ">
+
+<payload: !DataType>Error</ payload: £at«Type>
+
+<	p a y load : Hams» pace> ui n : pay 1 oad : d:it </ pay 1 i*ad : farces paire >
+
+<	p ay load : Ver » ioa> 1.0.7</ p a y lo ad : Ve 12: iu cj>
+
+<	pay load : Tims Iu£o>
+
+<pay load : Tar ye tT ix:ê >2 OC 9- 09 -2 6T10:52: 37</payloacl : Taccre tTisne>
+<payioad:TargetTi»rje ZoneO£l8et>4.5G</ payload: Tat gecTirae 2^ns0££3ec>
+<payioad: Loca2TitoeC-nT>20C9-09-2 6TC5:35:32+00: 0O</pay lo ad: Local Tine GK1>
+</ pay load : T Itce I nr o>
+
+<payload:Error oype="pluçln" value=,,5535B2593M procedure ID=,r-2 142175230M>
+<payload: Description;*^. Zrror: Plugin Noc Found</payloacl: Description
+<payload : vers 10m
+
+<payload::iQjor vcrcicn-" 1 "/>
+
+<poylood: Timor version-"*"/^
+
+<payioad: Build vers ion- ,Tl ,r/>
+
+<payload:ip1 version*"6 55 3 5 V >
+
+</ payload : Ver sion>
+
+<pay load : Dacax/ pay -c ad : 1 a. a>
+
+<! payload : L'rr or >
+
+</ payload: Payload>
+
+z]
+
+Tldi ¿'.¿Ivin « àvcilûdf j- U£ 5ID *3 irO hj man Rio'iti A:-4, cc r cf rf'i:-«
+
+Æ
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZ
+
+Session Viewing
+
+i R I • ] • i I ■	^[	<
+
+FfSpecialized peF payload)
+
+ÜXK Session Viewer - Mozilla Flrefon
+
+0c z.dt jtfw H Story ^cokrna'ks led? Hop
+
+-JDj^
+
+J» __ M kl jv :;V .-'ki-urr.wp.i i^a .i.. ;ju v :34 43fXKEV SCOPE,'; ip? jaueTiU?=Sc^sm i '•le	jwU:'.=%2FkKEYSCOPE% 2F%2Ft.c ta v« werV42Fn»?:<»J^^%2F vic*.\Sts*M i	d%2
+
+TW r system 15 >jdiccfcf US& C IS Human Fid-« Aotoompllancc
+CLASSIFICATION: TOP SECRETXVCOMIMTiVREL TD USA AUS , CAN,GSR,K-*
+
+X KFYSCORF C2C Sneslnn Viewer [from ftPfhivr]
+
+c4 4 j^c^cnpT"
+
+Datetime
+
+y<:m - ______
+
+• •I
+
+Case Notation
+20D9-09-30 02:06:32 JR .SPDCTLAAAD TC
+
+From IP	To IF	From Port	To Port
+
+2bt36
+
+Sr**«inn Hr.vkt <3) Meta ( 1 )
+
+ALTO
+
+-jUman:-,
+
+E-f.s- text :o s<j»:h
+
+Quick Clicks
+
+JfcSesi
+
+Qfc
+
+ion
+
+Or.5-Click search*5
+
+0 Find application
+
+drtLPoyloôd/diwolk
+
+ö Find JPULS t* ^idr uf
+
+:0
+
+:0
+
+AUTO FORMATTER: cap ld = dnl p<aylu<ad/dirvralk Viewers DNT PAYLOAD formatter. Info =
+__________________________________________________DIRECTORY WALK_______________________________________
+
+open all | close all
+
+>2 C:\Doaiments aid Settincs\aYio at_ed\tiy Documcnts\My 3kv:»c PicsjrssS
+j— JjAncel SIcype.Dnc
+; □*rch tcct Skypc.ang
+!--QBeach Skype png
+j-QBehind Skype .png
+j— ^business Skype.ang
+¡•‘LJCollMc Swccthcort.pnq
+j-	He .png
+
+j-QCornivdl S^ype.prig
+QChie Skvoe.onq
+¡-□Christmas Skypc.png
+j— JCollego Skype.png
+;-•□oes€rt Skype.png
+
+{-□Oesioner Skype.pnc
+
+j— ~^|OeviI Skype .png
+j-| "IPIY Sky pe.png
+;	Skypc.prg
+
+j-QEor&jd Skype .png
+j— □)Ervipire* Skype .png
+S-QF« Skype.pna
+
+T
+
+£ •**
+o i'»
+C «O
+
+3<0
+
+s
+
+♦
+
+♦
+
+tí
+
+o
+
+Cl
+
+tí
+
+o
+
+a
+
+Cl
+
+o
+
+II
+
+*
+
+X»
+
+«/»
+
+u.
+
+Z
+
+X
+
+O
+
+Ci
+
+■U
+
+c
+
+c
+
+5
+
+c
+
+c¿
+
+
+
+00
+
+i-
+
+X«
+
+"3
+
+T>
+
+X*
+
+
+
+.U
+
+Ä
+
+ji
+
+!•
+
+</*
+
+n
+
+o
+
+t*
+
+"□
+
+o
+
+V
+
+jz
+
+»%
+
+i*
+
+v*
+
+
+
+p
+
+V
+
+X
+
+2
+
+IÑ
+
+D
+
+*
+
+2
+
+V.
+
+h	i	i	i	;	u	u
+
+U. a¿	W	—	—	—	—	—	1—
+
+
+
+■-.v	V		.y	,«■	V	.y
+■ 5	V«  -»	3 S £	w	V	2	*5
+•—	V	v v ^	V	•-/		V-
+		^ M	M	M	**	tt
+	«	4i &		<*	*	
+u	**	2 2 2	*+	2	2	u
+	■r	•5 t «f	T	t	•*	t
+	¿	i ¿ i	Í	¿	¿	¿
+*	i	i i i	|	§	1	*
+	ÍS|	* Ci	*4	í.	A4	<s
+O	TO	« w «		«e	O	o
+$	i	51 i	5	3	3	5
+*	*>	<r m «	*			r»
+		«• ■* «t				*•
+s	8	£ £ £	£	á	£	¿
+¿	t	i i i	i	♦	¿	i
+	f*$	n n tn	n			CN
+¡8	*	SI $ $1	£	si	Sí	£
+1 f7  !	a	a a a	a	0	a	E
+IU	caca		CE		U L	
+*-	íi	«TV.	o	»—	O*	c-
+
+g ilffilMEWMTO
+2
+
+S •■ M!
+
+~¿Í2:
+
+ÍSOOGOÍ
+
+ti) tí til Ü 4 :
+
+3	*	o
+
+!	i	i«!
+
+i	?	11	*
+
+S	é	|	I*	Í	|	s
+
+«:	í	3	í	ü	§	¿
+
+n «
+
+II
+
+I 1
+I |
+
+a <
+3 <
+
+¡ A
+
+GOOOGOG<D|0ElE£E3|0Elíii3l3BlEiraEaB35]«O
+
+<0 "•
+
+■a..
+
+aran
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZ
+
+«Document Metadata -
+
+Í Active/Passive Converged Analysis
+
+XK mccovicwch iron U* customs ond nod tuctacted L»ocs Mozilla Hrcfoic
+
+
+
+I £to £dc SJow H&ory feseftrote Iccrfs dop				
+1 ^'1 1 a|‘l'Uy>U,'«l>-«.ci It al.vuiy >va «..guv			' ' IlLi • | ‘T-	/
+1-Q| UklwJ (	(SiMltjjli. mL c-,5 35y«jjl: P.l Qv	—Iimcrn V xi3<Mr/W í¡f r»j. - x-tevsc..			
+1 1»ftjuiii:R? VARCMI1GH1 <)i »-r	>> lni-Px |h - X-I.-V^b 3CK ... £j | *4.114 nlioIH ¡li»	'I 11 NiN*;;t-OM:	!? il.l 1« 1 I :*>: KM-iJls	oTT •
+
+tSHBBr
+
+-
+
+LQJ.L'lIt
+
+¿¿¿AJiin	’■-Vu'-.h tT	Cti4/v4 Kv-tlv El -IW.^.Olv * _ I v*.tj i m i_lw/>Juv) Swy'AiiVuui *K Furir i Hu*/ •
+
+■i>jl*-íüh u tmriMfi.
+xki YSicoui wcteomc
+
+VTIM //
+
+EG
+
+soviaot»on Menu
+
+—J i «roo r
+Slices Stnogo n C*3
+1 Use» AclDty
+| gV4A:*l
+^}w»i, r. w. -r m i*rw»»
+
+j ¡3Wh|iPzii>y
+
+ixl LU^Mpm‘'r
+£3 QflHimry I
+R CD He Tran-slci
+BCDM,fc3e*Ch
+m CDHcfrAOrf« Mof»;j:*ricrt
+
+j UlClU$0'.*Ct)Vt7
+
+UlClVcl*
+
+3 I
+
+JÍpJWbfUlov/ tirirrf
+
+£~) AI WCfKlttWC
+FH Ai rcr»d ng Wsrcflowo
+Q M/ I'WVfWi
+3Qft?wly
+
+• [c| M/ It»-« >•*•! Rko 4 -c
+£]M/ PrK«aiai< P»30il>:
+gzl M/ ArrtMri
+cl M/ Orfjnro first to*
+trIM/ nov*nr»yli
+fcH AI Dowi Jjci1&
+riAl Rccov. Rcstáo
+£DAI rrcvlDuoRo^to
+sDai	Kcc-jto
+
+eEJai UHDCrO Keouto
+3<
+
+3 CD Sljr jW Ac JwUll* >
+
+is^LI I. 5UfTrT4rl26!0n
+
+jfigiwinq
+
+3lo:ci icoir<j
+FlTcwliEvtio^lv*
+
+3 'CD To>f • ij
+
+(c|V. V'Txsfclij
+3 ! |Vty
+
+«I	I
+
+Iran CP CuvUimih Mini R4ll Pxlrm
+
+—
+
+-43»> /VOlWOC ~ HCI»-tv * VÍDW* HLItHS: lit »
+
+►I
+
+H&iVJ'A:	DütciífT«:	ZCKtCK	DcOJTXnV. T'rt-»-	E'l.fytll-i CctrtiXc-^		=lcnc»ro	Extender»	LorouCi>;-	M.'<x	-t'A AliUt
+nr V	wv iu •>*	LVIkUKAIilKUl	o4tic«*iViOi«l	IK*	no	rt: J:ip lo|> illVJObfVA'Pi turto ümIoxí	uac:	414	P.IV JOI M.K«I>|I	uao/u
+cWV	2M9-10-*» 00:0:50	LUTCU5ASTR01	o^fir.r.'word	no	no	II: JrtP ton ilriioC’liiA Triurtlc IbmIox . OOC		nr«	90470	
+ax V	2*m iu •>» I2imui	LUIbU&Afc IMU1	cttioo word	no	no	Hi Jnp top <lmok fW\ ^nunto mno:<%	UUC	nr»	K.1030I H.bOIÜI	1*00/V
+a£*V	2049-1CM)* 12:41:01	LUrCUSASTROI	c/fice.'«ord	no	no	II; Jnp top <lrlioC «SA’Prlunto Index's	DOC	nr«	90470	
+V	JOOP 10 12 IT:IO: IS		uTTIcmíVjoi «1	no	no	3S07.UOC	<loe	4(4 ra*	ll»«J«lol.<llll	P.Cmain
+V	2049-10-12 17.10.43		ofílce^oril	no	no	3047.doc	<loc	nr« 'ns	RCnmm	
+V	704P 10 4 1 08:44:55		aricwi'/jui «1	■10	no	-4> -•<- «—>- xw^ltlutf	•lor	Ml V*	Mirim	ConipuiMi
+V	.’WV IV n U3:f4:t>4		ctTioo.vjora	no	no	A> . L»>^»<ioc	<IOt	nr«	Loniputoi.'	
+'V	7A*ft 1M3 IW:XI:r.?		f*tU.A>+jc,rii	rw>	no			nr« fa«	Rrman>	Rr mam
+V	U'i; 20!1«4i		ctrico.vgora	no	no	»aoan.<ioc	<IOt	nr«ano	nv>«nn>na	nv»ii 	
+V	2')40 10 12 20l14l*l2		cniooVvord	no	no	Boonn.<loo	<lo»	nr« 'no	n>nli	
+V	IIH7 14:71:111		iif(ii:MnM«ii«l	• Nl	■ in	ÍiiIiIm.iIiii:	• Inc	him	K-<;im im	Ky PAIUlir
+V	20^P 10 4J I IM IrlO		omcwi'/joi u	■ IO	no	TtDIé.aOÚ	<lor	414	By PARIIIAI1 C*P.*:2ro	
+V	94««.IA.47 Irt 1^ 04		l/Hl «1	• Ml	• Ml	n,is,ui «Imi	• InC	Ml Jt "a*<	(■m44,«iimiI	• ••all  1
+V	20^P 10 47 10:15:01		ofTlcwtVJOi «1	no	no	BaKaii.iloc	<loe	ai -Jt f A%s	mall	
+V	2040-10-12 12:44:35		o/noCiVword	no	no			«r«fCIO	MOltAZOtl	Moitnziui . -
+±1		l	-ÍC >			i—i_	.1...			OD““ 0 tmmaa—■"		->r
+14 PVAJ.	1 ui .1 k k| »“2? si*».		(Mm/. *j»i |.m?'»;						Cl.g-y» il; 1 SOUIId	
+(fli.mul Ü*j/!ÍK?ÜUU17S5+K;if^ 1										
+
+
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+
+
+
+
+If
+
+Numbers/Loqin etc
+
+<I>XK Mctavlcwcr: dostccn_200Ol013_sS Mozrilo Flrcfox
+
+-Iff I *1
+
+file Edit Wew I lisfcor/ Dcotavaiv^ Tools I elo
+
+- e X
+
+uJU
+
+F^T
+
+hfctps://xlss-c«n(rd. coi p .nsa .¡c qov: 0440/XKCVSZOPCj
+
+☆ -
+
+Í&1
+
+Gocqlo
+
+-P
+
+QU Most Vlïlted __, Sma-t Bookmarks ^ JSOnout PI [_3 Yeeha UPN Mapper ?f< WS-Central -ÿ> DonsPage - M-KE/3C...
+
+|2j JSiuiuu.: RÍ
+
+ft SEARCHLCQ-r Qunr...
+
+•?> ^oiii-Pai** - X->:EWSS
+
+XK '■ItfldYievrer:... (j¿>l	-j£» ¿4314 fUia il© U ©
+
+■■ ^1 I Ü
+
+TLNINSfiORK
+
+lt-ál
+
+iüiiI
+
+:-K pgt.uH.1.
+
+¡je
+
+SS3M2S
+
+XKEY5CORE Wukunu
+
+OMINT / /NOFORN
+
+árTHone i^Acmn
+
+-líll-QüL
+
+, Users Search ÎÎ Wcrkficw Central □ Resulls EU S:alls:lcs :E Taöölng :E Tasking *21 My Accouru XK Forum W
+
+Navigation Menu
+
+fell SKI l'nrnrtr
+|tz| Tec I* Gtrngs in Do
+3 AuUyIy
+Qvvl/xim
+
+ED Wnh h In I hin^-nr
+F5|Web Proxy
+H vvSrw» wrk
+R CD Cctntncn
+LU Qj Dirtmnory Hitr<
+
+0 CD filo Transfer
+0 í I MüliStftirul
+R CD Network Maniement
+
+LU i~’ 11 iftrtrActiyity
+
+0	CD VcIP
+
+01	IWi-wkww
+R ffDVVorktlo'-v Cemrsi
+
+ED Wrrçi .r.r<t
+FSlAIIWoïkflows
+[3 Ail Pvi i Jii iq V\\jrk flu'-v'v
+[3 My Wo'klo/zs
+
+|tz] My Roc orit Re s mHs
+□ MV Pwv'iuuv R trulls
+My Archived Resulto
+ED My < ingnng Hr.^i Jtr%
+
+¡Til My Downlo-ic s
+S3 All Duv/i iu^Us
+i^D All Recent Resulto
+ED All I 'rr.virun Vr.xiitrc
+¡Til All A c *»¡vc<l Result!
+
+All O luui iq Rwwuly
+R t3S1StlSllC0
+
+LU CJ > Aftguir-itiftn
+f^jLirk Sunnoriroticn
+SP^Taqjinq
+;	; LOOOi Tagging
+
+ED onh 1-xlrqntnK
+
+0 CD Ta 5 'cing
+
+[3 Vup Tavcii q
+R CDM/ Account
+
+<1_________________________I
+
+I listogram: <RDomain x I isfcogram G ic 1-t l
+Cfur SfltulpJii
+
+jd
+
+I istogr&m of:*® Do man (Click Dar lo Piker)
+
+4 00
+3 00
+200
+I OO
+Ü
+
+158
+
+
+
+
+
+-<SO
+
+<frT
+
+
+
+•yv
+
+
+
+
+
+
+
+c>
+
+Pivot:
+
+Casenctatlon
+
+u
+
+H.i*rrr*n IIP 11 II IX <A
+
+Cear Detection
+
+He|> /tictions'- Kepcrti - Vew - ML It Kb': lb - N 1-
+
+»
+
+OvIX.RF* IT6-I0)
+
+03 ::cch«(is;
+PEI viMLAur (.j;
+
+_inal Us or Maire
+
+Dal et me	1 ighligl-rfs	^•Domain	'^.il^ect	Chain
+				
+20t0-10-10 05:15:13	(-Ht'V	mellJiorlnoo.cn	2340 acnlor contacto In kulUYor zn< OKLicOOgO imnmamnl.iiof lnco.cn^l<8tc.otrtir	
+20#0 10 10 05;f 5:10	LHt'V	lmt:iii«t;t;iiivialvi .cvi	2340 seiiioi vuiatiivlv in hnli^ ivi di<	Ok'jeOOuO'lim ilit^:in.ii.nvi iiiw^uSkjU.uliul
+■ 2000 10 10 05:15:10	LUL'V	»ml.msorociie.com	2340 senior contacte In kiillafor zn< OkqeOOgOimnm^m^l-iiorlncoxn^kJto.etrur	
+2000 10 10 05:15:1)	(-Ht’V	jli^iilmviuil.cuiii	2340 ytnioi contact* in Imliu ici du	Ok'.i^OOifO Inn iliijû'nuii.nvi iiiw^iiSkjU.uliul
+2000 10 10 05:15:10	UlL'V	Ims mo (henion	2340 senior contacte In tulla for zln Ok>:ieOOuOimr4ll»3mal.iiorlnco.cii£kate.ctrur	
+2000 10 12 08:20:00	V	tlvvlü iwl.cu	2010 «wise i ul»*	3iliuli*U^ij2>etv*lu iivl.vuîl.'vkHi ijûjiiv-wiikIit
+2000 10 12 08:20:00	V	lnwlntl.ti	2010 swlse rolex	3<ljullett9(&’et*elc nei.cu¿l>vkiarh.3 lnvAj|iulJt
+2000 10 11 08:36:58	(-Ht'V	veii.^ivb.iiix	101009 Ell LA PAZ, BAJA CALIFOPII» tlM¡*1.:*ir.fllit;¡t;£¡>i;í|;Jui;;il£mliuii	
+2000 10 11 08:36:53	CMC	|T|i.bv«il	101009 Ell MEXICALI, BAJA CALIFOR	ilgit^l. umIí*í*(Q>i>Í|/Jv;.ilSmliiai ik>..n vivb(5>t'
+2089.10-11 08:36:53	LML	wp.Mcb.uix	101009 Ell MEXICALI, BAJA CALIFOR	ikli^l .:«■ Mliviv^i>i|>JoiMl2eiliuii Mvte^v
+2080 10 11 08:36:53	rurV		101009 Ell LA PAZ, BAJA CALIFORII» ik|i^1.11 ►.ili*>i*>*u-|/i|/Jvu;ilSt*ikuii	
+2089.10-11 08:36:53	lhl'V	wp.Mcb.uix	101009 Ell LA PAZ, BAJA CALIFORII» clMiel.aiMliviv^pfnJucvil^eilirai clo.aiMote^v	
+I 2089 10 11 08:36:50	rur	Wlf.Mcli.nix	101009 Ell CIUDAD JUÁREZ, CHIHUAH	iKiittl. umIí*í*»^í>i>Í|/Jot;;il&minai ik>..n
+2089-10-11 08:36:50	LML	WM.qob.mx	101009 Ell CIUDAD JUAREZ, CHIHUAH	ilMiel .:u Mliviv^|>i|>JuiMl^eiliun
+2089 10 11 08:36:53	rurV	|T|i.bv«il	101009 Ell LA PAZ, BAJA CALIFORII» tlni*1.:«iMlit;i%;€i>i>fMJut;;il£mliufli tknaiMvt*^*'	
+(i.4 -i	.-nr	n»v	■i»viaa<t m c.&i rAiia rtiiiuiAiiins qr	
+
+is^rtn 1 nt!i	HI	\lftcjr.-\\7r.	70 ;fi/cv *TiPiP rnwr? fr.r pngr.)
+
+I loying 1 - :iln1hV*
+
+clareen 07301400012«43C0>C 1
+
+Tt-il7 torn Is au d I tod ~or U^SCC IS and Human R.lqhtr Act
+ION SfcCKfc I //CUMIN I //ISJUf-UKN
+
+)rnri
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+vi« rrínfml.rnrp.n^.r.gnuíKIIX ]
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+(FOGGYBOTTOM)
+
+Oxk Meto viewer: drverml □ Mozilla Flrefo«
+
+-lOlxl
+
+Efe Edit Vjtw n«iory gwhnaite icos Hob
+
+#	• C X JL j- - I'CtCSlI.'X'S -ce*it<ci. ca p.ftso. ¡c.aw¡d4*3 #<EV 5C0PEJ
+
+& ' |[ÇT"|Ccod9
+
+P
+
+b¿J MKt VKited ____5nwrt EnAna-te J; asowuti Rl LÜ vccte'jRH nappe' !<£ XKS-certral î> DonsPaje • X-KEV5C...
+
+iJj JScim-t: fti________5EARChUGHTOw...
+
+-» Duis-Paqr-X-KEVE . i |
+
+Sfc XK Metaviewer:...	~^2H3f=ORK	y I ^ liUy&:,7r->-..f713.h:ml |_	l¡¿ XK Secrtli: hTTP\A. .
+
+rr* X^örrn £ Users	tf Wtofcnow Certra jKesuts
+
+drvermi_0
+
+a-iditgd for USOIO 13 and Humai Right; Act compliance
+
+tCKblV/CUMirv, I //NÜFÖKN________________
+
+XKEYSCORE Wulo.-mc^^^g Log Out
+IH|Sl*«*cs irlswnq triase fiMy.Aeeaul -VC XK Forum
+
+Ö H=<C -
+
+Navigation Menu
+
+I V ViV»/
+
+80>W.Srcr:h
+0IP Addresses
+
+gMGCAÖÖfC35
+:-QUsemame
+8G|Qo»fc A.M
+
+SaecfcBerry
+
+hEJCN:
+
+EJCallLogs
+gjCOtegory DM
+SCelUor DM
+i?|Oscc Pas swells
+HOVE
+
+SC^JWrtMdedste
+3c^-wjr*-ii Taaqiiq
+^JEítíii Addresses
+¡SjFtfracteö FlfS
+SFUI-Ofi [»>1
+3 HTTP Activiy
+^IKE Parser
+[SJlOijrisand Password
+3 Vícsrof^w«*i Met
+t)^2j^a55itz H-Z
+gjKEYLOGCS*
+S^^twork Loss
+3 PDF VMwiria
+
+<<
+
+H9I.0 Act tons * Reports v view v FI TFRS:	» iii
+
+	Daceiire brd	Hariqms	HÏ TP Ivpe	H02I	URL Parti	URL Args Sea'c^i lepns	Lerc^ecie
+21:1*44	2U49-1 U-14 2*2*41'	CXE	post	logmiaccbeok .com	i	iogin_attcm|rt-i	
+21:1*44	2009-1014 2*24.-40	CXE	0*1	www/;i«îbwk.<vm	f		
+71:1*44	7049-10-147*7*40	CXE	r*	www.14octohcf.com	f	nmvsKUSfl>Sc038-f75	
+21H*14	2009 10 112*2*40	CKE	post	vwm.14<Mtober.com	i	particl-Bf Icfrfae e1c2	
+71:1*44	7049-10-14 7*2*40	CXE		nr-<ar.f ¿KCtoook .cam	<		
+21:1*11	2099 10 142*2*40	CXE	OOt	foffum.kooora.com	i	f-133	
+71:1*44	7049.10.14 7*79^0	CXE		tofimi.koaorA.com	<	f-133	
+21:1*44	2099-10-142*2*40	CXE	net	fofuntikoooni.com	i	t=l9827244	
+21:1*44	2099-10.142*2*40	CXE		.lllOllt			
+21:1*44	2099-10-142*2*40	CXE	9*t	about			
+21:1*44	2099-10-14 20:29:40	CKE		f0rum.k666n.C6m	(	t=19800445	
+21:1*44	2099-10-14 2*29.-40	CXE	o*t	ook.com	fcOHIflKMl.1	indexée	
+21:1*44	2099-10-1429:29.-40	CKE	oot	ww w.qoogle.c ovn.sa	(	hl:arlsourc*li|)4q:	
+21:1*14	2099 10 14 2*29.-40	CXE	post	1'XjiiiJacobook.com	f	login_attemoi-l	
+21:1*44	2099-10-142*2*40	CKE	post	logmJoccbook .com	t	login attcmpt-l	
+21:1*14	2099 10 14 2*2*40	CKE	not	www.goojlo.coii i.ea	\	hl-ai Seonrco-lip-Sq-	
+71:1*44	2049.10.14 2*79:40	CKE	V*	MMivi.Kchook.coni	(friends.1	ref-tn	
+21:1*44	20991014 2*2*40	CKE	oot	www.gooolo.coin.ea	/	hl-ai Suoiif co-l»|).Sq-	
+71:1*44	2049-10-142*29:40	CKE		static ..ikJ.Kehook.com	('common.	index-4	
+21:1*44	2099-10-142*2*40	CKE	<jel	www.24scp.net	i	li iq= <11 <ibic£ s#<l=57$?	
+21:1*44	2099-10-14 2*29:40	CKE	9**	loiiiiiJ.Kebook .com	/	login .ittemjjt-1	
+
+J
+
+/
+
+t
+
+/
+
+/
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+CNE
+
+Specific Searches
+
+
+
+Tse • ■
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZL
+
+NE Search
+
+^)XK Search: ChE - Mailla Firelox
+
+ffe Edt Vecx Itetory Dcd-roarvs Teds »Jcb
+
+• C X ÜL, ISÏ
+
+ht^£:/fxl^evircJ.ccf9.n$4.¡c.<i3v:d¿43/tt(EY5C0R£/
+
+X3
+
+> *
+
+IËF
+
+
+
+O
+
+i ¿1 Kost 0«ted Sruft Bookmarks ¿-j JSçroj:: P.l T] YeehaUPTd flipper :<KS-Certid i¿- DortfPaçe - X-KEYSC
+
+lJ JSijiout: R1
+
+& SEARQ-ttaiTCu;... I -;*? CcfiîPaqg - »i-gEVS...	XK Search: CNC Q jJjLMNGFûRK
+
+<^h:fcps:/'/jo...f71tl.Hfri !¿< »i üeetth: ITTF A
+
+TOP SFC.RFT
+
+'ifí&f^TWJííRW&nFfm
+xkfy 5>corf	Welcome
+
+Log Out
+
+í^Hor-c J*4¿chin ¿Users Sswch if MWiilov/Certral Resuis 13 Sfaftistiís i= Twqqnq J - lessfcnq S Vty Accourt -\£XK Fcrun W Hdp •
+
+Navigation Mrnu
+
+«
+
+QfcDKVjtiSea'C'i
+
+ElP AdcPcsscs
+□ Mac Âdcress
+¡guseirarp
+
+QQCbBSC A-V1
+0 Aterí
+0Btos*B«ry
+0CNE
+gJCd legs
+0 Category DNI
+gjeri utorow
+
+[3Cisco favsswerds
+
+@DNS
+
+EJCccurert Vfctwdal«
+0CCCtfl‘tfi T*9£|-|ß
+[=]tltlOl AddfSC-CCS
+0 Extradée* fifes
+gjFiíllogDNI
+
+OhFPAdivty —
+gJhE Parsci
+
+Lours anc Passwcrc:
+[gMCf Cf^^l Kfetäö$ia
+
+t|Q^te'S2,c W*«Z
+0KEVLOGGSR
+E| uct//ctv tegs
+i£]FCF rxttadàia
+g)niB=W/
+
+[gPPF VdP Metadata
+gJPö^OCll
+
+0Phons Nunhef Extract!
+0 REGAN
+0 REGISTRY
+
+Help
+
+Fiédv* AitancedFeaiieev • Shew/ KiJden Starch Fwfcte Cfea* Sesrc'i Vafe?s RduwiiLav! Swrch Yduev
+
+Search: CNE
+
+Query Norm?:
+
+Justificdtiuri:
+
+Ri : :r it ~ KtVicatiQfK
+
+Acrdirricnal Justification:
+
+Miranda Number:	[
+
+Datetime:	11 Day 3 Start: 12DQ» 10-14 □[	C0:00 |y[ Stop:	2009-10-15 ß ¡23:59 $■	0
+
+Collection Technique:	r
+
+Username <reclm>:
+
+P Address: |~	I From jJ	f?P Address Finiri Piiilrierl
+		
+]P Address: |	|To z]	•*- rilL6ddr.e.ss.Fjg lEuildacl
+		
+Port: 1	|From j*J	
+		
+Port: f~		J lTo d	
+
+U U
+
+!= b
+
+Bca
+
+!ï
+
+î t
+
+Z S
+
+O fc)
+
+U U
+
+C JJ
+f *
+
+f? ?
+
+a •
+* *
+
+y
+
+EJ là
+
+:< 5
+
+.................................................. v...j.r $ .............................
+
+rsiC5taQl[iiliSl2aiI21&iLiliai£JiiiüilÍJÍ3íZJ S lütüïïjÎLitiLSBJüLlliSIÎJïiJL1 s
+
+5 «
+
+* 5
+
+5
+
+Ü
+
+f »
+
+«2
+
+*>
+
+r
+
+¡s s
+
+3 ï
+
+7J
+
+“0
+
+<ß
+
+*
+
+3
+
+■P *0 *P .=
+
+G ” 3
+
+% 2 I î
+
+ï *i
+
+f
+
+n «
+8 3
+
+S 5
+ï «
+
+<n «
+
+si
+
+5iS??S2í?!?í
+
+ïrïtï ! WS Ei
+
+_3
+
+g
+
+K+j>«,cg2on rtynfmmap«»f,«Q
+
+£
+
+'l'
+
+V
+
+ogger (result
+
+Mrtavicwn-krylo^qri - Mo7Ün I irfoK
+
+JÜ*.
+
+Fie Fit dry. Hdrorj; floctow« Tod* Ht'p			
+É9K * C X ^ Mhttoss/^c cnc.citp.rca c gcviBU-yttEYSCCftE/		ú - IGI-I^w	
+Jl Voted |	jSns t fc>:F.na b r£ J5y>xit Rl (_) fcsfo URKJ tapper .V XfcS<er*ra/ JJ> CbnsFaje-X-íEVSC..			
+LJ) JS^rojI PL $ SEAPO-UCHT .. $ jCdSzc* - K-K. % WMaUtfftk«'!... *;< HC loqír	>> **214 (<h=i>:*. J iuoixfxx	>.KIB RPídt; .•;*..7 lO.htr»	^CxrM«tayl...Q -
+
+Í^Hcrrs	Alfeeis $-?ich
+
+N#4VÍijhIÍihi V1*»IUI
+
+XHEYSCORE '-velwr.0	LQQ Pit
+
+?T '.Vijk:fcr.v Cvilifí yftesuts Rer^irli [^ISJtriBli:? SMy ¿sc0.ri J¡£XH Fyum IM:b-
+
+¡gcscoPoM'wds
+
+j j EJd^c
+
+ílD:0/TCft Melada
+£¡] Dx-yfncrí Toxír»íi
+igEreilAc*:re&»s
+SjExtttdseFIcc
+^3 Fiil L09 CM
+r *3 HfTP Acfivty
+gMI tosa
+
+^5 Lojng *rd ^gy/orc*
+
+3 Kfcryp i«n Meto*?«
+Ú£|ClftC4*N¿
+3KrrLCGGK
+£]M*A'D'k .03c
+jgFCFKtetídda
+SCLEE^W
+3hW VolKMcMel«
+
+r-3P*«<p3rt
+
+3 Ptonc Nunfcei kxsrac«
+f-^RBOA«
+
+Hr'
+
+3Rrp
+
+gK*IU3L02¿
+
+1-3 sp
+
+;-3ssLPíf€8r
+3 Tfc-tfi Sfrfftrjc ira lYiriK.
+;•-j3 User «K'lv
+:-gvu ¿rj
+
+rfc rvan&to'
+f-^VNel: Fto>y
+
+♦iQCoiwror
+
+HCjDv.unuym*
+
+?lC3Fle Transfer
+SfiiWJÜ5«fv;li
+
+3P
+
+«
+
+3
+
+keyloqqer				-*				
+Fri-. Adíen; ~ V«w,p	FLIERS: '7*	-w						
+:$ fa«tm?6d	a A SCifCé	3 ICC N*f8	Wd# tijfiw	Sd&sD	Pro. D	~ITI*	Key SJrcie^	Qn
+20£M 043'60300	Cfl£B*>ttCOl5	QQcxc		3	w\c	MOO-IOd3CP:42 45	WM);c* IdrJ|dHIdrl|^.IIdr|IdHIc*rlId.lj;dTl *-_	
+2003 10 13 ‘ 50303	0fi£B’KH'\CS15	CO¿:<*	«rs	3	SO'	23C9 I01*07 -12 4$		
+2C03-10-13'60303	<$G£B*>ttCSl5	CGtexe	«»	3	03-	2008-10*12 Q7:42 tó	(tbclOJcl 1)' :<»: kt p*a c e|	
+2C03 1O-1D'G03OO	otcingi i-VvGic	GSÍ;©xc	W.'ü	3	03'	200 101: 0^:13 00	CCe-»OPCOx»C]ICC<e5f.C;acíOxc0|P>eC|Z \\0/.t0\ *	
+2003.10.13*60303			vír“	3	m<	20CO 10.1207 .13 22	(/Pírík«|»C6);cün	
+2003-10-13'603 03	CREBUOIACS15	QQ0X6		3	w	2008-10-13 eP:4¿ 02	COX«SK0»5UOXC5IO:oS:[0xe5PFCOKC6] '.OXCSF *	
+2003 10*13 30303	<TOD’l5ri-\C515	CXC5LCCC	Miíwui C.<A;rl ■ X ü fi>A	3	052	20C8IO 12 Or.*15.l 3	3	
+2003*10-13'C03 en	WEG40MACS15	EXC3.DÍ	«owcUEycel-XÍ KSA	3	ÍS2	2000-10*13 0?:45*0	(«irPsd.'JPl	
+2003-10-13*603 en	CflEBOCHACSIS	e:<C3-E>:=	Mcrcscil Exosl- XE KVA 3		$52	2300-10-13 07:45*16	3	
+2G0B1Ú-I3GO3O3	tiREd'KMAC&IS	e:<cd-d:c	r.inc«cit excel - :*: n H9A	3	552	2QC8.10. I2 07 43 !G	(rtLrPa 0*3)42	
+2003-10-13'603 en	0RE04OWCD16	EKC3L0CE	Mowclt Exosl - X L fyPA	3	$52	2300-1013 CP:4S: 33	2	
+2003 10-13'503 03	<36EB*>ttCS15	=:<C3-b:=	Mtf«cllE»0el-2C£fc»A 3		$52	2009-101307.45 20	fMtfiPü4^PS8	
+VLIfd-1 U-13 ' btl J llJ	ÜWrtílJCHACiflS»	fcXC=Lh>.t	f.lno-.cítbxcel- JC t P5*A	J	iS,‘	2JUU-1U-lJlV:4b24	tí	
+2003 10*13-5>33 03	CflEB4&UiCS1S	=:<cs.e:=	Macocrt Excel - XülC^A	3	$52	2303-10-1 *07:45 24	CXcrPaoepE*	
+oniw.irt.iS'fwnm	(iflfRviTHArsi*	F<r=^ Rr	MrrrxrlIFvr-l. VPpCft/	3	$52	$nm.m.i*»A7 45¥;	Q	
+200310-13*60303	CflEBICHKS15	EXCr.Br	MO03C(t EX09l - X t K'P'A 3		$52	2009-10-1307:45 35	[McrF3(5 OJ3C5	
+200310-15 00303	«vircmcsis	cxcs-b::	Muuatrt Cxvcl- X E H»A	3	552	5flC8*l 0-12 07.45 *3	3	
+2000-10-12 IfcOO.OO GREÉHCHAOS15		E<CEL.E>C=	MicrD5oflExcd-3CiMí 0		$52	2000-10-' 3 07:45:*:	[M»inPi>d-3)28	
+2003 10 13-50303	<3fiEB'KHA»CS15	s:<c3lb:£	Mcrcecrt E:<cel • 3C£fc*A	3	$52	20C9 101307.45 $1	[ttetejr	
+2003.10-15-60303	«VO'KttACSIS	::<cd-o::	Maoscít excel - X E H^A	3	552	2DC8-10-I2 07:43 54	(lcrPafl.7]	
+2003 10 13*603 03	vREB*>f\CS16	e:<csle>:e	Mocccrt Excol XEK>A 3		$52	2200 1012 O7: «5:53	7	
+2003 10 13*60300	$flEB*HACS15	e:<C3.b:=	MtrcseflExcel. 3C£K»A 3		$52	2QC9 1013 07.45 >3	ClcrPacT)]	
+2UlW-10-13'bUJW		c¡<CA.t>.c	fiicrooeit txoei - x 155» A	J	S6¿!	^UMu-iaiVxbin	1	
+2003 10 15*00303	CTCCNGI I4C31S	::<cd_o::	MacicitCx^el XEH5A	3	532	20 CO 101307:43:01	CílcrFaílJíl	
+2003.10-13 *603 en	OfiEQtolACSlS	£:<ca.D:E	Maocclt Excel-XEKftA	3	$52	2QC8-10*10 Ú?:4$:05	1	
+2003-10-13'603 03	CRE&KHACS15	e:<c?.e>:=	Mcroscit E:<oel - X E I^A	3	$52	2000-10-1:07 45 C6	[McrP3(S-ip4	
+2003-10-15'003 03	0RCD43 ttC315	-:<czld::	MuoqcH Cxcel- X E t$9A	3	552	2QC8-10-13 07 43	Cddcie;0	
+2003.10-13'603 OO	C*EB>l>ttCSlS	E:<C3-L>.£	Maocclt Excel - XEKSA	3	$52	2000-10*1307:45 39	C«irPa0.3)a2	'T
+•l			"T ■" ' '					±r
+**p:tP 1 o-	1 If H «5 r*iqc5íz«: 30		(\1x< fOOrw» co- cc*>p-					C4:t><v,lr»? i - 30011CO
+
+5b E'Jt 3*s Hstcry &yAn*Vs Dok tbj
+
+003)57330125552
+
+hytps^fxli-mr.corp.roa.»: gc\,:8‘1W6!iEi‘5CCirl.£|Vi>'cctsi'iq3C<Jlayoii.-sp'?ocQrTtli=5MscnV»rAr-iTaA>l-V^ifiK£V£CORE'JA2f%2Friel
+
+X KEYSCORE C2C Session Viewer [from archive]
+
+AUTO
+
+t)XKSes>ii>n Viewer - Mozilla Firefox
+
+•iz z'fi\cmlsa.d
+
+for U5SI0 13 arrf H.rft^n Mg*rt?Atfcorrpi ar*o
+
+CLASSIFICATION: TOF SECRrWC 3 MINTAiREL TC USA AUS CAN ößR IL
+
+-r--lT.fi
+
+>3- ■> /I ffeffl
+
+D stimme
+
+200^-lG-13 16:15 43
+
+Case fOototon
+
+Fron IP
+
+To IF
+
+From Pori
+
+To Pert Ffotozol Length
+
+CC.RMSXXXAHZDTC
+
+31133
+
+Quick Click« I«
+
+Session
+
+a!«
+
+find *ppl»«-A* rn
+
+dn: pavload/l
+Find vppvi te sit
+
+:0 •->
+
+:0
+
+v.
+
+
+
+r.-irr CVnt
+
+ETteM»ric®c«eh
+
+KEYLOGGER
+
+Oicput columns are designated by process >wne*prcce& idteestion >d
+
+ICcyatiokc legend
+
+Window Titl»:
+
+2C0?-10-13T7;4 2.-5/ 06
+
+"ctrij( c>r'J[ctrl] [ctrl)[ etri](nri] ictrl)[ctrl][ctri]
+
+’clilir ctrllf ctill f clrlir ctillf rtrlH05s3ir ctrllV
+
+2C09-10-1377:42:46.781	?
+
+2C0 9- ] 0-1307:42:* $.79$ !Cx J$] [ctrilOs]
+
+2CÜ9-1Ö-13T7436 921
+
+2C09-10-13T7;43.22. ]5 »W
+
+Window Tide Changed:
+
+QQ.e.xr-804-0
+
+»IS
+
+;Oxi5J&;Oxe5}I(Dxe5](tee$]AO[Oxe5]
+Oxe5]ZH[Oic5^T[Ozc5]W[Cfcic5]
+;0xe5JHE(0ic5] [0xe5]
+CKf5]r",[0>:e5]l[Dxe$]B[0se5]I[iixe5]
+;Cxc5]AO[0«c5; [Oa;5][.][C>:c5j;0:ic5i
+
+:0xe5]Z7O[0re5][C:{e5Tn[0xe5i
+;Oxe51AN[Ose5; [O»5][Oxe5JDE(0»i5]
+;0xe5]0[O>se5]2[0Ke5][Oxe5JY7EC3xe5]
+;0x:3JBU[Q«5][Cfcc3 ][ Q*e5JZIII[Cte3 ]
+Cxc5p[OxeS]AO[Of:CSi f0nc5]
+
+,G’/Cf 5 )1 IfOse 5] N[ Om $] (Oxe i ]QU [0x25]
+Cxe5M0^5T[Oxe5][0»;5]N3[0»5]
+■fd]’0xe5][saH
+
+
+
+EXCEL E XE '552 'O
+
+MSACCESS.EXErt5B(M0 MSACCESSJJXl
+
+Micros ufl Excel - 3CuF t5-ir A2C(i'
+W $09: 8-1X11*1*
+
+Microsoft Access
+
+Microsoft Ac
+
+Session Leads (3) Veta (l)
+
+;Oxe5]B;Oj«5MOxe5][Oxe5]
+
+>
+
+F
+
+JS *T>
+
+c <N O *-
+
+: -W
+
+
+
+u	b
+
+2 û! a
+
+Ml
+
+umm rara
+
+
+
+3
+
+cS
+
+r*
+
+I
+
+r
+
+E
+
+V
+
+5
+
+li
+
+i*
+
+«/•
+
+O
+
+CM
+
+U
+
+LU
+
+a:
+
+o
+
+«-»
+
+>
+
+■
+
+X
+
+?
+
+Cl
+
+a
+
+o
+
+tí
+
+o
+
+LL
+
+E
+
+p
+
+ù.
+
+.o
+
+Cl
+
+E
+
+C*
+
+5*
+
+S
+
+c
+
+d
+
+C
+
+E
+
+g 2
+
+WWW	W	W	(A	(A	W M W W W W W W	(A W W W	WWW
+
+uli£(£	m	uc	ci	uc	ictcmucccucucu:	ucucucx	ucmuc
+
+OO 10	.0 V) CO .0 V» bOC/lC/SCOC/lCOlObOCOlOUlCfl www
+
+=•, =. 3.
+
+3, =, 3. 3
+
+=• 3, =>, =,
+
+3. 3 =■ 3, 3 3, 3, 3, 3, 3. 3
+
+
+
+T r
+
+T r
+
+X T T T. T
+
+«
+
+5
+
+v;
+
+J § ¡§ 1 i
+
+S- a. > aBttHvaJlJi
+
+-	-	N	-	N.VNNÍ.-----
+
+*C “ï 2 322222't^C^'t
+
+nnnñ n n fi n § itt vn r¡n tti ¿ vi m ïïi rvi rïi rn in wi fa *771
+
+® -3-® -s - © -s • ® ■ « fl]	fl]
+
+—a-.....©
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Parsing
+
+Tailored Viewing
+
+•	Browser Info
+
+•	Collected Files
+
+•	Directory Walks
+
+•	Drive Listings
+
+•	Ipconfig
+
+•	Keylogger
+
+•	Process Lists
+
+•	Registry
+
+•	System Survey (partial)
+
+yes
+
+standard XKS view
+
+yes
+
+xml
+
+xml
+
+yes
+
+xml
+
+yes
+
+xml
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN. GBR. NZL
+
+•	arpcache
+
+•	arpconfiguration
+
+•	auditinformation
+
+•	capturedcredentialsdata
+
+•	connectionlog (unavailable)
+
+•	datatransmission
+
+•	email
+
+•	error
+
+•	exchangedata
+
+•	fb
+
+•	filefllterlist
+
+•	localelnformation
+
+•	modulelist
+
+•	machineinformation
+
+•	netmap
+
+networkmapping
+
+netstat
+
+networkstatistics
+
+systime
+
+routing
+
+routingconfiguration
+
+sleepysheriff
+
+smackcrafty
+
+storedfile
+
+systemsurvey
+
+systemversion
+
+transportlist
+
+unidentifiedfile
+
+wirelesssurvey
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+»
+
+ÖL
+
+ï
+
+3
+
+»
+
+t:
+
+3
+
+«J
+• ■
+
+11*
+
+■Cf«
+
+II
+
+?
+
+?
+
+w
+
+LU
+
+r
+
+?
+
+*
+
+«
+
+<-j
+
+>
+
+«
+
+?
+
+n
+
+£
+
+5 ,
+
+Ul
+
+Cf
+
+=3 I
+*1
+JC
+
+c
+
+5
+
+
+
+<3
+
+it
+
+*
+
+
+
+<A
+
+i>
+
+5?
+
+i>
+
+ftj
+
+.&
+
+T3
+
+’J.
+
+£
+
+fs	cl
+
+O
+
+2 *
+
+.w
+
+%	s
+
+I a
+
+* % *
+
+r- £)
+
+a
+
+2 2
+
+£ %
+
+I S
+
+<9	«
+
+a
+
+3* *
+
+Ps\
+
+a
+
+»
+
+?
+
+4
+
+-
+
+■5
+
+S *
+
+I 1
+
+1
+
+a
+
+*	«	*	-s	s
+
+—	—	—	—	^
+
+.-*	.*-*	.-	.-
+
+*
+
+* II
+
+ff	«
+
+a	*
+
+* ■* *
+
+*	4!
+
+3 g
+
+r c
+
+I I
+
+S «
+a '
+
+%
+
+	c	c
+	a	£
+4S	*	
+r	2	JS  .*-
+5	c	>
+•i	1	
+«	fl	•r
+«■	a	c
+*	?	
+	*»	N.
+
+c"
+
+a
+
+«
+
+*
+
+a
+
+*
+
+U
+
+g
+
+n
+
+£
+
+g r
+
+U
+
+2 5
+
+=:	i»
+
+?
+
+s	s	s	s	s		=	r s		3	r s	3	3	3	Z
+5T	5"	>	?	5“	X	>	î ?	î ? î î	S’	S’ S	?	S	S’	S
+c	c	c	c	c	c	c	= c		a	= C		c	c	c
+?	>	?	Si	*	Si	Si	? Si	? ? ? ?	?	t Sr	?	Sr		Si
+o	«	O	Ci	«	O	O	y o	o o « y	C."	•-> «	«	ü	c	t»
+«	«	«•	*	«	<A	O	» O	V' •' « »	«	» «	•A	*	A1!	*
+«>	«	O	O	c	0>	o		» » i»	«Í	ï» «n	v>	X	c	O
+«	2	5	5	5	12	2	-2 2	5 J 5 2		J2 ^		2	i	21
+V	V	V	w	V	V	w		J V V V	V	V V	V	V	V	L»
+
+i
+
+■- -i
+
+E c
+
+* I
+
+UJ
+
+ft
+
+=' -,
+
+I €
+
+8 £
+
+>, ><
+w ^
+
+5 2
+
+¿r
+
+S
+
+ä
+
+c.
+
+SSSSSS5 S*
+
+A A A *> A A AAA
+"“I	““	I I I I I I I
+
+C JZ C C X
+
+S= *=£
+
+5
+
+£ £
+
+€ « S
+
+¿
+
+2	2	¡5	2	5
+
+_A I A ^ A.
+
+JZ	S jc' £	£
+
+f •	^
+
+V	c	o	o	y	o	•->	u	«	y	z	i	v	2	v	c	v
+
+o	c	o*	o	X»	o»	i»	V	t	V	a	2	c	r	c	<.	0
+
+Î/ n.	f.	n	5 f. 5 ?. r	r	t	T	ti	T	n	?.	i!
+
+V	<5	>f ■/*	-Ö	-ff	ro	c:	^	C	ca ^	^	*-i-
+
+^	T- C ■=•
+
+cor; nj {M
+
+
+
+Ci
+
+i=S5 32SS$3S3S3333333SS
+
+fî O» «*•
+
+«SggggggSgggggSSSgigg
+
+-J OJ fS rj ÎH r\ 7N FM Cl FN Cl n <«y PI C\ <«|	<\ Oj ¡H CM .-N
+
+^ » r*>
+
+«
+
+Cl
+
+3 5 2 2 2
+
+r* ç-.
+
+5>
+
+fii ä »»»»»«»»»¿ ¿ÂNÏÔi^NN
+
+CM r* fC .-A r. ,-A W « M « r» «	« ÍN «	f, ,-l w ?■*
+
+£?S8888888288S3S¿:8¿8
+
+
+
+«V ff.
+
+ff»		0i	ffl	0.	0-	A	J.	A	0.	A	J.
+S	1	ï	%	$	5	t	$	s	ï	S	%
+		A4	A»i		AN	Al	rs		M	Ay	M <
+
+ff. at
+
+¿ a 3i il * il i 21 9 21 21 § il 2 51 El El El El El S
+
+V	*• >>>>>>> *	> V > .&> V t* »
+
+V	-Vs *9	</	*9 +ÿ 'f t 'S *9	•* y V V Y v V
+
+rr	J* JJ '-J JJ LJ îii JJ LL’ JJ Ï4
+
+oooooacoco£55
+
+U» UJ UJ UJ UJ
+
+C O O O O
+
+o
+
+LJ
+
+.C
+
+»
+
+.?
+
+? ë
+
+ri 8
+
+W I-
+
+£
+
+C
+
+•= £■ «*
+¿ 2 te
+
+? u Cl i,
+
+Il SI
+
+%
+
+-•
+
+«
+
+*-
+
+X
+
+c X
+
+c
+
+tr>
+
+C
+
+lÆ7|F7IPlf71VIÏVlfI|
+
+S
+
+o
+
+SÂ
+
+- m Ja
+
+o S f
+
+C fc £ fl
+
+g 111
+ils
+
+t:
+
+I
+
+w o
+
+0
+
+1
+r
+
+»
+
+->
+
+® £
+® r.
+
+O ¿
+£ î
+
+c
+
+LL
+
+J& i
+
+S 5
+
+fi ¿
+
+■c
+
+t
+
+• g'
+
+'D
+
+Ol
+
+C
+
+CL
+
+i ?
+
+2 C
+
+< O
+
+1 ^ 2
+
+2 2 i 2
+
+O'DOOOGQO s 000 na ¿ ® ®rara
+
+03003)311100	0
+
+•-CD ...3 -
+
+IIUHL* ’• • [I [vil
+
+
+
+MiSl	
+iron	ioimkob
+
+TOP SECRET//COMIMT//REL TO USA, AUS, CAN, GBR, NZL
+
+aHv!
+
+Future Plans
+
+lL’lr
+*
+
+Lj
+
+• Expanded data coverage
+
+•	UK, AUS, (NZL possibly)
+
+•	Validator/FOX contact/survey flows??
+
+•	ECI data??
+
+•	Better TUCKER processing (both in TAO and XKS)
+
+• Extended plug in coverage
+
+•	Network information (neighbor/gateway IPs etc)
+
+•	Machine Information (host name etc)
+
+•	Process files not found in passive
+
+•	Registry files
+
+•	Thumbs.db
+
+•	Browser history/bookmarks
+
+•	Apply to Media Explotation
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Questions?
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Page
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN. GBR. NZL
+

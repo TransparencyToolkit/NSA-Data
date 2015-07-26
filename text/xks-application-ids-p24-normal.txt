@@ -1,0 +1,7 @@
+﻿appidCchat/icq', 8.5, wireshark='icq', chatproc='ICQ') =
+/[~o]icq/c and $icq;
+
+appidCchat/icq', 9.0, wireshark='icq', chatproc='ICQ') =
+first('icq') and not port(25);
+
+TOP SECRET//COMINT//REL TO USA. FVEY

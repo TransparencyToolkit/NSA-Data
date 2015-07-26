@@ -1,0 +1,10 @@
+﻿Context Sensitive Scanning
+
+•	As another example, let’s say we want to tag all Iphonc usage
+
+•	Using the XKS context for User Agent this easily becomes
+
+fingerprint(‘demo/scenario2’) =
+user_agent(‘iphone’);
+
+TOP SECRET//COM1NT

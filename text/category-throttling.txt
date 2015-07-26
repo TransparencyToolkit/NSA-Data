@@ -1,0 +1,123 @@
+﻿SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+How to configure category throttling in XKEYSCORE
+
+Category throttling is performed by the selected output plugin, in the xks.config you need to make sure
+that you are using this plugin to perform forwarding. You will also need to have throttle=yes in the
+configfor the plugin.
+
+Ex:
+
+plugin[selected_output] = enable=yes, conf ig_f ile=ITthrottle=yes
+di rectory=/export/data/xkeyscore/outputs/mailorde r_working
+add_d706=true pass_fragments=true max_age=900 max_size=5000000TT
+
+If this was not already set, in order for the changes to take effect you will need to then perform the
+following commands:
+
+xks setup plugins
+xks proc saferestart
+
+At this point category throttling is now enabled with the default values of 1GB and 1000000000000
+sessions. Once either of these limits is reached XKEYSCORE will continue to process data but will no
+longer forward session that hit on that category. By navigating to the category throttle page you will be
+able to see the current status of the categories that have been throttled. A category will not appear on
+this page until it has hit once that day. In the following example the site default was changed to 5MB
+and 500 sessions:
+
+XKEYSCORE Welcome oper Loci Out
+
+Home ^ Admin Users Wbrk;b\v Central Search ([^ Results Statisxs My Account
+
+0 Help-
+
+Navigation Menu
+
+gFfjJAdnm
+
+□ 0) Processing
+
+¡g Computer Resources
+[£] In pit Directors
+[£] Plucin Configuratbns
+¡P] 'Category Throttb
+[P] Age Of Settings
+0 0) Databases
+
+[P| Search DBc
+¡U DB 3ogetratcn
+i^l Dasenotaton 3bcklbt
+
+Ne>v Fbt Ciange Site Defaut Site Defaulb -v Category Quote:5 MB, Se33bn3 Quota:500
+
+SECRET
+
+After session start to hit you will see the status displayed on this page:
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20350401
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+XKEYSCORE Welcome oper! Log Cut
+
+Home ^Adrrin Users Workflow Cenfal Search Qk Results |^] Slalstcs ^ My Account
+
+4) Help--
+
+Navigation Menu
+
+Q0J Admin
+
+□	0) Processing
+
+■g Oom piter Resources
+jg| nput Directories
+^ 3lugin Oorfigu rations
+H] Category Throttfe
+■g] Age Off Sottinge
+
+□	0) Databceoc
+
+EE] 3©crch DOs
+[E] DB Registration
+g=l(Jasenotaion BtacKist
+
+NdwFe:
+
+Chango Sro Cofault ■ DatajIts -> Ca-ogory Ouota:5 MB, Boeebie Quota:500
+
+TEST
+
+.Add Catgeory Throttle Change Fst Detaull Reset Fst De^uh
+
+Oategcry Daly Category Quota Quota Remairinc Quota Over			Daily Sessbn Quota	Sessions Remaning	Sessions Over
+4 5 MB	0 bytes	342.8 KB	500	2S6	0
+2 5 MO	5 M3	0 bytes	COO	¡303	D
+1 5 MB	0 bytes	26.5 MB	500	0	2025
+
+SECRET
+
+In the example above categories 1 and 4 and currently being throttled, category 1 has reached both the
+session count and MB limit, while category 4 has only reached the MB limit. Without category throttling
+category 4 would have forwarded 342.8KB.
+
+You can also check the status of the throttle from the command line using:
+
+mysqls	quota_status_current	: show quota_limits forwarding
+
+status for all categories
+
+mysqls	quota_status_yesterday : show quota_limits forwarding
+
+status for previous day
+
+mysqls	quota_throttled_current : shows top 20 categories for
+
+current day. (negative remaining indicates cat was
+throttled)
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

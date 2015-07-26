@@ -1,0 +1,605 @@
+﻿Analyzing
+Mobile/Cellular DNI in
+XKEYSCORE
+
+May 2009
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN. GBR. NZL//20291123
+
+08
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI
+
+■ Mobile DNI can be described as people
+using their Cell Phone or cellular
+technology to access the Internet and
+E-mail
+
+■ There are essentially two “types” of
+collection:
+
+■	Collection within the GPRS/3G network (i.e Abis
+link)
+
+■	Collection within the public Internet
+(FO R N S AT/F6/S SO/FIS A/etc)
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI
+
+Mobile DNI Collect comes in two main types:
+
+Convergence of DNR & DNI selectors!
+Mostly from T6 collection
+
+Most cases, needs to be “near” the infrastructure
+
+Looks like regular DNI but with “hints" that the
+source is a cell phone
+
+Collection could be F6, FORNSAT, SSO, FISA
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity
+
+HTTP activity comes in two types:
+
+cnn.com Server
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT/ZREL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: HTTP Activity
+
+HTTP activity comes in two types:
+
+
+
+Y
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Converged collection
+
+r
+
+■ Examples of “converged” collection:
+
+■	GPRS by F6 JUGGERNAUT’S
+
+■	WLL/CDMA by SCREAMIN (OTRS)
+
+All “converged” collection is put into the
+“Cellular DNI” plug-in of XKS which gives
+you the ability to query for DNI traffic based
+on DNR selectors (IMSI, IMEI, MSISDN,
+etc) where applicable
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+III J I till):	(, . ' • )l !i '
+
+Mobile DNI: Converged collection
+
+f
+
+■ DNR & DNI meta-data will be together:
+
+TTSTHRA	ACTIVITY	1TSFR JR	COOK1T	ACTTVFjrSFR ACTIVFJirSFF _TP A CUV*
+
+		server to client		clb09e4e<TLLI>		cyahoo>		
+	<yahoo> logged in (email) |			0		cyahoo>		x;c
+
+9 clfc09e/-e<TLLI>
+
+■a 418056101353054<IMSI>
+
+seen with machine 7D
+
+kyahoo> seen with machine ID
+
+previous if
+
+S Show (2) Values
+
+ffi Show (2) Values
+
+db09e4e<TIXr>
+
+0 2 possible
+
+clbÜíe-le^TLLIt*
+
+:yahoo>
+
+:o:
+
+-yahoo>
+
+kyahoo-*
+
+:cc
+
+3CÍ
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Converged collection
+
+| X-KEYSCORE’s Cellular DNI plug-in allows
+you to query on the DNR selectors for
+Persona Analysis
+
+J!¿3CIus8íl A-M
+
+¡3 ASF end IMIV h-etedeíü
+Alert
+
+i^]Black&erry
+j j-fflCNE
+gCsl legs
+E^lCalegcry DM
+¡gCM jlsf DNI
+^Ciaju Pasawurda
+¡^iDocunnrr. Metadato
+i^lDocurrnre Tagging
+¡^] Err ail Adc'esses
+jd^Exp-aded Files
+■•^JFu'ILcb C'JI
+[U HTTP Activity
+l¿b)lftC Cafe Geo nratinn
+CTLoaina and Passwords
+Mia op ugh W et a Jol a
+
+Query Name:	dlstua2_4
+
+Justification:
+
+Additional justification:
+
+Miranda Number:
+
+Interface:
+Hit Stat us:
+¡MSI:
+KI:
+TMSI:
+I HE I:
+MCC:
+
+Dátenme:	1 Week v
+
+Start:	2009-06-06	r®i	CO: DO C:	Stop: 2UJAUb-l.il 1 23:59 ^
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Converged collection
+
+By taking the IMSI we found in MARINA we can identify all
+of the DNI traffic (webmail, web-surfing etc.) that originated
+from that same mobile subscriber
+
+IMSI
+
+Application Inin -r Appicaton	AppID f+Fingerprinte)
+
+I«t|).r«|>ûiwt/\<ii(l.w httpiti»|>ônac odlpl
++ + + + + * * * + iwtp.f espon^e.-lttml http.resivonse pttw
+
+*♦♦♦♦ ♦♦♦♦	Itttpxesponse.lTtnil	http.res|>onse pttw
+Yahoo! Front Page	ntailWehmaiyaftoo	nta i 1 'welt rtvail yahoo
+Yahoo! Front Page	mail.WehmaiLyaitoo	nt a 11 Web ittail.yalt oo
+Y! Mail	mail webmail.y ait oo	nta II Weh mail yah oo
+Y! Mail	mail Wehmail yaltoo	ntnilWehmail/yaltoo
+Y! Mall	mail.WehmaiLyaitoo	nt a II Web ittail.yalt oo
+Y! Mail	mail wehmail yaltoo	nta 11 Web ittail.yalt oo
+Y! Mail	mail Wehmail yaltoo	nia il Web mail/yaltoo
+Y! Mail	mail Wehm.tiLy ait oo	nt a II/Web ittail.yalt oo
+Y! Mail	mail.WehmaiLyaitoo	nta 11 Web ittail.yalt oo
+Y! Mail	mail Wehmail yaltoo	mnilWehntail.yalioo
+Y! Mail	mail.WehmaiLyaitoo	mail Web mail Wt It oo
+Y! Mail	mail.WehmaiLyaitoo	nta il Web ittail.yalt oo
+Y! Mail	mail Wehmail yaltoo	ntailWebmail/yaltoo
+Y! Mail	mail.WehmaiLyaitoo	mail Web mail/yah oo
+Y! Mail	mail.WehmaiLyaitoo	nt a 11 Web it tall.yaltoo
+Y! Mail	mail wehmail yahoo	ntailWebntail.yaltoo
+Y! Mail	mail.WehmaiLyaitoo	ma il/Web mail/yah oo
+Y! Mall	mail.WehmaiLyaitoo	nt a 11 Web ittail.yalt oo
+Y! Mail	mail Wehmail yaltoo	nta 1 1 Web ittail.yalt oo
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+T
+
+■ After the DNI traffic exits the
+GPRS/WLL/CDMA Gateway, it will travel
+over the public Internet and can be
+collected through “traditional” DNI accesses
+like FORNSAT, F6, SSO, FISA etc.
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+Sometimes its difficult to tell if your target is using
+a cell phone to access his E-mail
+
+MARINA currently provides little or no “hints”
+
+TS A
+
+20090:05 192943Z
+20090f 05 192943Z
+
+20090505	194642Z
+2ÜÜ9Ü5Ü6 19ÜÜÜ6Z
+
+20090506	1906221
+
+20090506 190622Z
+
+USPRTT) PHONF TESPR A
+
+ACTIVITY
+
+client to server
+logged ir. (email)
+logged ir. (emai)
+logged ir. (email)
+logged ir. (email)
+cLent to server
+
+TESPP B
+
+COOKTF
+
+ACTTVF TfSiFR ACTTVFTTSFRTP ACTTVF
+
+kyahoo>	AP
+
+kyahoo>	AP
+
+kyahoo>	AP
+
+pyaho©>	AP'
+
+'yahoo >	AP
+
+kyahoo>	AP
+
+20090506 192654Z
+
+seen with machine ED 9mieuh4;lr97<yahooEcookie> 9rvueuh4sir95<yahcoBcookie>
+
+'yahoo >
+
+AP
+
+20090506
+
+2ÜÜ9Ü5Ü6
+
+20090506
+
+20090506
+
+20090506
+
+20090506
+
+20090506
+
+20090506
+
+192654Z
+
+192654Z
+
+192654Z
+
+192654Z
+
+192305Z
+
+192R05Z
+
+192305Z
+
+192305Z
+
+[-yahoo- seen with machine ED 9rvueuh4;lr97CyahooEcookie^
+previous IP
+client to server
+|<yahoo > logged ir. (email)
+
+seen with machine ED 9rvueuh4;lr97<vahooEcookie>
+d ent to server
+
+|<yahoO'
+
+previous IP
+logged ir. (email)
+
+9rvueuh4 sir 97 <r yahe oBc o okie>
+9rvueuh4 sir 9’ / <yahc oBc o okie>
+9rvueuh4 sir 97 <yahc oBc ookie>
+9rvueuh4slr97 <yahcoBcookic>
+9rvueuh4 sir 97 <yahc oBc ookie>
+9nniei ih4 sir 97 <yah o oBc o oki e>
+9rvueuh4 sir 97 <yahc oBcookie>
+9rvueuh4 sir 97 <yahc oBc ookie>
+
+AP
+
+AP
+
+AP
+
+AP
+
+AP
+
+AP
+
+AP
+
+AP
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+Search For
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+username
+
+X-KEYSCORE “User Activity” provides
+some hints
+
+Note the fingerprint of
+browser/cellphone/nokia
+
+Sesrctr Value
+
+Application
+
+AppID (^Fingerprints)
+
+gyalroo mail 'vvebm ai lyal too
+ay.iliou mnN/wehmailynlio
+•yahoo mall WelMiiallyal 100'
+yahoo mail wcbmailyaltoo
+■g yahoo moil wcbniail yahoo
+•lyal 100 mail ¿We bm ai lyal *oo
+Syalroo mail We Imiai lyal too
+gyahoo mail •wel>m ai lyal 100
+■gyal 100 mailWel>m ai lyal i-»
+gyahoo mail Wel>m ai lyal 100
+gyaltoo mail WoIhyi ai lyal too
+
+idrone.itokia celli>hone.Wat>finger mint•phone.itokia.'aeneric mo^jk
+
+ninil.'webmail.ynhoo hronvseiVcellphoneAiokia cellphoneiWapfiiiaeriirliitfrhoneAiokia/generic molli I
+
+m
+
+mailWcbmall,yahoo browser•<tll|>l>one.iiol<la ccllphone.Wap fingerprint phone.hokia/gcncrk nrobik
+mail webmailyahoo browser cellphone.itol<ia ccllphone.Wap fingerprint phoneArokia/gcnerk nrobik
+mailWcbmaiiyohoo browser’cetyltoncAiokia cellphonc.Wap fingerprint phone.itokia/gcncrie mobil:
+mail webnvailyahoo browser ceItpltonc iiolsia cellphone, wap finger print phone.nokia. generic mobil:
+mailWebmail.yahoo browser cellpltone.itokia cellphone.Wapftngerprintphone.nokia.'generic nrobik
+mailWebmail.yahoo l>rowser-cell|>l>otte.itokia cellphone.Wapftngerprintphone.irokia.'genenc nrobik
+mailWebmail.yahoo l>row$er>cell|>l>otie.jtokia cellphone.Wap finger print'phone/nokia/generic nrobik
+maiIWel>maiiyahool>roweericelli>l>ot>e.irokia cellphone.Wap fingerprint •phone/nokia/generk nrobik
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+X-KEYSCORE “HTTP Activity” also provides some hints!
+
+Note the hostname of inti.rn.yahoo.com and user agent of:
+
+NokiaN72/5.0706.4.0.1 Series60/2.8 Profile/MIDP-2.0
+Configuration/CLDC-1.1
+
+HTTP Type	Host -	JRL=-a*i	URL Args
+get	inti .m .yahoo jcom	¿pAnessenger	c=Na2nvYzHyTUStsrc=yahoo£tr=284440439
+
+Cookie
+
+SP=v=‘ So»' ¡ Y»v»1&n»rt8te£ji¡i1138g5&
+
+Browser
+
+NokiaÑ72«.0706.4J0.1 Ser es60.*2.8 Profiled DP-2.0 ConfigurotioiYCLDC-l .1
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+Jr
+
+3 The content also provides some “hints”
+
+ID: sess oriq proc
+
+			Type H i P GET	i Prime' Friend v Version
+DMI Display Rav/Dala | DNI Format				
+Services t				
+
+vET/pdn: ,r£cagcr?c=Na2:ivYiEyTU &tsrc=i;esoiu"CcScrdcl?:w.c=yaho o &r=28444Q439 H'iTPA.l
+
+Ecst.	mllm. yahoo, com
+
+Accept	text/javascript, text/ecroascript. apphcationfe javascript, text/htwl, appHcation/'vrid. wap.xhtml x
+
+nrjiihipai^'mize<l.text/vndwap.,APral applcationAndwap wmlc, applicataon^mdwap wjnlscnpti
+appHcafeon/java. appHcaton/x-java- archive, texted, sun.j 2ne. app - des cnptor. appk an.cr.foid
+appkatootfoiconiacm cooteitt, appHcaticrfoid.wap mms message, appicatior/vnd wao sic
+application>vnd oma old xml, textijavascnpt, x/5*
+
+Accept-Charsst: iso-885?-l. utf-S. :so-lCi64-6-tics-2; q=0 6
+
+Acccpt-Znc ocing: gap.defiate.identity. q=0.9
+
+An rpl.-I,anguagc
+Cookie-
+
+en
+
+SF
+
+Y
+
+v=1
+a=1
+vr=l
+
+a=d8ksciilf3Si
+
+(Yahoo login id:
+
+( Gander: male, Filth year: 1964, Postal code:
+
+?>• ,
+
+*1700
+
+r=i4
+
+lg=cn-US (Language-content: English)
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Examples
+
+The content also provides some “hints”
+
+Host:	mtLm.yahoo.com
+
+Accept:	text/j avascr.pt, text/e err. a script, appHcatioa/x-javascript, text/html, application/vad. wap. xhtml s
+
+midtip art/mixed, text/vnd.wap.wml, appHcation/vnd.wap.wmlc, appdcaton/vnd. wap. wmlscriptt
+applic ation/java, applicatiorA-java-archive, text/vnd. sun.j2me. app-descriptor, applic ation/vnd
+applic ation/vnd. oma. dnr.. content, applic ation/vnd. wap.mms -me s s age. application/vnd. wap. sic,
+applic ation/vnd. oma. dd xml, text/javascript, */*
+
+User-Agent:	NokiáN72/5.0706.4.0.1 Senes6Q/2.S Prcfile/MILP-2.0 Configiratioa'CLDC-U
+2: wap profile:	"http://nds 1 .ndc.nolda.com/uaprofiTHT72r 1 OC.xml"
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET/,'COMINT/ZREL TO USA, AUS, CAN, GBR, NZL
+
+Mobile DNI: Traditional Collection
+
+Sometimes there are even more “hints”
+
+Yahoo B Cookie
+
+MSISDN
+
+	
+	2l£a8h50fljl
+B	
+	s=71
+:p-a«:ldrc$s	
+X-MSP-APN	wao
+X-MSP-MSISDN	93707922562
+X-MSP-MSISDN-KEX	39333730373938323 53632
+
+User-Agent	Moalla/5.0 (SyttbianOS# 2;TJ; Senes60/3 1 NokiaE63-1/1 DO 21 ‘.ID;ProfiIe/MIDP-2.Û Configurât ike Gecko) Safari/413
+7.-v/ap--profile:	'httpy/ndsl nds nok:acoín/uapro8WE63-lrlÚ0.:c:nl"
+X-.Nokja-Mus:c Sh op-V crsion:	1 0.0
+X-Nokia-MusiC Sh op-B carer	GP3.S/3G
+Keltrer	htsp/faew.m yahoo.cor»w/bp rnessenger/messengervc“OwoNoDKlcMKÄr" 127522951 tsre =hpr
+X-MSP-AG:	DEFAULT AG
+X MSP APN	wap
+X-MSP-CAI,IING-IP	
+X MSP MSISDN.	93707932562
+X-MSP-MSISDN- HEX	3933373037393832353632
+
+X-MSP-NODE-NAME
+X-MSP - SESSION-ID:
+
+X-MSP-UG:
+
+X-MSP-WAP-CLŒNT-ID : ¿927C7932562
+
+Via.	Siemens
+
+mspsrv-Jiispatt
+10.1OO l 68_2320
+DEFAULT UG
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
+
+HTTP Activity Examples
+
+IPhone Users!
+
+Host	Browser
+api.apple.mail.go.yahoo.com	iPhone Mail (5H11)
+
+Cookie:		V=1
+	Y	Yahuu )  Gemler: iVmalv. Biiill year: 19"7. Fustal':ui.‘le:|Hi  jb=34|?2|9 ( Lotus try: Telecommunications, Job: Network Administrator, Spe  r=ga  lg=et-US ( Lauguage/content: English 1 md=us i Connny: United States )  np=l
+	palii	/
+User-Agent:	domain	yshoo.com
+	T	z=CSICKB C Y dCKB ItdV g YO Yn85MjJPBj YyMD cz TzQ2TzA - a=QAE  sk=DAACWI24ft844j7  ks=EAApZl STMfoCuSrWe dATmlg—C  d=c2wBm^YtTEKrRTFOekEwrORNeE9EYyaBYQFRQUTJBZwFTJrEZVQirrV FfegFDUOlD S QJnVOEB dGhvATBkVXVF Qv? - -
+	path	/
+	domain	yahoo, com
+	iPhone Mai (5H11 j	
+
+TOPSECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

@@ -1,0 +1,9 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//202911 23
+
+xamples of "advanced" Plug-ins
+
+Plug-in	DESCRIPTION
+User Activity	Indexes the Webmail and Chat activity to include username, buddylist, machine specific cookies etc. (AppProc does the exploitation)
+Document meta- data	Extracts embedded properties of Microsoft Office and Adobe PDF files, such as Author, Organization, date created etc.
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

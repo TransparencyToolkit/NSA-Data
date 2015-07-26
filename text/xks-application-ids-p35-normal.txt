@@ -1,0 +1,42 @@
+﻿no oi 101
+10011	001 1
+
+I IOOI IOOI II
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+r
+
+•'rr \rv .
+
+Code-based aooids
+
+Example -- packet data:
+
+fingerprint('vpn/xxp example’) =
+
+'Next Protocol 250'
+
+: C++ {{
+
+packet_t pkt;
+int count = 0;
+
+while ((pkt = get_packet()) && count < 20) {
+++count;
+
+if (pkt.size < 16)
+return false;
+
+if (pkt.data[4j != OxCC ||
+pkt.data[5] != 0x45 | \
+pkt.data[15] != 0x72)
+return false;
+
+}
+
+return (count > 0);
+
+}};
+
+TOP SECRET//COMINT//REL TO USA, FVEY

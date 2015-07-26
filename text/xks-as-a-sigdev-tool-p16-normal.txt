@@ -1,0 +1,23 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//202911 23
+
+pplds and Fingerprints
+
+ZXr
+
+• X-KEYSCORE produces an application id
+for each session processed
+
+•	Currently almost 1300 Appids in 28
+categories
+
+•	An Appid is meant to identify a session
+as a particular application
+
+•	Fingerprints are an extensible way of
+tagging sessions
+
+•	Ex: A session Appid'd as mail/smtp
+might also contain fingerprints for
+encryption if used in the email
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR and NZL//20291123

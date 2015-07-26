@@ -1,0 +1,18 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+Basic Search Patterns
+
+XKEYSCORE supports Boolean operations and regular
+expressions
+
+Raw text must be encapsulated between single quotes
+
+•	'search term'
+
+Terms can be combined with Boolean logic
+
+•	'search term' and 'another term' and not 'defeat term'
+
+•	'search term' or 'another term'
+
+TOP SECRET//COMINT//REL TO USA. FVEY

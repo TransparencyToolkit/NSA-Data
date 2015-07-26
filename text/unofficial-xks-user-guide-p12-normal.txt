@@ -1,0 +1,32 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+3.	Looking for a phone number without the country code (non-normalized)? It’s
+possible a target will pass their phone number without the country code (e.g. a
+signature line with ‘Tel: 5354658”). In that case, XKEYSCORE will not find the
+number with the country code so you must create a query that looks for fewer
+digits but still complies with USSID-18. This is not a 100% solution* but
+ANDing your query with a country or IP address would certainly be more
+compliant. See example below:
+
+The number you enter here isn’t
+normalized beciiuse you expect to see
+it in traffic without the country code.
+To make this USSID-18 Compliant
+you must AND this with something
+like a country or IP address.
+
+This example shows traffic in/out of
+Pakistan
+
+This example shows traffic
+in/out of a particular
+network/IP Address
+
+•If you ask XKEYSCORE to give you all Pakistani traffic, it’s doing an NKB lookup on all Pakistani
+registered IP addresses. Geolocation of IP addresses is not 100% accurate at this time. Unofficial estimates
+say asking for all of Country X’s traffic will find between 50-60% of the actual traffic. (That’s more than
+0%. though, right?)
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+12

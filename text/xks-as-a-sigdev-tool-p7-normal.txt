@@ -1,0 +1,23 @@
+﻿TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123
+
+XKS Storage Times
+
+Front end storage is limited bv
+and policy restrictions and will
+
+resources
+vary by site
+
+At some sites, the amount of data we
+receive per day (20+ Terabytes) can only
+be stored for as little as 24 hours based
+on available resources
+
+Other sites have legal or policy
+restrictions that limit the amount of time
+we can store data (if we can at all)
+
+It's a rolling buffer where new data comes
+in and pushes the oldest data out
+
+TOP SECRET//COMINT//ORCON,REL TO USA, AUS, CAN, GBR anc NZL//20291123

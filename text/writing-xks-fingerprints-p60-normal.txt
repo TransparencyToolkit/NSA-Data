@@ -1,0 +1,18 @@
+﻿TOPSECRETSTRAPi
+
+•	$acwitems = ‘machine gun’ or ‘grenade’ or ‘AK 47’
+
+•	$acwpositions = ‘minister of defence’ or ‘defense minister
+
+•	Sacwcountries = ‘Somalia’ or ‘liberia’ or ‘sudan
+
+•	Sacwbrokers = ‘south africa’ or ‘serbia’ or ‘bulgaria’
+
+•	$acwports = ‘rangood’ or ‘albasra’ or ‘dar es salam’
+
+topic('wmd/acw/govtorgs') =
+
+email_body($acwitems and Sacwpositions and
+($acwcountries or Sacwbrokers or Sacwports));
+
+TOP SECRET//COM1NT

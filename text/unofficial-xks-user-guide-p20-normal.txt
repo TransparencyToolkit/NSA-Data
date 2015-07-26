@@ -1,0 +1,16 @@
+﻿TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Next, fill in the name of your query (“AfghanFilcs”), the auditor-compliant justification,
+and how often you want the query to run. I recommend offsetting the time from the
+default of midnight (2400) by a few hours (before of after). For this, I’m selecting 0400.
+Then hit NEXT.
+
+In the Add Search Fields window, you will select the search criteria that you want to
+search on. In this example, I’m looking for specific file attachment (DOC or PDF or XLS
+or PPT) on a specific Afghanistan IP address.
+
+You must hit the green “+” symbol to enter the search criteria.
+
+TOP SECRET//COM1NT//REL TO USA, AUS, CAN, GBR. NZL//20320108
+
+20

@@ -1,0 +1,20 @@
+﻿TOP SECRET SI'RAPl
+
+•	In specific cases to avoid false hits you can use the ‘word’
+context.
+
+•	Or force there to be a space on either or both ends of the term
+by including them inside the single quotes
+
+•	So this fingerprint becomes:
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+
+‘ NDC
+OR:
+
+fingerprint(‘cp/pakistan/agencies/ndc’) =
+
+word(‘NDC’);
+
+TOP SECRET//COM1NT

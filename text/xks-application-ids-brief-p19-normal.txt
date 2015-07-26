@@ -1,0 +1,27 @@
+﻿Classification: TOP SECRET//COMINT//ORCON//REL TO USA, FVEY//20291
+
+Appid utility___________________________________________
+
+r  appid options: --help --list-all	this help message  list all the application/fingerprint names and levels
+
+—list-appids	list all the application names (no fingerprints)
+
+-list-fingerprints list all the application names (no appids)
+-list-types	list all the application types
+
+—list-levels  -unit-test	list all the application levels perform unit tests with data in the heirachy 'datadir', with files matching 'filespec'
+—quiet	don't print any load messages
+
+—appid_fname arg	location of appid.cfg
+
+-input-file arg	input file to test
+
+—datadir arg	The test data directory. Defaults to
+
+$(XSCORE_TEST_DATA DIR)/appids
+—filespec arg ( = .*\.ul24) A regular expression to match against files to
+check
+
+—noexit arg (=0) do not stop on the first error
+
+Classification: TOP SECRET//COMINT//ORCON//REL TO USA. FVEY//20291123
