@@ -1,0 +1,26 @@
+﻿Directory Structure
+
+/opt/xkeyscore/config/ - consists of sub-directories
+and each contain configuration files for building and
+running XKEYSCORE.
+
+• crontab/ - contains the master and slave crontab file.
+
+•	dictionaries/ - contains the dictionary files for the filtering,
+selection, TRAFFICTHIEF, CADENCE, fist tables, and any
+other local dictionaries.
+
+•	misc/ - contains miscellaneous per-plug-in configuration
+files, (i.e. sotf_input_proc.xml).
+
+•	plugins/ - contains event handler configuration files for
+each of the plugins (default.xml).
+
+•	www/- contains web configuration files and xscore.cfg.
+
+•	SERVICE/ - contains the config files for all the services
+needed by XKEYSCORE (httpd, php, mysqld, etc.)
+
+TOP SECRET II Si II REL TO USA, AUS, CAN. GBR, NZL
+
+23

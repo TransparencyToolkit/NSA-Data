@@ -1,0 +1,32 @@
+﻿)P SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+■ Is XKEYSCORE receiving input?
+
+•	To verify whether XKEYSCORE is receiving input,
+run the sotf_stat command to get the current
+input statistics.
+
+•	If no connection is visible, from the command line:
+
+1.	Type telnet localhost 5042
+
+2.	Output statistics for the specified sotf_dist
+
+3.	If running, type ps -ef | grep sotf_dist
+
+4.	Determine if sotf_dist’s are listening on the
+specified port:
+
+Type telnet localhost 5040
+
+If command is refused, the sotf_dist is not listening on the port.
+Continue with step 5.
+
+5.	Type netstat -a | grep 5040
+
+If a connection is established for this port then most
+likely the sotf_dist is listening on this port.
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, NZL
+
+121

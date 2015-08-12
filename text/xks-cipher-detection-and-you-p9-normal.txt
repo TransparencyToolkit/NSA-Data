@@ -1,0 +1,31 @@
+﻿r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Syntax Features
+
+•	Case Sensitivity
+
+fingerprint('certifica.te/digital_id') =
+
+'-BEGIN CERTIFICATE-'c;
+
+•	Full Boolean logic
+
+•	Grouping with parentheses
+
+•	Operators: and, or, not
+
+•	Variables
+
+$udp = protocol('udp');
+fingerprint('vpn/openvpn/x509/wera')
+$udp and 'openvpn_wera'c;
+
+"\
+
+V
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+J

@@ -1,0 +1,16 @@
+﻿TOP SECRET//COMINT//REL TO USA. AUS, CAN, Gl
+
+loes the Tech Extractor work?
+
+After the meta-data tag is applied, analysts can then
+use that meta-data tag as part of a USSID-18 compliant
+query for traffic
+
+• It’s important to note, just like AppIDs+Fingerprints,
+Tech Extractor tags aren’t necessarily USSID-18
+compliant by themselves. •
+
+• You may need to add a valid foreign IP address, MAC
+address or country code before you query!
+
+rop SECRET//COMINT//REL TO USA. AUS, CAN. GBR,

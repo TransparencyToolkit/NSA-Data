@@ -1,0 +1,30 @@
+﻿Processing Problems continued.
+
+r
+
+• To test the xscore proc, type:
+
+telnet <process host> <port number>
+
+Optional commands to assist trouble shooting are:
+
+•	sbr - prints the processing rate for the single
+
+xscore-proc.
+
+•	sh - displays dictionary hit statistics.
+
+•	ss - displays statistics on the internal plug-in
+
+processing rates.
+
+• help - there are many commands and can be
+described in the help menu.
+
+TOPSECRETj
+
+TO USA,,
+
+J, GBR, I
+
+130

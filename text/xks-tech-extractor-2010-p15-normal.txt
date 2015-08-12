@@ -1,0 +1,17 @@
+﻿TOP SECRET//COMINT//REL TO USA. AUS. CAN. GBR. NZL
+
+Tech Extractor Tasking Rules
+
+•	Currently, all terms need to be classified REL FVEY
+
+•	Terms are case insensitive by default, but can be forced to be case
+sensitive
+
+•	Terms can hit as a substrings by default
+ex: ‘ricin’ will hit in ‘pricing’ •
+
+•	However, terms can be forced to hit as a unique word (either by
+tasking them with a space at the beginning and end or by using a
+regular expression)
+
+TOP SECRET//COMINT//REL TO USA. AUS, CAN. GBR. NZL

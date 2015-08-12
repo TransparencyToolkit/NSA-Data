@@ -1,0 +1,18 @@
+﻿TOP SECRET //SI IIREL TO USA. AUS. CAN, GBR. NZL
+
+Statistic Processes
+
+■ Other process which is run from the
+Application Launcher.
+
+■ xks_server_stats - sends to
+xks_system_monitor on Master and generates
+stats about the server itself.
+
+•	CPU usage, memory usage, disk space, disk I/O,
+network traffic, etc.
+
+•	Stats are fed to xks_system_monitor and the
+system monitor does magic with them.
+
+66

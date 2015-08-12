@@ -1,0 +1,25 @@
+﻿/.Wife
+
+rtr
+
+All searches are conducted on database
+tables where the results of the XKEYSCORE
+engine are stored.
+
+Each row of a database table contains values
+from an individual session that was identified
+as a hit by XKEYSCORE when that plugin or
+microplugin processed the session.
+
+Each search type query is related to a plugin
+or microplugin, which performs the metadata
+
+extraction.
+
+46
+
+TOPSECRET/
+
+I REL TO USA, AUS, <
+
+. GBR, t

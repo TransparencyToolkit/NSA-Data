@@ -1,0 +1,13 @@
+﻿■	The sotf_stat command is used to display the
+SOTF (streaming object transfer format) input
+statistics for an entire cluster.
+
+■	The statistics include total number of
+process_data’s running on the cluster,
+session input rate (sessions/sec), total bytes
+input (Mbps), and total bytes output to
+process_data(s) (Mbps).
+
+TOP SECRET // $1II REL TO USA, AU$, CAN. GBR, NZL
+
+110

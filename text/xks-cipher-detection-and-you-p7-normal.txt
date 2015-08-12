@@ -1,0 +1,32 @@
+﻿r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+A
+
+Fingerprinting
+
+•	Pattern matching against the data.
+
+•	Session is marked, but not sent to PINWALE.
+
+•	Fingerprint stored as metadata.
+
+•	I lave to search for it.
+
+•	Rich set of patterns
+
+•	Strings have a minimum of three* anchors (fixed bytes).
+[Exception: Two bytes at the beginning of a session]
+
+•	Regular expressions allowed (require nonoptional string of
+three* bytes within regex)
+
+•	Context-dependent terms.
+
+*XKS reserves the right to increase this to tour.
+
+V
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+

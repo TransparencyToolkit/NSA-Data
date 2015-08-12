@@ -1,0 +1,27 @@
+﻿register_metadata_tables - moves tables
+from processing database of XKEYSCORE
+system to query database.
+
+•	Works against the uberjndex table
+
+•	uber_index->table_name, base_table_name, join_table
+
+•	Base table - contains common information
+amongt tables (full log xxx xxxxx table)
+
+•	Extension table - extends the base table
+
+•	Registration process takes place in two phases:
+
+►	Register all base tables
+
+►	Register all extension tables that have had its base table
+registered
+
+TOPSECRETi
+
+. TO USA, i
+
+J, GBR, I
+
+58

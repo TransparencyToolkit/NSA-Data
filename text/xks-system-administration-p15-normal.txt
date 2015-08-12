@@ -1,0 +1,10 @@
+﻿■ The http daemon is needed for the web-based
+GUI, viewing content, and is required on all
+servers.
+
+■ The master server is the web server and the
+slaves retrieve content through HTTPS.
+
+TOP SECRET Hi
+
+15

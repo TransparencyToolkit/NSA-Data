@@ -1,0 +1,38 @@
+﻿rOP SECRET //SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+Sr
+
+• Type: xks help services
+
+► This will list all available services:
+
+■	sendmail - configures sendmail for use with xks
+
+■	role_files - this service installs role-specific files
+
+■	issue - sets up the DoD mandatory login warnings
+
+■	royale_with_cheese - setups automatic updates
+
+■	ntpd - configure ntp based on xks.config
+
+■	linksummary - sets up xks link summary GUI
+
+■	nfsd - sets up xks-specific nfs mounts
+
+■	server_certs - sets up server certificates for SSL applications
+
+■	openoffice - installs and configures OpenOfflce for use in the
+xks GUI
+
+■	init_d - sets up the xks init.d services
+
+■	resolver - sets up resolver config
+
+■	php - sets up PHP related stuff. Except php.ini
+
+■	httpd - sets up xks-specific httpd configuration
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+90

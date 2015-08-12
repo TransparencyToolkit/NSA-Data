@@ -1,0 +1,22 @@
+﻿TOP SECRET // SI II REL TO USA. AUS. CAN. GBR. NZL
+
+V
+
+■ Query job status is stuck in
+awaiting_disbatch.
+
+•	If a status appears stuck in this state, the
+query_dispatch may not be running on the web
+server. To determine whether it is running:
+
+► Type ps -ef | grep query_
+
+•	If the process is not running, restart it from the
+XKEYSCORE GUI or troubleshoot the
+xks_app_launcher.
+
+TOP SECRET II $1II REL TO USA, AUS,
+
+CAN. GBR, I
+
+135

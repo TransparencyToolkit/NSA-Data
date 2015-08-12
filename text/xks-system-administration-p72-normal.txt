@@ -1,0 +1,13 @@
+﻿■ xks rsync push_config
+
+•	Transfers Master configurations to its slaves.
+
+•	Excludes dot files, “httpd/logs”,
+loadserver/packages”, “httpd/log”
+
+•	force: option to xks to force push_config when not
+on the master
+
+
+
+72

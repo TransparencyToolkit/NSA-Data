@@ -1,0 +1,24 @@
+﻿Processing Problems continued..
+
+• xks_app_launcher is running, but not
+starting processes specified in the
+Computer Resources window?
+
+• This may indicate that the xks_app_launcher is
+defunct. Use the kill command to kill the
+app launcher and its related sub-processes:
+
+►	Typepkill -f app_
+
+■ If a PID is not being specified, use the pkill command. The -f
+option kills all of the sub-processes.
+
+►	Type ps to look for the new xks app launcher process.
+
+TOPSECRETi
+
+TO USA,,
+
+J, GBR, I
+
+128

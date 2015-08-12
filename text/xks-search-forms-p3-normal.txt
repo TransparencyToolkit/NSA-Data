@@ -1,0 +1,19 @@
+﻿SECRET//COMINT//RELTO USA. AUS. CAN. GBR. NZL
+
+Special (full-text) search fields
+
+Google-like syntax - just list your terms and the
+query will return sessions that match any of them
+Wildcards only allowed at the end of a word
+Search terms must be at least 4 characters
+
+Use + or - to require that a word must or must not
+be present
+
+Use to find an exact phrase
+Use () for grouping
+
+You can still use “classic” syntax - we convert it
+for you
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

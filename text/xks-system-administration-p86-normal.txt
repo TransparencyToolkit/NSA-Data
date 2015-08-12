@@ -1,0 +1,30 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN, GBR. NZL
+
+xks Actions
+
+Actions:
+
+► monitor	- view XKS monitoring messages via activemq
+► mpmr_register	- force mpmr table registration
+► mysqls	- run a mysql script
+► onail	- run a command on all machines in this cluster
+► powertower	- configure or run a powertower command
+► proc	- control XKS processes on this cluster
+► query	- display query status or submit a query
+► query_dispatch	- command line interface to the XKS
+	query_dispatcher(s).
+► rac	- access remote admin ports
+► reload dictionaries	- force running processes to reload dictionaries
+► rsync	- push configs or files to slaves
+► search_fields	- populates user settings with search fields
+► $how_config	- show values from xksconfig for specified keys
+► switch	- query or rebalance data switch
+► sync_accounts	- synchronize user accounts (except for
+	classifications)
+► tail	- view realtime xks logs
+► tasking dump	- print out the contents of the xkTasking and
+	xksTasking_voip databases
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+86

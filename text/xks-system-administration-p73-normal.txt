@@ -1,0 +1,25 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN, GBR. NZL
+
+Zr
+
+■ rwc_post_to_pub.py
+
+• The automatic starProc process is as follows:
+
+►	Hour 1: master asks whoever (say xks-control) for an
+update, gets the rpm, installs It, there Is much rejoicing.
+The slaves asks the master for the rpm at the same time
+the master asks xks-control, but obviously the master
+doesn’t have it, so nothing happens.
+
+►	Hour 2: everyone asks for an update again, this time the
+master has the rpm, the slaves download it and install
+and there is much rejoicing.
+
+►	The rpm is installed and process_data_parent’s are
+restarted as soon as the rpm is downloaded on a given
+machine.
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+73

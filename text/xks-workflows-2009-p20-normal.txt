@@ -1,0 +1,54 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+Common mistakes
+
+Using the multiple
+field search does not
+break this up into 3
+search<->value pairs.
+
+Enter each term
+separately in the
+singe fieldsearch.
+
+Workflow Central Request Wizard
+Add Search Fields
+
+Search values are ANDed by default
+
+To OR Search Fields:
+
+*	Use the Multiple Field Search tab (be tow the «put fields).
+
+*	Select all the fields you wish to search.
+
+To OR Search Values:
+
+*	Type W between each value (no quotes).
+
+See Search Value	be tow for more details or
+
+for a description of boolean log»: go to here.
+
+Search Value
+1.2 34
+5.678
+80
+
+Search Field
+Frcm P Adcicss
+To IP Address
+Frcm Perl
+
+Remove
+
+Single Field Search Mutcir Fir d Se»ch
+Search Value Help
+
+Cancel "I Prev
+
+> Next
+
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
+-•XX*

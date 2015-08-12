@@ -1,0 +1,19 @@
+﻿Directory Structure
+
+ir
+
+■ /opt/xkeyscore/www/ - contains the contents
+of the web front end.
+
+•	docs/ - contains documents viewable through the
+XKSGUI.
+
+•	html/ - contains web pages and scripts that are
+not on the secure server.
+
+•	secured/ - contains web pages and scripts that
+are on the secure server including:
+
+► crons/ - location of cron job scripts
+
+•	src/ - contains source code for the XKS GUI.

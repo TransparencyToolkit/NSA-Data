@@ -1,0 +1,23 @@
+﻿Retrieving Metadata and Content
+
+■ Queries complete but there are no results.
+
+•	If queries complete, but no results are visible,
+verify that the date range of the query coincides
+with the collection date of the data. If using test
+data, test the query system by putting the start
+date range at a year or two older to assure it is not
+old test data.
+
+•	Verify that query metadata is in the query
+database by checking the contents of the
+/export/data/xkeyscore/mysq!/{query_db}/
+directory.
+
+TOP SECRET//:
+
+. TO USA, i
+
+J, GBR, I
+
+141

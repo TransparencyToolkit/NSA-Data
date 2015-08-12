@@ -1,0 +1,22 @@
+﻿TJfir
+
+r
+
+■	The heart of the XKEYSCORE processing
+engine is the xscore_proc with related plugins.
+
+■	Input to the xscoreproc is either file-based
+and from an file_input_proc, or streaming from
+an sotf_input_proc.
+
+■	After processing, the written metadata to the
+insert databases can be sent to a follow on
+system for additional processing.
+
+TOPSECRET/
+
+.TO USA, AU$,<
+
+. GBR, t
+
+125

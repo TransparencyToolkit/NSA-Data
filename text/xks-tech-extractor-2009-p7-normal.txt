@@ -1,0 +1,19 @@
+﻿I7/COMINT//I
+
+What is the Tech Extractor
+
+r
+
+The Tech Extractor was X-KEYSCORE’s
+first stab at context-aware scanning and it
+only focuses on three contexts:
+
+E-mail Bodies
+
+■ Chat Bodies
+
+■ Document Bodies:
+
+Microsoft Word, Excel, PowerPoint, Project, Visio
+Adobe PDF, Postscript
+Rich Text Format (RTF)

@@ -1,0 +1,26 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN. GBR. NZL
+
+xks - Actions
+
+•	xks onall ‘ps -ef | grep xscore | grep -v grep’
+
+•	xks force registerla.uj
+
+• xks rsync pushconfig -force
+
+► Usage: xks rsync <options>
+[push_config|push_compiled|push_slaves|push] <src>
+<dest>
+
+•	xks update_dictionaries
+
+► Usage: xks update dictionaries
+[test|check|print|force|help] |
+
+•	xks version •
+
+• xks info
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, I
+
+96

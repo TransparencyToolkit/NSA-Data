@@ -1,0 +1,12 @@
+﻿Tech Extractor vs. Fingerprints
+
+Tech Extractor treats E-mail, Chat and Document
+bodies as a single “context”
+
+The XKS Fingerprint language gives you over 65+
+contexts that can be used together to form powerful
+and specific signatures
+
+When terms are generic and are returning too many
+poor results through Tech Extractor, then it’s time to
+make the switch to the full fingerprint language

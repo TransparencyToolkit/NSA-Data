@@ -1,0 +1,37 @@
+﻿•OP SECRET ft SI U REL TO USA. AUS. CAN, GBR. NZL
+
+xks - General Commands
+
+Type: xks help services
+
+► This will list all available services:
+
+■	www- sets up GUI configuration files
+
+■	voip - sets up voip processing
+
+■	crond - ensures xks can use cron and sets up xks cron jobs
+
+■	sshd - configures the secure shell service for use with xks
+
+■	license - checks for a valid license file and if one isn't found
+prints a message
+
+■	syslog - configures the syslog service for use with xks
+
+• all xks processes log to /var/log/xks.log
+
+■	dictionaries - checks status of any configured dictionaries
+
+■	cluster_check - checks network connectivity across the
+cluster
+
+■	autofs - start, stop, restart automounts
+
+■	loadserver- start, stop, and setup loadserver
+
+■	directories - sets up directories used for xks
+
+■	auditd - no help available
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL

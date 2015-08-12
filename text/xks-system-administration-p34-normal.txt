@@ -1,0 +1,21 @@
+﻿TOP SECRET II SI II REL TO USA, AUS. CAN, GBR. NZL
+
+Computer Resources
+
+
+
+The Processing->Computer Resources
+
+option from the ADMIN menu allows control of
+the entire daemon-styled, or continuously
+running, processes for XKEYSCORE.
+
+■ Processes appears in a table following the
+convention:
+
+<PROC_HOST><PROGRAM_NAME><PROGRAM_ARGUMENTS>
+xkeyOl	process_data_parent
+
+TOP SECRET II $1II REL TO USA, AUS, <
+
+34

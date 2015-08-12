@@ -1,0 +1,26 @@
+﻿TOP SECRET // SI II REL TO USA. AUS. CAN. GBR. NZL
+
+¥
+
+• The query appears in the new state, but
+never finishes.
+
+•	query is in the new state, has been received by
+the query host and placed in a queue waiting to be
+processed.
+
+•	Queries can become backlogged with a large
+number of queries waiting in the new state,
+though the query_proc is processing the queries
+properly. It is hard to predict the time to work off a
+query backlog, but using the following select
+statement the status of queries for the current day
+can be checked for processing trends.
+
+top secret //si m
+
+TO USA,,
+
+, AUS, CAN. GBR, I
+
+139

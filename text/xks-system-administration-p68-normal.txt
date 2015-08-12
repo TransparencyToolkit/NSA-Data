@@ -1,0 +1,12 @@
+﻿■ XKEYSCORE uses a number of cron jobs to
+perform tasks.
+
+CRONJOB	DESCRIPTION
+age_off_new.php	Ages off metadata and content when the disk is near capacity, or when thresholds have been met.
+xks update_dictionaries	Pulls updates from various sources.
+xks rsync pushconfig	Copies the /opt/xkeyscore/config directory to the slaves.
+rwc_post_to_pu b. py	Once an hour kicks off an update request
+
+TOP SECRET II Si II REL TO USA, AUS, CAN. GBR, NZL
+
+68

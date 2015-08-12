@@ -1,0 +1,27 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+Counter CNE Methodoloq
+
+(refer to Counter CNE Resources slide...)
+
+Hypothesis/research-d riven
+
+•	"Could South Korean CNE be using similar selectors to
+FVEY CNE?"
+
+•	"What keywords could be used to find keyloggers
+("example: keylog OR keystroke")
+
+Bogus or Unusual Traffic
+
+•	HTTP GET with content (example in this presentation)
+
+•	HTTP POST at odd hours (from Russia 0200-0359Z)
+
+•	Funky user agents
+
+Known-Host or User driven (e.g. drop sites)
+
+XKEYSCORE is GOOD at these kinds of things
+
+TOP SECRET//COMINT//REL TO USA, FVEY

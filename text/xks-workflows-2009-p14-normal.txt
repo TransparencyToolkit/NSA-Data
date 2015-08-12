@@ -1,0 +1,48 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+SQL report
+
+Workflow Central Request Wizard
+Follow on Artiom
+
+Would you like to add any follow on actions
+
+<~N0
+<*■ Yes
+Sotot
+
+SQL Repcct
+
+Sot* A/^mcfts	
+Type:	
+EmalTo:	
+Email Subject:	
+Email Content:	
+Email  Attachment:  ROWR:	“ Emai Attachment r Return Orb/ With Results
+Ftename:	
+Mai Order TrQraph:	
+	
+SQL:	SaECT  FROM %{OUTPOT TAELE)  WHERE  GROUP 8Y ZA
+G21P:	r Compress Contents
+
+CSV or HTML
+
+Thi&friust be a VALID 3Qt^
+
+si^Sfi?.tadata that a user
+
+can set.
+
+Example.
+
+SELECT casenotation, sigad
+FROM %{OUTPUT TABLE}
+WHERE sigad!=‘’
+
+GROUP BY casenotation
+
+Cancel i Ptev
+
+► Next
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

@@ -1,0 +1,23 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+■ age_off_new.php
+
+•	Options:
+
+►	-debug : extra debug statements in the output
+
+►	-info : extra info statements in the output
+
+►	-task db : explicitly state that the machine is a task host
+
+►	-web_db : explicitly state that the machine is a web host
+
+►	-nosleep : use if you want to run now
+
+•	This process ages off tables and archived data
+based on the settings in the xks.config file and
+the percentage of disk space used.
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, NZL
+
+70

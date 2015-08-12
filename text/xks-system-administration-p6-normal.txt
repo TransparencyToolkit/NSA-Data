@@ -1,0 +1,10 @@
+﻿■ XKEYSCORE is a Computer to Computer
+(C2C) exploitation system.
+
+■	It is a fully distributed processing and query
+system.
+
+■	XKEYSCORE can run on multiple servers.
+
+■	Plugin and fingerprint architecture allows new
+capabilities to be quickly deployed.

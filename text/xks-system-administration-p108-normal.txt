@@ -1,0 +1,27 @@
+﻿TOP SECRET II SI II REL TO USA. AUS CAN GBR. NZL
+
+xks monitor
+
+■	This script will monitor your front-end
+processes.
+
+■	Type: xks montor or xks monitor h to
+
+receive the help menu
+
+Vl'CVCJr*AD C		
+	i nouu  Command	Name	Description
+c	config	Configure this utility
+d	dataflow_al1	FrontEnd Dataflow Menu
+b	dataflow_bo	BackEnd Dataflow Honu
+in, h	menu	View this menu
+a	packet_splatter	Packet Acquisition [Front End)
+P	process_data	Process Data [Back End]
+q	quit	Quit/Exit
+s	servers	Server Stats (CPU, 10, etc. )
+t	sotf_input	SOTF Input [Back End] ’xks top’ replacement
+f	xf ip	Sessionization [Front End]
+
+TOP SECRET II Si II REL TO USA, AUS CAN, GBR, NZL
+
+108

@@ -1,0 +1,14 @@
+﻿TOP SECRET // SI II REL TO USA. AUS CAN GBR. NZL
+
+XKEYSCORE Front-End Processes
+
+What It's called	What It does	What it means
+Packet Splatter	Ingests packets (from files, from the network, from a capture card) in a variety of formats.	If it's a packet stream, ft can probably be fed into a DEEPDIVE.
+xFip	Fast reassembly of TCP/IPv^, UDP/IPv4 streams*, and TCP/lPv6 and UDP/IPv6 streams*.	DEEPDIVC sessionizes everything
+METTLESOME	Reassembly of streams from less common protocol stacks.	before making a keep/drop decision.
+Promoter	Rule-based filtering of reassembled sessions, based on keyword, country code or appid/flngerpmt.	DEEPDIVE intelligently chooses the most useful traffic for retention.
+Defrag	Fully rebuilds sessions**	Enough content available to do full decoding/document descent at the Back End
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+79

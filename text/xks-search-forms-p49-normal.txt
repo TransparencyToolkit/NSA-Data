@@ -1,0 +1,17 @@
+﻿Problem: XKS may have info about
+“badguy@yahoo” in Email Addresses, User
+Activity, Logins & Passwords, etc.
+
+Solution: submit multiple searches from a single
+form
+
+Enter the username and select which databases
+to search, and the form translates that into the
+proper queries
+
+Similar MultiSearches for IP addresses and MAC
+addresses
+
+Optional: merge results into one table
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

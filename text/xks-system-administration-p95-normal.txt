@@ -1,0 +1,23 @@
+﻿• start
+
+► xks start mysql
+
+•	stop
+
+►	xks stop httpd
+
+•	restart
+
+►	xks restart nfs
+
+•	status
+
+►	xks status autofs
+
+•	setup
+
+►	xks setup plugins
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+95

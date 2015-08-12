@@ -1,0 +1,21 @@
+﻿TOP SECRET//COMINT//REL TO USA. AUS. CAN. GBR, NZL
+
+Communication vs. DNI Content
+
+•	Selection engines in use today were based on designs built to
+handle TELEX traffic
+
+•	TELEX is a highly formatted content rich type of traffic that
+does not resemble raw DNI seen with Internet traffic
+
+•	Raw Internet traffic contains HTML, web-pages, raw base-64
+encoded documents etc.
+
+•	When analysts think of DNI “content” they are more
+referring to “communication content” then raw DNI content.
+
+•	Current DNI selection does not allow you to restrict hits to
+the “type” of traffic you want eg. Emails (including Webmail)
+or Documents
+
+TOP SECRET//COMINT//REL TO USA. AUS, CAN. GBR. NZL

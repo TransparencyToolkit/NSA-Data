@@ -1,0 +1,19 @@
+﻿■ /var/log/xks.log (xks tail) - Relevant error
+messages can be viewed in this file. This
+directory may fill the disk, some known
+reasons are:
+
+•	process_data has lost its connection with the
+sotf_dist and is continuously trying to reconnect to
+sotf_dist.
+
+•	nfs error may have occurred and a detailed
+message can be found in the file
+/var/log/messages.
+
+•	Corrupt tables in the insert database.
+
+•	Check to make sure the age_off_new.php cronjob
+aged off old metadata and content.
+
+TOP SECRET II $1II REL TO USA, AU$, CAN. GBR, NZL	117

@@ -1,0 +1,26 @@
+﻿OP SECRET If SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+r
+
+■ xkscommsserver
+
+•	Allow and Peer rules have a “network” parameter
+which the comms systems uses to determine an
+“inside” and an “outside” in proxies.
+
+•	Comms system will only accept connections from
+address ranges it has been specifically configured
+to allow.
+
+•	Every between 2 comms servers connection
+should have:
+
+►	“bandwidth_rule” on each side, name doesn’t matter but
+both rules should usually have same bandwidth cap
+
+►	“allow” rule on one side with a reciprocal “peer” rules on
+the other side
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, I
+
+63

@@ -1,0 +1,24 @@
+﻿rOP SECRET U SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+Processing Problems continued..
+
+r
+
+• If, after performing the procedures, the
+xks app launcher is still not starting applications:
+► In a terminal window, manually run the problem process
+to see if there are any error messages.
+
+►	The xks_app_launcher on any host is dependent on the
+access of the xs_task_db.proc_resources database
+table on the master. Verify that the specified host can
+access the master’s database and /opt directory.
+
+►	On the slave system type mysqi xs_task_db
+-h <masterhostname>
+
+■ performs a remote MySQL server login
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, I
+
+129

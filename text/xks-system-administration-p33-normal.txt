@@ -1,0 +1,17 @@
+﻿
+
+TOP SECRET II SI II REL TO USA. AUS. CAN, GBR. NZL
+
+Admin Menu
+
+SUB-MENU  OPTION	DESCRIPTION
+Computer Resources	Allows for process configuration and management.
+Input Directories	Contains the configuration for file-based Input directories.
+Category Throttle	Edit CADENCE quota limits by category and/or fist table.
+Search DBs	Configuration for query databases which are queried when a search is submitted.
+DB Registration	Contains the mapping from insert databases to query database.
+News	Add, modify, delete mandatory and home page News.
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+33

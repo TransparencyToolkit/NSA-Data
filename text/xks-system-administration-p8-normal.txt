@@ -1,0 +1,13 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN. GBR. NZL
+
+Data Flow (High-level)
+
+ZXr
+
+The backend is where the raw data for
+XKEYSCORE is processed; that is, we
+receive information from our sources (e.g.
+WEALTHYCLUSTER2), process it, and store
+it into a database.
+
+TOP SECRET II SI II REL TO USA, AUS, CAN. GBR, NZL

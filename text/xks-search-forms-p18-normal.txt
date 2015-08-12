@@ -1,0 +1,20 @@
+﻿SECRET//COMINTORELTO USA. AUS. CAN, GBR. NZL
+
+User Activity
+
+Example:
+
+Usemame	Activity	Source	Attribute type	Attribute value
+badguy@yahoo	viewFolder_webmail	appproc	app_provider	Yahoo
+badguy@yahoo	viewFolder webmail	appproc	appjype	webmail
+badguy@yahco	viewFolder_webmail	appproc	direction	cl ent
+badguy@yahoo	viewFolder webmail	appproc	previous user	user@yahoo
+badguy@yahoo	viewFolder_webmail	appproc	user_realn	yahoo
+badguy@yahoo	viewFolder webmail	appproc	via	squid/2.b
+badguy@yahoo	viewFolder_webmail	appproc	x-forwardedjp	10.0.123.45
+badguy@yahoo	viewFolder webmail	appproc	yahooBcoo<ie	zxcv1234
+badguy@yahoo	viewholder_webmail	appproc	yahooGSS	asdf1234asdf
+asdf1234asdf	viewFolder_webmail	appproc	user_realn	yahooGSS
+asdf1234asdf	viewFolder webmail	appproc	yahoo	badguy@yahoo
+
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

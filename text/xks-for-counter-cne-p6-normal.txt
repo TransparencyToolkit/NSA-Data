@@ -1,0 +1,22 @@
+﻿TOP SECRET//COMINT//REL TO USA, FVEY
+
+Example Search
+
+•	Let's try a search for suspicious stuff...
+
+http_activity search, 5-eyes defeat, look for fingerprints:
+
+ndist/discovery/heuristic/BHAM/get_with_content or http/get/with_content
+
+•	While the search runs, some gotchas:
+
+•	You choose where your query is run
+
+•	Content and metadata age-off
+
+•	Burden is on user/auditor to comply with
+USSID-18 or other rules
+
+•	Geolocation based on IP
+
+TOP SECRET//COMINT//REL TO USA, FVEY

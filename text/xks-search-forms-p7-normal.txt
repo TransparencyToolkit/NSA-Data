@@ -1,0 +1,23 @@
+﻿SECRET//COMINT//RELTO USA. AUS. CAN. GBR. NZL
+
+Full Log DNI
+
+One record for every session processed
+
+Collection fields
+
+- SIGAD
+
+■	Casenotation
+
+■	Session ID (UUID)
+
+Protocol fields
+
+■	MAC addresses
+
+■	IP addresses
+
+■	Port numbers
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

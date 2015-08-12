@@ -1,0 +1,24 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN, GBR. NZL
+
+Other Processes
+
+■ xks_comms_server
+
+• Example: If we have a site named “US-123”
+connecting to xks-central over a 1 Mbps link,
+US-123’s config would be:
+
+bandwidth[world] = 1Mbps
+
+peer[00] = address=xks-central.corp.nsa.ic.gov, port=2412,
+bandwidth=world, network=external
+
+And xks-central would have:
+bandwidth[us123] = 1Mbps
+
+allow[00] = address=xkey-master.us123, bandwidth=us123,
+network=internal
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+64

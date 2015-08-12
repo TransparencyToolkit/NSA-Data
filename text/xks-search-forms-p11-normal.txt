@@ -1,0 +1,18 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+Logins & Passwords
+
+Anything that looks like a login or password
+Searchable fields
+- Username
+Password
+
+Examples:
+
+<input name="username" value="badguy">
+<input name="password" value="asdf123">
+
+USER badguy
+PASS asdf123
+
+SECRETI/COMINTOREL TO USA, AUS, CAN, GBR, NZL

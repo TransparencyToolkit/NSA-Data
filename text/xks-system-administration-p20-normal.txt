@@ -1,0 +1,18 @@
+﻿■	For a clustered XKEYSCORE, automounts
+must be set up on all of the computers in the
+cluster.
+
+■	auto.master and auto.data files in the /etc
+directory must be edited or created.
+
+■	When finished, the mounted directories on the
+remote machines can be accessed.
+
+■	The oper account should have full read/write
+permissions on all shared drives.
+
+TOP SECRET//J
+
+.TO USA, AUS,<
+
+20

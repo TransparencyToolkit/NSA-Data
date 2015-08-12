@@ -1,0 +1,27 @@
+﻿Retrieving Metadata and Content
+
+■ Queries complete and metadata returns,
+but there is no content.
+
+•	The metadata in the XKEYSCORE viewer
+displays the host and directory path of the content
+file. Verify the content file exists using the Is -I
+command. Trace a dataflow issue if the file does
+not exists. If the content file exists, confirm the
+httpd daemon is started on all slave systems. To
+confirm the httpd daemon:
+
+•	1. Type su - oper
+
+•	2. Type xks status httpd
+
+•	3. If the daemon is not on, type xks start
+httpd
+
+TOPSECRETj
+
+. TO USA, i
+
+J, GBR, I
+
+142

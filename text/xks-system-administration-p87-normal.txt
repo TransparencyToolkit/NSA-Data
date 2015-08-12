@@ -1,0 +1,17 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN, GBR. NZL
+
+xks Actions
+
+Actions:
+
+► top	- display system performance
+► update_dictionaries	- update all XKS dictionaries
+► update_gui_help	- update the ’help' pull downs in GUI
+► users	- display the users currently logged into the GUI
+► version	- show XKS version information
+► watchdog	- check and (re) start essential XKS processes.
+► workflow	- manually submit a workflow
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+87

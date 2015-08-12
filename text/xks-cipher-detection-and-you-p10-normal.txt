@@ -1,0 +1,29 @@
+﻿r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Available Functions
+
+a
+
+•	port
+
+•	first
+
+•	hex
+
+fingerprint('encryption/kryptel') =
+hex('E8E2454300040004635C4EE9A2F9D111A
+489E498F70C0B43404F4BFA50F2D111A4898E6
+30458E285');
+
+•	pos
+
+fingerprint('encryption/cipherpad') =
+pos (1CPADl'c) < 4000;
+
+V
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+J

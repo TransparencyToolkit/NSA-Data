@@ -1,0 +1,25 @@
+﻿OP SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+¥
+
+• To check the progress of queries on the query
+database hosts, view the table sdb_queryJobs in
+the query database, which tracks the status of
+queries:
+
+►	Typ© nysql qO
+
+►	Type select status, count (*) from sdb_query_jobs
+
+• The select statement displays the current state of
+the queries on the query host. If many more
+queries appear in the new state when compared
+to other query databases, begin troubleshooting
+the problem query_proc on the specified query
+database.
+
+where group by status
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, NZL
+
+138

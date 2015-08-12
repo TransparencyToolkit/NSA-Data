@@ -1,0 +1,23 @@
+﻿Log of X-Forwarded-For IP addresses and other
+
+leaked public/private IP
+
+Currently contains XFF plus leaked info from
+
+STUN and Google Earth
+
+Searchable fields
+
+■	Internal from IP
+
+■	Internal to IP
+
+■	External from IP
+
+■	External to IP
+
+■	Source - plug-in that provided the info
+
+■	Network path - chain of XFF addresses
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

@@ -1,0 +1,25 @@
+﻿■	XKEYSCORE is typically Installed with Red Hat
+AS5u8 operating system. The suggested disk set up
+is:
+
+•	Set up separate partitions for / (root), /var,
+
+/tmp, and lexport/data
+
+m XKEYSCORE clusters can be composed of three
+different functionalities, which are:
+
+•	One host acts as the web server/user interface, etc...
+
+•	Another host normally runs as the real-time processing unit
+
+•	Other host acts as the search or query system.
+
+■	Hybrid system can perform multiple roles on one
+server, which enables efficient registration.
+
+•	process_data_parent
+
+•	1 query_proc
+
+TOP SECRET II $1II REL TO USA, AUS CAN. GBR, I

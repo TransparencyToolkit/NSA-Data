@@ -1,0 +1,25 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+¥
+
+• /export/data/xkeyscore/ - is used for both internal
+databases and metadata archive databases, input,
+output, and archiving of data.
+
+•	archives/ - (optional) destination for processed content
+
+•	inputs/ - (optional) used for file based input
+
+•	mysql/ - location of the MySQL database consisting of
+admin, insert, and query databases.
+
+•	outputs/ - (optional) contain the following sub-directories:
+
+►	mailorder/ - pickup point
+
+►	mailorder_working/ - file creation point before being moved to
+mailorder/
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, I
+
+25

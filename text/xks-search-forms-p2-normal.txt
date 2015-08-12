@@ -1,0 +1,26 @@
+﻿SECRET//COMINTORELTO USA, AUS. CAN, GBR. NZL
+
+Standard search fields
+
+Wildcards
+
+■	* - multiple characters anywhere in word
+
+■	_ - single character anywhere in word
+
+■	Some fields are auto-wildcarded - the field name will have
+a * before and/or after it
+
+Operators
+
+■	Boolean AND, OR - do not use in the same field
+
+■	! - NOT (e.g. !joe)
+
+■	<, > - comparison (e.g. >00080)
+
+■	regex: - regular expression (e.g. regex:[0-9]*)
+
+■	Enter I to require a field to be non-empty
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

@@ -1,0 +1,35 @@
+﻿no oi
+
+1001 i ooi too
+
+TOP SECRET // SI IIREL TO USA. AUS. CAN GBR. NZL
+
+xks Example
+
+• xks query
+
+[operStlHksvrOl run]$ xks query					
+id	user type	search start	search stop	duration	status
+66250201	http_parser	00:00 12/2/12	00:00 12/6/12	00:00:10	ongoing
+€6250183	full_log	00:00 12/3/12	00:00 12/6/12	00:00:17	ongoing
+66250155	full_log	00:00 12/4/12	00:00 12/6/12	00:00:40	ongoing
+€6250127	geo_info	00:00 11/30/12	00:00 12/6/12	00:01:16	ongoing
+€6250352	enailaddresses	00:00 11/21/12	00:00 12/6/12	00:03:36	ongoing
+66249873	full_log	22:00 12/3/12	21:59 12/4/12	00:11:31	ongoing
+66249660	full_log	00:00 12/2/12	00:00 12/6/12	00:18:57	ongoing
+€6244233	category	00:00 11/5/12	00:00 12/6/12	00:42:17	ongoing
+66244135	full_log	00:00 11/28/12	00:00 12/6/12	00:44:30	ongoing
+€6244009	http_parser	00:00 11/5/12	00:00 12/6/12	00:48:49	ongoing
+€6243967	http_parser	00:00 11/5/12	00:00 12/6/12	00:49:34	ongoing
+66243855	documentjnetadata	00:00 11/21/12	00:00 12/6/12	00:50:48	ongoing
+66243785	correlation	00:00 11/5/12	00:00 12/6/12	00:52:46	ongoing
+€6243463	correlation	00:00 11/21/12	00:00 12/6/12	00:56:13	ongoing
+66243071	enail_addresses	00:00 11/1/12	00:00 12/6/12	01:08:24	ongoing
+€6242973	user_activity_exif	00:00 11/21/12	00:00 12/6/12	01:12:03	ongoing
+66242413	http_parser	00:00 11/28/12	00:00 12/6/12	01:26:32	ongoing
+66242315	full_log	00:00 12/4/12	00:00 12/6/12	01:30:52	ongoing
+There are	18 queries in progress				
+
+TOP SECRET II Si II REL TO USA, AUS, CAN. GBR, NZL
+
+100

@@ -1,0 +1,23 @@
+﻿r
+
+UNCLASSIFIED
+
+The Protocol Stack
+
+Application Layer (HTTP, FTP, etc.)
+
+Transport Layer (TCP, LIDP)
+
+Network Layer (IPv4, IPv6)
+
+Data Link Layer (PPP)
+
+
+
+
+
+
+
+Physical Layer (Copper, Fiber)
+
+UNCLASSIFIED

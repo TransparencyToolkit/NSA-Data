@@ -1,0 +1,13 @@
+﻿■	Mounting a directory uses the NFS service.
+
+■	NFS allows file systems that physically reside
+on one computer to be shared by other
+computers on the network.
+
+■	The machine with the hardware containing the
+directory must allow the hardware to be made
+available to other machines.
+
+■	Required on all computers for clustering.
+
+TOP SECRET It $1II REL TO USA, AU$, <

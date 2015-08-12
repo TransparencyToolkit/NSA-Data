@@ -1,0 +1,22 @@
+﻿Directory Structure
+
+/opt/xkeyscore/ - contains all of the
+XKEYSCORE software. Software includes
+the GUI, processing, scripts, and
+configurations.
+
+• bashrc - XKEYSCORE environment variables
+file.
+
+•	beacon/ - contains the beacon perl script
+(shm_beacon.pl) and a link to the beacon
+configuration file (shm_beacon.config).
+
+•	bin.shells/ and bin.shells/sysadmin - contains
+miscellaneous bash, python, and C shell scripts.
+
+•	build/ - contains libraries and plug-ins.
+
+•	install/ - contains installation scripts.
+
+TOP SECRET II $1II REL TO USA, AU$, CAN. GBR, NZL	22

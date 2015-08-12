@@ -1,0 +1,28 @@
+﻿r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Advanced Feature
+
+• Follow-on check with anchorless regexes:
+%dhcp_check = regex {(
+
+A[\x01\x02][\x01- ]\x06.*c\x82sc
+
+}};
+
+appid(’netmanagement/dhcp/client_to_server',
+
+3.0)	=
+
+from_port(68) and to_port(67)
+
+: %dhcp_check;
+
+A
+
+V
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+J

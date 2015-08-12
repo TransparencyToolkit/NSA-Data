@@ -1,0 +1,14 @@
+﻿TOP SECRET//COMINT//REL TO USA. AUS. CAN. GBR. NZL
+
+Communication vs. DNI Content
+
+• If an analyst tasks a Boolean equation “bomb” and “chemical”
+they likely want to see all communication that mentions
+‘bomb’ and ‘chemical’ and not all web pages, news stories,
+blog posts etc. where those two words appear
+
+What we need is a context-aware scanning engine that knows
+where it is inside of the raw DNI in order to properly apply
+analyst tasking
+
+TOP SECRET//COMINT//REL TO USA. AUS, CAN. GBR. NZL

@@ -1,0 +1,21 @@
+﻿Resources-Start/Stop Processi
+
+i
+
+r
+
+■ It may be necessary to stop or start processes
+for troubleshooting or for a graceful server
+restart.
+
+■ Individual processes and programs - Click
+Stop in the ACTION column. To start it, click
+Run.
+
+■	To stop all individual programs, select
+ACTIONS->Start/Stop Resources. Enter the
+program name in PROGRAMS field, then click
+OK.
+
+■	Can use ‘xks proc’ actions and commands to
+do the same function

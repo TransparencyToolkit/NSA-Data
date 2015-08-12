@@ -1,0 +1,9 @@
+﻿■	mpmr_server - this is the map-reduce server
+for microplugins, which runs the “Reducer”
+portion of GENESIS v5 microplugins.
+
+■	Runs outside the normal processing flow, and
+will not affect the rest of the system.
+
+■	It has a telnet port (5850) just like an
+xscore_proc.

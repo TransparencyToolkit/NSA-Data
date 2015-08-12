@@ -1,0 +1,16 @@
+﻿TOP SECRET//COMINT//REL TO USA. AUS, CAN, Gl
+
+Tech Extractor Limitations
+
+• While terms tasked for the Tech Extractor are applied
+only to Document, E-mail and Chat bodies, that is still
+a lot of traffic!
+
+• If the term is too generic (or short) you’re still likely to
+run into a lot of false hits.
+
+Also, while you can limit your results by adding more
+search criteria (country code, IP address etc), the term
+will be scanning all data looking for hits
+
+rOP SECRET//COMINT//REL TO USA. AUS, CAN. GBR,

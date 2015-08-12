@@ -1,0 +1,34 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN, GBR. NZL
+
+Query Processing
+
+■ To display the number queries in each state for
+the current day:
+
+• Type
+
+select status,
+
+count(*),datetime_submitted,(UNIX_TIMESTAMP(now()) -
+UNIX TIMESTAMP(datetime_submitted))/3600 from
+sdb query jobs where (datetime submitted>(now() - INTERVAL
+'1' DAY)) group by status;
+
+■ To display the number of queries processed per
+hour for the current day:
+
+• Type
+
+select status,count(*)/24 AS queries_per_hour from
+sdb_query_jobs where cancel!="C" and
+
+(datetime_submitted>(now() - INTERVAL ’1' DAY)) AS Backlog
+group by cancel;
+
+■ If processing properly, queries can take hours, if not
+days, to complete based on the backlog and the
+processing trends.
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+140

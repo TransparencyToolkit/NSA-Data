@@ -1,0 +1,21 @@
+﻿The mysqls bash shell script can be used to
+execute MySQL statements from in the
+/opt/xkeyscore/bin.shells/sysadmin/mysqls
+directory. The most commonly used options in
+mysqls are:
+
+•	status - displays file-based input statistics.
+
+•	speed - displays the total file based input
+processing rate (Mbps)
+
+•	speedl - displays file-based input processing rate
+(Mbps) per input source.
+
+•	speed2 - displays file-based input processing rate
+(Mbps) per xkeyscore processing server.
+
+•	count - displays the count of input files in the
+new, working, error, and done states.
+
+105

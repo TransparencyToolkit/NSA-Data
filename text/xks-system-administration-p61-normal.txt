@@ -1,0 +1,22 @@
+﻿TOP SECRET // SI IIREL TO USA. >
+
+. AUS. CAN. GBR. NZL
+
+¿Wife
+
+■	correlation_server_0 - in-memory
+map-reduce server for correlation engine.
+
+■	Each machine has one correlationserver, and
+every process_data_parent connects to every
+correlationserver
+
+•	xscore_proc - 8GB by default
+
+•	uses port 4321
+
+TOPSECRET«I
+
+I $1II REL TO USA, AUS, CAN. GBR, t
+
+61

@@ -1,0 +1,16 @@
+﻿Metadata from IKE (Internet Key
+Exchange) sessions
+
+Searchable fields
+
+■	Version
+
+■	Vendor ID
+
+Encryption parameters - key length, field size,
+group curve, etc.
+
+■	Cookies
+= Nonce
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

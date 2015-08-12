@@ -1,0 +1,39 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN, GBR. NZL
+
+xks - General Commands
+
+• Type: xks help services
+
+► This will list all available services:
+
+■	Idap - no help available
+
+■	mysqld - sets up the mysql server for use with xks
+
+■	disks - checks status of disk partition used by xks
+
+■	databases - maintains database scheme consistency
+
+■	local tasking - reapplies local tasking if necessary
+
+■	workflows - sets up xks default workflows
+
+■	category_throttle - overrides default category throttle settings based
+on overrides specified in xks.config
+
+■	enrichment_tomcat - sets up enrichment tomcat java application
+server
+
+■	plugin_setup - populate plugin database tables from xml files, appy
+default plugin config specified in xks.config, apply overrides from
+xks.config, regenerate plugin config files from database
+
+■	crdb - no help available
+
+■	tomcat - sets up tomcat java application server
+
+■	clickstream - sets up clickstream service
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+92

@@ -1,0 +1,17 @@
+﻿■	Computers requiring shared access to the
+/export/data/xkeyscore directory must be told
+where to find the directory.
+
+• This is accomplished via automounting.
+
+■	The autofs daemon listens for computers
+trying to connect to the directories, or mounts,
+that it is responsible for.
+
+■	The mounts are dropped after a time out, but
+autofs remounts the drive when drives need
+to be accessed.
+
+TOP SECRET II $1II REL TO USA, AU$, CAN. GBR, NZL
+
+19

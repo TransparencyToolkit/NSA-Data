@@ -1,0 +1,27 @@
+﻿//COMINT//RELTOI
+
+Wireshark
+
+Metadata from various protocols processed by the
+
+wireshark library
+
+Protocols
+
+■	Routing - BGP, OSPF
+
+■	VoIP - H225, Skinny, Clarent, Megaco, SCTP
+
+■	Net management - SMB, SNMP
+
+■	Tunneling - GTP
+
+Searchable fields
+
+■	Protocol
+
+■	Field name
+
+■	Field value
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

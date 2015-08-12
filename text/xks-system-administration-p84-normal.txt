@@ -1,0 +1,47 @@
+﻿xks Options
+
+TOP SECRET //SI II REL TO USA. AUS. CAN GBR. NZL
+
+■ Usage: xks [options] <command>
+
+•	Try 'xks help <name>' to get help on a specific
+service or action
+
+•	General commands:
+
+►	services	- list available services
+
+►	actions	- list available actions
+
+►	dependencies [invert] - show service dependencies
+
+►	help [items]	- print help on services or actions
+
+
+
+Services (specify one or more service names or
+‘all’):
+
+►	start <services>
+
+►	stop <services>
+
+►	restart <services>
+
+►	status <services>
+
+►	setup <services>
+
+-	start the specified services
+
+-	stop the specified services
+
+-	restart the specified services
+
+-	print the status of the specified services
+
+-	setup/configure/fix the current xks install
+
+TOP SECRET U Si II REL TO USA, AUS, CAN, GBR, NZL
+
+84

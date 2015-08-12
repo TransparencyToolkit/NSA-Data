@@ -1,0 +1,7 @@
+﻿TOP SECRET // SI II REL TO USA. AUS. CAN. GBR. NZL
+
+■ /etc/exports
+
+•	/export/data/xkeyscore master(rw) slave(rw)
+
+•	/opt/xkeyscore/config/loadserver * *(rw)

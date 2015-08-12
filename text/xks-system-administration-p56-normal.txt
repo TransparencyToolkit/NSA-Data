@@ -1,0 +1,12 @@
+﻿■ Other process which is run from the
+Application Launcher.
+
+■ mailorder_proc - polls the
+
+/export/data/xkeyscore/outputs/mailorder_working
+directory by default. Then renames and moves
+mailorder files to
+
+/export/data/xkeyscore/outputs/mailorder.
+
+56

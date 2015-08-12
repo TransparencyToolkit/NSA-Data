@@ -1,0 +1,19 @@
+﻿SECRET//COMINT//RELTO USA. AUS. CAN, GBR. NZL
+
+Special (full-text) search fields
+
+Vs
+
+f
+
+■ Examples:
+
+Search terms	Returned results...
+apple banana	contain ‘apple or ‘banana’ or both
++apple +juice	contain both apple and ‘juice
++apple -macintosh	contain apple’ but not macintosh’
++apple +(turnover strudel)	contain apple AND either ’turnover’ or ‘strudel’
+apple*	contain words like ‘apple’ or ‘apples’ or applesauce' or applet’
+"apple juice”	contain the exact phrase ‘apple juice'
+
+SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL

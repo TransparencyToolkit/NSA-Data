@@ -1,0 +1,25 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+V
+
+m xks update_dictionaries
+
+•	This process pulls the necessarily files from
+various sources to update the dictionary.
+
+•	Configure /opt/xkeyscore/config/xks.config
+
+► ^dictionaries]
+dictionary]!}] = type=royale, \
+src=sftp://tssi_1vey:tssi_fvey@
+xks-control/home/tssi_fvey/xks_dict_update.tar.gz, \
+dest=update/xks_dict_update.tar.gz, \
+action[0]=“cd
+
+$XSCORE_DIR/config/dictionaries/update;$XSCORE_DIR/config/
+dictionaries/update/dup_install.pl >/dev/null 2>&1“
+dictionary]"!] = type=cadence
+
+TOP SECRET II SI II REL TO USA, AUS, CAN. GBR, NZL
+
+71

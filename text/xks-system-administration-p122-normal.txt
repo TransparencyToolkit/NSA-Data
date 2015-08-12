@@ -1,0 +1,14 @@
+﻿SOTF Problems continued
+
+netstat will tell if...
+
+•	sotf dist is listening for connections
+
+•	If connections have been made to the sotf_dist
+
+•	If we are “backing up”- i.e., if sotf_dist is running
+but has no process_data’s connected to it, it won’t
+be able to send data anywhere, so eventually its
+network receive queue will get large.
+
+► Ideally, the receive queue should always be 0.

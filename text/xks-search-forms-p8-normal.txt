@@ -1,0 +1,24 @@
+﻿SECRET//COMINT//RELTO USA, AUS, CAN. GBR. N2L
+
+Full Log DNI
+
+Application ID fields
+
+□	Application Name - full application ID
+
+■	Application Type - top level of application ID
+
+□	Application Info - extra info
+
+n Appid+fingerprints - full application ID plus any
+matching fingerprints
+
+Example:
+
+□	Application name: mail/webmail/yahoo
+
+■	Application type: mail
+
+■	Application info: viewFolder_webmail
+
+SECRET//COMINT//REL TO USA, AUS, <

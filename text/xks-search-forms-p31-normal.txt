@@ -1,0 +1,21 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+Passport detection
+
+Y
+
+Detect images of passports (code from R6)
+OCR machine-readable information
+
+Searchable fields
+
+□	Original filename
+Passport detection score
+
+□	Info from machine readable area - name,
+passport number, issuing state, DOB, expiration,
+etc.
+
+Under development
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

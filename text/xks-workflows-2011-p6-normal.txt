@@ -1,0 +1,20 @@
+﻿How do I setup a workflow?
+
+Two main ways
+
+■ Based on the results of a recent query
+
+Simplifies the process & more likely to produce
+the desired result!
+
+This is done by right-clicking on the result set from
+the desired query and selecting Create Workflow
+from this Search. This populates the Workflow
+Wizard with the same criteria that was used by the
+selected query.
+
+■ From scratch using the Workflow Wizard
+
+Not recommended - but we’ll show you anyway
+
+SECRET//COMINT//KEL TO USA, AUS, CAN, GBR, NZL

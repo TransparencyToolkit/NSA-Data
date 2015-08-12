@@ -1,0 +1,15 @@
+﻿TOP SECRET//SI//REL TO USA. AUS. CAN. GBR. NZL
+
+Query Processes
+
+■ Query processes are processes that search
+and submit all necessary tables for the
+analysts queries.
+
+PROGRAM	DESCRIPTION
+querydispatch	Submits search jobs to search databases and propagates the status of the search and results back to the web server
+query_proc	Searches through all the necessary tables for the analysts queries.
+
+TOP SECRET II Si II REL TO USA, AUS, CAN. GBR, NZL
+
+55

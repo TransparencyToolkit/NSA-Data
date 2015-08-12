@@ -1,0 +1,15 @@
+﻿TOP SECRET//COMINT//RELTO USA. AUS, CAN. GBR. NZL
+
+How does the Tech Extractor work?
+
+The Tech Extractor works by scanning a list
+of keywords against those three contexts
+and then tagging the results.
+
+It’s important to note that this is not “filtering
+and selection” and we’re not forwarding any
+data home
+
+XKS is simply tagging sessions with
+meta-data, much like we do with
+appids+fingerprints

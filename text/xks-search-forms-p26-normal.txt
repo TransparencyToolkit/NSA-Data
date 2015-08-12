@@ -1,0 +1,20 @@
+﻿SECRET//COMINT7/RELTO USA. AUS. CAN. GBR. NZL
+
+Cellular DNI
+
+Metadata from DNI over cellular modems
+
+Searchable fields
+
+■	IMSI. TMSI, IMEI, MCC, RAC, TLLI, etc.
+
+■	Cell ID, Tunnel ID, Access point
+
+■	Latitude, longitude
+
+■	Spotbeam, direction
+
+Limited deplyment - populated in SOTF by
+front end
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

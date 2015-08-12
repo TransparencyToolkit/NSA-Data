@@ -1,0 +1,26 @@
+﻿OP SECRET //SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+■ auto.master - designates mount points on the local
+computer and the directory to mount on the remote
+server.
+
+• Example:
+
+■ auto.data - enables all servers to see the
+/export/data/xkeyscore directory on other machines
+and locate databases, archived, data, and
+MAILORDER directory.
+
+• Example:
+
+►	xks1 -rw,soft,intr,tcp xks1 :/export/data/xkeyscore
+
+►	xks2-rw,soft,intr,tcp xks2:/export/data/xkeyscore
+
+► /xks_data
+
+/etc/auto.data ~timeout=60
+
+TOP SECRET II $1II REL TO USA, AU$, CAN. GBR, NZL
+
+21

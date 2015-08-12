@@ -1,0 +1,45 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+SQL report
+
+Workflow Control Request Wizard
+Follow on Action«
+
+Would you Hce to odd any follow on act ion«
+
+<~No
+<• Yes
+
+Cancel 1 Prev
+
+Scry*	Serf* A/cuncrtj	
+	Type:	
+SQLRepcrt		
+	Email To:	
+	Email Subject:	
+	Email Content:	
+	Email  Attachment:	r Emai Attachment
+	ROWR:	r Return Criy With Results
+	Flename:	
+	Mai Order Trljraph:	
+		
+	SQL:	SELECT  FROM %{OUTRrT TABLE)  WHERE  GROUP 8Y ZA
+	GZ1P:	r Ccrrpess Contents
+
+'* Next
+
+CSV or HTML
+
+Email metadata that a user
+can set.
+
+This must be a VALID SQL
+statement.
+
+Example:
+
+SELECT casenotation, sigad
+FROM %{OUTPUT TABLE}
+WHERE sigad!=1’
+
+secret//comint/7reltousa, aus,can, gbr,nz .GROUP BY casenotation

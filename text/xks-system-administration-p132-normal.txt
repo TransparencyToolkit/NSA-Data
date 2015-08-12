@@ -1,0 +1,25 @@
+﻿5. CAN. GBR. NZL
+
+rr
+
+7
+
+m /export/data/xkeyscore/outputs/mailorder
+
+■ If there are no new files in the MAILORDER
+directory, MAILORDER may not be working
+properly. Possible causes are that:
+
+•	Files are being written to the wrong directory or it
+is not configured properly
+
+•	Permissions on the MAILORDER directory will not
+allow MAILORDER to move files
+
+TOP SECRET//J
+
+.TO USA, AUS,<
+
+, GBR, t
+
+132

@@ -1,0 +1,14 @@
+﻿■ xks_meta_ingester - streams metadata over
+socket. This process improves database
+performance. Instead of each xscore_proc
+writing to the database independently, they
+stream their metadata over socket to the
+metajngester, which combines it by plugin
+and writes to the database.
+
+• Reduces the number of connections to MySQL and
+gives better control over table size.
+
+TOP SECRET II $1 II REL TO USA, AU$, CAN. GBR, NZL
+
+57

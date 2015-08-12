@@ -1,0 +1,25 @@
+﻿HTTP Activity
+
+Metadata from HTTP (WWW) traffic
+Searchable fields
+
+■	Host, URL file path, URL query string
+
+■	Search terms - parsed from URLs for common search
+providers (Google, Yahoo)
+
+■	Language, character encoding
+
+■	Referrer
+
+■	User-Agent
+
+■	Cookies
+
+■	Server type (Apache, etc.)
+
+■	Via - proxy info
+
+■	Geolocation Info - e.g. city names from weather reports
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

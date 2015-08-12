@@ -1,0 +1,27 @@
+﻿xks Actions
+
+TOP SECRET //SI II REL TO USA. AUS. CAN. GBR. NZL
+
+Actions:
+
+► accounts_report	- sends an email containing accounts usage to the
+	specified users
+► add_admin	- sets up a local Linux user to administer XKS
+► change_db_password	- changes the XKS database user’s password and
+	updates all references to it
+► cluster	- cluster actions
+► compile_genesis	- compiles GENESIS signatures
+► disk_check	- get raid and disk status
+► ext4_format	- format $XSCORE_DATA_DIR partition and convert
+	to ext4 filesystem
+► ext4_upgrade	- convert to ext4 filesystem while preserving
+contents	of SXSCORE DATA DIR (no formatting)
+► fetch	- fetch a remote file
+► force_register	- force metadata table registration
+► info	- show cluster information
+► install_slave	- install a slave machine in this cluster
+► local_tagging	- checks and/or loads tagging file
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+85

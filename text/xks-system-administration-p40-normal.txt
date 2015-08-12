@@ -1,0 +1,22 @@
+﻿Resources-Start/Stop Processi
+
+All Processing - select START/STOP
+Resources from the ACTIONS drop-down
+menu, leave the PROGRAMS and ON
+HOSTS fields to their defaults, click OK.
+
+Specifying programs or hosts - select
+STOP or START, enter a wildcard expression
+such as * or! in the PROGRAMS or HOSTS
+field, and click OK.
+
+• Example: process*
+
+Alternatively, in a terminal window can run:
+• xks proc stop process*
+
+TOP SECRET III
+
+.TO USA, AU$,<
+
+40

@@ -1,0 +1,22 @@
+﻿■ /export/data/xkeyscore/inputs
+
+• If there are too many files in the directory:
+
+►	fileinputproc may be running improperly or not at all.
+Verify that file input proc is running from the command
+line type:
+
+■	ps -ef | grep file_ | grep -v grep
+
+■	xks proc
+
+►	The file_input_proc may need to be restarted.
+
+■ No new files in the directory:
+
+• The directory may not be cross-mounted properly,
+if automounting is used.
+
+.TO USA, AU$,<
+
+118

@@ -1,0 +1,9 @@
+﻿loes the Tech Extractor work?
+
+Also this is not retrospective.
+
+After a list is tasked, XKS will scan data collected from
+that point on looking hits.
+
+Any data previously collected and stored by XKS will
+not be scanned.

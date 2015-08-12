@@ -1,0 +1,13 @@
+﻿Processing Programs
+
+Processing programs are the main processes that extract metadata from
+the traffic and then database the information in insert databases.
+
+PROGRAM	DESCRIPTION
+file_input_proc	Scans for new input files, (before processing moves the file to the .tmp directory of the input directory specified)
+sotf_dist	Listens for incoming SOTF sessions
+process_data_parent	Processes all new files discovered by file_input_proc or sotf dist; optionally archives content and databases metadata. Parent process loads all dictionaries and starts up, then forks child processes which do the actual processing.
+
+TOP SECRET U Si II REI_ TO USA, AUS, CAN. GBR, NZL
+
+53

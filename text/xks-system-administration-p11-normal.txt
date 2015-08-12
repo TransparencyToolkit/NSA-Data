@@ -1,0 +1,22 @@
+﻿
+
+■	file_input_proc and sotf_dist take in sessions
+from the front-end and load balances them
+across multiple process_data_parent’s.
+
+■	process_data_parent is responsible for
+processing sessions and extracting metadata
+
+■	xksmetaingester takes the metadata from
+the process_data_pa rent’s and writes it to the
+insert database, ¡0
+
+■	register_metadata_tables takes completed
+insert tables, indexes them, and moves them
+to the query database, qO
+
+TOPSECRET/
+
+I REL TO USA, AUS, <
+
+11

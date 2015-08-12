@@ -1,0 +1,37 @@
+﻿r
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Example
+
+a
+
+fingerprint('encryption/archive/rar') =
+
+'\x52\x61\x72\x21\xla\x07\x00'c
+
+:	C++ {{
+
+const uint8_t *ptr =
+
+find_first("\x52\x61\x72\x21\xla\x07\x00");
+if (ptr == NULL)
+return false;
+if (end()-ptr < 64)
+return false;
+
+if {(ptr[23]&0x04) != 0x04)
+return false;
+
+if ((ptr[10]&0x80)	!= 0x80)
+
+return false;
+return true;
+
+}};
+
+V
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+J

@@ -1,0 +1,19 @@
+﻿■ Other process which is run from the
+Application Launcher.
+
+■	GUId - rescans content against fingerprints
+when a user clicks to view the content of a
+session.
+
+■	tomcat.sh - web server used to host XKS
+GUI
+
+■	sotftod124server - downloads sessions
+
+•	Gets called from the GUId process
+
+•	Works with any downloaded traffic that is SOTF
+
+TOP SECRET // $1II REL TO USA, AU$, CAN. GBR, NZL
+
+65

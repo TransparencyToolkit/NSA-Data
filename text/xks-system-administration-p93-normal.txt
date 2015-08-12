@@ -1,0 +1,36 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN GBR. NZL
+
+xks - General Commands
+
+Type: xks help services
+
+► This will list all available services:
+
+■	filejnput - sets up directories and database entries needed for file-
+based input
+
+■	age_off_db - synchronizes the database (xs_task_db.age_off) with
+xks.config's settings for content and metadata. The values in the
+database will be unconditionally overwritten with those found in
+xks.config
+
+■	db_connectivity - verifies connectivity to critical databases
+
+■	pdf-sets up xpdf language packs
+
+■	ul_age_off- sets the maximum data retention time to a little over an
+hour in UL mode.
+
+■	mDNSResponder - sets up mDNSResponder for use with SOTF
+input
+
+■	appjauncher - controls the xks app launcher, which is responsible
+for monitoring xks processes and starting/stopping them as
+commanded from the GUI
+
+■	processes_setup - configures xks processes based on specifications
+in xks.config
+
+■	comms - sets up the XKS communications system configuration
+
+93

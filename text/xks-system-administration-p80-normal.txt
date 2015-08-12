@@ -1,0 +1,26 @@
+﻿■	Packet bundles
+
+•	Preserves original packets and packet order
+
+•	Preserves information that is lost during sessionization
+
+•	Original pcap available in the XKS Viewer
+
+■	Packet API
+
+•	Microplugins can iterate over raw packets
+
+•	Microplugins can use information that is lost during
+sessionization
+
+►	E.g. timestamps, flags, checksums
+
+■	Packet fingerprints
+
+•	Fired based on observations xFip has made
+
+►	E.g. large sequence gaps, TTL variation
+
+TOP SECRET U Si II REL TO USA, AUS, CAN, GBR, NZL
+
+80

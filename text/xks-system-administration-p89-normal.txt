@@ -1,0 +1,38 @@
+﻿■OP SECRET //SI II REL TO USA. AUS. CAN. GBR. NZL
+
+xks - General Commands
+
+• Type: xks help services
+
+► This will list all available services:
+
+■	first - initialization service that runs before all others
+
+■	virus_scanner- sets up virus scanner, assuming tarballs are
+present.
+
+■	ftpd - enables ftp on the master if mailorder is enabled
+
+■	distcc - sets up distributed compiler service
+
+■	slash_proc - setup optimal /proc parameters
+
+■	myricom - handles installation and configuration 10GigE
+network cards
+
+■	home - sets up the home directory for the xks user account
+
+■	gcc - check there is a working compiler on the system
+
+■	upgrade - updates configuration files when upgrading to a
+new version of xks
+
+■	bashrc - sets up bash environment variables
+
+■	beacon - sets up xks monitoring beacon based on xks.config
+
+■	tt- checks connectivity to TRAFFICTHIEF server
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+89

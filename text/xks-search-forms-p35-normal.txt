@@ -1,0 +1,18 @@
+﻿Metadata from SIP (Session Initiation
+Protocol) used for VoIP setup, etc.
+
+Stored as multiple type-value pairs per
+session
+
+Searchable fields
+
+3 Message type
+
+□	Attribute type (call-id, content-type, from, to,
+user-agent, via, etc.)
+
+■ Attribute value
+
+□	Subsession ID
+
+SECRET//COMINT//RELTO USA, AUS, CAN. GBR, NZL

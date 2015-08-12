@@ -1,0 +1,27 @@
+﻿TOP SECRET // SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+■ /export/data/xkeyscore/mysql/iO or i1
+
+•	If /export/data/xkeyscore/mysql/iO or ¡1 are filling and
+qO and/or q1 maintains its size,
+register_metadata_tables may not be working
+properly.
+
+►	Restart process and watch the databases to see if it is
+transferring files or run the process by hand to
+troubleshoot further.
+
+•	If /export/data/xkeyscore/mysql/qO or q1 is filling, the
+age_off_new.php script may be running improperly or
+not at all.
+
+►	First run the command: ps -ef grep age_
+
+■	If script isn't running, try running it by hand.
+
+■	If script is running, then stop script and try running it by hand to
+see if there are any errors.
+
+TOP SECRET II $1II REL TO USA, AUS, CAN. GBR, NZL
+
+119

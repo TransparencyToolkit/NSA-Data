@@ -1,0 +1,17 @@
+﻿SECRET//COMINT//REL TO USA, FVEY
+
+Fingerprints and Appids
+
+Useful for identifying classes of traffic or
+particular targets (for SIGDEV or collection):
+mail/webmail/yahoo
+browser/cellphone/blackberry
+topic/s2B/chinese_missile
+appid - a contest, highest scoring appid wins
+fingerprint - many fingerprints per session
+
+microplugin - a fingerprint or appid that is
+relatively complex (e.g. extracts and databases
+metadata)
+
+SECRET//COMINT//REL TO USA, FVEY

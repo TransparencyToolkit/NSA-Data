@@ -1,0 +1,32 @@
+﻿rOP SECRET //SI I! REL TO USA. AUS. CAN, GBR. NZL
+
+SOTF Problems
+
+Can an sotf_input_proc run with a file_based
+file_input_proc?
+
+• Yes. Both input types can run on XKEYSCORE given that
+each are independently configured correctly.
+
+■ Can file-based input be disabled so that only
+sotfjnput is processed?
+
+•	If moving from file-based input to sotfjnput, and no
+additional file-based input is expected, the plug-in for file-
+based input, db_input_file_handler, should be disabled.
+
+•	From the TERMINAL WINDOW:
+
+►	Stop all the processes : xks stop all
+
+►	Change /opt/xkeyscore/config/xks.config to set fllejnput to ‘no’.
+
+►	Setup the config : xks setup plugins, xks setup processes
+
+►	Rsync change to slaves : xks rsync push_config
+
+►	Restart process_data’s : xks proc restart pdp
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+120

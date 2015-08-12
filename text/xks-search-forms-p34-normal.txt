@@ -1,0 +1,14 @@
+﻿Metadata from RTP audio and video
+sessions
+
+Searchable fields
+Payload type
+. SSRC
+
+Number of bytes and packets
+Timestamps and sequence numbers
+The RTP formatter in the session viewer
+can decode certain payload types into
+playable audio or video
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL

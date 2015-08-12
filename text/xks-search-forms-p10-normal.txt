@@ -1,0 +1,30 @@
+﻿SECRET//COMINT//RELTO USA, AUS. CAN, GBR. NZL
+
+Email Addresses
+
+Anything that looks like an email address
+Searchable fields
+
+■	Email username - the part before the @ only!
+
+■	Domain - the part after the @
+
+■	Subject - email subject, if present
+
+Example:
+
+Sender:	serl@yahoo.com
+
+MIME-Version: 1.0
+
+Subject: check this out
+
+Date: Tue, 02 Jan 2007 13:27:31 -0000
+
+Message-ID: <AAAAAAAAAAAAAAAAA123456789@yahoo.com>
+
+From: "User One" <userl@yahoo.com>
+
+To: "User Two” <user2@hotmail.com>
+
+SECRETI/COMINTOREL TO USA, AUS, CAN, GBR, NZL

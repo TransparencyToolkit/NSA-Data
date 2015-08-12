@@ -1,0 +1,6 @@
+﻿■ A cluster is comprised of one master server
+and one or more slaves.
+
+■ All slaves in a cluster have their own copy of
+configurations (/opt/xkeyscore/config) files via
+the xks rsync push_config cronjob.

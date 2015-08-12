@@ -1,0 +1,28 @@
+﻿TOP SECRET II SI II REL TO USA. AUS. CAN. GBR. NZL
+
+T
+
+m xks_comms_server - a more efficient way to
+
+communicate with hosts within and outside an
+
+XKS cluster (not currently implement)
+
+•	Automatically handles configuration for talking
+between slaves, master and overlord at site
+
+•	Configuration is needed to connect to the “peer”
+on the path towards, other sites
+
+•	Comms configuration lives in
+$XSCORE_DIR/config/comms/comms.config
+
+•	Supports a “quality of service” which “fairly”
+distributes available bandwidth to the services that
+are using comms
+
+TOP SECRET II $1 II REL TO USA, AUS,
+
+CAN, GBR, I
+
+62

@@ -1,0 +1,30 @@
+﻿Run a Process Manually
+
+It may be necessary to run a process manually for
+troubleshooting purposes. To run a process
+manually:
+
+1.	Launch the GUI and log on as oper or admin.
+
+2.	Click ADMIN > Processing > Computer Resources
+
+3.	Click Stop in the ACTION column for the process.
+
+4.	Open a terminal window and ssh to the host running the
+process, as the user 'oper'.
+
+5.	Type ps -ef | grep <process name> to verify
+
+that the process is stopped.
+
+6.	Type <proqram namexprcqram arqument>
+
+Example:
+
+query proc <program arguments, if any>
+
+--loglevel debug
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+41

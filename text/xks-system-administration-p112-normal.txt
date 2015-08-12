@@ -1,0 +1,19 @@
+﻿■ The sotf_stat script lists the hostname,
+number of process_data’s currently running,
+Mbps, number of sessions, and number of
+
+bytes.
+
+r—XKEYSCORE SOTF Statistics
+
+Hostname	#In	#OA/#OC	Mbps In	Sess In	Bytes In	Sess Q	MaxBlk
+mhxkssvr02	7	4/4	18.66	410920147	4818112974976	0	0
+mhxkssvr03	3	4/4	16.15	410121822	4783549865004	0	0
+mhxkssvr04	3	4/4	16.65	410444622	4781320276992	0	0
+mhxkssvr05	3	4/4	15.79	409831857	4759939303920	0	1
+
+1—PRC:	15/ 15 Rate: 64.52 Mbps Sessions: 1641358767 Bytes: 19143289212772-
+
+TOP SECRET II Si II REL TO USA, AUS, CAN, GBR, NZL
+
+112

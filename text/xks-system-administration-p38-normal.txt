@@ -1,0 +1,25 @@
+﻿TXT
+
+Visual cues in the form of colors are used to
+help identify activities performed by
+XKEYSCORE and serve as status indicators
+for monitoring purposes.
+
+•	Red - indicates processes have been stopped
+
+•	Green - indicates processes are running
+
+•	Yellow - indicates processes are starting
+
+•	Orange - indicates processes are being stopped
+
+•	White - indicates processes won’t start
+Visual cues are also available in the
+COMMANDED STATUS and STATUS
+columns of the table.
+
+TOPSECRET/
+
+I REL TO USA, AUS, <
+
+. GBR, t

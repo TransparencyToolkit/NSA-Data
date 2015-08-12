@@ -1,0 +1,24 @@
+﻿MySQL - D124 file troubleshooting
+
+Symptom: A lot of errors or too many
+errors display when performing the
+command
+
+‘mysqls status’:
+
+1. First try, mysqls cleanup, in a terminal
+window.
+
+2.	Type mysqls status
+
+3.	Type mysqi xs task_db; to log into MySQL
+database and use the xs_task_db database.
+
+4.	Execute the following command: delete
+from tar files where starus="error";
+
+5.	Exit out of the MySQL database
+
+6.	Type mysqls status
+
+There sh©uk*TnG*totta@r<te©Baav error files. 124

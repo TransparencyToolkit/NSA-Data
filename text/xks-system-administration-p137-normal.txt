@@ -1,0 +1,19 @@
+﻿TOP SECRET II SI IIREL TO USA. AUS. CAN. GBR. NZL
+
+¥
+
+■ The query is in the sent state, but never
+appears in new.
+
+•	After the query_dispatch process disbatches the
+query, the status is moved to sent. A query moves
+to the new state when the query has been placed
+in the query processing queue on the query_host.
+
+•	If a query does not move to the new state in a
+reasonable amount of time, the connectivity of the
+database should be tested.
+
+TOP SECRET II SI II REL TO USA, AUS, CAN. GBR, I
+
+137

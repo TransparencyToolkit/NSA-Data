@@ -1,0 +1,25 @@
+﻿SECRET//COMIWT7/RELTO USA, AUS. CAN, GBR.
+
+IRC Café Geolocation
+
+QUIT messages from IRC - Internet cafés often
+configure their IRC clients to advertise the café’s
+street address
+
+Searchable fields:
+
+■	Username
+
+■	Nick name
+
+■	Café address (the QUIT message)
+
+- Café IP
+
+Example:
+
+:nickname!~username@10.0.27.134 QUIT :Quit: MainStreet
+Internet Cafe, 350 Main Street, P4 , 512M, Webcam, MP3,
+128Kbps
+
+SECRET//COMINT//RELTO USA, AUS, CAN, GBR, NZL
