@@ -12,8 +12,8 @@ class FeedParser
 
   # Get all items from feed
   def pullItems
-    (1..65).each do |num|
-      feed = Nokogiri::XML(open('https://freesnowden.is/feed?paged='+num.to_s))
+    (1..66).each do |num|
+      feed = Nokogiri::XML(open('https://edwardsnowden.com/feed?paged='+num.to_s))
       feed.xpath('//item').each do |i| 
         item_parsed = parseItem(i)
         if item_parsed[:categories].include? "Revealed documents"
