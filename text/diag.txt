@@ -1,0 +1,136 @@
+﻿flip
+
+Dataflow Diagrams
+
+April 2012
+
+Note: Please refer to previous diagrams for decommissioned systems.
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20361101
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+Transit PNI Content (BUGCATCHER)
+
+SIGAD: US-990
+PDDG:UY
+
+CASE Root: SSO CASNs
+
+Routing Designator: LDF, TYB
+
+Data Classification: TS//SI//NF
+(LDF) and TS//SI (TYB)
+
+Data Type: DNIText,
+
+COURIERSKILL
+
+Status messages & updates
+
+Authority: Transit
+
+I	I Partner Controlled
+
+I	I NSA Controlled
+
+OOFll
+
+-OOF15
+
+Storage
+
+rAIRVIEW LAN(HIGHDECIBEL)
+
+FAIRVIEW
+
+NBP
+
+MAILORDER
+
+LDF
+
+TYB
+
+SITE C
+
+	
+SiteC  MAILORDER	OOF##
+
+CORPORATE
+
+MAILORDER
+
+OOF##		Corporate NSAW
+UYTYB	CADENCE	UYLDF
+		
+
+FISHWAY	UYLDF t	SCISSORS
+(Data Batching		(Data Scanning,
+& Distribution		Formatting,
+System)		& Distribution
+		System)
+
+>
+
+XKEY SCORE
+For tipping
+
+*
+
+PINWALE
+
+YANKEE
+
+NF partition
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+Transit PNI Metadata (IMDRs)
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+Transit DNR Metadata & SMS
+
+SIGAD: US-990
+PDDG:UY
+
+CASE Root: SSO CASNs
+
+Routing Designator:
+CERFC(CDRs)
+
+CERFG (GTRs & SMS)
+
+CERUA (VoIP)
+
+Data Classification: TS//SI//NF
+
+Data Type: Call Metadata in
+CERF format & targeted SMS
+
+Authority: Transit
+
+I	I Partner Controlled
+
+I	I NSA Controlled
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+FAIRVIEW NSA FISA Email
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+FAIRVIEW NSA FISA IP

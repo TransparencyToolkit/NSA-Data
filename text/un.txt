@@ -1,0 +1,29 @@
+﻿(TS//SI//NF) United Nations DNI Collection Enabled
+By	on 2012-04-18 0853
+
+(TS//SI//NF) FAIRVIEW and BLARNEY engineers collaborated to enable
+the delivery of 700Mbps of paired packet switched traffic (DNI)
+traffic from access to an 0C192 ring serving the United Nations
+mission in New York. The traffic in these links had been encoded
+using a specific multiplexing technique (GFP). FAIRVIEW engineers
+and the partner worked to provide the correct mapping, and BLARNEY
+worked with the partner to correct data quality issues so the data
+could be handed off to BLARNEY engineers to enable processing of the
+DNI traffic.
+
+(TS//SI//NF) As of 4 April, BLARNEY began intermittent enablement of
+DNI traffic for TOPI assessment and feedback. This feedback is being
+used by the BLARNEY target development team to support an ongoing
+filtering and throttling of data volumes. While BLARNEY is
+authorized full-take access under the NSA FISA, collected data
+volumes would flood PINWALE allocations within hours without a
+robust filtering mechanism. The initial TOPI feedback has been
+positive, indicating unique collection to include collection against
+the email address of the UN General leading the monitoring mission
+in	BLARNEY engineers and analysts assessment indicate
+
+high quality in both VoIP and VTC collection.
+
+(U//F0U0) POCs^^MBM FAIRVIEW Engineer,	BLARNEY
+
+Engineer, ^^^^^^^^B^RNEY Target Developer,

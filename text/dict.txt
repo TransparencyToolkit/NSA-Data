@@ -1,0 +1,79 @@
+﻿LITHIUM (TS//SI//NF) BLARNEY'S covername for one of their corporate
+partners. Need WPG ECI for company name
+
+NODDY-3 (TS//SI//NF) FAIRVIEW'S covername for Coverage of Current
+and Forecasted NRTM Circuits. The FAIRVIEW program is acquiring DNI
+access (SAGUARO) from the Partner's DNI backbone which includes
+OC-192 and 10GE peering circuits. The Partner has provided a
+current view of the forecasted and equipped 10GE and OC-192 peering
+circuits at the eight SNRCs as of March 2009. Based on the
+information presented, by the end of 2009, the total number of
+forecasted 10GE peering circuits at the SNRCs will be approximately
+six times greater than OC-192 peering circuits. However, the growth
+in 10GE circuits in 2009 is about 19 times greater than the
+forecasted growth for OC-192 circuits. As these additional links
+become active it is imperitive that FAIRVIEW have the ability and
+the agility to follow SIGINT targets of interest. This action will
+provide 100% coverage of the 2009 forecasted 10GE and OC-192 links.
+This broad coverage approach is a key part of a larger effort to
+recast the FAIRVIEW DNI router access to be more agile and more
+high-value intelligence focused as part of the program's effort to
+provide broad access, continuous survey and focused collection.
+
+SAGURA (TS//SI//NF) DNI access from FAIRVIEW'S Partner's DNI
+backbone which includes OC-192 and 10GE peering circuits. The
+Partner has provided a current view of the forecasted and equipped
+10GE and OC-192 peering circuits at the eight SNRCs as of March
+2009. Based on the information presented, by the end of 2009, the
+total number of forecasted 10GE peering circuits at the SNRCs will
+be approximately six times greater than OC-192 peering circuits.
+However, the growth in 10GE circuits in 2009 is about 19 times
+greater than the forecasted growth for OC-192 circuits. As these
+additional links become active it is imperitive that FAIRVIEW have
+the ability and the agility to follow SIGINT targets of interest.
+This action will provide 100% coverage of the 2009 forecasted 10GE
+and OC-192 links. This broad coverage approach is a key part of a
+larger effort to recast the FAIRVIEW DNI router access to be more
+agile and more high-value intelligence focused as part of the
+program's effort to provide broad access, continuous survey and
+focused collection.
+
+SLIVER (TS//SI//NF) SLIVER is a proof-of-concept (POC) is an
+effort to enable cross-mission (CNO) collaborative capabilities in a
+global setting. Under the SLIVER initiative, passive IP sensor
+nodes will be deployed at two CONUS sites and two OCONUS sites.
+
+These nodes will be fed by a small amount of traffic volume. The
+CONUS nodes will support both Lithium commercial network security
+functions, as well as SIGINT and SIGINT-enabled CND applications
+
+(i.e., end-point characterization data and IP flow data). Within
+the SLIVER timeframe, due to OPSEC constraints, the OCONUS nodes
+will only be configured to support Lithium commercial network
+security functions — any Lithium-derived metadata from the OCONUS
+nodes will be sent to FAIRVIEW's centralized processing facility
+(PINECONE), under applicable SIGINT authority, for analysis and
+exploitation. In addition to these passive sensor nodes, active
+commercial security nodes will also be deployed at both the CONUS
+and OCONUS sites and used commercially in order to provide essential
+mission cover.
+
+SORA-2
+
+(TS//SI//NF) IP Access Expansion effort for FAIRVIEW. One of the
+areas of FAIRVIEW's DNI backbone access (Saguaro) that has not yet
+been sufficiently exploited is the access side of the Common
+Backbone (CBB) network. The major reason for this is the sheer
+number of access links - tens of thousands - which would make 100%
+coverage prohibitively expensive. One way to overcome this
+constraint is to monitor uplinks out of the access routers toward
+CBB backbone or aggregation routers. Even so, the number of uplinks
+is still numerous, requiring an additional selection/prioritization
+strategy. Lithium, in concert with ODD, developed a strategy that
+rank orders access routers using several different metrics, such as
+the following:	PRI Value, Country Value, PAA Value, CD Value and
+
+CCCD Value. The top eight router uplinks, as outlined in the
+attached proposal, have been analyzed and deemed of high SIGINT
+interest. Therefore, we are requesting approval to deploy
+monitoring on these uplinks.
