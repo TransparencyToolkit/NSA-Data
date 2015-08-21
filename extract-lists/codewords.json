@@ -263,7 +263,7 @@
     "codeword": [
       "ARTIFICE"
     ],
-    "description": "SSO corporate partner under the STORMBREW program\n",
+    "description": "Corporate partner for domestic long-distance cable access *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -662,7 +662,7 @@
     "codeword": [
       "BLARNEY"
     ],
-    "description": "Program for intercepting phone and internet traffic at switches in the US (since 1978)*\n",
+    "description": "Program for intercepting foreign phone and internet communications within the US under FISA authority (since 1978)*\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -791,6 +791,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "BRICKTOP": {
+    "codeword": [
+      "BRICKTOP"
+    ],
+    "description": "Project to learn about new malware by intercepting e-mail from several security companies (2009) *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "BRIDE": {
     "codeword": [
       "BRIDE"
@@ -864,6 +872,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "BUGCATCHER": {
+    "codeword": [
+      "BUGCATCHER"
+    ],
+    "description": "Internet (DNI) transit cable access under the FAIRVIEW program *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "BULLDOZER": {
     "codeword": [
       "BULLDOZER"
@@ -918,7 +934,7 @@
     "codeword": [
       "CADENCE"
     ],
-    "description": "NSA database with tasking dictionaries\n",
+    "description": "NSA tasking tool and database, probably for internet communications\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -951,6 +967,14 @@
       "CALYPSO"
     ],
     "description": "Remote SATCOM collection facility \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "CAMBERDADA": {
+    "codeword": [
+      "CAMBERDADA"
+    ],
+    "description": "Project using SIGINT collection to learn about new malware *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1175,6 +1199,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "CHEROKEE": {
+    "codeword": [
+      "CHEROKEE"
+    ],
+    "description": "(former) handling instruction: limited to senior officials\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "CHESS": {
     "codeword": [
       "CHESS"
@@ -1291,11 +1323,27 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "CLEARSIGHT": {
+    "codeword": [
+      "CLEARSIGHT"
+    ],
+    "description": "Processing system related to COURIERSKILL *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "CLEVERDEVICE": {
     "codeword": [
       "CLEVERDEVICE"
     ],
     "description": "Upstream collection site\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "CLIFFSIDE": {
+    "codeword": [
+      "CLIFFSIDE"
+    ],
+    "description": "Trans-Pacific cable access site under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1430,6 +1478,15 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "CONVERSION QUEST": {
+    "codeword": [
+      "CONVERSION QUEST",
+      "CONVERSIONQUEST"
+    ],
+    "description": "Part of SHAREDQUEST relating to antenna command and control *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "CONVEYANCE": {
     "codeword": [
       "CONVEYANCE"
@@ -1535,7 +1592,7 @@
     "codeword": [
       "COWBOY"
     ],
-    "description": "The DICTIONARY computer used at the Yakima station of ECHELON *\n",
+    "description": "FISA authorized collection under the FAIRVIEW program (sigad: US-984T) *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1600,7 +1657,7 @@
     "codeword": [
       "CROSSBONES"
     ],
-    "description": "Analytic tool\n",
+    "description": "Analytic journal * \n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1633,6 +1690,15 @@
       "CULTWEAVE"
     ],
     "description": "Smaller size SIGINT database *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "CYBERQUEST (CQ)": {
+    "codeword": [
+      "CYBERQUEST (CQ)",
+      "CYBERQUEST(CQ)"
+    ],
+    "description": "Cyber threat discovery mission? (since 2008)*\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -1694,6 +1760,15 @@
     "description": "SSO program collecting data from fiber optic cables between Europe and the Far East (since 2011) *\n",
     "case_sensitive": "No",
     "modified": "Yes"
+  },
+  "DANCING PANDA": {
+    "codeword": [
+      "DANCING PANDA",
+      "DANCINGPANDA"
+    ],
+    "description": "Hacking effort by China in which private e-mails of top US officials were \n",
+    "case_sensitive": "No",
+    "modified": "No"
   },
   "DANDERSPRITZ": {
     "codeword": [
@@ -2108,7 +2183,7 @@
     "codeword": [
       "ECHELON"
     ],
-    "description": "A SIGINT collection network run by Australia, Canada, New Zealand, the United Kingdom, and the United States\n",
+    "description": "Sub-program of FROSTING directed against INTELSAT satellites *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2339,7 +2414,7 @@
     "codeword": [
       "FAIRVIEW"
     ],
-    "description": "NSA corporate partner with access to international cables, routers, and switches (since 1985)*\n",
+    "description": "Domestic cable tapping program in cooperation with AT&T (since 1985)*\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2384,11 +2459,27 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "FARLEY": {
+    "codeword": [
+      "FARLEY"
+    ],
+    "description": "(SIGINT exchange designator?)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "FARMER": {
     "codeword": [
       "FARMER"
     ],
     "description": "Projected general-purpose computer for both cryptanalysis and traffic analysis (1950s)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "FARNDALE": {
+    "codeword": [
+      "FARNDALE"
+    ],
+    "description": "? *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2527,6 +2618,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "FISHWAY": {
+    "codeword": [
+      "FISHWAY"
+    ],
+    "description": "Data batching and distribution system *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "FLARE": {
     "codeword": [
       "FLARE"
@@ -2617,6 +2716,14 @@
     "case_sensitive": "No",
     "modified": "Yes"
   },
+  "FOXAMI": {
+    "codeword": [
+      "FOXAMI"
+    ],
+    "description": "(SIGINT exchange designator?)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "FOXSEARCH": {
     "codeword": [
       "FOXSEARCH"
@@ -2630,6 +2737,14 @@
       "FOXTRAIL"
     ],
     "description": "NSA tool or database *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "FRIAR": {
+    "codeword": [
+      "FRIAR"
+    ],
+    "description": "Cable station of AT&T at the East coast under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2696,6 +2811,14 @@
       "FROSTBURG"
     ],
     "description": "Connection Machine 5 (CM-5) supercomputer, used by NSA from 1991-1997\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "FROSTING": {
+    "codeword": [
+      "FROSTING"
+    ],
+    "description": "Umbrella program for collecting and processing emanations from communication satellites (est. 1966)*\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -2782,6 +2905,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "GATEKEEP": {
+    "codeword": [
+      "GATEKEEP"
+    ],
+    "description": "Processing system for internet cable tapping *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "GATEKEEPER": {
     "codeword": [
       "GATEKEEPER"
@@ -2847,6 +2978,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "GINPENNANT": {
+    "codeword": [
+      "GINPENNANT"
+    ],
+    "description": "SSG cloud framework *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "GINSU": {
     "codeword": [
       "GINSU"
@@ -2878,6 +3017,14 @@
       "GJALLER"
     ],
     "description": "NSA tool or database\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "GLAIVE": {
+    "codeword": [
+      "GLAIVE"
+    ],
+    "description": "(Satellite) interception common architecture *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -3310,6 +3457,14 @@
       "HIGHCASTLE"
     ],
     "description": "Tactical database?\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "HIGHDECIBEL": {
+    "codeword": [
+      "HIGHDECIBEL"
+    ],
+    "description": "Local Area Network (LAN) for the FAIRVIEW and BLARNEY programs *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -3843,7 +3998,7 @@
     "codeword": [
       "KIMBO"
     ],
-    "description": "Retired SIGINT product codeword\n",
+    "description": "Retired SIGINT product codeword (used in 1964)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -4015,6 +4170,15 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "LEGION AMETHYST": {
+    "codeword": [
+      "LEGION AMETHYST",
+      "LEGIONAMETHYST"
+    ],
+    "description": "Hacking effort by China in which private e-mails of top US officials were \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "LEGION JADE": {
     "codeword": [
       "LEGION JADE",
@@ -4103,7 +4267,7 @@
     "codeword": [
       "LITHIUM"
     ],
-    "description": "Facility to filter and gather data at a major (foreign?) telecommunications company under the BLARNEY program *\n",
+    "description": "Corporate partner for domestic long-distance cable access * *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -4445,7 +4609,15 @@
     "codeword": [
       "MERCURY"
     ],
-    "description": "Remote SATCOM collection facility \n",
+    "description": "Remote SATCOM collection facility\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "MESA": {
+    "codeword": [
+      "MESA"
+    ],
+    "description": "Cable access under the FAIRVIEW program * \n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -4537,6 +4709,14 @@
     "case_sensitive": "Yes",
     "modified": "Yes"
   },
+  "MISTRALWIND": {
+    "codeword": [
+      "MISTRALWIND"
+    ],
+    "description": "Calling card and private network access under the STORMBREW program *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "MOCCASIN": {
     "codeword": [
       "MOCCASIN"
@@ -4557,7 +4737,7 @@
     "codeword": [
       "MONKEYROCKET"
     ],
-    "description": "Sub-program of OAKSTAR for collecting internet metadata and content through a foreign access point\n",
+    "description": "Sub-program of OAKSTAR for collecting internet metadata and content through a foreign access point (since 2012)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -4794,6 +4974,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "NETFLOW": {
+    "codeword": [
+      "NETFLOW"
+    ],
+    "description": "Certain type of cable tapping sensor *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "NETWORKPUMP": {
     "codeword": [
       "NETWORKPUMP"
@@ -4888,6 +5076,14 @@
       "NOCON"
     ],
     "description": "NSA dissemination marking or COI\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "NODDY-3": {
+    "codeword": [
+      "NODDY-3"
+    ],
+    "description": "Coverage of current and forecasted NRTM circuits under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -5419,6 +5615,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "PERFECTSTORM": {
+    "codeword": [
+      "PERFECTSTORM"
+    ],
+    "description": "Limited FISA authorized collection under the STORMBREW program (sigad: US-984P) \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "PERMANENTPRESS": {
     "codeword": [
       "PERMANENTPRESS"
@@ -5475,6 +5679,14 @@
       "PICASSO"
     ],
     "description": "Modified GSM handset that collects user data plus room audio\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "PINECONE": {
+    "codeword": [
+      "PINECONE"
+    ],
+    "description": "Centralized processing facility for data collected under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -6228,6 +6440,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "RECOVERY": {
+    "codeword": [
+      "RECOVERY"
+    ],
+    "description": "? *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "RED DISK": {
     "codeword": [
       "RED DISK",
@@ -6365,7 +6585,15 @@
     "codeword": [
       "RICHTER"
     ],
-    "description": "SIGINT Exchange Designator for Germany \n",
+    "description": "SIGINT Exchange Designator for Germany\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "RIMROCK": {
+    "codeword": [
+      "RIMROCK"
+    ],
+    "description": "Access to 4ESS circuit switches under the FAIRVIEW program * \n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -6400,6 +6628,14 @@
       "ROADBED"
     ],
     "description": "Probably a military SIGINT database\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "ROCKSALT": {
+    "codeword": [
+      "ROCKSALT"
+    ],
+    "description": "Corporate partner for domestic long-distance cable access under the BLARNEY program \n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -6495,7 +6731,7 @@
     "codeword": [
       "RUMBUCKET"
     ],
-    "description": "Analytic tool\n",
+    "description": "Analytic tool to access FORNSAT data residing on GINPENNANT *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -6552,6 +6788,24 @@
       "SADDLEBACK"
     ],
     "description": "Hacking tool that performs a firmware modification? *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SAGUARO (or SAGURA?)": {
+    "codeword": [
+      "SAGUARO (or SAGURA?)",
+      "SAGUARO(orSAGURA?)"
+    ],
+    "description": "Access to AT&T internet backbone cables under the FAIRVIEW program *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SAGURA (or SAGUARO?)": {
+    "codeword": [
+      "SAGURA (or SAGUARO?)",
+      "SAGURA(orSAGUARO?)"
+    ],
+    "description": "Access to AT&T internet backbone cables under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -6951,7 +7205,15 @@
     "codeword": [
       "SERENADE"
     ],
-    "description": "SSO corporate partner (foreign?) *\n",
+    "description": "Corporate partner for domestic long-distance cable access *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SERRATEDEDGE": {
+    "codeword": [
+      "SERRATEDEDGE"
+    ],
+    "description": "Conflict number access under the STORMBREW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -7005,11 +7267,20 @@
     "case_sensitive": "No",
     "modified": "No"
   },
-  "SHAREDVISION": {
+  "SHAREDQUEST": {
     "codeword": [
-      "SHAREDVISION"
+      "SHAREDQUEST"
     ],
-    "description": "Mission program at Menwith Hill satellite station *\n",
+    "description": "5-Eyes modernization program for the satellite interception architecture (follow-up of SHAREDVISION) *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SHAREDVISION (SV)": {
+    "codeword": [
+      "SHAREDVISION (SV)",
+      "SHAREDVISION(SV)"
+    ],
+    "description": "5-Eyes modernization program for the satellite interception architecture (until 2010, followed by SHAREDQUEST) *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -7117,6 +7388,14 @@
       "SIERRAMONTANA"
     ],
     "description": "Software implant for Juniper M-series routers used by enterprises and service providers\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SIGCOM": {
+    "codeword": [
+      "SIGCOM"
+    ],
+    "description": "(National) Signals Intelligence Committee *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -7260,6 +7539,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "SLIVER": {
+    "codeword": [
+      "SLIVER"
+    ],
+    "description": "Proof-of-Concept for cross-mission use of passive IP sensors *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "SMARTTRACKER": {
     "codeword": [
       "SMARTTRACKER"
@@ -7372,6 +7659,14 @@
       "SOMBERKNAVE"
     ],
     "description": "Windows XP wireless software implant providing covert internet connectivity, routing TCP traffic via an unused 802.11 network device allowing OLYMPUS or VALIDATOR to call home from air-gapped computer\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SORA-2": {
+    "codeword": [
+      "SORA-2"
+    ],
+    "description": "IP expansion effort for the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -7705,7 +8000,7 @@
     "codeword": [
       "STORMBREW"
     ],
-    "description": "Program for collection from an international transit switches and cables (since 2001)\n",
+    "description": "Domestic cable tapping program in cooperation with Verizon (since 2001) *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8135,12 +8430,11 @@
     "case_sensitive": "No",
     "modified": "No"
   },
-  "TITAN POINTE": {
+  "TITANPOINTE": {
     "codeword": [
-      "TITAN POINTE",
       "TITANPOINTE"
     ],
-    "description": "Upstream collection site\n",
+    "description": "Centralized processing facility for FISA data collected under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8166,6 +8460,14 @@
       "TOPAZ"
     ],
     "description": "Satellite program\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "TOPROCK": {
+    "codeword": [
+      "TOPROCK"
+    ],
+    "description": "Facility for access to 4ESS circuit switches under the FAIRVIEW program *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8270,6 +8572,14 @@
       "TRAILMAPPER"
     ],
     "description": "NSA tool or database\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "TRANSIENT": {
+    "codeword": [
+      "TRANSIENT"
+    ],
+    "description": "Sub-program of FROSTING directed against Soviet satellites *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8598,6 +8908,14 @@
       "VALIDATOR"
     ],
     "description": "Computer exploit delivered by the FERRETCANON system for looking whether a computer has security software, runs as user process on target OS, modified for SCHOOLMONTANA, initiates a call home, passes to SOMBERKNAVE, downloads OLYMPUS and communicates with remote operation center *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "VANGUARD": {
+    "codeword": [
+      "VANGUARD"
+    ],
+    "description": "Certain type of cable tapping sensor *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -8998,6 +9316,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "WHITESQUALL": {
+    "codeword": [
+      "WHITESQUALL"
+    ],
+    "description": "International gateway switch access under the STORMBREW program *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "WHITETAMALE": {
     "codeword": [
       "WHITETAMALE"
@@ -9134,6 +9460,14 @@
       "YACHTSHOP"
     ],
     "description": "Sub-program of OAKSTAR for collecting internet metadata \n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "YANKEE": {
+    "codeword": [
+      "YANKEE"
+    ],
+    "description": "Part of the PINWALE database (NOFORN partition?) *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -9283,6 +9617,14 @@
       "BADASS"
     ],
     "description": "See Abbreviations\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "BASSQUEST": {
+    "codeword": [
+      "BASSQUEST"
+    ],
+    "description": "Signal analysing/processing capability *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -9752,12 +10094,28 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "FLUENCY": {
+    "codeword": [
+      "FLUENCY"
+    ],
+    "description": "Joint MI5-MI6 committee to investigate the Soviet penetration of Britain (1964-?)\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "FLYING PIG": {
     "codeword": [
       "FLYING PIG",
       "FLYINGPIG"
     ],
     "description": "Tool for querying databases for TLS/SSL encrypted traffic\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "FORESIGHT": {
+    "codeword": [
+      "FORESIGHT"
+    ],
+    "description": "SIGINT survey capability *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -9827,6 +10185,15 @@
       "GLOBALSURGE"
     ],
     "description": "Prototype network knowledge base of the NAC unit *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "GORDIAN KNOT": {
+    "codeword": [
+      "GORDIAN KNOT",
+      "GORDIANKNOT"
+    ],
+    "description": "Source for malicious code *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -9924,6 +10291,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "HARUSPEX": {
+    "codeword": [
+      "HARUSPEX"
+    ],
+    "description": "Source for malicious code *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "HAVLOCK": {
     "codeword": [
       "HAVLOCK"
@@ -9988,6 +10363,14 @@
       "HUSK"
     ],
     "description": "Secure one-on-one web based dead-drop messaging platform\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "INSIGHT": {
+    "codeword": [
+      "INSIGHT"
+    ],
+    "description": "Internal GCHQ access system *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -10068,6 +10451,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "IVE": {
+    "codeword": [
+      "IVE"
+    ],
+    "description": "SIGINT survey capability *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "JANET": {
     "codeword": [
       "JANET"
@@ -10122,6 +10513,14 @@
       "LATUS"
     ],
     "description": "Access point for the Cable & Wireless access to the Apollo North and another submarine internet cable *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "LECKWITH": {
+    "codeword": [
+      "LECKWITH"
+    ],
+    "description": "GCHQ SIGINT station *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -10521,6 +10920,14 @@
     "case_sensitive": "No",
     "modified": "No"
   },
+  "RAFTER": {
+    "codeword": [
+      "RAFTER"
+    ],
+    "description": "MI5 operation to remotely detect passive radio receivers used by Soviet illegals (1958)*\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
   "REFRIED CHICKEN": {
     "codeword": [
       "REFRIED CHICKEN",
@@ -10614,6 +11021,14 @@
       "SCRAPHEAPCHALLENGE"
     ],
     "description": "Perfect spoofing of e-mails from Blackberry targets\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "SHARKQUEST": {
+    "codeword": [
+      "SHARKQUEST"
+    ],
+    "description": "Signal analysing/processing capability *\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -10714,6 +11129,14 @@
       "STELLABLUE"
     ],
     "description": "Covert cable access or cooperating telecommunications partner *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "STOCKADE": {
+    "codeword": [
+      "STOCKADE"
+    ],
+    "description": "Joint MI5-GCHQ operation for analysing compromising emanation from French cipher machine cables (1960-1963)\n",
     "case_sensitive": "No",
     "modified": "No"
   },
@@ -11013,6 +11436,14 @@
       "WHIPSAW"
     ],
     "description": "Redirect and exploitation server *\n",
+    "case_sensitive": "No",
+    "modified": "No"
+  },
+  "WIDOWMAKER": {
+    "codeword": [
+      "WIDOWMAKER"
+    ],
+    "description": "British team, based at Menwith Hill, in Denver, and in Alice Springs, that had to discover communications intelligence gaps in support of the global war on terror (2008)*\n",
     "case_sensitive": "No",
     "modified": "No"
   },
