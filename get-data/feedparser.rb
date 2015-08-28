@@ -12,17 +12,42 @@ class FeedParser
 
   # Get all items from feed
   def pullItems
-    (1..66).each do |num|
-      feed = Nokogiri::XML(open('https://edwardsnowden.com/feed?paged='+num.to_s))
-      feed.xpath('//item').each do |i| 
-        item_parsed = parseItem(i)
-        if item_parsed[:categories].include? "Revealed documents"
-          @results.push(parseItem(i))
+    (1..80).each do |num|
+      begin
+        feed = Nokogiri::XML(open('https://edwardsnowden.com/feed?paged='+num.to_s))
+        feed.xpath('//item').each do |i| 
+          item_parsed = parseItem(i)
+          if item_parsed[:categories].include? "Revealed documents"
+            @results.push(parseItem(i))
+          end
         end
+      rescue
       end
     end
     
     JSON.pretty_generate(@results)
+  end
+
+  # Delete documents that aren't Snowden docs
+  def deleteNonRevDoc
+    json = JSON.parse(File.read("feed2.json"))
+    
+    # Check all files in dir
+    Dir.glob("../docs/*") do |file|
+      # Set file path and flag
+      file_path = file.split("/").last
+      found_flag = 0
+
+      # Check against paths in json items
+      json.each do |i|
+        i["pdf_paths"].each do |pdf_path|
+          found_flag = 1 if pdf_path == file_path
+        end
+      end
+
+      # Delete if there is no match
+      File.delete("../docs/"+file_path) if found_flag == 0
+    end
   end
 
   # Handle fields with multiple results
@@ -134,13 +159,16 @@ class FeedParser
     temphash[:document_topic] = extractFromCategories(temphash[:categories], "../extract-lists/document_topic.json")
     temphash[:agency] = getAgency(temphash[:categories])
 
-    temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
-    temphash[:document_date] = getText(i.at('document_date'))
-    temphash[:released_date] = getText(i.at('released_date'))
-    temphash[:pdf] = getDocPaths(i)
-    temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
-    temphash[:article_links] = getExternalLinks(i)
-    temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
+    # Get doc info iff it is a Snowden doc
+    if temphash[:categories].include?("Revealed documents")
+      temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
+      temphash[:document_date] = getText(i.at('document_date'))
+      temphash[:released_date] = getText(i.at('released_date'))
+      temphash[:pdf] = getDocPaths(i)
+      temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
+      temphash[:article_links] = getExternalLinks(i)
+      temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
+    end
     
     return temphash
   end
@@ -148,3 +176,4 @@ end
 
 f = FeedParser.new
 puts f.pullItems
+
