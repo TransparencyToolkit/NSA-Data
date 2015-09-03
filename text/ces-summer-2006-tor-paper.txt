@@ -55,7 +55,7 @@ Contents
 
 7.3	(S//SI) Discovering unknown hidden services ...................... 16
 
-7.4	(U//FOUO) Man-in-the-middle attack ............................. 17 1
+7.4	(U//FOUO) Man-in-the-middle attack ............................... 17
 
 1
 
@@ -590,7 +590,7 @@ call the “coil” attack. For this attack, we choose two target servers and se
 bounces back and forth between the two, “coiling” them around each other. When we set
 up a circuit of nc coils, the circuit will actually be composed of 2nc servers. This is because
 for each coil both targets are included once. This attack is concentrated, but requires two
-targets in order to work. This may be detected by an observant sysadmin, but by default, 11
+targets in order to work. This may be detected by an observant sysadmin, but by default,
 
 11
 
@@ -959,7 +959,7 @@ any standard configuration option of his Tor server as if he were directly editi
 configuration file. However, this did not offer the flexibility or power that we needed to
 set up a custom client, so we abandoned the idea early on. This does not mean that there
 is no useful application of using the control port. For example, one may be able to set up
-a carefully selected set of entry guards or exit servers (or both) so that suspected target 18
+a carefully selected set of entry guards or exit servers (or both) so that suspected target
 
 18
 
@@ -1011,7 +1011,7 @@ questions and ideas provided us with several ideas for areas of study.
 10	(U) References
 
 1.	Dingledine, Roger. “TC: A Tor control protocol.” <http://tor.eff.org/cvs/tor/doc/
-control-spec.txt>. Accessed 2006-03-10. 19
+control-spec.txt>. Accessed 2006-03-10.
 
 19
 
