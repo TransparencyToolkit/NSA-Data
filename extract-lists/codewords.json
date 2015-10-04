@@ -9742,7 +9742,7 @@
       "BLACK HOLE"
     ],
     "description": "Database or system for extracted social media messages from mobile phones *\n",
-    "case_sensitive": "No",
+    "case_sensitive": "Yes",
     "modified": "No"
   },
   "BLUE": {
