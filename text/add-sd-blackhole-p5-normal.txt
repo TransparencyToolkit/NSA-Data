@@ -1,0 +1,27 @@
+﻿TOP SECRET STRAP1
+
+**0
+
+Some useful definitions
+
+•	Presence Event
+
+•	Describes that an identifier was online, on an IP address, at a point in
+time.
+
+•	Simple, atomic element.
+
+•	Can be very easily developed so are very diverse
+
+•	Very useful!
+
+•	TDI = Target Description Identifier
+
+•	Has a type, eg Yahoo-Y-Cookie
+
+•	And a value, eg tom123@yahoo
+
+•	GTDI = Generic Target Detection Identifier
+
+•	Expands the TDI concept to telephony e.g. A GSM location update
+message

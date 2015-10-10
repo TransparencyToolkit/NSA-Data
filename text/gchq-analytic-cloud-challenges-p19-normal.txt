@@ -1,0 +1,31 @@
+﻿Value assessment
+
+What measures of value?
+
+•	Duplicated over time or across bearers
+
+•	Value decreases with age
+
+•	Value decreases after processing (SPAM, summaries)
+
+•	Use by analysts and analytics
+
+What actions to take?
+
+•	Do filtering upstream or don't generated
+
+•	Investigate use of streaming capabilities for filtering or sampling
+
+•	Discard immediately after first stage processing
+
+•	Age off and discard more selectively
+
+•	Periodically evaluate data types to understand usage
+
+Need to agree possibilities with operations and experiment
+
+26/3/2012 Ref: 181S6927
+
+UK TOP SECRET STRAP 1
+
+19

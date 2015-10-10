@@ -1,0 +1,61 @@
+﻿HADOOP Clusters
+
+Facts & Figures
+
+•	Three batch analytic clusters
+
+(HADOOP clouds)
+
+•	Each contains unique, unselected
+events, reference and results data
+
+•	Redhat Enterprise Linux, Apache
+HADOOP (Map Reduce)
+
+•	Each with ^900 data nodes, plus
+Ul/ingest/egress servers
+
+•	Each node 8 core, 64GB
+RAM, 6x1TB
+
+•	Each 6PB raw storage, 1.5PB for
+events (3x replication and results)
+
+•	The three clouds could, in
+
+theory, store 24 Trillion events @140
+
+BEPD and 6 months retention period
+
+Usage
+
+•	200 capability developer accounts
+
+•	Many more users able to access
+applications
+
+•	Guiding light > 150 users
+
+•	First Contact, Cloudy Cobra > 50
+
+•	Jobs during working hours
+
+•	Operationally ad-hoc
+(experimental, search, one time
+use)
+
+•	Development of new capability
+
+•	Schedules Jobs run overnight
+
+•	Sustained, operational applications
+
+•	Increasing expectation for fully
+supported, automated jobs such as
+Rumour Mill
+
+26/3/2012 Ref: 18171S07
+
+UK TOP SECRET STRAP 1
+
+6

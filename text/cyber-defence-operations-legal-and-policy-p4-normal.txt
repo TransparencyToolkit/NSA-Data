@@ -1,0 +1,39 @@
+﻿GORDIAN  KNOT	XKS, Content Cloud	30 days	30 days	Unsclectcd IA data  SIGINT data
+SQUEAL  data  MIRAGE  data	XKS	30 days	30 days	selected by electronic attack signature data selected by
+	XKS	30 days	30 days	electronic attack signature
+Malware  material	RcPortal, MWX	May be retained for as long as there is an operational reason to do so	May be retained for as long as there is an operational reason to do so	Retention subject to review every 2 years.
+
+The case for extended retention of malware and related analysis/reporting outputs was re-affirmed by
+MP-LEG in February 2012. The business case and approval can be found here DISCOVER item
+17226579 properties
+
+The case for the retention of IA data (SPAY & GORDIAN KNOT)was reviewed with MP-LEG in May
+2012. The business case and approval can be found here DISCOVER item 18620697 properties
+
+feditl GovCertUK data handling arrangements
+
+GovCcrtUK occasionally take delivery of data from organisations, which are seeking GovCert help as
+they believe that they have been attacked electronically. OPP-LEG conducted a review of GovCert's
+handling arrangements to ensure that adequate protection is being given to any personal information
+contained within this particular category of data.
+
+Policy on GOVCERT datahandling arrangments DISCOVER item 8472647 properties are in DISCOVER.
+
+feditl Cyber Defence Targeting
+
+feditl Targeting in Information Assurance data versus SIGINT
+data
+
+Sigint and IA data feeds arc obtained under different legal regimes, which impose different rules
+regarding the examination of data of individuals in the UK or other sensitive locations 5-Eyes. However,
+GCHQ has a requirement to comply with I IRA for both our Sigint and IA functions.
+
+•	IA DATA. If you arc searching a database containing purely IA data acquired from sensors, such as
+GORDIAN KNOT or SPAY, then the issue of location docs not occur as this data is not obtained
+under a RIPA warrant but conscnsually under Lawful Business Practice Regulations. You will still
+need an HRA justification for your searches.
+
+•	SIGINT EVENTS ONLY. If you arc searching a purely Events only database such as MUTANT
+BROTH, the issue of location docs not occur. Therefore, you may use selectors located in the UK or
+2nd Party countries without further authorisation. You will still need an HRA justification for your
+searches.

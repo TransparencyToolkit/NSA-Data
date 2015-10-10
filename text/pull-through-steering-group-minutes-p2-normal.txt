@@ -1,0 +1,68 @@
+﻿TOP SECRET STRAP1
+
+THQ/1202THQ/1900/0058
+29 February 2008
+
+popular PRIME TIME, looks for cross-media timing chains, e.g. a telephone call
+triggers a chat event.
+
+ACTION: Ran out of time for discussion - to be brought back for next PSTG
+session.
+
+•	KARMA POLICE - submitted at TRL 4.
+
+KARMA POLICE aims to correlate every user visible to passive SIGINT with
+every website they visit, hence providing either (a) a web browsing profile for every
+visible user on the internet, or (b) a user profile for every visible website on the
+internet.
+
+For more details, refer to high-level overview document B/6760BA/5001/1.
+
+Initial work with INOC shows high analyst usage of technique.
+
+ACTION: To be progressed as a Better Analysis theme based requirement for
+explore.
+
+- noted that the legalities with respect to ‘content’ need to be cleared.
+
+•	ORB FINDER submitted at TRL 4.
+
+Enables the identification of potential candidate Operational Relay Boxes (ORBs)
+for use in CNE’s active exploitation network through passive logging, providing a
+richer picture of the end-system, and consequently reducing CNE’s active footprint by
+focussing attention to those candidates that meet a stricter set of criteria.
+
+ACTION : To be progressed as a CNE theme based requirement for explore.
+
+• MOOSE MILK ^^^^^^^M'MOOSE MILK - submitted at TRL 4.
+
+A data mining algorithm devised by CTOR to detect suspicious use of telephone
+kiosks in the UK. MOOSE MILK is currently being developed further by the
+Operational Data Minina team in OPD-TAT.
+
+ACTION: To be progressed as a Better Analysis Agility requirement for explore.
+
+- noted that the timeliness of the tool depends on feeds in near-real time,
+which have not been available so far.
+
+LIGHTWOOD
+a TRL rating given operational usage within JTRIG.
+
+LIGHTWOOD - submitted to allocate
+
+Extracts act email addresses from any character stream. What differentiates
+LIGHTWOOD is its ability to distinguish valid email formats from those that appear to
+be email addresses but are not for open Internet (e.g. better@management).
+
+2	of 3
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and
+other UK information legislation. Refer disclosure requests to GCHQ
+
+
+
+to exemi
+
+under
+
+TOP SECRET STRAP1

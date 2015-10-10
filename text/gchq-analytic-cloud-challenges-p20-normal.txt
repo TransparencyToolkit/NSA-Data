@@ -1,0 +1,32 @@
+﻿Technology candidates
+QFD consolidation and HAKIM
+
+Existing QFD drawbacks
+
+•	Some duplication between QFDs (~10%)
+
+•	Need new QFDs to answer new questions
+
+Need a consolidated database with multiple indexes and flexible additions
+
+• HAKIM is a research prototype to do just that
+
+•	Unification of data, associated data kept together
+
+•	Quick and flexible addition of new data types and indexes
+
+•	Scalable and cost effective
+
+Other candidates exist and some HAKIM components could be replaced
+
+•	Oracle DB or distributed, non-relational database?
+
+•	Convergence with HADOOP stack HBASE/ACCUMULO
+
+Engineering is working with research to develop to the next stage
+
+26/3/2012 Ref: 18156927
+
+UK TOP SECRET STRAP 1
+
+20

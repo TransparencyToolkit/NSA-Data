@@ -1,0 +1,56 @@
+﻿attacker infrastructure in SIGINT.
+
+POLICY FOR TARGETING UK-BASED FOREIGN ELECTRONIC ATTACKER INFRASTRUCTURE
+DISCOVER item 16371414 properties
+
+POLICY FOR TARGETING US-BASED FOREIGN ELECTRONIC ATTACKER INFRASTRUCTURE
+DISCOVER item 14348247 properties
+
+Please refer all targeting of UK & US selectors in SIGINT to	for approval prior to taking
+
+any action. This refers to cither placing a selector on cover at a front-end dictionary via SQUEAL or using
+as part of a query term in a content repository e.g. XKS.
+
+DSD, CSEC and GCSB arc currently reviewing their lcgal/policy positions in relation to targeting
+attacker infrastructure based in their respective countries.
+
+[edit! Targeting email addresses for cyber defence purposes
+
+The underlying aim of targeting an email address differs from that of targeting an IP address or domain
+name that has been compromised for use in electronic attack. In the case of a compromised IP or domain
+that is hosted in a sensitive location, your target is the foreign actor who is cohabitating on the computer.
+
+In targeting these selectors, the aim is to obtain the traffic related to the malicious activity rather than any
+legitimate communications that may be present. In the case of an email address your target is the person
+carrying out the attack. In targeting an email, the intention is to select the communications of an
+individual or organisation. As such, location and nationality considerations apply when targeting via the
+Sigint system.
+
+•	Authorisation for the targeting of foreign selectors is achieved through GCHQ’s R1PA external
+warrants and certificate. You do not need to seek any extra authorisation for most targeting of
+foreign selectors. - e.g. a Russian in Russia.
+
+•	You require a specific RIPA authorisation if you are targeting the communications of an individual
+in the UK. E.g. a Russian in the UK
+
+•	You must seek a policy authorisation if your targeting involves any sensitivities of location or
+nationality. E.g. Russian in 2nd party or UK person abroad.
+
+Targeting rules always apply to the selector that is being targeted. Sec: GCHO Compliance guide: legal
+authorisation flow chart
+
+Examining events data is less intrusive than examining the content of communications. You do not need
+any extra authorisation to carry out a search on events data, regardless of location or nationality but you
+must supply an HR A justification for every search.
+
+ieditl Combined Policy Authorisation (COPA)
+
+The new Combined Policy Authorisation (COPA) is now live for all areas of GCHQ. For full information,
+please see the COPA Wiki pages. The COPA replaces Sensitive Targeting Authorisations (STA), Travel
+Tracking Authorisations (TTA) and authorisations to query sensitive financial data (Finint). COPA is
+required in similar circumstances to the old authorisations: primarily where the target is sensitive by
+reason of 2nd Party location or 5-Eyes nationality.
+
+The major differences are that:
+
+• Where the target is already on a RIPA s. 16(3) authorisation, that will be taken as providing

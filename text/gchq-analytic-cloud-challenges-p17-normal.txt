@@ -1,0 +1,56 @@
+﻿Understand usage of capabilities
+Use Case Class Mapping
+
+Large proportion of queries for
+most of the analysts
+
+Target, Unknown
+Query
+
+Target Based Discovery
+
+TugattaMd
+
+Development
+
+Target Tracking
+
+Small proportion of queries for
+some of the analysts
+
+Target, Unknown
+Query
+
+Anomaly Detection
+
+Behaviour-based
+Discovery
+
+Target. Known
+
+Query
+
+•	Developed jointly between GCHQ
+and NSA to understand
+
+-	the benefits of our current
+capabilities
+
+-	where respective strengths and
+weaknesses exist
+
+•	Provides a clear set of drivers for
+architectural evolution
+
+-	Missing capabilities
+
+-	Suboptimal use of capabilities
+
+-	Opportunities for collaboration and
+reuse
+
+26/3/2012 Ref: 18156927
+
+UK TOP SECRET STRAP 1
+
+17

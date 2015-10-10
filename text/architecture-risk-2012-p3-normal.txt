@@ -1,0 +1,59 @@
+﻿TOP SECRET STRAP1
+
+Recommendations
+
+6.	This high-level architectural analysis has highlighted parts of the solution
+architecture which needs immediate attention. There are currently line items in
+the unconstrained portfolio build which will help address the three main
+concerns. It is recommended that these line items are prioritised in the filter
+and twist phase.
+
+•	Big Data. We need to develop an end-end big data strategy which
+
+covers expected data growth, tradecraft, QFD architecture, cloud
+architecture, Black Hole, the role of streaming analytics and the
+proposed new data centre. A series of experiments should be carried
+out between TA, TDB innovation, ICTR and SD to de-risk some of the
+possible solutions.
+
+•	Integrated Analytics Framework. We need to converge to a small
+
+number of analytics frameworks for use across our multiple missions
+which support the rapid deployment of experimental analytics tools
+and provide the APIs required for fused analytics.
+
+•	Security Services. We need to provide an end to end and cohesive
+
+uplift to the capabilities used to support assured information sharing
+within and across our enterprise boundaries, with support to the
+Information Assurance agenda, ensuring the appropriate accessibility,
+releasibility and traceability.
+
+•	Vision and Strategy. The coherence we need in order to deliver against
+
+the drivers needs investment into the development of end to end
+technical vision and supporting technology strategies, supporting the
+business needs. The current "redness" in Annex 3 demonstrates that
+there are some fundamental changes required to the architecture.
+Whilst the first three recommendations will address some of the more
+urgent symptoms we need to also invest in addressing the underlying
+causes.
+
+7.	NSA are already some way down the path of instantiating their new
+architecture. Their "2017 Vision: the Future of NSA IT" has a small number of
+principles: smart data; virtualization and mobility. As we construct our
+equivalent vision we need, as a minimum, to be interoperable with NSA's new
+architecture. We should also look to take as much advantage as makes sense
+of NSA’s specific implementations.
+
+8.	Finally, please note this report was created over a short period of time with
+only limited amounts of effort. There is a need to establish an appropriate
+framework that allows a more considered view to be presented as input to
+future portfolio builds.
+
+3	of 6
+
+This information is exempt from disclosure under the Freedom of lnformatior^c^OO^n^na>^^ub«cUoexemplioni*idOT
+other UK information legislation. Refer disclosure requests to GCHQ
+
+TOP SECRET STRAP1

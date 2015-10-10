@@ -1,0 +1,34 @@
+﻿Geo-profiling over all presence events
+
+•	Perfect for MapReduce
+
+-	counting the number of occurrences in a large collection of records
+
+-	“MapReduce: A Flexible Data Processing Tool" Dean and Ghemawat
+Comms of the ACM January 2010 53(1) pages 72-77
+
+•	The Geo-Time summaries for all target identifiers can be used to
+answer a number of questions:
+
+-	Where has this target identifier been?
+
+-	Which target identifiers match the following country travel pattern?
+
+-	Do anomalous Geo sightings indicate coordinated activity?
+
+•	When combined with domain knowledge, can be extremely powerful if
+aggregated over all the data
+
+ICT
+
+RESEARCH
+
+This information is exempt from tasdosure Ulcfar tl» Fmnrinm of fofonwMfon Act2000 and nay be subject to exemption under other UK information legislation.
+
+Refer disclosure requests so GCHQ oc
+
+UK TOP SECRET STRAP1 SEYES^j
+
+¿ai NEXT GENERATION
+
+¡nr,	events

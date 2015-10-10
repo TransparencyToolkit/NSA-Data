@@ -1,0 +1,32 @@
+﻿SECRET STRAP1
+
+18* August 2009
+
+Getting Access to the BLACK HOLE Data
+
+42.	As well as being a source of data for the various QFDs, the NGE BLACK HOLE
+will be a source of data for TR, Ops and SD people wanting to perform
+investigatory and data-mining tasks on the data.
+
+43.	The task is complicated by the fact that there will be 2 instance of the BLACK
+HOLE - one at Cheltenham and one at Bude.
+
+44.	The option for getting access to the data and running analytics against it is:
+
+• Extract the data from the BH storage onto the storage attached to the
+analytics platform.
+
+45. Figure 2 shows the methods of getting access to the BLACK HOLE Data.
+
+Figure 2 - NGE BLACK HOLE Data Access
+
+10of 13
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+under
+
+SECRET STRAP1

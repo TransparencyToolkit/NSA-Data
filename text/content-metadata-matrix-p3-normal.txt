@@ -1,0 +1,26 @@
+﻿UK SECRET STRAP1
+
+COMINT AUSi'CAN'NZ/UKAJS EYES ONLY ORCON
+
+Data type sorted by data class (ccJumn B defined bdow)	Class (see below)	Content (c) or Metadata (m)	Note: For convenience, the terms -Metadata’. "Events’ and ’Communications Data" are often used interchangeably, although only the last is defined in UK law (RIPA).
+
+Coding of data classes
+
+a - attachment
+
+ac - authentication of communications
+c-content
+
+ca - communications address
+
+cdd - content denvcd data; some typer, in this class may be able lo be treated as communications data due to low levd of utrusion
+ch - content header
+
+d - traffic data including network management (excludes any such data sent inside the body of a commutation, eg by a CSP)
+m - miscellaneous; seme types in this dass may be able to be treated as communications data
+
+bulk unselected: as taken from bearers without filering or selection, save for national sensitivities
+
+UKSECHETSTKAP1
+
+OQWINT AUSCAUM2AJKUS EYES CfiLY ORCOT4

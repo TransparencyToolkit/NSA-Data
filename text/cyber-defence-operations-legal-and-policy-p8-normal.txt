@@ -1,0 +1,51 @@
+﻿to ensure that companies targeted under the banner of EWB have a clear link to the national security
+piece as any work on EWB under ISA (and RIPA) is permitted only to the extent that national
+security issues are directly engaged.
+
+•	You will need to provide a justification for the entities you wish to examine, so we have this on
+record in case we need to justify our activity to a Commissioner. Consult with CDO Policy lead
+before undertaking any activity.
+
+•	The UK IP addresses must NOT be referable to an individual in UK, but rather registered to a
+company or organisation.
+
+•	IP addresses MUST be recorded in HALTER HITCH (or BROAD OAK) along with the reasons for
+their ‘targeting*.
+
+•	IP addresses may form part of an XKS Fingerprint for ‘tagging’ data of interest in traffic already
+collected under GCHQ 8.4 warrants. They must not be targeted on front-end SIGINT collection
+systems (without further legal approval.)
+
+•	The IPs may only be queried in XKS (or DONKEY KONG) in conjunction with additional
+selection terms relating to the malicious activity i.c. NDIST Signatures. There should be NO
+discovery type activity or querying of the UK IPs alone.
+
+• The same guidance applies if we want to target one IP address vice an IP range.
+
+[editl Promotion of UK IP addresses
+
+Legal and policy position relating to the promotion of UK IP addresses of Defence sector and HMG
+networks DISCOVER item 13408992 properties into the Internet Buffers for the purpose of improved
+detection of electronic attack against these entities.
+
+[editl MIRANDA numbers
+
+New MIRANDA numbers came into effect in June 2011. The most recent list can be found here: Miranda
+Numbers spreadsheet DISCOVER item 11840084 properties
+
+[edit! HRA justifications
+
+HRA justifications must clearly describe the purpose of your targeting for a non-subject matter expert.
+Most system auditors won't have the same level of knowledge of your activity as you do. The
+justifications must be understandable to someone outside CDO. This doesn’t mean you have to give a
+lengthy description; it is about explaining in clear, concise language the reason for your activity.
+
+Some suggestions:
+
+•	Analysis into (Chincse/intrusion set name if sensitive/ or known foreign electronic attacker)
+targeting of UK victim computer; legitimate user communications defeated.
+
+•	Compromised IP address used by [known Russian electronic attacker); legitimate user
+communications defeated
+
+•	Malicious IP address used by unknown foreign electronic attacker; no legitimate user comms

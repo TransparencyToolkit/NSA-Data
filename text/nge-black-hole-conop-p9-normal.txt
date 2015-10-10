@@ -1,0 +1,72 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+Operations
+
+37.	The primary uses of BLACK HOLE for Operations are:
+
+•	Run bulk queries on selectors, or geographical regions, or some other criteria,
+to help assist Ops when they have a surge or crisis.
+
+•	Try new bulk analysis ideas and apply existing statistical methods in order to
+better understand data and develop analytical tools.
+
+•	Understand the BLACK HOLE data and to use it to look for particular patterns
+and behaviours for target discovery.
+
+•	Bulk access/extraction to specific logs.
+
+•	Monitor hits against various TDIs, both to inform the Protocol Prioritisation List
+(PPL) and to ensure that TDIs remain up to date and relevant.
+
+38.	For Operations BLACK HOLE use as described above, TDB-Events would expect
+
+the following to occur:
+
+•	A BLACK HOLE Manager role will govern the management and day to day
+running of the BLACK HOLE. (See BLACK HOLE Manager Role for more
+information, page 12.)
+
+Crypt Target Discovery and SIGINT Development (OPC-TDSD)
+
+39.	The primary uses of BLACK HOLE for Crypt Target Discovery and SIGINT
+
+Development are:
+
+•	Off-line processing of packets and/or events on BLACK HOLE, to generate
+more (or enriched) events, which are put back into QFDs.
+
+•	Test and add new “Crypt" QFDs into NGE environment. Note: All new QFDs
+are be evaluated against each other, in terms of Operational benefit, to
+determine its pull through priority onto the NGE environment.
+
+•	Access Content (encrypted data samples) to aid research and capability
+development plus target development, e.g. attempting to decrypt traffic
+samples.
+
+•	Access to crypt events to aid target discovery and target development
+
+•	Monitor hits against target to inform PPL and future Crypt research and
+capability development.
+
+40.	For a new “crypt" QFD to be trialled on BLACK HOLE TDB-Events would expect
+
+the same principals for the trialling of TR QFD to occur.
+
+41.	In the long term future the following Crypt areas would be interested in BLACK
+
+HOLE/QFDs:
+
+•	OPC-CDP - Analytical interest.
+
+•	OPC-CDP - Development of Crypt QFDs.
+
+9	of 13
+
+The information is exempt from disclosure under the Freedom of Information Act 2000 and
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+SECRET STRAP1

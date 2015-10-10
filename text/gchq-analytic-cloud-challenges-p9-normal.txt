@@ -1,0 +1,53 @@
+﻿Analytic use of data
+
+Security
+
+•	Data access controlled across 2
+dimensions:
+
+•	Usability: Operational (standard
+events) or Controlled (special
+purpose e.g. test)
+
+•	Classification: Multiple buckets -
+Open (TSS2), a few compartments,
+general CIOs Sensitive
+
+•	Capability developer access
+restricted by file/directory
+permissions
+
+•	User facing applications apply fine
+grained security on per record basis
+
+Silver Library
+
+•	Abstraction layer to separate analytic
+development from storage
+dependencies
+
+•	Pluggable parsers for new formats
+
+•	Record parsers for event data held in
+HDFS
+
+•	Applications still need to know field
+labels (function calls)
+
+•	Applications often add additional
+abstractions
+
+•	Input and Output handlers to read
+and write data based on type
+
+•	Utility functions to aid development
+
+•	Simple search and filter routines
+
+•	Events Product Centre maintained
+
+26/3/2012 Ref: 18171507
+
+UK TOP SECRET STRAP 1
+
+9

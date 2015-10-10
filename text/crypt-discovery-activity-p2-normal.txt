@@ -1,0 +1,65 @@
+﻿TOP SECRET
+
+2.	Assess the threat of https to our current exploitation capabilities and to our future
+intent
+
+a.	Which of our presence and communications metadata (including TDIs] will
+be lost under encrypted channels?
+
+b.	What is the impact of this loss to our Target Discovery and Target
+Development tradecraft?
+
+c.	What is the impact of this loss to our ability to cross-correlate TDIs and run
+more complex queries against our data?
+
+3.	Understand and improve our pairing rates within an access and between access
+points?
+
+a.	What can be paired from what can be viewed?
+
+b.	What could be paired between sites (demonstrate correlation between
+collaboration environment and TICKETWINDOW sites for example)?
+
+c.	What are the volumes of paired encrypted links and would our CA
+services be able to handle these?
+
+d.	Can we optimise our passive collection by analysing pairing rates per
+country and per service level?
+
+e.	How can the cloud enable better pairing by leveraging it’s ability to look
+over time?
+
+4.	Research new methods for maintaining an effective TD tradecraft and mitigating
+the threat of encrypted http traffic.
+
+a.	Are there other TDIs or “TDI-like” identifiers we can develop that can
+identify users or machines of interest, despite our targets using https? How
+effective are these? (e.g. are the TDIs persistent across sessions, do they
+uniquely identify a user or machine, do we always appear in user
+sessions?)
+
+b.	Can we characterise IPSec sessions from ESP metadata analysis (e.g.
+using duration, packet length, burstiness)?
+
+c.	How can we best analyze decrypted VPN traffic to develop effective TD
+tradecraft for VPNs.
+
+d.	Can we use Internet presence or communications metadata with network
+analysis techniques to identify high-value sessions? (gah: do you think this
+sits better under (3) above?)
+
+e.	Can we combine knowledge from session processing and content with
+metadata to enable better methods.
+
+Acquire an understanding for how much more challenging (or easier!) this problem is
+in the Mobile Internet context, and whether any of the mitigations from (4) above lend
+themselves to discovering targets behind Mobile Gateways.
+
+2	of 3
+
+This information is exempt from disclosure under the Freedom of lnformationAct2000andmaybe
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+TOP SECRET

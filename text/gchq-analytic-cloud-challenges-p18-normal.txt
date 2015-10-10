@@ -1,0 +1,41 @@
+﻿v—
+
+Existing coverage of use cases
+
+Known Target, Known
+Query
+
+Streaming. Rumour Mill and QFD capabilities (possibly assisted by cloud analytic)
+Could select data subset based on target, could pre-calculate results
+Large usage and automation suggests need for optimised capability
+
+Known Target, Unknown
+Query
+
+Not possible with existing QFD capabilities
+
+Needs new analytic or more Indexes on target selected data
+
+Large usage and needs suggest a new capability
+
+Unknown Target, Known
+Query
+
+Core QFD capability, possibly populated by cloud analytic
+1 Full unselected data set required but what level of Interactive query?
+1 Is It acceptable that older data be made available non-lnteractively?
+
+Unknown
+
+Target, Unknown Query
+
+1 Use batch analytic platform for low level search or new analytic
+Could a heavily indexed store provide a responsive capability?
+
+• Possibly only over a subset of data - recent data only?
+
+26/3/2012 Ref: 18156927
+
+UK TOP SECRET STRAP 1
+
+18

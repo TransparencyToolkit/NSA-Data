@@ -1,0 +1,64 @@
+﻿UK TOP SECRET//COMINT//REL FVEY
+
+8.12	A listener was chosen for further Internet profiling.^^^^^^Rgyahoo.com , a user
+located in Egypt.
+
+8.13	This user was found to have also used the following websites:
+
+Facebook.com
+
+Yahoo.com
+
+Fbcdn.net
+
+amrkhaled.net
+
+e-arabia.com
+
+redtube.com
+
+Youtube.com
+
+ratteb.com
+
+jeeran.com
+
+flickr.com
+
+islamway.com
+
+blogspot.com
+
+8.14	This profile suggests that listeners to Internet radio stations are often users of other
+Web 2.0 services, also that they use the web to get information from local or non-
+western news sources, blogs or social media.
+
+9 Recommendations for Future Work
+
+9.1	The single-line-records can be pulled through onto BLACKHOLE to feed a suitable
+QFD. Since the broadcast results are only events and not TDIs then they need to be
+correlated with the bulk TDI data that is already being processed. This might benefit
+Internet profiling work to understand what a user is doing on the Internet (e.g.
+SAMUEL PEPYS). It could also be adapated into KARMA POLICE to go from a
+specific radio station to a list of TDIs, or vice-versa.
+
+9.2	This report gives no consideration to the understanding and processing of the
+audio streams traversing the network. For radio stations that were private, or
+not accessible by the Internet, this would allow GCHQ to listen to the audio
+part of the protocol.
+
+9.3	A wealth of datamining techniques could be applied on small closed groups of
+individuals, to look for potential covert communications channels for hostile
+intelligence agencies running agents in allied countries, terrorist cells, or
+serious crime targets.
+
+9.4	An evaluation of Internet radio for future effects operations including
+information operations in Afghanistan or Iran could be considered as a way of
+getting rich audio information to a large audience of Internet connected
+individuals.
+
+10. References
+
+Strategic Framework Task 4134544, 72/09/R/001/C, ICTR
+
+UK TOP SECRET//COMINT//REL FVEY

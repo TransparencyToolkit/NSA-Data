@@ -1,0 +1,32 @@
+﻿Technology candidates
+The GCHQ "core" (Hardy)
+
+What is it?
+
+•	A HADOOP cluster with Map/Reduce and interactive query/analytics capabilities
+
+•	Probably using CLOUDBASE/ACCUMULO and reusing NSA knowledge
+
+What would it be used for?
+
+•	A place for data and summaries promoted from the bulk stores
+
+•	Known Target, Know Query and some Known Target, Unknown Query
+
+•	Optimised for major use case and suitable for data sharing
+
+•	Provides some resilience by duplicating important data
+
+What are the challenges?
+
+•	GCHQ has limited expertise with CLOUDBASE/ACCUMULO this technology
+
+•	The promotion analytics and criteria are not developed
+
+Engineering could potential build this using on-order kit
+
+26/3/2012 Ref: 18156927
+
+UK TOP SECRET STRAP 1
+
+22

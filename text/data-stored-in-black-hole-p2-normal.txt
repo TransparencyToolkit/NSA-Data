@@ -1,0 +1,37 @@
+﻿inadvertently, be ECI data (but this is not expected, as we are not actively doing things covered by ECI).
+The data includes fields which have been produced by enrichment (such as, for example, target details)
+and this can increase the classification.
+
+feditl Where the data in BLACK HOLE comes from
+
+Take a look under the covers of BLACK HOLE to find out where the data comes from.
+
+feditl How much data there is
+
+feditl Volumes in BLACK HOLE
+
+The total amount of (compressed) data entering BLACK HOLE is approximately 200GB/day.
+
+feditl Volumes in the datamarts
+
+Prototype	Current retention time / months	Current database size / TB	Estimated size for six months retention / TB	Current database size / billion rows	Estimated database size for 6 months retention / billion rows
+MUTANT  BROTH	4	7.7	11.55	21.7	32.55
+KARMA  POLICE	3	6.8	13.6	17.8	35.6
+MEMORY  HOLE	0.5	0.6	7.2	2.2	26.4
+AUTOASSOC	6	0.1	0.1	11	11
+SOCIAL  ANIMAL	1	1.6	9.6	1	6
+HRMAP	3	7	14	16	32
+INFINITE  MONKEYS	6	0.02	0.02	0.2	0.2
+Total		23.82	56.07	69.9	143.75
+
+Please note - all of these values are approximate.
+
+Retrieved from |
+
+Category: 1CTR BLACK HOLE
+
+POC: I
+
+)ata stored in BLACK HOLE”
+
+I ( nuil rhonchooh Find)

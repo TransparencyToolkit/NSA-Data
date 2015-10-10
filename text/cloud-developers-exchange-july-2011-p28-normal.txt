@@ -1,0 +1,41 @@
+﻿Log 10 number of IPs wiih given m-degree
+
+BLOOD HOUND - ICTR-NE
+
+•	Detect electronic attack - aim to detect
+distributed and automated behaviour
+
+•	Idea from IDA/CCS SCAMP 2009
+
+-	'Using degree distributions to detect
+internet traffic anomalies' Scheinerman
+
+•	Detect multiple IPs with same degree:
+
+-	in-degree {distributed hacking/port
+scanning)
+
+-	out-degree {DDOS/bot tasking)
+
+•	Graph: peak at in-degree - 10*1.8 = 63
+
+-	Appears to be some sort of hacking
+activity
+
+-	Dictionary attack: cycling through range
+of IPs on network, making 63 GET
+requests to each
+
+-	Trying 63 combinations of URl, with the
+intent of getting a MySQL setup script
+(basic exhaust)
+
+This mkxmatKjn is exempt from disclosure tenter the Freedom of fotncmteinn Act MOO and may be subject to exemption under other UK information tpryitarrm.
+
+Retcr disclosure requests » GCHQ on |
+
+UK TOP SECRET STRAP1 5EYE!
+
+NEXT GENERATION
+
+events

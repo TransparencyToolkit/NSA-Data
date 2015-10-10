@@ -1,0 +1,60 @@
+﻿communications involved in sending a single message may each form a separate event.
+
+On occasion single events can end up being split into multiple events because of the nature of the
+intercept mechanism. For example an e-mail may be split into individual messages by Mail Transport
+Agents when delivering a single message to multiple destinations. This can result in the appearance of
+multiple events depending on the point at which the event was intercepted.
+
+Conversely, an event can be the summarisation of many individual transactions, taking place over a long
+period of time. For example, instant messaging text chat events in HAUSTORIUM arc actually the
+summarisation of a scries of separate messages, each of indicates people joining and leaving the chat,
+inviting others and accepting invitations etc. The final event that is presented to the analyst shows only the
+group list of people involved, in order to avoid swamping the analyst in huge numbers of separate trivial
+rows of data.
+
+[edit] Types of Event
+
+Example Event types from Mobile traffic
+
+Events have traditionally been categorised according to the technology involved - Telephony. C2C and
+Geo. GCHQ is currently developing a more activity-centric (and technology agnostic) view based on
+types such as:
+
+•	Communications (Comms) Events
+
+•	Presence Events
+
+•	Geo reference Events
+
+The Mobile Applications Project have drawn up a diagram showing the relationships between some
+example event types: RightArrow.jpg
+
+[edit] Comms Event
+
+A Communications or Comms Event occurs when one party communicates with another. Comms Event
+types include:
+
+•	Telephone calls, both landlinc and mobile
+
+•	C2C telephony: VoIP and SIP
+
+•	Correspondence: sending and reading emails, including wcbmail
+
+[edit] Presence Event
+
+Presence Events are defined by the INTERSTELLAR DUST ICD - sec 1DUST (PPF App). This
+includes:
+
+•	Presence TDIs - real world events where there is an active user (e.g. logging into a website,
+requesting a web page)
+
+•	Google Maps and Earth events - where the active user has requested a map tile
+
+•	HTTP Get and Post - where the user has requested a web page
+
+•	Web search events - where the active user has searched for something (e.g. in google)
+
+•	Telephony presence (i.c. location updates, or other location information about the active user
+contained in the signalling)
+
+[edit] Social Event

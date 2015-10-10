@@ -1,0 +1,18 @@
+﻿'¿¿events New Loaders
+
+BNew loaders deployed to MB and HR Map,
+improvements to KP.
+
+-	Latency of the data in the QFDs has been greatly
+reduced, now around 12 hours.
+
+• Each instance of MB can now ingest 8 billion events per-
+day (total 32 billion)
+
+-	Some QFDs were previously 1-5 days behind.
+
+-	Query performance during loading has also been
+improved.
+
+SECRET STRAP1
+

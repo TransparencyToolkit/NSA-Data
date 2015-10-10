@@ -1,0 +1,28 @@
+﻿BLACK HOLE
+
+NEXT GENERATION
+events
+
+What is BLACK HOLE?
+
+& A flat file store housing all
+data from a wide range of
+feeds (events and content)
+
+& Provides a set of tools for
+accessing that data.
+
+& Intended to be the source of
+events (and limited content)
+for the development of new
+QFDs and analytics.
+
+® Contains a rolling 6 months
+retention
+
+« Part of ROUGH DIAMOND
+
+What does it enable?  ® New QFDs to be rapidly  prototyped, then to be added to the operational QFD suite  ® Trialling of new bulk analysis ideas  & New sources of data to be introduced quickly into existing QFDs.  ® Users to look for particular patterns and behaviours (target discovery)  ® TR, GTAC and GTE access to more data for research purposes, which may not be QFD related.	
+i		
+
+SECRET STRAP1

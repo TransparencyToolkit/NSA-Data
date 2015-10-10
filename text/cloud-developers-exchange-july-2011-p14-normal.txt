@@ -1,0 +1,30 @@
+﻿AWKWARD TURTLE - Cloud QFD
+
+•	What is a recommender system?
+
+-	Netflix - subscribers who like film X also like film Y
+
+-	Amazon - customers who like book X also like book Y
+
+-	GCHQ - Terrorists who like website X also like website Y
+
+•	MapReduce - vector of TDI scores for every website
+
+-	Vector dot product - “cosine similarity” measure
+
+-	Maximum degree TDI cut-off
+
+-	Target activity Is being used as similarity measure
+
+•	Website-website correlations - found previously unknown
+file hosting
+
+ICT
+
+RESEARCH
+
+UK TOP SECRET STRAP1 SEYES^j
+
+NEXT GENERATION
+
+nrj	events

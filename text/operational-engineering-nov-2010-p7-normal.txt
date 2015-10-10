@@ -1,0 +1,17 @@
+﻿’¿events BRIO and SALAMANCA
+
+® Key changes since July:
+
+a NRT (Near Real Time) Storage = 3 days
+a Extra feeds from TERRAINS at BUDE and
+SOUNDER
+
+a 2nd Party usage of SALAMANCA: SHAREOWN
+replaces ESCHAR
+
+a CallAnsweredState and CallEndState added to
+TERRAIN-SALAMANCA feed
+
+SECRET STRAP1
+
+^CCHQ^

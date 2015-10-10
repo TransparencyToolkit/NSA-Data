@@ -1,0 +1,22 @@
+﻿SSE Roadmap / Future Capability
+
+Supporting Internet Operations
+
+•	The SSE Roadmap is still valid though needs re-visiting to
+update/valldate the recommended intercept and egress
+expansion.
+
+•	Along with TEA and SRT (and ECB) we are developing
+new relationships to expand our access footprint, to bring
+the number of 10G bearers:
+
+-	Intercepted by Mar 2011 to: 1513 (or there abouts...)
+
+(+70 if we include CIRCUIT/WG)
+
+-	Egressed to GCHQ processing systems by Mar 2011 to: 415
+
+Eagle eyed will have noticed that this doesn't align with the
+projected processing and storage profile.
+
+TOP SECRET STRAP1

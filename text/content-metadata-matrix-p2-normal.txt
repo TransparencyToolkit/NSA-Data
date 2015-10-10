@@ -1,0 +1,38 @@
+﻿UK SECRET STRAP1
+
+COMINT AUSiCAN'NZiUMJS EYES ONLY ORCON
+
+Data type soiled by data class (column B defined below)	Class (see beta«)	Content (c) or Metadata (m)	Note: For convenience, the terms "Metadata'*. "Events'' and "Communications Data" are often used interchangeably, although only the last Is defined in UK law (RIPAL
+personal IDs extracted from cookies, mail headers, chat sessions or buddy lists	ca	m	
+telephone number	ca	m	
+content summanzation	edd	odd	
+file type of an attachment to an email	edd	odd	
+language or language fingerprinting	odd	odd	
+speaker's gender	edd	odd	
+speaker's ID	edd	odd	
+e-mail subject Ime	ch	c	
+dialling, signalling, routing, addressing or signalling information	d	m	
+call charge records, including info aboul ihe time and length of a call	d	m	
+Calling Line Identification, including numbers dialled	d	m	
+details of routers and IP addresses that have handled the message	d	m	
+DTMF dialling (not data)	d	m	
+location of parties to a communication, not derived from content	d	m	
+logs of visitors to chat rooms including how often they have vrsiteefiposted	d	m	
+network management, eg billmq, authentication or tracking of communicants	d	m	
+start and finish time of an internet session or phone call	d	m	
+status of chat sites. ie whether they are active and how many participants	d	m	
+URLs up to and including the domain name	d	m	
+session Initiation protocols	d	m	
+website registers including owner details; assume not UKUSA owncdi'registcrcd	d	m	
+creation oflacccss to draft message	m	m	N.8. the contents of a draft message are Content
+hustory of websites browsed (full URLs)	m	c	
+buddy lists for web mail, instant messenger or social networking	m	m	
+folders used to organise e-mails	m	m	
+address books or contacts lists for web mail etc	m	c	
+crypto keys	m	c	
+password to intern«! or telephony services other than communications services	m	c	
+URLs beyond the domain name, ie one that may include search terms	m	c	
+
+UK SECRET ST RAP 1
+
+COWINT AUS.CAUNZiUK.US EYES ONLY ORCON

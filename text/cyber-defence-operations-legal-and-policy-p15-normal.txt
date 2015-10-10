@@ -1,0 +1,54 @@
+﻿Active Operations
+
+To successfully complete the mandatory Operational Legalities training, you must pass the assessment,
+which appears in iLcam as the 5th module at the end of the Certification. And you must pass it within the
+required timeframe.
+
+Almost everyone in Operations will require Operational Legalities training, as will many people in other
+MBUs.
+
+Sec the MP-LEG e-lcaming Wiki pages for further details.
+
+NEW July 2012
+
+From 2nd July 2012, in accordance with MP-LEG instructions, ITScrvices will not provide new accounts
+on operational Sigint systems unless successful completion of the appropriate mandatory Operational
+Legalities training is recorded in iLeam.
+
+This applies to accounts on all operational systems controlled by the ITScrvices Account Management
+Team, including B3M, X-KEYSCORE, LOOKING GLASS/GOLDENEYE, BLAZING SADDLES,
+MOONRAKER. TRITON.
+
+[edit! USSID-18 training
+
+In addition to GCHQ's Operational Legalities training, anyone requiring access to NSA’s “raw SIGINT*
+tools and databases (i.e. where the data is unevaluated and unminimized) must take NSA*s USSID-18
+training (OVSC 1800) and pass the associated test annually.
+
+This used to be required every 2 years but with effect from 11 June 2011 it became an annual requirement.
+If it's more than a year since you last took the training, you should retake it as soon as possible.
+
+Further details on the Mission Policy e-lcaming Wiki page USSID-18 Training
+
+You can check your USSID-18 record on the NS A CAS PORT 2nd party web site
+
+Select	called "My Identity CUE"
+
+ieditl USSID-18 & XKS
+
+Everyone applying for a GCHQ XKS account, must have taken their USSID-SP0018 training. This is
+because a GCHQ XKS account gives you default access to Menwith Hill Station COMSAT data, which
+counts as a US site. This means that to get an XKS account you need to pass USSID-SP0018, even though
+this is just one of about 30 data sources we put in XKS. Whilst this might sound silly, we rejected the idea
+of making MHS an optional extra, because a) it's a good site with good data in it b) most people have
+USSID-SP0018 anyway and c) if you don't. then it's really quite straightforward (it's an open-book,
+multiple choice test) and passing it will also let you access numerous other useful tools and databases.
+
+feditl Legal and Policy Effects Licence (LAPEL)
+
+From Autumn 2011. Operational Leads for Effects will require a Legal and Policy Licence before they
+can run Effects operations. To obtain the LAPEL, Op Leads will need to meet 2 conditions:
+
+•	Attendance at an Effects Legal and Policy training session
+
+•	Policy Skill 4 at level 2

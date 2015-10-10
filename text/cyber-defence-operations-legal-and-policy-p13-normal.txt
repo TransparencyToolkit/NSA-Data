@@ -1,0 +1,49 @@
+﻿ultimate arbiters.
+
+feditl Discovery of network misuse
+
+Government network monitoring is undertaken with the express consent of system controller that such
+monitoring will be undertaken in the interests of national security. However, we have limited that national
+security purpose to being for the detection, analysis and prevention of network-based attacks against
+HMG computer systems (Source: Consent letter signed by host organisations). Support to DefMon would
+be in the interests of national security, but it does not serve the more limited purpose for which express
+consent was given, namely the detection etc. of network-based attack. However, advice has already been
+given that some activities which do not constitute network-based attack may be reported from
+HARUSPEX, provided that to do so is in the interests of national security. Examples of such activities
+include serious network misconfiguration, or the re-naming of file extensions by users in order to evade
+firewalls. (Source: HARUSPEX legal working aid).
+
+The project team and legal advisers considered what would happen if in the course of the monitoring
+work we discovered other material that was not relevant to national security, but nevertheless indicated
+misuse or criminal activity through network misuse. Examples of network misuse might include illicit
+commercial activity or the distribution of pornography. It was agreed that we would seek legal advice on a
+casc-by-casc basis. If such activity poses no threat to national security and does not constitute serious
+crime, then the enabling legislation, (i.e. the Intelligence Services Act 1994 and the Security Service Act
+1989), might not permit GCHQ/Sccurity Service to obtain or disclose such information.
+
+feditl Second Parties
+
+5	Eves Policy Matrix for Sharing Cyber Security Data and Products DISCOVER item 14628328
+properties
+
+GCHO Policy Matrix for Sharing Cyber Security Data and Products with Second Parties DISCOVER
+item 12961243 properties
+
+GCHO Policy on exchange of network defence metadata with Second Parties DISCOVER item 5262362
+properties
+
+GCHQ policy on sharing Halter Hitch cA signature database with Second Parties DISCOVER item
+17718071 properties
+
+GCHO policy on sharing malware reporting & data with Second Parties DISCOVER item 17018793
+properties
+
+feditl Industry partners
+
+Over the coming months and into 2012, CDO will host a number of Industry partners as part of a project
+called “Use of Industry Tradccraft Uplift". These individuals have been selected to join the team for a
+period of time to enhance existing tradccraft and capability.
+
+The following principles should help staff understand the key legal and policy aspects of this type of
+commercial partnering in the operational workspace: Industry Tradccraft Uplift - legal & policy guidance
+- Sept 2011 DISCOVER item 13755932 properties

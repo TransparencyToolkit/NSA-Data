@@ -1,0 +1,102 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+Next Generation Events (NGE) - BLACK HOLE ConOp
+
+Author:
+
+l(TDB),|
+
+l(TSE), I
+
+|(TDB)
+
+Issue	Date	Author		Amendments
+0.1	10/06/2009			First draft
+0.2	30/06/2009			Incorporatinq doc comments
+0.3	10/07/2009			Further updates
+0.4	28/07/2009			Updates to reflect Stakeholder feedback.
+1.0	18/08/2009			Document updated and issued.
+
+Distribution
+
+SE)
+
+(TDB)
+
+DB)
+
+-GTAC)
+(OPD-DRFC)
+i(ICTR-FSP)
+,-MTR)
+(OPD-GTE)
+(OPC-TDSD)
+GTE-BUDE)
+(GTE-BUDE)
+OPP-LEG
+
+|(TSE)
+
+|(TSE)
+
+(OPD-GTAC)
+(OPD-GTAC)
+
+1 (CTOR)
+(ICTR-HSP)
+
+I (ICTR-DMR)
+
+I (OPD-GTE)
+Î-TDSD)
+
+“I (GTE-BUDE)
+I (ITSERVC)
+
+BLAZING SADDLES team
+
+Location:
+
+nOp.doc
+
+References
+
+[a]
+
+[b]
+
+TR BLACK HOLE
+
+BLACK HOLE
+
+BLAZING SADDLES -Legal and Policy requirements
+
+KBLAZING
+
+SADDLES -Legal and Policy requirements - 20090625.doc
+
+Introduction
+
+1. This document aims to encapsulate the initial concept of BLACK HOLE for
+BLAZING SADDLES under the Next Generation Events (NGE) project.
+
+Brief overview
+
+2. BLACK HOLE is essentially a flat file store, housing data from a wide range of
+feeds. A small amount of automated processing is applied to some of the data
+when it arrives. It was originally developed by Technology Research (TR) and is
+currently being Tech transferred" by TDB-Events as part of the BLAZING
+SADDLES work package under the NGE project.
+
+1 of 13
+
+The information is exempt from disclosure under the Freedom of Information Act 2000 and
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+under
+
+SECRET STRAP1

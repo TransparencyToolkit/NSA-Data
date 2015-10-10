@@ -1,0 +1,42 @@
+﻿Data Ingest
+
+Ingest Design Goals
+
+•	Store all data received, i.e.
+don't risk losing important
+fields by normalising to single
+file format.
+
+•	Partition by directory structure
+
+•	Partition by data type to
+simplify common queries.
+
+•	Partition by ingest date to
+allow incremental analytics.
+
+•	Partition by security
+compartment.
+
+•	Horizontal scaling by adding
+new hardware.
+
+Data Formats
+
+•	TLV- Tag Length Value
+
+•	Comma Delimited
+
+•	Fix Position
+
+•	Single Line & Multi-Line
+
+•	Multiple Variations
+
+•	Actor Action
+
+•	Many sources and many types
+
+26/3/2012 Ref: 18171507
+
+UK TOP SECRET STRAP 1

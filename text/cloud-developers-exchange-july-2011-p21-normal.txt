@@ -1,0 +1,28 @@
+﻿Comments on Normalised PageRank
+
+•	Could go N-hops from seed node
+
+-	Have to set pizza node degree limit
+
+-	N-hop with pizza limit is standard contact chaining method
+
+•	Normalised PageRank deals with high degree nodes
+
+-	High degree nodes tend to have high PageRank
+
+-	Must score very highly on PPR to score well in Normalised PR
+
+•	Shown results within small component
+
+•	Evaluate Normalised PR for seed term in Giant Connected
+Component of Query Term Graph using Bagel
+
+ICT
+
+RESEARCH
+
+UK TOP SECRET STRAP1 5EYE3yT
+
+NEXT GENERATION
+
+nrj	events

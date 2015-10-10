@@ -1,0 +1,25 @@
+﻿Internet/Cyber EDA - FY 11/12
+
+• Attempt to identify malicious sites in the HTTP graph
+
+-	"BadRank- given set of known “bad” web sites, can we identify
+associated sites that either point in same direction, or are reached
+from initial sites
+
+-	Identify loosely connected components - bits that aren’t closely
+tied in by association with Google et al.
+
+-	Subgraph detection - if we have an approximate idea of how a user
+
+reaches a malicious web site, can we identify this pattern and
+similar others in the HTTP graph? [	SANDIA work]
+
+ICT
+
+RESEARCH
+
+UK TOP SECRET STRAP1 5EYE3yT
+
+¿ai NEXT GENERATION
+
+nrj	events

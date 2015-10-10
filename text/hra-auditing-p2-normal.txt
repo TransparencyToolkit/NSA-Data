@@ -1,0 +1,52 @@
+﻿standards. These standards arc designed to meet the legal requirement to demonstrate necessity and
+proportionality and to show that GCHQ is acting in accordance with its authorisations and meeting its
+human rights obligations. The audit process is designed to achieve this aim.
+
+For full details of the audit requirement please see
+
+Compliance Guide
+
+[editl Audit Timetable
+
+There is currently an audit requirement for a random sample of database records from BROAD OAK
+every quarter & HRA EVENTS Service every 6 months at the following intervals; however, this audit
+programme is currently under review and this may be subject to change at any time:
+
+JAN	FEB	MAR	APR	MAY	JUN	JUL	AUG	SEP	OCT	NOV	DEC
+UDAQ	BROAD  OAK	None	None	BROAD  OAK	EVENTS	UDAQ	BROAD  OAK	None	None	BROAD  OAK	EVENTS
+
+feditl OPP-LEG's Responsibility
+
+OPP-LEG is responsible for overseeing the audit process and for providing guidance on how to complete
+an audit. It is OPP-LEG's responsibility to set the objective standards, using metrics, and which measure
+HRA compliance. The metrics used arc Red - below 75% being unacceptable non-Compliancc, Amber -
+75% to below 94% being fairly Compliant but with room for improvement & Green - 95% and above
+being Compliant. It is for this that OPP-LEG provides training and guidance to all staff on the need to
+properly justify their work and to demonstrate compliance. OPP-LEG will:
+
+•	provide data samples for the UDAQ and events audits to the chief auditor or LPL at the start of
+each audit
+
+•	provide end of year reports to the Deputy Directors for Intelligence Production on the overall
+findings of the audits.
+
+•	work with IPTs/BUs, if requested, to help to raise compliance rates and will track key themes that
+arc identified in audit reports, and will request changes to systems if necessary.
+
+[editl Analyst's Responsibility
+
+All records of analysts'actions when conducting targeting, tasking, searching and examining intcccpt for
+communications content or metadata must demonstrate compliance with HRA. Some areas have produced
+local guidance to help staff how to demonstrate high standards of HRA compliance. Please speak to your
+Legal and Policy Lead to sec if your area has this guidance and make sure that you are familiar with it as
+this is the standard that auditors will use to judge records as part of an audit.
+
+You must ensure that your work:
+
+•	is conducted for one of GCHQ s Sigint purposes: National Security. Economic Well-Being of the
+UK or in support of the prevention or detection of Serious Crime
+
+•	supports an intelligence requirement (demonstrated by recording a relevant MIRANDA reference)
+
+•	contains a frec-flow HRA justification stating why you arc intruding an individual's privacy and
+what your expected outcome is in conducting this intrusion

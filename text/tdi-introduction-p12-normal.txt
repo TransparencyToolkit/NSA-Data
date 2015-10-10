@@ -1,0 +1,15 @@
+﻿	
+
+Target Detection Identifiers
+
+• 70 distinct TDI types discovered.	TDI Type	TDI Location	User/Machine
+• 2500 TDIs/sec (GET, de-duplicated)	Yahoo-Y-Cookie	Cookie	User
+• => 200 Million per day per 10Gbps	Yahoo-B-Cookie	Coookie	Machine
+	Google-IK	Request-URI	User
+• De-dupe rate ???	Paltalk-Nfckname	Request-URI	User
+• Cost - 250 hours per TDI	MS-MUID-Cookie	Cookie	Machine
+• Automated discovery prototype	Google-SID-Cookie	Cookie	Machine
+° Down Copyright. Al rights reserved. This information is exempt from disclosure urrier the Fr	Maktoob-ME User-Cookie	Cookie	User
+	Orkut-PREFID-Cookie	Cookie	User
+	Cloob-Username	Cookie	User
+other UK information legislation. Refer disclosure requests to Contains Intelectual Property owed arel/ot managed by GCHO. The material may be iSssemin  be obtained for dissemination outside th »12 UK SECRET STRAP2		 rc j  aled throughout the recipient organisation, but GCHO permission must eorganisation Bit««* un  COMINT ORCON '	™		

@@ -1,0 +1,29 @@
+﻿Normalised PageRank
+
+►	Want to find nodes with high Personalised PageRank score, q
+compared to its PageRank score, p
+
+►	p and q are both (stationary) probability distributions on the
+same set so KL-divergence comes to mind
+
+KL{q||p) = ^ <7; log —
+
+/ Pi
+
+►	We can rank the nodes based on their contribution to this
+sum, q, log ^
+
+► This is the Normalised PageRank score
+
+ICT
+
+RESEARCH
+
+This information is exempt from disclosure mefar Ea Frnwrtnm of Wormation Act2000 and may be subject to exemption under ocher UK information Iwgirtition.
+Refer disetosure requests so GCHQ <
+
+UK TOP SECRET STRAP1 5EYE
+
+[S*NEXT GENERATION
+
+rçr,	events

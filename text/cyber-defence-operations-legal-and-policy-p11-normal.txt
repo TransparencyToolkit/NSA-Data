@@ -1,0 +1,43 @@
+﻿[edit] Operation-specific guidance
+
+Op DICING legal & policy guidance - March 2011 DISCOVER item 8323306 properties
+
+Op ARCADE CONCERT legal & policy guidance - September 2011 DISCOVER item 13464646
+properties
+
+feditl Working with partners
+
+[editl Providing advice & assistance to non-HMG entities
+
+GCHQ's functions are set out in the Intelligence Service Act 1994 (ISA).
+
+Our "Sigint/monitoring" function is at s3(l)(a) and we are limited as to the purposes for which we can
+exercise that function. Work must meet one of GCHQ’s lawful purposes, normally national security. Any
+work on EWB under ISA is permitted only to the extent that national security issues arc directly engaged.
+
+Our "IA" function is at s3( 1 )(b) and relates to the provision of advice and assistance about cryptography
+and other matters relating to the protection of information and other material. While we are not limited as
+to the purposes for which that function can be exercised we are limited as to who we can provide that
+advice and assistance to. Non-HMG recipients must be determined in order to receive such information.
+These determinations are limited to the provision of advice and assistance under section 3( lXb)(ii) of
+ISA.
+
+The current view from the lawyers is that it depends on the source of the information/advicc. This dictates
+which Intelligence Services Act function GCHQ will be acting under.
+
+•	If we arc providing Sigint/monitoring-dcrivcd advice (i.e. CDO is monitoring the entities’
+communications in some way to obtain info about a vulncrability/compromise) then w-c will be
+exercising our "Sigint/monitoring" function and can do that for whoever it is necessary to do that
+for but only in the interests of national security. The recipients of this advice will not need to be
+determined.
+
+•	If it is clearly IA advice we arc providing (and not monitoring communications in order to be able
+to do that) then this will fall under section 3(1 Kb) of ISA, and non-HMG recipients will need to be
+determined. This is where the determinations process comes into play.
+
+•	If the advice is a mix of SIGINT and IA advice then the current policy/LA view' being developed in
+response to the cyber hub work is to regard this advice as falling under section 3(1 )(a). The thinking
+behind this being that it is crucial to ensure that GCHQ doesn't lose sight of the national security
+imperative in its provision of “mixed” advice. Thus, following this view, “mixed” advice would fall
+under section 3( 1 Xa) and w-ould not require determination but would need to be in the interests of
+national security.

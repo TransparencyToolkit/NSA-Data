@@ -1,0 +1,55 @@
+﻿It is important that staff are aware, for any particular activity, what function they are carrying out and
+under what legal authorisation - albeit in an increasingly joincd-up Mission environment, where
+individuals may be in a space that overlaps across the functions. This is particularly the case for CDO,
+where network defence work may cut-across the two ISA functions.
+
+•	In CDO's case, our Sigint, network monitoring using sensors, CIDs work, forensics and malware
+analysis is all carried out under ISA s3(lXa). In the majority of cases, CDO/GovCert output is
+based on blended information. That is, information about the initial threat comes from our Sigint or
+network monitoring capabilities and tailored advice on mitigation is added to this. This falls under
+the category of ISA s3( 1 )(a). Non-HMG recipients do not need to be determined, but information
+must only be shared in the interests of national security.
+
+•	In a small number of cases, CDO/GovCert outputs will be purely IA based. For example, general
+advice to regularly patch systems or based on information that has come from non-monitoring
+sources c.g. open source. This falls into the category of ISA s3(l)(b). The determinations aspect
+only becomes relevant when providing IA advice to non-HMG bodies. Visit these links for details
+of the determinations process and determined organisations
+
+[edit! Providing Security Advice and Assistance during the
+Olympics
+
+Certain organisations have been determined to receive GCHQ advice during the Olympics. This only
+extends to the provision of IA advice by GCHQ not the provision of information derived from
+monitoring. GCHQ only needs to determine the organisations if it is providing the type of advice that is
+catered for under section 3(1 )(b) ISA, such as IA advice, not if the advice falls within its section 3(1 )(a)
+ISA function, traditionally the SIGINT function. GCHQ cannot use the process of determination to
+authorise cither monitoring or the provision of information derived from any monitoring (including
+SIGINT). The full background can be found hcre:Qlympics - Providing Security Advice and Assistance to
+non-HMG bodies DISCOVER item 20205546 properties
+
+Bodies individually determined specifically with respect to the Olympics:
+
+•	The Olympic Delivery Authority
+
+•	ATOS Origin (The London-based part of the Organisation]
+
+•	ATOS Origin Major Events (The Barcelona-based part of the organisation)
+
+•	Tickctmaster
+
+•	LOCOG
+
+New group determination for the Games which covers: Bodies with a UK office which have been
+identified by the Olympics-specific Information Assurance and Cyber Security Co-ordination Group
+(IACSCG), Olympic Cyber Co-ordination Team (OCCT), CPNI or other Government body charged with
+responsibility for the security of the Olympic and Paralympic Games as being important to the safety and
+success of the Games between 1 May and 10 September 2012 for the provision of information security
+advice and assistance.
+
+There are a number of other organisations that have been determined, the justification for which includes,
+but is not exclusive to, the 2012 Games. One such example is Transport for London. A full list of
+determined organisations can be found on the CESG website.
+
+If you need further guidance or have an entity that docs not fall under an exisiting determination, please
+contact	emergencies,	arc

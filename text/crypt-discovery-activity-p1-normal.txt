@@ -1,0 +1,61 @@
+﻿TOP SECRET
+
+Crypt Discovery
+Joint Collaboration Activity
+20 January 2011
+
+Activity Owners
+
+I	H/nsa
+
+Overview
+
+Our Internet Exploitation capability is built upon our ability to effectively conduct
+target development and target discovery from IP data. One target discovery strategy
+is to spot patterns of Internet activity (communications, web browsing, web searching,
+etc) from which analysts infer suspicious behaviour or intent. Developing Target
+Detection Identifiers (TDIs), Internet presence data and other key metadata elements
+are critical enablers for achieving success.
+
+The spread of encryption, particularly Transport Layer Security (TLS), which was
+previously known as Security Sockets Layer (SSL), and Internet Protocol Security
+(IPSec), threatens our ability to do effective target discovery/development because
+pertinent metadata events will be locked within the encrypted channels and difficult, if
+not impossible, to prise out.
+
+These activities are designed to get a sound understanding of the threat that
+encryption brings to our ability to do target discovery/development as well as devising
+mitigations that will (hopefully) allow our Internet Exploitation strategy to prevail.
+
+Plan
+
+Performing discovery within and beyond encryption will require new solutions. We
+will be investigating and creating solutions in these areas:
+
+1. Monitor the prevalence of encrypted usage within encryption technologies (https,
+vpn, etc) and across the Internet and into our SIGINT targets’ domain. The
+questions we would like to get into a position to answer are:
+
+a.	What percentage of encryption are we seeing in all traffic? What is the
+trend over time?
+
+b.	What percentage of encrypted traffic is associated with a target? Trends?
+
+c.	What percentage of targets are using TLS, IPSec, or other encryption
+technologies? Trends?
+
+d.	How are these figures above broken out across the encrypted web
+services available (webmail, web searches, geo mapping, web fora, IM,
+social networking, online shopping, online banking, etc)? Split out the
+webmail stats per provider. Trends?
+
+e.	What are the most common https sites visited (in all traffic)? Trends?
+
+f.	What are the most common https sites visited by targets? What is the
+profile of usage? Trends?
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20360101
+
+TOP SECRET

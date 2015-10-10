@@ -1,0 +1,46 @@
+﻿Policy mitigation
+
+1.	When querying across both IA and Sigint data sources in XKS. the analyst must apply the Sigint
+rules regarding location in his query regardless of where the actual data comes from. This is the default
+position to avoid accidental error, especially with regard to selecting material for examination using IP
+addresses located in the UK (RIPA s.16).
+
+2.	If the analyst is only querying IA XKEYSCORES, then this issue does not arise as there are no such
+constraints over location and nationality.
+
+3.	However, there is the real possibility of an error when analysts arc switching between IA and Sigint
+data. To reduce the likelihood of accidental searching on Sigint XKEYSCOREs for UK IPs without
+consideration of their sensitivity (perhaps by analysts more familiar with IA data), it is recommended that
+whenever using XKEYSCORE, analysts consider the sensitivity of their selector.
+
+[edit] Exporting data from XKS
+
+There is new guidance on the steps to take if you want to export data from XKS (c.g., sending metadata to
+a cloud or encrypted data to PTD services). Any user wishing to export data from the system will need to
+complete this form.
+
+[edit] GATEKEEPER - Access to NSA databases
+
+GATEKEEPER is the new NSA tool which is used to apply for, and maintain access to, many of NSA s
+Databases. This means that most of the NSA databases we require access to as 2nd Parties must be
+obtained via GATEKEEPER. GATEKEEPER also serves to align NSA missions with those of counterpart
+organisations to facilitate the provision of NSA auditors for these accounts.
+
+is the "Access Sponsor Staff' for CDO. Please contact ^^^^vith any requests for access to
+NSA databases. Under the new GATEKEEPER set-up there is no need to organise your own auditors.
+
+Full details on the NSA databases this covers on the GATEKEEPER (NSA) wiki
+
+[edit] Communications Data requests
+
+IRON HAND is used within GCHQ to manage the lifecycle of and to store Communications Data
+requests. An 1RONHAND user guide is available.
+
+A Designated Person (DP) is defined under RIPA as a person who has the authority to approve the
+business case for the comms data request. When using IRONHAND, only nominated GC8s and above can
+approve requests and they are only able to view/approve requests that have been made by their group/IPT.
+It is valid for a DP to create a request, but a DP cannot approve their own requests.
+
+CDO IRONHAND authorises
+
+CDO IRONHAND requestors

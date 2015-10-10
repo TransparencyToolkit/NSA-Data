@@ -1,0 +1,23 @@
+﻿Physical Overview
+
+Private Cloud
+
+•	Data Nodes
+
+•	HADOOP Master Nodes (Job Track & Name Node)
+
+Edge Nodes connect to Computer Hall Network
+
+•	Ingest Nodes
+
+•	Application Nodes (provide user interface - web)
+
+•	Innovation Nodes (cap dev login to servers)
+
+26/3/2012 Ref: 18171S07
+
+UK TOP SECRET STRAP 1
+
+7
+
+ID^o j>4>

@@ -1,0 +1,33 @@
+﻿Large-scale community detection toolbox
+
+•	All pairwise correlation/association - build your graph
+
+-	EVERY ASSOC for TDI alternate identifier scoring
+
+-	BotGraph for webmail spam - Zhao et al Botgraph [NSDI 09]
+
+-	PROBABILITY CLOUD for handset Geo-Association scoring
+
+•	Graph Componentisation
+
+-	GCHQ MapReduce or Bagel implementation
+
+-	Open source MapReduce implementations (CMU Pegasus)
+
+• Analysis pattern to identify sub-sets for deeper analysis
+
+-	Simple approach to make sense of huge datasets
+
+-	Detect communities of potential interest from massive datasets
+
+-	Rarely sufficient but essential first step in data volume reduction
+
+ICT
+
+RESEARCH
+
+UK TOP SECRET STRAP1 SEYES^j
+
+JÿSl NEXT GENERATION
+
+rçr;	events

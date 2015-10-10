@@ -1,0 +1,51 @@
+﻿•	SIGINT CONTENT. It is only when you arc querying the content of communications obtained
+under a s.8(4) warrant, or using a database where such content is available, such as XKEYSCQRE.
+that the issue of location becomes important for legal compliance. You will still need a valid HRA
+justification but you will also then need to consider what authorisation is needed for targeting
+sensitive locations/nationalitics.
+
+•	COMBINED IA & SIGINT. When querying across both LA and Sigint data sources, the analyst
+must apply the SIGINT rules regarding location and nationality, regardless of w-hcre the actual data
+comes from.
+
+A QUICK REFERENCE GUIDE DISCOVER item 15356368 propertiesis available to help analysts
+understand the authorisations required for sensitive targeting in relation to the different data sources used
+by CDO.
+
+[edit] Cyber defence targeting in SIGINT (content)
+
+The aim of Cyber defence investigations is to establish whether important national (and partner) networks
+have been targeted, successfully or otherwise, for information by foreign intelligence services, hacktivists
+or cyber criminals. SIGINT data is often used to supplement and enhance IA data.
+
+[edit] Attacker infrastructure targeting
+
+In order to identify entities that have been the victim of an attack or intrusion, analysts focus on the
+infrastructure used by the foreign adversary to conduct their malicious activity on the Internet.
+Infrastructure selectors arc typically IP addresses, domain names and email addresses. They are the means
+by which an adversary delivers an attack and communicates with and controls their implants that are used
+to gain access to and derive intelligence from the computers of targets of interest.
+
+Tailored guidance has been produced for CDO on the legal and policy position regarding targeting IP
+addresses and domains for network defence purposes in SIGINT Content. This includes advice on
+selecting material for examination relating to computers in the UK (and other sensitive locations) via
+GCHQ databases such as XKEYSCORE or other repositories where SIGINT content is
+availablc.POLICY FOR TARGETING COMPUTERS IN SENSITIVE LOCATIONS FOR NETWORK
+DEFENCE DISCOVER item 15643872 properties
+
+An accompanying FLOWCHART DISCOVER item 14360743 properties is provided to help analysts
+navigate through the process.
+
+[edit] Targeting foreign attacker infrastructure in 5-Eyes countries
+
+Foreign CNE operators and Cyber criminals use infrastructure around the world to conduct their
+malicious operations on the Internet in a way that is hard to attribute. This supporting infrastructure often
+comprises computers located in 5-Eyes countries, that arc either owned or controlled by the foreign
+intruder or are being used without the knowledge or consent of the legitimate owner.
+
+The aim of targeting selectors relating to attacker infrastructure is to gain intelligence on these activities,
+further map their infrastructure and identify the ‘victims' of their intelligence gathering, fraudulent or
+disruptive activity. This information can then be used to defend government and critical national
+infrastructure networks.
+
+Guidance has been developed for CDO in relation to targeting UK and US-based foreign electronic

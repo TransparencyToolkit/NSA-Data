@@ -1,0 +1,44 @@
+﻿Most of GCHQ s operational data is acquired through its own operational activities: interception, CNE or
+JTRIG operations. All these forms of data acquisition are authorised either by warrants, other legal
+authorisations or internal approval processes.
+
+•	The majority of GCHQ's SIGINT data is acquired under R1PA s.8(4), which authorises bulk
+interception of communications links where at least one end is foreign. These arc sometimes known
+as our external warrants.
+
+•	RIPA 8(1) warrants enable line-access" to a person or premises in the UK.
+
+•	ISA warrants permit CNE operations against computers. ISA Section 5 refers to computers in the
+UK and ISA Section 7 deals with CNE operations outside the British Islands or with UK-based
+CNE operations which have effect overseas.
+
+•	Network monitoring is carried out under RIPA's Lawful Business Practice Regulations (LBPR).
+Such data is acquired from private networks with the consent of the host department/ organisation.
+Consent letters or some other form of agreement/contract arc used to authorise this activity, rather
+than a warrant.
+
+[edit! Other sources of data
+
+GCHQ also has opportunities to acquire data from a variety of external collaborative sources. An internal
+policy authorisation called the Data Acquisition Authorisation (DAA) was introduced in November 2010.
+The purpose of the DAA is to authorise the acquisition by GCHQ of operational data sets from external
+sources, where the data is personal in nature and acquisition is not otherwise authorised by warrant or
+other legal or policy authorisation. Further details, including links to guidance notes and the DAA form,
+arc on the DAA Wiki page.
+
+[edit] Cyber Defence data classification & retention
+
+The storage, retention and classification arrangements for CDO’s different data sources were reviewed in
+January 2012. The CDQ data classification & retention matrix DISCOVER item 16195879 properties
+summarises this information.
+
+RIPA requires GCHQ to have arrangements to minimise retention of data. GCHQ implements this
+safeguard through policy by specifying maximum periods of retention for categories of Sigint and IA
+material: the policy also caters for exceptional needs. The Compliance Guide sets out GCHQ s data
+retention limits.
+
+The following retention periods for Cyber Defence data have been agreed with Mission Policy:
+
+Data TVpe	Repository	Content retention	Metadata retention	Comment
+SPAY	Gordian Knot XKS, Content Cloud	6 months	6 months - XKS definition of metadata. 2 years - RIPA definition of “communications data”  6 months - XKS definition of	IA data selected by electronic attack signature
+GORDIAN  KNOT	Gordian Knot	6 months	metadata. 2 years - RIPA definition of “communications data”	Unsclectcd IA data

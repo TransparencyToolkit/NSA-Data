@@ -1,0 +1,68 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+•	To test existing QFDs with new data feeds deployed to BLACK HOLE
+Management Server or equivalent (See Figure 2 - NGE BLACK HOLE Data
+
+Access).
+
+•	To help upgrade/enhance the BLACK HOLE instance itself.
+
+•	To use the BLACK HOLE data for research purposes. In particular, to provide
+large volumes of data for ICTR-DMR to research, develop and trial new data
+mining analytics.
+
+•	To put data back into BLACK HOLE via MAILORDER. - (Implementation
+Detail - there is currently no MAILORDER capability directly onto either of the
+BH servers (mgmt or storage ExDS). It is envisaged that, at least initially, all
+data will be provided through the Buffer.)
+
+28.	Any new QFD and associated application being considered for tech-transfer will
+have previously been deployed within the TR area. Once it has been decided that
+the QFD is providing, or has the potential to provide enough business benefit,
+then TR and T will get together to discuss whether it is a good candidate for tech-
+transfer.
+
+29.	The discussion must, amongst other things, consider whether there is an existing
+QFD that could satisfy the data requirements of the new application. Although a
+new QFD may have been created in support of the new application, it may be
+possible, through re-engineering of the application, for it to use one of the existing
+QFDs.
+
+30.lt is envisaged that there will be a number of servers within the BLAZING
+SADDLES environment that may be used for trialling new QFDs. Initially these
+would be individual servers, but the aim is to be able to use some of the
+processing provided with the new BLACK HOLE storage.
+
+31.	QFDs and applications coming out of the TR labs will have been developed using
+the TR BLACK HOLE as their data source. To enable the rapid transition from TR
+to the NGE environment, these new QFDs will initially be tech-transferred with the
+NGE BLACK HOLE as their data source. This simply reinforces the importance of
+keeping the TR and NGE BLACK HOLES in step, as far as is possible.
+
+32.	Once the QFD/Application have proved that they provide enough business benefit,
+then work will start to migrate them onto more suitable hardware. This migration
+should include re-engineering of the QFD and its associated loading software to
+use the NGE Buffer as its data source, rather than the NGE BLACK HOLE.
+
+33.	For a new QFD to be trialled on BLACK HOLE, TDB-Events would expect the
+following to occur:
+
+•	TR and T need to work closely together to ensure that both have a good
+understanding of what capacity is available, and what new QFDs are on the
+horizon. There is not an unending supply of processing and storage in the
+NGE environment. At some stage, a priority call will need to be made
+concerning new QFDs coming into the new environment. Decisions will need
+to be made by a group including T, TR, Ops, etc.
+
+•	The new QFD will follow a template agreed between TR and TDB-Events.
+This will help ensure the QFD is at a consistent and suitable level for trialling
+
+7	of 13
+
+This information is exempt from disclosure under the Freedom of InforrTiaionAciiOOOand^iavbesubiec^oexemD^nurcer
+
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+SECRET STRAP1

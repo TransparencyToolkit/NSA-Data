@@ -1,0 +1,15 @@
+﻿A selection of the major QFDs
+
+Name	Description	Questions Answered	Physical &ude*Cheh
+AUTOASSOC	BuU unsdccted TDI-TDI correlations with confidence scores.	What other TC*s belong to your target ? What technologies your target is using ?	2»1 instances, each SO70TB storage
+Evolved Mutant Broth	Identify »hen certain TOIs appear in traffic which indicate target usage and their location. Telephony and C2C data provide a converged view.	Where has my target been?  What kind of communications devices has my target been using?	1D»S instances, each 70TB storage
+Hard Assoc	Provide strongly correlated selectors for both C2C and Telephony traffic taken from TDIs appearing n the same packet	Are there any alternative C2C or Telephony selectors for my target?	3»2 instances, each 70TB storage
+HRMap	Host-rcferrer relationships • information about how people get to websites, including Inks folowed and direct accesses.	How do people get to my website of interest and where do they go to next ?  What wcbsrtcs have been visaed from a gwen IP?	S*3 instances, each 70TB storage
+KARMA  POUCE	Whtch TDIs ha»« been seen at approximately the same time, and from the same computer, as voits to websites.	Which websites your target visits, and »hen/where those visits occurred.  Who visas suspicious websites, and when/wticre those visits occurred.  Which other websites are vented by people who visit a suspicious website.  Which IP address and web browser were being used by your target when they vented a website.	11»7 instances, each 70TB storage, 3»1 correlator instances
+SOCIAL  ANTHROPOID	Converged comms events allowing you to see who your targets have communicated with via phone, over the nternet, or usng converged channels (e.g. sending emails from a phone or makng voice cals over the internet).	What commiaiications your target is engaged in. Who has your target been communicating with. What commimications have occurred using a particular locator (IP address, cell tower, etc).	&»3 instances, each 70TB storage
+
+26/3/2012 Ref: 18171507
+
+UK TOP SECRET STRAP 1
+
+5

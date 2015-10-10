@@ -1,0 +1,28 @@
+﻿Query term graph
+
+•	Given a search term, which other search terms are
+related?
+
+•	Build Query term graph (MapReduce):
+
+-	Nodes are queries
+
+-	Directed edges between nodes if a machine searches for one term
+then the other within 5 minutes
+
+-	Edge weighted according to frequency of search pattern
+
+•	Boldi, Bonchi, Castillo, Donato, Gionis and Vigna The
+query-flow graph: Model and applications Cl KM 08
+
+•	Gionis Efficient Tools for Mining Large Graphs MLG 10
+
+ICT
+
+RESEARCH
+
+UK TOP SECRET STRAP1 SEYErfT^J
+
+NEXT GENERATION
+
+¡nr,	events

@@ -1,0 +1,57 @@
+﻿Social events arc currently being defined by the new Actor-Action ICD - see PPF APPS Actor Action
+Event. Still in draft, this is to cover events where the user is interacting with a subject (c.g. another
+communicant or object). There is no need for an active user in these events. Examples arc various, but
+could include:
+
+•	Webmail
+
+•	Chat
+
+•	Mobile apps will form new actions within the model c.g. User X sends MMS to User Y
+
+[editl Geo reference Event
+
+Geo Reference Events provide information about the global communications network.
+
+They will be geo-labelled using SAMREF or GEOFUS1QN as appropriate using the standard geo label
+(as agreed by the Geo Team).
+
+[editl Derived Events
+
+Once some events have been collected, various analytics can be applied to derive useful relationships
+between them:
+
+feditl Convergence
+
+ArrowRight.png See main article — Conversed Events
+
+Converged Events is the association of events from different SIGINT universes, such as Telephony and
+C2C, for a given target.
+
+feditl Correlation
+
+TDIs from collected events can be correlated together to form correlation records (c.g. in HARD ASSOC
+between IMSI-TDI)
+
+[editl Events Databases
+
+GCHQ Events databases
+
+Eye Icon.png See also — Query focused dataset
+
+•	SOCIAL ANTHROPOID - C2C Comms and Social events QFD. has replaced HAUSTORIUM.
+
+•	SALAMANCA - Telephony events. Due to be subsumed into SOCIAL ANTHROPOID.
+
+•	NGE Input Buffer - C2C events warehouse. User access is not usually direct, but via one of the
+OFDs.
+
+NSA Events databases and systems
+
+•	ASSOCIATION - GSM events
+
+•	BANYAN - Telephony events
+
+•	MAINWAY - contact chaining
+
+The NSA systems and databases above derive their metadata from the FASCIA data repository

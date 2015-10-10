@@ -1,0 +1,43 @@
+﻿UK SECRET STRAP1
+
+COMINT AUSiCAN'NZiUMJS EYES ONLY ORCON
+
+CONTENT OR METADATA?
+
+Categorisation of aspects of intercepted communications - GCHQ policy guidance.
+
+GCHQ OPP-LEQ	aid
+
+Daalju ««rifed 20 Ja-ua'y 2310 tr,	Version 2.
+
+Data type soiled by data class (cdumn B ticfincd bdow)	Class (see be low)	Content (c) or Metadata (m)	Note: For convenience, the terms ’Metadata*. "Events" and 'Communications Data" are often used interchangeably, although only the last is defined in UK law (RIPA).
+attachment to e-mail, eg routing diagram, picture, video	a	C	
+e-mail address in the body of a message	.1	c	
+name of a file atlached to an e-mail	a	c	
+authentication data to a communications service: login ID. usend. password	ac	m	unless sent inside the body of a communication
+an e-mail inside a messaqe	c	c	
+bulletin board oostina	c	c	
+chat-room discussions	c	c	
+content of a voice call	c	c	
+content of an e-mail	c	c	
+cookie as a whole (some elements are listed separately below)	c	c	
+DTMF data, as opposed to dialling	c	c	
+keystroke logs	c	c	
+search results	c	c	
+search strinqs	c	c	
+SMS or IM text	c	c	
+video	c	c	
+voice mail boxes	c	c	
+web cam transmissions	c	c	
+web forms filled in by people	c	c	
+to’ from', cc'. bcc'. and fwd' lines within e-mail header	ca	m	
+chat aliases, chat handles and other related or similar identifiers	ca	m	
+e-mail address from a cookie sent to set up a communication channel	ca	m	
+IMEI data	ca	m	
+IMSI caller ID	ca	m	
+IP addresses of the computers sending and receiving the message	ca	m	
+machine ID extracted from cookies (eg Yahoo B cookies)	ca	m	
+
+UK SECRETS! RAP 1
+
+COWINT AuaCANTvZUK.'JS EYES ONLY CROON

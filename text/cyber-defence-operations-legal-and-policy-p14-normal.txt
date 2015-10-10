@@ -1,0 +1,51 @@
+﻿feditl Protecting sensitive information
+
+[edit] SIGINT source protection
+
+Please remember that some of the Signal Related Information (SRI) in certain SIGINT data is classified as
+TOP SECRET STRAP 2 UKEO CHORDAL, including Case notation and Sigad in some cases.
+
+If you are thinking of sharing data with a Second Party please take this into consideration. Your targeting
+may be Five Eyes sharable, but some of the other information about the source may not be (some of the
+data in SQUEAL XKS for example). Leave out any access related information (i.c. Case notation and
+Sigad)whcn passing data to partners. If there is a specific rcquircmcnt/rcquest for this data to be shared,
+speak to CDO's	ICs important to get this right to protect sources.
+
+feditl Commercial sensitivities
+
+Please be mindful of commercial sensitivities when discussing successful attacks on companies.
+
+Wherever possible avoid statements about the extent and impact of such compromises and consider
+whether citing the company name is necessary.
+
+Information relating to vulnerabilities and compromises of commercial entities is sensitive as it has the
+potential to unduly impact the company's commercial standing (e.g. share price, reputation), could give
+advantage to competitors or to companies seeking to win security contracts.
+
+In addition to our own detection work on UK companies, information is often given to us confidentially
+and so it needs to be protected accordingly. Anything that is commercially sensitive should be protectively
+marked COMMERCIAL. Please apply this descriptor to relevant RT tickets and other documentation.
+Also be circumspect about information sharing outside CDO where there is no clear *nced-to know'.
+
+[edit] Second Party integree access to UKEO material
+
+MP-IPOL confirmed that it is standard practice for Second Party intcgrccs to have access to UKEO
+material where the relevant business area deems it necessary and proportionate and/or where it will enable
+the integree to be fully integrated and do their job. The equity owner should be consulted where
+necessary.
+
+feditl Training
+
+[edit] Operational Legalities training
+
+GCHQ's Operational Legalities training is mandatory for anyone who handles or makes decisions about
+operational data. It must be re-taken every two years.
+
+As of May 2011, all training is via iLcam and consists of a scries of linked modules with a test at the end.
+There are 4 “flavours" of Certification, tailored for
+
+•	Analysis
+
+•	Capability Development
+
+•	Access & Collection

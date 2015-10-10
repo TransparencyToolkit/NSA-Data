@@ -1,0 +1,17 @@
+﻿Comments on Query Term Graph
+
+•	Query term graph is very noisy, as are all our Internet
+Events meta-data graphs
+
+•	Some promising results in finding similar queries but
+essential that results are interpreted by analysts
+
+•	Large amount of research to do
+
+-	Clustering / Sessionising /... [lots of commercially motivated work]
+
+-	Query chains - Banana -> Apple different intent to iPod -> Apple
+
+-	Understanding the search behaviour of targets
+
+•	Normalised PageRank insights may be generally useful

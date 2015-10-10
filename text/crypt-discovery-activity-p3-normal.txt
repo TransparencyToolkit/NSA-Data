@@ -1,0 +1,43 @@
+﻿TOP SECRET
+
+Technical Requirements
+
+The ability to understand and track encryption as well as develop new methods as
+outlined above requires the use of existing metadata from NSA and GCHQ
+processing system, the ability to create new metadata to test the viability of it’s use
+for the creation of new methods and to enhance existing data, the ability to correlate
+across what is known (strongly selected content) with metadata and potentially the
+ability to examine deeper into sessions for evaluation of exploitability. To accomplish
+the goals above, the following will be used in the JC environment:
+
+•	A Joint Collaboration (JC) cloud that contains the following metadata sources:
+
+o	MUTANT BROTH
+o BEARDED PIGGY
+o KARMA POLICE
+o MEMORY HOLE
+o MARBLED GECKO
+o SOCIAL ANIMAL
+o ASDF metadata
+
+•	Selected content
+
+o Related to encryption or specific target sets
+
+•	Ability to create new metadata or selected content as needed through XKS or
+other local processing sources.
+
+•	Inclusion of enrichment data
+
+o TBD
+
+•	Ability to interact with CA server internal to the JC environment
+
+3	of 3
+
+This information is exempt from dedosure under the Freedom of lnformatiorTAct2000andmaybe
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+TOP SECRET

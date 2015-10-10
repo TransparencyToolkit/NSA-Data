@@ -1,0 +1,49 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+3.	It should be understood that BLACK HOLE is not a queryable repository of data
+e.g. It is not possible to select all data for one of your targets. The data is stored
+in compressed text files in a series of directories. The data is not databased.
+Using the HTTP interface, it is possible to return all data of a certain type with
+basic parameters e.g. by date, but that will return all data of the type.
+
+4.	One of the main uses for the TR BLACK HOLE data is as the source of data for
+populating key operational Internet profiling tools such as MUTANT BROTH,
+KARMA POLICE and SOCIAL ANIMAL. These applications will also be “Tech
+Transferred" as Query Focused Datasets (QFD) by TDB-Events as part of the
+BLAZING SADDLES project.
+
+5.	The tech-transferred QFDs will be populated from a Buffer repository, which will
+hold all QFD data sources for 5 days. In this way the new BLACK HOLE and
+QFDs will be independent of each other, and the new BLACK HOLE is removed
+from the processing chain.
+
+6.	The following business areas require direct data access to BLACK HOLE data:
+
+. TR
+
+. OPD-GTAC
+. OPD-GTE
+. GTE-BUDE
+. OPD-CRFC
+. OPC-TDSD
+. CTOR (part of OPIX-IT)
+
+7.	The original TR BLACK HOLE will remain in the TR laboratory for research
+purposes only i.e. it will no longer provide direct operational use. See Reference
+[a] for more information about the current TR BLACK HOLE.
+
+8.	A general overview of the system being delivered by BLAZING SADDLES can be
+found in Appendix A.
+
+2 of 13
+
+The information is exempt from disclosure under the Freedom of Information Act 2000 and
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+under
+
+SECRET STRAP1

@@ -1,0 +1,30 @@
+﻿Technology candidates
+The "skinny" cloud (Laurel)
+
+What is it?
+
+•	A batch analytic HADOOP cluster
+
+•	Contains all the data but for a short retention period
+
+What would it be used for?
+
+•	An ideal place to do incremental analytics
+
+•	Answers the cross-site analytic problem
+
+•	Could be dedicated to sustained usage
+
+•	Provides some resilience by duplicating recent data
+
+What are the challenges?
+
+• Can we transfer and ingest all the data
+
+Engineering could potential build this using on-order kit
+
+26/3/2012 Ref: 181S6927
+
+UK TOP SECRET STRAP 1
+
+21

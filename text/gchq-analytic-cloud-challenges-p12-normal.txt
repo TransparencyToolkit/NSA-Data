@@ -1,0 +1,30 @@
+﻿Rumour Mill - Push Analytics
+
+Rumour Mill is a dashboard that
+will:
+
+-	Enable analysts to prioritise new
+work as it arrives from customers by
+easily finding out "what does GCHQ
+already know"
+
+-	Enable analysts to monitor existing
+work to spot when something
+happens that would change their
+priorities
+
+First level results, list of questions
+against identifiers. Simple yes/no
+answers
+
+Click on a yes to the second level -
+drills into the detail
+Many questions are derived from
+cloud based analytics run each day
+against the current identifier list
+
+26/3/2012 Ref: 18171507
+
+UK TOP SECRET STRAP 1
+
+12

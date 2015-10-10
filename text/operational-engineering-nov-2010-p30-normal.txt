@@ -1,0 +1,19 @@
+﻿«events What can it do for me?
+
+General Questions:
+
+a Given a case notation, what are the TDI types that
+are found on it?
+
+a Given a TDI type/subset, which bearers produce the
+highest number of events?
+
+a What type of traffic is on which bearers and where is
+it coming from?
+
+a Which bearers provide the most amount of traffic
+type x from place y?
+
+SECRET STRAP1
+
+^CCHQ^

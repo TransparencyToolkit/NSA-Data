@@ -1,0 +1,59 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+46.	Access methods are described below:
+
+1.	The main method for getting access to BLACK HOLE data, from both
+Cheltenham and Bude will be via the new HTTP interface. This comprises
+2 calls: BLACKFIND takes a list of criteria e.g. data type, date etc. and
+returns a list of the files that meet the criteria. BLACKCAT takes the list of
+files, and streams the data back to the user.
+
+2.	As part of trialling new QFDs, data could be extracted from the BH storage
+via NFS to the BLACK HOLE Management Server. This method of access
+would need to be restricted, and not open for general access, as there is
+no way to restrict access to the data. This method would be the same at
+both Cheltenham and at Bude.
+
+3.	To negate the need to transport data from Bude to Cheltenham, it may be
+possible to perform analysis of the data at Bude. This would entail using
+the HTTP interface detailed in 1.
+
+4.	In the future, it may be possible to house some of the processing of BH
+data on the ExDS. However, this not possible at present.
+
+47.	Obviously the data extracted using method 1. has to go somewhere. It is
+anticipated that extractions would either go onto the user’s own platform, or onto
+one of the servers in the new AAS Experiment Environment.
+
+Data usage scenarios:
+
+48.	Bulk extraction for further analysis: It is envisaged that the vast majority of
+analysis of the BLACK HOLE data will take place off of the BLACK HOLE
+platform e.g. on one of the servers in the new AAS Experiment environment. To
+extract data from the NGE BLACK HOLE, the user will utilise the BLACKFIND
+and BLACKCAT procedures described above in method 1. This will enable the
+user to stream a set of data back to their platform for further analysis. The
+procedure will be valid for extracting data from both the Cheltenham and Bude
+BLACK HOLE instances. The analysis platform would normally be housed at
+Cheltenham. However, in the future it may be possible to provide analytic
+platforms at Bude to reduce the amount of cross-site network traffic.
+
+49.	Direct access to BLACK HOLE data: For the trialling of new QFDs, the BLACK
+HOLE disk would be directly NFS mounted to the QFD platform (shown above as
+the BLACK HOLE MGMT Server). Unfortunately, it will not be possible to NFS
+mount BLACK HOLE disk directly to analytic platforms due to the large number of
+security concerns that this approach raises. The majority of these concerns are
+removed by the use of the new HTTP interface, as described above.
+
+11 of 13
+
+The information is exempt from disclosure under the Freedom of Information Act 2000 and may be
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+
+
+under
+
+SECRET STRAP1

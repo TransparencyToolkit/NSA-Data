@@ -1,0 +1,61 @@
+﻿SECRET STRAP 1 COMiNT
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report
+inappropriate content.
+
+For GCWiki help contact: webteam
+
+Support page
+
+Event (SIGINT)
+
+From GCWiki
+
+(Redirected from Event (communications))
+
+Jump to: navigation, search
+
+An Event within a SIGINT context refers to a phenomenon, something observable at a given time.
+Typically, an event results from a direct observation of an electronic communication of some form but it
+could also result from other sources.
+
+Events contain only metadata and do not contain message content. Sometimes there are grey areas
+between events and content. For example the subject of an e-mail is generally transmitted in the header
+portion of the message that contains the Events metadata. However the subject can be considered Content
+because it reveals information about the purpose of the message (as is the current interpretation).
+
+There are generally fewer legal restrictions about the collection and processing of events than content
+items. This is one enabler of events bulk collection and retention, which is not generally possible with
+content.
+
+Contents
+
+•	1 Event Granularity
+
+•	2 Types of Event
+
+o 2.1 Comms Event
+o 2.2 Presence Event
+o 2.3 Social Event
+o 2.4 Geo reference Event
+
+•	3 Derived Events
+
+o 3.1 Convergence
+o 3.2 Corrcllation
+
+•	4 Events Databases
+
+•	5 Interface Control Documents (ICDs)
+
+o 5.1 INTERSTELLAR DUST (IDUST)
+o 5.2 Actor Action (AA)
+
+•	6 See Also
+
+feditl Event Granularity
+
+More than one definition of an event is in use. In HAUSTORIUM (Now Decommissioned and replaced
+with SOCIAL ANTHROPOID) an event normally has the granularity of a single message. The
+observation of an e-mail constitutes a single event, even though the e-mail may be addressed to many
+people. Other projects may define an event in a slightly different way. For example several distinct

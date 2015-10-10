@@ -1,0 +1,79 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+Access Controls and Security
+
+19.	Users will access BLACK HOLE primarily through the BLACKFIND and
+BLACKCAT HTTP interface. This interface enables users to request a set of data,
+limited by type, name, date etc, then have that data streamed back to them.
+
+20.	Initially, data access will be coarse-grained. Only users who are members of the
+CHORDAL COI will be given access to the new interface. These users will have
+access to all data stored on the system.
+
+21.	Access to the Bude BLACK HOLE instance will be independent of access to the
+Benhall BLACK HOLE instance and vice versa.
+
+22.	Users will not be able to write onto BLACK HOLE disk, i.e. it is read only.
+
+23.	The Blazing Saddles BLACK HOLE is expected to have an approximate initial
+user base of 40 people.
+
+24.	Approval from the BLACK HOLE Manager (see BLACK HOLE Manager Role,
+page 12) is required before a new account is issued. Where required this will be
+done in consultation with OPP-LEG.
+
+25.	In accordance with Legal Policy guidance (see Reference [b]):
+
+•	Where a user’s business requirement for BLACK HOLE lapses, e.g. job/role
+change, their account shall be withdrawn from the system.
+
+•	Logs of extractions must be kept and the associated HRA justification.
+
+26.	The users are expected to come from the following areas (not exclusive):
+
+•	Technology Research:
+
+o	ICTR-MCT (Formally B13A)
+
+o	ICTR-FSP (Formally B13B)
+
+o	ICTR-HSP (Formally B13C)
+
+o	ICTR-MCA (Formally B14)
+
+o	ICTR-NE (Formally B16)
+
+o	ICTR-DMR (formerly B17)
+
+o	ICTR-CISA (Formally B18)
+
+•	Operations:
+
+o	OPD-GTAC
+
+o	OPD-GTE
+
+o	GTE-BUDE
+
+o	OPD-CRFC
+
+o	OPC-TDSD
+
+o CTOR (part of OPIX-IT)
+
+Technology Research (TR)
+
+27.	The primary uses of BLACK HOLE for TR are:
+
+•	To test and add new QFDs into NGE environment. Note: All new QFDs will
+be evaluated against each other, in terms of Operational benefit, to determine
+its pull through priority onto the NGE environment.
+
+6	of 13
+
+This information is exempt from disclosure under the Freedom of Inforriato^c^OO^n^^^^uDiec^^xem^orMj^er
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+SECRET STRAP1

@@ -1,0 +1,28 @@
+﻿UK TOP SECRET//COMINT//REL FVEY
+
+Server: 92.122.209.33 Geo: London;GB
+
+7.3	These examples are almost exclusively UK based broadcast servers that have
+listeners in Pakistan. It is not possible to verify the content of each of these audio
+streams as to whether they match the description given in the URL or Title Field.
+
+7.4	In the case of the Pakistan based broadcast server, the DNS resolves to a domestic
+ISP LDN. Residential customers can use a dynamic IP address service (such as
+dyndns) to use their own connection as a static address for a Broadcast audio
+server.
+
+8.	Islamic Radio Stations
+
+8.1	In order to assess the Islamic radicalization risk further, Internet broadcast titles
+were analyzed for the presence of keywords, Islam and Quran.
+
+8.2	1 record contained the word “Islam” in the "Broadcast-Media-Genre" TLV
+
+8.3	These stations are predominantly broadcasting recitations from the Quran, and
+represented 4696 events during the survey period.
+
+Figure 3: Graphs of top Islamic radio stations (Renoir)
+
+8.4 The following radio stations were identified broadcasting this material. An estimation
+
+UK TOP SECRET//COMINT//REL FVEY

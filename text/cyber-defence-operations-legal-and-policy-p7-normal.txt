@@ -1,0 +1,50 @@
+﻿sufficient authorisation for other activities against the same target.
+
+•	All relevant activities against the target will be recorded and, where necessary, authorised on the
+same form.
+
+•	COPAs will usually be authorised by nominated and trained GC8s - see List D of the “Who can
+sign what“ list DISCOVER item 5233615 properties.
+
+Datamining for targets in the UK has been abolished. You cannot now search in Sigint intercept
+repositories using a term relating to an individual located in the UK unless you have a RIPA
+authorisation, e.g. a s,16(3) authorisation. And if you do have one, you cannot search
+retrospectively, i.e. you cannot seek to retrieve material sent before the authorisation was signed. As
+a result, the concept of Datamining, as a distinct activity, against sensitive targets has been discontinued.
+
+What doesn't change is that a full legal authorisation Is still needed to target a person located in the
+
+UK. A COPA is not sufficient.
+
+CDO’s nominated authorises arc listed below. You may approach others on list D if the CDO authorisers
+arc not available. (NB:	longer needs to sign off this type of authorisation.)
+
+CDO COPA authorisers
+
+NB: Continue to run all targeting requests for US infrastructure past	We now have a
+
+‘generic' STA reference to put in Halter Hitch and XKS to provide an audit trail for this targeting.
+
+feditl Examining UK networks for evidence of electronic attack
+
+The aim of this activity is to establish whether significant companies and organisations based in the UK
+have been targeted, successfully or otherwise, for information by foreign intelligence services or cyber
+criminals.
+
+In order to determine whether an entity has been the target of an attack or intrusion, analysts must focus
+on the ‘victim' network to search for evidence of electronic attack. There arc two aspects to this:
+
+•	Searching for known threats on UK networks
+
+•	Discovery of unknown threats on UK networks
+
+feditl Searching for known threats on UK networks - ANXIOUS methodology
+
+The “ANXIOUS methodology'' relates to creating an XKS fingerprint for the UK IP addresses of
+potential victim networks in order to tag Sigint traffic relating to these networks. This traffic may then be
+searched in conjunction with a signature to look for evidence of known electronic attack on these
+companies' networks.
+
+The legal and policy parameters are set out below:
+
+•	The work must meet one of GCHQ's lawful purposes (normally National Security); you will need

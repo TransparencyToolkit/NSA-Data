@@ -1,0 +1,36 @@
+﻿UK SECRET STRAP2 COMINT ORCON
+
+Target Detection Identifiers
+
+•	DEFINITION
+
+-	TDIs are definite indicators of presence, that are unique and persistent
+
+for a user/machine.
+
+•	Built on the familiar
+
+-	Telephony +44	- international phone code
+
+-	Signalling tells us this phone user is ‘online’
+
+•	Target Detection Identifiers
+
+-	Started with the Internet, mobile networks too.
+
+-	TDI is a ‘SIGINT standardised code’.
+
+-	Not a standard managed by the ITU/ETSI.
+
+-	Extraction from packets much more complex.
+
+° Crown Copyright. Al rights reserved. This information is exempt from disclosure under the Freedom ot Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to __
+
+Contains Intellectual Properly owied and/or managed by GCHQ. The material may be rSsseminaled throughout the recipient organisation, but GCHQ permission must
+be obtained for dissemination outside the organisation.
+
+UK SECRET STRAP2 COMINT ORCON
+
+Side 10

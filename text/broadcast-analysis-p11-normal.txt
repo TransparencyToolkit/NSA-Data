@@ -1,0 +1,29 @@
+﻿UK TOP SECRET//COMINT//REL FVEY
+
+6 Top Radio Stations by Country
+
+6.1	An analysis was performed on the data in order to see the most popular radio stations
+in a given country. The following data was obtained:
+
+Country	IP Address	Radio Station
+Iran	190.144.31.82	http://www.radiocomunicate.com
+Pakistan	174.36.19.83	http://www.cricbuzz.com/
+Russia	212.1.226.163	M2 Radio www.m2radio.fr
+China	91.121.65.213	http://www.radio-dzair.com
+Egypt	207.58.190.16	Radio ISMAILY ON LINE www.shoutcast.com
+Zimbabwe	78.157.192.113	www.zeilsteen .com
+United Kingdom	88.191.13.53	www.hotmixradio.fr
+Netherlands	195.149.107.49	http://www.pueblosoberano.org http://www.newsongsite.com http: //www. rad iotopf mcu racao .com [Multiple hosted radio stations]
+Iraq	72.21.36.210	www.anashed.net
+Afghanistan	202.56.179.190	http://www.pamirradio.info
+Argentina	208.72.155.18	www.todayfm.com
+
+6.2	Different countries exhibit different behaviours at this level. The top radio stations in
+Russia and UK are music and entertainment based stations. The top radio station in
+Iraq appears to be for a Saudi based action group to free prisoners in Iraq.
+
+6.3	It is worth noting that the top radio station in China is a French language Algerian
+radio station. This is possibly due to inaccuracies in the GEOFUSION dataset or an
+motivated and interested community in China.
+
+UK TOP SECRET//COMINT//REL FVEY

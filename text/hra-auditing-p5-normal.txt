@@ -1,0 +1,57 @@
+﻿o If Sigint Development or even Target Dcvclopmcnt/Discovcry is being conducted in a
+broader context the use of a Sigint Development MIRANDA number such as 20135 is
+appropriate with, again, the targeting period being limited to 3 months,
+o The Open Source MIRANDA number 20142 should only be used by those working in CK.
+o There was a change to MIRANDA numbers 01 October 2009 and, from then, there was a
+concessionary waiver to treat incorrect old' codes as an amendment required and not an audit
+failure; however, this concessionary waiver expired from 01 October 2010. Any incorrect
+codes found from now will be treated as a fail.
+
+•	JIC Priority/Purpose - this must be the correct underlying purpose ie NS, EWB or SC; however,
+records should not be failed if the priority has changed since the record was first entered, but should
+be noted as needing attention and the record should still be amended by the record-owner
+
+•	HRA Justification - this should provide clear explanation of why it is necessary to intrude upon an
+individual's privacy by targeting, or running a particular query to examine their communications
+(both content and events). The following principles should be applied:
+
+o it should add value to the intelligence requirement and NOT just repeat the intelligence topic
+o it should be clear to an uninformed observer why it is necessary and proportionate to intrude
+on that particular individual's right to privacy and what the expected intelligence outcome is.
+o use of acronyms and codewords is not encouraged as they may be clear to an analyst, but not
+necessarily to others. Only the most common abbreivations are acccptabnle; the test is
+whether or not the abbreviation would be understood by the Commissioner. Any lists of
+acronyms or abbreviations which have been agreed with OPP-LEG in the past as usable are
+no longer valid. If explanation of an acronym or codeword may result in the compromise of a
+sensitive operation then consult OPP-LEG to discuss a waiver
+o TD/SD. CT etc are NOT valid HRA justifications; neither is an operation name without some
+further comment to expand on this
+
+•	HRA revalidation - if the targeting of a selector has been renewed beyond the default limit (one
+year or three months) or a scheduled content query has been extended, a check that the HRA
+justification clearly explains why it is necessary to continue to intrude on an individual's right to
+privacy by targeting that selector or running the query.
+
+•	Legal or policy authorisation for target - If this is required (for selectors or queries that relate to
+targets in the UK or targets overseas who are sensitive on grounds of location or nationality), the
+correct warrant or COPPER reference and a valid expiry date are required. The HRA Review date
+must also reflect the expiry date of the warrant or authorisation. Any targeting or content queries
+that do not have a valid warrant or STA reference may constitute an offence under Section 1 of
+RIPA, a breach of RIPA safeguards or a breach of GCHQ policy. These records must be reported
+immediately to OPP-LEG.
+
+OPP-LEG have had questions on Audit requirements in the past and some can be found at FAQ's
+
+[edit] The Report Template
+
+The report should be submitted in a word document using the templates found at the following links.
+
+Please note these links only work using Internet Explorer:
+
+events or udaq audit template
+
+targeting audit template
+
+[edit] Audit Community
+
+Here is a list of the main points of contact for each audit. Please feel free to amend this list as roles

@@ -1,0 +1,21 @@
+﻿•¿events immingle
+
+ûKey changes July 2010 to present:
+
+Inferred data from B3M now flagged
+
+Updates to handle identifiers from HARD ASSOC and B3M
+
+correctly
+
+MAINWAY: MSRNs now grouped and flagged in same way as
+SALAMANCA
+
+MAINWAY: direct access to event details provided
+GPRS flagging - THUGGEE rules applied to SALAMANCA
+events
+
+c -
+^CCHQ
+
+SECRET STRAP1

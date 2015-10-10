@@ -1,0 +1,65 @@
+﻿• CULTWEAVE II - VQ1CESAIL events
+
+Old Events databases
+
+•	TEEDALE was superseded by P1LBEAM which in turn was superseded by HAUSTORIUM
+
+•	HAUSTORIUM - C2C events
+
+[edit! Interface Control Documents (ICDs)
+
+Events arc forwarded in a format specified in an ICD. Traditionally each database, c.g. SALAMANCA or
+HAUSTORIUM, has had its own ICD. With the arrival of QFDs and the requirement for Convergence it
+is becoming necessary for ICDs to focus on the Event type rather than any specific database.
+
+The most important new ICDs in use are:
+
+•	INTERSTELLAR DUST (IDUST)
+
+•	Actor Action (AA)
+
+feditl INTERSTELLAR DUST (IDUST)
+
+ArrowRight.png See main article — INTERSTELLAR DUST
+
+IDUST was the first ICD capable of covering new GTDIs (Presence Events}. It is a Single-Line Record
+(SLR) format.
+
+Each Event type is specified individually in the ICD. They include:
+
+•	Presence Events (for MUTANT BROTH, AUTOASSOC)
+
+•	Google Maps/Earth (for MARBLED GECKO)
+
+•	HTTP GET & POST (for KARMA POLICE)
+
+•	HTTP Host Rcferer (for HR MAP)
+
+•	Web Search (for MEMORY HOLE)
+
+•	VBulletin (for INFINITE MONKEYS)
+
+•	Social Networks (for SOCIAL ANIMAL)
+
+•	Auto TDI (for AUTO TDI)
+
+•	HTTP Host URI (for SAMUEL PEPYS)
+
+•	FTP (for SAMUEL PEPYS)
+
+feditl Actor Action (AA)
+
+ArrowRight.png See main article — PPF APPS Actor Action Event
+
+AA is the newest ICD. It provides a generic schema allowing for different types of Event. It is replacing
+the old CorrcspondcnccData, PrcscnccData, IMData and IMdataOffbox formats while new event types arc
+also being developed, for example for Mobile Apps. Some IDUST Events arc also likely to migrate across
+to AA, while others may remain in IDUST format.
+
+AA is initially intended to cover Presence and Communication (Social) Events only:
+
+•	Presence (GTDI) (for HARD ASSOC, evolved MUTANT BROTH)
+
+•	Communication (for SOCIAL ANTHROPOID)
+
+Protocols and Apps currently adopting AA format include:

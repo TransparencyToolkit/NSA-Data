@@ -1,0 +1,44 @@
+﻿ECRET STRAP2 COMINT ORCON
+
+Flat data store - not a database
+
+~ 1,100,000,000,000 events since 6th August 2007
+
+-	53.3TB compressed
+
+-	217TB uncompressed
+
+-	47% of data is from last 3 months
+
+19%
+
+~10 Billion events per day
+
+Cheap system:
+
+-	£1 k per TB of storage
+
+-	£20k per 10Gbps probe
+
+-	~£400k for 10x10Gbps prototype
+
+■ HTTP
+
+Websearch
+SMTP
+Webmail
+CNE Server Log
+Social networking
+Instant Messenger
+Routing Protocols
+
+bject to exemption uniter
+
+© Crown Copyright. All rights reserved. This infcrmaion * exempt from disclosure under the Freedom of hfl
+other UK nformaton legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned andtor managed by GCHQ. The material may be disseminated throughout the recipient organisation, tut GCHQ penrisson must
+
+be obtained for dissemination outside the organisation.
+
+Slide 3	UK SECRET STRAP2 COMINT ORCON

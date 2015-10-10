@@ -1,0 +1,49 @@
+﻿UK TOP SECRET//COMINT//REL FVEY
+
+:::	in	Ti:	:::	:::	:::	:::	li-	Ti-	in	It:	ni	T::
+y.			>•	rn	/•	j.	nt	nt	V.	/•	>•	V-
+‘r		>*		—•	i*	>•	>•	/•	/•	....	>•	
+>•		>•	?•	r			J*		>•		>•	
+y	>•		>•	ir		>•	/•	>*	—	>*	>•	5*
+r		*!'	*!•	*r	•r		*	•r	•b			•j*
++	*!•	T			•r	•i*	‘b		■b	•r	•t*	•r
+:•>	*	'V	:v	Ji*	*	*	■V		•V		*	•V
+&	&	V/	w	w	.V.	*	•X*	•*	•»	vi	r	*
+*	/’	!*/	‘•if	'V			&	/ *				> ~
+												\ •„
+* *•			•	vv	v".*‘	fj;	ír>	(V;	.*V".		fV.	J '
+			•									i
+©	0	0		v*-j		0	i * j		*..v	1	• m	
+VYV;	Vi. . * •r ,		#	v.r.*.’	-0]		♦ív&i*	*•#:		*!>&/;		HI
+						• '	...					
+
+Figure 2: Graphing of broadcast events (Renoir)
+
+5 User Agent Analysis
+
+5.1	The broadcast-client field within the TLVs in the generated data was extracted to see
+the most common software agents used to listen to Internet radio. The most common
+software agent was Winamp. A large number of other vendors can be seen. Notably
+there were nearly 2000 events from users with a PSP (Playstation Portable) and also
+listening via the Apple iPhone. Internet radio is likely a growth area for mobile phones
+and mobile devices as wireless networks increase in ubiquity and speed.
+
+Frequency	User-Agent
+119711	WinampMPEG
+28533	Streamripper
+27720	¡Tunes
+14349	RMA
+11668	xmms
+10594	NSPlayer
+10047	MPlayer
+8375	BASS
+5291	JPlayer
+4884	iRAPP
+2214	BSPlayer
+2137	FreeAmp
+2048	Screamer
+2025	¡etAudio
+2011	Mozilla
+1923	PSP-InternetRadioPlayer
+
+UK TOP SECRET//COMINT//REL FVEY

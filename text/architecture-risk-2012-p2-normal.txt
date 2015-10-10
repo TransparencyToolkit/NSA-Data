@@ -1,0 +1,53 @@
+﻿TOP SECRET STRAP1
+
+Introduction
+
+1.	The 2011 Corporate Technology Risk identified our solution architecture as
+being one of the contributors to the High risk rating. In recent years a strong
+focus on delivery has resulted in an under investment in architecture. This will
+eventually have an impact on our ability to deliver.
+
+2.	The December board meeting were concerned that investment decisions
+being made in the 2012/13 portfolio build could be non-optimal if architecture
+considerations were not taken into account and asked the following question:
+
+“Given our changes in mission and changes in the external environment
+(Cyber defence, offensive cyber, increased partnering, increased data
+volumes, etc) which parts of our architecture are under most strain and
+so carry the most risk to this year’s investment “
+
+3.	Part of the new DCTO role is to define a technology vision and then champion
+improvements to the solution architecture at portfolio build time. However, it
+will take time to construct that vision. Therefore in the interim a broad brush
+approach has been taken in order to allow some immediate advice to be given
+to the portfolio.
+
+4.	We have a defined a number of high level change drivers on the architecture
+(Annex 1). These are changes in either our mission, ways of doing business or
+external technology which are relatively recent and were not taken into
+account when our current solution architecture was built. We have also
+represented our current solution architecture as a number of high level
+elements. We then assessed each change driver against the current solution
+architecture and identified those architectural elements most stressed by the
+drivers (Annex 3 and Annex 4).
+
+5.	This has been done in a short period of time with only limited amounts of
+effort. There are therefore a number of caveats that need to be made:
+
+•	This is a broad brush, high level analysis.
+
+•	Whilst we have consulted as widely as possible, we have inevitably not
+managed to consult everyone we would have liked to have involved
+
+•	We have restricted ourselves to the infrastructure and application layers
+(and so not explicitly considered the business layer)
+
+•	We are not attempting to define the “to-be” solution architecture. Instead
+we have concentrated on identifying risks with the current architecture
+
+2	of 6
+
+Thts information is exempt from disclosure under the Freedom of Informatior^c^OOl^jnc^navJx^ubjecUoexemplionijidOT
+other UK information legislation. Refer disclosure requests to GCHQ
+
+TOP SECRET STRAP1

@@ -1,0 +1,24 @@
+﻿Current Capability
+
+Supporting Internet Operations
+
+•	Following the efforts made for the July deliverable, and
+the progress being made towards the 100 March 2010
+target, GCHQs current 10G SSE capability is:
+
+-	We can intercept/touch: -800x 10Gs (See note ri)
+
+-	We can cyclic survey: 188
+
+-	We can egress to GCHQ processing: 87 (See note #2)
+
+•	In addition we are working with GERONTIC to agree an
+IRU which will enable a significant reduction in annual
+running costs (~£2M saving p.a), along with a further 10x
+10G egress.
+
+Note #1. Does not include CIRCUIT/WAYGOOD
+
+Note #2. HIASCO access/egress to Bude complete - awaiting extra ARCANO egress
+
+TOP SECRET STRAP1

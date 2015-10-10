@@ -1,0 +1,70 @@
+﻿SECRET STRAP1
+
+18th August 2009
+
+and will also help speed up the transfer of QFDs into the NGE environment.
+(This template will be delivered with the help of TR, and agreed by all
+stakeholders in QFD development. It will be lightweight.)
+
+•	The time to transfer a new QFD into the NGE environment should be
+approximately of the order of 1-2 weeks.
+
+•	Resource effort to transfer new QFDs will come from TDB-Events.
+
+•	The co-ordination effort between Operations trialling the new QFD will come
+from the BLACK HOLE Manager (see BLACK HOLE Manager Role, page 12).
+This also includes the establishment of a QFD lifecycle process to manage the
+QFDs throughout its lifecycle on the NGE environment. (From Tech transfer to
+decommissioning.)
+
+34.	To enable future enhancements to the BLACK HOLE system it is expected that
+TR and TDB-Events shall be committed to have a common development and
+deployment platform.
+
+35.	To feed an existing QFD or making a new QFD based around a new data source
+of metadata that is available via MAILORDER the following is expected to occur:
+
+i.	The Researcher1 contacts the data owner to obtain information about the
+classification of the data and the likely volumes.
+
+ii.	The Researcher contacts the BLACK HOLE Manager to negotiate an
+’incoming’ directory.
+
+iii.	The Researcher submits an RFC to DATAFLOW CAB to get a MAILORDER
+feed of the data source into BLACK HOLE, referencing the BLACK HOLE
+Manager and the agreed incoming directory.
+
+iv.	The Researcher develops an ingest script that can be cron-jobbed by the
+BLACK HOLE Manager to process the incoming data and place it in an
+appropriate part of the main BLACK HOLE file system. A suitable case
+notation is agreed.
+
+v.	The Dataflow team liaises with the BLACK HOLE Manager to set up and test
+the MAILORDER feed.
+
+vi.	The Researcher is informed when the feed is established, and they can view
+the statistics and status of their feed via the BLACK HOLE stats webpage.
+
+vii.	The data either:
+
+a.	Finds its way automatically into an existing QFD (by virtue of filenames
+and locations on BLACK HOLE. Note: This may be QFD dependant
+and may actually need a config change on the QFD’s loader.
+
+or
+
+b.	The researcher uses BLACKFIND and BLACKCAT to extract the data
+to perfect their new QFD in experiment space.
+
+36.	For sources that are not MAILORDER, the Researcher is encouraged to use
+MAILORDER as this will allow control of the incoming data via a single managed
+interface.
+
+1 The Researcher role includes individuals from TR. GTE, CNE. etc.
+
+8	Of 13
+
+Thé information is exempt from disclosure under the Freedom of Informato^c^OO^n^TTa^^ubiec^t^xemp^orMjrcer
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+SECRET STRAP1

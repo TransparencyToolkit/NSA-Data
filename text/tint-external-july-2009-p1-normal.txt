@@ -1,0 +1,7 @@
+﻿Purpose	For exporting bulk, unselected metadata (in SLR format) to a repository where higher-order analytics can be carried out.
+Data To/From	GCHQ
+Connection  To/From	GCHQ
+Anticipated  Volume	Very High
+Dependant  Experiments	• SLRs at Scale
+Transport	TBD. Volumes expected to be too high for MAILORDER. Direct connection proposed
+Notes	

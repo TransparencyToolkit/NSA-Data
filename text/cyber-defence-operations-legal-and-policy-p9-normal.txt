@@ -1,0 +1,51 @@
+﻿present
+
+•	Development of techniques to detect malicious network activity on mobile devices
+
+•	Investigation into covert network infrastructure (this describes the activity, but you could leave out
+details about whose infrastructure if this is sensitive).
+
+[edit] Cyber Defence Tools
+
+[edit] Development of new tools & capabilities
+
+All systems that access, acquire or process operational data must be assessed by MP-LEG for legal and
+policy compliance, and have an owner who is responsible for providing assurance that the system operates
+in a legally complaint way.
+
+(MP-LEG) works with CDOs legal and policy lead to assess new CDO tools and
+capabilities. These include DONKEY KONG, ZooL, Palantir, Overlink, RT etc.
+
+[edit] Events-only queries in XKEYSCORE
+
+GTE have developed two events-only queries in XKS
+
+•	HTTP Activity Events
+
+new viewer:
+
+Start typing HTTP Activity Events in the navigation pane and the option will appear. It runs on a subset
+of HTTP Activity fields. The results table will not let you load up the underlying session data.
+
+•	Full Log DNI Events query
+
+To find the Full Log Events search go to ‘Search* along the top menu bar in XKS and start typing ‘events'
+(without the quote marks) in the search bar at the top of the search form navigation menu. It will be the
+first option listed.
+
+These searches will only let you query on fields that arc legally classed as metadata and will not provide
+you with a link to the underlying sessions behind each row in the results table. This allows you to write
+broader queries than would otherwise be allowed, although naturally you must still ensure that all queries
+arc justified, necessary and proportionate.
+
+Here is the list of fields present in the results: XKS H TTP Activity Events-onlv query fields DISCOVER
+item 13069754 properties
+
+fedit] Integration of Sigint and IA data in XKEYSCORE
+
+XKS now allows querying across a range of data sources, which include both IA and Sigint.
+The IA data feeds in XKS are:
+
+•	EAD-GK
+
+•	EAD-SP
