@@ -1,0 +1,195 @@
+﻿TOP SECRET STRAP1 SPOKE
+
+sigint.development
+
+S455N - Israeli UAV Digital Video
+
+Golf Section, JSSU(CYP)
+
+Analyst:
+
+1 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+CONTENTS
+
+1.INTRODUCTION........................................3
+
+2.	MODULATION.........................................3
+
+3.	FORWARD ERROR CORRECTION (FEC) AND ERROR DETECTION.3
+
+4.	RANDOMISER.........................................4
+
+5.	PAYLOAD............................................5
+
+6.	VIDEO & S455E......................................6
+
+7.	CONCLUSION.........................................7
+
+2	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+1.	INTRODUCTION
+
+1.1	This report covers analysis of S455N a High Data Rate (HDR) signal emanating from
+an Israeli UAV. The Signal of Interest (SOI) was first intercepted in April 2009
+however, the original recording was too weak for full analysis. This report is based on
+the analysis of a recording made in April 2010.
+
+1.2	S455N is a complex signal utilising a number of error correction and detection
+techniques to successfully convey Internet Protocol (IP) data carrying streaming digital
+video.
+
+2.	MODULATION
+
+2.1	The SOI employs FSK modulation and is keyed at 9.11MBauds occupying
+approximately 10MHz bandwidth. Demodulation of the SOI was attempted using
+various demodulators including m2Extra however, the resultant bits were poor quality.
+The SOI was successfully demodulated using an FM demod in Black Magic.
+
+2.2	Data is NRZL and frames consist of 4140 bits with a 44 bit synchronisation pattern -
+11101011010101001101001101110011011111110000.
+
+Fig 1: DVT Sync'd Data Frames
+
+3.	FORWARD ERROR CORRECTION (FEC) AND ERROR DETECTION
+
+3.1	FEC and EDAC are achieved utilising a block interleaver and a two dimensional Turbo
+Product Code (TPC). The interleaver is a 64x64 bit block interleaver used to spread
+the data to improve the performance of the TPC. The TPC is a (64, 57)*(64,57) 2
+dimensional code employing parity with a generating polynomial of:-
+
+g(x) = x6 + x1 +1
+
+3.2	The FEC can be utilised to correct the data using magyk or removed by applying a
+t3648s448 to remove the vertical dimension and a t57s7 to remove the horizontal
+dimension.
+
+3	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+Fig 2: Depview showing horizontal dimension
+
+Fig 3: Depview showing vertical dimension
+
+4.	RANDOMISER
+
+4.1	After deinterleaving the data and removing the FEC the frame width should be 3249
+(57*57). The frame begins with a 10 bit sync except on every third frame where 10 bits
+of data are sent. These 10 bits of data raster on a width of 512 and conform to S455E.
+Removal of the 10 bits of sync/S455E from each frame will result in a frame width of
+3239. The remaining data is randomised using a feed through randomiser F15(0,1,15).
+
+4	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+Fig 4: DVT Showing S455E Frames
+
+5.	PAYLOAD
+
+5.1	Following removal of the randomiser the data was found to be HDLC. The packets
+contained IP data carrying Universal Datagram Protocol (UDP) conveying a number of
+different protocols. The main protocol in use was Real Time Protocol (RTP) and this
+was being used to carry MPEG 4 streaming video. Analysis of the video revealed
+multiple video streams from different cameras. The exact video encoding parameters
+have not been fully resolved and this should be taken in to consideration when viewing
+any outputted files.
+
+Fig 5: PktSwing showing IP packets carrying RTP conveying MPEG 4
+
+5	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+6. VIDEO & S455E
+
+6.1 The Video is MPEG 4 and appears to contain multiple streams; each stream appears to
+be capable of scanning through different camera views
+
+	' ■			
+				
+
+Snapshots from Video
+
+6.2	Telemetry is transmitted using normal S455E
+
+Fig 6: GEO Plot extracted from S455E
+
+6	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
+
+TOP SECRET STRAP1 SPOKE
+
+7. CONCLUSION
+
+7.1	A number of elements of this SOI need further analysis
+
+■	Video - Being analysed by OPC-SPF, GCHQ
+
+■	Remaining IP Data - They are a number of protocols In use that need resolving
+
+7.2	This Is potentially a significant upgrade to the normal analogue video we see, this new
+system adds the capability to see a number of video feeds simultaneously. We
+currently have no collection system capable of processing this signal due to the high
+data rate and complexity of the underlying data. There are a number of SIGINT
+collection solutions that would be more than capable of dealing with this signal should
+there be a requirement to do so.
+
+Further information:
+
+Intercept information and screen shots of associated S455A/E can be found on this wiki page:-
+
+This report was issued as:
+
+TOP SECRET STRAP1 SPOKE
+
+STRAP HANDLING NOTICE
+
+(See Annexe H of the STRAP Security Manual for detailed guidance) SECRET STRAP reports may
+be seen by STRAP-inducted SC cleared readers who have a valid need-to-know. STRAP-inducted
+readers who hold a DV clearance may only see TOP SECRET reports at any STRAP level.
+
+CONTACT:
+
+ACKNOWLEDGEMENTS:
+
+7	of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1 SPOKE
