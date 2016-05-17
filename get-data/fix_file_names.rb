@@ -12,7 +12,7 @@ class FixFileNames
       next if file == '.' or file == '..'
       fixed_name = file.gsub("_", "-").gsub("----", "-").gsub("---", "-").gsub("--", "-")
 
-      File.write(@output_dir+fixed_name, File.read(@path+file))
+      system("convert #{@path+file} #{@output_dir+fixed_name}")
     end
   end
 end
