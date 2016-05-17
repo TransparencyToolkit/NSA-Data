@@ -36,7 +36,7 @@ class Sidtoday
       File.write("../text/"+pdf_path.gsub(".pdf", ".txt"), text)
     end
 
-    return text
+    return text.gsub("<p data-reactid=\".ti.1.0.0.1.0.1.$0.0\" class=\"SidTodayFilesDetailViewer-pages-page-paragraph\">", "")
   end
 
   # Parses the JSON to match schema for Snowden document search
@@ -55,7 +55,8 @@ class Sidtoday
 
     # Get ID and PDFs
     split_id = item["id"].split("-")
-    pdf_path = itemhash[:document_date]+"-SIDToday-"+split_id.slice(1, split_id.length-1).join("-")+".pdf"
+    fixed_name = item["title"].gsub("'", "").gsub("?", "").gsub(":", "").gsub("--", " ").gsub("(", "").gsub(")", "").gsub("...", "").gsub(",", "").gsub('"', "").gsub("!", "").gsub(" - ", " ").gsub("/", "").gsub(".", "").gsub(";", "").gsub("&", "").split(" ").join("-")
+    pdf_path = itemhash[:document_date]+"-SIDToday-"+fixed_name+".pdf"
     itemhash[:pdf_paths] = [pdf_path]
 
     intercept_url = "https://theintercept.com/snowden-sidtoday/"+split_id.join("-").downcase
