@@ -24,8 +24,15 @@ class FeedParser
       rescue
       end
     end
-    
+
+    add_sidtoday
     JSON.pretty_generate(@results)
+  end
+
+  # Add SIDtoday items
+  def add_sidtoday
+    sid = JSON.parse(File.read("sidtoday.json"))
+    @results = @results + sid
   end
 
   # Delete documents that aren't Snowden docs
