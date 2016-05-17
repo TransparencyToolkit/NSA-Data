@@ -175,6 +175,7 @@ class FeedParser
       temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
       temphash[:article_links] = getExternalLinks(i)
       temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
+      temphash[:plain_text] = temphash[:doc_text].gsub(/<\/?[^>]*>/, "")
     end
     
     return temphash

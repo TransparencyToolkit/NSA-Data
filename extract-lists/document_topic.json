@@ -38,5 +38,10 @@
     "Tag": "internal_procedures",
     "HR Tag": "Internal Procedures",
     "Description": "Organizational documents (audit, budget, legal, relations with other orgs)"
-  }
+  },
+	{
+	    "Tag": "sidtoday",
+	    "HR Tag": "SIDtoday",
+	    "Description": "NSA's interal newsletter"
+	}
 ]

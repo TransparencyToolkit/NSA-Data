@@ -12,22 +12,30 @@ class Sidtoday
   end
 
   # Get the text for the selenium item
-  def get_text(url)
-    text = ""
-    profile = Selenium::WebDriver::Firefox::Profile.new
-    profile['intl.accept_languages'] = 'en'
-    browser = Selenium::WebDriver.for :firefox, profile: profile
-    browser.navigate.to url
-
-    # Extract text
-    sleep(1)
-    browser.find_element(:css, ".SidTodayFilesDetailViewer-navigation-display-text").click
-    html = Nokogiri::HTML(browser.page_source)
-    paragraphs = html.css(".SidTodayFilesDetailViewer-pages-page-paragraph")
-    text = paragraphs.to_s
+  def get_text(url, pdf_path)
+    begin
+      text = File.read("../text/"+pdf_path.gsub(".pdf", ".txt")).to_s
+      
+    # Extract from website if it isn't there already
+    rescue
+      text = ""
+      profile = Selenium::WebDriver::Firefox::Profile.new
+      profile['intl.accept_languages'] = 'en'
+      browser = Selenium::WebDriver.for :firefox, profile: profile
+      browser.navigate.to url
+      
+      # Extract text
+      sleep(1)
+      browser.find_element(:css, ".SidTodayFilesDetailViewer-navigation-display-text").click
+      html = Nokogiri::HTML(browser.page_source)
+      paragraphs = html.css(".SidTodayFilesDetailViewer-pages-page-paragraph")
+      text = paragraphs.to_s
    
-    # Close and return
-    browser.quit
+      # Close and return
+      browser.quit
+      File.write("../text/"+pdf_path.gsub(".pdf", ".txt"), text)
+    end
+
     return text
   end
 
@@ -42,6 +50,7 @@ class Sidtoday
     itemhash[:document_date] = Date.parse(item["document_date"]).to_s
     itemhash[:document_topic] = ["SIDtoday"]
     itemhash[:agency] = ["NSA"]
+    itemhash[:article_links] = ["https://theintercept.com/snowden-sidtoday/"]
     itemhash[:description] = item["description"]
 
     # Get ID and PDFs
@@ -50,8 +59,9 @@ class Sidtoday
     itemhash[:pdf_paths] = [pdf_path]
 
     intercept_url = "https://theintercept.com/snowden-sidtoday/"+split_id.join("-").downcase
-    itemhash[:doc_text] = get_text(intercept_url)
-
+    itemhash[:doc_text] = get_text(intercept_url, pdf_path)
+    itemhash[:plain_text] = itemhash[:doc_text].gsub(/<\/?[^>]*>/, "")
+    
     return itemhash
   end
 

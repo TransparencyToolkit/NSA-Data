@@ -35,7 +35,7 @@ class TextExtract
     out = d.getAllOutput
 
     # Extract sometimes case sensitive from text
-    e = TermExtractor.new(@output, ["doc_text", "description"], "codewords")
+    e = TermExtractor.new(@output, ["plain_text", "description"], "codewords")
     e.extractSetTerms(fixEncode(File.read("../extract-lists/codewords.json")), ["codeword"], "case_sensitive")
     out2 = e.getAllOutput
     mergeResults(JSON.parse(out), JSON.parse(out2), "codewords")
@@ -57,7 +57,7 @@ class TextExtract
 
   # Extract Countries
   def extractCountries
-    f = TermExtractor.new(@output, ["doc_text", "description", "categoris"], "countries_mentioned")
+    f = TermExtractor.new(@output, ["plain_text", "description", "categories"], "countries_mentioned")
     f.extractSetTerms(fixEncode(File.read("../extract-lists/isocodes.json")), ["full_name", "short_name"], "case-insensitive")
     @output = f.getAllOutput
   end
@@ -71,5 +71,5 @@ class TextExtract
   end
 end
 
-t = TextExtract.new("feed.json", "doc_text")
+t = TextExtract.new("feed.json", "plain_text")
 puts t.extractAll
