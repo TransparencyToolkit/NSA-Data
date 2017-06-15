@@ -4,11 +4,15 @@ require 'json'
 require 'selenium-webdriver'
 require 'american_date'
 require 'pry'
+require 'headless'
 
 class Sidtoday
   def initialize
     @page = open("https://theintercept.com/snowden-sidtoday/")
     @output = Array.new
+    profile = Selenium::WebDriver::Firefox::Profile.new
+    profile['intl.accept_languages'] = 'en'
+    @browser = Selenium::WebDriver.for :firefox, profile: profile
   end
 
   # Get the text for the selenium item
@@ -18,22 +22,27 @@ class Sidtoday
       
     # Extract from website if it isn't there already
     rescue
+      begin
+#      Headless.ly do
       text = ""
-      profile = Selenium::WebDriver::Firefox::Profile.new
-      profile['intl.accept_languages'] = 'en'
-      browser = Selenium::WebDriver.for :firefox, profile: profile
-      browser.navigate.to url
-      
+     # profile = Selenium::WebDriver::Firefox::Profile.new
+     # profile['intl.accept_languages'] = 'en'
+     # browser = Selenium::WebDriver.for :firefox, profile: profile
+      @browser.navigate.to url
+      puts "Getting "+ url
       # Extract text
       sleep(1)
-      browser.find_element(:css, ".SidTodayFilesDetailViewer-navigation-display-text").click
-      html = Nokogiri::HTML(browser.page_source)
+      @browser.find_element(:css, ".SidTodayFilesDetailViewer-navigation-display-text").click
+      html = Nokogiri::HTML(@browser.page_source)
       paragraphs = html.css(".SidTodayFilesDetailViewer-pages-page-paragraph")
       text = paragraphs.to_s
    
       # Close and return
-      browser.quit
+     # browser.quit
+ #     end
       File.write("../text/"+pdf_path.gsub(".pdf", ".txt"), text)
+      rescue
+      end
     end
 
     return text.gsub("<p data-reactid=\".ti.1.0.0.1.0.1.$0.0\" class=\"SidTodayFilesDetailViewer-pages-page-paragraph\">", "")
@@ -80,7 +89,7 @@ class Sidtoday
 end
 
 s = Sidtoday.new
-puts s.get_json
+File.write("sidtoday_update.json", s.get_json)
 
 # NOTE TO UPDATE:
 # 1. Pull git repo
