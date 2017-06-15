@@ -1,0 +1,479 @@
+﻿Special Source Operations
+
+Corporate Partner Access
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Overall Briefing Classification Is
+TOP SECRET/ /COMINT//NOFORN//X1
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+2
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Relationships & Authorities
+
+•	Leverage unique key corporate partnerships to gain access to
+high-capacity international fiber-optic cables, switches and/or
+routers throughout the world
+
+•	Collection on U.S. soil is conducted under three different
+authorities:
+
+»Transit Authority: Collection of foreign intelligence
+communications which originate and terminate in foreign
+countries, but traverse U.S. territory
+
+•	Foreign Intelligence Surveillance Act (FISA): Court ordered
+collection (NSA/FBI/FISA Court)
+
+•	FISA Amendment Act of 2008 (FAAL Surveillance in the US
+when the target is reasonably believed to be foreign
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+3
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+BLARNEY AT A GLANCE
+
+Why: Started in 1978 to provide FISA authorized access to communications of
+foreign establishments, agents of foreign powers, and terrorists
+
+External Customers (Who)	Information Requirements (What)	Collection Access and Techniques (How)
+Department of State	Counter Proliferation	DNI Strong Selectors
+Central Intelligence Agency	Counter T errorism	DNR Strong Selectors
+United States UN Mission	Diplomatic	DNI Circuits
+White House	Economic	DNR Circuits
+Defense Intelligence Agency	Military	Mobile Wireless
+National Counterterrorism Center	Political/Intention of Nations	
+		
+2"'1 Party-GBR, NZ1, CAN, AUS		
+	Partnerships  (Where)	Legal Authorities (Approvals)
+Office of Director of National Intelligence		
+Joint Chiefs of Staff		
+Department of Homeland Security	NS A - SSO, TAO, NTOC, CES, A&P...	NS A FISA
+Office of Secretary of Defense	CIA	CT FBI FISA
+North Atlantic Treaty Organization	FBI - Headquarters, NT, and DC	FISA Amendment Act (FAA)
+	FBI - Engineering Research Facility	Cl FBI FISA
+Military Commands (Army, EUCOM)		
+	DOJ	BR FISA
+	Commercial Providers	PR AIT FISA
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+4
+
+Overseas Court
+Orders
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+BLARNEY Domestic Court Orders
+
+Afghanistan
+
+Bank of Japan Domestic
+
+Bosnia & Herzegovina
+
+Brazil
+
+Croatia
+
+Cuba
+
+Cyprus
+
+Democratic People's Republic
+of Korea (N. Korea)
+
+Egypt
+
+European Union
+
+France
+
+Gabonese Republic (Gabon)
+
+Georgia
+
+Germany
+
+Greece
+
+India
+
+Inti Bank for Reconstruction & Dev
+(World Bank)
+
+Inti Monetary Fund (IMF)
+
+Iran
+
+Iraq
+
+Israel
+
+Italy
+
+Japan
+
+Jordan
+
+Lebanon
+
+Mexico
+
+Nigeria
+
+Pakistan
+
+Palestine Liberation Org (PLO)
+
+People's Republic of China (PRC)
+
+Republic of Korea (S. Korea)
+
+Russia
+
+Saudi Arabia
+
+Serbia
+
+Sudan
+
+Syria
+
+Turkey
+
+Uganda
+
+Ukraine
+
+United Nations
+
+Known/unknown Agents of A1 Qaeda
+& associated terrorists
+
+Venezuela
+
+Worldwide (FBI)
+
+Yemen
+
+As of July 2010
+
+TOP SECRET// COMINT// NOFORN//20291130
+
+5
+
+
+
+BLARNEY Access
+
+70+ additional accesses across the U.S. from
+30+ providers for Domestic Long Distance,
+ISP, and Data Center collections.
+
+LITHIUM
+
+ARTIFICE
+
+ROCKSALT
+
+SERENADE
+
+ISP1
+
+ISP2
+
+Multiple wireless providers
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+6
+
+
+
+FAIRVIEWAt a Glance
+
+•	Trans it/FISA/FAA
+
+•	DNI/DNR (content & metadata)
+
+•	Domestic infrastructure only
+
+•	Cable Stations/Switches/Routers (IP
+Backbone)
+
+•	Close partnership w/FBI
+
+PINECONE
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+■ Peering Link Router Complex
+
+□	VoIP Router Complex
+
+□	Planned VoIP Router Complex
+O Hub VoIP Router Complex
+
+O Planned Hub VoIP Router Complex
+O Program Cable Station
+O Planned Program Cable Station
+O Non-program Cable Station
+A Rimrock 4ESS Circuit Switch
+★ Program Processing Site
+
+SCIld Centralized
+Processing Facility
+
+7
+
+TOP SECRET I I COMINT // NOFORN//20291130
+
+STORM BREW At a Glance
+
+Seven Access Sites - International “Choke Points
+
+»
+
+BRECKENRIDGE
+
+TAHOE •-
+
+SUNVALLEY
+
+WHISTLER
+
+KILLINGTON
+
+*COPPERMOUNTÎÏN
+
+MAVERICK
+
+
+
+V* • Trans it/FISA/FAA
+
+•	DNI/DNR (content & metadata)
+
+•	Domestic infrastructure only
+
+•	Cable Station/Switches/Routers (IP
+Backbone)
+
+•	Close partnership w/FBI & NCSC
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+8
+
+TOP SECRET I I COMINT // NOFORN//20291130
+
+Corporate Funding Profile
+
+	FY10	FY11
+PFR:	S187.2M	$205.1M
+Cyber:	$250.9M	$122.7M
+FISA:	$ 41.4M	$ 45.9M
+* Other:	$ 0M	$ 10.0M
+TOTAL:	S479.5M	S383.7M
+
+* NCSC Cyber Zone 4 (OCONUS router expansion)
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+10
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Program Funding Breakout
+
+	FY10	FY11
+BLARNEY:	$ 89.7M	$ 88.0M
+FAIRVIEW:	$232.2M	$188.9M
+STORMBREW:	$118.0M	$ 66.8M
+OAKSTAR:	$ 39.6M	$ 40.0M
+TOTAL:	$479.5M	$383.7M
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET I I COMINT // NOFORN//20291130
+
+Corporate Strategic
+
+•	FISA Amendment Act (FAA)
+
+•	Comprehensive National Cyber Security Initiative (CNCI)
+
+•	Expand CONUS/OCONUS Access
+
+•	New access sites
+
+•	Infrastructure build-out at existing access locations
+
+•	NCC TURMOIL Deployments
+
+•	Explore & Exploit New LOB/Capabilities
+
+VPNs
+
+•	Mobility networks
+
+•	F-F Algorithm Development (beyond Port-25)
+
+•	Social networking
+
+•	Explore & Exploit New Partnering Relationships
+
+•	2 New ISPs
+
+•	Maktoob via data centers
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+12
+
+Comprehensive National
+Cyber Security (CNCI)
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Corporate CNCI Funding Profile
+
+	FY10	FY11
+BLARNEY:	$ 9.0M	$12.1M
+FAIRVIE W:	$144.0M	$73.1M
+STORMBREW:	$ 80.8M	$22.9M
+OAKSTAR:	$ 17.1M	$14.6M
+TOTAL:	S250.9M	$122.7M
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+FY10/FY11 CNCI Expansion
+
+New Access Sites
+
+FY10 - 5 new access locations (4 cable, 2 router)
+FY11 - 5 new access locations (1 cable, 4 router)
+
+Infrastructure Build-outs/Existing Access Expansion
+FY10 anticipated - ingest 530 Gbps of data
+FY11 anticipated - ingest 760 Gbps of data
+
+TURMOIL Processing Suites (Tech Insertion)
+
+FY10 = 0
+FY11 =44
+
+TOTAL = 44*
+
+- Sliding schedule
+
+‘Original request 55
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+CNC[ Challenges
+
+Legal Framework
+SIGINT
+
+•	Transit (limited value - attacks aimed at the U.S.)
+
+•	FAA (maximum value - Cyber cert; initial value -
+tie signatures to existing Certs)
+
+Defense (.mil, .gov, .dib)
+
+UTT tasking/targeting tool (ability to task signatures)
+
+Data repositories
+
+Analytical support
+
+TURMOIL defense s/w applications
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Corporate FAA Reporting
+Metrics
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Corporate FAA Reporting Meines
+
+FAA REPORTS -
+Weekly Stats thru 3 July 10
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Corporate FAA Reporting Meines
+
+FAA Reports by Provider
+
+3-Jul-10
+
+26-Jun-10
+
+19-Jun-10
+
+12-Jun-10
+
+5-Jun-10
+
+0	100	200	300	400	500	600
+
+■	ARTIFICE
+
+■	LITHIUM
+
+■	MICROSOFT
+
+■	YAHOO
+
+■	GOOGLE
+
+■	FACEBOOK
+
+■	PALTALK
+
+■	SERENADE
+STEELKNIGHT
+
+■	X
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+Corporate Transit Reporting
+Metrics & Highlights
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+7op Ten	SIGADs for 2009
+
+July 2009 - June 2010
+
+SIGADs
+
+TOP SECRET // COMINT // NOFORN//20291130
+
+21

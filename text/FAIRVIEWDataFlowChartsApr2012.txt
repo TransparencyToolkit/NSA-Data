@@ -1,0 +1,914 @@
+﻿Dataflow Diagrams
+
+April 2012
+
+Note: Please refer to previous diagrams for decommissioned systems.
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20361101
+
+TOP SECRET//COMINT//NOFORN
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+FAA Voice/Fax/Modem DNR&VolP
+
+'f		RTPP		Call  Processor		Hit Selection	
+FSE						Database	
+					^			
+
+Site Sending
+MAILORDER
+
+DNR Information
+Media Manager
+Distribution Box
+
+Tasking
+
+Mission
+
+Management
+
+server
+
+SIGAD: US-984X2
+PDDG: 29
+
+CASE Root: SSO CASNs, XM*
+
+To BL Routing Designator: FLV, FLU, FLF,
+FLD
+
+To Customer Routing Designator:
+BAV(Voice),LST (Fax), VFG (Modem), BAE
+(Failed Modem or Fax to Josy)
+
+Data Classification: TS//SI//NF//
+
+RGT-A or RGT-C
+
+Data Type: DNR (USSID 126, CSDF)
+Authority: FAA
+
+Source System Digraph: RR, UA
+
+Partner Controlled
+NSA Controlled
+
+Store &
+Forward
+Distribution
+(Storage)
+
+Corporate NSAW
+
+FAIRVIEW
+
+MAILORDER
+
+<-
+
+BLARNEY
+
+STONEGATE/
+
+TINSEL
+
+CORPORATE
+
+MAILORDER
+
+BLARNEY
+
+MAILORDER
+
+NUCLEON
+
+-► CONVEYANCE
+
+FISHWAY
+
+SCISSORS
+(Data Scanning,
+Formatting, &
+Distribution
+System)
+
+PINWALE
+
+SIGAD: US-984X2
+
+NOTE: Modem traffic is processed after SCISSORS at Corporate COURIERSKILL. Dictionary is DRIFTWOOD
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+FAA SMS
+
+SIGAD: US-984X2
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+FBI FISA Voice/Fax/Modem DNR&VolP
+
+*** Currently Inactive***
+
+SIGAD: US-984J2
+
+PDDG: AX
+
+CASE Root: SSO CASNs, XM*
+
+To BL Routing Designator: LLV, LLU, LLF,
+LLD
+
+To Customer Routing Designator:
+BAW(Voice),LST (Fax), VQS(Modem), BAE
+(Failed Modem or Fax to Josy)
+
+Data Classification: TS//SI//NF//
+
+RAG-F
+
+Data Type: DNR (USSID 126, CSDF)
+
+Authority: FBI FISA
+
+Source System Digraph: RR, UA
+
+|	| Partner Controlled
+
+|	| NSA Controlled
+
+FISA
+LOPERS
+(LOPERS 8)
+
+Store & Forward
+
+Distribution
+
+(Storage)
+
+*■
+
+STONEGATE/
+
+TINSEL
+
+FAIRVIEW
+
+MAILORDER
+
+JL
+
+*•
+
+BLARNEY
+-!► MAILORDER
+
+CORPORATE
+
+MAILORDER
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+NSA FISA Voice/Fax/Modem DNR&VolP
+
+SIGAD: U5-984E
+
+	Site Sending
+	MAILORDER
+
+DNR Information
+Media Manager (IMM)
+Distribution Box
+
+PDDG: AX
+
+CASE Root: SSO CASNs, XM*
+(change to BLARNEY CASN
+because of TDM conversion
+until LOPERS upgrade for file-based
+TND lookup)
+
+To Customer Routing Designator:
+BAW, BAY(Voice), LST (Fax),
+
+VQF (Modem),
+
+BAE (Failed Modem or Fax to Josy)
+
+Data Classification:
+TS//SI//NF//RAGTIME
+
+Data Type: VoIP DNR
+
+Authority: NSA FISA
+
+|	| Partner Controlled
+
+CMS
+
+BLARNEY
+FISA LOPERS
+(LOPERS 11)
+
+Store & Forward
+
+Distribution
+
+(Storage)
+
+Voire
+
+BLARNEY
+
+STONEGATE/
+
+TINSEL
+
+Modem/Fax
+
+		
+FAIRVIEW  MAILORDER		
+t r		
+BLARNEY  MAILORDER		
+		
+		
+
+CORPORATE
+
+MAILORDER
+
+] NSA Controlled
+
+SIGAD: US-984E
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+Transit Voice/Fax/Modem DNR&VolP - FAA 704/705b
+
+Store & Forward
+
+Distribution
+
+(Storage)
+
+DNR Information
+Media Manager
+Distribution Box
+
+SIGAD: US-990
+
+PDDG: UY
+
+CASE Root: SSO CASNs, XM*
+
+Routing Designator: LDX,SGR,
+
+RDM, FTN, TYB, WLD, SGF, TBK,
+CRH,MLD
+
+Data Classification: TS//SI//NF
+
+Data Type: Modem (CSDF), Wayland
+Processed Modem files, Error Files,
+Cadence Status Messages & Updates,
+Modem File Requests & Responses
+
+Authority: Transit
+
+I	I Partner Controlled
+
+I	I NSA Controlled
+
+STONEGATE
+
+FAIRVIEW LAN (HIGHDECIBEL)
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+Transit PNI Content (BUGCATCHER)
+
+Other Cable Access
+Points
+
+SIGAD: US-990
+PDDG: UY
+
+CASE Root: SSO CASNs
+
+Routing Designator: LDF , TYB
+
+Data Classification: TS//SI//NF
+(LDF) and TS//SI (TYB)
+
+Data Type: DNI Text,
+
+COURIERSKILL
+
+status messages & updates
+
+Authority. Transit
+
+Partner Controlled
+] NSA Controlled
+
+UYIDF
+
+FISHWAY	UYLDF .	SCISSORS
+(Data Batching		(Data Scanning,
+& Distribution		Formatting,
+System)		& Distribution
+		System)
+
+	
+XKEYSCORE	
+For tipping	
+^		
+
+UYLDF
+
+PINWALE
+YANKEE
+NF partition
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+Transit PNI Metadata (IMDRs)
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+Transit DNR Metadata & SMS
+
+TOPROCK
+
+FAIRVIEW LAN(HIGHDECIBEL)
+
+FAIRVIEW
+Store & Forward
+Distribution
+(storage)
+
+FAIRVIEW
+
+MAILORDER
+
+DNR Information
+Media Manager
+Distribution Box
+
+CORPORATE
+
+MAILORDER
+
+UYCERFC
+
+UYCERFG
+
+UYCERUA
+
+FASCIA
+
+SIGAD: US-990
+PDDG: UY
+
+CASE Root: SSO CASNs
+
+Routing Designator:
+
+CERFC (CDRs)
+
+CERFG (GTRs & SMS)
+
+CE RU A (VoIP)
+
+Data Classification: TS//SI//NF
+
+Data Type: Call Metadata in
+CERF format & targeted SMS
+
+Authority: Transit
+
+Partner Controlled
+NSA Controlled
+
+Corporate NSAW
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+Business Record FISA -SEAGULL Metadata Flow Sourced From Billing Records & ICDRs
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+MOBILE-SEAGULL Metadata Flow Sourced From Billing Records
+
+PINECONE SCIF
+
+Various
+
+corporate
+
+servers
+
+Router			Router		SEAGULL  Server
+					
+					
+
+Partnen
+
+SEAGULL
+
+Server
+
+29SWLMV/29SWLM/
+
+29SWLMX
+
+KG
+
+Router
+
+29SWLMV/29SWLMW/
+
+29SWLMX
+
+FAIRVIEW LAN (HIGHDECIBEL)
+
+1		29SWLMV/29SWLMW/	Store & Forward
+Router		29SWLMX	
+			Ulalr IOUlll/n  (Storage)
+			
+
+29SWLMV/29SWLMW/
+
+29SWLMX
+
+, -Logs
+
+FAIR VIEW
+MAILORDER
+
+3 Workstations
+
+4—►
+
+Authentication
+
+Server
+
+Individual User
+Access through
+BLARNEY NET
+
+SYSLOG
+
+server
+
+Logs
+
+Logs
+
+SEAGULL
+
+Server
+
+29SWLMV
+
+29SWLMW
+
+Site Sending
+MAILORDER
+
+29SWLMV/
+29SWLMW>
+29SWLMX
+
+29SWLMX
+
+SIGAD: US-990
+PDDG: 29
+
+Routing Designator: SWLMV, SWLMW,
+SWLMX
+
+Data Classification: TS//SI//NF//RGT-B
+Data Type: Billing Records
+Authority: Business Record FISA
+
+Corporate NSAW
+
+CORPORATE
+
+MAILORDER
+
+29SWLMV/
+
+29SWLMW/
+
+29SWLMX
+
+		
+	MAINWAY	
+	BRF Partitions	
+		
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+ICDR Metadata flow (aka HAVASU)
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+FAIRVIEW NSA FISA Email
+
+Corporate	Site Processing	Access-Partner
+
+Processing - NSAW	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+FAIRVIEW NSA FISA IP
+
+Corporate	Access-Partner
+
+Processing-NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+*** Currently Inactive***
+
+PR/TTXNET1 DNI Metadata
+
+Corporate	Access-Partner
+
+Processing-NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+*** Currently Inactive***
+
+PR/TTXNET 2 DNI Metadata
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+TOP SECRET//COMINT//NOFORN
+
+*** Currently Inactive***
+
+PR/TTXNET 3 DNI Metadata
+
+TOP SECRET//COMINT//NOFORN
+
+—  TAO	
+Implant	
+
+Shaping
+
+Packets
+
+CD
+C
+
+S m
+
+Û- .E
+
+I to
+to
+
+CO Q»
+
+CD u
+
+^2
+
+< Q-
+
+Routers
+(Foreign IP
+Filtering)
+
+OC-38
+
+PCAP
+
+FAIRVIEW
+
+MAILORDER
+
+FAIRVIEW
+Store & Forward
+Distribution
+(storage)
+
+SIGAD: US-3105S1
+PDDG: DU
+
+CASE Root: Can be multiple,
+Currently just YM.*
+
+Routing Designator: FV*,
+
+Right now just FVT for
+DARKTHUNDER
+
+Data Classification: TS//SI//REL
+Data Type: PCAP
+Authority: E.0.12333
+
+|	| Partner Controlled
+
+|	| NSA Controlled
+
+FAIRVIEW LAN(HIGHDECIBEL)
+
+O)
+
+4-»
+
+e
+
+o
+
+Q.
+
+t—
+
+o
+
+u
+
+CIO
+
+#c
+
+’to
+
+to
+
+CD
+
+O
+
+O
+
+Shaping to vPCS
+
+Packets
+
+<L>
+
+C
+
+O- .E
+
+I </>
+i/>
+
+irt n»
+
+(U u
+
+5 2
+
+< Q-
+
+Routers
+(Foreign IP
+Filtering)
+
+MESA
+
+FAIRVIEW
+
+MAILORDER
+
+130
+
+WFC
+
+CMO
+
+FAIRVIEW
+Store & Forward
+Distribution
+(storage)
+
+PINECONE SCIF
+
+Site Processing
+
+WFC
+
+CMO
+
+130
+
+Site Sending
+MAILORDER
+
+130
+
+CMO
+
+wrr
+
+STF
+
+vPCS
+
+<
+
+CO
+
+01
+
+■4-J
+
+e
+
+o
+
+Q.
+
+i_
+
+O
+
+u
+
+ao
+
+c
+
+\n
+
+1)
+
+u
+
+O
+
+wr
+
+CM )
+130
+
+130
+
+CORPORATE
+
+MAILORDER
+
+CMO
+
+WFC
+
+ICYTWINS
+
+Corporate NSAW
+
+TML-STATUS server
+
+WATERFRONT
+
+SIGAD: US-3105S1
+PDDG: DU
+
+CASE Root: Can be multiple,
+Currently just VE.*
+
+STF trigraph for STEELFLAUTA
+CMO trigraph for TURMOIL
+Monitoring. 130 implant data flow
+metrics.
+
+Data Classification: TS//SI//REL
+Data Type: PCAP input to vPCS
+Authority: E.0.12333
+
+|	| Partner Controlled
+
+|	| NSA Controlled
+
+DUWFCVl
+
+Corporate	Access-Partner
+
+Processing - NSAW	Site Processing	Processing
+
+UNITY FAA (Voice/Fax/Modem) DNR&VolP
+
+SIGAD: US-984X2
+PDDG: 29
+CASE Root: TBD
+
+To BL Routing Designator: FLV, FLU, FLF, FLD
+
+Source System Digraph: LI, L2
+
+To Customer Routing Designator:
+
+BAV(Voice),LST (Fax), VFG (Modem), BAE (Failed Modem
+or Fax to Josy)
+
+Data Classification: TS//SI//NF//RGT-A
+
+Data Type: DNR (USSID 126, CSDF)
+
+Authority: FAA
+
+|	| Partner Controlled
+
+|	| NSA Controlled
+
+Store &
+Forward
+Distribution
+(Storage)
+
+FAIRVIEW
+
+MAILORDER
+
+BLARNEY
+
+STONEGATE/TINSEL
+
+BLARNEY
+
+MAILORDER
+
+CORPORATE NSAW
+
+■* CONVEYANCE
+
+CORPORATE
+
+MAILORDER
+
+FISHWAY
+
+SCISSORS
+(Data Scanning,
+Formatting, &
+Distribution
+System)
+
+PIN WALE
+
+SIGAD: US-984X2
+
+NOTE: Modem traffic is processed after SCISSORS at Corporate CQURIERSKILL. Dictionary is DRIFTWOOD
+
+Derived From: NSA/CSSM'1-52
+Dated: 20070108
+Declassify On: 20361101
