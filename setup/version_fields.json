@@ -1,0 +1,17 @@
+{
+    "version_changed": {
+	"display_type": "None",
+	"icon": "modified",
+	"human_readable": "Modified?"
+    },
+    "doc_versions": {
+	"display_type": "None",
+	"icon": "",
+	"human_readable": "Versions"
+    },
+    "versions_list": {
+	"display_type": "None",
+	"icon": "",
+	"human_readable": "Versions List"
+    }
+}
