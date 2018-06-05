@@ -20,7 +20,7 @@ Handling restrictions
 
 ----------------------------------------------------------------------
 To setup your own instance with LookingGlass:
-1. Setup LookingGlass and DocManager instances by following steps -5 at
+1. Setup LookingGlass and DocManager instances by following steps 1-5 at
 https://github.com/TransparencyToolkit/Test-Data/blob/master/getting_started.md.
 
 2. cp setup/version_fields.json to
