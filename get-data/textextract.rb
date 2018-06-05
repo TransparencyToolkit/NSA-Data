@@ -72,4 +72,4 @@ class TextExtract
 end
 
 t = TextExtract.new("feed.json", "plain_text")
-puts t.extractAll
+File.write("extracted_updated.json", t.extractAll)
