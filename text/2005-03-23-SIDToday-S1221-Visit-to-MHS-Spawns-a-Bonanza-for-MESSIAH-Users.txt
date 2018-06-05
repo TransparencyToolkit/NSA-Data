@@ -1,0 +1,61 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(U//FOUO) S1221 Visit to MHS Spawns a Bonanza for MESSIAH Users
+FROM:
+Reporting and Tools Branch (S1221)
+Run Date: 03/23/2005
+
+This and a follow-on article will highlight ways in which a recent trip to Menwith Hill Station by
+members of the Reporting Tools Branch spawned an enhancement of the MESSIAH reporting
+tool and of the training options available to users of the tool. (U)
+(U//FOUO) In June of 2004, members of the Reporting Tools Branch (S1221) visited Menwith
+Hill Station (MHS) to discuss the site's concerns about using MESSIAH as their primary product
+reporting tool. Station personnel cited a high-priority need to forward robust product report
+source data and metrics to PLUS -- a need that MESSIAH did not then satisfy.
+(U//FOUO) To be sure, MESSIAH allowed users to satisfy the minimum requirements of USSID
+369; analysts could forward some 10 fields of source data to PLUS via Product Tip-Off (PTO)
+Klieglight reports. This solution required, however, that all analysts be trained and proficient in
+using MESSIAH both for product reporting and for Klieglights.
+(U//FOUO) What the station needed and wanted was a feed mechanism similar to that used by
+SKYWRITER , which employs a Secure File Transfer Protocol for handling sensitive-series reports
+and allows forwarding of some 40 fields of data. The forwarded information includes report
+histories, write-to-release tracking, and USSID 18 information. The latter was being stored in
+manila folders at analysts' desks!
+(U//FOUO) When the S1221 team returned home and began investigating options for solving
+the problem, it became evident that many of the Extended Enterprise elements that will be
+receiving MESSIAH as part of the HIGHCASTLE suite harbored the very same concerns as the
+analysts at Menwith Hill Station. Moreover, some sites that were already using MESSIAH for
+technical reporting were asking for SKYWRITER as well; they were willing to expend the
+additional support and training effort that would be required for a second reporting tool, in order
+to obtain less cumbersome access to PLUS.
+(U//FOUO) Clearly, then, a solution similar to the mechanism used by SKYWRITER would satisfy
+users' needs. Such a mechanism had the added advantage of standardizing the process across
+multiple reporting systems, since it was also incorporated in the Content Preparation
+Environment, or CPE (formerly SIGINT On Demand -- see related article ). S1221 set about to
+design and implement the interface.
+(U//FOUO) MESSIAH's PLUS Feed Service was completed in February 2005 and is currently
+undergoing beta testing at USA-70. Initial test results are promising, and the service is expected
+to be available as a standard MESSIAH option in the April-May 2005 time frame. The new
+interface will mirror the service provided by both SKYWRITER and CPE; it will allow forwarding of
+the same fields, in an identical format, using a mask template, provided by S1221, that will
+require only minimal tailoring by each site.
+(U//FOUO) The analysts and managers at Menwith Hill Station can be proud that the concerns
+which they expressed to the visiting S1221 team have resulted in a significant expansion of
+MESSIAH's capabilities. They can also be proud that the visit sparked a similar improvement in
+the training offered to new MESSIAH users. A future article in SID today will highlight S1221's
+development of a web-based MESSIAH training course for analysts and reporters -- a course that
+was requested by MHS and is also undergoing beta testing, with roll-out expected in April 2005.
+
+(U//FOUO) Menwith Hill Station
+
+ .
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+
+ 

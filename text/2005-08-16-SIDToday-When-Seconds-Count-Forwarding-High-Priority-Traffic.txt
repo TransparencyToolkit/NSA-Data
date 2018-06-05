@@ -1,0 +1,53 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(TS//SI) When Seconds Count: Forwarding High-Priority Traffic
+FROM: Janice Strauss
+Deputy Chief, CSRC Targeting and Mission Management (S3C3)
+Run Date: 08/16/2005
+
+(S//SI) How vital intercept is delivered in just minutes, instead of hours or days.
+(U//FOUO) Sometimes sending and receiving data quickly is more than a goal; it can have real
+life-or-death consequences. The following narrative provides a recent example of just such an
+instance and how the Collection Strategies and Requirements Center (CSRC) reached across the
+Enterprise to spearhead a solution.
+(TS//SI) In late 2004, a severe latency (time-of-intercept to analyst) problem at NSA-Georgia
+(NSA-G) came to the attention of the Iraq Issue Management Team (IMT) and others at NSA-W.
+With responsibility for providing time-sensitive information and reporting to U.S. forces deployed
+to Iraq in support of the warfighter and counterterrorism, NSA-G could not tolerate the
+hours, and sometimes days, it was taking to receive much of the high priority GSM
+traffic being forwarded from the SCS Baghdad Annex. Due to the CSRC's Enterprise focus, its
+Office of Targeting and Mission Management (TMM) was designated the primary contact for
+determining the cause(s) of the latency and recommending potential solutions.
+(TS//SI) The TMM Technical Director,
+ collaborated with other members of a
+virtual GSM Latency working group, consisting of CSRC, NSA-G, SCS and Iraq IMT personnel, to
+produce the "Report on Data Latency Problems at NSA/CSS Georgia" (found on the CSRC
+website). This report, which relies heavily on data retrieved from the YELLOWSTONE dataflow
+tracking and metrics reporting system, provides an in-depth analysis of the factors (i.e.,
+architecture, data volumes, priorities, selectors, and latency) that contributed to this situation. It
+also includes a set of recommendations and areas for improvement.
+(TS//SI) Some recommendations were easily implemented with minimal impact on the
+corporation and have already been put into motion. These include the use of the Voice Collection
+and Analytic Processing (VCAP) tool by NSA-G, SCS and S2E to ensure selector tasking leads to
+highly relevant product reports. In addition, SCS has initiated efforts to engineer a more
+efficient and effective architecture at SCS Baghdad. Other recommendations involve
+architectural changes across the Enterprise, requiring significant re-engineering of current and
+future systems.
+(TS//SI) SIGINT Systems Engineering is being asked to take the lead in defining and
+standardizing priorities, enforcing system clock synchronization, and requiring all new or modified
+SIGINT systems provide metadata to YELLOWSTONE.
+(TS//SI) Early results indicate improvements are being realized. Latencies for priority 1 and
+2 GSM collection have decreased to within 8 to 10 minutes , resulting in increased
+confidence that NSA-G can provide real-time support to the troops in Iraq. As enterprise
+solutions are further defined and implemented, latencies are expected to decrease even further,
+providing the quick response necessary to adequately support the warfighter in Iraq.
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+ DERIVED FROM: 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+

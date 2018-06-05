@@ -1,0 +1,62 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(S) Using SIGINT to Sniff Out Phony Passports (and Other Persona
+Identifiers)
+FROM: 
+Counterintelligence and HUMINT Support (S2D)
+Run Date: 08/02/2005
+
+(S) Team looks at ways to single out suspicious travelers.
+(S) Have you gone through passport control recently and wondered what flags might have
+alerted security officials to single out a person for further questioning? Since September 11
+various elements throughout the intelligence and law enforcement communities have worked
+together to provide border officials with the necessary tools to identify false passports without
+compromising sensitive intelligence information. Something as simple as the date or place the
+passport was issued can indicate that a passport is fraudulent or altered, alerting immigration
+officials that they are dealing with an individual who warrants greater scrutiny.
+(S//SI) The Counterintelligence and HUMINT Support Product Line's Persona Analysis Team
+(PAT) was formed to explore ways that SIGINT could further contribute to this effort. Some
+work had already been accomplished on the issue of passports, including the development of
+new tools to parse travel-related information. SIGINT was also used to identify irregular travel
+documents.
+(S//SI) One line of reporting focused on Pakistani passports used by people traveling between
+Pakistan and Saudi Arabia. Other reports alerted border guards to the use of Iranian passports
+that did not fit the Iranian national passport model, alerting border officials to suspicious
+travelers.
+(S//SI) Recognizing the potential of using SIGINT to identify networks and individuals who
+create and use fraudulent persona identifiers - like passports and national identification cards -the PAT's goals are to explore and develop persona identifiers as SIGINT targets and
+encourage collaboration among Intelligence Community analysts. The team's first target is
+Venezuela, a country demonstrating much corruption (including in its passport issuance
+authority) has close ties to Cuba, and a prominent Ba'athist element within its government.
+(S//SI) The effort involves research of open-source material and Anchory, the use of new tools
+such as FASTSCOPE to identify patterns, organizations and individuals of interest, the
+development of key terms for query and collection efforts, and collaboration with other product
+lines, directorates and members throughout the Intelligence Community.
+(S//SI) One example of such collaboration can be seen in the effort to identify passport
+checksums. Some countries issue passport serial numbers that contain a checksum, so when
+certain mathematical calculations are done against a portion of the number, the result
+corresponds to another part of the serial number. Collaboration between the CIA, NSA's PAT and
+S3T, and mathematicians from IDA/CCR-Princeton* have helped to identify checksums used by
+various countries, which can then be used to scrutinize passports issued by those countries to
+determine validity. By comparing identified checksums against passport numbers appearing in
+traffic, NSA can then alert law enforcement officials to suspicious travelers.
+(S//SI) The team's efforts have already shown promise. In four months, when the team
+provides a second SITR brief to Gen Quirk, it is likely that not only will the recommendation be
+to continue the tiger team's work but to make it part of an expanded target tracking effort
+integrating persona analysis tools with Social Network Analysis, geolocation, SITA travel data,
+and contact chaining for a truly robust, multidiscipline, cross-organizational capability to track
+targets.
+*(U) Notes: 
+
+ IDA/CCR = Institute for Defense Analyses/Center for Communications Research (see further info
+) 
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid_comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+
+ 

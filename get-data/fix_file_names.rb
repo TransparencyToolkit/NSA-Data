@@ -17,5 +17,5 @@ class FixFileNames
   end
 end
 
-f = FixFileNames.new("/home/shidash/Data/sidtoday/documents/2003/", "/home/shidash/Data/sidtoday/documents/2003_fixed/")
+f = FixFileNames.new("/home/user/TT/Code/Snowden_Doc_Search/sidtoday/documents/2005/", "/home/user/TT/Code/Snowden_Doc_Search/sidtoday/documents/2005_fixed/")
 f.fix_names
