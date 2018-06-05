@@ -1,0 +1,204 @@
+UK SECRET
+
+The maximum classification allowed on GCWiki is TOP SECRET STRAP1 COMINT. Click to report
+inappropriate content.
+
+For GCWiki help contact: webteam RUSSETT	Support page
+
+PHANTOM PARROT
+
+From GCWiki
+
+Jump to: navigation, search
+
+PHANTOM PARROT is a GTAC tool that allows the querying of mobile phone data, acquired from
+police forces under ITT Op WILDWAY, an AGAP Target Discovery project to acquire and analyse the
+data.
+
+SIGAD: UKC1164
+PDDG: 7C
+
+Enter these into Ariel TDS when reporting!
+
+Contents
+
+•	1 Background
+
+•	2 Source
+
+•	3 Legalities
+
+•	4 Getting an account
+
+•	5 Reporting
+
+•	6 The port reports
+
+•	7 The tool
+
+•	8 Value to areas other than ITT
+
+•	9 Reference
+
+•	10 Great examples of where PP data has added value
+
+Background
+
+This mobile phone data is downloaded from people stopped at UK ports (i.e. sea, air and rail). It includes
+anything stored on a target's phone, although only phonebooks, sms and call events are currently
+databased and queryable through PP. The data is received via CD on an ad hoc basis (about once a month
+for London terminals, less for NPAC so far).
+
+Source
+
+The data is largely comprised of people stopped by police forces at another service's request. Mainly BSS.
+
+Police also stop people arbitrarily or based on profiling, however unless substantial traces are found
+against that person, mobile phone downloads are deleted.
+
+Approximately half of all the data (by numbers stopped) is obtained from Metropolitan Police Counter-
+Terrorist Command (Met CTC / SO15) National Ports Office (NPO), who have responsibility for London
+City Airport, St Pancras (Eurostar) and Heathrow, where they are based. The rest of the data is collated by
+National Ports Analysis Centre (NPAC), based at Merseyside Police HQ. Not all ports collect the data
+during ports stops at present, notably Stanstead and Gatwick, although work is being undertaken to
+convince them of its value.
+
+Legalities
+
+The data is legally volunteered under s.7 and s.8 of TACT (Terrorism Act 2000), although the person will
+not be directly told their phone is downloaded. For this reason normal SIGINT rules about content do not
+apply, however all queries/use of the data should be proportionate. Think RANNOCH MOOR (i.e. don't
+include names and addresses in reportsjust because you can).
+
+Getting an account
+
+At present PHANTOM PARROT has a maximum of 30 users, however, a new version is due to be
+released by mid-May, pending the new experiment enviornment, which will enable it to support over 100.
+Currently the 30 are all taken, but if you have a legitimate requirement (currently limited to CT) then
+please contact	who will do his best to accomodate this, or at worst, place you on waiting list
+
+for the new version.
+
+PHANTOM PARROT data is one component of LUCKY STRIKE, a collateral 'weak identifier' trace
+database, currently in development. PP is anticipated to be subsumed into LS at which time the standalone
+tool will be decommisioned. It is hoped LS will be an early plug-in for LOOKING GLASS.
+
+Reporting
+
+So, you've got an account, you've found something of interest, how do you EPR it?! First off, use the rule
+of thumb	(ITT Chief Reporter) gave us: If it was meant for transmission or had already
+
+been transmitted, then treat it as though we intercepted it. If not, then quote it as collateral (in all cases
+SECRET). So:
+
+Phonebook entries - collateral (SECRET)
+
+SMS or MMS drafts, sent items or received - as though you found it in DISHFIRE (although unlike
+DISHFIRE you can report UK SMS)
+
+Call logs - As though call records, but remember that all times are local and you may not easily be able to
+tell what local time was (given most will just have arrived from abroad).
+
+Media (you can't search on this presently but you can ask	if you find a stop of significance)
+
+- collateral (SECRET)
+
+Example: (GCHQ Comment: According to collateral (SECRET), 447717171717 was stored as
+"Davemob" in the phonebook of Op EXAMPLE target Jim.)
+
+Important to remember:
+
+1.	If your analysis of the data has generated some completely new intelligence, be that a selector, content
+or otherwise, then check with your BSS SFO whether it is already known. Remember, a high proportion
+of the stops are likely to be BSS requested and thatjust because they never told you, it doesn't mean they
+don't know.
+
+2.	If itjust adds to an existing piece of work (i.e. adds some context to a number in your CRA report) then
+do as you please, but if you are going to make a lot out of it see point 1.
+
+3.	Ensure you manually enter into Ariel TDS:
+
+SIGAD: UKC1164
+
+PDDG: 7C
+
+Getting more reliable updates to the data is dependent on proving its worth. If you have any great
+examples, please enter them at the bottom of this page.
+
+The port reports
+
+If you find your target in the phonebook of someone who is not a target, or you identify a phonebook
+which looks like it is of interest but again not a target, you may want to request the port report. The report
+is the result of the police officers interview of the person and will note other important things like other
+items of interest in their possession and the officer's read-out on the person. If this sounds like it will be of
+benefit: 1. Check with your SFO, as BSS will receive a copy of the report for any stop they request. 2. If
+they can't find a report then contact	At present there is no better way than to request it than
+
+from the police force who stopped them, therefore consider its potential value before requesting it.
+
+The tool
+
+PHANTOM PARROT phonebooks are stored by IMSI and IMEI, although we are encouraging ports to
+record MSISDN this is not yet standard and therefore not uploaded as part of the process of databasing
+done by	Phonebook entries are not currently normalised, although this is part of next
+
+update due by end-April. CORINTH and MOONRAKER fuzzy matching provides you scores which
+should give you an idea of whether numbers in a phonebook have been seen in either. A score of around
+0.75 and above should be a good match, but always check it.
+
+Value to areas other than ITT
+
+Since first checking the data against CORINTH, targets of MENA and APT ahve both been noted
+amongst the stops. As such, the medium term plan is for analysts in all IPTs to have access, although not
+yet feasible.
+
+Reference
+
+Page owned and maintained by	(OPIX-ITT-AGAP-Target Discovery) and
+
+(OPD-GTAC). Most questions should be answerable by us, but we are full-time analysts, so please see if
+this page can answer them first. In case of emergency (i.e. threat to life)	or his Met GCO team
+
+should be able to facilitate you getting a port report quickly.
+
+Last updated 27 May 2009.
+
+Great examples of where PP data has added value
+1.
+
+a)	EPR ref:
+
+b)	Type(s) of data used:
+
+c)	Brief comment:
+
+2.
+
+a)
+
+b)
+
+c)
+
+Retrieved from "^^|
+Category: No Category
+
+Views
+
+•	Page
+
+•	Discussion
+
+•	Edit
+
+•	History
+
+•	Delete
+
+•	Move
+
+•	Watch
+
+•	Additional Statistics
+
+Personal tools

@@ -1,0 +1,55 @@
+SECRET STRAP1
+
+a) Visit to R64, NSA
+
+and^^^^^^J from B14 visited our opposite numbers in R64 at
+NSA during the last week in November. The aim of the visit was threefold:
+
+i.	to learn about the NSA process for building language ID (LID) and speaker ID (SID)
+systems whilst sharing our own experiences;
+
+ii.	to establish closer collaboration on research tasks;
+
+iii.	to move forward the exchange of datasets/models for use in LID and SID systems.
+
+An opportunity for closer collaboration was identified for LID, and it is proposed that
+will spend a 4-week TDY in R64 probably in March.
+
+The sharing of models with NSA is possible, but the legal position there currently
+prevents them sending us raw datasets, although it is hoped that this may be
+overcome. We undertook to provide them with our Afghan languages LID corpus,
+which R64 have now received.
+
+Hotzone is NSA's audio tool, which we evaluated some years ago and assessed to
+be unsuitable for use at GCHQ, due to its inherent latency and inability to accept
+plug-in filters. Since then this tool has undergone a complete software re-write, with
+impressive results. We have asked for a copy of the source code to evaluate this
+further with the initial intention of integrating it into the B14 Monte Vista operational
+prototype. Hotzone is coded in Java and will run natively on a Windows desktop, so
+potentially could be considered as an eventual replacement for Rosecross.
+
+We were shown NSA's Voice RT (Voice in Real Time) system, which provides
+content-based information to NSA linguists/analysts used in conjunction with Nucleon
+and Hotzone (NSA's equivalent of B3M and Rosecross). Voice Rt provides Speech
+Activity Detection (SAD), SID, LID, Speech to Text (StT) and Phonetic search.
+Essentially it is a one-stop shop for what we term Voice Content Related Information
+(CRI). This is a major element of the HLT Programme and a massive effort has been
+expended to improve deployability of this system.
+
+b) CLEAR
+
+On 31 Jan, B14 will be hosting a visit from the CLEAR (Centre for Law Enforcement
+Audio Research) consortium. CLEAR is a multi-agency endeavour sponsored
+primarily by us, SS, HMGCC, SOCA and the Home Office to become a centre of
+excellence in the science of speech cleaning and recovery. Four academics and a
+senior scientist from HMGCC will be visiting and wish to see the problems that we
+face at GCHQ with intelligibility/audibility of our voice intercept. OPI~MENA and
+OPI~SC have already been asked to demonstrate some of the problems they
+encounter, and other IPTs are welcome to contribute too. More about CLEAR here:
+
+3 of 6
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+SECRET STRAP1

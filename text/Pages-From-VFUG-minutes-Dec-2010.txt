@@ -1,0 +1,61 @@
+<TOP SECRET STRAP 1>
+
+VOICE/FAX USER GROUP
+Minutes of December 2010 meeting
+
+b) Google Earth and the B3M VI
+
+The NSA speech research team (R66E) have a framework for the deployment of
+voice analytics called HLT (Human Language Technology) Labs:
+
+1 of 4
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	, email
+
+< TOP SECRET STRAP 1>
+
+<TOP SECRET STRAP 1>
+
+Within this they deploy speech activity detection, speaker and language id algorithms
+in much the same fashion as MCS do within B3M. For the forward deployment they
+have in Afghanistan, google earth has been integrated into the framework and it has
+been discovered that they are able to visualise occurrences where language id (LID)
+has identified Arabic being spoken. These occurrences have been mapped using the
+geo-location and cell tower information available with voicesail/GSM handsets.
+Certain clusters of these identifications have been found to indicate Al-Qaeda training
+camps. This unique combination of voice analytics and mapping software has
+provided unique and valuable intelligence.
+
+asked the VFUG representatives if this sort of capability would be
+useful for GCHQ linguists/analysts if google earth were to be made accessible from
+the BVI? While the example above cites language id, it could quite easily apply to
+other voice analytics or even non-content metadata should that prove to be of
+interest.
+
+c) Speech deployments for December
+
+i.	Sorani Kurdish/Pashto/Brahui/Baluchi language id has been deployed against
+AQKB selectors for the benefit of the Sorani linguists in OPI~LANG and the Baluchi/
+Brahui linguists in OPI~SAAW.
+
+ii.	2 speaker id systems have been deployed. The first is targeting the selectors
+associated with a mid-level Baluchi Taleban commander (OBJ BRUMBIES) for
+
+OPI~SAAW. The other has been deployed against the
+communications of the Lebanese PM's Chief of Staff for	OPI~MEA.
+
+iii.	We intend to deploy a further 2 speaker id systems next week. The first targeting
+
+the Director General of Military Intelligence of Rwanda for |	in the
+
+OPI~MEA Great Lakes Team. The second against the Lebanese President for^^
+
+also of OPI~MEA.
+
+2 of 4
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	, email
+
+< TOP SECRET STRAP 1>

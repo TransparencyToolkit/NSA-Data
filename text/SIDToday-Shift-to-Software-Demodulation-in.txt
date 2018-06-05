@@ -1,0 +1,88 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(S//SI//REL) Shift to Software Demodulation in Misawa Expands Collection, Saves Money
+FROM:
+
+Technical Director, Mission Operations, MSOC (F79)
+
+Run Date: 03/23/2009
+
+(S//SI//REL) Editor's summary: The SIGINT site in Misawa, Japan, is now
+using software demodulation to process many low-data-rate signals, thereby
+freeing up expensive hardware demodulators to concentrate on the more
+demanding processing tasks. This approach is expected to both save millions
+of dollars and to allow the site to collect more SIGINT than was ever
+possible before.
+
+(S//SI//REL) SIGINTers at the Misawa Security Operations Center (MSOC) and Fort Meade* have
+developed the ability to demodulate dozens of low-rate satellite signals using software stored on a single
+Dell 2950 server. This initiative, known as WORDGOPHER, currently enables simultaneous processing
+of up to forty-eight 64kbps phase-modulated carriers on a single server. The approach essentially negates
+the requirement for significantly more expensive hardware demodulators to handle these signal types.
+
+(S//SI//REL) WORDGOPHER is poised to save both the site and the extended enterprise millions of
+dollars over the course of the next five years. This cost savings will accelerate other developments and
+open a viable avenue to expand the MSOC's collection posture consistent with DIRNSA's "collect it all"
+challenge.**
+
+How WORDGOPHER Has Been Used at MSOC (S//REL)
+
+(S//SI//REL) Current antenna resources provide MSOC with access to over 8,000 signals on 16 targeted
+satellites. As is the case with most FORNSAT facilities, collection of these signals is limited by a finite
+inventory of hardware, in this case approximately 400 demodulators. It is estimated that WORDGOPHER
+can take on processing of nearly 1,000 low-data-rate systems, which will free up valuable resources and
+increase throughput of the station. WORDGOPHER should bolster the site's collection ability at a fraction
+of the cost of conventional hardware.
+
+(TS//SI//REL)
+
+This effort has already saved the enterprise over $300,000 dollars -- the amount
+it would have cost to purchase additional hardware modems.
+
+How WORDGOPHER Was Developed (U//FOUO)
+
+(S/SI//REL) MSOC worked together with the S33123 FALLOWHAUNT team and obtained a 90%
+solution for the WORDGOPHER demodulator using previously developed software. Using S2B-procured
+hardware, MSOC integrated the code/hardware into the site infrastructure for processing of additional
+signals. This combined software and field programmable gate array (FPGA) solution works best on links
+less than 2 Mbit/sec. The bit snap uses FPGA technology on an ICEPIC digital capture card, while the
+actual demodulation is performed in software. The demodulated bits are sent to WEALTHYCLUSTER
+using SHAREDVISION's Data Distribution Service (DDS) protocol.
+
+Future Plans (U)
+
+(TS//SI//REL) In the future, MSOC hopes to expand the number of WORDGOPHER platforms to enable
+demodulation of thousands of additional low-rate carriers. As an example,
+
+These targets are ideally suited
+
+for software demodulation. Additionally, MSOC has developed a capability to automatically scan and
+demodulate signals as they activate on the satellites. There are a multitude of possibilities, bringing our
+enterprise one step closer to "collecting it all."
+
+(S//SI//REL) MSOC would like to thank the FALLOWHAUNT team, SHAREDVISION, FORNSAT, and
+the Office of China and Korea for their support of this effort.
+
+(U//FOUO) Questions? Contact	Resident Signals Engineer, MSOC.
+
+(S//SI//REL) Close-up
+view of
+
+WORDGOPHER at the
+MSOC
+
+(SHSWREL) View of the racks at Misawa (left)
+and a close-up view of the WORDGOPHER servers.
+
+(U) Notes:
+
+* (S//SI//REL) Specifically, SID's Office of China and Korea (S2B) and Mobile Satellite Services
+(S33123) collaborated on WORDGOPHER.
+
+** (S//SI//REL) The Director announced his "collect it all" goal in a Director's Message in February 2007.
+
+*** (TS//SI//REL) The People's Republic of China (PRC) MFA VSAT network is a global network used
+for digital-network intelligence (DNI), voice, and fax communications spanning seven satellites. It
+operates between the PRC MFA Headquarters in Beijing and over 200 PRC embassies and consulates
+worldwide.

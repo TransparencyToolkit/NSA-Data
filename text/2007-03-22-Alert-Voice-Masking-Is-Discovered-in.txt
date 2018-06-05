@@ -1,0 +1,54 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(TS//SI//REL) Alert: Voice Masking Is Discovered in SIGINT
+
+FROM: Adolf Cusmariu, HLT Operational Technologies (S24211), and
+
+Deputy Chief, Levant Sunni Extremism (S2I24)
+Run Date: 03/22/2007
+
+(TS//SI//REL) Use of voice-masking devices complicate efforts to "voice ID" SIGINT targets.
+
+(TS//SI//REL) Earlier this month, Counterterrorism (S2I) Levant Sunni Extremism language
+analysts noticed that the intercepts of two prominent Al-Qai'da associated extremists in the
+Levant contained voice masking; the audio either sounded far too high, or too low in pitch.
+
+(TS//SI//REL) In one instance Saudi-based senior extremist financier Abu-Ubaydah used the
+voice-masking tool throughout his conversation dealing with his financing the travel of Yemeni
+suicide bombers to both Lebanon and Iraq. In another instance, Syria-based senior foreign
+fighter and facilitator Abu-Ghadiyah began in masked mode, went unrecognized by the
+recipient, turned the masking device off, and both had a good laugh.
+
+(TS//SI//REL) Of course, this is no laughing matter, since all efforts to identify any speaker -
+both human and automated - will fail when voice alteration is used. But why would a caller do
+this at all? Surely the recipient would also fail to recognize the speaker, so absence of this very
+human method of sound identification would only induce suspicion and mistrust. Disturbingly,
+could some terrorists be aware of efforts by SIGINT agencies to identify them by their voices and
+thus have begun to resort to masking?
+
+(TS//SI//REL) The devices used to alter voices in the few cases intercepted so far may not have
+been all that sophisticated. Simple changes in sampling rates done in mathematical software
+made the digital audiofiles sound more normal; in fact, two specific intercepts may have
+contained the same speaker. Still, automated detection of such anomalies will be difficult.
+
+(TS//SI//REL) A way to undo masking for an intended recipient would be to use the same device
+and agree on settings prior to each transmission, so that unmasking could be done near-real
+time. For example, if the sampling rates were increased by 25% to make the speaker's pitch
+sound far too low, sampling rate reduction by the same amount at the other end would return a
+normal voice. Even simpler, if only voice messaging is used, the masked recorded audio could
+be undone after playback through an (un)masking device.
+
+(TS//SI//REL) Because speaker identification services will continue to provide a key piece of the
+puzzle in tracking and capturing terrorists, voice-masking techniques need to be understood
+early. Tools developed for other intelligence applications are available and will be acquired to
+study this emerging problem.
+
+(U//FOUO) Do you have any comments on this topic? Post them on the SID today blog .
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

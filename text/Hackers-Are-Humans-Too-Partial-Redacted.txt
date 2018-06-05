@@ -1,0 +1,314 @@
+■	■ Communications Security
+
+Establishment Canada
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+Centre de la securite
+
+des telecommunications Canada
+
+Hackers are Humans too
+
+Cyber leads to Cl leads
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiorite de I’information
+
+Canada
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	Communications Security Centre de la securite
+
+Establishment Canada des telecommunicatic
+
+des telecommunications Canada
+
+Introductions
+
+•	Cyber-counter intelligence
+
+•	My primary focus is MAKERSMARK (Russia)
+
+•	CSEC - Covert Network Threat (CNT) group
+
+-	New name, same Cyber/Cl group you know and love
+
+-	Cyber and traditional Cl sitting side by side
+
+-	Focused on Foreign Intelligence, not Information
+Assurance
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+2
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	■ Communications Security Centre de la securite
+
+Establishment Canada des telecommunications Canada
+
+Goals
+
+•	How do we attribute cyber intrusion sets?
+
+•	How do we go beyond the hacking face of a
+CNE program?
+
+-	Expose management structure, operators
+
+-	Requirements, technological advances
+
+•	This presentation portrays only one method
+
+-	Passive infrastructure tasking/contact chaining
+
+-	Many other are available
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+3
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	■ Communications Security Centre de la securite
+
+Establishment Canada des telecommunications Canada
+
+Initial Seed
+
+•	Infrastructure tasking
+
+- Mostly exposed through malware/content delivery
+
+•	Careful and manual monitoring of anomalous
+network sessions
+
+•	Nothing fancy
+
+•	Not Web 2.0, but it works
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	■ Communications Security Centre de la securite
+
+Establishment Canada des telecommunications Canada
+
+Overview
+
+• MAKERSMARK
+
+-	Misuse of Operational Infrastructure
+
+-	Poor OPSEC practices
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+Centre de la securite
+
+des telecommunications Canada
+
+MAKERSMARK
+(Russian CNE)
+
+Designed by geniuses
+Implemented by morons
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiorite de I’information
+
+Canada
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	■ Communications Security Centre de la securite
+
+l"| Establishment Canada des telecommunications Canada
+
+MAKERSMARK
+
+•	The MAKERSMARK less attributed (LA)
+systems are really well designed
+
+•	This has not translated into security for
+MAKERSMARK operators
+
+•	Personal browsing through LA systems
+
+-	Workshops, ORBs, and controllers
+
+•	Development shop infected by crimeware
+
+-	4th party collection
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+7
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+l+l
+
+Communications Security
+Establishment Canada
+
+Centre de la securite
+
+des telecommunications Canada
+
+MAKERSMARK: Less Attributed Overview
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+8
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+Communications Security Centre de la securite
+Establishment Canada des telecommunications Canada
+
+MAKERSMARK: Misuse of Infrastructure w
+
+•	Less Attributable infrastructure used for highly
+attributable purposes:
+
+-	Hosting implant callback servers
+
+-	Live testing of new implant protocols
+
+-	Collecting exfiltration
+
+•	This is not CNE best practices
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+9
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+l+l
+
+Communications Security Centre de la securite
+Establishment Canada des telecommunications Canada
+
+MAKERSMARK:
+
+of LA Systems
+
+Personal Social Networking
+
+-	Vkontakt
+
+-	(mail/inbox/bk).ru accounts
+
+Personal Email
+
+-	Webmail/POP
+
+-	Personal retrieval through masquerading
+infrastructure
+
+Personal web browsing
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+10
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■ ^ ■ Communications Security Centre de la securite
+Establishment Canada des telecommunicatk
+
+MAKERSMARK: 4th party collection
+
+•	Implant development shop infected by
+GUMBLAR botnet
+
+-	Crimeware
+
+-	Sends pharmaceutical spam
+
+•	Exfiltration to Canadian “bullet proof host
+
+-	HTTP/FTP logins
+
+-	Collection of MM operator browsing habits
+
+-	MM LiveJournal accounts included in collection
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+11
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+■	■ Communications Security Centre de la securite
+
+Establishment Canada des telecommunications Canada
+
+Closing Remarks
+
+•	You have to keep an eye out
+
+-	A lot of value can be lost by not following leads
+
+-	Typically the window to exploit information is short
+
+-	Knowing what to look for is half the battle
+
+•	These exploitation opportunities don’t last
+forever
+
+•	As a CNE program matures, so will its OPSEC
+
+Safeguarding Canada’s security through information superiority
+Preserver la securite du Canada par la superiority de I’information
+
+Canada
+
+24
+
+TS//SI//REL TO CAN, AUS, GBR, NZL, and USA
+
+1*1	Communications Security Establishment Canada	Centre de la securite  des telecommunications Canada			
+			^			
+
+Questions?
+
+Safeguarding Canada's security through information superiority
+Preserver la securite du Canada par la superiorite de I’information
+
+Canada

@@ -1,0 +1,54 @@
+TOP SECRET STRAP1
+
+21 April 2009
+
+VOICE/FAX USER GROUP
+Minutes of March 2009 meeting
+
+1. B14/MCS update (courtesy of
+
+MCS work this month has been almost entirely updates to existing models and minor
+adjustments to tasking and diarisation.
+
+The exceptions to this were all deployed today (18/03/09) and are:
+
+Language ID (LID):
+
+New LID deployed for discrimination between Pashto & Dari (for AFGHAN political
+targets)
+
+Substantial rebuild of Pashto/Brahui/Baluchi LID (for the Baluchi Linguists)
+Speaker ID (SID)
+
+New SID deployed for OPI~MENA: target is General Kiyani (Pakistani Chief of Staff
+for the Pakistani Army), for whom it has been difficult to accrue enough truthed voice
+data - but we now have a first pass at a working SID system. As ever, we rely on
+user feedback to bring false positives & negatives to our attention so that we can
+incorporate them into later revisions of the model.
+
+Welcome feedback from
+
+(OPI~MENA)
+
+Until recently, responsibility for a particular target, Vice President 'Adil 'Abd-al-Mahdi
+(AAM) has been shared between us and our NSA counterparts. In addition to being
+VP of Iraq, AAM is a joint de facto leader of ISCI (= Islamic Supreme Council of Iraq).
+NSA dealt with the VP part of AAM but since we have been consistently reporting on
+him faster than they, NSA have dropped their involvement. says that this is
+"thanks to B14" - and adds that this good performance has enhanced our reputation
+at NSA.
+
+continues: "The AA reporting, which is well received in Whitehall and in theatre,
+is regularly used in assessments and other papers. It has contributed to Annual
+Performance Review rating for Iraq of 'A' for last year and the year about to end. The
+voice recognition programme has made it possible for us to delete at least 75% of the
+hits on AAM's phone numbers saving the linguist I	] a vast amount of time."
+
+2. Voice/Fax/Transcription Team update
+
+1 of 5
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on	(non-sec) or email
+
+TOP SECRET STRAP1

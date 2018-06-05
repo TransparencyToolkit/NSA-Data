@@ -1,0 +1,1180 @@
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U) Describe PINWALE
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+2
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+(C) Supports SIGINT production by providing
+storage and retrieval of intercept
+
+(TS//SI) Special partition for FBI FISA data
+
+(C) As a repository, it accounts for a significant
+portion of SIGINT production
+
+(C//SI) Archives documents for approx. 5 years
+from the data of collection
+
+(S//SI) Several search engines that provide
+retroactive, interactive, and dissemination type
+searches
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+(S//SI) LIONROAR searches
+documents beyond 13 months and up to
+a 5-year range of the archive
+
+(S//SI) LIONHEART Fusion searches
+a document index of the most recent 13
+months in the archive
+
+(S//SI) PINWALE Dissemination
+
+searches documents daily based on a
+query
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+4
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+TOP SECRETtfC-OMtNTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+■	For a refresher on query syntax, use the
+PIN WALE Syntax Quick Reference Card
+(htlp://rosato.do.nsa:9087/userweb/nexus/
+ref.card.030505.doc) or the course guide for
+TOOL 2201
+
+■	For additional help creating queries, contact
+PINWALE Help Desk
+
+5
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U) UIS, NEXUS, AGILITY and AGILEVIEW
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+(C) NEXUS is interface where you can conduct
+searches in UIS
+
+(C//SI) User Interface Service (UIS) integrates
+search and retrieval systems and presents data
+queried through NEXUS like the intended user
+would see (UIS Text Presenter).
+
+(S//SI) AGILITY is an alternative document
+viewer to the UIS Text Presenter ideal for
+viewing Microsoft Windows applications (MS
+Office, Adobe PDFs) in their native formal
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+(S//SI) example: PWYA2006298115456 0001151730
+
+(S//SI) PYVID Dissected: P\V YA 2006 298 115456 0001151730
+
+(S.'.'SI)
+
+PW	PINWALE
+YA	Processor ID internal to PINWALE
+	(values AA-ZZ)
+2006	Year loaded into PW
+298	October 25ltl on the Julian calendar
+115456	Time (HHMMSS)
+
+0001151730
+
+10 digit document number for the
+documents loaded at this time.
+
+[SWS1J
+
+TOP SECRETtfC-OMINTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+7
+
+(U//FOUO) Deconstruct this
+PINWALE ID (PWID)
+
+(SWS1J
+
+PINWALE
+
+fi:34.42pnu the
+time loaded into
+PW
+
+76118344
+
+Processor
+
+(AA-ZZ)
+
+October 3rst on the
+Julian Calendar
+
+l,155r,‘
+document
+Loaded at tins
+date and time
+
+[S//S])
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+8
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+TOP SECRETtfC-OMINTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+(S//SI//REL) Repository for all the traffic we collect and
+includes metadata and content, with a focus on the
+content
+
+(S//SI//REL) Helps you answer important questions:
+
+P* What personal information is available my target?
+
+Who are his contacts (buddy lists, address books)
+
+What are my target's alternate accounts (e-mail accounts,
+chat accounts, usernames)
+
+Where is my target located and where does he log on
+from?
+
+What can I learn about my target's computer (MAC
+addresses, cookies)
+
+9
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+(U) Search for an e-mail account
+
+(U) Search for an IP address
+
+(C) Search for a PINWALE document
+using a PINWALE ID (PWID)
+
+(C) Search for a Universally Unique ID
+(UUID)
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+10
+
+TOP SECRETWC0MfNT^REL TO USA. AUS. CAN, GBR, NZU,'20Zflt123
+
+(U) NEXUS Search Editor
+
+w	l.	f1" rt j ■“ ■''	* WfS Jlv ,,
+
+(TS//SE}
+
+TOP SECRETtfC-OMINTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+11
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+-	(S//SI) You can use DECODEORDAIN when
+querying on an e-mail account
+
+-	(C//SI) DECODEORDA1N prepares the
+permutations for you in the query language’s
+native form
+
+-	(S//SI) Query PINWALE directly from
+DECODEORDA1N results page
+
+Go DECODEORDAIN
+
+
+
+
+
+i ;:.-v i:V ■	i>. 4i U	J
+i.r■ ■:■ i.r*D*D<r* „-ii„.-*2	
+
+TOP SECRETtfCOIMNT/RELTO U5Ar AUS. CAN. GBR, NZU.'MHtl23
+
+(U) Query an E-mail Account
+
+
+
+a iMnada I
+
+(rfc— m
+
+fn-IMm
+
+hUlWll nn ■ -| l 1 ■ ir%^
+b T- M-ns|	IbiiH
+
+
+
+3^.1 LI —
+
+■	rip •**-*-
+
+^ J J J
+
+.: BE ■, -.3
+
+iu	I
+
+
+
+.'4 -i l*p-' J-* AifctH* — I
+
+■ ini A-t^^pwSP
+
+k- * *	..	4 *: ■	.
+
+*i—	■*
+
+■	*	*	4
+
+. + .. * *. . ■*
+
+■■■	* 'T.i Tr #1+
+
+
+
+-
+
+TOP SECRETtfCOMiNTi'REL TO USA, AUS, CAM, GBR, NZLW2029V923
+
+13
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U) PINWALE
+
+Objectives
+
+■	(U) Configure and use the U1S Metadata Viewer
+to process and view Pinwale search results and
+metadata
+
+■	(U) Create a query for viewing the FISA data
+
+TOP SECRETl/COMtNT/REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+14
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZU.^OKJ tl 23
+
+(U) Search Parameters
+
+(U) Search Information
+
+> In this area you have the Name field which is used as an identifier
+The Description field which just provides any additional information.
+
+i IJR Mtaut ^eji ■ h I dilnf. IiiimIiI rd I
+
+Fill E;4rt □■Ji-rv
+
+I rail23
+
+wl			a	j	/	Wi	
+!*1jM	Lull	LUJU	ii.j	Pm	■xtidnt	imM	flu Will
+
+E®®
+
+H*lp
+
+MHTh
+
+! Ii'".- DjtflSta-nt
+
+[■t-'.ni;! i. Jl	I K l
+
+I ‘il*- Ii' hi fcQn
+
+	
+LIDNHR7 FUSION	w
+Full CfirGh	■w
+OH	IT
+thqurtk	W
+»srti	n
+
+Vna* Hvrtnmr
+
+Fllfflhlluit
+
+HWBLlIHEOl
+
+‘Wj: LEE&-rio:o
+
+XEYSTONt
+
+
+
+T.
+
+i r-TVfinf.,ui
+
+ru cwrtmrcif
+
+Vi-si bility Group
+
+From
+
+To
+
+at*| DW. [IMO- Sijvp>,-K
+
+tH**Ai<0cijhOn
+
+	FJ|[	■
+	L'>l4
+
+
+
+TOP SECRET1/COM1 NTi'REL TO USA, AUS, CAM, GBR, NZLW2029-1123
+
+15
+
+(U) Data Selection
+
+-	(U) Search Engine - Allows the user to select the search
+engine of their choice.
+
+**** Select PINWALE DISSEM
+
+-	(U) Search Type - Used to select whether documents arc
+actually retrieved or just counted.
+
+**** Usually-Full Search
+
+fU) Retrieve Metadata - Can be used to disable metadata.
+This is not available when the selected Search Type is Hits
+Only.
+
+-	(U) Send Results To - Sets the folder location to return the
+search results; defaults to your SID.
+
+**** Leave your sid lor this Held.
+
+-	(U) Visibility Group List - Allows you to select one or all
+of the Visibility Groups. Be sure to click on Add so it can
+be added to your search.
+
+**** Select/Highlight SQF partition
+
+TOP SECRET//COM1 NTi'REL TO USA, AUS, CAM, GBR, NZL/Q0291123
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZJJ.^OKJ tl 23
+
+
+
+Fn;rn (YWYMMDDj
+
+top secret* 'C mcpmaisiiaa
+
+i LlIB: Ncxui Bc-dirli I il>■ di Imoclilic-rf^
+
+KM*.
+
+FMi Edit Query Search
+
+Help
+
+4
+
+Char
+
+13
+
+Qitthi
+
+UkkIU
+
+(U) Search Parameters cont.
+
+TOP SECRETtfC-OWHNTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+■
+
+-c-
+
+a5icMfYH)r™inin-
+
+Na[np :.oL ■ I -■■'ipti 1
+
+jipsr.npcnrr JJ irit'r-.i(ts in it*
+
+L',ll-i y..- L-rL'ill ■
+
+Sesr(H Eng/Ifr
+SBSiijIi Tyjj?
+EBfrtmB Neraa^a
+Sen FieauH-iTo
+Model ToUre
+
+PI NfWALE DIS5EM ▼
+
+FltIE Search
+
+ON
+
+ckquick
+
+Name
+
+vr. bi tyGi ".f.
+PSCTnd
+
+-■’h',-- -{t^r
+
+SQF
+
+SOM
+
+5TCUrHtAi?r
+
+GUC-AP-FPLFLE:'
+
+Tl ^YyY■r^^hDJJ
+
+Add
+
+
+
+Visibility trpwp
+
+Fnjm
+
+Says Dm. ?a
+
+	
+
+i-QuurrMSOtirtcn
+
+N«¥ Query NSfifle
+
+	
+
+- (U) Date Range - Enter the date range in the From and To
+fields. It is important to remember to leave the fields blank
+for the PINWALEDISSEIM as it is a continuous running
+search.
+
+(U) Visibility Group Table — By clicking the Add you are
+able to insert the visibility groups and the date range into
+the Visibility Group table. Please note that if there is no
+data for any day within the date range yon will get an
+informational window popping up and saying LiData is not
+available for the entire date range specified'
+
+(U) Max Docs/Max Hits - Max Docs limits the number
+of documents that will he returned by the queries
+associated with a Full Search. Max Hits limits the
+number of hits that will be returned by the queries
+associated writh a Hits Only query. Keep in mind that
+the system limits arc 20,000 Max docs and 1000000
+Max hits.
+
+fU) Save Days - Determines the length of time that the
+results from a search will remain in the folder manager.
+
+TOP SECRET1/COM1 NT/REL TO USA, AUS, CAM, GBR, NZL/Q0291123
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZJJ.^OKJ tl 23
+
+(U) Search Parameters cont
+
+r LI IS: Nexus- icdrcli I .him :|imi [lifted |
+
+Eils Edit Query Ssarch
+
+.'I P JJ |bi ■
+
+Help
+
+SlXnd
+
+
+
+SpiP
+
+mmm / &
+
+jjt-
+
+QLTirr
+
+■SeaichinrfDKn^ho^-
+
+
+
+^eE-tf-aliDri'!J~l~ a-s-5 ac i a tft s T-n SE*
+
+l!-ala SelacHon
+
+turn Association
+
+Search Enjur*
+Sear£jVT*pe.
+Rt-'jitv* Mviadatj
+firndflsnurn Td
+Wncigi ■ d U?e'
+
+PINW.Hi.IE D135 EM w
+
+Full Stirch
+
+ON
+
+ch quick
+
+Noire
+
+VISlhll*G£(klfr
+
+PSCTliji
+
+SOPNSPC-TNKE
+
+sof
+
+5G»f
+
+SrOUTNEAflT
+
+SU&W-HALFlEK
+
+N*U
+
+Remove
+
+£d|t
+
+Load
+
+F:giri fftYlfWhlDQ^
+
+T-J (VWVHHf'r J
+
+Add
+
+Remove
+
+Vi 5 it>i lity Group
+
+sqf
+
+From
+
+To
+
+_______i
+
+Sa^F Dart-
+
+rte^Querr “Jannc
+
+—
+
+TOP SECRETtfCOMINTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+19
+
+(U) Query Association Area - This area contains a list of queries
+associated with the search as well as functions to edit the queries.
+Remember if you do not wish to submit a query you had previously
+opened in the editor, you must remove it from the association list,
+before hitting the submit button.
+
+(U) New Query Name - This is probably the easiest function in
+P1NWALE. Type the query name then either press the Return or
+Enter keyboard buttons or dick the New button. Try and use
+something related to what you are going after.
+
+(U) Query Buttons
+
+' New - Creates a new query and is given the name in the New Query
+Name Field	'
+
+-	Edit - Opens a selected query from the Query Association List or
+brings the selected query window to the front it' multiple queries are
+open
+
+-	Remove - Simply removes the selected queries from the Query
+Association List. Keep in mind that the queries arc not deleted from
+the Saved Queries folder.
+
+-	Load - Opens the Load Query dialog box, allowing you the user to
+add a personal or shared Saved Query.
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+20
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U ' Creating A Query cont.
+
+
+
+t Lift- Nrmu-SMirh I il i|oi-|irvilrlmn
+
+fil± Edit Oiitry Starch
+
+
+
+- r V|
+
+HMp
+
+a
+
+^ SI 65 / $
+
+Aw
+
+Liijrrh rToM"" i —
+
+Nijbi: IdYgris^pnT'
+
+BfKiiptim ij	Ifi gi
+
+TijIaSr- -
+
+kairciitnaine
+Efl-arih "if«
+
+F'lHWALE DIESEL *
+
+rull $*ar«ti
+
+E'.irlmlltbdDti OH
+
+a**JHa3uits m	ckqultk
+
+Hf>h<TdU!«	r-Jc.n*
+
+vleble^iunp!
+
+F3CTh*1
+ECifirJSP^-YNKF
+
+BOP
+
+&QK
+
+ETdUlhfcAm
+SUGJLF- KALf LEU
+
+r,yr: , '.'.'mv: ( ■
+
+mffVYVHUHB
+
+Wd r;.>
+
+Vivibil rty Droup
+
+From-
+
+To
+
+*i*m*ve
+
+|30
+
+Qur-> A::aLjli:iri-
+
+
+
+Edit
+
+Boniov*
+
+Uoid
+
+HSAjJlll
+
+Now Query fJsmD
+
+
+
+A FBftJfl
+
+
+
+Fil* E t r,' ;■ Ci Dplmnt Forni*
+
+TOP EECRET-.lGOMINT,-.SlK91iJ3
+
+V
+
+[lOHIJlptJtfl
+
+F|00 TMA Query
+
+TOP SECRET//COM-INTi'REL TO USA, AUS, CAM, GBR, NZL/Q0291123
+
+21
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+(U) Query Forms - Vary in complexity from the Small
+Form, which performs syntax formatting to the Freeform
+which requires you to format the entire query in the
+native query language.
+
+a. Valid LIONIIEART FUSION (RW) forms are
+SmartForm, SmartForm II, Fielded Search, and
+Freeform
+
+b. Valid LIONROAR/PINWALEDISSEM (PSL) forms
+arc SmartForm, SmartForm II, Zoned Search, String -
+Smart Form, Set Ops, and Freeform
+
+Select “Smartform"
+
+TOP SECRET1/COM1 NT/REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+22
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U) Selecting a Query Form
+
+# :. ■ . -
+
+TOP SECRETtfC-OMINTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+23
+
+TOP SECRETWCOMfNTREL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+(U) As you type the terms into a form the native
+rendition of the term will be displayed above the
+field for information and feedback purposes.
+
+(U) When using forms associated with RW, if
+you type something incorrect, the feedback will
+turn red, alerting you to the fact that the term
+needs to be fixed in some way.
+
+>-Enter FISA target case notations in the fields/
+blanks.
+
+TOP SEC R ETtfCOMt NT/REL TO U SA, AU S, C A H, G E R, NZLA20291123	24
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZi-'.^OKJ tl 23
+
+(U) Entering Query Terms cont.
+
+i Ulb 14x111 Bcui Lh I- riilm. |liWdll*d]
+
+F<it gdrt Autry Scorch
+
+ropstmrr rrjtfjxr-'mpiiaj
+
+	
+	y
+	
+
+iniSiis-
+
+Htlp
+
+rS?HTl- iiiijIi :n
+
+	I  1—iu	\j	A	/	4	m	
+		1M	^ii		IMW J	binii	
+
+
+
+[>l HMij|l.ri hn i£d
+
+
+
+9*4thrrinvi	P1HWALE DlSEEM	■w
+6*|u|jri Tfr*	F -in S« nrit i■-	*
+I'IJL'I-hi h'-lj'iv d	OH	•w
+Swl h'M.uli T-:	ckqum	#■
+WHhiTuUiJ	h*rn-	«■
+
+hiiI I ^ -r:up
+
+P3C-TirI	^
+
+ShflHSFf-KTIMj
+
+SQK
+
+BT-3gTXE*Rf
+EWAP-H*ifLDf
+
+
+
+Fi[w<mVto«n
+
+litWitmlK
+
+FliAjii1
+
+Cjut,0- -iirn!n-.
+
+ft*	
+Fltmqvi	L»l4
+
+1l Fl^.iJIli
+
+
+
+F|l« 96-Tff# Opnflh* Ftfmt
+
+"quint
+
+a
+
+Dl-bLnctKiri 11	n cri r r.	rftlltcl'ian
+
+f m* r^miuiCi ; S'linfCm-
+
+Ficirrr, 1 DOCUMENT t
+
+[nlHWm.l d IJ'UKJLJ' ■			r.-UPMST.I ■ Sirwn<-J .	M.
+^Sqro-ie-23:	“IWniHM			*
+				
+P	P		VL.	) fd
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+25
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+■	(U) The Validate button runs all queries through
+a basic syntax check.
+
+■	(U) Pop-up window activated to show IS Valid
+or Has Errors
+
+■	(U) Best way to validate a query is to use the
+Validate command on the query form's Options
+menu.
+
+TOP SECRETtfC-OMtNTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+26
+
+itm Jh.ii> ■Vtuin Hdrii.^nndil-cUJ		. n x
+1	lW *F'"RJ1 ■	fliSHU	
+L fit* tan Qu-try S*irth		ti*'p
+
+%		a	J	/	4
+uac-5	U»>j	£my+	Nil	■Wr=a.	[Mf
+
+SAsr.-n En&nr
+SAjJthTrt'i
+
+S*Dfl RttnH T*
+
+WMWTBUp*
+
+FwnflTfiWa
+
+PIW*LC .DISSEM -
+
+run >ureii	V
+Opt	V
+CP.HUliX	V
+
+	
+FW>Tli	“
+SiRhiSPC-mt^	
+S-3F	,
+SOU	J
+SfOU>HEHpT	
+
+Hew
+
+Edit
+
+wad
+
+Y Valiilalmn 5m
+
+Add
+
+V.-nh -t,
+
+5GF
+
+FdA fiE-Typt Qpdift
+
+I rlL'.i ".. rt ■ ■' I 1 J-K'l' ■!'■■:
+
+SyL-ifViMjrtm ^ u^m-irf
+FK^^irf' ICoil'Kj
+
+[TcAl-l UirfhBS]
+
+fn* Fhtti Quefr ' E^ulFmi			
+1 1 fM f- \ GocuMewt W			
+(.■■■ i	■ ■ltojj+aif .•	,. .t| JW;’_| J,	■M.bni.i 7JI- )	■■ ■-! SiW'V'. :	n MJt#' >	-
+jKpPBWUI	m SpFOiSiM		m -
+			—i-
+r		“L	: -d
+			
+
+TOP SECREir/COMINT/REL TO USA, AUS, CAM, GBR, NZL/H0291123
+
+■ (U) Easiest way to save your search and queries
+at the same time is to click the Save button on
+the toolbar. There are other ways but this is the
+most efficient.
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+2£
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+Submit Search
+
+■	(U) This function can not be accomplished until your
+queries have been validated and optionally saved.
+
+■	(U//FOUO) The submitted search then goes through
+four phases
+
+- Queued
+Submitted
+Running
+
+Getting results to complete
+
+Cheeking the Hits
+
+■	(U) Once the search is complete the Hit Count and items
+column next to the query folders will be populated with
+the results.
+
+■	(U) If you don’t see results then refresh the Folder
+manager
+
+TOP SECRET1/COM1 NT/REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+29
+
+TOP SECRETtfCOMINTJREL TO USAr AUS, CAN. GBR, NZUU0291123
+
+(U) Customizing Metadata Viewer Fields
+
+■ (U) Currently there are 700 fields that you as an
+analyst/linguist can select from to assist you in
+search of your target. Keep in mind that you can
+take and setup as many MDV layouts as you
+desire to suit the needs of the target that you are
+doing your research/analysis on.
+
+TOP SECRETtfC-OMtNTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+30
+
+(U) The Metadata Viewer or as it is commonly called the
+(MDV) is where the results set their metadata.
+
+(U) Results arc stored in an ORACLE database and arc
+linked to a container folder in the UIS Folder Manager.
+
+(U) To load the results from metadata for a Query,
+simply select the query folder and double click. Note:
+You may load multiple results into the MDV simply by
+CTRL-sclccting multiple query folders before applying
+the load function.
+
+(U) Keep in mind that when loading documents it can
+take as short as a few second or longer depending on the
+actual number of results and the search engine that was
+being used.
+
+TOP SECRETi/COMlNT/REL TO USA, AUS, CAM, GBR, NZLW20291123
+
+: +
+
+i ■
+
+* DT5
+
+□ Natation SICtMTft... Yi*i
+
+£0070^2^:Ob:SS:OM:*00	XX.5QF075193 U5-9G4J iQF
+
+20070227:13:37:00:000
+>0070227:13:37:00:000
+2(m70227iH:13: POL000
+>0070207: H; 13; 001 000
+>00/022/:IS:13:00:000
+
+KX.SQFO/lil^
+|H'K i)7M4:i
+XX.5QF079193
+issi.sQr h7sifl:i
+X.SQF075193
+
+200702??: U: 13:00:000
+200/027/- U ] lj : 00: 000
+20070227: 23: 53 : 00: 000
+200/027^:02 23:00:000
+2007027*:22:53:00:000
+mS nt-p?»■ »> kh>nn' non
+
+s
+
+KM,sgro7tia3
+
+KX.3QF0/S103
+
+U!i 9B4J
+U5-9S4J
+U5 SSflJ
+»S-flS4i
+U5-9S4J
+|R -9B4J
+U5-Liafli
+
+KK.50FQ7D193
+
+ixxlsgrarsiaa
+
+K)T.5QFQ7tiia3
+W Wn^iql
+
+I.C-. 934J
+[US-984 J
+or-, afifl.i
+
+IK-QfU [
+
+SOF
+
+
+
+so:
+
+5QF
+
+5QF
+
+SQF
+
+5QF
+
+nor
+
+50F
+
+201
+
+
+
+TOP SECRETrtCOMWTi'RELTO USA, AUS, CAM, GBR, NZL/H0291123
+
+T UL4: Mclad-iNa Virwcr (fixd.|
+
+BE®
+
+m		
+Table Viewers	Pont Present Edit Ben find Filter Celers Fields Prioritize Services	Help
+
+(U) Dy using the MDV sorting can he as simple as the ordering of a column
+of data in ascending or descending order, or as complex as sorting a partial
+or full set of results using multiple fields.
+
+(U) Sorting can be useful for such tasks as analyzing events in
+chronological order and or finding anomalies in target communication
+profiles.
+
+32
+
+TOP SECRETWCOMIHT^REL TO USA.AUS. CAN. GBR, MZL.'.'iOMtl23
+
+(U) PIN WALE Tip of the Week (E-mail)
+
+(U) Tip of the Week also announces dates
+and times for upcoming:
+
+>^PINWALE Query Walk-in Service
+>-PINWALE Users Group Meeting
+>-PINWALE Training Sessions
+
+(U) NCS Training dates and times also
+found in the tip of the week
+
+(U) You need to request to be on this
+mailing list. (DL NEXHELP)
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+33
+
+TOP SECRETWCOMIHT^REL TO USArAUS. CAN. GBR, MZL.'.'iOMtl23
+
+■ (S//SI) Problems with interpreting or
+identifying your traffic?
+
+>"You can see your target’s e-mail, but don’t
+recognize the traffic
+>*(C//SI) Send your questions to DL
+CTSAMPLES with only the PINWALE
+ID
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+34
+
+TOP SECRETWCOMIHT^REL TO U3Ar AU5. CAN. GBR, NZU.^OKJ tl 23
+
+» (U).Help?0
+
+. (U//FOUOUjmMp?
+
+>■ Contact
+
+^E-mail: DL UISHELP
+
+- {U//FOUO)mmE Help?
+^Contact^^^^^J
+5-E-mail: DL NEXHELP
+
+TOP SECRETtfCOMlNTi'RELTQ USA, AUS, CAN, GBR, NZL/H0291123
+
+35
+
+
+
+TOP SECRETtfCONMKT/RELTO USA. AU5, CAN. GBR, NZL:.'£Ci£31122
+
+(U) QUESTIONS?
+
+TOP SECRETI/COM1NTi'REL TO USA, AUS, CAN, GBR, NZL/H0291123
+
+36
+
+
+
+(U) Create PINWALE_DISSEM query
+(U) Load Query Results
+(U) Customize MD V
+
+TOP SECRETtfCOMtNTi'REL TO USA, AUS, CAM, GBR, NZL/^20291123

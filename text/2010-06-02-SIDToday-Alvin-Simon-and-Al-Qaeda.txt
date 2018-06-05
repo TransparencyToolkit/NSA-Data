@@ -1,0 +1,65 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(S//SI//REL) Alvin, Simon, and... Al Qaeda? Finding Modified Voice in
+SIGINT Traffic
+
+FROM:
+
+Researcher, Human Language Technology Research Office (R64)
+
+Run Date: 06/02/2010
+
+(TS//SI//REL) Voice modification isn't only employed by the
+makers of Alvin and the Chipmunks; it is also being used by
+SIGINT targets in Yemen, Afghanistan, Iraq, and elsewhere.
+
+In the last several months, multiple targets used voice
+modification technology to distort their voices, most likely to
+avoid identification by intelligence agencies.
+
+(TS//SI//REL) In late 2009, CT analysts found two audio cuts
+associated with Al Qaeda in the Arabian Peninsula (AQAP) in
+Yemen that contained voice that had clearly been modified
+(the talker sounded like a character from Alvin and the
+Chipmunks). R6 and CES (S31) were asked to help recover
+the original voice so that the talkers could be identified.
+
+Within two weeks, we had created a profile of the modification technique employed by the AQAP
+handset. CES has deployed a capability (now available at "go saas") to undo the modification .
+
+(TS//SI//REL) Next we asked the question: is it possible to automatically discover modified voice
+in SIGINT traffic? If so, then this could become a powerful tool for target discovery. In the case
+of AQAP, this is exactly the capability that was required: after the December 25 bombing
+attempt in Detroit , many AQAP selectors in Yemen went quiet. Some of these targets had used
+voice modification in late 2009; were they still employing voice modification but on different
+phone numbers?
+
+(TS//SI//REL) In response to this requirement, R64 developed a software package called HLT
+Lite to automatically discover modified voice. HLT Lite makes use of three core human language
+technology (HLT) algorithms: speech activity detection , anomaly detection , and automatic
+speaker recognition . HLT Lite was deployed to the Special Collection Service (SCS) site in
+Yemen on 9 March, 2010 to search for modified voice in JUGGERNAUT data. After being
+operational for only 30 minutes, HLT Lite discovered a cut containing modified voice. Since then,
+HLT Lite has scanned over 1,000,000 audio cuts and discovered at least 80 confirmed
+examples of modified voice. Four phone numbers have been tasked and many others remain
+to be analyzed.
+
+(TS//SI//REL) Modified voice is not restricted to AQAP in Yemen. We used HLT Lite to search
+500,000 NUCLEON cuts and discovered 76 examples of modified voice across several Product
+Lines, including Afghanistan/Taliban, Sunni Extremism, Lashkar-e Tayyiba, and Southwest Asia
+Narcotics. So if you hear SIGINT traffic that sounds distorted, it may not be garbled or corrupted
+. . . it may actually be modified! You can listen to examples of modified voice here .
+
+(TS//SI//REL) Does this article sound familiar? Long-time SID today readers will remember the
+March 2007 article " Alert: Voice Masking Is Discovered in SIGINT ."
+
+(S//SI//REL) Note: The above image is a spectrogram of modified voice from a cut associated
+with AQAP in Yemen. Have comments on this topic? Post them on the SIDtoday Blog .
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

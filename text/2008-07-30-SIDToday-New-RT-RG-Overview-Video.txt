@@ -1,0 +1,74 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(U) New RT-RG Overview Video Available on NSANet
+
+FROM:
+
+Corporate Communications, Meade Operations Center (F74)
+Run Date: 07/30/2008
+
+(U//FOUO) If you have heard of the Real-Time Regional
+Gateway (RT-RG) initiative and want to learn more about it,
+you are in luck! The Meade Operations Center Dragon
+
+TAMERS have created a 10-minute overview video that is available on your desktop. The video
+outlines RT-RG's goals, capabilities, and benefits. It was created in response to the intense
+community-wide interest in the RT-RG tool suite and high demand for briefings and
+demonstrations of the tools and their application.
+
+(U//FOUO) Now personnel throughout the Enterprise can access this information at their
+convenience, and refer back to it as needed. The video can also serve as a preparation for NETA-
+2014 ("RT-RG Tool Suite for GSM Analysis"), to help students gain a context for what they will
+learn in class.
+
+(U//FOUO) For those who require more in-depth knowledge, the Dragon TAMERS have training
+videos for several of the RT-RG tools (GEO-T, Goldminer, SharkFinn, and SORTINGLEAD). These
+videos can provide review and reinforcement following NETA-2014, or serve as initial training on
+the tool suite.
+
+(U) A Brief Summary
+
+(S//REL) RT-RG, formerly called RT-10, is a suite of tools that provides the forward-deployed
+analyst access to near-real-time metadata and reporting to better support the tactical customer.
+The tools are web-based for easy access, employ the "find-fix-finish" concept of honing in on a
+target, and are exponentially faster than traditional analytic tools, enabling expeditionary
+cryptologists to provide useful products to the customer within a commander's decision cycle.
+The Dragon TAMERS team is an operational test bed for RT-RG tools, providing valuable
+feedback to the software developers and training analysts throughout the Enterprise in their use.
+
+(U) Recent Initiatives
+
+•	(S//SI//REL) RT-RG is now operational in Afghanistan. VOICESAIL and GSM collection is
+getting into both theatres' servers, and developers are currently working on models to
+include push-to-talk radio collection in the Afghanistan system.
+
+•	(TS//SI//REL) Additional tools have been developed, and improvements have been made
+to existing tools -- e.g., SORTINGLEAD has increased functionality for DTMF (dual-tone
+multiple frequency) analysis.
+
+•	(S//SI//REL) VoiceRT* upgrades include DTMF tipping, automatic tipping of specified
+terms of interest, and speaker identification, which will soon be able to find new voice
+cuts for a target that match the target's past recordings.
+
+•	(U) RT-RG training has been formalized in NETA-2014, and students will receive National
+Cryptologic School credit for completing this course.
+
+(U//FOUO) To watch the RT-RG overview or any of the training videos , click here or type
+"go dragontamers" in your web browser. (If you have trouble accessing these links, click on RT-
+RG Overview Video .)
+
+(S//SI//REL) For previous SID today reporting on RT-RG and the Dragon TAMERS, see How
+Does the mOc Contribute to RT10? .
+
+(U) Notes:
+
+* (S//SI//REL) VoiceRT indexes, tags, and searches intercepted voice to enable analysts to find
+relevant cuts and sort through much larger amounts of traffic based on content.
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108

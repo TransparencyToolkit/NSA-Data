@@ -1,0 +1,462 @@
+TOP SECRET//COMINT//RELTO USA, FVEY
+
+\\
+
+(U//FOUO) In-Flight GSM
+
+S32423/S3T1
+
+The overall classification of this briefing is TOP SECRET//COMTNT//REI,
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+Derived From: NSA/CSM 1-52
+Dated: 8 January 2007
+Declassify On: 20320108
+
+(U//FOUO) Travel Persona Pod
+
+POD50
+
+(S//REL) Analysis of travel activity
+carried in Short Message Service (SMS)
+and GSM traffic
+
+SECRET//COMINT//RELTO USA, FVEY
+
+(U//FOUO) Key GSM Terms
+
+(U//FOUO) GSM - Global System for Mobile
+Communictaions
+
+(U//FOUO) MS - Mobile Subscriber
+
+(U//FOUO) IMS! - International Mobile
+Subscriber Identity
+
+(U//FOUO) MSISDN - MS Integrated Services
+Digital Network Number
+
+(U//FOUO) VLR Visitor Location Register
+
+(U//FOUO) HLR - Home Location Register
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+w
+
+
+
+i	UNCLASSIFIED//FOR OFFICIAL USE <	DNLY
+1	ft	
+
+U//FOUO) What is In-Flight GSM?
+
+(U//FOUO) The ability for a Mobile
+Subscriber to use GSM services while
+traveling onboard an aircraft
+
+
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(U//FOUO) How In-Flight GSM is
+
+Implemented
+
+AeroMobile System Topology
+
+PSTN
+
+
+
+Satellite Bearer
+
+<7
+
+SATCOM
+
+
+
+' Pico cell
+N system
+
+Aircraft
+
+Ground Earth
+Station
+
+/
+
+v
+
+GSM
+
+Server
+
+Local
+
+VT,R
+
+Mobile
+
+Swifrhmg
+(.'entre
+
+7 \
+
+Global Mobile
+Switching centre
+
+/
+
+Existing
+
+EquiprneiiL
+
+AeroMobile
+
+Components
+
+Mobile Network
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+40000
+
+30000
+
+£0000
+
+10000
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(U//FOUO) Popularity
+
+2008 In-Flight GSM Activity
+
+50,000th Subscriber
+
+Commercial
+Announcement March
+20. 2008
+
+0
+
+anuary
+
+■l.
+
+March
+
+0
+
+May
+
+July
+
+September November
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+Number of Events
+
+
+
+
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+IV
+
+(U//FOUO) Popularity
+
+2009 In-Flight GSM Activity
+
+0000
+
+52500
+
+35000
+
+17500
+
+January
+
+100.000th s
+
+February
+
+March
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+Number of Events
+
+(U//FOUO) Popularity
+
+(U//FOUO) Jan - Dec 2008 the usage roughly
+doubled every month.
+
+(U//FOUO) Took 9 Months (March 20 to Dec.
+16) to reach 50K users.
+
+(U//FOUO) Took 2 months (Dec 17 to Feb 15)
+to reach the 2nd 50K users. (100K in 11
+months)
+
+(U//FOUO) Last count 160,170 (as of
+3/20/2009)
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+//FOUO) Reasons for Increase
+
+(U//FOUO) More planes equipped with
+In-Flight GSM capability
+
+(U//FOUO) Less fear that plane will
+crash due to making/receiving a call
+
+(U//FOUO) Not as expensive as people
+thought
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+/
+
+r*
+
+•<
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(U//FOUO) Who’s Implementing In-
+
+Flight GSM
+
+Inmarsat
+Swift64/SwiftBroadBand
+GSM/S MS/GPRS
+
+Inmarsat
+
+Classic
+
+GSM/SMS
+
+AeroMobile
+VLR=88299100999
+901 14
+
+Malaysia Air
+
+Emirates
+
+A340-Dubai-Cas-EK751
+Boeing 777-Dubai-London EK005
+
+Shenzhen
+
+AirFrance
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(S//REL) Finding In-Flight GSM
+
+searches on in-flight related articles
+
+•	(S//REL) Continued Google searches using
+AirGap account to get more commercial
+details on in-flight GSM
+
+•	(U//FOUO) Found that in-flight providers lik<
+to say who’s “onboard” with their solution
+
+•	(U//FOUO) Airline’s provide good usable
+
+----Aion in Press Releases
+
+SECRET//COMINT//RELTO USA, FVEY
+
+
+
+f
+
+U//FOUO) Emirates Press Release
+
+hM°
+
+Gobi's
+
+
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+w
+
+SECRET//COMINT//REL TO USA, FVEY
+
+
+
+C//REL) NSA Database Searching
+
+
+
+(S//SI//REL) The “Welcome onboard Emirates”
+text search in DISHFIRE was my initial
+lauching point
+
+(S//SI//REL) ASSOCIATION searches are
+easy way to find In-Flight activity
+
+(S//SI//REL) CHALKFUN used to confirm
+roaming and mentioned flights
+
+(S//SI//REL) FASTSCOPE used to provide
+
+of individual’s travel
+
+SECRET//COMINT//RELTO USA, FVEY
+
+TOP SECRET//COMINT//RELTO USA, FVEY
+
+S//SI//REL) ASSOCIATION
+
+E-EVENT_DATE
+1/23/2009 15:58
+
+1/23/2009 17:40
+
+E-IMSI
+
+E-MSISDN
+
+1/23/2009 17:53
+
+1/23/2009 17:53 -
+
+1/23/2009 19:16
+
+E-VLR_CONFIRMED
+923210002026-N
+
+88299100999-N
+
+88299100999-C
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+(TS//SI//REL) CHALKFUN
+
+TOP SECRET//COMINT//RELTO USA, FVEY
+
+EVENT_DATE	VLR	COUNTRY	LOCATION
+20090123 15:58:39	923210002026	PAKISTAN	UNKNOWN
+20090123 17:53:55	88299100999	AERONAUTICAL	UNKNOWN
+2009012317:53:56	88299100999	AERONAUTICAL	UNKNOWN
+20090126 07:41:03	923452000003	PAKISTAN	KARACHI
+20090126 07:41:04	923452000003	PAKISTAN	KARACHI
+20090126 07:41:04	923452000003	PAKISTAN	KARACHI
+2009012615:08:19	923210002002	PAKISTAN	UNKNOWN
+20090131 05:46:45	923455000036	PAKISTAN	ISLAMABAD
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+S//REL) So we see In-Flight GSM now
+
+(S//REL) We can see it now on daily basis.
+
+(S//REL) We see that its use is increasing
+daily.
+
+(S//REL) How long has data been in Agency
+databases?
+
+(S//REL) Started perfonning same
+ASSOCIATION query prior to March 20,
+008.
+
+SECRET//COMINT//RELTO USA, FVEY
+
+(U//FOUO) Here’s what I found
+
+(TS//SI//REL) First instance of VLR activity
+was to VLR 88299100999 (Aeromobile) on
+Oct. 2, 2006
+
+(TS//SI//REL) The first instance on an OnAir
+VLR was to VLR 8829800201 on Nov. 23,
+2006
+
+(TS//SI//REL) The first instance of a target
+registering with In-Flight service was on May
+, 2007 to OnAir's VLR 8829800202
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+w
+
+TOP SECRET//COMINT//RELTO USA, FVEY
+
+\\
+
+
+
+(U//FOUO) Importance
+
+(TS//SI//REL) Can track a target while
+onboard an aircraft
+
+Data association of I MS I,
+
+(TS//SI//REL)
+MSISDN, Flic
+
+(JS//SI//REL)
+
+Taraet
+
+Flight, Proof number on an airplane
+
+Confirm suspected travel of a
+
+arget
+
+(S//SI//REL) Assist in determining when to
+turn on/off collection (approach US border)
+
+VLR’s for voice
+
+ollection (NSA could “own” the air)
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+U//FOUO) Continuing Research
+
+(U//FOUO) More extensive evaluation of
+data
+
+(S//SI//REL) Looking for GPRS activity
+
+(S//SI//REL) Identify vendor hardware
+
+(S//SI//REL) Identify specific aircraft with
+solution installed
+
+SECRET//COMINT//RELTO USA, FVEY
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+i	-«■■/	1
+
+QUESTIONS?
+
+(U//FOUO) Contact Information
+
+SI D-Today Article posted 3/20/2009
+
+TOP SECRET//COMINT//REL TO USA, FVEY

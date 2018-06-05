@@ -1,0 +1,379 @@
+THIEVING MAGPIE
+
+Using on-board GSM/GPRS services to
+
+track targets
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+
+
+On board GSM
+Services
+
+CCHQ
+
+•	Many airlines are offering on-board mobile
+phone services, particularly for long haul
+and business class (list is growing)
+
+•	At least British Airways are restricting the
+service to data and SMS only - no voice
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+CCHQ
+
+Access
+
+Comms are ‘backhauled’ to global
+networks via Inmarsat BGAN satellite
+terminals
+
+If flight is in Inmarsat’s Europe, Middle
+East or Africa (EMEA) region we should
+have complete access (including content)
+via Project SOUTHWINDS
+Global coverage via SOUTHWINDS is
+
+5A, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor
+information legislation. Refer disclosure requests to GCHQ on I
+
+ther UK
+
+BGAN coverage post satellite repositioning
+
+This map Pap eta Irma-tat'* a»po-tatiooa o? coverage post repoutrcnirg o* t» I A
+sato :-m. This mao dcaa tot mp-eient a gua-antec -t service The ava'at Ity o»
+»'*iee at tho edge O# ccvorago af«aa fluctuates cooar.dng on vanoje cood 0or;.
+
+inmarsat.com/coveragG
+
+>>
+
+Inmarsat
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+Air France will begin commercial trials of mobile telephony on its A318
+
+GSM Control Panel
+
+•	On/off
+
+•	Tap don't talk mode
+(period 1)
+
+•	Tap & talk mode
+
+(period 2)	y
+
+On/Off
+
+Local
+
+operators
+
+3 Modem
+
+1 Picocell/onboard channel selector
+
+This airborne system provides the radio interface
+to mobile phones in the cabin, isolating them from
+terrestrial phone networks.
+
+GSM server
+
+Manages communications
+(phone calls, SMS, etc.)
+centrally, connecting to
+the ground infrastructure
+via an air-to-ground link.
+
+®cruisin9
+
+Manaqes the data link between
+aircraft and telecommunications
+satellite.
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________________________________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+CCHQ
+
+yj
+
+SM Services
+
+•	Provided by two main providers, OnAir
+and Aeromobile (only access to OnAir at
+present)
+
+•	Offer voice, SMS and data (when above
+10,000 ft)
+
+•	Mostly on newer aircraft, but ishgiagrfjgj
+
+AeroMobile
+
+oni
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor____________
+
+information legislation. Refer disclosure requests to GCHQ on
+
+ther UK
+
+Airlines (Current and
+Planned)
+
+j | AeroMobile	—	
+	varnurs of	awmc	,**">	|
+
+•	OnAir
+
+•	BA
+
+•	Egypt Air
+
+•	Oman Air
+
+•	Royal Jordanian
+
+•	TAP Portugal
+
+•	Wataniya Airways (Kuwait)
+
+•	Libyan Airlines
+
+•	Air Asia
+
+•	TAM Airlines (Brazil)
+
+•	Hong Kong Airlines
+
+•	Singapore Airways
+
+•	Afriqiyah Airways
+
+•	Aeroflot
+
+•	Qatar Airlines
+
+•	Etihad
+
+•	Sharjah Ruler’s Flight
+
+Aeromobile (Telenor)
+
+Emirates
+
+Malaysian Airlines
+Virgin Atlantic
+Air New Zealand
+Turkish Airlines
+Cathay Pacific
+Lufthansa
+Malaysia
+Qantas
+V Australia
+DragonAir
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+Tracking Targets
+
+CCHQ
+
+ITT.
+
+•	If a targets phone is switched on, it will
+attempt to register to its home network that
+it using the OnAir service - even if they
+don’t actually make/receive a call
+
+•	Registration requests can be combined with
+the flight number/callsign of the aircraft
+
+•	Available in near real time (approximately
+10 minute delay)
+
+•	Additional & unique Geolocation events
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor _ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+Cell-IDs
+
+m-VEL
+
+CCHQ
+
+.
+
+•	Each aircraft has at a dedicated GSM LAC with
+up to three Pico cells
+
+•	Usually Cell-IDs begin 901-15, but Aeroflot use
+MNC 32 (Megafon) instead (presumably for legal
+intercept)
+
+•	GSM reference data can be enriched with Airline
+name, but not location
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+Event Details
+
+User A raw
+value
+
+liter A
+
+display name
+
+User B role User B type
+
+User II
+
+User B
+display nam
+
+l ri. 2 3 Mar 20l2l3^S6^22GMT-telephonyevent(abis)unknown call, 2 selectors, duration: 00:00:00
+
+Unknown
+
+Unknown
+
+nonvolatile
+
+nonvolatile
+
+not.ovorfoble
+
+nonvolatile
+
+tvent & Intercept Protective Marking:
+
+SFfRFT STRAPI
+
+TOP SECRET//COMINI7/REL TO USA. FVEY STRAPI
+This information is exempt from disclosure under the Freedom of Infor
+
+information legislation. Refer disclosure requests to GCHO on \~
+
+ther UK
+
+GPRS Events
+
+PAB
+
+CCHQ
+
+I. ITY.DCVELnrNt
+
+•	Currently able to produce events for at least
+Blackberry phones in flight
+
+•	Able to identify Blackberry PIN and
+associated Email addresses
+
+•	Tasked content into datastores, unselected
+to Xkeyscore, further details of usage
+available
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor____________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+In-flight data
+
+DEVELOPMV
+
+• Data usage is largely as expected, with a couple of
+exceptions
+
+-	Webmail
+
+-	Social Networking (Facebook, Twitter etc)
+
+-	‘Travel apps’ Google Maps, Currency converters
+
+-	Media
+
+-	VOIP
+
+-	Bitorrent
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ____________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+Travel Tracking
+
+CCHQ
+
+.
+
+^VELOPMl
+
+*	We can confirm that targets selectors are on board
+specific flights in near real time, enabling
+surveillance or arrest teams to be put in place in
+advance
+
+*	If they use data, we can also recover email
+address’s, Facebook Ids, Skype addresses etc
+
+*	Specific aircraft can be tracked approximately
+every 2 minutes whilst in flight
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor ___________________________ther UK
+
+information legislation. Refer disclosure requests to GCHQ on
+
+ANY QUESTIONS?
+
+TOP SECRET//COMINT//REL TO USA, FVEY STRAP 1
+
+This information is exempt from disclosure under the Freedom of Infor___________
+
+information legislation. Refer disclosure requests to GCHQ on
+
+ther UK

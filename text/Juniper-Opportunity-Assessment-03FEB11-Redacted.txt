@@ -1,0 +1,398 @@
+TOP SECRET STRAP1
+
+ASSESSMENT OF INTELLIGENCE OPPORTUNITY - JUNIPER
+
+03 February 2011
+
+Executive Summary
+Background
+
+•	Juniper Networks, Inc. headquartered in Sunnyvale, California, USA is a high-performance
+Internet Protocol network products company. Juniper's main products include T-series, Mi-
+series, E-series, MX-series, and J-series families of routers, EX-series Ethernet switches, and
+NetScreen and SRX-series security products.
+
+•	While Juniper is not necessarily the market share leader in any one space, they are a strong
+competitor and technology leader across several important markets from a SIGINT
+perspective. Juniper is at the core of the Internet in many countries by virtue of providing the
+highest density routers for many years.
+
+•	Juniper’s leadership in core IP routing and the Enterprise Network Firewall and SSL VPN
+markets means that the SIGINT community should keep up with Juniper technology to be
+positioned to maintain CNE access over time.
+
+Currently exploit capability
+
+•	Juniper NetScreen Firewalls models NS5gt, N25, NS50, NS500, NS204, NS208, NS5200,
+NS5000, SSG5, SSG20, SSG140, ISG 1000, ISG 2000. Some reverse engineering may be
+required depending on firmware revisions.
+
+•	Juniper Routers: M320 is currently being worked on and we would expect to have full
+support by the end of the 2010.
+
+Recommendations and Expected Outcomes
+
+•	Discover Juniper equipment on networks in hard target countries to assess potential Juniper
+exploitation opportunities with existing capabilities.
+
+•	Assess potential additional targetable networks if additional equipment models could be
+exploited (e.g. if we could exploit MX-series routers, then networks X, Y, & Z could be
+exploited).
+
+•	Assess an effort to exploit the JUNOS operating system.
+
+egree to GCHQ Access Strategy Team (OPA-ACD),
+
+03FEB11
+
+1 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+Table of Contents
+
+Executive Summary
+
+1
+
+Juniper Overview
+2
+
+Juniper Corporate History
+2
+
+Current product series
+3
+
+Juniper as a Target
+
+4
+
+Juniper as a Threat
+
+5
+
+Target Usage of Juniper
+5
+
+Current and Planned Work to Exploit Juniper
+
+5
+
+Assessment of Potential Opportunity
+
+6
+
+Recommendations and Expected Outcomes
+
+6
+
+Juniper Overview
+Juniper Corporate History
+
+Juniper Networks, Inc. (NYSE:JNPR) headquartered in Sunnyvale, California, USA is a high-
+performance Internet Protocol network products company founded in 1996. Juniper's main
+products include T-series, M-series, E-series, MX-series, and J-series families of routers, EX-series
+Ethernet switches, and NetScreen and SRX-series security products. Juniper's JUNOS network
+operating system runs on most Juniper products.
+
+In 1995 Pradeep Sindhu, a principal scientist at Xerox's Palo Alto Research Center, returned from
+vacation with the idea to start a company to supply high-performance routers to support the
+quickly emerging Internet. Sindhu started the company in February 1996 with $200,000 in seed
+money. He recruited engineers Bjorn Liencres from Sun Microsystems and Dennis Ferguson from
+MCI. For business expertise Sindhu recruited Scott Kriens, co-founder of StrataCom. Juniper
+
+2 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+considers technology development to be a strategic advantage and despite the economic downturn
+in 2008 famously decided against cuts in the $800M R&D budget.
+
+Juniper shipped its first product, the M40 router, in September 1998. The product was a first-ever
+implementation of packet forwarding that could sustain line-rate packet forwarding across eight
+OC48c ports in a half-rack form factor. This was a critical technological improvement that allowed
+unconstrained Internet growth and gained Juniper a place in a market formerly dominated by Cisco
+Systems. Juniper maintained market momentum by delivering the M160 achieve OC-192
+forwarding rates. By 2000 Juniper took 30% of the Internet core router market.
+
+In 2002 Juniper announced the T640 capable of 40 Gigabit/slot performance and terabit-level
+system scaling. In 2002 Juniper also announced plans to expand its line of Internet core routers to
+the edge and started scoping other markets such as enterprise routing/switching and security. By
+the end of 2002 Juniper had penetrated the broadband aggregation segment with the Juniper E-
+series. This move towards the edge was further supported by extending the Juniper M-series
+technology towards network edge with M40e (2002)and M7i-M10i (2003) systems. Next, Juniper
+moved into enterprise and security space with technology acquired from NetScreen Technologies
+as well as the internally developed low-end J-series router family.
+
+In 2006 Juniper delivered a highly-integrated, edge-specific 10 Gbit/s chipset (I-Chip) that formed
+the basis for a highly redundant M120 edge router and the Juniper MX-series of Ethernet-specific
+carrier routers. Driven by the growing importance of Ethernet services MX-series gained in excess
+of 250 accounts in less than 18 months and lends its hardware to SRX-series security appliances.
+The 2009 generation of MX delivers up to 120Gbps (full-duplex) per slot.
+
+In 2007 on the core side of the business Juniper released a 100Gbps/slot Juniper T1600 router. The
+T1600 was the densest core router commercially available going into 2010 and is the first product
+to deliver a commercial implementation of the 100GE interface (802.3ba).
+
+JUNOS is the in-house Operating System that runs on most of Juniper's networking equipment
+spanning routing, switching and security platforms. JUNOS was the first commercially available
+full-fledged modular OS with full memory protection available for routing products. JUNOS
+competes against other modular systems such as Cisco IOS-XR and Alcatel-Lucent SR-OS.
+
+JUNOS features both vertical and horizontal modularity, and provides APIs for third-party
+applications known as "JUNOS Space". Although JUNOS was originally derived from FreeBSD
+subsequent product development resulted in major kernel and infrastructure improvements like In-
+Service Software Upgrade and real-time packet forwarding plane.
+
+Current product series
+
+•	E-series routers are broadband edge routers. The E series was developed by Unisphere, which
+Juniper acquired in 2002. The E series routers run the JUNOS operating system inherited from
+acquisition of Unisphere. The J, M, T, and MX series routers run JUNOS.
+
+•	J-Series routers are small customer-premises equipment or enterprise routers.
+
+•	M-series routers are multiservice edge routers.
+
+•	T-series routers are large core routers.
+
+•	MX-series routers are Ethernet services routers.
+
+EX Series Switches - Juniper's switch products were introduced in 2008 and run JUNOS. Available
+in fixed and modular form factors with full or partial PoE functionality, EX represents Juniper's bid
+
+3 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+for enterprise and cost-optimized Ethernet markets, augmenting the "One Operating System"
+strategy and generating $74 million in revenue during 4Q2009.
+
+SRXSeries Dynamic Service Gateways is a series of security services devices running JUNOS.
+Ranging from branch-office models to the SRX 5800, the world's fastest firewall. Combines
+security, routing and switching in one chassis. Security features include the full UTM functionality
+previously found on ScreenOS, including web filtering, IDP and anti-virus.
+
+The NetScreen SSG Series and ISG Series firewalls run the ScreenOS operating system and
+provide firewall, anti-virus, intrusion protection and VPN services. Acquired with NetScreen
+Technologies, they run ScreenOS rather than JUNOS. These target small and medium-sized
+business. The ISG series is capable of more advanced IDP and virtualisation functionality and
+higher performance.
+
+Secure Access products provide SSL-based VPN services to remote users without specialized
+clients. NSM Network and Security Manager is an enterprise-wide management tool for Juniper
+devices that features single-point bastion control over multiple Juniper devices, a syslog host and
+configuration backup repository, and the NSMXpress appliance that provides distributed
+hierarchical features.
+
+Intrusion detection and prevention appliances.
+
+Other Products
+
+•	WX and WXC — series WAN Accelerators -
+
+•	UAC Unified Access Control
+
+•	Odyssey Access Client - 802.1x supplicant
+
+•	Security Threat Response Manager (STRM)- Juniper sells an OEM version of Q1 Labs'
+QRadar product running on Juniper hardware.
+
+Juniper's principal subsidiaries hold its international operations. They include Juniper Networks
+K.K. (Japan), Juniper Networks B.V. (Netherlands), Juniper Networks International Limited
+(Cayman Islands), Juniper Networks FSC Inc. (Barbados), Juniper Networks U.K. Ltd. (United
+Kingdom), Juniper Networks GmbH (Germany), Juniper Networks France Sarl (France), Juniper
+Networks Australia Ltd. (Australia), Juniper Networks Hong Kong Ltd. (Hong Kong), Juniper
+Networks South Asia Ltd. (Hong Kong), Juniper Networks China Ltd. (Hong Kong), Juniper
+Networks Canada Inc. (Canada), Juniper Networks International, Inc and Juniper Networks India
+Pvt Ltd (India).
+
+Juniper as a Target
+
+While Juniper is not necessarily the market share leader in any one space, they are a strong
+competitor and technology leader across several important markets from a SIGINT perspective.
+Juniper is at the core of the Internet in many countries by virtue of providing the highest density
+routers for many years. As telecommunications service providers move toward all IP networks,
+Juniper will play an increasingly central role in converged networks. Juniper has proven adept at
+leveraging their high density server technology to challenge market leaders in both the edge server
+and enterprise network firewall markets. In another somewhat niche market but one that is very
+important to SIGINT, Juniper is viewed as the ablest competitor selling SSL VPN technology.
+
+•	Well Established Position in the Carrier Space with high density routers
+
+•	Credible competitive alternative to Cisco dominance of core routing
+
+4 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+•	Carrier Ethernet Growing in Volume and Scope
+
+•	IP Traffic Growth Continues Unabated
+
+Juniper as a Threat
+
+Juniper’s leadership in core IP routing and the Enterprise Network Firewall and SSL VPN markets
+means that the SIGINT community should keep up with Juniper technology to be positioned to
+maintain CNE access over time. The threat comes from Juniper’s investment and emphasis on
+being a security leader. If the SIGINT community falls behind, it might take years to regain a
+Juniper firewall or router access capability if Juniper continues to rapidly increase their security.
+
+Target Usage of Juniper
+
+Global IP Networks - Juniper core routers can be found throughout the Internet and all other
+high capacity IP networks. Examples are too numerous to cite. A FLAG Telecom case study is
+available as an example.
+
+Pakistan - Juniper firewalls are central to the very high priority HEADRESS NU project
+targeting a Pakistan government/military secure network. While the core Internet routers in
+Pakistan are all Cisco, Juniper is often seen as an edge router on networks connected to the core.
+Juniper routers are deployed in the Mobilink network and possibly Telenor.
+
+Afghan - No evidence of Juniper presence
+
+CT Broker - Although Juniper has been mentioned in connection with the Broker target on a
+number of occasions, the only evidence that has been seen is of a Juniper router being used in a
+small scale trial that wasn't taken any further.
+
+CT Yemen - Juniper provide Security Hardware for the Yemen Telecom and a firewall for
+TeleYemen's VoIP connection to Verizon.
+
+CT Saudi Arabia -
+
+China - Juniper have a strong presence in China through Juniper Networks China Ltd. Based
+in Hong Kong. A Jiangxi eGovernment case study is available as an example. A press release is
+included below as another example of Juniper in China.
+
+Juniper Networks Routing Platforms Form Core of China's Next-Generation Internet
+
+T-series Core Platform and M-Series Multiservice Routers Provide Infrastructure for World's
+Largest IPv6 Network
+
+SUNNYVALE, Calif., November 30th, 2005 - Juniper Networks, Inc. (NASDAQ: JNPR)
+today announced that its M- and T-series routing platforms have been selected for the core of
+the China Next Generation Internet (CNGI) project. The CNGI project is a Chinese
+government-funded initiative to promote Internet Protocol version 6 (IPv6) throughout China,
+and is expected to become the largest IPv6 network in the world. Juniper Networks platforms
+were selected for their proven, industry-leading IPv6 capabilities, and will be deployed in
+CNGI's participating networks, including the China Education and Research Network
+(CERNET2), China Mobile, China Netcom, China Railcom, China Telecom and China
+Unicom.
+
+Current and Planned Work to Exploit Juniper
+
+GCHQ currently has exploit capability against:
+
+5 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+•	Juniper NetScreen Firewalls models NS5gt, N25, NS50, NS500, NS204, NS208, NS5200,
+NS5000, SSG5, SSG20, SSG140, ISG 1000, ISG 2000. Some reverse engineering may be
+required depending on firmware revisions.
+
+•	Juniper Routers: M320 is currently being worked on and we would expect to have full support
+by the end of the 2010.
+
+•	No other models are currently supported.
+
+•	Juniper technology sharing with NSA improved dramatically during CY2010 to exploit several
+target networks where GCHQ had access primacy.
+
+Assessment of Potential Opportunity
+
+The ability to exploit Juniper servers and firewalls will pay many dividends over the years.
+
+Juniper is already a major hardware provider across the Internet today. With the growth of
+converged IP networks and Juniper’s technology leadership we should expect Juniper opportunities
+to grow significantly over the next several years. Juniper is a strong competitor to Cisco when a
+buyer seeks an alternative supplier who is also a technology leader. Huawei is another competitor
+in the same space when a buyer seeks a lower cost alternative supplier.
+
+Juniper carries a potential opportunity and complication by being a US company. There is
+potential to leverage a corporate relationship should one exist with NSA. Any GCHQ efforts to
+exploit Juniper must begin with close coordination with NSA.
+
+The Juniper family of products are somewhat homogenous in their use of the JUNOS operating
+system. This could create opportunities to exploit security vulnerabilities in JUNOS and
+extrapolate them to a wider range of Juniper routing product lines.
+
+Recommendations and Expected Outcomes
+
+2.	Exploit What’s Available Today (EWAT): Capture Existing Opportunities
+
+•	Document current capabilities to exploit Juniper equipment.
+
+•	Discover Juniper equipment on networks in hard target countries (potential Juniper
+exploitation opportunities).
+
+•	Validate potential Juniper exploitation opportunities against 1) fit with current Juniper
+exploit capabilities 2) target centric evaluation of potential intelligence benefit.
+
+•	Impact assessments against validated Juniper exploitation opportunities and business
+decision to pursue or not.
+
+3.	Expand Juniper Exploit Capabilities: Create Future Opportunities
+
+•	Discover Juniper equipment on networks in hard target countries (potential Juniper
+exploitation opportunities).
+
+•	Assess potential additional targetable networks if additional equipment models could be
+exploited (e.g. if we could exploit MX-series routers, then networks X, Y, & Z could be
+exploited).
+
+•	Assess potential intelligence benefit if additional networks could be exploited.
+
+•	Impact assessments of creating exploits of additional Juniper models.
+
+4.	JUNOS Exploitation:
+
+6 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1
+
+TOP SECRET STRAP1
+
+•	The vast majority of current Juniper exploits are against firewalls running the ScreenOS
+operating system.
+
+•	Juniper will migrate all products to the JUNOS operating system over time.
+
+•	An effort to ensure exploitation capability of JUNOS should bear fruit against a wide range
+of Juniper products.
+
+7 of 7
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other
+UK information legislation. Refer disclosure requests to GCHQ on 01242 221491 x30306, email infoleg@gchq.gsi.gov.uk
+
+TOP SECRET STRAP1

@@ -1,0 +1,269 @@
+TOP SECRET//COMINT//NOFORN
+
+CLOSE «
+ACCESS
+
+Introduction to WLAN / 802.11
+Active CNE Operations
+
+December 15-16, 2010
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Classification
+
+CLOSE
+
+ACCESS
+
+The overall classification of this
+
+presentation is
+
+All slides and materiels contained in this
+presentation should be considered
+classified TS//SI//NF
+
+(unless otherwise noted)
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Section Overview
+
+CLOSE
+
+ACCESS
+
+>*■ Passive to Active Operations
+WLAN CNE Criteria/Assessment
+Active CNE Operations
+Introduction to FOXACID
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+At The End...
+
+CLOSE
+
+ACCESS
+
+I You should be able to....
+
+^ Identify Criteria for CNE Assessment.
+List the Active CNE Operational Process
+Describe the purpose of FOXACID.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Passive to Active Operations
+
+CLOSE
+ACCESS
+
+>■ Primary Goal: To enable on-net access to
+target networks via off-net capabilities.
+
+Prerequisite: We need to find the network
+of interest in order to target it.
+
+Procedure: Conduct passive survey to
+locate network, then perform active op.
+
+^ Solution: Utilize BLINDDATE and the
+appropriate plug-in solution(s).
+
+
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Passive to Active Operations
+
+CLOSE
+ACCESS
+
+Successful operation of BLINDDATE is
+essential to correct usage of plug-ins.
+
+Two types of plug-ins exist:
+
+| Analysis Tool Aids
+] Active CNE Tools
+
+>■ We will focus on Active CNE Tools:
+
+j NIGHTSTAND
+I HAPPYHOUR
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Active CNE Assessment
+
+CLOSE ^
+ACCESS
+
+BLINDDATE used as both a survey and
+vulnerability analysis tool for 802.11
+networks.
+
+>- Operator needs to know what
+vulnerabilities, or criteria, to look for in order
+to utilize the correct Active CNE Tool (if any)
+
+^ We will focus primarily on criteria
+necessary to carry out NIGHTSTAND (NS)
+and BADDECISION (BDN) operations.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Active CNE Operations
+
+CLOSE
+
+ACCESS
+
+^ What is our end goal?
+
+Provide on-net access via off-net means.
+How do we do that?
+
+Redirect the target to the TAO infrastructure.
+
+How do we do that?
+
+Inject payload destined for the target client.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Active CNE Operations
+
+CLOSE ^
+ACCESS
+
+What does that do exactly?
+
+Forces the target to covertly contact a
+FOX ACID server.
+
+>• What is FOXACID suppose to do?
+
+5^ Perform vulnerability analysis and exploitation
+of the target (if possible).
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Introduction to FOXACID
+
+CLOSE
+
+ACCESS
+
+^ FOXACID is the cover term for a DNT/ROC
+project to deliver content based exploits
+(CBE) to web browsers.
+
+The greatest vulnerability to your
+computer: your web browser.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Introduction to FOXACID
+
+CLOSE
+
+ACCESS
+
+^ FOXACID Servers sit on Internet.
+
+Publicly addressable, DNS resolved.
+Utilizes whitelist for security, filtering.
+
+Requires specially crafted URL tag to
+contact FA Servers (FOXACID Tag).
+
+TOP SECRET//COMINT//NOFORN
+
+Example Tag
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE ^
+ACCESS
+
+http://	/PluginName/PluginName2/	/	/	/DeploymentlDTLN_ .html
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+FOXACID Tags
+
+#4
+
+CLOSE
+
+ACCESS
+
+*	Designed to look ambiguous.
+
+*	Unique for a particular target / operation.
+
+■ All fields in the tag denote something
+special...
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Redirection to FOXACID
+
+CLOSE
+ACCESS
+
+A FOXACID Tag is a special URL pointing
+to a particular FOXACID Server.
+
+Contacting the FA Server will (hopefully)
+result in the contactor being exploited.
+
+>■ We want the target to be exploited.
+
+>■ How do we redirect the target to the
+FOXACID Server without being noticed.
+
+Use NIGHTSTAND or BADDECISION
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+The End.
+
+Questions?
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE
+
+ACCESS

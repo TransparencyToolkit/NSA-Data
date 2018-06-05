@@ -1,0 +1,62 @@
+TOP SECRET//COMINT//NOFORN
+
+OAKSTAR Weekly Update
+
+Program Highlights Week of: March 16-22, 2013
+ETS:
+
+PRIMECANE
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+MONKEYROCKET: (U//FOUO) Receiving larger volume of traffic from partner
+impacting data distribution through the diode causing delays in files being forwarded to
+the XKS. Updated some move scripts and tweaked some parameters in the OWL file
+send process to manage accordingly and stabilize. NIAGARAFILES software was
+moved from its own standalone server to the high side server to increase some data
+pushing efficiencies.
+
+(U//FOUO) ETC technician!
+
+to be in NBP320 area beginning of April to
+
+hand carry a couple more OWL cards to site. Once cards and fiber are integrated, will
+begin working procedures for load balancing traffic as the access continues to grow.
+
+TRANSPORTPRO: (TS//SI) Diagnosed and fixed problem that occurred over the
+
+ODD:
+
+Overview:
+
+(S) OAKSTAR 2013 serialized product report totals: 396 reports and 2299 GISTs.
+(S) There is one open/active REMEDY ticket for OAKSTAR.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+MONKEYROCKET: Day 239
+
+(U) 2013 = 1 report (they were 1 of 43 sources for the report, but hey, it’s the 1st)
+
+(S//SI//REL) MARINA is transitioning to CLOUDRUNNER and our daily and
+weekly metrics have hit another error. A new ticket has been created to address
+this issue on 04March 2013 and updated 11 March 2013. Ticket number:
+MARINA-9940. (SNM)
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+(TS//NF) 15 MAR 13 Meet with S2G to follow-up the NCSC TOPI briefing and
+answer their questions on the type of data, how to perform discovery in XKS, and
+the data retention rates. (SNM)
+
+TOP SECRET//COMINT//NOFORN

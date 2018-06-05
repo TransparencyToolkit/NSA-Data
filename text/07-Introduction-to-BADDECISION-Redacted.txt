@@ -1,0 +1,498 @@
+TOP SECRET//COMINT//NOFORN
+
+CLOSE «
+ACCESS
+
+Introduction to BADDECISION
+
+December 15-16, 2010
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Classification
+
+CLOSE
+
+ACCESS
+
+The overall classification of this
+
+presentation is
+
+All slides and materiels contained in this
+presentation should be considered
+classified TS//SI//NF
+
+(unless otherwise noted)
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Section Overview
+
+CLOSE
+
+ACCESS
+
+I>- BADDECISION Overview
+BADDECISION Components
+BADDECISION Prerequisites
+>* BADDECISION Operational Flow
+>* BADDECISION Step Through
+l>- Instructor-led Demos and Labs
+BADDECISION Pros /Cons
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE «
+ACCESS
+
+At The End...
+
+I You should be able to....
+
+>- Understand BADDECISION Components
+^-Understand the BADDECISION Prereqs.
+
+»- Conduct a BADDECISION Operation. I
+»- List the Pros / Cons of NIGHTSTAND. I
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION Overview
+
+CLOSE
+ACCESS
+
+^ BADDECISION is an “802.11 CNE tool that
+uses a true man-in-the-middle attack and a
+frame injection technique to redirect a
+target client to a FOXACID server.”
+
+>• Takes advantage of shared open medium
+and the HTTP protocol.
+
+^ Works for WPA / WPA2!
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION Prerequisites
+
+CLOSE ^
+ACCESS
+
+>■ Working BLINDDATE Survey!
+
+Client on the Target network
+
+Security Level: WPA/WPA2
+
+>■ Ability to maintain a reliable connection to
+a target network.
+
+^ Don’t forget FOXACID Tag!
+
+TOP SECRET//COMINT//NOFORN
+
+A A A A
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION Components
+
+CLOSE
+
+ACCESS
+
+^ HAPPYHOUR
+^ SECONDDATE
+Open Sources Tools
+
+macchanger
+wireshark
+nmap
+ettercap
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE ^
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE ^
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION
+
+Preparation
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE^
+
+ACCESS
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Overview of
+
+Operational
+
+Scenario
+
+>- Operator with
+
+BLINDDATE
+
+System.
+
+FOXACID Tag
+issued for Target.
+
+>- Target Client
+browsing the
+Internet via web
+browser ©
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Webpage Request
+
+>- Target issues
+HTTP GET Request
+to webpage of
+interest (cnn.com)
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Injection
+
+>- Operate uses
+SECONDDATE to
+inject a redirection
+payload at Target
+Client.
+
+»■ Target Client’s
+original HTTP GET
+Request continues
+on it’s normal path.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Refresh and
+Covert Request
+
+>- Injected payload
+forces Target Client
+to refresh and send
+another HTTP GET
+Request to desired
+webpage.
+
+Covert Request
+is issued by Target
+Client to FOXACiD
+Server.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+FOXACID
+Request Received
+
+» FOXACID
+receives request
+from entity.
+
+»■ Entity is
+validated as Target
+Client by FOXACID
+Tag.
+
+Response to
+original HTTP GET
+Request is dropped
+(but don’t worry,
+that’s good)
+
+CNN
+Web Server
+
+Internet
+
+Target
+Client
+
+Operator
+
+FOXACID
+Browser Survey
+
+FOXACID Server
+instantiates
+browser survey on
+Target Client to
+detect
+
+vulnerabilities.
+
+CNN
+Web Server
+
+Internet
+
+Target
+
+Client
+
+Operator
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+FOXACID
+Browser Survey
+
+>- FOXACID Server
+instantiates
+browser survey on
+Target Client to
+detect
+
+vulnerabilities.
+
+eb Server
+
+DSE^
+
+CESS
+
+FOXACID
+
+Server
+
+Ta
+Client
+
+Operator
+
+Point
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+Survey, Payload,
+Exploitation
+
+>- Covert
+communicates
+continue between
+FOXACID and
+Target until found
+not vulnerabilities
+or exploited.
+
+>■ Target Client
+continues normal
+webpage browsing,
+
+completely unaware
+
+©
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+WHACKED!
+
+>- That’s the
+ultimate goal.
+
+TOP SECRET//COMINT//NOFORN
+
+LULU
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE ^
+
+BADDECISION Step ThroughACCESS
+
+»- Let’s go through this together...
+
+^ ... because there are many more pieces!
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE **
+
+BADDECISION Demos and LatfsCCESS
+
+^ Grab a partner!
+
+One Target Client, one Operator.
+^ Have fun getting whacked!
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+BADDECISION Pros / Cons
+
+CLOSE '•
+ACCESS
+
+Pros
+
+Works for WPA / WPA2 networks.	I
+
+5^ Can reliability see all communications
+between target and FOXACID.
+
+Cons
+
+Larger signature than NIGHTSTAND.	I
+
+Requires higher SNR to maintain reliable
+communications between target and FOXACID.
+
+TOP SECRET//COMINT//NOFORN
+
+TOP SECRET//COMINT//NOFORN
+
+The End.
+
+Questions?
+
+TOP SECRET//COMINT//NOFORN
+
+CLOSE
+
+ACCESS

@@ -1,0 +1,721 @@
+TOP SECRET//COMINT//REL
+
+RT10 Initiative
+Overview
+
+Dr. James Heath
+
+Program Management & Advisors: COL Bob Harms / COL Barb Trent /
+
+Michelle Gerhard
+
+Architects:
+
+/ Mark Ross
+
+Presented
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+Why Innovate?
+
+•	Volume & convergence
+
+-	Front-end filters data
+
+-	Reaching limits on legacy systems
+
+•	Latency
+
+-	Processing, storing, and query
+
+-	Difficult to enable tactical operations
+
+•	Analyst Limitations
+
+-	Non-integrated tools
+
+-	Collaboration limited
+
+-	Knowledge-bases are limited
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+RT10 Overview
+
+•	Real-time, distributed architecture for mobile (tactical) and
+fixed (national) operational environments
+
+•	Provides
+
+-	Access to more comprehensive data in near real-time
+
+-	Integrated analytical workflow with complementary tools
+
+-	Real-time alerting, both national and tactical
+
+-	Integration across national-to-tactical SIGINT capabilities
+
+•	Expected Results: Order of magnitude improvements in
+real-time SIGNIT architecture for the U.S. Cryptologic
+System, focused on national to tactical intelligence,
+enabling better decisions in less time.
+
+TOP SECRET//COMINT//REL
+
+Remote Linguistic
+Support Elements
+
+Voice Processing
+Overflow
+
+Annex A Version 1.6
+
+Eists	loice  -frnspts (,ueues	Queries / Tasking /
+NSA-Georgia	
+	Feedback/
+	
+Target Knowledge	
+Linguistic Support	" Alerts / 1
+Pre-deployment Training	Refined \
+	Data	'
+A&P (NSA-W)  (Product Line TOPIs)	TTPs
+Target Knowledge	
+Tool Knowledge	RFIs
+	TNG ^
+
+Queries and Tasking
+
+Alerts / Refined Data
+
+^ens^OaHn^
+
+New Knowledge
+
+
+
+CSTs
+
+(TF-24)
+
+(4ID)
+
+CSG
+
+MNC-I
+
+(CASE)
+
+(CORP)
+
+(Marines)
+
+COBRA FOCUS
+
+Target Knowledge
+Linguistic Support
+
+> §3
+a
+
+V)
+
+►
+
+o
+
+o
+
+<
+
+05
+
+Co Q.
+
+I
+
+m	D
+3	< S
+O'	w z
+Cl)	o' 71
+V)	3 —
+<	V)
+
+MOC & Dragon Tamers
+
+Initial TTP Development
+TTP Maturation as needed
+Pre-deploy Training Base
+Develop Best Practices
+Host TTP & Best Practices Library
+
+SECRET//COMINT//REL
+
+t
+
+Tool Tradecraft Ideas
+New Tool Recommendations
+
+TOP SE
+
+/REL
+
+SIGINT Development
+GREEN DRAGON
+& RAD Elements
+
+Tradecraft and Tool Recommendations
+Analytic/Governance Advice
+Algorithm (data-mining) development
+Apply new TTPs at the National Level
+
+TOP SECRET//COMINT//REL
+
+System Block Diagram - Overview
+
+Generator #1 [trailer]
+
+E 275KW
+
+380V, 3P, 50Hz |
+
+Primary Power
+
+Generator #2 [trailer]
+
+C 275KW
+
+380V, 3P, 50Hz |
+i - —
+
+Redundant
+Power
+
+Chiller  [Connex]	40Ton  50qpm,  50Hz  45degF  Water	
+Chiller #2		
+• Chilled Water for		
+Room Cooling		
+
+Automatic
+
+Redundant
+
+Power
+
+Switchover
+
+'Boot' Van
+
+•	Security 'Screen'
+
+•	Fan-out for Water
+Lines
+
+•	Controlled
+Environmental
+Transition
+
+'Ops' Van
+
+•	User Space
+
+•	36" Desks = 8 Users
+
+•	Desktop Workstations with
+UPS
+
+ATS [connex]
+
+	d)  cr
+Auto-Transfer |	
+380V, 3P, 50Hz j	
+AC ^	Q
+
+I 2nd UPS Connex |
+
+{100KW Growth} g
+
+£
+
+208V
+3R 50Hz
+
+0
+
+0
+
+0
+
+2T
+
+c
+
+■
+
+c
+
+c
+
+j=
+
+c
+
+■
+
+■
+
+□
+
+m
+
+CDU:
+
+2KW, 208V
+3P,50Hz
+
+[
+
+5T
+
+100KW UPS
+
+208V, 3P, 50Hz
+
+Processor
+
+UPS
+
+Chiller
+
+[Connex]
+
+Chiller#!
+
+• Chilled Water
+for Processor
+
+'Processing' Van
+
+•	Server Room
+
+•	Processing Racks (up to 7)
+
+•	Comms and Support Racks (1)
+
+•	Closed Loop Cooled Racks
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+RT10 Node Architecture
+
+Tactical Collection
+
+National Collection
+
+GOLDMINER
+Dimensional Database^
+
+DNR
+
+DNI
+
+Other Data
+
+Phoneme Data/
+^Voice Prin
+
+Inline Algorithms
+
+(e.g. Dynamite,...)
+
+Queue Fed Algorithms
+
+(e.g. HLT Feed,...)
+
+Query-Fed Algorithms
+
+(e.g. SRC, ...)
+
+Alert Management and
+Alert Notification
+
+VoiceRT
+
+User Authentication & Authorization
+
+RT10Applications
+
+RT10 Geo-T	ArcGIS x.x
+Named Area of Interest	Sorting Hat/Lead
+RaptorT	Renoir, Analyst Notebook
+
+National Collection	
+GSM	
+JUGGERNAUT	
+MATTERHORN	_	
+	
+OBELISK	
+	
+Billing Records	
+	
+	
+Precision Geo	
+Precision tmitters  (TDOA/FDQA) .-	
+
+TOP SECRET//COMINT//REL
+
+RT10 Iraq SPIN 5
+
+TOPSECRET//COMINT//20291123
+
+(01 Oct-31 Dec)
+
+GOLDMINER
+Dimensional Database
+
+GSM
+
+PSTN
+
+Phoneme Data/
+-VoicePrin
+
+Inline Algorithms
+
+(e.g. Dynamite,...)
+
+Queue Fed Algorithms
+
+(e.g. HLT Feed,...)
+
+Alert Management and
+Alert Notification
+
+VoiceRT
+
+User Authentication & Authorization
+
+^m
+
+RT10Applications
+
+Action
+
+Entity Database	GeoT
+	
+SORTING LEAD	SORTING HAT
+
+TOP SECRET//COMINT//REL
+
+RT10 Deployments
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+RT10 in Baghdad, Iraq
+
+• Baghdad, Iraq
+
+-	Enable find-fix-finish operations
+
+•	Provide immediate access to national / tactical collect
+
+•	Integrate collection with geospatial alerting
+
+•	Automatically correlate target behavior with collection, ie
+pattern-of-life
+
+•	Prototype barrier monitoring systems
+
+-	Expected results
+
+•	Near-real-time data and advanced analytical tools provided to
+in-country units enable tactical decisions
+
+•	VoiceRT provides alerting on spoken selectors, speaker
+identification, language identification, and content mining
+
+•	Checkpoint data provides SIGINT tie to targets
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+RT10 Geospatial - GeoT
+
+• Geospatial awareness
+
+-GeoT
+
+•	Thin client similar to Google Maps and TIVO
+
+-	Satellite imagery / other map layers
+
+-	Overlay collection in real-time
+
+•	Integrated with targeting database
+
+-	Analyst defines named areas of interest
+
+-	Can receive alerts when targets are detected in area
+
+•	Display the health and coverage of SIGINT system
+
+-	Where are our blind spots?
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+GeoT & Real-Time Collection
+
+,
+
+.. *
+
+support I Alert Management I Tool Management
+
+Event Filtenng
+
+uocio.cn
+
+| Targets To Watch |--------
+
+Click a Target or Group name
+o edit properties)
+
+[ No Groups ]
+
+I I I I m\
+
+
+
+Jj Done
+
+TOP SECRET//COMINT//REL
+
+GeoT & Collection Status
+
+1
+
+Event Filtenng
+
+Alert Management
+
+Decision Support
+
+Tool Management
+
+Targets To Watch
+
+Click a Target or Group name
+o edit properties)
+
+n
+
+»i/
+
+ttn
+
+r-
+
+
+
+Draw Area oflnrerest
+
+C3 RT-10
+
+*	ClGSti
+
+9	National
+
+$ Infrastructure
+Q Juggernaut
+
+n ObcltsA
+
+$ C3ftir Interface
+n Matterhorn
+^	Tactical
+
+t C3 lr Interface
+Qdrt
+
+9 C3 Basel me
+
+n Irakis CBR
+Q Btheer CBR
+Q«tla Cell CBR
+
+*	C3PSTN
+
+? C3National
+
+♦ C3 InfrastrucUre
+
+Dw
+
+
+
+
+
+LiiTi
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+Integrated Target Database
+
+TOP SECRET//COMINT//REL
+
+RT10 Geospatial Integration
+
+• Logical views
+
+-	SORTING HAT (R62)
+
+•	Integrated SIGINT query
+
+-	Historical SIGINT reports (Innovisions Testflight)
+
+-	GLOBAL REACH
+
+-	GOLDMINER / RT10
+
+-	Social Relationship Clustiner (GCHQ/R62)
+
+•	Approximates social network analysis
+
+•	Uses 11 algorithms to qualitatively connect targets
+
+-	Analyst’s Notebook and Renoir (InfoVis)
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+SORTING HAT (R62)
+
+iSource status: SOfll'IlWCiUAl ASOIIHC1: Scnptng DataSourcn completed stincessftilly
+
+^
+
+
+
+3Jnfao< - MQo>:ft ...| B]^<>3M>'_-3t_-o:a:...| i'lI* _;s:»tin:h;i: N .. | ^ Java^cnscle
+
+|| jgSORTINGHAIG... VflQet_al_octave.b... | CSJBopvO 10:55AM
+
+TOP SECRET//COMINT//REL
+
+Social Relationship Clustering (GCHQ/R62)
+
+R62 Demonstrator :
+
+ial Relationship Clustering
+
+Scramble Shake R Hidden Links V Relationships V External Clusters R Freeze
+
+
+
+50+	40	30	20	10 All
+
+TOP SECRET//COMINT//REL
+
+ANB Integration (InfoVis)
+
+Renoir w/in SORTING HAT	Analyst's Notebook
+
+TOP SECRET//COMINT//REL
+
+RT10 Geospatial Integration
+
+• Geospatial transform for a logical view?
+
+-	Single selector
+
+•	Last detected activity (or that within area of interest)
+
+•	All activity (or that within area of interest)
+
+•	Others: timeline view, color coded based on activity, area of
+interest, etc.
+
+-	Graph
+
+•	Some variation of single selector with graph overlaid
+
+•	Every instance of activity between two callers
+
+-	What transformation does the analyst expect?
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+Precise Geolocation of Handset
+
+• Increasing precision with GSM geolocation
+
+-	RT10 is situated at front-end
+
+•	More access to timing advance data
+
+-	Several RT10 and agency efforts
+
+•	Manipulate GSM infrastructure to have data from
+multiple cell towers
+
+•	SHARPFOCUS-2 (S327)
+
+•	TOGA (RT10 - NRO/Penn State)
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+SHARPFOCUS-2 (S327)
+
+TOP SECRET//COMINT//REL
+
+Automated Analysis
+
+• SORTING LEAD (R62)
+
+-	Characterizes GSM behavior
+
+•	Based on location, time-of-day, callee, etc.
+
+•	Identifies
+
+-	When target has multiple phones
+
+-	When target has swapped phones
+
+-	When target deviates in behavior
+
+-	Correlate DNl persona to GSM handset
+
+•	Enable tactical operations, tracking of DNI targets
+
+•	Help with internet cafe geolocation problem
+
+TOP SECRET//COMINT//REL
+
+TOP SECRET//COMINT//REL
+
+DNI Correlation Example
+
+TOP SECRET//COMINT//REL
+
+Questions?
+
+TOP SECRET//COMINT//REL

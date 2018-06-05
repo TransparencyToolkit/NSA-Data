@@ -2,6 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 require 'htmlentities'
+require 'pry'
 
 # Get only new pdfs cp `git diff --name-only b9a1911 e81b5fb` new_dir
 
@@ -15,7 +16,7 @@ class FeedParser
     (1..80).each do |num|
       begin
         feed = Nokogiri::XML(open('https://edwardsnowden.com/feed?paged='+num.to_s))
-        feed.xpath('//item').each do |i| 
+        feed.xpath('//item').each do |i|
           item_parsed = parseItem(i)
           if item_parsed[:categories].include? "Revealed documents"
             @results.push(parseItem(i))
@@ -142,10 +143,23 @@ class FeedParser
       begin
         text += File.read("../text/"+p.gsub(".pdf", ".txt").gsub(".jpg", ".txt").gsub(".png", ".txt").gsub(".jpeg", ".txt").gsub(".gif", ".txt"))
       rescue
+        puts "OCRing doc in #{p}"
+        text = ocr_document(p)
       end
     end  
 
     return text
+  end
+
+  # OCR the document
+  def ocr_document(file)
+    sleep(1)
+    text = %x[abbyyocr11 -c -if ../docs/#{file} -f TextVersion10Defaults -tel -tet UTF8 -tcp Latin].gsub(/\xef\xbb\xbf/, "")
+    save_path = "../text/"+file.gsub("."+file.split(".")[1], ".txt")
+    text_trim = text.gsub('<p data-reactid=".ti.1.0.0.1.0.1.$0.0" class="SidTodayFilesDetailViewer-pages-page-paragraph">', "")
+    File.write(save_path, text_trim)
+    puts text_trim
+    return text_trim
   end
 
   # Get documents, both images and PDFs
@@ -165,7 +179,7 @@ class FeedParser
     temphash[:categories] = handleMultiple(i.xpath('category'))
     temphash[:document_topic] = extractFromCategories(temphash[:categories], "../extract-lists/document_topic.json")
     temphash[:agency] = getAgency(temphash[:categories])
-
+    
     # Get doc info iff it is a Snowden doc
     if temphash[:categories].include?("Revealed documents")
       temphash[:description] = getText(i.at('description')).gsub(" Download link", "")
@@ -173,6 +187,7 @@ class FeedParser
       temphash[:released_date] = getText(i.at('released_date'))
       temphash[:pdf] = getDocPaths(i)
       temphash[:pdf_paths] = downloadPDFs(temphash[:pdf])
+      
       temphash[:article_links] = getExternalLinks(i)
       temphash[:doc_text] =  HTMLEntities.new.decode(getDocText(temphash[:pdf_paths]))
       temphash[:plain_text] = temphash[:doc_text].gsub(/<\/?[^>]*>/, "")
@@ -183,5 +198,5 @@ class FeedParser
 end
 
 f = FeedParser.new
-puts f.pullItems
+File.write("feed_updated.json", f.pullItems)
 

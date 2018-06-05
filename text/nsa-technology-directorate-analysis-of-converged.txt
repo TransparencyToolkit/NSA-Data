@@ -1,0 +1,15 @@
+TECHNOLOGY
+
+DIRECTORATE
+
+Analysis of Converged Data
+
+Converged data leads to better analysis, which leads to more focused tasking
+
+Note: Our goals for high-level tasking are to relieve the user
+from needing to know / care about the details. For example, a
+user should be able to ask for "all details about application X"
+and not need to know how and where the application keeps
+files, registry entries, user application data, etc.
+
+1
